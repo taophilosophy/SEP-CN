@@ -1,0 +1,232 @@
+{
+ "key": "happiness",
+ "term": "Happiness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:16:10+00:00",
+ "status": "ok",
+ "note": "variant=Happiness; 审定公布名词库=8; 海峡两岸名词对照库=8; 其他来源数据库=4; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "高兴",
+   "en": "happy",
+   "source": "行为医学名词",
+   "wordNumber": "3.126",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "令人感到快乐、愉快而兴奋的情绪。"
+  },
+  {
+   "cn": "[奥尔森]婚姻质量问卷",
+   "en": "Enriching and Nurturing Relationship Issues,Communication and Happiness,ENRICH",
+   "source": "精神医学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国心理学家奥尔森(D. H. Olson)等1981年以“婚前预测问卷”为基础编制的评定婚姻质量的自评量表。共有124个条目，包括12个因子：过分理想化、婚姻满意度、性格相容性、夫妻交流、解决冲突的"
+  },
+  {
+   "cn": "抗性锻炼",
+   "en": "hardiness,hardening",
+   "source": "林学名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "在特定环境因子的诱导下，植物的抗逆遗传特性逐步表现出来的过程。"
+  },
+  {
+   "cn": "锻炼",
+   "en": "hardiness,hardening,acclimation",
+   "source": "植物学名词",
+   "wordNumber": "11.0664",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物对不利生存环境的逐步适应过程。如越冬植物经过秋季逐渐变冷的低温锻炼而使其耐冻性逐渐增强的过程。一般专指提高忍耐胁迫的能力。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance;hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0072",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0073",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物能适应寒冷环境（冬季低温）的特性。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0074",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物耐受或抵御低于其正常生活适温下限温度的能力。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "昆虫学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫耐受或抵御低于其正常生活适温下限的温度的能力。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness\",\"frost hardiness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance\",\"hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "锻炼",
+   "en": "hardiness\",\"hardening\",\"acclimation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness\",\"cold tolerance\",\"cold resistance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "至乐无乐",
+   "en": "Utmost Happiness Lies in Not Aware of the Happiness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀景写乐",
+   "en": "Depict Sorrowful Scenery to Express Happiness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "孔颜之乐",
+   "en": "The Happiness of Confucius and Yan Hui",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷",
+   "en": "handiness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幸福",
+   "en": "happiness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.107",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在物质生活和精神生活中，因期望、理想或目标的实现而使其获得精神满足，表现为称心如意而感到心情舒畅的精神状态。"
+  },
+  {
+   "cn": "国民幸福指数",
+   "en": "national happiness index",
+   "source": "社会医学名词",
+   "wordNumber": "9.15",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "国民幸福指数",
+   "publishYear": "2025",
+   "definition": "由社会健康指数、社会福利指数、社会文明指数、生态环境指数等四级指标体系构成，每一级指标体系中都由若干个指标构成,指数的计算采用加权平均法。衡量国民生活质量和幸福程度的综合性指标，对于转变发展观念具有重"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,712 @@
+{
+ "key": "apparent tension",
+ "term": "apparent tension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:15:11+00:00",
+ "status": "ok",
+ "note": "variant=apparent tension; 审定公布名词库=1608; 海峡两岸名词对照库=361; 其他来源数据库=38; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "视位置",
+   "en": "apparent place; apparent position",
+   "source": "天文学名词",
+   "wordNumber": "02.143",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "相对于地心处观测者的天体观测位置。"
+  },
+  {
+   "cn": "表观年龄",
+   "en": "apparent age",
+   "source": "地质学名词",
+   "wordNumber": "13.03.038",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "由单个岩石或矿物样品测定的同位素年龄。它既可能是岩石的结晶年龄，也可能是受地质热事件改造的同位素年龄。其确切地质含义有时难以判定。"
+  },
+  {
+   "cn": "视面积",
+   "en": "apparent area",
+   "source": "天文学名词",
+   "wordNumber": "09.041",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "太阳活动体在日面上的投影面积，以可见日面的百万分之一为度量单位。"
+  },
+  {
+   "cn": "视亮度",
+   "en": "apparent brightness",
+   "source": "天文学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "天体的电磁辐射对测量它的接收器的照度。"
+  },
+  {
+   "cn": "视星等",
+   "en": "apparent magnitude",
+   "source": "天文学名词",
+   "wordNumber": "01.073",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "观测者测得的天体的星等。"
+  },
+  {
+   "cn": "视地平",
+   "en": "apparent horizon",
+   "source": "天文学名词",
+   "wordNumber": "02.322",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "地面上观测者的视线与地球表面相切而投影在天球上所得的小圆。"
+  },
+  {
+   "cn": "视天平动",
+   "en": "apparent libration",
+   "source": "天文学名词",
+   "wordNumber": "03.156",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由于地面观测者在不同的时刻从稍有差异的方向看月球所引起的天平动。"
+  },
+  {
+   "cn": "视直径",
+   "en": "apparent diameter",
+   "source": "天文学名词",
+   "wordNumber": "04.258",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "天体直径对观测者的张角。"
+  },
+  {
+   "cn": "表观视界",
+   "en": "apparent horizon",
+   "source": "天文学名词",
+   "wordNumber": "07.625",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "弯曲时空中的一个边界，它是逃离某一空间区域光子的最外捕获面。"
+  },
+  {
+   "cn": "视双星",
+   "en": "apparent binary",
+   "source": "天文学名词",
+   "wordNumber": "08.325",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "视位置很靠近但没有物理联系的两颗恒星。"
+  },
+  {
+   "cn": "显性感染",
+   "en": "apparent infection",
+   "source": "兽医学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "病原微生物侵入动物机体后，动物明显表现出该病特有临床症状的感染。"
+  },
+  {
+   "cn": "似然竞争",
+   "en": "apparent competition ",
+   "source": "草学名词",
+   "wordNumber": "2.0267",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "视速度",
+   "en": "apparent velocity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0645",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "若以 T(单位为秒 )和Δ(单位为千米)分别表示某一地震震相到达地球表面各点的走时和震中距，则 dΔ/dT定义为视速度。为地震射线参量的倒数。 "
+  },
+  {
+   "cn": "视应力",
+   "en": "apparent stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1507",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "魏斯(M. Wyss)和布龙(J. Brune)于 1968年提出的虚构应力，为地震效率与平均绝对应力的乘积，即刚性系数和地震能量与地震矩之比的乘积。这个虚构的应力通过实际地震滑动所做的功称为辐射阻抗"
+  },
+  {
+   "cn": "视电阻率",
+   "en": "apparent resistivity",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0032",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "在地表观测的大地等效电阻率。 "
+  },
+  {
+   "cn": "似然竞争",
+   "en": "apparent competition",
+   "source": "动物学名词",
+   "wordNumber": "7.0426",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "两个物种在共享共同捕食者的情况下，两物种可能都不受资源短缺的限制而是通过共同捕食者而产生的相互妨碍作用。"
+  },
+  {
+   "cn": "松装密度",
+   "en": "apparent density",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.055",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "在规定条件下自由装填容器所测得的粉末密度。"
+  },
+  {
+   "cn": "表观硬度",
+   "en": "apparent hardness",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.187",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末冶金材料性能及其测试",
+   "subjectName": "粉末冶金材料性能及其测试",
+   "publishYear": "2021",
+   "definition": "在规定的条件下测得的烧结体(包括孔隙效应)的硬度。"
+  },
+  {
+   "cn": "表观辐射亮度",
+   "en": "apparent radiance",
+   "source": "光学名词",
+   "wordNumber": "01.141",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述地物辐射到达大气层顶处时的能量分布特性的一个物理量。以地物辐射到达大气层顶处的辐射强度表示。如地物在卫星传感器入瞳处的辐射强度。"
+  },
+  {
+   "cn": "表观反射率",
+   "en": "apparent reflectance",
+   "source": "光学名词",
+   "wordNumber": "01.456",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述大气层顶对太阳光反射能力强弱的物理量。以遥感器观测的地表上行辐射能量与遥感器平台处太阳下行辐射能量的比值表示。"
+  },
+  {
+   "cn": "视位置",
+   "en": "apparent position\",\"apparent place",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "视风",
+   "en": "apparent wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视似力",
+   "en": "apparent force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视速度",
+   "en": "apparent velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观孔隙率",
+   "en": "apparent porosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观级数",
+   "en": "apparent order",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观扩散系数",
+   "en": "apparent diffusivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观重力",
+   "en": "apparent gravity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观质量",
+   "en": "apparent mass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观密度",
+   "en": "apparent density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观应力",
+   "en": "apparent stress",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观组成",
+   "en": "apparent composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观活度",
+   "en": "apparent activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观溶解度",
+   "en": "apparent solubility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观黏度",
+   "en": "apparent viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观纯度",
+   "en": "apparent purity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观体积",
+   "en": "apparent volume",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表观重量",
+   "en": "apparent weight",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "松装密度",
+   "en": "apparent density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表观黏度",
+   "en": "apparent viscosity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "视风",
+   "en": "apparent wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网绳",
+   "en": "tension cord",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受伤",
+   "en": "injury\",\"lesion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假死",
+   "en": "apparent death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.007000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的循环、呼吸和脑的功能活动高度抑制，生命机能极度微弱，用一般临床检查方法（如听诊、触诊等）已不能检测出生命体征，此时如果能进行及时有效的抢救往往能够成功复苏的状态。其原因常见于机械性窒息、脑损伤、失"
+  },
+  {
+   "cn": "表观蔗糖",
+   "en": "apparent sucrose",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.24",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "被无机酸水解或酶催化后，能还原裴林试剂的含醛基或潜在醛基的蔗糖等有机物，是衡量蜂蜜酿制成熟度与蔗糖掺假与否的指标。"
+  },
+  {
+   "cn": "表观还原糖",
+   "en": "apparent reducing sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.22",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "能直接还原裴林试剂的含醛基或潜在醛基的糖类有机物。"
+  },
+  {
+   "cn": "经前期紧张综合征",
+   "en": "premenstrual tension syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "一种影响女性的常见的特发性综合征，特征是发生在月经周期黄体期的某些环境、代谢或行为因素，导致周期性的情绪、身体或行为症状，干扰个体生活方式。"
+  },
+  {
+   "cn": "假愈期",
+   "en": "latent phase，period of apparent well-being",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第二阶段。临床症状缓解或基本消失，但机体内部病理过程仍在继续发展。此阶段有无或长短是判断急性放射病严重程度的重要标志之一。"
+  },
+  {
+   "cn": "退休费",
+   "en": "pension expense",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.4",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "职工退休后，根据国家退休制度规定，以货币形式领取的生活费用。"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "肌腱",
+   "en": "tendon",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.20",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肌肉末端的结缔组织纤维索。肌肉借此附着于骨骼或其他结构。"
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  },
+  {
+   "cn": "家长学校",
+   "en": "parent school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "以学生家长为主要受教育对象，传授家庭教育知识和教育方法、交流家庭教育经验、提高家庭教育水平的组织。"
+  },
+  {
+   "cn": "家长教育",
+   "en": "parent education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "系统增进家长的知识和能力的教育活动。旨在促使家长能够真正担当并胜任养育子女、协调家庭关系、传承优良文化的角色。"
+  },
+  {
+   "cn": "亲系",
+   "en": "parent line",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0398",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "亲属间的血缘联系。从历史上看，亲系可分为三种：①男系亲和女系亲。封建宗法制度下，以男子为血统联络的亲属为男系亲，如男方的父母、伯、叔、姑、舅、姨等；以女子为血统联络的亲属为女系亲，如女方的父母、伯、叔"
+  },
+  {
+   "cn": "社会养老保险制度",
+   "en": "social pension insurance system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "国家和社会根据一定的法律和法规，为保证劳动者在达到国家规定的解除劳动义务的劳动年龄界限，或因为丧失劳动能力而退出劳动岗位后的基本生活需要而建立的一种社会保险制度。它是社会保障制度的重要组成部分。"
+  },
+  {
+   "cn": "单亲家庭",
+   "en": "single-parent family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.14",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由单身父亲或母亲与其未婚子女组成的家庭。包括离婚、分居、丧偶或未婚生育后子女仅与双亲一方共同生活的家庭。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.9",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "父母和子女在人生不同阶段所形成的各种联系的总称，有时也指父母和子女之间的沟通互动情况。"
+  },
+  {
+   "cn": "单亲儿童",
+   "en": "single-parent child",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "只有父亲或者母亲单独抚养的儿童。其中有的是因父母离异，有的是因为父母亲其中一方去世或者是未婚妇女的子女。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "父母与子女之间的关系。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0395",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭的基本关系之一，指父母子女关系。父母和子女是血缘最近的直系血亲，为家庭关系的重要组成部分。"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "按照法律规定实施，劳动者个人以劳动时间或货币贡献为计量单位进行参与，在做出一定贡献或达到一定资格后，依法享受应有待遇的制度体系。一般包括加入体系、做出贡献、计发待遇、享受待遇等几个基本程序。"
+  },
+  {
+   "cn": "家长陪餐制度",
+   "en": "parent meal accompanying system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "提供集体用餐的学校，根据学生家长自愿申请，安排家长与学生共同用餐的制度。陪餐家长可对当餐饭菜的外观、口味、质量进行评价监督。学校对陪餐家长在学校食品安全与营养健康等方面提出的意见建议及时进行研究反馈。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

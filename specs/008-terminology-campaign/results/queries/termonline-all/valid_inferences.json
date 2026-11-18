@@ -1,0 +1,802 @@
+{
+ "key": "valid inferences",
+ "term": "valid inferences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:11:07+00:00",
+ "status": "ok",
+ "note": "variant=valid inferences; 审定公布名词库=163; 海峡两岸名词对照库=108; 其他来源数据库=21; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.016",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "测量工具或手段能够准确测出所需测量事物的程度。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0368",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "2020",
+   "definition": "确定“危害分析与关键控制点（HACCP)”体系是否按照计划运转，或计划是否需要修改，以及再被确认生效使用的方法、程序、检测及审核手段。"
+  },
+  {
+   "cn": "真实性",
+   "en": "validity",
+   "source": "物理学名词",
+   "wordNumber": "01.0158",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "物理学名词",
+   "wordNumber": "01.0157",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0504",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "在开发过程期间或结束时对系统或部件进行评价，通过检查和提供客观证据，以确定它是否满足特定预期用途的需求的过程。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0823",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "通过提供客观证据对特定的预期用途或应用要求已得到满足的认定。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "一个测验能测出所要测量项目内容的特征或其功能的程度。以反映测验的有效性或准确性。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "心理学名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "测验在多大程度上测量了它要测量的东西。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "药学名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "测量指标或观测结果在多大程度上反映了事物的客观真实性。包括内部效度和外部效度。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "测量值与实际值相符合的程度。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.593",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "进行程序或系统测试的过程，以确保其符合相关的标准或规范。"
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.746",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "关于健全的、正确的，或效率的质量状况的一种相对程度的度量。"
+  },
+  {
+   "cn": "真实性检验",
+   "en": "validation",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0956",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋遥感",
+   "subjectName": "海洋遥感",
+   "publishYear": "2007",
+   "definition": "通过现场观测来检验遥感数据、遥感产品和遥感算法的真实性的技术。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "生态学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "主要指模型的输出和观察值是否相符。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.046",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合格发表",
+   "en": "valid publication",
+   "source": "植物学名词",
+   "wordNumber": "02.0137",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据《国际藻类、真菌和植物命名法规》所列合格规则要求进行植物科学名称的发表。"
+  },
+  {
+   "cn": "有效时间",
+   "en": "valid time",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0287",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一个事件从发生到结束的那段时间。"
+  },
+  {
+   "cn": "合格发表",
+   "en": "valid publication",
+   "source": "微生物学名词",
+   "wordNumber": "02.083",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "(1)真菌名称的合格发表应满足《国际藻类、真菌和植物命名法规》要求，发表时要满足有效发表，名称按分类等级顺序排列，伴有特征描述或附有先前已发表过的特征描述的参考文献等要求。(2) 细菌和古菌名称的合格"
+  },
+  {
+   "cn": "有效时间",
+   "en": "valid time",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.615",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "现实世界中一个对象或事件发生的时间。"
+  },
+  {
+   "cn": "有效名",
+   "en": "valid name",
+   "source": "昆虫学名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "在《国际动物命名法规》规定下的惟一正确名称。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确定性",
+   "en": "validity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区分效度",
+   "en": "discriminant validity\",\"differential validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合格发表",
+   "en": "valid publication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正确排除",
+   "en": "valid exclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正确肯定",
+   "en": "valid positive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正确录取",
+   "en": "valid inclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有效请求",
+   "en": "valid request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效时间",
+   "en": "valid time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效输入",
+   "en": "valid input",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效项",
+   "en": "valid item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效信元",
+   "en": "valid cell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效状态",
+   "en": "valid state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确立学名，有效[学]名",
+   "en": "valid name",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有效名",
+   "en": "valid name",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "预报时效",
+   "en": "period validity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线索效度",
+   "en": "cue validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效力法定",
+   "en": "statutory validity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效",
+   "en": "muko\",\"not valid",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效得分",
+   "en": "point\",\"valid point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start\",\"valid start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效刺中",
+   "en": "invalid hit\",\"non-valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效部位",
+   "en": "invalid target\",\"non-valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效刺中",
+   "en": "invalid hit\",\"non-valid hit\",\"off-target hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暂时停止外国人持目前有效来华签证和居留许可证入境",
+   "en": "to temporarily suspend the entry into China of foreign nationals holding valid visas or residence permits",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.74",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "某个量度能够度量它所要度量的内容的程度。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "获得证据，证明危害分析与关键控制点（HACCP）的各要素是有效的过程。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "测量结果与试图要达到的目标之间的接近程度。用以判断调查量表及测量结果的有效性或准确性。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用所设计量表与作为标准（即准则）的量表对同一人群进行调查，通过评价量表测量结果与标准量表测量之间的接近程度，来判断量表测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "产品确认",
+   "en": "product validation",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "对于抽检的消毒产品，组织抽检的卫生行政部门对产品的生产企业、经销商等产品来源信息进行核实的过程。"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用某个量度对理论概念或特质的测量程度来衡量其效度的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用几种不同的测量方式或不同指标对同一变量进行测量时，将其中的一种方式或指标作为准则，并通过其他的方式或指标与之作比较而测量效度的方法。"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“分歧效度”。基于多重指标所测量的概念或特质的不相关关系，通过计算指标之间的不相关关系而测量其效度的方法。"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以判断研究发现能否推论到更广泛的总体的量度。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "外行人从表面上判断的指标是否真的测量到所欲测量的概念的程度。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "预测效度",
+   "en": "predictive validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一个指标能预测在逻辑上与概念相关的事件的量度。"
+  },
+  {
+   "cn": "生态效度",
+   "en": "ecological validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估在特定环境下（实验室环境）使用的测量工具能否刻画其他环境条件（日常环境或自然环境）下个体的认知过程的量度。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "根据量表实际测量结果与所要测量的理论结构的一致性，即测量结果是否符合假设的理论来评价量表有效性。是采用统计方法对收集数据客观评价测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "从表面上直观判断量表的条目是否都是与研究者想要测量的问题有关。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "方法确认",
+   "en": "method validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.37",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "实验室通过试验，提供客观有效证据证明特定检测方法满足预期用途的过程。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "实验室间方法确认",
+   "en": "interlaboratory method validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在两个或多个实验室之间实施的方法确认。实验室依照预定条件用相同方法对相同样品的测定，以证明特定检测方法满足预期的用途。"
+  },
+  {
+   "cn": "保质期",
+   "en": "term of validity",
+   "source": "消毒学",
+   "wordNumber": "5.2.10",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品标准和标签规定的条件下，保持消毒产品品质的期限。在此期限内，消毒产品应符合产品标准和标签中所规定的品质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,482 @@
+{
+ "key": "religious utterances",
+ "term": "religious utterances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:14:23+00:00",
+ "status": "ok",
+ "note": "variant=religious utterances; 审定公布名词库=31; 海峡两岸名词对照库=5; 其他来源数据库=11; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.012",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随着基督教会组织体系的建立而产生的档案管理机构。教会档案馆起源于4世纪中叶，负责保存教皇的命令、信件和账目，以及与教皇特权和恩赐有关的文件，从13世纪起其发展成为一种馆藏国际化的档案管理机构。"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有关宗教及宗教内容的公开发行的或宗教团体内部性资料的出版物的统称。"
+  },
+  {
+   "cn": "宗教控制",
+   "en": "religious control",
+   "source": "行为医学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "以教规和宗教仪式作为社会控制手段，通过教育和惩罚两种方式约束其信徒的行为。"
+  },
+  {
+   "cn": "宗教地图",
+   "en": "religious map",
+   "source": "测绘学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映宗教种类、分布及文化特点的地图。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious architecture",
+   "source": "建筑学名词",
+   "wordNumber": "02.1130",
+   "subjectFullName": "建筑学_建筑类型及组成_农业建筑",
+   "subjectName": "农业建筑",
+   "publishYear": "2014",
+   "definition": "供安置神祇、进行宗教活动及教徒修行、居住的场所。在建筑文化史上是一种重要的建筑类型。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "教育学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）在一些国家学校中开设的宗教知识教育，旨在帮助学生发展认同感和归属感，同时理解、尊重不同宗教信仰，促进不同宗教之间的和谐相处。（2）宗教院校开展的以培养宗教人才为目的的教育。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.1201",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪，从德国开始漫延欧洲诸国的反对罗马天主教会的社会运动，提出以信仰得救为核心和建立廉俭教会的系统理论。"
+  },
+  {
+   "cn": "宗教骑士团",
+   "en": "Religious Chivalry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "第一次十字军东侵之后，西欧天主教会与封建主为保卫其在东方侵占的领地而组织的宗教性封建军事团体。"
+  },
+  {
+   "cn": "宗教活动",
+   "en": "religious activities",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.193",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "宗教信徒举行的各种宗教与法事活动。"
+  },
+  {
+   "cn": "教师语言",
+   "en": "teacher utterance",
+   "source": "教育学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在进行教育教学活动时所运用的语言。"
+  },
+  {
+   "cn": "韵律语句",
+   "en": "prosodic utterance",
+   "source": "语言学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "在韵律层级的某些分析中，指任何具有音系学意义的最大辖域。"
+  },
+  {
+   "cn": "胡斯宗教改革",
+   "en": "Hussite Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.0900",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "15世纪初，在捷克人民反对教会的过程中，以胡斯为首的宗教改革家批判天主教会而主张实行的宗教改革。"
+  },
+  {
+   "cn": "奥格斯堡宗教和约",
+   "en": "Religious Peace of Augsburg",
+   "source": "世界历史名词",
+   "wordNumber": "02.0635",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "1555年，神圣罗马帝国皇帝查理五世(1519-1556年在位)同德意志新教诸侯在奥格斯堡缔结的和约。"
+  },
+  {
+   "cn": "总摄所",
+   "en": "zong she suo;local religious office",
+   "source": "中国古代史名词",
+   "wordNumber": "7.144",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "元代管理地方佛教、道教事务的机构。地位在总统所、道教所之下。"
+  },
+  {
+   "cn": "受戒",
+   "en": "shou jie;initiation into Buddhist religious life",
+   "source": "中国古代史名词",
+   "wordNumber": "1.517",
+   "subjectFullName": "中国古代史_通论_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "佛教徒按仪规接受戒律。包括在家皈依修行的男女居士（优婆塞、优婆夷）所受五戒及八关斋戒，出家修行的年青沙弥和沙弥尼应受持的十戒，正式成为僧（比丘）、尼（比丘尼）应受持的八类数百条俱足戒等。"
+  },
+  {
+   "cn": "谵妄性躁狂",
+   "en": "delirious mania",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.196",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "希腊化宗教",
+   "en": "Hellenistic Religion",
+   "source": "世界历史名词",
+   "wordNumber": "02.0377",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "从亚历山大帝国的亚历山大时代(公元前356-前323)到信仰基督教的罗马皇帝君士坦丁一世(公元337年卒)时代，地中海东部地区各民族的多种信仰和习俗体系。"
+  },
+  {
+   "cn": "埃及宗教",
+   "en": "Egyptian Religion",
+   "source": "世界历史名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "世界历史_古代中世纪_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "新石器时代晚期至公元最初几个世纪古代埃及人信仰的一种多神崇拜的宗教。"
+  },
+  {
+   "cn": "教会文学",
+   "en": "Religion Literature",
+   "source": "世界历史名词",
+   "wordNumber": "02.1187",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪欧洲盛行的正统文学，取材于《圣经》，主要赞美上帝的权威和歌颂圣徒的德行，宣扬禁欲主义和来世主义思想。"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "话语分析",
+   "en": "utterance analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宗教心理学",
+   "en": "religion psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "天启教",
+   "en": "revealed religion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宗教地理学",
+   "en": "geography of religion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "赤子之心",
+   "en": "Utter Innocence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "各个宗教及其派别所实践的、具有特定含义、规则和功能等的典礼或仪轨。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "宗教激动",
+   "en": "religious thrill",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.24",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "由某一信仰或崇拜导致强烈的生理、心理的体验。"
+  },
+  {
+   "cn": "宗教共同体",
+   "en": "religious community",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "从宗教的共同行动、团体生活中产生关联纽带，将个体团结在群体之中，由此所形成的具有凝聚力的团结的共同体。"
+  },
+  {
+   "cn": "宗教组织",
+   "en": "religious organization",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以特定信仰或宗教形式为基础形成的各种组织形式的总称。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "宗教膜拜",
+   "en": "religious cult",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以某一或某些特定的上帝或神灵、甚至圣人或具有通灵能力的个人为对象的宗教信仰与实践，往往与社会的某些宗教制度有关，但表现形式较为新奇或特异。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "宗教教派",
+   "en": "religious denominations",
+   "source": "马克思主义",
+   "wordNumber": "04.0027",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "宗教社会学用语。从一种较大的宗教团体中分裂出来的小团体。自认为其信仰是唯一真正的信仰，并负有恢复宗教真面貌的使命。在教派中，一般有较强烈的共同情感与宗教上的自我认同感。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "马克思主义",
+   "wordNumber": "04.0028",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的宗教教育指一切与宗教有关的教育制度和活动；狭义的宗教教育指直接由宗教组织承办、以培养宗教神职人员为目的、以宗教神学知识为内容的教育制度。"
+  },
+  {
+   "cn": "宗教人类学",
+   "en": "religious anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0298",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一门研究宗教现象的文化人类学（民族学）分支学科，关注宗教信仰、仪式、神话、宗教实践等方面的社会文化现象，并试图理解它们对个体和社会的影响。"
+  },
+  {
+   "cn": "宗教庆典",
+   "en": "religious celebrations",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0236",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旨在礼赞神，是古老宗教文化传统的一部分，几乎出现于所有宗教信仰体系之中。它包括传统的礼仪、礼制、习俗和宗教仪式，以及每年举行的大型活动，如斋戒、宗教节、礼拜等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

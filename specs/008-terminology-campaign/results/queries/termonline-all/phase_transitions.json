@@ -1,0 +1,772 @@
+{
+ "key": "phase transitions",
+ "term": "phase transitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:03:55+00:00",
+ "status": "ok",
+ "note": "variant=phase transitions; 审定公布名词库=2612; 海峡两岸名词对照库=932; 其他来源数据库=33; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0037",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "脂质双分子层在不同温度下在液相和固相之间转换的现象。"
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "自然辩证法_总论_自然图景",
+   "subjectName": "自然图景",
+   "publishYear": "2024",
+   "definition": "物质系统中物理、化学性质完全相同并与其他部分具有明显分界面的均匀部分称为相。相变是指物质从一种相转变为另一种相的过程。物质有固、液、气三态，与此对应有固相、液相、气相，如水变成冰就是液相转变成固相。"
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0849",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "在物质体系中，一种物质在一定温度和压力条件下从一种形态、结构和状态转变为另一种形态、结构和状态。 "
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "物理学名词",
+   "wordNumber": "01.0090",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "物理学名词",
+   "wordNumber": "05.0331",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "生物物理学名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "生物物理学_膜与细胞生物物理学_生物膜组成、性质和动态",
+   "subjectName": "生物膜组成、性质和动态",
+   "publishYear": "2018",
+   "definition": "膜上脂质分子在不同二维堆积状态之间转变的过程。典型的有磷脂分子从凝胶相向液晶相转变，反之亦然。主要的影响因素包括脂质组成(极性头部的种类、脂肪酰链的长短与不饱和程度)、环境温度、介质中离子、水合程度等"
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "计量学名词",
+   "wordNumber": "09.017",
+   "subjectFullName": "计量学_温度_温度和温标",
+   "subjectName": "温度和温标",
+   "publishYear": "2015",
+   "definition": "一种相转换为另一种相的过程。对于单元系，体积发生变化，并伴有相变潜热的相变称 为 “ 一 级 相 变 (first-order phase transition)”，如固体熔化为液体，液体汽化为气体，"
+  },
+  {
+   "cn": "过渡相",
+   "en": "transition phase",
+   "source": "冶金学名词",
+   "wordNumber": "07.0143",
+   "subjectFullName": "冶金学_金属学_合金相及扩散",
+   "subjectName": "合金相及扩散",
+   "publishYear": "2019",
+   "definition": "稳定相和不稳定相之间的相。"
+  },
+  {
+   "cn": "过渡段",
+   "en": "transition phase",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.336",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase change,phase transition",
+   "source": "化学名词",
+   "wordNumber": "04.0139",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "物质从一种聚集态转变为另一种聚集态。"
+  },
+  {
+   "cn": "相变",
+   "en": "phase transformation,phase transition",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0350",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "在外界约束条件(温度或压强)变化至某些特定条件下，系统中相的数目或相的性质发生的突变。"
+  },
+  {
+   "cn": "相变温度",
+   "en": "phase transition temperature",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0038",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "膜脂发生相态转变的温度。低于相变温度，脂质双分子层呈凝胶相，反之则呈液相。"
+  },
+  {
+   "cn": "宇宙学相变",
+   "en": "cosmological phase transition",
+   "source": "天文学名词",
+   "wordNumber": "07.560",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在宇宙演化(特别是早期)中系统物性发生的变化。"
+  },
+  {
+   "cn": "相变面",
+   "en": "phase transition surface",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0850",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "发生相变的平面或曲面。 "
+  },
+  {
+   "cn": "相变点",
+   "en": "phase transition temperature",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0370",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品热力学特性",
+   "subjectName": "食品热力学特性",
+   "publishYear": "2020",
+   "definition": "物质在加热或冷却过程中，发生相变的临界温度。"
+  },
+  {
+   "cn": "拓扑[性]相变",
+   "en": "topological phase transition",
+   "source": "物理学名词",
+   "wordNumber": "05.1069",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "结构相变",
+   "en": "structural phase transition",
+   "source": "物理学名词",
+   "wordNumber": "05.1003",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "派尔斯相变",
+   "en": "Peierls phase transition",
+   "source": "物理学名词",
+   "wordNumber": "08.2869",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁相变",
+   "en": "magnetic phase transition",
+   "source": "物理学名词",
+   "wordNumber": "08.1956",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非平衡相变",
+   "en": "nonequilibrium phase transition",
+   "source": "物理学名词",
+   "wordNumber": "05.1070",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase transition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase transformation\",\"phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase change\",\"phase transition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相变温度",
+   "en": "phase transition temperature",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一级相变",
+   "en": "first order phase transition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高级相变",
+   "en": "high order phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "形变诱导相变",
+   "en": "deformation induced phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "二级相变",
+   "en": "second order phase transition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相变焓[热]",
+   "en": "phase transition enthalpy [heat]",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一级相变",
+   "en": "first order phase transition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不连续相变",
+   "en": "discontinuous phase transformation\",\"discontinuous phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "结构相变",
+   "en": "structural phase transformation\",\"structural phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "位移型相变",
+   "en": "displacive phase transformation\",\"displacive phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "重构型相变",
+   "en": "reconstructive phase transformation\",\"reconstructive phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁相变",
+   "en": "ferromagnetic phase transformation\",\"ferromagnetic phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热弹性相变",
+   "en": "thermoelastic phase transformation\",\"thermoelastic phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁弹相变",
+   "en": "ferroelastic phase transformation\",\"ferroelastic phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "相变潜热",
+   "en": "latent heat of phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轮",
+   "en": "phase\",\"round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾空阶段",
+   "en": "flight phase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支撑阶段",
+   "en": "support phase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滞空阶段",
+   "en": "flying phase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B 阶段",
+   "en": "phase B",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "C 阶段",
+   "en": "phase C",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "A 阶段",
+   "en": "phase A",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "D 阶段",
+   "en": "phase D",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进入转换区",
+   "en": "check-in to the transition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶段性、有针对性的减税降费政策",
+   "en": "phased and targeted tax and fee breaks",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "人口转变",
+   "en": "demographic transition",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口出生率与死亡率从高至低的历史过程。死亡率的下降往往先于生育率，因此在人口转变期间，人口往往会快速增长。"
+  },
+  {
+   "cn": "和平过渡",
+   "en": "peaceful transition",
+   "source": "马克思主义",
+   "wordNumber": "03.0250",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在特定历史条件下，通过不流血的和平方式，把政权从反动统治阶级手中夺过来，实现资本主义向社会主义的过渡。暴力革命是无产阶级夺取政权的一般规律。但是，并不排斥非暴力的和平手段。在当代，我们不反对西"
+  },
+  {
+   "cn": "过渡时期",
+   "en": "transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0255",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从无产阶级取得政权到进入共产主义社会低级阶段之前的这一特殊历史阶段。1875年马克思在《哥达纲领批判》中第一次提出过渡时期这一著名论断。他指出: “在资本主义社会和共产主义社会之间,有一个从前者变为后"
+  },
+  {
+   "cn": "过渡仪式",
+   "en": "transition ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0532",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国民族学家和民俗学家范·盖内普（Arnold Van Gennep）在《过渡礼仪》一书中提出的观点，即个人或群体在不同阶段的转换中所采取的仪式过程。过渡礼仪的完整模式在理论上包括分隔礼仪、聚合礼仪和"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase，main phase",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第三阶段。病情发展最严重的时期，各种临床症状和体征充分表现，是救治的关键时刻。"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.37",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "处于高能态的同质异能素退激发时所发生的γ跃迁现象。"
+  },
+  {
+   "cn": "市场转型理论",
+   "en": "market transition theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.24",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由美国社会学家倪志伟(Victor Nee）等人针对20世纪80年代以来俄罗斯、东欧等前社会主义国家以及中国的社会分层变迁提出的一种理论。主要观点是：市场化转型导致这些社会的分层机制发生根本改变，即原"
+  },
+  {
+   "cn": "市场转型研究",
+   "en": "market transition study",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.34",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "关注社会主义国家从国家再分配计划经济转向以市场为导向的经济过程中所发生的社会结构变迁和利益格局再调整，以及该过程对社会主义国家的分层结构的影响的研究。"
+  },
+  {
+   "cn": "初期反应期",
+   "en": "prodromal phase",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第一阶段。受照后数小时至1天～2天开始，可持续一至数日。主要表现为神经系统和胃肠功能改变，尤其是自主神经功能紊乱。初期反应出现的时间和严重程度在一定程度上有助于判断病情和估计预后。"
+  },
+  {
+   "cn": "恢复期",
+   "en": "recovery phase",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第四阶段。病情开始好转到完全康复的一段时间。"
+  },
+  {
+   "cn": "应急阶段",
+   "en": "emergency phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现有必要作出应急响应的情况直至完成预期的或对紧急情况头几个月内预期的放射学状况作出响应所采取的所有行动的这段时间。"
+  },
+  {
+   "cn": "准备阶段",
+   "en": "preparedness phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "核或辐射应急之前制定有效应急响应安排的阶段或时期。"
+  },
+  {
+   "cn": "初始阶段",
+   "en": "initial phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现情况、有必要立即采取行动到有效地完成这些行动的这段时间。这些行动包括运营者采取的缓解行动和现场内外的紧急防护行动。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病各种临床表现明显出现并达到顶峰的阶段。治疗不力者多死亡于此期，主要死亡原因是造血功能衰竭引起的感染和出血。在此期，急性放射病的典型症状均可出现，如患者全身状况变差、严重的出血和感染，等。"
+  },
+  {
+   "cn": "衰亡期",
+   "en": "decline phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.98",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "稳定期后，微生物细胞活力衰退，死亡率逐渐增加，以致死亡数大大超过新生数，群体中活菌数目急剧下降，出现负增长的时期。"
+  },
+  {
+   "cn": "假愈期",
+   "en": "latent phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.2",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病的第二阶段。此期患者除稍感疲乏外，其他初期反应期的症状均明显减轻或基本消失，但造血损伤仍在发展，病理变化还在进行。"
+  },
+  {
+   "cn": "对数生长期",
+   "en": "logarithmic phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.96",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物细胞经过延迟期的调整后，细胞数以几何级数增加的一段时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

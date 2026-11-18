@@ -1,0 +1,772 @@
+{
+ "key": "gender inequality",
+ "term": "gender inequality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:03:37+00:00",
+ "status": "ok",
+ "note": "variant=gender inequality; 审定公布名词库=1576; 海峡两岸名词对照库=508; 其他来源数据库=155; 预公布名词数据库=83; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "不等式",
+   "en": "inequality",
+   "source": "数学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等方程",
+   "en": "inequation",
+   "source": "数学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.003",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "男女两性存在的多种特征性差异。是生物学上对人类两性的区分。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.03",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "与“性”(sex,又译作生理性别)是一组对照词。女权主义理论家对西蒙波娃“女人不是天生的而是生成的”著名观点的理论回应，用来指称社会文化中形成的对男女差异的解释。20世纪70年代以来，女权主义理论用性"
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "行为医学名词",
+   "wordNumber": "3.094",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "雌雄异体多细胞生物的生殖类型。人类指男女两性的区别。"
+  },
+  {
+   "cn": "性",
+   "en": "gender",
+   "source": "语言学名词",
+   "wordNumber": "04.238",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "一种语法范畴。用词形变化来表现诸如阳性、阴性、中性，或有生命、无生命这类对比。作为语法范畴的性与真实世界的自然性别无关。例如，无生命物体没有性别之分，可是在俄语里，“桌子”属于阳性名词，“书”属于阴性"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "地理学名词",
+   "wordNumber": "24.045",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人的性别被从自然属性转变为文化属性，而成为社会角色。"
+  },
+  {
+   "cn": "不等式约束条件",
+   "en": "inequality constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题需要满足的不等式形式的约束条件。"
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "天文学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳引力作用而产生的周期为一个朔望月的小摄动项。"
+  },
+  {
+   "cn": "信息不平等",
+   "en": "information inequality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "不同国家、阶级、地域、种族、性别等背景的人获取与使用信息资源的机会和能力存在差异的现象。在数字化时代突出表现为“数字鸿沟”的形成。"
+  },
+  {
+   "cn": "施瓦茨不等式",
+   "en": "Schwarz inequality",
+   "source": "物理学名词",
+   "wordNumber": "01.0455",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔不等式",
+   "en": "Bell inequality",
+   "source": "物理学名词",
+   "wordNumber": "06.0769",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0063",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "热力学第二定律的另一种表达形式，可以表述为：过程的熵变大于或等于热温商。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "物理学名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统在相同的始、终态间经历可逆变化与不可逆变化时存在下述关系：<img src='/root/syzx/static/spz/huaxue2.04.0206.1.png'/>，式中dS、δQ分别为系统"
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天文潮潮差变化逐日不等的现象。其周期为27.3216天。"
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "地理学名词",
+   "wordNumber": "24.019",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人、资源、生活品的不均衡空间分布或空间关系。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学工程名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束",
+   "en": "inequality constraint",
+   "source": "化学工程名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "熵不等式",
+   "en": "entropy inequality",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均差",
+   "en": "inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "性别一致性",
+   "en": "gender consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别发展",
+   "en": "gender development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别类型化，性别特征形成",
+   "en": "gender typing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别刻板印象",
+   "en": "gender stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别恒常性",
+   "en": "gender constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别稳定性",
+   "en": "gender stability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别心理学",
+   "en": "gender psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别地理学",
+   "en": "gender geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "月行差",
+   "en": "lunar inequality\",\"evection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中后卫",
+   "en": "center\",\"center back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先艇",
+   "en": "leader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回到中心区!",
+   "en": "Center!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "京格尔",
+   "en": "Gienger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑运动员",
+   "en": "fencer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先者",
+   "en": "leader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先者",
+   "en": "leader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "两性在社会文化的建构下形成的性别特征和差异, 即社会文化形成的对男女差异的理解, 以及在社会文化中形成的属于男性或女性的群体特征和行为方式。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0218",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类社会在人的生理差异基础上建构出的两性文化差异。"
+  },
+  {
+   "cn": "社会性别化",
+   "en": "gendered",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "从社会性别视角出发，社会性别的建构无处不在，无论是社会结构、制度安排、文化规范还是个人身份认同、行为规范等，均具有社会性别意义。在男权社会和文化中，这一过程具有男性中心主导的倾向。"
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "社会不平等",
+   "en": "social inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会不同群体之间或同一群体内部不同个体之间存在资源或机会的不平等分配。这种不平等主要表现为两大类：机会不平等（获取资源的机会不平等）和结果不平等（实际拥有的资源不平等）。"
+  },
+  {
+   "cn": "收入不平等",
+   "en": "income inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会中人们之间的收入水平差异。通常有两种方式测量收入不平等程度：一种是基尼系数（基于收入获得者百分比与收入百分比之间的回归线来计算），另一种是高低收入组之比（如收入最高的10％的人口的平均收入与收"
+  },
+  {
+   "cn": "健康不平等",
+   "en": "health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "各类经济特征人群之间健康水平的差异。"
+  },
+  {
+   "cn": "健康不公平",
+   "en": "health inequity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "人们获得良好健康状态的机会、条件的差异。"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会医学名词",
+   "wordNumber": "3.12",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0219",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对男性、女性及具有其他社会性别属性认同者持有某些固定的成见。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "基于对性别的偏狭理解所导致的关于不同性别及其关系的不公正看法，通常与性别文化中形成的关于不同性别的刻板印象有关。"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "社会制度和文化规范中有关男女两性的不同分工和责任安排。比如多数社会中男性更多扮演公共的、养家糊口的角色，而女性更多扮演私人的、相夫教子的角色，由此决定了两性之间在家庭和社会中的不同地位。这种的角色分工"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "性别意识形态",
+   "en": "gender ideology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "大众文化中已上升为主流、占据主导地位的关于性别的认知和观念。包括性别规范中关于性别角色分工和价值地位的设定等，是推进性别平等或导致性别不平等的重要社会—文化因素。"
+  },
+  {
+   "cn": "性别关系",
+   "en": "gender relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别在社会中的互动性、互动形态及特质等。受性别观念、制度和文化等多重因素影响。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

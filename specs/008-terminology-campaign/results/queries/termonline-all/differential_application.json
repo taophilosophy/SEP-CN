@@ -1,0 +1,732 @@
+{
+ "key": "differential application",
+ "term": "differential application",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:09:12+00:00",
+ "status": "ok",
+ "note": "variant=differential application; 审定公布名词库=1266; 海峡两岸名词对照库=472; 其他来源数据库=104; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "电力名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "由一个或多个组件构成的,在给定的领域内实现某种业务功能的软件。重要的是所实现的功能,而不是软件的打包。如文字处理器,它的功能非常容易理解,但实际安装的组件会随供应商的不同而不同。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0078",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "泛指企业信息系统的开发与应用，常见于詹姆斯·马丁（James Martin）的著作中。"
+  },
+  {
+   "cn": "敷贴",
+   "en": "application",
+   "source": "药学名词",
+   "wordNumber": "08.024",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "将软膏摊涂于纱布上，贴敷于皮损面，或将软膏厚敷于皮损面，外加纱布固定的给药方法。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.161",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "一种技术、系统或产品的使用。"
+  },
+  {
+   "cn": "敷贴器",
+   "en": "applicator",
+   "source": "核医学名词",
+   "wordNumber": "05.0106",
+   "subjectFullName": "核医学_核医学治疗_放射性核素敷贴治疗",
+   "subjectName": "放射性核素敷贴治疗",
+   "publishYear": "2018",
+   "definition": "将一定剂量的放射性核素均匀吸附在滤纸或银箔上制成的敷贴治疗装置。临床常用磷-32和锶-90敷贴器。前者多为临时自制，具有适应病患形态、大小的灵活性；后者已有固定规格的商品供应。"
+  },
+  {
+   "cn": "申请者",
+   "en": "applicant",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "向监管部门申请批准其从事某一辐射照射实践或监测、评价、健康监护等活动并承诺对该活动负责的单位或个人。"
+  },
+  {
+   "cn": "应用到应用集成",
+   "en": "application to application，AtA",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "把基于不同平台开发的、功能不同的应用软件、硬件和标准联合起来，集成到一个无缝的、并列的平台上，以方便操作者访问和进行业务处理，实现各应用系统间的信息共享的方法。"
+  },
+  {
+   "cn": "差速器",
+   "en": "differential",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "14.0052",
+   "subjectFullName": "机械工程_工程机械_土方机械_一般名词_驱动桥",
+   "subjectName": "驱动桥",
+   "publishYear": "2013",
+   "definition": "能使同一驱动桥的左右车轮在转弯或不平道路上行驶时，以不同角速度旋转，并传递扭矩的机构。"
+  },
+  {
+   "cn": "差速器",
+   "en": "differential",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "10.046",
+   "subjectFullName": "机械工程_拖拉机_传动系_传动箱",
+   "subjectName": "传动箱",
+   "publishYear": "2013",
+   "definition": "能使左、右半轴以差速传递转矩的机构。"
+  },
+  {
+   "cn": "差速器",
+   "en": "differential",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.165",
+   "subjectFullName": "机械工程_汽车_底盘_主减速器与差速器",
+   "subjectName": "主减速器与差速器",
+   "publishYear": "2013",
+   "definition": "能使同一驱动桥的左右车轮在转弯或不平道路上行驶时，以不同角速度旋转，并传递转矩的机构。"
+  },
+  {
+   "cn": "微分",
+   "en": "differential",
+   "source": "数学名词",
+   "wordNumber": "05.0083",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可微的",
+   "en": "differentiable",
+   "source": "数学名词",
+   "wordNumber": "05.0084",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0269",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "供组织培养的植物细胞或组织，形成不同的结构，引起其功能和潜在发育方式发生改变，获得并保持该特征而演变为成熟细胞、组织和器官的过程。"
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "兽医学名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "细胞通过基因的激活或抑制而发育为特定细胞类型的过程。"
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation ",
+   "source": "草学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "6.004",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤病理学",
+   "subjectName": "妇科肿瘤病理学",
+   "publishYear": "2022",
+   "definition": "肿瘤实质细胞和组织结构与其来源的细胞和组织在形态与功能上的相似程度。相似程度高者分化好，反之亦然。"
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "细胞和组织发育出特征性结构和功能的过程。可获得并保持特化特征，合成特异性的蛋白质。"
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "动物学名词",
+   "wordNumber": "4.052",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "细胞和组织间在形态结构和生理功能上发生稳定而明显的差异的过程。"
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "病理学名词",
+   "wordNumber": "01.199",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "（1）发育学中是指幼稚或原始的细胞发育成为成熟特化细胞的过程。（2）肿瘤学中是指肿瘤实质细胞和组织结构与其发源的细胞和组织在形态与功能上的相似程度。相似程度高者为分化好，反之亦然。"
+  },
+  {
+   "cn": "分化性",
+   "en": "differentiation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.133",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "脑可以在极短的时间里体验到极大数量的不同意识状态中的任何一个场景的性质。呈现某一特定意识状态意味着在所有可能的意识状态的清单中以极快的速度选中其中之一。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敷贴",
+   "en": "application",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应用性",
+   "en": "applicability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "differential",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微分器",
+   "en": "differentiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微分器",
+   "en": "differentiator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "点样",
+   "en": "sample application",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贷款申请书",
+   "en": "loan application",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "申请单",
+   "en": "application form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专利申请书",
+   "en": "patent application",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "万维网应用",
+   "en": "web application",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序；应用软件",
+   "en": "Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去中心化应用",
+   "en": "Decentralized Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能应用",
+   "en": "Smart Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务器",
+   "en": "application server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用架构",
+   "en": "application architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景应用",
+   "en": "Scenario Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技应用",
+   "en": "Fintech Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网应用",
+   "en": "IoT application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用标准",
+   "en": "Application Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗议申请",
+   "en": "protest application",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知行",
+   "en": "Knowledge and Application",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒应用",
+   "en": "disinfection application",
+   "source": "消毒学",
+   "wordNumber": "4",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "消毒措施在医疗卫生、生产生活等过程中的使用。"
+  },
+  {
+   "cn": "放射性核素敷贴器",
+   "en": "radionuclide applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.24",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将一定活度的放射性核素，制成具有不同形状和面积的面状源，作为敷贴治疗用的放射源。"
+  },
+  {
+   "cn": "施源器",
+   "en": "source applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，预先放入人体腔、管道或组织间，供放射源驻留或运动，并实施治疗的特殊容器。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "放射性核素敷贴治疗",
+   "en": "radionuclide application therapy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.23",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "选择适当的放射性核素面状源作为敷贴器覆盖在患者病变部位的表面，照射一定时间，达到治疗目的的放射治疗方法。"
+  },
+  {
+   "cn": "民俗应用资源",
+   "en": "folklore application resources",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0466",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "某种民俗作为文化资源，在景物、食品、工艺、信仰等方面的应用价值和继续认识、不断开发的巨大潜能。"
+  },
+  {
+   "cn": "试验性使用效果",
+   "en": "experimental application effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.15",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂在试验性应用中的有效性，一般通过比较使用添加剂和未使用添加剂的食品之间特定感官和（或）理化指标的差异来获知"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "性别分化",
+   "en": "differentiation of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "不同性别之间在生存状况、发展条件、社会地位等方面差异性的增加和差距的扩大。"
+  },
+  {
+   "cn": "生长发育调查应用",
+   "en": "growth and development investigation application",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "将生长发育调查的结果和发现用于促进儿童生长发育的过程。"
+  },
+  {
+   "cn": "食品添加剂新品种申报",
+   "en": "application of new food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂生产经营者就拟生产、经营、使用或者进口的食品添加剂新品种，向政府主管部门提出食品添加剂新品种许可申请的行为"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量条目在不同群组的功能表现不一致的现象。其结果是具有相同潜在特质的个体因为属于不同群组（如种族、性别等）对测量条目产生不同反应。"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "临床新技术应用伦理",
+   "en": "ethics of application of new clinical technology",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.062",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医疗机构首次使用具有明确安全性和有效性的医疗技术时涉及的伦理问题及应遵循的伦理规范。"
+  },
+  {
+   "cn": "区别对待分化瓦解",
+   "en": "differentiate the enemies and make them disintegrate",
+   "source": "马克思主义",
+   "wordNumber": "03.0441",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1940年的《论政策》提出的中国共产党在民主革命时期的对敌斗争策略之一。强调根据敌对势力内部在对待反共和抗日问题上不一致的态度，加以区别，利用各派别之间的矛盾，采取不同政策，以达到分化、瓦解敌"
+  },
+  {
+   "cn": "急慢分治",
+   "en": "differentiate treatments for acute and chronic disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据急性、慢性疾病各自的特点，分流患者到适合的医疗机构就诊，提高不同类别医疗机构使用效率的分级诊疗模式。"
+  },
+  {
+   "cn": "人体器官移植技术临床应用委员会",
+   "en": "committee on clinical application of human organ transplantation techniques",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.062999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "根据原卫生部颁布的《人体器官移植技术临床应用管理暂行规定》于2006 年成立的拟定全国人体器官移植技术临床应用规范和评议省级卫生健康行政主管部门上报的人体器官移植技术临床应用规划的组织。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

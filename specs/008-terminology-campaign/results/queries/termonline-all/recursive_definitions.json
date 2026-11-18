@@ -1,0 +1,612 @@
+{
+ "key": "recursive definitions",
+ "term": "recursive definitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:12:51+00:00",
+ "status": "ok",
+ "note": "variant=recursive definitions; 审定公布名词库=255; 海峡两岸名词对照库=94; 其他来源数据库=25; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "递归定义",
+   "en": "recursive definition",
+   "source": "语言学名词",
+   "wordNumber": "11.074",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "一种问题描述方法或过程说明方法。在定义或说明中直接或间接地引用自身，是计算机程序设计方法之一，它可以把一个复杂的大问题层层转化为一个与原问题相似的较小的问题来求解。"
+  },
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0294",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "递归技术",
+   "en": "recursive technique",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1923",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "基于递归公式的计算技术。递归公式将某些系数的 (如滤波器的 )第 n阶与第 (n.1)阶联系在一起。希望得到的第 n阶系数便可从第 0阶的初始值开始，迭代运用该公式求得。 "
+  },
+  {
+   "cn": "递归滤波",
+   "en": "recursive filter",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2557",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "其输出既依赖于输入及滤波响应函数，又依赖于以前的输出的滤波器。 "
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0753",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "把问题分解为规模缩小了的同类问题的子问题，然后采用递归调用函数（或过程）来求得原问题的解。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个部分递归函数还是全函数，则称其为递归函数。"
+  },
+  {
+   "cn": "递归规则",
+   "en": "recursive rule",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0237",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "对规则左部的非终极符号进行递归定义。如： U → xUy ，即为递归规则。"
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0195",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种用递归的逻辑程序定义或涉及递归规则求值的查询。"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "递归关系",
+   "en": "recursive relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个关系所对应的函数是递归函数，则称它为一个递归关系。"
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归",
+   "en": "tail recursion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据域定义标准",
+   "en": "data domain definition standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准设计和定义",
+   "en": "data standard design and definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ASME Y14.41-2012 数字化产品定义数据实施规程》",
+   "en": "ASME Y14.41-2012 Digital product definition data practices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ITU-T Y.2069-2012 物联网的术语和定义》",
+   "en": "ITU-T Y.2069:2012 Terms and definitions for the Internet of Things",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 21964-1-2018 信息技术 数据载体的破坏 原理与定义》",
+   "en": "BS ISO/IEC 21964-1:2018 Information technology — Destruction of data carriers — Principles and definitions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2781-2014 电信和互联网服务 用户个人信息保护 定义及分类》",
+   "en": "YD/T 2781-2014 Telecom and Internet service — User personal information protection — Definition and category",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.22",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区接受产前诊断的孕产妇中确诊的先天性缺陷和/或遗传性疾病的人数，与同期当地孕产妇产前诊断人数之比。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "20%美国风湿病学会改善",
+   "en": "American college of rheumatology 20% definition, ACR20",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度变化的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有20%的改善以及下列5项参数中至少3项有20%改善：1"
+  },
+  {
+   "cn": "50%美国风湿病学会改善",
+   "en": "American college of rheumatology 50% definition, ACR50",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度中等的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有50%的改善以及下列5项参数中至少3项有50%改善：1"
+  },
+  {
+   "cn": "70%美国风湿病学会改善",
+   "en": "American college of rheumatology 70% definition, ACR70",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度大幅变化的改善标准，是临床试验的标准结局测量指标。其定义为：关节肿胀和压痛数（28-关节计数法）有70%的改善以及下列5项参数中至少3项有70%"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

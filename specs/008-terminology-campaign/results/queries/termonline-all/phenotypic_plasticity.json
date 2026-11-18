@@ -1,0 +1,622 @@
+{
+ "key": "phenotypic plasticity",
+ "term": "Phenotypic plasticity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:12:22+00:00",
+ "status": "ok",
+ "note": "variant=Phenotypic plasticity; 审定公布名词库=728; 海峡两岸名词对照库=209; 其他来源数据库=5; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "动物学名词",
+   "wordNumber": "2.0252",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "生物由于环境条件的改变在表型上做出相应变化（响应）的能力。是环境对基因型的一种修饰。"
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "植物学名词",
+   "wordNumber": "02.0289",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物由于环境条件的改变在表型上做出相应变化(响应)的能力。是环境对基因型的一种修饰。"
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "生态学名词",
+   "wordNumber": "12.062",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "在环境影响下，某一基因型在表型上产生变异的能力。"
+  },
+  {
+   "cn": "表型鉴定",
+   "en": "phenotyping",
+   "source": "农学名词",
+   "wordNumber": "15.309",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "分析生物个体或群体中由基因型产生的，可以观察的或鉴定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风景园林名词",
+   "wordNumber": "09.0139",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "有机体可被观察到的结构和功能方面的特性，如形态和行为方面的特征。是基因型和环境交互作用的产物，即特定的基因型在一定环境条件下的表现形式。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "农学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0027",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由构成基因型的等位基因的优势关系以及与环境相互作用使机体所产生的、可观察或测定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因型与环境相互作用，形成生物体可观察到的性状。在不同的环境条件下，相同的基因型可以出现不同的表型，不同的基因型也可能出现相同的表型。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "兽医学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "基因型决定的性状表现。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype ",
+   "source": "草学名词",
+   "wordNumber": "5.0014",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由基因型与发育环境相互作用而产生的个体可观察到的性状。狭义指某个或某些基因所表现出来的性状。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "畜牧学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "生物个体的性状在一定环境下的表现。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0515",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "一个生物体可观察到的特征或性状的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "植物学名词",
+   "wordNumber": "10.0016",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "一个生命体可以观察到或分辨的性状或特征的总和。是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "核医学名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "生物体可观察到的结构和功能特性的总和。为基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "林学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木个体上所观察到或可度量的外在性状的总和。受到遗传和环境两个因素的影响。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "微生物学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "可被观察到的生物体或细胞的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "古生物学名词",
+   "wordNumber": "01.0091",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。相同基因型的个体在不同环境中可显示不同的表型。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "免疫学名词",
+   "wordNumber": "1.101",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "(1)在免疫遗传学范畴，指个体有核细胞所表达的HLA抗原型别。(2)在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "遗传学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "一个生物体(或细胞)可以观察到的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型方差",
+   "en": "phenotypic variance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型性状",
+   "en": "phenotypic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型值",
+   "en": "phenotypic value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型适应",
+   "en": "phenotypic adaptation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型多态性",
+   "en": "phenotypic polymorphism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型值",
+   "en": "phenotypic value",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型混杂",
+   "en": "phenotypic mixing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型伪饰",
+   "en": "phenotypic masking",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "橡皮泥板",
+   "en": "plasticine board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.21",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "一种高分子材料。可作为β射线、中子屏蔽材料，密度为1.4g·cm-3。"
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.6",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能降低高分子材料玻璃化转变温度并提高塑性的低挥发性或无挥发性的助剂。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "为适应积极或消极的生活经历而发生改变的能力。表现为在发育过程中同一基因型在不同环境条件下能够产生不同生理和形态学特性。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在发育过程中，同一基因型在不同环境条件下能够产生不同生理和形态学特性。是生命体为适应环境而调整其生长发育轨迹的一种模式。"
+  },
+  {
+   "cn": "抗菌塑料",
+   "en": "antibacterial plastic",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的塑料。"
+  },
+  {
+   "cn": "塑料闪烁体",
+   "en": "plastic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.35",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种有机闪烁物质在塑料中的固溶体，通常由基质闪烁物质及移波剂组成。"
+  },
+  {
+   "cn": "纸塑包装",
+   "en": "paper plastic package",
+   "source": "消毒学",
+   "wordNumber": "3.1.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "透气材料和（或）塑料膜组成的可密封组合袋和卷材。"
+  },
+  {
+   "cn": "神经系统可塑性",
+   "en": "plasticity of nervous system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "神经系统发育过程中神经元对神经活动及环境改变所做出的结构和功能上的应答反应现象。细胞分化、突触发生和早期环境对神经系统发育的可塑性有重要影响。"
+  },
+  {
+   "cn": "整形科伦理",
+   "en": "ethics of plastic surgery department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0680000000000005",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "实施再造整形的过程中涉及的伦理问题及应遵循的伦理规范。包括认真做好患者的心理治疗与心理护理；尊重患者的人格和生理缺陷等。"
+  },
+  {
+   "cn": "食品接触用塑料材料及制品",
+   "en": "plastic food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "以一种或几种树脂（含树脂共混物）或其预混料、预聚物等为主要结构组分，添加必要的添加剂，在一定的温度和压力下加工制成的、介于树脂与塑料制品之间的高分子材料为塑料材料，包括塑料粒料（或切片）、粉末、母料、"
+  },
+  {
+   "cn": "弹性",
+   "en": "elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当两个经济变量之间存在函数关系时，因变量对自变量的反应程度，是因变量相对变化与自变量相对变化之比。"
+  },
+  {
+   "cn": "弧弹性",
+   "en": "arc elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "自变量的一个相对变动（相对于变动前后的平均值）与因变量的一个相对变动（相对于变动前后的平均值）之比，是对需求曲线上两点之间的需求量的变动对于价格的变动的反应程度。"
+  },
+  {
+   "cn": "点弹性",
+   "en": "point elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "自变量的一个无穷小的相对变动与因变量的一个无穷小的相对变动之比，是对需求曲线上某一点的弹性的精确度量。"
+  },
+  {
+   "cn": "产出弹性",
+   "en": "output elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "当其他投入要素保持一定时，一种投入要素的既定百分比变动所引起的产出的百分比变动的数值。"
+  },
+  {
+   "cn": "弹性系数",
+   "en": "coefficient of elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "用来表示弹性大小的指标，衡量因变量的相对变化对自变量的相对变化灵敏程度。"
+  },
+  {
+   "cn": "需求弹性",
+   "en": "elasticity of demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "在一定时期内某种商品需求量的变动对其他因素(如价格、收入等)变动的反应程度。可分为需求价格弹性、需求收入弹性、需求交叉弹性等。"
+  },
+  {
+   "cn": "单一弹性",
+   "en": "unit price elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于1时，表示自变量的变动率等于因变量的变动率的特性"
+  },
+  {
+   "cn": "完全弹性",
+   "en": "perfect price elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于∞时，表示因变量变动率相对于无穷小自变量的变动率为无穷大。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

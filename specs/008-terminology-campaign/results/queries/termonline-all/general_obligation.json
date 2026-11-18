@@ -1,0 +1,752 @@
+{
+ "key": "general obligation",
+ "term": "general obligation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:08:49+00:00",
+ "status": "ok",
+ "note": "variant=general obligation; 审定公布名词库=3305; 海峡两岸名词对照库=930; 其他来源数据库=177; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "一般债券",
+   "en": "general obligation bond",
+   "source": "农学名词",
+   "wordNumber": "19.270",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "地方政府为缓解资金紧张或解决临时经费不足而发行的，以地方税收收入作保证的政府债券。"
+  },
+  {
+   "cn": "专一宿主寄生虫",
+   "en": "obligation parasite",
+   "source": "兽医学名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "只寄生于一种特定的宿主，对宿主有严格选择性的寄生虫。"
+  },
+  {
+   "cn": "告知义务",
+   "en": "inform obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.021",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "在医疗活动中，医疗机构及其医务人员如实告知患者的病情、医疗措施、医疗风险，并及时解答患者或监护人咨询的义务。"
+  },
+  {
+   "cn": "智能体的义务",
+   "en": "agent obligation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0171",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的一种社会意识层面思维属性，是一个智能体对另一个智能体承担的不索取回报的任务。"
+  },
+  {
+   "cn": "合同义务",
+   "en": "contractual obligation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0566",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "合同法律关系主体必须按法律规定所承担的责任。"
+  },
+  {
+   "cn": "教师义务",
+   "en": "teacher obligation",
+   "source": "教育学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在从事教育教学活动中必须做出或禁止做出的行为规定。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite",
+   "source": "农学名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "在自然条件下必须寄生在活的寄主植物上才能生长发育，离开寄主植物活体就不能生长繁殖，甚至不能存活的寄生物。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite ",
+   "source": "草学名词",
+   "wordNumber": "7.0353",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "专性厌氧菌",
+   "en": "obligate anaerobe",
+   "source": "感染病学名词",
+   "wordNumber": "03.0756",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "在无氧环境中才能生长繁殖的细菌。缺乏完善的呼吸酶系统，只能进行无氧发酵，不但不能利用分子氧，而且游离氧对其还有毒性作用。如破伤风梭菌、脆弱拟杆菌和产黑素普雷沃菌。"
+  },
+  {
+   "cn": "专性无融合生殖",
+   "en": "obligate apomixis",
+   "source": "植物学名词",
+   "wordNumber": "08.0034",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "一种植物或其某种类群不能完成有性生殖，完全以无融合生殖方式繁殖的方式。"
+  },
+  {
+   "cn": "强制保养",
+   "en": "obliged maintenance",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0617",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "为确保设备正常运转，每隔一定周期进行的需要占用机械设备的运转时间的保养。"
+  },
+  {
+   "cn": "被迫体位",
+   "en": "obliged position",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "全科医学与社区卫生_社区护理",
+   "subjectName": "社区护理",
+   "publishYear": "2014",
+   "definition": "患者有更换体位的能力，但由于疾病、治疗或检查的需要，只能被迫采取的某种体位。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite",
+   "source": "微生物学名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "离开活体寄主无法生存的生物。"
+  },
+  {
+   "cn": "专性病原体",
+   "en": "obligate pathogen",
+   "source": "昆虫学名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "只存在于活宿主体内，不能培养的一类病原微生物。"
+  },
+  {
+   "cn": "专性孤雌生殖",
+   "en": "obligate parthenogenesis",
+   "source": "昆虫学名词",
+   "wordNumber": "05.109",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "所有的卵都未经受精而发育成新个体的生殖方式。"
+  },
+  {
+   "cn": "绝对短日植物",
+   "en": "obligate short-day plant,obligate SDP",
+   "source": "植物学名词",
+   "wordNumber": "11.0577",
+   "subjectFullName": "植物学_植物生理学_植物成花生理",
+   "subjectName": "植物成花生理",
+   "publishYear": "2019",
+   "definition": "有明确(或严格)的短日照时数要求，长于这个日照时数就不能开花的植物。"
+  },
+  {
+   "cn": "绝对长日植物",
+   "en": "obligate long-day plant,obligate LDP",
+   "source": "植物学名词",
+   "wordNumber": "11.0574",
+   "subjectFullName": "植物学_植物生理学_植物成花生理",
+   "subjectName": "植物成花生理",
+   "publishYear": "2019",
+   "definition": "有明确(或严格)的日长时数要求，短于这个日照时数就不能开花的植物。"
+  },
+  {
+   "cn": "医者义务",
+   "en": "obligation of doctor",
+   "source": "行为医学名词",
+   "wordNumber": "9.02",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生对患者、社会所负有的法律和道德职责。"
+  },
+  {
+   "cn": "求得承诺义务",
+   "en": "obtain commitment obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.022",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "取得责任方或权利方有效承诺和说明的义务。"
+  },
+  {
+   "cn": "保护隐私义务",
+   "en": "privacy protection obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生为患者隐私保密的义务。"
+  },
+  {
+   "cn": "义务",
+   "en": "obligation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不可分割的债务",
+   "en": "indivisible obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际债务",
+   "en": "international obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国库债务",
+   "en": "treasury obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期债务",
+   "en": "demand obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强制仲裁",
+   "en": "obligation arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "替代公债",
+   "en": "substitution obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal obligation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "专性无融合生殖",
+   "en": "obligate apomixis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专性互利共生",
+   "en": "obligate mutualism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "专性共生物",
+   "en": "obligate symbiont",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "专性病原体",
+   "en": "obligate pathogen",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "专性孤雌生殖",
+   "en": "obligate parthenogenesis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "专性需氧菌",
+   "en": "obligate aerobe\",\"obligate aerobic bacteria",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对长日植物",
+   "en": "obligate long-day plant\",\"obligate LDP",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对短日植物",
+   "en": "obligate short-day plant\",\"obligate SDP",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "契约抵押，债权抵押",
+   "en": "pledge of obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有担保抵押债务",
+   "en": "collateralized mortgage obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "债务免除",
+   "en": "waiver of obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专性病原性细菌",
+   "en": "obligate pathogenic bacteria",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用数据",
+   "en": "general data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普通病区",
+   "en": "general ward",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一般性错误",
+   "en": "general fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预赛",
+   "en": "general competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全体召回",
+   "en": "general recall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "义务",
+   "en": "obligation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.122",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体或组织对他人、集体和社会应尽的道德责任或使命。它体现着个人或组织依据一定的道德要求对待他人和社会利益的积极态度，集中表现为个人或组织自觉自愿地为他人和社会服务的道德信念。"
+  },
+  {
+   "cn": "患者义务",
+   "en": "patient obligation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.034",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体患病期间应当承担的社会和法律要求的责任。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "尊重医务人员义务",
+   "en": "obligation to respect medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.037",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在就医过程中，患者应当履行的尊重医务人员的辛勤劳动和人格尊严，维护医务人员的人身安全，不得侮辱、诽谤、威胁、殴打医师或者侵犯医务人员人身自由、干扰医疗正常工作、生活等的责任。"
+  },
+  {
+   "cn": "缴纳医疗费用义务",
+   "en": "obligation to pay medical expense",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.038",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者应当履行的医保承担范围之外应缴纳医学诊查、疾病治疗、处方开具、药品药械、手术处置、住院等各项医疗费用的责任。患者不应将治疗是否有效或是否成功作为缴纳医疗费用的前提，应当避免恶意的医疗逃费或欠费现象"
+  },
+  {
+   "cn": "增进健康义务",
+   "en": "the obligation to promote health",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.039",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者应当履行的树立正确的健康理念、提升健康素养、养成健康生活方式、患病及时就医、主动接受诊疗、保持自身健康且不危害他人健康、预防疾病的责任。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "总体资本家",
+   "en": "general capitalist",
+   "source": "马克思主义",
+   "wordNumber": "02.0125",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义社会中，单个资本之间互相联系、互相依存形成总社会资本，总社会资本的人格化就是总体资本家。这一概念从社会整体的宏观角度来考察资本同劳动的对立，揭示资产阶级对无产阶级的剥削和压迫的总体关系。"
+  },
+  {
+   "cn": "一般商品",
+   "en": "general commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0191",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的一种特殊的社会职能。货币，作为固定地充当一般等价物的商品，它是价值额的独立表现，可以衡量一切商品的价值，具有与一切商品直接交换的能力，这种社会职能使它成为作为一般等价物的一般商品。"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "政府卫生筹资",
+   "en": "general taxation",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "政府作为筹资主体通过税收渠道筹集资金并分配和使用于卫生领域的一种卫生筹资模式"
+  },
+  {
+   "cn": "综合医院",
+   "en": "general hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "设一定数量的病床、各类临床专科（如内科、外科、儿科、妇产科、眼科、耳鼻喉科、皮肤科等）、医技部门（如药剂、检验、影像等）以及相应人员与设备的医院。"
+  },
+  {
+   "cn": "总体预案",
+   "en": "general plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "明确学校各类突发公共事件分级分类和预案框架体系，规定应对学校突发公共事件的组织体系、工作机制等内容，用于指导预防和处置学校各类突发公共事件的文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

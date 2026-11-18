@@ -1,0 +1,762 @@
+{
+ "key": "structured entities",
+ "term": "structured entities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:13:14+00:00",
+ "status": "ok",
+ "note": "variant=structured entities; 审定公布名词库=2516; 海峡两岸名词对照库=556; 其他来源数据库=84; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "能够独立存在的、作为一切具体事物和现象最后根源的载体的东西。唯物主义认为实体是常驻不变的、时空上无限的物质，唯心主义则把它作为精神、神和观念来理解。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.022",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，表示一个或一类有相同特性个体的应用对象。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.358",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目记录使用者关注的主要对象。包括具有单一与自我独立特征的某些事物；一种抽象的观念、思想的概念、思考的客体，或先验的对象。在书目记录的功能需求（FRBR）中，实体类型的实例包括：知识或艺术创作的产品、"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "客观世界中存在的可互相区分的客观对象或抽象概念。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0925",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "具有法律地位的个人、合伙人、组织或企业。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0150",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "客观存在并可独立处理的元素。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.454",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理学名词",
+   "wordNumber": "30.026",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "对等实体",
+   "en": "peer entities",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0083",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络分层结构中位于另一系统上属于相同层次的实体。"
+  },
+  {
+   "cn": "理论实体",
+   "en": "theoretical entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.011",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "无法直接观察、需要科学理论来描述的实体。如电子。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "媒体",
+   "en": "media entity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.071",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①运作媒介的组织、机构或其他主体，如新闻媒体、自媒体等。②某个具体的媒介或某一类特定的信息传播工具，如电视媒体、社交媒体等。③常与媒介、传媒混用。参见“媒介”“传媒”条。 "
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理空间中不可再分的最小单元，主要包括点、线、面、体四种基本类型，具有空间位置、属性、时间和空间关系等特征。"
+  },
+  {
+   "cn": "点实体",
+   "en": "point entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.047",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达一定地理意义的零维单元。通常由一对坐标或一个栅格像元表示。"
+  },
+  {
+   "cn": "线实体",
+   "en": "line entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的一维单元。通常由矢量数据中的有序坐标对或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "面实体",
+   "en": "area entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的二维单元。通常由矢量数据中闭合的弧段或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "体实体",
+   "en": "body entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达三维空间中的地理现象和实体。通常由一组或多组空间曲面表示。"
+  },
+  {
+   "cn": "市场主体",
+   "en": "market entity",
+   "source": "电力名词",
+   "wordNumber": "06.250",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "具有独立经济利益和资产,享有民事权利和承担民事责任的可从事市场交易活动的法人或自然人。"
+  },
+  {
+   "cn": "命名实体",
+   "en": "named entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0505",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自然语言中指称人、地、机构等特定实体名称的表达形式。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对等[层]实体",
+   "en": "peer entities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子实体",
+   "en": "molecular entity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图实体",
+   "en": "drawing entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体超类",
+   "en": "entity supertype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体点",
+   "en": "entity point",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体对象",
+   "en": "entity object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体分类",
+   "en": "entity classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体子类",
+   "en": "entity subtype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化数据",
+   "en": "structured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构",
+   "en": "Data Structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储结构",
+   "en": "storage structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性结构",
+   "en": "nonlinear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图结构",
+   "en": "graph structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "结构化",
+   "en": "structuration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "主张社会结构与行动具有相互构成的性质，而居于二者之间的个人则成为克服这种对立的一种手段。"
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "由法国人类学家列维-斯特劳斯(C.Lévi-Strauss）在乔姆斯基(A.N.Chomsky）语言学的基础上发展并加以运用的结构分析理论及方法。这一流派认为，一旦文化的各个不同方面被还原成它们的结构"
+  },
+  {
+   "cn": "结构过程",
+   "en": "structuring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0211",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家萧凤霞（Helen Siu）、中国历史学家刘志伟提出的概念，即个人透过他们有目的的行动，织造了关系和意义（结构）的网络，这一网络又进一步帮助或限制他们作出某些行动，这是一个永无止境的过程。"
+  },
+  {
+   "cn": "消毒产品责任单位",
+   "en": "responsibility entity for disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "依法承担因消毒产品缺陷而致他人人身伤害或财产损失的赔偿责任的个人、法人及其他组织。消毒产品委托生产加工时，特指委托方，进口消毒产品的责任单位为在华责任单位。"
+  },
+  {
+   "cn": "结构式访谈",
+   "en": "structured interview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在访谈前已经设计好访谈中访谈员将要提出的问题和回答人将要使用的回答选项类别的访谈方法。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "结构型问卷",
+   "en": "structured questionnaire",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.61",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对问题的措词方式以及它们在问卷中被问及的顺序都做了明确规定的问卷。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "组织结构",
+   "en": "organizational structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各组成部分之间关系的稳定形态及结合方式，可达成组织职能和权力的配置，主要包括职位、目标、权威和角色等四大要素。可分为正式结构和非正式结构。"
+  },
+  {
+   "cn": "垂直结构",
+   "en": "vertical structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.14",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "某种集权组织结构形式，自上而下形成垂直的易于控制的领导系统，信息纵向流通快，管理成本低，效率较高，但下级的权限和自主性较低。"
+  },
+  {
+   "cn": "扁平结构",
+   "en": "flat structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.15",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "管理层次少而管理幅度大的一种组织结构形态，有利于缩短上下级距离，被管理者有较大的自主性、积极性和满足感，但由于管理幅度较宽，权力分散，不易实施严密控制，加重了对下属组织及人员进行协调的负担。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.7",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员的构成及其相互关系状态形成的稳定模式。包含家庭的代数结构和人口结构两个方面，涉及家庭成员及其数量、家庭成员间的代际和亲属关系等内容。"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "市场中生产者重复生产其行动的社会结构。怀特(Harrison C.White）认为市场是生产的市场，不是交换意义上的市场。在生产决策过程中，生产者相互观察了解彼此的差异，据此进行产量和价格决策，一旦生"
+  },
+  {
+   "cn": "深层结构",
+   "en": "deep structure",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.18",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "隐藏在社会或文化表层关系背后，不被该社会成员所观察到的“无意识”模式。是与句子的表意结构相对而言，必须通过文化人类学家建立的分析模型才能认识的意识结构。"
+  },
+  {
+   "cn": "经济结构",
+   "en": "economic structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0016",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国民经济中各个方面的内部构成，反映经济系统中各要素之间互相关联、互相结合的内在联系及相应数量对比关系。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0160",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会各基本组成要素按照一定的方式所构成的相对稳定、持久的网络。在社会活动中，人与自然之间、人与人之间、人与团体之间、团体与团体之间不断相互作用，形成了相对固定的各种关系，这些社会关系按照一定的方式组合"
+  },
+  {
+   "cn": "阶级结构",
+   "en": "class structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0311",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "通常反映有阶级社会的社会各阶级的区别及其相互关系。阶级结构由私有制和生产方式所决定和变化。"
+  },
+  {
+   "cn": "性格结构",
+   "en": "character structure",
+   "source": "马克思主义",
+   "wordNumber": "05.0047",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "弗洛伊德主义的马克思主义用来指人在日常生活和工作中表现出来的习惯行为的内在范型，与弗洛伊德不同的是，赖希（Wilhelm Reich）与弗洛姆注重性格结构形成中的社会因素。"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "某一市场中各种要素之间的内在联系方式及其特征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

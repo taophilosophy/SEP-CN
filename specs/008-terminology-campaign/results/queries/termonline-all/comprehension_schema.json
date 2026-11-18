@@ -1,0 +1,812 @@
+{
+ "key": "comprehension schema",
+ "term": "comprehension schema",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:09:37+00:00",
+ "status": "ok",
+ "note": "variant=comprehension schema; 审定公布名词库=596; 海峡两岸名词对照库=126; 其他来源数据库=32; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "行为医学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种特殊的心理结构。是帮助人知觉、组织、获得和利用信息的认知结构。"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0007",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的结构与特征的具体表示与描述。其反映了数据内在结构与数据间的关系。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "心理学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为图式指一种特殊的心理结构，或一种组织起来的理解经验的方式。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "档案学名词",
+   "wordNumber": "06.02.009",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "表示元数据元素之间关系的逻辑架构。规定元数据的使用及管理规则，尤其是关于语义、语法及赋值的规则。"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.539",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在与环境交互的认知过程中，一系列以自己的身体为意向对象的意向状态。如知觉、心理表征及信念等的复合。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.897",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "包括描述、管理、服务、保存等各种元数据规范，以及元数据著录、置标、映射交换等应用规范在内的完整的元数据解决方案。"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库用户的数据视图。即与某一应用有关的数据的逻辑表示。"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0323",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "通过调整模式设计来改善数据库的查询和修改性能。"
+  },
+  {
+   "cn": "模式定理",
+   "en": "schema theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0291",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "遗传算法中，一个部分位置上的基因已经确定，而其他位置上的基因视作空缺参数的染色体模板称为模式。具有阶数低、长度短，并且适应值高的模式将按指数级增长。"
+  },
+  {
+   "cn": "模式演化",
+   "en": "schema evolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0491",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据模式随时间、环境的变化。"
+  },
+  {
+   "cn": "工作流模式",
+   "en": "workflow schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0163",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "用工作流模型中的概念对一个实际业务处理流程进行的抽象描述。"
+  },
+  {
+   "cn": "内模式",
+   "en": "internal schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据的物理结构和存储方式的描述。"
+  },
+  {
+   "cn": "模式集成",
+   "en": "schema integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0492",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "异构多数据源在模式层面的集成。"
+  },
+  {
+   "cn": "关系模式",
+   "en": "relational schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0025",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "对关系的逻辑结构和特征的描述。"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的整体逻辑结构的描述。"
+  },
+  {
+   "cn": "雪花模式",
+   "en": "snowflake schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0505",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据仓库环境中表之间的逻辑组合方式。在实体关系图中这些表组成类似雪花的形状。"
+  },
+  {
+   "cn": "星型模式",
+   "en": "star schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0358",
+   "subjectFullName": "计算机科学技术_数据库_特种数据库",
+   "subjectName": "特种数据库",
+   "publishYear": "2018",
+   "definition": "在数据仓库环境中的一种表的组织方式。包括一个或多个事实表，以及多个关联的维表。"
+  },
+  {
+   "cn": "星座模型",
+   "en": "constellation schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0367",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "多个事实表共享维表的多维数据模型。"
+  },
+  {
+   "cn": "雪花模式",
+   "en": "snowflake schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0366",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "将维表分解为与事实表直接关联的主维度表和与主维度表直接关联而与事实表间接关联的次维度表的星型模式的变种。"
+  },
+  {
+   "cn": "星型模式",
+   "en": "star schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0365",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "由一个包含主题的事实表(中央表)和多个以中央表为中心呈放射状分布的非统一规范的维表构成的多维数据模型。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "采样模式，抽样模式",
+   "en": "sampling schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类模式",
+   "en": "classification schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据模式",
+   "en": "data schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元数据模式",
+   "en": "metadata schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质量模式",
+   "en": "quality schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换模式",
+   "en": "transformation schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全面深化改革",
+   "en": "comprehensively deepening reform",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域全面经济伙伴关系协定",
+   "en": "Regional Comprehensive Economic Partnership",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多部门综合扶贫",
+   "en": "multisectoral comprehensive poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合性非药物性干预措施",
+   "en": "comprehensive non-pharmaceutical interventions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "Four-Pronged Comprehensive Strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。（The Four-Pronged Comprehensive Strategy is to make comprehensive move"
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "the Four-pronged Comprehensive Strategy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源全面节约制度",
+   "en": "the comprehensive resource conservation system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计监测与综合评价",
+   "en": "statistical monitoring and comprehensive evaluation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《信息安全综合战略》（日本）",
+   "en": "Comprehensive Strategy for Information Security (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《国家网络安全综合计划》（韩国）",
+   "en": "Comprehensive National Cybersecurity Initiative (South Korea)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非全面战略合作伙伴关系",
+   "en": "China-Africa comprehensive strategic cooperative partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据（贵州）综合试验区",
+   "en": "National Big Data (Guizhou) Comprehensive Pilot Zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据综合试验区（中国）",
+   "en": "national big data comprehensive pilot zone (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务进农村综合示范",
+   "en": "comprehensive demonstration of e-commerce in rural areas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成多层次社会保障体系",
+   "en": "comprehensively building a multi-tiered social security system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "采取最全面、最严格、最彻底的防控举措",
+   "en": "to take the most comprehensive, rigorous and thorough measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面禁止核试验条约组织筹备委员会",
+   "en": "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推动紧密持久的中法全面战略伙伴关系",
+   "en": "promoting the close and lasting China-France comprehensive strategic partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推广全面系统有效的防控指南",
+   "en": "to promote control and treatment protocols that are comprehensive, systematic and effective",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "理解力",
+   "en": "comprehension faculty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "领会知识、他人言语及行为等的能力。"
+  },
+  {
+   "cn": "综合性能",
+   "en": "comprehensive performance",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对全部照射组的剂量系统性能的综合判定指标，为全部照射组的平均偏离与标准偏差的平方和。"
+  },
+  {
+   "cn": "综合介入",
+   "en": "comprehensive intervention",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "关注“人与环境”两者间的互动关系与介入策略，体现社会综合治理理念，包含直接服务和间接服务在内的介入行动。"
+  },
+  {
+   "cn": "全面的改革",
+   "en": "Comprehensive reform",
+   "source": "马克思主义",
+   "wordNumber": "03.0518",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "包括经济体制改革、政治体制改革和相应的其他各个领域的改革。首先需要进行经济体制改革，进而改革政治体制及其他方面的体制。邓小平最早提出此观点。"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "综合国力",
+   "en": "comprehensive national power",
+   "source": "马克思主义",
+   "wordNumber": "04.0181",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个国家所拥有的全部实力和潜力（即物质力和精神力） 及其在国际社会中的影响力的综合。它是一个国家基于自然环境、人口、资源、经济、科技、政治、军事、文化、教育、外交等方面所具有的综合实力的统称，是从整体"
+  },
+  {
+   "cn": "全面性教育",
+   "en": "comprehensive sexuality education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "基于课程的关于性的认知、情感、身体和社会层面的意义的教学过程。旨在使儿童和年轻人具备一定的知识、技能、态度和价值观，确保其健康、福祉和尊严。"
+  },
+  {
+   "cn": "微波综合效应",
+   "en": "comprehensive effect of microwave",
+   "source": "消毒学",
+   "wordNumber": "2.2.4.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "微波辐射引起微生物细胞膜的破坏和细胞核的变性，以及引起微生物DNA、RNA和蛋白质的变性和降解达到消毒的现象。"
+  },
+  {
+   "cn": "大健康观",
+   "en": "comprehensive view on health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以大健康为基础，强调从“以治病为中心”转向“以健康为中心”，涵盖了生理、心理、社会适应和道德健康等多维度的健康观。"
+  },
+  {
+   "cn": "综合健康医学模式",
+   "en": "comprehensive health medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "认为健康受环境、遗传、行为生活方式及医疗服务四类因素影响的理论。由加拿大学者拉隆达（Lalonde）和美国学者德威尔（Dever）于20 世纪70 年代提出。"
+  },
+  {
+   "cn": "医院综合效益统计",
+   "en": "hospital comprehensive benefit statistics",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "针对医院医疗工作数质量完成情况的统计信息进行综合分析，包括社会效益统计和经济效益统计。"
+  },
+  {
+   "cn": "整合实务中的角色",
+   "en": "several roles in comprehensive practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "综合介入中社会工作者所承担的、相对于服务对象而言的功能角色。社会工作者在整合的社会工作过程中，通常会视情况承担服务提供者、支持者、管理者、咨商者、辅导者、保护者、经纪人、调解者等不同角色。"
+  },
+  {
+   "cn": "药品临床综合评价",
+   "en": "clinical comprehensive evaluation of drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.4",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "评价主体运用多种评价方法和工具对临床药品开展的系统化评判活动，通常围绕安全性、有效性、经济性、创新性、适宜性、可及性等6个维度展开数据分析与研判。"
+  },
+  {
+   "cn": "卫生服务综合评价",
+   "en": "comprehensive evaluation of health service",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "围绕特定评价目标、评价对象和评价阶段，对卫生服务的计划、进展、成效及其价值进行全面分析和评判的过程。"
+  },
+  {
+   "cn": "学生体质健康综合评价",
+   "en": "student's physical fitness comprehensive assessment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "选择反映儿童少年生长发育不同侧面的多项指标，经综合分析、计算，对个体或群体进行较全面评价的一种方法。"
+  },
+  {
+   "cn": "全面禁止核试验条约",
+   "en": "Comprehensive Nuclear Test Ban Treaty，CTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1996年9月10日联合国第50届大会通过《全面禁止核试验条约》。截至2006年10月，已有176个国家签署了该条约。缔约国承诺不进行任何核武器爆炸，禁止和防止任何种类核爆炸，承诺不导致、不鼓励以任何"
+  },
+  {
+   "cn": "流动儿童教育综合需求评估",
+   "en": "comprehensive needs assessment of migrant children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.7.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_流动儿童和留守儿童健康促进",
+   "subjectName": "流动儿童和留守儿童健康促进",
+   "publishYear": "2025",
+   "definition": "以全面挖掘流动儿童独特的教育需求，为流动儿童教育政策的调整、修正和完善提供依据和支持的评估过程。"
+  },
+  {
+   "cn": "综合产科-新生儿急诊服务",
+   "en": "comprehensive emergency obstetric and neonatal care, CEmONC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在基本产科救治措施基础上，开展包含手术（如剖宫产）及输血治疗在内的全面性急诊干预服务。"
+  },
+  {
+   "cn": "消毒产品生产企业分类监督综合评价",
+   "en": "comprehensive evaluation of classified supervision disinfection product manufacturer",
+   "source": "消毒学",
+   "wordNumber": "5.1.4",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "卫生行政部门按照消毒产品生产企业生产的消毒产品风险类别等级及生产条件进行的综合管理、生产过程管理、产品卫生质量管理、产品抽检等分类监督，并以标化分作为最终得分的评价。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,692 @@
+{
+ "key": "relational autonomy",
+ "term": "relational autonomy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:11:59+00:00",
+ "status": "ok",
+ "note": "variant=relational autonomy; 审定公布名词库=1006; 海峡两岸名词对照库=304; 其他来源数据库=51; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "不受外界约束和情感支配，按照自己的善良意志和道德律令为人处世的道德原则。其特征是自己约束自己。在科技伦理中，自律是专业岗位上的科技工作者严格要求自己、遵守道德底线的基本准则。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.106",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "源自古希腊语（autos意为“自我”，nomos，意为“治理”）的古老概念。指自治的状态和情况或个人根据自己真实的理性、价值或欲望来指导自己生活的能力。"
+  },
+  {
+   "cn": "自主性",
+   "en": "autonomy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.229",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "理性个人做出知情而非强迫决定的能力。"
+  },
+  {
+   "cn": "自主能力",
+   "en": "autonomy",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0404",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "基于当前状态和感知信息，无人为干预地执行预期任务的能力。"
+  },
+  {
+   "cn": "自治力",
+   "en": "autonomy",
+   "source": "植物学名词",
+   "wordNumber": "13.0554",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统对于发生内部的各种现象的自我控制能力。"
+  },
+  {
+   "cn": "自主权",
+   "en": "autonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1066",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在不违背国家法律和法令的条件下，自己做主，不受外力支配和驱使的权利。"
+  },
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "教育学名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "主体的道德选择和道德行为受主体自身所认同和建构的道德认识、道德情感支配的状况。无需外部监督而能遵循法度，自加约束，为追求道德本身的目的而行动。"
+  },
+  {
+   "cn": "生育自主权",
+   "en": "reproductive autonomy",
+   "source": "生殖医学名词",
+   "wordNumber": "12.006",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "在不违背国家法律和法令的条件下，自己做主，不受外力支配和驱使的生育权利。"
+  },
+  {
+   "cn": "医疗自主权",
+   "en": "medical autonomy",
+   "source": "行为医学名词",
+   "wordNumber": "9.016",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生不受他人的指使和控制，出于维护患者健康和整个社会所赋予的医学目的的自主的诊疗权力。"
+  },
+  {
+   "cn": "村民自治",
+   "en": "village autonomy",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.305",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村集体成员直接行使民主权利，在法律规定下就村庄集体事务实施自主管理的政治制度。"
+  },
+  {
+   "cn": "智能体自治性",
+   "en": "agent autonomy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0160",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的重要属性之一。表示智能体的自我控制、自主决策能力。"
+  },
+  {
+   "cn": "经营管理自主权",
+   "en": "management autonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1067",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "企业作为相对独立的商品生产者和经营者，所拥有的独立自主地进行生产经营活动的权力。"
+  },
+  {
+   "cn": "大学自治",
+   "en": "university autonomy",
+   "source": "教育学名词",
+   "wordNumber": "08.107",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "大学及其成员有权独立决定和管理大学内部各项事务而不受政府、教会及其他外界力量干预的制度。"
+  },
+  {
+   "cn": "学校自主权",
+   "en": "school autonomy",
+   "source": "教育学名词",
+   "wordNumber": "01.124",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "学校教育机构为实现办学宗旨而依法享有的自主决策、自主实施、自主承担责任的资格和能力。"
+  },
+  {
+   "cn": "浩罕自治",
+   "en": "Kokand Autonomy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0644",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_高加索、中亚",
+   "subjectName": "高加索、中亚",
+   "publishYear": "2012",
+   "definition": "1917年11月至1918年12月民族主义、泛突厥主义分子试图推翻苏维埃政权、重建浩罕汗国。被赤卫队平定。"
+  },
+  {
+   "cn": "卫星自主性",
+   "en": "satellite autonomy",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.069",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自主原则",
+   "en": "principle of autonomy",
+   "source": "妇产科学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_遗传咨询",
+   "subjectName": "遗传咨询",
+   "publishYear": "2025",
+   "definition": "遗传咨询过程中，尊重咨询对象的意愿和决定，确保其任何决策均不受任何压力的胁迫和暗示的原则。"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.059",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "源自迈克尔·波拉尼（Michael Polanyi）《科学的自治》一书。他反对贝尔纳推崇的苏联科学事业的计划模式，指出政府和国家干预科学自主发展的危害。他用科学共同体的概念表达科学家主体意识，认为科学"
+  },
+  {
+   "cn": "教师专业自主权",
+   "en": "teacher professional autonomy",
+   "source": "教育学名词",
+   "wordNumber": "09.177",
+   "subjectFullName": "教育学_教师教育_教师管理",
+   "subjectName": "教师管理",
+   "publishYear": "2013",
+   "definition": "在专业规范下，教师或教师团体所拥有的依据专业职能，对专业任务或工作所享有的自由进行专业判断、不受非专业成员干预的权利。"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能自主",
+   "en": "functional autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关税自主[权]",
+   "en": "tariff autonomy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场地自治",
+   "en": "site autonomy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系操作符，关系算子",
+   "en": "relational operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系连接",
+   "en": "relational join",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关螺旋",
+   "en": "relational coiling",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系逻辑",
+   "en": "relational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "七情",
+   "en": "seven relations",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查诺克关系式",
+   "en": "Charnock relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据自治权",
+   "en": "data autonomy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.009",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人根据自己的价值观或意愿独立做出的决定。患者自主，指患者对有关自己的健康问题，经过深思熟虑所作出的决定并据以采取的行动。"
+  },
+  {
+   "cn": "公民自治",
+   "en": "civil autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以地方自治为政治基础建设公民社会的主张。来自康有为在其“公民自治篇”中系统阐述的关于中国国家制度建设的主张。其特点是试图把中国古代的乡治传统转化为地方自治的基础，通过本地公民选举议员来共同商议地方重要"
+  },
+  {
+   "cn": "农村自治",
+   "en": "rural autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以中国历史上的乡约制度为基础，自下而上地建立起一个属于全体村民、用于全体村民的社会共同体。共同体内秉承德业相劝、过失相规、礼俗相交、患难相恤的原则。 这是杨开道提出的农村建设运动纲领中的核心思想。"
+  },
+  {
+   "cn": "地方自治",
+   "en": "local autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0051",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "早期资本主义市民阶层以城市特许状为主要形式的城市自治制度体系。在西欧中世纪，随着城乡分离，以商人为主导的市民阶层逐渐崛起，为了维护自身的利益而要求从封建贵族手中取得城市的自治权利。国王为了制约贵族的权"
+  },
+  {
+   "cn": "民族自治",
+   "en": "national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0090",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称“民族区域自治”。多民族的社会主义国家内的少数民族在最高国家机关的统一领导下，以其聚居区为基础建立相应的自治地区，自主管理本民族本地方的事务。这是马克思列宁主义解决多民族国家内民族问题的一项基本政"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.8",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家奉行的一种观点，即认为科学是一项独特的事业，来自外界的规定会损害科学共同体，只有允许科学家按照自己的标准和判断行事，才能获得正确的知识并进而得到有效的实际应用。"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "national cultural autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0091",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初奥地利社会民主党人提出的民族主义理论。认为民族与地域无关，主张用公民自由登记的办法，把散居各地的一些民族成分组成一个法定的民族，在文化事务方面实行自治。列宁斥之为“最精致、最彻底、最有害的民"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "ethnic cultural autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0016",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "19 世纪末到20 世纪初一些奥地利社会民主党人提出的一种民族主义理论。认为民族是由一群现代人组成的和地域无关的文化共同体，消除民族问题的路径是把少数民族组成一个共同的包括各阶级的民族联盟，在文化方面"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "民族区域自治制度",
+   "en": "regional autonomy for ethnic minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0068",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国共产党运用马克思列宁主义解决国内民族问题的基本政策，是中华人民共和国的一项基本政治制度，是中国特色解决民族问题正确道路的重要内容和制度保障。民族区域自治具有民族因素和区域因素、政治因素和经济因素相"
+  },
+  {
+   "cn": "民族区域自治法",
+   "en": "law of regional national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0574",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法规定，各少数民族聚居的地方实行区域自治，建立自治机关，行使自治权。《中华人民共和国民族区域自治法》是实施民族区域自治制度的基本法律。1984年5月31日由第六届全国人民代表大会第二次会议通过，20"
+  },
+  {
+   "cn": "民族区域自治制度",
+   "en": "system of regional ethnic autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0660",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在国家统一领导下，各少数民族聚居的地方实行区域自治，设立自治机关，行使自治权。其核心是保障少数民族当家做主，管理本民族、本地方事务的权利。这是中华人民共和国的一项基本政治制度，是建设中国特色社会主义政"
+  },
+  {
+   "cn": "工人自治的经济模式",
+   "en": "economic mode of workers autonomy",
+   "source": "马克思主义",
+   "wordNumber": "05.0175",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "南斯拉夫探索符合本国情况和社会主义本质的具体体制模式。1950年南斯拉夫联邦国民议会颁制《关于劳动集体管理国营经济企业和高级经济联合组织的基本法》，规定一切国营企业作为公共财产，由劳动集体代表社会，根"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

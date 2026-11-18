@@ -1,0 +1,782 @@
+{
+ "key": "exclusive disjunction",
+ "term": "exclusive disjunction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:15:56+00:00",
+ "status": "ok",
+ "note": "variant=exclusive disjunction; 审定公布名词库=778; 海峡两岸名词对照库=124; 其他来源数据库=30; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "互斥析取",
+   "en": "exclusive disjunction",
+   "source": "数学名词",
+   "wordNumber": "02.0033",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "析取",
+   "en": "disjunction",
+   "source": "语言学名词",
+   "wordNumber": "11.138",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "一种逻辑联结词。通常记作∨。设P、Q为两个命题，复合命题“P∨Q”称作P与Q的析取式，该析取式表达的逻辑关系是P与Q两个命题至少有一个成立。"
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction",
+   "source": "古生物学名词",
+   "wordNumber": "01.0234",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "同类生物分布于两个或更多相互分离的区域，其间被高山、海洋等地理障碍所隔离。"
+  },
+  {
+   "cn": "析取[词]",
+   "en": "disjunction",
+   "source": "数学名词",
+   "wordNumber": "02.0031",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "析取项",
+   "en": "disjunct",
+   "source": "数学名词",
+   "wordNumber": "02.0032",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独家新闻",
+   "en": "exclusive",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.082",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "由唯一一家新闻媒体得到线索并加以披露的重大报道。"
+  },
+  {
+   "cn": "独家新闻",
+   "en": "exclusive",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.112",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "仅由一家新闻媒体发出的具有较高新闻价值的新闻。"
+  },
+  {
+   "cn": "排他性",
+   "en": "exclusiveness",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.221",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在市场体制下，物品或服务的潜在用户能够被有效排除的性质。"
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosomal disjunction",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.336",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "减数分裂中，成对的同源染色体彼此分开的过程。导致每个配子只获得各对同源染色体中的一条。"
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "Paleotropical disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0375",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "分布区分散在旧大陆热带范围内，即印度、马达加斯加和非洲之间以及东南亚、马来半岛和大洋洲之间的一种分布现象。"
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0376",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "间断分布区各部分位于不同大洲的一种分布现象。如东亚、北美间断分布。"
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "Holarctic disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0373",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "间断分布区各部分位于亚洲、欧洲和北美的北极地区的一种分布现象。"
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0378",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "由于岛屿的隔离导致生物间断分布的现象。"
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "Holantarctic disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0374",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "间断分布区各部分位于南美洲南部、澳洲南部等地的一种分布现象。"
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "植物学名词",
+   "wordNumber": "02.0377",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "间断分布区各部分位于北极地区和南极附近地区(南美和澳洲南部)的一种分布现象。"
+  },
+  {
+   "cn": "间断分布区",
+   "en": "range disjunction",
+   "source": "生态学名词",
+   "wordNumber": "06.312",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "因气候变化、海陆变迁以及人为活动等使原来的连续分布区隔断成若干彼此相隔很远、繁殖体不能借助于现存自然条件进行传播的分布区。"
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "地理学名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "一个分类学单位的分布区被分割为两个以上的分布区。"
+  },
+  {
+   "cn": "析取规划",
+   "en": "disjunctive programming",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "以线性和非线性约束的合取和析取描述的逻辑系统为约束的数学规划，已成为整数规划问题的一种核心求解技术。"
+  },
+  {
+   "cn": "间断共生",
+   "en": "disjunctive symbiosis ",
+   "source": "草学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "析取概念",
+   "en": "disjunctive concept",
+   "source": "心理学名词",
+   "wordNumber": "02.619",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据不同的标准，由单个或多个属性相结合而形成的概念。这些属性在概念中不必同时存在。"
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "holarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "holantarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "paleotropical disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosome disjunction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "间断共生",
+   "en": "disjunctive symbiosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "跳进",
+   "en": "disjunct motion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction\",\"discontinuous distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确限种",
+   "en": "exclusive species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确限种",
+   "en": "exclusive species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "独占领域",
+   "en": "exclusive territory",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "独家经销",
+   "en": "exclusive sales",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家经营",
+   "en": "exclusive dealing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家经营许可证",
+   "en": "exclusive licence",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家授权",
+   "en": "exclusive authorization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互斥变迁",
+   "en": "exclusive transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排他锁",
+   "en": "exclusive lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排他锁",
+   "en": "exclusive lock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融排斥",
+   "en": "financial exclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"send off\",\"ejection\",\"exclusion\",\"expulsion\",\"sending off\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排斥",
+   "en": "exclusion",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.29",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "某些弱势群体在劳动权利和社会保障体系里由于受到社会主流群体的排挤而日益孤立、边缘化的过程，表现为在经济、政治、社会、文化以及心理方面的权利长期受到漠视和剥夺，在获取生活资料、参与政治、社会平等、享受文"
+  },
+  {
+   "cn": "纯母乳喂养",
+   "en": "exclusive breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "出生后至满6月龄前的婴儿除母乳外，不给孩子其他食物及饮料，完全依赖母乳满足所需全部液体、能量和营养需要的喂养方式。"
+  },
+  {
+   "cn": "文化排斥",
+   "en": "cultural exclusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与某种文化刻意保持一定距离，拒绝与其交流、了解的现象。容易造成自身文化的封闭、隔离，往往不利于新文化的产生与发展。"
+  },
+  {
+   "cn": "社会排斥",
+   "en": "social exclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会封闭的一种主要方式。居于优势地位的阶级、群体或集团设置各种制度化的屏障以限制较低阶层的社会成员获取某些资格和权益，从而达到垄断资源和机会的目的。"
+  },
+  {
+   "cn": "6个月内婴儿纯母乳喂养率",
+   "en": "exclusive breastfeeding under 6 months of age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用纯母乳喂养的0-5月龄婴儿数与该月龄段全部婴儿数之比。通常用调查前24小时内纯母乳喂养的0-5月龄婴儿数与受调查的该月龄段婴儿总数的百分比表示。"
+  },
+  {
+   "cn": "免于体育测试标准",
+   "en": "exclusion criteria on physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "国家在学校教育工作中针对特殊学生免于执行学生体质健康标准的规范性技术文件。该标准为在实施国家学生体质健康标准过程中，因患病、残疾或丧失运动能力等特殊学生，准予暂缓或免于体质健康测试提供了判断标准和程序"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "区隔",
+   "en": "distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0625",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念，指某种特定文化趣味在同类实践中的位置和差异，这种差异是生物性的、心理的，同时也维持了群体的边界。"
+  },
+  {
+   "cn": "等级差别",
+   "en": "class distinction",
+   "source": "马克思主义",
+   "wordNumber": "03.0049",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会，不同等级由于在经济社会关系中所处的地位不同而享有各自不同的政治经济权力。"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "民族差别",
+   "en": "ethnic distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族之间表现在政治、经济、社会和文化等领域的差异，特别是生产方式、语言、文化、风俗习惯以及心理认同等方面的差异。各民族间的差别是民族现象长期发展的结果，将随着民族自身和民族交往的发展而发展变化，直到"
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "马克思主义",
+   "wordNumber": "02.0432",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "公平合理地分享经济增长，强调社会和经济协调发展、可持续发展，使经济增长和社会进步、人民生活改善同步进行，与单纯追求经济增长相对立。"
+  },
+  {
+   "cn": "超量确证",
+   "en": "excessive corroboration",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对一个理论超过先前理论的多余经验内容进行确证。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

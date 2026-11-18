@@ -1,0 +1,732 @@
+{
+ "key": "world consists",
+ "term": "world consists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:11:00+00:00",
+ "status": "ok",
+ "note": "variant=world consists; 审定公布名词库=535; 海峡两岸名词对照库=220; 其他来源数据库=93; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "稠度",
+   "en": "consistency,consistence",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1140",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "表征当剪切应力作用于材料时，材料抵抗流动(永久变形)的性质。是材料内部摩擦的一种表现。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "17.02.117",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土随着含水量不同而表现的不同物理状态。如固态、半固态、塑态、流态等。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.217",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在逻辑上没有矛盾。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0323",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "润滑脂在规定的剪切力或剪切速度下变形的程度。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "冶金学名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "不定形耐火材料加水或其他液态结合剂后，在自重和外力作用下流动性能的度量。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "物理学名词",
+   "wordNumber": "01.0395",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0262",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "事务执行的结果必须是使数据库从一个一致性状态变到另一个一致性状态。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "服务提供者在任何时候、任何地方都保持同样的优良服务水平的质量特性。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "所有被影响的数据都是一致的。"
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "心理学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即归因对象的行为是否一致或经常出现。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "土木工程名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "电气工程名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "航海科技名词",
+   "wordNumber": "15.0870",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "consistency",
+   "source": "数学名词",
+   "wordNumber": "02.0078",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "09.069",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "自动化名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "ω相容性",
+   "en": "ω-consistency,omega- consistency",
+   "source": "数学名词",
+   "wordNumber": "02.0133",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "密度组成",
+   "en": "densimetric consist,density consist",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.019",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "各密度级产物的质量分布。"
+  },
+  {
+   "cn": "稠度界限",
+   "en": "consistency limit",
+   "source": "地质学名词",
+   "wordNumber": "17.02.118",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "细粒土的稠度由一种状态转变为另一状态时的界限含水率。如液限、塑限等。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，相容性",
+   "en": "consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一致性检验",
+   "en": "consistency check",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency\",\"thickness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准稠度",
+   "en": "standard consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稠度试验",
+   "en": "consistency test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热力学一致性",
+   "en": "thermodynamic consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量纲一致性",
+   "en": "dimensional consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一致性试验",
+   "en": "consistency test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内部一致性",
+   "en": "internal consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别一致性",
+   "en": "gender consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知一致性",
+   "en": "cognitive consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态一致性",
+   "en": "ecological consistence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "土壤结持度",
+   "en": "soil consistency",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑一致性",
+   "en": "logical consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "conformance\",\"consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据一致性",
+   "en": "data consistency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行",
+   "en": "World Bank",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "镜像世界",
+   "en": "mirror world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟世界",
+   "en": "virtual world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界纪录",
+   "en": "world record",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度的一致性",
+   "en": "consistency of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界贸易组织",
+   "en": "World Trade Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行集团",
+   "en": "World Bank Group",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界气象组织",
+   "en": "World Meteorological Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "境界",
+   "en": "Jingjie (Visionary World)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小世界网络",
+   "en": "small-world network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "不同研究结果的方向和程度彼此差异不大，得到相同或类似的结论的特性。"
+  },
+  {
+   "cn": "世界",
+   "en": "world",
+   "source": "马克思主义",
+   "wordNumber": "01.0018",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全部事物组成的统一的集合体，包括自然界、人类社会和思维。世界统一于物质，并处于永恒运动、变化和发展之中；世界是可以被认识的，但人类在特定历史条件下的认识无法穷尽世界。"
+  },
+  {
+   "cn": "内部一致性信度",
+   "en": "internal consistency",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "量表中测量同一个概念的多个计量指标的一致性程度，目前普遍使用克朗巴赫a 系数(Cronbach’s a coefficient)来检验量表的一致性程度。"
+  },
+  {
+   "cn": "一致性评价",
+   "en": "consistency evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.35",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在不同研究、不同生物学层面（如分子、细胞、组织/器官、动物、人群）及不同测试系统中，评价反复观察到某一化学物引起的不良效应的一致性的过程。包括评价毒理学一致性、方法学一致性、统计学一致性和结论一致性"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "广义指人类创造的一切事物的总和；狭义指个人参与或生活于其中，但又与之相对的人们有意义互动的范围。与“自然界”相对。"
+  },
+  {
+   "cn": "小世界",
+   "en": "small-world",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "网络分析中对陌生人之间距离的一种论述，认为现实社会中陌生人关系的距离比人们感受到的要近很多，其中最为典型的“六度分隔假设”认为，连接两个陌生人的最短连接数不超过6步，这在米尔格拉姆(Milgram）等"
+  },
+  {
+   "cn": "世界体系",
+   "en": "world-system",
+   "source": "社会学名词",
+   "wordNumber": "2.9.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_世界体系理论",
+   "subjectName": "世界体系理论",
+   "publishYear": "2025",
+   "definition": "大于任何从法律上定义的政治单位，具有特定范围、结构、成员集团、生命周期、合理规则和凝聚力的经济实体和社会体系。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "客观世界",
+   "en": "objective world",
+   "source": "马克思主义",
+   "wordNumber": "01.0168",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人们意识之外独立存在的物质世界，包括自然界和人类社会。客观世界是独立存在的，不依赖主观世界，并决定主观世界的内容和变化。"
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "物质世界",
+   "en": "material world",
+   "source": "马克思主义",
+   "wordNumber": "01.0182",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外的客观世界，其根本特性是客观实在性。承认世界的物质性，承认它是在时间、空间中依其固有的规律运动、变化和发展，是坚持辩证唯物主义的基本前提。"
+  },
+  {
+   "cn": "精神世界",
+   "en": "spiritual world",
+   "source": "马克思主义",
+   "wordNumber": "01.0191",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在认识和改造客观世界的过程中逐渐形成的意识活动及其结果构成的世界，表现为思想、观念、意志、欲望、情感等形式。精神世界和物质世界共同构成人们生活的世界。"
+  },
+  {
+   "cn": "世界贸易",
+   "en": "world trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0283",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由世界各国对外贸易构成的国际间的商品流通。世界贸易中，商品的国际价格是商品的国际价值为基础，随供求的变化而变动。"
+  },
+  {
+   "cn": "世界市场",
+   "en": "world market",
+   "source": "马克思主义",
+   "wordNumber": "02.0284",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界范围内通过对外贸易联系起来的各国市场的总体。世界市场的形成使得相关国家之间的经济联系和竞争在世界范围内扩展。"
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0315",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界各国的经济相互联系和相互依存而构成的世界范围的经济整体。它是在国际分工和世界市场的基础上，把各国的生产、流通和其他经济方面联系在一起。"
+  },
+  {
+   "cn": "世界历史",
+   "en": "world history",
+   "source": "马克思主义",
+   "wordNumber": "03.0175",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义关于人类发展的重要观点。随着社会生产力的发展、贸易自由的实现和世界市场的建立，随着现代工业生产以及与之相适应的生活条件的趋于一致，各国人民之间的民族分隔日益消失。原始封闭状态由于日益完善的生"
+  },
+  {
+   "cn": "世界革命",
+   "en": "world revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0290",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界范围的社会革命。有资产阶级世界革命，也有无产阶级世界革命，又称国际无产阶级革命。马克思恩格斯从资本主义的世界存在出发，认为共产主义只有作为“世界历史性的”存在才有可能实现；共产主义革命不仅是一个国"
+  },
+  {
+   "cn": "古代",
+   "en": "ancient world",
+   "source": "马克思主义",
+   "wordNumber": "04.0043",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通指奴隶制时代，从开始出现阶级分化到奴隶制瓦解。广义的古代也包括原始公社制时代。因各国、各民族发展不同，无统一界限。"
+  },
+  {
+   "cn": "开放世界",
+   "en": "opening world",
+   "source": "马克思主义",
+   "wordNumber": "04.0164",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于国家发展与对外开放关系的基本观点。十一届三中全会以后，邓小平同志集中了党和人民的智慧，在总结建国30多年正反两方面经验的基础上，在研究国际经验和世界经济形势的基础上，提出了“现代的世界是开放"
+  },
+  {
+   "cn": "和谐世界",
+   "en": "harmonious world",
+   "source": "马克思主义",
+   "wordNumber": "04.0203",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七大报告提出，要推动建设持久和平、共同繁荣的和谐世界，在国际关系中弘扬民主、和睦、协作、共赢精神，政治上共同推进国际关系民主化，经济上共同推动经济全球化朝着均衡、普惠、共赢方向发展，文化上共同促"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

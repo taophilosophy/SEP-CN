@@ -1,0 +1,782 @@
+{
+ "key": "public health interventions",
+ "term": "public health interventions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:18:34+00:00",
+ "status": "ok",
+ "note": "variant=public health interventions; 审定公布名词库=5347; 海峡两岸名词对照库=1008; 其他来源数据库=274; 预公布名词数据库=1251; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "健康干预",
+   "en": "health intervention",
+   "source": "行为医学名词",
+   "wordNumber": "8.03",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "针对各类人群的健康危险因素进行全面检查、监测、分析、评估、预测、干预并维护其身心健康的全过程。"
+  },
+  {
+   "cn": "公共健康",
+   "en": "public health",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.169",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）既是指导、维持和改进所有人健康的科学、技能和信念的综合，也是一种必须通过社会的力量来实现的相关社会产品。（2）义同“公共卫生”。"
+  },
+  {
+   "cn": "健康干预方案",
+   "en": "health intervention program",
+   "source": "行为医学名词",
+   "wordNumber": "8.031",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "针对影响健康、与疾病密切相关的不良生活习惯与行为方式，体检发现的异常结果等危险因素制定的纠正、防治措施，以及采取的系统性健康规划及健康促进策略。"
+  },
+  {
+   "cn": "公共卫生事件",
+   "en": "public health event",
+   "source": "急救医学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "急救医学_灾难医学_基本概念_突发事件分类与分级",
+   "subjectName": "突发事件分类与分级",
+   "publishYear": "2025",
+   "definition": "造成或者可能造成社会公众健康严重损害的重大传染病疫情、群体性不明原因疾病、重大食物和职业中毒及其他严重影响公众健康的事件。"
+  },
+  {
+   "cn": "公共卫生监测",
+   "en": "public health surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.054",
+   "subjectFullName": "行为医学_预防保健行为_公共卫生监测",
+   "subjectName": "公共卫生监测",
+   "publishYear": "2022",
+   "definition": "长期、连续、系统地收集有关健康事件、卫生问题的资料，科学分析和甄别后获得重要公共卫生信息的过程。"
+  },
+  {
+   "cn": "公共卫生事件",
+   "en": "public health emergency",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0479",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "造成或可能造成社会公众健康严重损害的重大传染病疫情、群体性不明原因疾病、重点食物和职业中毒等影响公众健康的事件。"
+  },
+  {
+   "cn": "公共卫生口腔医学",
+   "en": "public health dentistry",
+   "source": "医学名词 第二分册",
+   "wordNumber": "01.039",
+   "subjectFullName": "医学_口腔医学_口腔医学总论",
+   "subjectName": "口腔医学总论",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "口腔公共卫生",
+   "en": "oral public health",
+   "source": "医学名词 第二分册",
+   "wordNumber": "07.036",
+   "subjectFullName": "医学_口腔医学_牙体手术、牙髓病学、牙周病学",
+   "subjectName": "牙体手术、牙髓病学、牙周病学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "健康危险因素干预",
+   "en": "health risk factor intervention",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "应用临床医学、预防医学、行为医学、心理学、营养学和其他健康相关学科的理论和方法对个体和群体的健康危险因素进行控制和处理，以达到预防疾病、促进健康、延长寿命的行为。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "经济学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "资本主义制度中，与自由放任相对立的一种经济政策。在资本主义生产资料私有制条件下，生产经营管理权属于私人资本家手中，资产阶级国家不具有直接管理经济的职能，只能通过一些间接的手段来影响私人资本的活动。这种"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "电力名词",
+   "wordNumber": "17.829",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "任何旨在减小或避免不属于受控实践的或因事故而失控的辐射源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "核医学名词",
+   "wordNumber": "02.0542",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "任何旨在减小或避免非受控实践或因事故而失控的辐射或辐射可能性风险所采取的有意识的阻止或变更的行为。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "任何意在减少或避免来自不属于受控实践的、或因事故而失控的源所致的照射或可能受照而采取的行动。"
+  },
+  {
+   "cn": "干预措施",
+   "en": "intervention",
+   "source": "教育学名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "有计划地提高组织和个人的绩效水平的方法与活动。分为知识技能和组织环境两大类，用于解决信息和知识的缺乏或组织环境因素导致的绩效问题。"
+  },
+  {
+   "cn": "兽医公共卫生学",
+   "en": "veterinary public health;VPH",
+   "source": "兽医学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "是利用一切与人类和动物健康问题有关的理论知识、实践活动和物质资源，研究生态平衡、环境污染、人兽共患病、动物性食品安全、实验动物比较医学，以及现代生物技术与人类健康之间的关系，以保护和增进人类身心健康和"
+  },
+  {
+   "cn": "公共卫生社会工作",
+   "en": "public health social work",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.093",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "社会工作者为改善人群的健康状况而提供的专业社会服务。"
+  },
+  {
+   "cn": "国际公共卫生法",
+   "en": "international public health law",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "我国在与国际社会的相互交往中，在有关公共卫生领域所接受的具有法律约束力的公共卫生惯例、条约、规则等法律规范的总和。"
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "emergency public health event",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "造成或者可能造成社会公众健康严重损害的重大传染病疫情、群体不明原因的疾病、重大食物中毒和职业中毒以及其他严重影响公众健康的突发事件。"
+  },
+  {
+   "cn": "公共保健系统",
+   "en": "public health care system",
+   "source": "地理学名词",
+   "wordNumber": "08.049",
+   "subjectFullName": "地理学_医学地理学",
+   "subjectName": "医学地理学",
+   "publishYear": "2006",
+   "definition": "医疗卫生保健服务的机构、设施和组织网络。"
+  },
+  {
+   "cn": "卫生监督所",
+   "en": "Institute of Public Health Supervision",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在其辖区内，依照法律、法规行使卫生监督职责的执行机构。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公共保健系统",
+   "en": "public health care system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表象调节",
+   "en": "imagery intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机干预",
+   "en": "crisis intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭干预",
+   "en": "family intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "介入材料",
+   "en": "intervention materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "人工干预",
+   "en": "manual intervention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "公有土地",
+   "en": "public land\",\"public domain",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参与承兑汇票",
+   "en": "intervention for honour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多种货币干预",
+   "en": "multi-currency intervention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公共市场",
+   "en": "public market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共投资",
+   "en": "public investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信贷",
+   "en": "public credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公开投标",
+   "en": "public tender",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球公共卫生安全",
+   "en": "global public health security",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球公共卫生治理",
+   "en": "global public health governance ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生应急指挥信息系统",
+   "en": "public health emergency command information system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家公共卫生应急管理体系",
+   "en": "national public health emergency management system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际关注的突发公共卫生事件",
+   "en": "public health emergency of international concern (PHEIC)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有链",
+   "en": "public blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据",
+   "en": "public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共充权",
+   "en": "public empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生",
+   "en": "public health",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以群体为对象，通过有组织的活动预防和控制疾病、维护和促进健康、提高生活质量、延长健康寿命的行业与科学。"
+  },
+  {
+   "cn": "社区健康干预",
+   "en": "community health intervention",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.12",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "通过科学评估社区健康需求，制定并实施针对性的健康促进、疾病预防和行为改变策略，以改善居民整体健康水平的服务模式。其核心是通过多部门协作、资源整合和居民参与，解决社区主要健康问题。"
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.032",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "造成、或者可能造成社会公众健康严重损害的重大传染病疫情、群体不明原因的疾病、重大食物中毒和职业中毒以及其他严重影响公众健康的突发事件。"
+  },
+  {
+   "cn": "公共卫生法",
+   "en": "public health law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.187",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "调整公共卫生活动中的各种社会关系的法律规范的总称。包括食品卫生、职业卫生、环境卫生、学校卫生、放射卫生和传染病防治、地方病防治等方面的法律规范。"
+  },
+  {
+   "cn": "公共卫生机构",
+   "en": "public health agencies",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.4",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府设立并依法承担疾病预防控制、健康促进、环境卫生、疫情响应等职能的专门机构，通常包括疾病控制中心、卫生健康委员会、地方公共卫生部门等。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "任何旨在减少或避免不属于受控实践的或因事故而失控的源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.16",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "目的在于减少事实上业已存在的照射（例如事故照射）的任何行动，包括变更已存在的照射原因，限定已存在的照射途径，以及改变人们的习惯、行动和生活环境，以防止其受到照射。"
+  },
+  {
+   "cn": "突发公共卫生事件卫生保障",
+   "en": "health security for public health emergency",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.2.4",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "研究突发公共卫生事件的特点与危害，重点关注事件预警、应急预案和应急力量建设，减少突发公共卫生事件的危害。"
+  },
+  {
+   "cn": "公共卫生体系改革",
+   "en": "public health system reform",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "对公共卫生机构的服务网络、服务功能进行系统的改变与革新。"
+  },
+  {
+   "cn": "“互联网+”公共卫生服务",
+   "en": "internet+ public health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "以互联网技术为载体，通过居民电子健康档案提供的健康管理以及通过大数据技术提供的疾病预测、传染病监测等公共卫生服务的总称。"
+  },
+  {
+   "cn": "学校突发公共卫生事件",
+   "en": "school public health emergencies",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "学校内或学校所在地区突然发生，造成或者可能造成师生员工健康严重损害的重大传染病疫情、群体性不明原因疾病、重大食物和职业中毒以及其他严重影响师生员工健康的事件。"
+  },
+  {
+   "cn": "公共卫生工作伦理",
+   "en": "public health work ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.046",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "研究预防疾病和损伤、保护及提升人群健康的公共卫生活动中的伦理问题及其应遵循的伦理原则、伦理规范和伦理要求。"
+  },
+  {
+   "cn": "公立医疗卫生机构",
+   "en": "public health care institute",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.6",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "经济性质为国有或集体所有的医疗卫生机构。"
+  },
+  {
+   "cn": "专业公共卫生机构",
+   "en": "professional public health institute",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.5",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "提供疾病监测、预防、保健、健康促进等公共卫生服务，并开展相关培训与研究的卫生机构，包括疾病预防控制和卫生监督中心、妇幼保健机构、健康教育机构等。"
+  },
+  {
+   "cn": "基本公共卫生服务",
+   "en": "essential public health service",
+   "source": "社会医学名词",
+   "wordNumber": "8.5.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务提供",
+   "publishYear": "2025",
+   "definition": "针对城乡居民的主要健康问题，重点面向儿童、孕产妇、老年人和慢性病患者等重点人群，免费提供的最基本的公共卫生服务。如免疫规划、孕产期保健、高血压管理。资金主要由政府承担。"
+  },
+  {
+   "cn": "学校突发公共卫生事件卫生监督",
+   "en": "health supervision of school public health emergencies",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "县级以上人民政府卫生健康行政部门、疾病预防控制部门，依据相关法律法规、规章，对学校、医疗卫生机构、有关单位及人员在学校发生突发公共卫生事件时开展应急处理工作进行卫生监督检查的活动。"
+  },
+  {
+   "cn": "卫生服务市场政府干预",
+   "en": "government intervention in health service market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为克服卫生服务市场失灵，弥补市场机制的缺陷，促进市场发展，规范市场运行，对卫生服务市场的总体进行调节和控制的行为。"
+  },
+  {
+   "cn": "公共卫生服务供给",
+   "en": "supply of public health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.5.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "为保障社会公众健康，由公共卫生部门或其他卫生组织在一定时间内、一定价格水平下，愿意且能够提供的用以满足社会公共卫生需求的服务和数量。"
+  },
+  {
+   "cn": "卫生服务公益性",
+   "en": "public welfare of health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在卫生服务提供过程中，除了增进个体健康，服务还具有增进公共健康的社会效益属性。"
+  },
+  {
+   "cn": "学校突发公共卫生事件报告",
+   "en": "school public health emergency report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得学校突发公共卫生事件相关信息后，按有关规定及时、准确地向所在地区疾病预防控制机构报告突发公共卫生事件及其处置情况的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

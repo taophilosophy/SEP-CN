@@ -1,0 +1,742 @@
+{
+ "key": "pos arguments",
+ "term": "PoS arguments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:18:43+00:00",
+ "status": "ok",
+ "note": "variant=PoS arguments; 审定公布名词库=364; 海峡两岸名词对照库=115; 其他来源数据库=22; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "耳点",
+   "en": "porion,Po",
+   "source": "医学名词 第二分册",
+   "wordNumber": "05.112",
+   "subjectFullName": "医学_口腔医学_口腔正畸学",
+   "subjectName": "口腔正畸学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "大弃赌论证",
+   "en": "Dutch book arguments",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.221",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "用来支持贝叶斯主义的主要论证。如果我们的主观置信度不遵守概率论，那么可以设计出赌局，让我们在所有可能情况下都输钱。"
+  },
+  {
+   "cn": "自变量",
+   "en": "argument,independent variable",
+   "source": "物理学名词",
+   "wordNumber": "01.0072",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极轨卫星",
+   "en": "polar orbiting satellite\",\"POS",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋通信卫星",
+   "en": "Pacific Ocean Satellite\",\"POS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "销售点",
+   "en": "point of sale\",\"POS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "送给咪的诗",
+   "en": "Poèmes pour Mi",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Messiaen, Olivier"
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "POS机",
+   "en": "point-of-sales (POS) machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位姿",
+   "en": "pose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位姿追踪",
+   "en": "pose tracking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指令位姿",
+   "en": "command pose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程位姿",
+   "en": "programmed pose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实到位姿",
+   "en": "attained pose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无源光纤网络",
+   "en": "passive optical network (PON)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "务联网",
+   "en": "Internet of Services (IoS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位姿准确性漂移",
+   "en": "drift of pose accuracy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位姿重复性漂移",
+   "en": "drift of pose repeatability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私有公用",
+   "en": "privately owned public space (POPS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "钋-210",
+   "en": "210Po",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "元素钋的一种放射性同位素，半衰期约为138.37 天。符号为²¹⁰Po。常污染谷物类、蔬菜类和水果类等食品。"
+  },
+  {
+   "cn": "苯教",
+   "en": "Bon po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0436",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "中国本土宗教之一，西藏古代盛行的一种原始宗教。崇奉天地、山林、水泽的神鬼精灵和自然物，重祭祀、占ト、禳解等。在吐蕃王朝前期苯教占统治地位，佛教传入西藏后，势力渐衰，后吸收佛教内容，改佛经为苯经，繁衍教"
+  },
+  {
+   "cn": "亲教师",
+   "en": "Mkhan po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.048",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏语称为“堪布”，梵音译作邬波驮那，是传授出家戒或近圆戒的僧人。亲教师的标准有四：坚定、精通、谨严和谋利。具体包含十二个方面，具怜悯心和忍耐性、随从戒律清净、见地同、性相同、能说、懂理等"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "钵阐布",
+   "en": "Dpal chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0526",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "吐蕃官职，意为“吐蕃宰相沙门”。798 年赤德松赞即位后，建立高僧掌政制度，设立钵阐布官职，任命佛教高僧勃阑伽•贝吉云丹及娘定埃增为掌政大臣，其地位高于外戚及诸权贵。822 年唐朝和盟专使入蕃与钵阐布"
+  },
+  {
+   "cn": "大圆满法",
+   "en": "Rdzogs pa chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0444",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。宁玛派九乘教法至高无上的法门，即是即身成佛之密法。强调通过对本初智慧的洞察，离于取舍、希惧，而获得解脱。教法传承始自普贤王如来，总的分为远传和近传两种传承，修行次第分加行和正行。"
+  },
+  {
+   "cn": "牟尼赞普",
+   "en": "Mu khri btsan po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0407",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（762 年—798 年）藏族历史人物，为吐蕃赞普赤松德赞的次子，系第38 代吐蕃赞普（797年—798 年在位），汉文史籍作“足之煎”。他信奉佛教，在位期间曾四次于桑耶地区供养僧人，他以王朝收入供给"
+  },
+  {
+   "cn": "塔波拉杰",
+   "en": "Dwags po lha rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1079 年—1153 年）藏传佛教塔波噶举派创始人，本名索南仁钦，西藏塔波人，属尼氏家族。1094 年出家受戒，1110 年拜米拉日巴为师，受金刚亥母灌顶，并修习拙火定法。1121 年，于塔波地区"
+  },
+  {
+   "cn": "松赞干布",
+   "en": "Srong btsan sgam po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0413",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（569 年—650 年） 藏族著名历史人物，吐蕃著名赞普。13 岁继其父之吐蕃王位。在位期间发展吐蕃生产，创制藏文，定立法律、官制和军制，迎娶唐朝文成公主，吸收中原文化，引进先进生产技术，促进了唐、"
+  },
+  {
+   "cn": "《白史》",
+   "en": "Deb ther dkar po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0376",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名著，根敦群培（1903-1951 年）著。作者首次利用敦煌藏文写卷和汉文史料，系统研究和考证了藏文的产生、藏族的族源、地名、服饰、风俗等古代藏族的经济、政治、文化等问题。"
+  },
+  {
+   "cn": "大手印",
+   "en": "Phyag rgya chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0442",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。系藏传佛教噶举派的教法，由印度大成就者萨惹哈传授。为证悟心性的最直接的修持方法之一，也是金刚乘见地的基本构成部分。显教大手印是以经教证空性，密教大手印以“空乐双运为道”，又名“唯一白法”"
+  },
+  {
+   "cn": "《蓝琉璃》",
+   "en": "Bee dya sngon po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0348",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族医学名著。或译《四部医典蓝琉璃》，第悉•桑结嘉措著。成书于17 世纪，原为藏文木刻版。本书即是对《四部医典》的全面整理和解释，为后世藏族医学界及寺院之曼巴扎仓（医学院）奉为医学经典，。"
+  },
+  {
+   "cn": "聂赤赞普",
+   "en": "Gnyav khri btsan po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0422",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史人物，为西藏历史上第一代藏王（赞普），史称“悉补野王统世系”之始，到松赞干布建立吐蕃王朝，一共传了32 代。其在位年代，众说纷纭，有公元前3、公元前2 世纪说等。《雍布拉康志》、《弟乌宗教源流"
+  },
+  {
+   "cn": "唐东杰布",
+   "en": "Thang stong rgyal po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0417",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1385 年—1464 年）为藏传佛教噶举派僧人和藏族地区家喻户晓的著名历史人物，被奉为藏戏和铁器工匠的鼻祖。他和山南穷结县境内一户叫百纳家的七姐妹，组成歌舞演出团，募化资金，用募款修建一百多座铁索"
+  },
+  {
+   "cn": "《黄琉璃》",
+   "en": "Bee dya ser po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0345",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "格鲁派教法史著作，全称《格鲁派教法史黄琉璃》。第悉•桑结嘉措（1653 年—1705 年）著，成书于1692 年—1698 年间，全书共分30 章，根据翔实的资料记述了格鲁派兴起的历史和宗喀巴生平事迹"
+  },
+  {
+   "cn": "《红史》",
+   "en": "Deb ther dmar po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0344",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族佛教历史名著。噶举派著名学者蔡巴•贡噶多杰（1309 年—1364 年）著，成书於1346年，全书分26 章，有诸多异本。作者运用大量史料，对印、汉、藏等民族历史作了概要性的论述。重点记述了吐番王"
+  },
+  {
+   "cn": "布达拉宫",
+   "en": "Pho brang po ta la",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0573",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "西藏建筑名称，位于拉萨市的西北，是西藏最为宏伟的建筑。布达拉系梵语Potalaka 之音译，原指观音菩萨岛。为松赞干布所建，他被认为是观音菩萨的化身，故有此名。17 世纪重建后，成为历代达赖喇嘛的冬宫"
+  },
+  {
+   "cn": "堪布会议厅",
+   "en": "Council of Khan-po Assembly",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0237",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "又称“班禅行辕”。民主改革前，西藏政教领袖班禅管理扎什仑布寺与所属分寺、庄田及属民政教事务之机构。"
+  },
+  {
+   "cn": "宇妥•云丹贡布",
+   "en": "Gyu thog yon tan mgon po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.042",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（708 年—833 年）吐蕃时期杰出的藏族医学家。堆龙吉纳地方（今西藏堆龙德庆境内）人。出生医生世家，其祖父和父亲皆为吐蕃赞普之御医。自幼从父学医，10 岁吐蕃赞普赤德祖赞遣其至桑耶寺学习深造，被誉"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

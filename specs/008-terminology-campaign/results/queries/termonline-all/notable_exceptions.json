@@ -1,0 +1,762 @@
+{
+ "key": "notable exceptions",
+ "term": "notable exceptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:20:22+00:00",
+ "status": "ok",
+ "note": "variant=notable exceptions; 审定公布名词库=812; 海峡两岸名词对照库=298; 其他来源数据库=57; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0344",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序执行过程中发生的导致程序无法继续执行的事件。通常引发操作系统异常处理例程来处理发生的事件。"
+  },
+  {
+   "cn": "例外控制",
+   "en": "exception control",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "遵循泰勒提出的例外管理原则，对偏离计划和预制效果的事件实施应用控制，一般事务则通过授权由下级管理人员处理的控制方法。"
+  },
+  {
+   "cn": "文化例外",
+   "en": "cultural exception",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.043",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "将文化产品和服务排除在国际贸易谈判之外的原则。最早由法国在“世贸”前身“关贸总协定”的谈判中提出。基于文化的特殊性和重要性，该原则反对将文化列入一般性服务贸易内容之中，即在世贸组织有关自由贸易的协议中"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0345",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序在运行时，对不属于正常业务逻辑的意外或异常情况进行处理的过程。"
+  },
+  {
+   "cn": "寻址异常",
+   "en": "addressing exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0500",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在根据逻辑地址访问物理内存单元过程中发生的异常。"
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0346",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责找到异常所对应的处理例程并使其被调度执行的操作系统程序。"
+  },
+  {
+   "cn": "例外原则",
+   "en": "exception principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0310",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "泰勒(Frederick W. Taylor)确定的划分组织层级管理权限的原则。按照层次分工授权，各级自主处理本级职责内常规事务，各级只处理下一级汇报上来的例外事务。"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.183",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "exceptional child",
+   "source": "心理学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "需给予特殊的教育帮助才能充分发展的儿童。"
+  },
+  {
+   "cn": "额外超载",
+   "en": "exceptional overload",
+   "source": "电气工程名词",
+   "wordNumber": "20.179",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "例外值",
+   "en": "exceptional value",
+   "source": "数学名词",
+   "wordNumber": "05.0431",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "例外曲线",
+   "en": "exceptional curve",
+   "source": "数学名词",
+   "wordNumber": "04.1231",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "陵寝类",
+   "en": "emperor and notable tombs category",
+   "source": "风景园林名词",
+   "wordNumber": "04.0228",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区类型",
+   "subjectName": "风景名胜区类型",
+   "publishYear": "2025",
+   "definition": "以帝王、名人陵寝为主要内容的风景名胜区。包括陵区的地上、地下文物和文化遗存，以及陵区的环境。"
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0347",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责调度和执行异常处理程序的操作系统程序。"
+  },
+  {
+   "cn": "例外字",
+   "en": "exceptional reading character",
+   "source": "语言学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言里面今读音不符合古今音对应规律的汉字。例如根据古今音规律，中古止摄开口三等字“玺徙”字在北京话里应该跟“死”同音，由于避讳，这两个字读音例外。"
+  },
+  {
+   "cn": "阔大货物",
+   "en": "exceptional dimension freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0160",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "超长货物",
+   "en": "exceptional length freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "例外若尔当代数",
+   "en": "exceptional Jordan algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1484",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "除外条款",
+   "en": "exception clause,exemption clause",
+   "source": "航海科技名词",
+   "wordNumber": "13.0092",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "特殊儿童异质性",
+   "en": "heterogeneity of exceptional children",
+   "source": "教育学名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊儿童与普通儿童群体之间在生理和心理方面的差异或指特殊儿童个体之间存在的差异。"
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级例外运费率",
+   "en": "exception rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "例外条款",
+   "en": "exception clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理程序",
+   "en": "exception handler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特佳能见度",
+   "en": "exceptional visibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "另有相反的规定除外",
+   "en": "except otherwise herein provided",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "饮用水",
+   "en": "potable water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饮用水",
+   "en": "potable water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定平衡",
+   "en": "unstable balance\",\"unstable equilibrium",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定条件",
+   "en": "unstable condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定系统",
+   "en": "unstable system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定响应",
+   "en": "unstable response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非稳态",
+   "en": "unstable state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非稳态燃烧",
+   "en": "unstable combustion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "可移动天线",
+   "en": "movable antenna",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可移动望远镜",
+   "en": "movable telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "便携式计算机",
+   "en": "portable computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可移动板",
+   "en": "movable board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可移动压舱物",
+   "en": "movable ballast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击台",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分表",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乒乓球台",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录台",
+   "en": "minor official’s table\",\"score table\",\"scorer’s table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌上督办",
+   "en": "portable supervision app",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浩然之气",
+   "en": "Noble Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医生席",
+   "en": "doctor’s table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判台",
+   "en": "officials’ table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手提式喷雾器",
+   "en": "portable sprayer",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.7.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "由操作人员单手或双手提起操作，将消毒液雾状喷射的设备。"
+  },
+  {
+   "cn": "不稳定性消毒剂",
+   "en": "unstable disinfectant",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.8",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "在储存或使用过程中有效成分不稳定的消毒剂。"
+  },
+  {
+   "cn": "贵族",
+   "en": "noble",
+   "source": "马克思主义",
+   "wordNumber": "03.0044",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶制社会和封建社会中，因血统、世袭、战功等而获得经济、政治特权的上层阶级。经过演变，贵族包括军事贵族、世俗贵族、宗教贵族、金融贵族等类别。"
+  },
+  {
+   "cn": "稳定性戊二醛",
+   "en": "stable glutaraldehyde",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在2%～2.5% 戊二醛中加入适量表面活性剂和缓冲剂形成的pH值中性的戊二醛溶液。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "仅由碘的非放射性同位素（127I）组成的碘化合物。经常被用来作为甲状腺阻断剂。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "该同位素不具有放射性。与之相应的碘-131，具有放射性和不稳定性。其有多种存在形式，如碘酸钾、碘化钾等。"
+  },
+  {
+   "cn": "稳定期",
+   "en": "stable phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.97",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物经过一段时间的生长，由于营养物质的消耗，代谢产物的积累限制菌体的高速度增殖，少数菌体开始死亡，新增殖菌体数和死亡菌数几乎相等，处于动态平航，菌体的生长速度趋向于零。"
+  },
+  {
+   "cn": "非稳定性染色体畸变",
+   "en": "unstable chromosome aberration",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "因各种原因在细胞分裂时被丢失的染色体畸变。如无着丝粒断片、微小体、无着丝粒环、双着丝粒和着丝粒环等。"
+  },
+  {
+   "cn": "便携式辐射仪",
+   "en": "portable radiation meter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.17",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "可携带的用于测量与电离辐射有关的各种量的仪器。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  },
+  {
+   "cn": "流动表",
+   "en": "mobility table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.114",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据相同变量的两种情形将个体予以分配的两维列联表。用以区分发生了变化的个体和未发生变化的个体。"
+  },
+  {
+   "cn": "稀疏表",
+   "en": "sparse table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.117",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "带有许多很少或0频次的列联表。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "建表",
+   "en": "build table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "新生入学时按照相关规范要求，进行健康检查，并将检查结果等信息以纸质表格形式记录的过程。"
+  },
+  {
+   "cn": "存表",
+   "en": "save table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生纸质健康档案建立后,由学校卫生工作人员负责存放在学校卫生室的过程；无卫生室的学校由负责健康体检的单位指导校方保存，并有专人负责保存。"
+  },
+  {
+   "cn": "转表",
+   "en": "transfer table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生转学及升学时将纸质健康档案转入新校的过程。"
+  },
+  {
+   "cn": "稳定性染色体畸变",
+   "en": "stable chromosome aberration",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在细胞分裂过程中，没有力学上的障碍，能在细胞中保留下来，并能保持相对恒定的染色体畸变。如易位、插入、缺失和倒位等。"
+  },
+  {
+   "cn": "稳定碘预防",
+   "en": "stable iodine prophylaxis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "当核或辐射紧急情况已经或可能导致释放放射性碘的情况下，服用稳定性碘化合物，以防止或减少甲状腺对放射性碘的吸收的紧急防护行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

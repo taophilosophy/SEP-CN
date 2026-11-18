@@ -1,0 +1,782 @@
+{
+ "key": "act-consequentialist counterpart",
+ "term": "act-consequentialist counterpart",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:13:35+00:00",
+ "status": "ok",
+ "note": "variant=act-consequentialist counterpart; 审定公布名词库=754; 海峡两岸名词对照库=193; 其他来源数据库=79; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "光学对应体",
+   "en": "optical counterpart",
+   "source": "天文学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "与非光学波段观测到的辐射源证认为同一对象的光学天体。"
+  },
+  {
+   "cn": "射电对应体",
+   "en": "radio counterpart",
+   "source": "天文学名词",
+   "wordNumber": "04.100",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "在非射电波段观测到，又在射电波段得以证认的天体。"
+  },
+  {
+   "cn": "红外对应体",
+   "en": "infrared counterpart",
+   "source": "天文学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "在非红外波段观测到，又在红外波段得以证认的天体。"
+  },
+  {
+   "cn": "产形齿条",
+   "en": "counterpart rack",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0049",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "一个能与基本齿条相贴合的齿条，其中一个齿条的齿恰好充满另一个齿条的齿槽。"
+  },
+  {
+   "cn": "行政管理相对人",
+   "en": "administrative counterpart",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0388",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "与行政主体相对称，在具体的行政法律关系中处于被管理地位的组织或个人。"
+  },
+  {
+   "cn": "γ射线对应体",
+   "en": "γ-ray counterpart",
+   "source": "天文学名词",
+   "wordNumber": "04.103",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "在γ射线波段观测到，又在其他波段得以证认的天体。"
+  },
+  {
+   "cn": "X射线对应体",
+   "en": "X-ray counterpart",
+   "source": "天文学名词",
+   "wordNumber": "04.102",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "在非X射线波段观测到，又在X射线波段得以证认的天体。"
+  },
+  {
+   "cn": "动作",
+   "en": "act",
+   "source": "心理学名词",
+   "wordNumber": "02.697",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体在一定动机和目的驱动下对相应客体做出的系列运动。"
+  },
+  {
+   "cn": "激活素",
+   "en": "activin,ACT",
+   "source": "计划生育名词",
+   "wordNumber": "02.204",
+   "subjectFullName": "计划生育_生殖医学基础_激素",
+   "subjectName": "激素",
+   "publishYear": "2019",
+   "definition": "由2个β亚单位以二硫键偶联而成的二聚体。在卵泡早期发育中起主要作用。"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当与任何其他的选择相比，所导致的结果至少与其他的选择所导致的结果一样好。"
+  },
+  {
+   "cn": "行动义务论",
+   "en": "act-deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.093",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "义务论的分支。认为不存在任何普遍的道德规则，只有不能加以普遍化的特殊行为、情况，人们在某特殊情况下基于自己所相信或所感觉而做出的决定或采取的行为，该理论不以理性为基础，而是诉诸人的直觉。"
+  },
+  {
+   "cn": "言语行为",
+   "en": "speech act",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.043",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "通过说话而完成的语言活动。由英国哲学家约翰·奥斯汀(John L.Austin)在20世纪50年代提出。他认为我们的话语除了记述话语外，还存在施行话语。语言表达除了简单陈述的功能，还具有实施某种行为的"
+  },
+  {
+   "cn": "美国电信法",
+   "en": "Telecommunications Act",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.128",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_电信传播政策",
+   "subjectName": "电信传播政策",
+   "publishYear": "2022",
+   "definition": "一般指1996年通过的美国电信法。其规定内容主要涉及电话、广播、有线电视节目分配服务和信息内容四个方面，强调电信市场中的竞争。该法令被视为美国电信业发展进程中的一个里程碑，也是电信管制历史上的一次革命"
+  },
+  {
+   "cn": "刻板动作",
+   "en": "stereotyped act",
+   "source": "行为医学名词",
+   "wordNumber": "16.1",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "重复、单调地做没有指向性和没有意义动作的精神病理状态。"
+  },
+  {
+   "cn": "强制动作",
+   "en": "forced act",
+   "source": "行为医学名词",
+   "wordNumber": "16.102",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "将自己的动作体验为不随意的，感到无法抵抗的精神病理状态。"
+  },
+  {
+   "cn": "激活素",
+   "en": "activin;ACT",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.241",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科肿瘤与内分泌",
+   "subjectName": "妇科肿瘤与内分泌",
+   "publishYear": "2022",
+   "definition": "由卵巢分泌的一种非类固醇多肽糖蛋白。由抑制素的两个β亚单位构成。主要在垂体局部通过自分泌作用，增加垂体细胞的促性腺激素释放激素（GnRH）受体数量，提高垂体对GnRH的反应性，从而刺激卵泡刺激素的产生"
+  },
+  {
+   "cn": "印花税法",
+   "en": "Stamp Act",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "印花税诞生于荷兰，是在转移文件归属时所交的税，因纳税后在文件上盖有官方印章而得名。1694年英国尝试印花税法，1712年印花税法规定将印刷业尤其是报纸纳入其中，导致报纸发行成本上涨。"
+  },
+  {
+   "cn": "刻板动作",
+   "en": "stereotyped act",
+   "source": "精神医学名词",
+   "wordNumber": "02.252",
+   "subjectFullName": "精神医学_症状与体征_精神科体征",
+   "subjectName": "精神科体征",
+   "publishYear": "2019",
+   "definition": "重复、单调地做没有指向性和没有意义的动作的一种精神病理状态。"
+  },
+  {
+   "cn": "强制动作",
+   "en": "forced act",
+   "source": "精神医学名词",
+   "wordNumber": "02.254",
+   "subjectFullName": "精神医学_症状与体征_精神科体征",
+   "subjectName": "精神科体征",
+   "publishYear": "2019",
+   "definition": "受检者出现不随意的、不受自己支配的、感到无法抵抗的动作。见于脑器质性精神障碍受检者，偶见于精神分裂症受检者。"
+  },
+  {
+   "cn": "意动心理学",
+   "en": "act psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与内容心理学相对。主张心理学的研究对象应是知觉、理解、意志等意识的活动，而非意识的内容。由布伦塔诺(F. Brentano)创立。"
+  },
+  {
+   "cn": "光学对应体",
+   "en": "optical counterpart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "红外对应体",
+   "en": "infrared counterpart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "射电对应体",
+   "en": "radio counterpart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对等基金",
+   "en": "counterpart fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "γ射线对应体",
+   "en": "γ-ray counterpart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "X射线对应体",
+   "en": "X-ray counterpart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行动",
+   "en": "act",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语活动",
+   "en": "speech act",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关税法",
+   "en": "tariff act",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电信法",
+   "en": "telecommunication act",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后文件",
+   "en": "final act",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自作用",
+   "en": "self-acting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行动-频率法",
+   "en": "act frequency approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法案》（美国）",
+   "en": "Privacy Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《1997年电信传输法》（澳大利亚）",
+   "en": "Telecommunications Act 1997 (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "JOBS法案",
+   "en": "Jumpstart Our Business Startups Act (JOBS Act)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字保护法》（澳大利亚）",
+   "en": "Digital Protection Act (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《信息技术法》（印度）",
+   "en": "Information Technology Act (India)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据保护法》（英国）",
+   "en": "Data Protection Act (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《2010年网络安全法案》（美国）",
+   "en": "Cybersecurity Act of 2010 (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《国家量子计划法》（美国）",
+   "en": "National Quantum Initiative Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《金融科技保护法》（美国）",
+   "en": "Financial Technology Protection Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《反互联网犯罪法》（巴西）",
+   "en": "Anti-Internet Crimes Act (Brazil)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全加强法》（美国）",
+   "en": "Cyber Security Enhancement Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全基本法》（日本）",
+   "en": "Cyber Security Basic Act (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人信息保护法》（新加坡）",
+   "en": "Personal Data Protection Act (Singapore)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法扩展令》（加拿大）",
+   "en": "Privacy Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《联邦数据保护法》（德国）",
+   "en": "Federal Data Protection Act (Germany)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卖淫法",
+   "en": "prostitution act",
+   "source": "社会学名词",
+   "wordNumber": "3.3.4.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性法律",
+   "subjectName": "性法律",
+   "publishYear": "2025",
+   "definition": "有关卖淫行为的法律规定。在卖淫问题的立法上，世界上有三种不同的做法：卖淫非法化、卖淫合法化和卖淫非罪化。"
+  },
+  {
+   "cn": "行动",
+   "en": "the act",
+   "source": "马克思主义",
+   "wordNumber": "05.0091",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "齐泽克受拉康驱力思想的启发而形成的概念，指突破资本主义体制的激进行为，对资本主义现存的一切都说“不”，在现存体制下做不可能之事。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "言语行为",
+   "en": "speech act",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0113",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "言有所为的话语。由话语的功能而不是话语的结构界定的言语行动。例如，“我宣布某某运动会现在开幕”“我命名本船为某某号”，此类话语具有执行力, 相当于为运动会开始、为新船下水采取的一个行动。"
+  },
+  {
+   "cn": "核恐怖主义行为",
+   "en": "act of nuclear terrorism",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "出于政治或意识形态的理由，以危害人、财产和环境为目的，拥有或使用放射性物质或核装置的行为；出于同样目的破坏核设施或威胁使用放射性物质或核装置的行为。"
+  },
+  {
+   "cn": "长效避孕方法",
+   "en": "long-acting contraceptive method",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一次启用（手术切除、或被置入体内、宫腔内或口服、注射等）后，避孕效果可以持续发挥1个月以上的避孕方法，包括宫内节育器、皮下埋植剂、女性绝育术、男性绝育术、长效避孕针等"
+  },
+  {
+   "cn": "短效避孕方法",
+   "en": "short-acting contraceptive method",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间短于或等于1个月经周期，甚至仅限一次性交过程的避孕方法。包括复方短效口服避孕药、紧急避孕药、男用避孕套、女用避孕套、安全期法、体外排精法、外用避孕药等。"
+  },
+  {
+   "cn": "短效口服避孕药",
+   "en": "short-acting oral contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由低剂量人工合成的雌激素（多为炔雌醇）配伍孕激素、或单纯孕激素的口服避孕制剂。根据使用说明需要至少21天连续每日服用，避孕效果可维持一个月。服用期间，服用者处于暂时不孕状态，停用后又能恢复生育功能。"
+  },
+  {
+   "cn": "长效口服避孕药",
+   "en": "long-acting oral contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由人工合成的孕激素和长效雌激素（炔雌醚）配伍的复方避孕片剂。每月按照使用说明服用一次可维持较长时间（通常是1个月）的避孕效果。"
+  },
+  {
+   "cn": "先奏后斩先斩后奏斩而不奏不斩不奏",
+   "en": "report first and then act to act first and report afterwards to act without reporting not to report and not to act",
+   "source": "马克思主义",
+   "wordNumber": "03.0438",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对王明等人“一切经过统一战线”“一切服从统一战线”的思想，毛泽东在《统一战线中的独立自主问题》一文中提出的关于统一战线中既统一、又独立的策略方针。旨在不破坏统一战线的基础上，大胆开展工作，扩大革命力"
+  },
+  {
+   "cn": "长效可逆性避孕方法",
+   "en": "long-acting reversible contraception, LARC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长于1个月，但停用后使用者的生育力可以恢复的避孕方法。包括宫内节育器、皮下埋植剂、长效避孕针"
+  },
+  {
+   "cn": "长效永久性避孕方法",
+   "en": "long-acting permanent method of contraception, LAPM",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长达十几年或几十年，一般不能被逆转，即不能恢复生育能力的避孕方法。包括男性绝育术和女性绝育术。"
+  },
+  {
+   "cn": "党必须在宪法和法律的范围内活动",
+   "en": "Party must act within the scope prescribed by the constitution and laws",
+   "source": "马克思主义",
+   "wordNumber": "03.0725",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法是国家的最高权威，法律是我国一切个人和组织的行为准则。党是一种组织，要在宪法和法律的范围内活动。1982年党的十二大党章首次规定：“党必须在宪法和法律的范围内活动”。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

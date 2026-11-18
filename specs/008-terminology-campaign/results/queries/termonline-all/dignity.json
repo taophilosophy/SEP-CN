@@ -1,0 +1,462 @@
+{
+ "key": "dignity",
+ "term": "dignity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:14:02+00:00",
+ "status": "ok",
+ "note": "variant=dignity; 审定公布名词库=80; 海峡两岸名词对照库=34; 其他来源数据库=1; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "人格尊严权",
+   "en": "right of personal dignity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.104",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "公民所具有的人格尊严应当受到社会和他人尊重的权利，一般包括名誉权、肖像权、姓名权、隐私权、荣誉权等。中国公民的人格尊严权受宪法保护。"
+  },
+  {
+   "cn": "人格尊严权",
+   "en": "right to dignity of personality",
+   "source": "行为医学名词",
+   "wordNumber": "9.019",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "自然人享有的人格尊严不受损害的权利。属于具有伦理性品格的权利，主体对自己尊重和被他人尊重的统一。是对个人价值主观和客观评价的结合。"
+  },
+  {
+   "cn": "趾",
+   "en": "digit,digitus,digiti(复)",
+   "source": "昆虫学名词",
+   "wordNumber": "11.060",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "附肢（包括螯肢）末端的指状或爪状突起。"
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite,brown coal",
+   "source": "电力名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "煤化程度低的煤。外观多呈褐色,光泽暗淡,含有较高的内在水分和腐殖质。"
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite,brown coal",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.212",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "煤化程度最低的矿产煤。外观呈褐色或黑褐色，水含量高、挥发分高、易粉碎、易自燃。"
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite,brown coal",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "煤炭科学技术_煤炭科技总论",
+   "subjectName": "煤炭科技总论",
+   "publishYear": "1996",
+   "definition": "煤化程度低的煤，其外观多呈褐色,光泽暗淡,含有较高的内在水分和不同数量的腐植酸。"
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite,brown coal",
+   "source": "地质学名词",
+   "wordNumber": "07.372",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "褐煤提质",
+   "en": "lignite upgrading",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "03.0080",
+   "subjectFullName": "化工（一）_煤制油及天然气_煤制油",
+   "subjectName": "煤制油",
+   "publishYear": "2017",
+   "definition": "褐煤在小于250℃温度脱去大部分游离水后，用甲苯等有机物提取褐煤蜡、腐植酸的过程。"
+  },
+  {
+   "cn": "中阶褐煤",
+   "en": "ortho-lignite",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.285",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_煤化学及煤质分析",
+   "subjectName": "煤化学及煤质分析",
+   "publishYear": "1996",
+   "definition": "国际煤层煤分类中,含水无灰基高位发热量低于15MJ/kg的低煤阶煤。代表符号LRC。"
+  },
+  {
+   "cn": "高阶褐煤",
+   "en": "meta-lignite",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.286",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_煤化学及煤质分析",
+   "subjectName": "煤化学及煤质分析",
+   "publishYear": "1996",
+   "definition": "国际煤层煤分类中，含水无灰基高位发热量15MJ/kg到低于20MJ/kg的低煤阶煤。代表符号LRB。"
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite;brown coal",
+   "source": "地质学名词",
+   "wordNumber": "14.06.071",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "煤化程度最低的煤。泥炭经成岩作用形成的一种腐殖煤。颜色多呈褐色、黑褐色，光泽暗淡，有时可见到木质结构，密度低，含碳量及发热量较低，含水分较多，挥发分＞40％，无黏结性。依据煤化程度可分为软褐煤和硬褐煤"
+  },
+  {
+   "cn": "科学的不统一性",
+   "en": "disunity of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.220",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "由斯坦福学派提出。各门科学有其自主性与特殊性，反对本体论与方法论上的普遍主义与单一性。"
+  },
+  {
+   "cn": "指/趾发育不全",
+   "en": "hypoplastic digit",
+   "source": "手外科学名词",
+   "wordNumber": "05.1072",
+   "subjectFullName": "手外科学_手外科学分论_上肢先天性畸形",
+   "subjectName": "上肢先天性畸形",
+   "publishYear": "2020",
+   "definition": "手指或足趾未能完成全部发育。多为相对对称、不伴有其他畸形的发育缺陷。系外胚层发育不全所致，有一定遗传性。"
+  },
+  {
+   "cn": "数字编码",
+   "en": "digit coding",
+   "source": "物理学名词",
+   "wordNumber": "04.1521",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数字广度",
+   "en": "digit span",
+   "source": "心理学名词",
+   "wordNumber": "03.235",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "被试能立即正确再现的最长数字序列的长度。"
+  },
+  {
+   "cn": "数字轮",
+   "en": "digit wheel",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.120",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表",
+   "subjectName": "汽车仪表",
+   "publishYear": "2013",
+   "definition": "十进位数字的圆形字轮。"
+  },
+  {
+   "cn": "翼指骨",
+   "en": "wing digit",
+   "source": "古生物学名词",
+   "wordNumber": "03.0335",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_翼龙类",
+   "subjectName": "翼龙类",
+   "publishYear": "2009",
+   "definition": "翼龙为适应飞行出现的特别加粗加长的第四指骨，第五指骨退化消失。第四指一侧附着翼膜，是翼膜的重要支撑结构。"
+  },
+  {
+   "cn": "大手指",
+   "en": "major digit",
+   "source": "古生物学名词",
+   "wordNumber": "03.0386",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_鸟类",
+   "subjectName": "鸟类",
+   "publishYear": "2009",
+   "definition": "鸟类的第二指骨(胚胎学研究通常认为这相当于原始四足类的第三指骨)，由于一般较其他指骨大，故此得名。附着初级飞羽。"
+  },
+  {
+   "cn": "小手指",
+   "en": "minor digit",
+   "source": "古生物学名词",
+   "wordNumber": "03.0387",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_鸟类",
+   "subjectName": "鸟类",
+   "publishYear": "2009",
+   "definition": "鸟类的第三指骨(胚胎学研究通常认为这相当于原始四足类的第四指骨)，由于一般相对于大手指较为细小，故此得名。"
+  },
+  {
+   "cn": "小翼指",
+   "en": "alular digit",
+   "source": "古生物学名词",
+   "wordNumber": "03.0388",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_鸟类",
+   "subjectName": "鸟类",
+   "publishYear": "2009",
+   "definition": "鸟类的第一指骨(胚胎学研究通常认为这相当于原始四足类的第二指骨)，由于支撑小翼羽，故此得名。"
+  },
+  {
+   "cn": "趾",
+   "en": "digit\",\"digitus\",\"digiti(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "褐煤",
+   "en": "lignite",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "指",
+   "en": "digit\",\"digitus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "趾",
+   "en": "digit\",\"digitus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "数字",
+   "en": "digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字广度",
+   "en": "digit span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "八进制数字",
+   "en": "octal digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二进制数字",
+   "en": "binary digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十进制数字",
+   "en": "decimal digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十六进制数字",
+   "en": "hexadecimal digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字编码",
+   "en": "digit coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字拨号",
+   "en": "digit dialing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核对数字",
+   "en": "check digit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "螯趾",
+   "en": "cheliceral digit",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "小指伸肌",
+   "en": "extensor digiti minimi",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小指展肌",
+   "en": "abductor digiti minimi",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小趾展肌",
+   "en": "abductor digiti minimi",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "指背腱膜",
+   "en": "aponeurosis dorsalis digiti",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生命尊严",
+   "en": "dignity of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.046",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命本身所具有的不可侵犯的内在价值，以及人在生存过程中应获得的尊重和体面。"
+  },
+  {
+   "cn": "尊严死",
+   "en": "death with dignity",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.015",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "在承认患者拥有拒绝治疗权利的基础上，对于处于目前医学治疗无望的终末期患者，充分尊重患者的个人意愿，放弃使用某些可能延长生命，但增加痛苦的人工生命维持手段，使其平静、自然、有尊严地离世的死亡方式。"
+  },
+  {
+   "cn": "腊肠指/趾",
+   "en": "sausage digit",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.19",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "手指（足趾）弥漫性非凹陷性水肿的症状。有紧绷感，失去了正常的凹凸多峰的轮廓，而从侧面看呈圆的半球状，状似“腊肠样”。"
+  },
+  {
+   "cn": "数字跨度",
+   "en": "digit span",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "选自韦斯勒成人智力量表及韦斯勒记忆量表中的一个语言分项测验，可反应受试者听记忆。"
+  },
+  {
+   "cn": "数字译码",
+   "en": "digit symbol",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "韦氏成人智力量表的一个分测验项目，评价受试者感知-运动速度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

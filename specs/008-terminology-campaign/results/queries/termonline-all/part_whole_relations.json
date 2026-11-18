@@ -1,0 +1,712 @@
+{
+ "key": "part-whole relations",
+ "term": "part-whole relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:16:44+00:00",
+ "status": "ok",
+ "note": "variant=part-whole relations; 审定公布名词库=2609; 海峡两岸名词对照库=829; 其他来源数据库=262; 预公布名词数据库=340; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "整体-部分关系",
+   "en": "whole-part relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.284",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "主题词之间的一种等级关系。两个主题词表达的概念，其中一个概念概括地表示某一事物整体，另一概念仅表示该事物的某一部分或某一方面。"
+  },
+  {
+   "cn": "整体与部分",
+   "en": "whole and part",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "自然辩证法_总论_自然界的辩证法",
+   "subjectName": "自然界的辩证法",
+   "publishYear": "2024",
+   "definition": "表征事物同其组成要素的关系的一对范畴。部分是构成整体的组成单元或要素，整体是由部分统一构成的。任何事物都存在着部分与整体两个方面，部分与整体是对立的统一。"
+  },
+  {
+   "cn": "分合型切分歧义",
+   "en": "part-whole segmentation ambiguous",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1144",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "词语切分中的一种歧义现象。指的是对于连续出现的汉字A和B，在一种语境中AB是分词单位，在另一种语境中A和B分别是分词单位。"
+  },
+  {
+   "cn": "以偏概全",
+   "en": "take a part for the whole",
+   "source": "行为医学名词",
+   "wordNumber": "2.102",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "以片面的观点看待整体问题。以某一件或某几件事来评价自身或他人的整体价值。是一种不合理的思维方式。"
+  },
+  {
+   "cn": "全血",
+   "en": "whole blood",
+   "source": "普通外科学名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "医学_普通外科学_输血",
+   "subjectName": "输血",
+   "publishYear": "2026",
+   "definition": "采用特定的方法将符合要求的献血者体内一定量外周静脉血采集至塑料血袋内，与一定量的保养液混合而成的血液制剂。"
+  },
+  {
+   "cn": "全媒体",
+   "en": "whole media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.088",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "传播主体采用文字、图表、视频、音频、动画、动图等表现手法，通过数字化媒体形式，覆盖所有用户媒体使用场景的传播方式。全媒体包括全程媒体、全息媒体、全员媒体和全效媒体等四个方面。"
+  },
+  {
+   "cn": "全空间",
+   "en": "whole space",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2682",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "观测场中，在包围场源的全部解析空间中确定的由场源产生的位场。 "
+  },
+  {
+   "cn": "整体思维",
+   "en": "whole thinking",
+   "source": "地球物理学名词",
+   "wordNumber": "11.0043",
+   "subjectFullName": "地球物理学_灾害学",
+   "subjectName": "灾害学",
+   "publishYear": "2022",
+   "definition": "体现中华传统文化的智慧的整体思维。总体上宏观把握事物发展的全过程，综合认识事物之间的整体联系。 "
+  },
+  {
+   "cn": "全净膛",
+   "en": "whole carcass",
+   "source": "畜牧学名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "在半净膛的基础上，再除去内脏并保留头、颈、爪的禽屠体。"
+  },
+  {
+   "cn": "全谷物",
+   "en": "whole grain",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0668",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "含有胚乳、胚芽和皮层的谷物。与精制谷物相对应，精制谷物只含有胚乳。"
+  },
+  {
+   "cn": "全麦粉",
+   "en": "whole meal",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0682",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "经过清理的小麦研磨成粗细度符合要求的面粉。主要用于制作面包等主食，不适合制作精细的面制品。"
+  },
+  {
+   "cn": "整菇",
+   "en": "whole mushroom",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1534",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_其他食品（食用菌、蜂制品等）",
+   "subjectName": "其他食品（食用菌、蜂制品等）",
+   "publishYear": "2020",
+   "definition": "以完整子实体做成的加工菇。"
+  },
+  {
+   "cn": "全血",
+   "en": "whole blood",
+   "source": "烧伤学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤休克防治",
+   "subjectName": "烧伤休克防治",
+   "publishYear": "2019",
+   "definition": "将人体内血液采集到采血袋内所形成的混合物。包括血细胞和血浆的所有成分。"
+  },
+  {
+   "cn": "总期号",
+   "en": "whole number",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "出版者给出的连续出版物创刊以来不间断地连续标识期刊期次的号码，是该种连续出版物期次的总编号。"
+  },
+  {
+   "cn": "整体收缩",
+   "en": "whole contraction",
+   "source": "化学名词",
+   "wordNumber": "03.0299",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "单纯形优化中单纯形移动的1个规则。当试验点的试验效果比沿试验点与单纯形的形心点的连线上各点的效果都好，单纯形向试验点与单纯形的形心点的连线之间的空间移动。"
+  },
+  {
+   "cn": "整体策略",
+   "en": "whole strategy",
+   "source": "心理学名词",
+   "wordNumber": "02.631",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在人工概念形成中，依据全部刺激形成假设的策略。"
+  },
+  {
+   "cn": "全电路[式]",
+   "en": "whole-circuit",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.070",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "拥有网间电路的全部使用权。"
+  },
+  {
+   "cn": "全草",
+   "en": "whole herb",
+   "source": "中医药学名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "茎内木质部不发达，木质化细胞较少的植物的整体。"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "部分-整体关系",
+   "en": "part whole relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "部分-整体学习法",
+   "en": "part whole method of learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同类乐器组合",
+   "en": "whole consort",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全赔保险",
+   "en": "whole coverage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分谱",
+   "en": "part",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大角咽部",
+   "en": "ceratopharyngeal part\",\"keratopharyngeal part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "副交感部",
+   "en": "parasympathetic part\",\"parasympathic part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感部",
+   "en": "sympathetic part\",\"sympathic part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "口[部]",
+   "en": "mouth part\",\"oral part",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "全音符",
+   "en": "semibreve\",\"whole note",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全部报告法",
+   "en": "whole report procedure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全树利用",
+   "en": "whole-tree utilization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "全岩芯分析",
+   "en": "whole core analysis",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "全臂融合",
+   "en": "whole-arm fusion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整装制片",
+   "en": "whole mount preparation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整臂易位",
+   "en": "whole-arm translocation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "七情",
+   "en": "seven relations",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阶段",
+   "en": "part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体政府",
+   "en": "whole of government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摆动部位",
+   "en": "swing part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道不同，不相为谋",
+   "en": "Part Ways and Part Company",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整体与部分",
+   "en": "whole and the part",
+   "source": "马克思主义",
+   "wordNumber": "01.0043",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整体是指事物的各内在要素相互联系构成有机统一体及其发展全过程；部分是指组成有机统一体的各个方面、要素及其发展全过程的某一个阶段。整体包含部分，部分从属于整体。两者在一定条件下可以互相影响，互相转化。整"
+  },
+  {
+   "cn": "全谷物",
+   "en": "whole grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.4",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "含有胚乳、胚芽和皮层的谷物。与精制谷物相对应,精制谷物只含有胚乳。"
+  },
+  {
+   "cn": "全人群",
+   "en": "whole population",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.123",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一地区作为研究对象的全部人口，包括食用关注食品的人群和非食用人群"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "一定网络边界内的社会关系的总和。多用于分析具有相对明确范围的社会网络，比如村落共同体、工作组织，或学校班级内的关系网络。整体网是与个体网相对的概念，是以网络内全体成员间关系为分析对象，其结构形态是分析"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "全面洗消作业",
+   "en": "whole-process decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.7",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "对污染范围内的场所和物品进行全面洗消处理的过程，是洗消中难度最大的作业。"
+  },
+  {
+   "cn": "全身计数器",
+   "en": "whole-body counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "从人体外直接测量人体内的放射性物质所发射出的X射线或γ射线，进行放射性核素的定性及定量分析的装置。"
+  },
+  {
+   "cn": "全校参与模式",
+   "en": "whole-school approach",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "一种超越课堂教学，渗透到学校生活各方面的方法，包括教学内容和方法、学校治理和学校合作、校园及设施管理。是学校社区用来改善学生学习、行为、福祉及支持他们的各种条件的一种具有凝聚力的、集体的、协作式方法。"
+  },
+  {
+   "cn": "全身性疲劳",
+   "en": "whole-body fatigue",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.3.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在动员全身多数肌群参与体力（训练）活动以完成作业任务时，由于劳动强度、持续时间、肌群动员数都较高，肌群活动时的总需求超过心、肺功能所能供应的氧与葡萄糖产生的能量及清除代谢产物的能力时的身体表现。"
+  },
+  {
+   "cn": "全身计数器",
+   "en": "whole body counter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.22",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "直接测量整个机体内放射性物质性质和水平的装置。它使用一个或多个辐射探测器并对环境的电离辐射进行重屏蔽。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "总论",
+   "en": "general part",
+   "source": "食品卫生学名词",
+   "wordNumber": "1",
+   "subjectFullName": "食品卫生学_总论",
+   "subjectName": "总论",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "可食用部分",
+   "en": "edible part",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品原料经过机械手段（如谷物碾磨、水果剥皮、坚果去壳、肉去骨、鱼去刺、贝去壳等）去除非食用部分后，所得到的用于食用的部分。"
+  },
+  {
+   "cn": "全民国家和全民党",
+   "en": "whole peoples country and the whole peoples party",
+   "source": "马克思主义",
+   "wordNumber": "05.0222",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1961年10月苏共在其二十二大纲领中提出的观点。苏共认为：“无产阶级专政在保证社会主义，即共产主义第一阶段取得完全的最终的胜利，保证社会过渡到全面展开的共产主义建设之后，就完成了自己的历史使命；从国"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

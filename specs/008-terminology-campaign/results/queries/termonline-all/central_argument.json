@@ -1,0 +1,732 @@
+{
+ "key": "central argument",
+ "term": "central argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:05:55+00:00",
+ "status": "ok",
+ "note": "variant=central argument; 审定公布名词库=5046; 海峡两岸名词对照库=1546; 其他来源数据库=325; 预公布名词数据库=273; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "集中主义",
+   "en": "centralism",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "强调通过集中发展来提高大城市发展效益并解决相应城市问题的一系列规划理论思想。"
+  },
+  {
+   "cn": "集权化",
+   "en": "centralization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0103",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策权在很大程度上向处于较高的管理层次的职位集中的组织状态和组织过程。"
+  },
+  {
+   "cn": "中枢论",
+   "en": "centralism",
+   "source": "心理学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与外周论相对。把心理事件的起因置于身体之内，认知心理学是其典型代表。"
+  },
+  {
+   "cn": "央化",
+   "en": "centralization",
+   "source": "语言学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "一种语流音变现象。狭义指前元音和后元音（广义指外围元音）在发音时舌位向中央位置靠拢。例如普通话“棉花”［miεn xua］变读为［miεn xuǝ］。"
+  },
+  {
+   "cn": "扶正器",
+   "en": "centralizer",
+   "source": "石油名词",
+   "wordNumber": "04.0059",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "中心化子",
+   "en": "centralizer",
+   "source": "数学名词",
+   "wordNumber": "04.1759",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "集中性",
+   "en": "centrality",
+   "source": "自动化名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "中央分隔带",
+   "en": "central separator,central mall",
+   "source": "土木工程名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "土木工程_桥梁工程_桥梁总体规划与设计",
+   "subjectName": "桥梁总体规划与设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集中采购",
+   "en": "centralized acquisition,centralized purchasing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.369",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "在采购管理部门指导下，依据采购管理办法，由图书馆文献集中采购委员会等组织机构通过公开招标、邀请招标、竞争性谈判、询价采购和单一来源采购等方式确定各类文献供应商，委托和监督图书馆组织完成相应文献采购的方"
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心性",
+   "en": "centrality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中央体",
+   "en": "central body\",\"corpus centrale(拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "中央沟",
+   "en": "central sulcus\",\"central groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中丝",
+   "en": "central wire\",\"central thread",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "中央栓（=中央颗粒）",
+   "en": "central plug (=central granule)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中枢突",
+   "en": "central process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央部",
+   "en": "central part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央层",
+   "en": "central stratum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央动脉",
+   "en": "central artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央骨",
+   "en": "central bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央管",
+   "en": "central canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央乳糜管",
+   "en": "central lacteal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央小叶",
+   "en": "central lobule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央节",
+   "en": "central nodule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中央颗粒",
+   "en": "central granule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中央鞘",
+   "en": "central sheath",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中央射枝",
+   "en": "central ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中场",
+   "en": "central court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "central line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集中式体系架构",
+   "en": "centralized architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "距离中心度",
+   "en": "closeness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "介数中心度",
+   "en": "betweenness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谱中心度",
+   "en": "spectral centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中心商务区",
+   "en": "central business district",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中央处理器",
+   "en": "Central Processing Unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中央银行加密货币",
+   "en": "centrally banked cryptocurrency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡中心化",
+   "en": "less-centralized regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中央银行数字货币",
+   "en": "Central Bank Digital Currency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中央处理器",
+   "en": "central processing unit (CPU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集权化",
+   "en": "centralization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "把组织决策权、控制权和人事配备权等与计划和决策相关的组织权力，向组织的最高领导层集中的过程或组织行为。与“分权化”相对。"
+  },
+  {
+   "cn": "中央集权",
+   "en": "centralization",
+   "source": "马克思主义",
+   "wordNumber": "03.0226",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“地方分权”相对。国家权力集中由中央政府统一行使的制度。在这种制度下，地方政权在中央政权的严格控制下行使职权，由中央委派的官员或由地方选出的官员代表中央管理地方行政事务，地方居民没有自治权或地方虽设"
+  },
+  {
+   "cn": "中非人",
+   "en": "Central African",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0209",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有中非共和国国籍和公民身份的人们共同体，人口约为590 万（2024 年）。共有巴雅、班达、班图、桑戈等60 多个民族，其中巴雅族人数最多，班达族分布最广。官方语言为法"
+  },
+  {
+   "cn": "向心性肥胖",
+   "en": "central obesity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "身体脂肪分布以躯干、尤其以腹部为主的肥胖。男性腰臀比超过0.9或女性腰臀比超过0.8的肥胖者。"
+  },
+  {
+   "cn": "中央厨房",
+   "en": "central kitchen",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.32",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "由餐饮单位建立的，具有独立场所及设施设备，集中完成食品成品或者半成品加工制作并配送的食品经营者。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "集中检疫",
+   "en": "centralized quarantine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.33",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "在进入市场流通前，活畜统一进入定点屠宰场所，由专业检疫人员按照相关法律法规、检疫标准和规定程序，进行宰前、宰后检查，并由动物卫生监督机构出具检疫证明、加施检疫标志的过程。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "中枢性性早熟",
+   "en": "central precocious puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "因下丘脑－垂体－性腺轴的提前激活导致女孩在8岁以前出现乳房发育和男孩在9岁以前出现睾丸发育的现象。"
+  },
+  {
+   "cn": "资本集中",
+   "en": "centralization of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0164",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个别资本通过相互结合而形成较大的资本。它可以通过许多小资本并入或合并成大资本或大资本兼并小资本等多种途径来增大单个资本总量。"
+  },
+  {
+   "cn": "药品集中采购",
+   "en": "centralized drug procurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.3.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "采购主体采取量价挂钩的方式，寻求降低药品采购价格的药品采购方式。"
+  },
+  {
+   "cn": "集中式供水",
+   "en": "centralized water supply",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督",
+   "subjectName": "学校饮用水卫生监督",
+   "publishYear": "2025",
+   "definition": "自水源集中取水，经统一净化处理和消毒后，通过输配水管送到服务用户或者公共取水点的供水方式。包括城建部门建设的各级城市公共供水和各单位自建设施供水。"
+  },
+  {
+   "cn": "中枢抑制剂",
+   "en": "central nervous system depressant",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.9.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "主要干扰突触信息传递，降低或阻断中枢神经系统的正常活动，往往伴有躯体和植物神经功能紊乱的一类化学物质。"
+  },
+  {
+   "cn": "中枢性睡眠呼吸暂停综合征",
+   "en": "central sleep apnea syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "由呼吸努力的缺乏或减少所致，以睡眠时反复发作的呼吸暂停和低通气为特征的一种睡眠障碍。呼吸现象通常以周期性或间歇性的模式出现。"
+  },
+  {
+   "cn": "中枢兴奋剂",
+   "en": "central nervous system stimulant",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.9.1.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "能提高或易化跨突触的冲动传递，引起过度的神经活动的一类化学物质。"
+  },
+  {
+   "cn": "中亚俄罗斯人",
+   "en": "Russians of Central Asia",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0193",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "中亚民族之一。人口约为1.3-1.5 亿（2015 年）。主要分布在俄罗斯、乌克兰、哈萨克斯坦、白俄罗斯、美国、德国、以色列和加拿大等国。属欧罗巴人种东欧类型。讲俄罗斯语，分南、北两大方言，属印欧语系"
+  },
+  {
+   "cn": "中亚鞑靼人",
+   "en": "Tartar of Central Asia",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0194",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "俄罗斯联邦民族之一。人口约为527.2 万（2011 年）。主要分布在鞑靼斯坦共和国，此外在俄罗斯、哈萨克斯坦、土库曼斯坦、乌兹别克斯坦等中亚国家也有分布。属欧罗巴人种或南西伯利亚人种类型。操鞑靼语，"
+  },
+  {
+   "cn": "医疗废物集中处置",
+   "en": "medical waste centralized disposal",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "取得市级人民政府环境保护行政主管部门颁发危险废物经营许可证的单位，在符合规定的场所按照《医疗废物集中处置技术规范》规定的技术要求，对医疗废物进行处理的过程。"
+  },
+  {
+   "cn": "中央西藏工作座谈会",
+   "en": "Central Xi'zang Work Symposium",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0063",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "围绕西藏发展问题召开的重要会议，第一次于1980 年3 月召开。此后，1984 年、1994 年、2001 年、2010 年、2015 年、2020 年不定期召开。第一、第二次由中共中央书记处名义召开"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "natural goodness",
+ "term": "natural goodness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:07:43+00:00",
+ "status": "ok",
+ "note": "variant=natural goodness; 审定公布名词库=2602; 海峡两岸名词对照库=960; 其他来源数据库=150; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "正商品",
+   "en": "goods",
+   "source": "经济学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来效用或满足的商品叫作正商品。对于这种商品，消费者倾向于选择更多而不是更少。"
+  },
+  {
+   "cn": "商品",
+   "en": "goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可以被移动并出售的产品。"
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "货物贸易",
+   "en": "goods trade",
+   "source": "农学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "实物商品的贸易。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "风景园林名词",
+   "wordNumber": "03.0047",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的非竞争性和受益上的非排他性的产品。"
+  },
+  {
+   "cn": "良医",
+   "en": "good physician",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.067",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "中国古代医术精良、医德高尚的医生。而医术和医德低下的医生被称为“庸医”，这种称呼包含明显的道德评价成分。良医的具体表现是对医术精益求精，对患者视同亲人，敢于面对疑难杂症，勇于探索，善于创新。"
+  },
+  {
+   "cn": "良工",
+   "en": "good craftsman",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "管子学派对品行优良、技艺精湛的工匠的称谓。能够恪守技术规范而从不制作奇技淫巧之物。"
+  },
+  {
+   "cn": "预后良好",
+   "en": "good prognosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.324",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "病情轻的患病动物由于个体情况良好，恢复健康后不影响生产性能和经济价值的情况。"
+  },
+  {
+   "cn": "寝具",
+   "en": "sleeping goods",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.167",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "与睡眠有关的床、床垫、床上用品等物品的统称。其空间方位、对躯体的承托、体表感受等均影响睡眠。"
+  },
+  {
+   "cn": "良质牧草",
+   "en": "good forage ",
+   "source": "草学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "成品",
+   "en": "finished goods",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.026",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "完成全部生产过程，可供销售的制品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.155",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "所有人都可以自由获得的物品或平等提供给一定地域内所有居民的物品。"
+  },
+  {
+   "cn": "诚实信用",
+   "en": "good faith",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.034",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "当事人在市场活动中应讲信用，恪守诺言，诚实不欺，在追求自己利益的同时不损害他人和社会利益，要求民事主体在民事活动中维持双方的利益与社会利益的平衡。"
+  },
+  {
+   "cn": "商品输出",
+   "en": "goods export",
+   "source": "经济学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "垄断前资本主义的经济特征之一。指资本主义企业为获取高额利润，向国外倾销商品。随着资本主义的发展，国内市场越来越不能满足资本家追逐高额利润的要求，因而资本家必然要向国外，特别是向经济不发达国家倾销商品，"
+  },
+  {
+   "cn": "互补品",
+   "en": "complementary goods",
+   "source": "经济学名词",
+   "wordNumber": "03.045",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "必须互相搭配才能满足同一种需要的物品。如果需求的交叉价格弹性系数为负，即一种商品价格的相对变动引起另一种商品需求量相反地相对变动，说明两种商品是互补关系。例如，在其他条件不变的情况下，汽油价格的增加将"
+  },
+  {
+   "cn": "替代品",
+   "en": "substitute goods",
+   "source": "经济学名词",
+   "wordNumber": "03.046",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "可以互相替代以满足同一种需要的物品。如果需求的交叉价格弹性系数为正，即一种商品价格的相对变动引起另一种商品需求量同一方向的相对变动，说明两种商品是替代关系，如茶叶与咖啡，大米和面粉等。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "经济学名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。正常品可以划分为必需品和奢侈品，必需品的需求收入弹性绝对值小于1，而奢侈品的需求收入弹性绝对值大于1。"
+  },
+  {
+   "cn": "吉芬品",
+   "en": "Giffen goods",
+   "source": "经济学名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "价格与消费者的消费量同向变动的商品。吉芬品属于收入效应的绝对值大于替代效应的绝对值的劣等品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "经济学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "公共使用或消费的物品。一般具有非竞争性和非排他性，基本上分为三类：第一类是纯公共物品，即同时具有非排他性和非竞争性；第二类是具有非竞争性的公共物品，但却较为轻易地排他；第三类公共物品又称为共同资源或公"
+  },
+  {
+   "cn": "私人物品",
+   "en": "private goods",
+   "source": "经济学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "可以通过市场机制来配置资源、组织生产，并以市场交换的方式来提供的物品或服务。私人物品具有排他性和竞争性。"
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "古德，理查德",
+   "en": "Goode\",\"Richard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保税货物",
+   "en": "bonded goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商品",
+   "en": "international goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①过境货物 ②转口货物",
+   "en": "floating goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]扣押货物",
+   "en": "seized goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物报关单",
+   "en": "goods declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物抵押贷款",
+   "en": "goods credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经济货物",
+   "en": "economic goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏本出售的商品",
+   "en": "sacrifice goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垄断货物",
+   "en": "monopoly goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "forward goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资货物",
+   "en": "investment goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货",
+   "en": "actual goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应税货物",
+   "en": "dutiable goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正常货物",
+   "en": "normal goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转口货物",
+   "en": "transit goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "性善",
+   "en": "Human Nature Is Good.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "化性起伪",
+   "en": "Transform Intrinsic Evil Nature to Develop Acquired Nature of Goodness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法发球",
+   "en": "good service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性无善无恶",
+   "en": "Human Nature Is Neither Good Nor Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字公共产品",
+   "en": "digital public goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商品再流通",
+   "en": "recirculation of goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "货物质押系统",
+   "en": "goods pledge system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧善治",
+   "en": "intelligent good governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性善恶混",
+   "en": "Human Nature Is a Mixture of Good and Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善终",
+   "en": "good ending",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人因自然衰老而非祸患的无痛苦死亡。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "劣等品",
+   "en": "inferior goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为负的商品，消费者对该商品的需求水平随收入的增加而下降。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "良好健康",
+   "en": "good health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "是养育人进行良好照护的结果，具体包括监测儿童身心健康状态、回应儿童日常需要、保护儿童免受环境威胁、注意卫生预防感染、利用预防保健服务并及时诊治儿童疾病。"
+  },
+  {
+   "cn": "优逝",
+   "en": "good death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "关注临终者死亡质量的理念。医疗实践中以个人和社会文化为基础，通过科学、规范、个体化的安宁疗护和姑息护理，提供全方位的心理支持与生理照护，减少终末期患者身心痛苦。"
+  },
+  {
+   "cn": "好撒玛利亚人",
+   "en": "Good Samarian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "这是一个比喻，是耶稣在路加福音10：25-37 中讲述的一个教导故事。一位旅行者，被剥去衣服，殴打，在路旁半死。首先来了一位牧师，之后是利未人，但他们都绕过了这个人，没有理会。最后，是一位撒马利亚人来"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "消费品生产",
+   "en": "consumer goods production",
+   "source": "马克思主义",
+   "wordNumber": "02.0211",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用来满足人们物质和文化生活需要的那部分社会产品的生产活动。人类的生产活动，归根到底是为了生产生活资料的活动。"
+  },
+  {
+   "cn": "医疗用品费用",
+   "en": "medical goods expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.6.5",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "利用医疗用品所支付的费用。"
+  },
+  {
+   "cn": "纯公共产品",
+   "en": "pure public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在消费方面具有完全的非竞争性或受益上完全的非排他性公共产品。"
+  },
+  {
+   "cn": "准公共产品",
+   "en": "quasi-public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上有限的非竞争性或受益上有限的非排他性的公共产品。"
+  },
+  {
+   "cn": "必需消费品",
+   "en": "essential consumer goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在经济学概念中，被社会认为人人应该得到的、服务价格弹性小、成本效益较好的产品。"
+  },
+  {
+   "cn": "特需消费品",
+   "en": "specialty consumer goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "用于满足某种特殊需要的、可根据人们的消费能力和偏好自由选择的产品。"
+  },
+  {
+   "cn": "善恶",
+   "en": "good and evil",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.117",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "用于对人的行为进行道德评价的伦理学范畴。善是对符合一定社会道德原则和规范的行为的肯定评价；恶是对违背一定社会道德原则和规范的行为的否定评价。作为元伦理范畴，客体有利于满足主体需要、实现主体欲望、符合主"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "type recursions",
+ "term": "type recursions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:09:08+00:00",
+ "status": "ok",
+ "note": "variant=type recursions; 审定公布名词库=3385; 海峡两岸名词对照库=677; 其他来源数据库=46; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0294",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "莱文森递归",
+   "en": "Levinson recursion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2705",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "在矩阵方程 Ra=r的求解计算中有效地利用了 R和 r的对称性，递归计算方程的解，核心是运用产生随机数 (更多的是伪随机数 )的数学方法。该方法典型地用于随机地求解难于实施的高维空间。 "
+  },
+  {
+   "cn": "递推法",
+   "en": "recursion method",
+   "source": "物理学名词",
+   "wordNumber": "01.0507",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0159",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算函数的不动点定理。"
+  },
+  {
+   "cn": "原始递归",
+   "en": "primitive recursion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0116",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "原始递归算子。给定函数 f(x),g(x,y,z) ，该算子定义函数 h 如下：① h(x,0)=f(x) ；② h(x,y+1)=g(x,y,h(x,y)) 。 "
+  },
+  {
+   "cn": "回归保持",
+   "en": "recursion keeping",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.034",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "莱文森递推",
+   "en": "Levinson recursion",
+   "source": "石油名词",
+   "wordNumber": "03.0711",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "数学名词",
+   "wordNumber": "02.0220",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始递归式",
+   "en": "primitive recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归技术",
+   "en": "recursive technique",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1923",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "基于递归公式的计算技术。递归公式将某些系数的 (如滤波器的 )第 n阶与第 (n.1)阶联系在一起。希望得到的第 n阶系数便可从第 0阶的初始值开始，迭代运用该公式求得。 "
+  },
+  {
+   "cn": "递归滤波",
+   "en": "recursive filter",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2557",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "其输出既依赖于输入及滤波响应函数，又依赖于以前的输出的滤波器。 "
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0753",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "把问题分解为规模缩小了的同类问题的子问题，然后采用递归调用函数（或过程）来求得原问题的解。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个部分递归函数还是全函数，则称其为递归函数。"
+  },
+  {
+   "cn": "递归规则",
+   "en": "recursive rule",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0237",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "对规则左部的非终极符号进行递归定义。如： U → xUy ，即为递归规则。"
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0195",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种用递归的逻辑程序定义或涉及递归规则求值的查询。"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "μ递归函数",
+   "en": "μ-recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0125",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "由μ算子定义的递归函数。"
+  },
+  {
+   "cn": "递归关系",
+   "en": "recursive relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个关系所对应的函数是递归函数，则称它为一个递归关系。"
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0545",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "能被一个对任何输入都停机的图灵机接受的语言。"
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归",
+   "en": "tail recursion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归删除",
+   "en": "tail recursion elimination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归块编码",
+   "en": "recursive block coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型",
+   "en": "data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种类法定",
+   "en": "statutory types",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂数据类型",
+   "en": "complex data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型标准",
+   "en": "data type standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "L型冠状病毒",
+   "en": "L-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S型冠状病毒",
+   "en": "S-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "型式检验",
+   "en": "type inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品各项指标的全面检验，以评定产品质量是否全部符合标准和达到安全性、有效性要求。"
+  },
+  {
+   "cn": "文化类型",
+   "en": "culture type",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "在文化分类中，一种由经过选择的、相同整合程度的各文化核心特征丛(constellations of core features）所合成的文化结构或文化系统形式。美国人类学家林顿(R.Linton）等人"
+  },
+  {
+   "cn": "组织类型",
+   "en": "organizational type",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.7.1  营利组织  for-profit organization"
+  },
+  {
+   "cn": "Ⅰ型超敏反应",
+   "en": "type Ⅰhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "已致敏的机体再次接触相同抗原后在数分钟内所发生的超敏反应。"
+  },
+  {
+   "cn": "II型超敏反应",
+   "en": "type Ⅱhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "IgG或IgM类抗体与细胞表面相应抗原或基质抗原结合，激活补体系统并在巨噬细胞和中性粒细胞参与下，造成组织损伤的超敏反应。"
+  },
+  {
+   "cn": "气质类型",
+   "en": "temperament type",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对气质按照体液、体型、血型、神经活动类型等来进行的分类。"
+  },
+  {
+   "cn": "模式株",
+   "en": "type strain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.52",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "至少定义到属或种水平的菌株。按期特征进行分类和描述，有明确的的来源"
+  },
+  {
+   "cn": "故事类型",
+   "en": "tales type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0446",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "世界通行的一种民间故事研究方法，指民间故事中重复出现的情节模式，包含了民间故事在相当广阔的地域中经过相当长时间的流传而形成的不同异文，这些异文虽在细节上有各种不同的表述，但主题和基本情节始终一致。一个"
+  },
+  {
+   "cn": "社会类型",
+   "en": "social type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0526",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）所提出的概念，他按各个社会的不同复杂程度来区分，游牧群体是最简单的社会，所有的社会类型都是基本类型的复杂形式。任何社会都是由简单社会单位的相加构成，不"
+  },
+  {
+   "cn": "文化类型",
+   "en": "cultural type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0579",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian H. Steward）在《文化变迁理论》一书中提出的概念。他认为文化类型是核心特征的群集，这些特征产生自环境适应，而且体现社会文化整合的水平。"
+  },
+  {
+   "cn": "健康型",
+   "en": "healthy type",
+   "source": "社会医学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "当个体的评价年龄小于实际年龄时的评价类型，说明个体危险因素低于人群平均水平，预期健康状况良好。"
+  },
+  {
+   "cn": "III型超敏反应",
+   "en": "type Ⅲ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.18",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "游离抗原与相应抗体结合为循环免疫复合物，未被及时清除的免疫复合物沉积于毛细血管基底膜等部位，通过激活补体，并在血小板、中性粒细胞等参与下，引起血管及其周围组织炎症，导致组织损伤的超敏反应。"
+  },
+  {
+   "cn": "Ⅳ型超敏反应",
+   "en": "type Ⅳ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.19",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "由特异性致敏T细胞介导的细胞免疫应答的一种超敏反应。该型反应均在接触抗原24小时后才出现临床表现。"
+  },
+  {
+   "cn": "关系类型",
+   "en": "type of relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "社会交往的内容特征，包括关系的强度、关系的种类、交往的内容等。"
+  },
+  {
+   "cn": "国家发展类型",
+   "en": "national development type",
+   "source": "社会学名词",
+   "wordNumber": "2.9.10.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_国家发展类型",
+   "subjectName": "国家发展类型",
+   "publishYear": "2025",
+   "definition": "根据世界上不同国家的经济社会发展水平、工业化程度等标准划分的国家类别。代表性的国家发展类型有发达国家与发展中国家、工业化国家与新兴工业化国家等。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "资助型基金会",
+   "en": "funding-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "主要通过与其他服务机构合作、资助其开展服务项目以实现自身宗旨目的公益基金会。"
+  },
+  {
+   "cn": "运动类型",
+   "en": "type of exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "运动中采用的具体形式或选择的运动项目，作为对运动活动进行分类的一种方式。"
+  },
+  {
+   "cn": "吐温类乳化剂",
+   "en": "tween-type emulsifier",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.14",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "聚氧乙烯山梨醇酐脂肪酸酯的商品名，一类由司盘类乳化剂在碱性催化剂存在下和环氧乙烷加成、精制而成的非离子型乳化剂。其中，吐温20、吐温40、吐温60 和吐温80 可用作食品添加剂。"
+  },
+  {
+   "cn": "司盘类乳化剂",
+   "en": "span-type emulsifier",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.13",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "山梨醇酐脂肪酸酯的商品名，一类具有很强的乳化、分散、润滑作用的油包水型（W/O)乳化剂。其中，司盘20、司盘40、司盘60、司盘65 和司盘80 可用作食品添加剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

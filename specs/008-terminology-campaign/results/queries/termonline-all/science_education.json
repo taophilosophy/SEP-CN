@@ -1,0 +1,742 @@
+{
+ "key": "science education",
+ "term": "science education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:07:35+00:00",
+ "status": "ok",
+ "note": "variant=science education; 审定公布名词库=2905; 海峡两岸名词对照库=557; 其他来源数据库=142; 预公布名词数据库=258; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "科学教育",
+   "en": "science education",
+   "source": "教育学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）以普及自然科学基本知识和基本技能、理解科学技术与社会关系、掌握科学方法、培养科学精神为目的的教育。旨在培养具有一定科学素养的现代公民。（2）产生于近代西方的一种教育思潮。主张以科学的基础知识、基"
+  },
+  {
+   "cn": "情报学教育",
+   "en": "information science education",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以传授情报学理论知识与实践技能为主的各种层次、类型的教育活动。"
+  },
+  {
+   "cn": "图书馆学教育",
+   "en": "library science education",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以传授图书馆学理论知识与实践技能为主的各种层次、类型的教育活动。"
+  },
+  {
+   "cn": "科学、技术与教育",
+   "en": "science, technology, and education",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "研究科学、技术与教育相互关系的交叉领域。教育是科学技术可持续发展的必要条件，它通过为社会培养大量的各类科技人才来推动科学技术的进步；科学技术的进步使教育目标和内容发生深刻变化，并在整体上推进教育发展。"
+  },
+  {
+   "cn": "教育法学",
+   "en": "science of education law",
+   "source": "教育学名词",
+   "wordNumber": "01.099",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "以法学和教育学的方法论为基础，以教育法为对象，以教育关系的法律调节为内容的学科体系。"
+  },
+  {
+   "cn": "STS教育",
+   "en": "science-technology-society education",
+   "source": "教育学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "以科学、技术与社会之间关系为教学中心，以提高学生科学素养为目标，强调解决实际问题，融科技教育于培养合格公民之中的活动。"
+  },
+  {
+   "cn": "科技教育",
+   "en": "education of science and technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.275",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "基于一定的科技组织，以一定的方法对受众进行系统的知识、方法与技能等方面的训练，以适应科技发展、满足人类需要的活动。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "在社会实践中产生和发展的关于自然、社会和思维知识的体系，是实践经验的总结和精神文明的重要内容，其功能在于揭示规律，指导人们的行动。可分为自然科学、社会科学、思维科学。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "正确反映客观事实的本质和规律的系统化、理论化的知识体系，以及一系列相关的认识和研究活动。"
+  },
+  {
+   "cn": "理科",
+   "en": "science",
+   "source": "教育学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的理科泛指理、工、农、医等学科。与广义的文科相对应。（2）狭义的理科指数学、物理、化学、天文、地学、生物等自然科学领域的基础理论学科。"
+  },
+  {
+   "cn": "科研2.0",
+   "en": "science 2.0",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1318",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "科学家利用维基百科、博客等协作技术分享新发现，包括原始数据以及一些初期理论的研究方式。"
+  },
+  {
+   "cn": "科教兴国",
+   "en": "national rejuvenation through science and education",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0479",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_宏观科技",
+   "subjectName": "宏观科技",
+   "publishYear": "2016",
+   "definition": "中国的一项重要国家战略。全面落实国家关于科学技术是第一生产力的思想，坚持以教育为本，把科技和教育摆在经济、社会发展的重要位置，增强国家的科技实力及向现实生产力转化的能力，提高全民族的科技文化素质，把经"
+  },
+  {
+   "cn": "教育科学院院士",
+   "en": "member of academy of educational science",
+   "source": "教育学名词",
+   "wordNumber": "05.202",
+   "subjectFullName": "教育学_比较教育_俄罗斯教育",
+   "subjectName": "俄罗斯教育",
+   "publishYear": "2013",
+   "definition": "俄罗斯教育科学院终身制学术称号。由教育科学院大会从通讯院士中选举产生。院士主持教育科学院的科研工作，在所属学部享有决定权。"
+  },
+  {
+   "cn": "学历",
+   "en": "education",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0444",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在某种等级与类型的学校接受教育后肄业或毕业，获得某种学位或证书的经历。"
+  },
+  {
+   "cn": "教育学科",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "08.081",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。包括教育学原理、教育史、比较教育、学前教育、高等教育、职业教育等学科。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）广义指一切有目的地影响人的身心发展的社会实践活动。（2）狭义指学校教育，即教育者根据一定的社会要求和受教育者的身心发展规律，有目的、有计划、有组织地对受教育者的身心施加影响，期望受教育者发生预期"
+  },
+  {
+   "cn": "教育者",
+   "en": "educator",
+   "source": "教育学名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育活动中直接对受教育者的知识、技能、思想、品德等方面起到影响作用的人。包括教师、家长等。其中教师作为教育活动的设计者、实施者和组织者，对学生身心发展的质量起着重要的制约作用。"
+  },
+  {
+   "cn": "可教性",
+   "en": "educability",
+   "source": "教育学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在接受教育影响的过程中表现出来的敏感性、可塑性和多样性。"
+  },
+  {
+   "cn": "养羊学",
+   "en": "sheep science,goat science",
+   "source": "畜牧学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究羊的生物学特性与养羊生产有关理论及技术的学科。"
+  },
+  {
+   "cn": "计算科学",
+   "en": "computing science,computational science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "（1）“计算机科学”的又称。（2）用计算的方法研究（物理、化学、生物等）其他学科领域的科学，如计算物理学、计算化学、计算生物学等。"
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为科学",
+   "en": "behavioral science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "空间科学",
+   "en": "space science",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "河口学",
+   "en": "estuarine science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "极地科学",
+   "en": "polar science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大[型]科学",
+   "en": "big science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "景观学",
+   "en": "landscape science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学城",
+   "en": "science town",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学机构",
+   "en": "science establishment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学园",
+   "en": "science park",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域科学",
+   "en": "regional science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "湿地学",
+   "en": "wetland science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科教兴国战略",
+   "en": "the Strategy for Invigorating China through Science and Education",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "科教兴国",
+   "en": "develop the country through science and education",
+   "source": "马克思主义",
+   "wordNumber": "03.0565",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国现代化建设战略和基本国策。核心内容是：全面落实邓小平关于科学技术是第一生产力的思想，坚持以教育为本，把科技和教育摆在经济、社会发展的重要位置，增强国家的科技实力及向现实生产力转化的能力，提高全民族"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "暴露科学",
+   "en": "exposure science",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集和分析所需定量和定性的信息，以了解受体与物理、化学或生物应激之间的暴露情况的科学"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

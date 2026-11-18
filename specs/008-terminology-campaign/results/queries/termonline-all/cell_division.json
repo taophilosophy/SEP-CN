@@ -1,0 +1,632 @@
+{
+ "key": "cell division",
+ "term": "cell division",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:17:46+00:00",
+ "status": "ok",
+ "note": "variant=cell division; 审定公布名词库=5120; 海峡两岸名词对照库=2161; 其他来源数据库=129; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "植物学名词",
+   "wordNumber": "09.0151",
+   "subjectFullName": "植物学_植物细胞生物学",
+   "subjectName": "植物细胞生物学",
+   "publishYear": "2019",
+   "definition": "一个细胞通过细胞核分裂和胞质分裂产生两个子细胞的过程。常见的细胞分裂方式有平周分裂、垂周分裂和横向分裂三种类型。"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "一个细胞通过细胞核和细胞质的分裂产生两个子细胞的过程，分有丝分裂和无丝分裂。"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "一个细胞通过核分裂和胞质分裂产生两个子细胞的过程。"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "遗传学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "一个细胞分裂为两个细胞的过程。"
+  },
+  {
+   "cn": "[分裂]前期",
+   "en": "prophase of cell division",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.080",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[分裂]中期",
+   "en": "metaphase of cell division",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.081",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[分裂]后期",
+   "en": "anaphase of cell division",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.082",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[分裂]末期",
+   "en": "telophase of cell division",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.083",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "分割",
+   "en": "division",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0427",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "根据制品要求，通过称量将面团分割成一定质量的小面团或用模具、刀具切割成型的过程。分割质量通常为成品质量的110%。"
+  },
+  {
+   "cn": "关系除法",
+   "en": "division",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0127",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "设关系 R除以关系S的结果为关系T，则T包含所有在R中但不在S中的属性及其值，且T的元组与S的元组的所有组合都在R 中。"
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "数学名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分性",
+   "en": "divisibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物本身具有内在结构可以区分为组成部分或子系统的属性。是事物的结构性与结构层次性的基础。其侧重于能被区分，而“可分离性”侧重于能被分离。"
+  },
+  {
+   "cn": "整除性",
+   "en": "divisibility",
+   "source": "数学名词",
+   "wordNumber": "04.0948",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整除",
+   "en": "divisible",
+   "source": "数学名词",
+   "wordNumber": "04.0949",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene,cdc gene",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "维持与调节真核细胞分裂周期正常运转的一组基因。"
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene,cdc gene",
+   "source": "免疫学名词",
+   "wordNumber": "2.718",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "调控细胞分裂时相和细胞周期的某些蛋白酶和磷酸酶的编码基因。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "兽医学名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "生物体结构和功能的单位。由蛋白质、核酸、脂类、糖类和其他—些物质（如水分和无机盐类）按一定方式组成。"
+  },
+  {
+   "cn": "网穴",
+   "en": "cell",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.031",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "凹版上的贮墨凹坑，依印刷墨量的需要改变凹坑的开口和深度。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "动物学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "生物体结构与功能的基本单位。一般都具有细胞膜、细胞质（包含多种细胞器）和细胞核的结构。动物细胞无细胞壁。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "生理学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂抑制剂",
+   "en": "cell division inhibitor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂中期",
+   "en": "metaphase of cell division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂后期",
+   "en": "anaphase of cell division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分裂",
+   "en": "division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部",
+   "en": "division",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene\",\"CDC gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene\",\"cdc gene",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂周期基因",
+   "en": "cell division cycle gene， cdc gene",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单体",
+   "en": "cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格网单元",
+   "en": "cell",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据单元",
+   "en": "data cell",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "职业分立",
+   "en": "division ofoccupation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于描述中国传统社会中，分工与身份的结合主要基于经济和伦理特点，而非基于血统和种姓的概念。梁漱溟指出，其表现为生产者自有其生产工具，可以自行生产。各行各业的从业者之间主要是职业差别，没有形成西方社会中"
+  },
+  {
+   "cn": "社会划分",
+   "en": "social division",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员的阶级、阶层或代际区分。人们依据一定的标准被分为不同的阶级阶层或不同年龄段的群体。"
+  },
+  {
+   "cn": "分家",
+   "en": "household division",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "因家庭内部的人口增加所引发的家庭生活空间的重新组合，往往伴随家庭成员的财产和责权的移动。"
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.3.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由槽体、阳极和阴极组成，能发生电解反应的装置。可分为有隔膜和无隔膜两种。"
+  },
+  {
+   "cn": "宿主细胞",
+   "en": "host cell",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能被病毒进入胞内并使其增殖的细胞。被病毒感染的细胞会发生病变甚至死亡。"
+  },
+  {
+   "cn": "细胞培养",
+   "en": "cell culture",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在适宜的体外条件下，用培养液维持细胞生长与增殖的技术。"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在体外条件下，通过人工培养和诱导将不同种生物或同种生物不同类型的两个或多个细胞合并成一个双核或多核细胞的过程。"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "细胞周期",
+   "en": "cell cycle",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "细胞从一次有丝分裂至下一次有丝分裂的全过程。亦即亲代细胞分裂结束至子代细胞分裂结束所经历的过程，包含四个时相：G1期、S期、G2期和M期。"
+  },
+  {
+   "cn": "热室",
+   "en": "hot cell",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "一种与周围环境隔绝，有通风、电源、上下水和洁净功能，配装适当操作系统和设备的屏蔽小室。用于减少高放射性操作时对外界的辐照。分为合成热室、分装热室。"
+  },
+  {
+   "cn": "放射性同位素电池",
+   "en": "radioisotope cell",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.20",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "把放射性同位素衰变时产生的热能转变为电能的装置。"
+  },
+  {
+   "cn": "浆细胞",
+   "en": "plasma cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "合成和分泌免疫球蛋白的细胞。多呈圆形或卵圆形，胞核呈圆形，常偏于细胞的一侧，胞质嗜碱性。来源于B淋巴细胞，分泌抗体，参与体液免疫。"
+  },
+  {
+   "cn": "网状细胞",
+   "en": "reticular cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "形成骨髓、脾脏、淋巴结、胸腺等淋巴器官的网状结缔组织的细胞。"
+  },
+  {
+   "cn": "干细胞",
+   "en": "stem cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.22",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "具有无限自我更新能力、同时也可分化成特定组织的细胞，在细胞发育过程中处于较原始阶段。"
+  },
+  {
+   "cn": "靶细胞",
+   "en": "target cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.29",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "可被细胞毒性T细胞或NK细胞等效应细胞或抗体等效应分子识别并杀伤的细胞。"
+  },
+  {
+   "cn": "肥大细胞",
+   "en": "mast cells",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类胞质内富含嗜碱性颗粒的细胞。颗粒中含组胺，肝素和各种酶类。同骨髓造血前体细胞一样表达CD34，主要分布于黏膜和皮下疏松结缔组织，其细胞表面表达高亲和力FceRI，可结合游离IgE，参与I型超敏反应"
+  },
+  {
+   "cn": "自然杀伤细胞",
+   "en": "natural killer cell, NK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "属淋巴细胞谱系，不表达T细胞受体、B细胞受体的一类固有免疫免疫细胞，无须预先接触抗原即可杀伤靶细胞(如病毒感染的宿主细胞和某些肿瘤细胞)，且其杀伤效应无MHC限制性。"
+  },
+  {
+   "cn": "物理去除法",
+   "en": "physical division method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过稀释、过滤、吸附或离心沉淀等物理方式去除消毒体系中残余消毒剂的方法。"
+  },
+  {
+   "cn": "分工",
+   "en": "division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0050",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于自然或社会原因导致的劳动的划分及独立化，表现为生产不同种类产品的不同种类的劳动的并存。分工可以区分为社会分工、不同部门的分工、企业内部的分工等。"
+  },
+  {
+   "cn": "淋巴因子激活的杀伤细胞",
+   "en": "lymphokine-activated killer cell, LAK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.28",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "外周血淋巴细胞在白介素-2诱导下产生的一类杀伤细胞。其杀伤作用不需要抗原致敏且无MHC限制性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

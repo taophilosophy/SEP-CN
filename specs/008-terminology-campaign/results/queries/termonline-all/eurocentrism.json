@@ -1,0 +1,42 @@
+{
+ "key": "eurocentrism",
+ "term": "Eurocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:15:30+00:00",
+ "status": "ok",
+ "note": "variant=Eurocentrism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "欧洲中心论",
+   "en": "Eurocentricism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "世界历史_综合_总论、社会经济形态",
+   "subjectName": "总论、社会经济形态",
+   "publishYear": "2012",
+   "definition": "一种把欧洲历史看成是世界历史发展的主线和动力、贬低或歪曲其他地区和国家在世界历史上的地位与成就的历史观。"
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism",
+   "source": "心理学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "只从自我的角度出发理解事物，不能区分自己的观点与别人的观点。"
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism\",\"egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

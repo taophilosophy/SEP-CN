@@ -1,0 +1,812 @@
+{
+ "key": "collective judgment",
+ "term": "collective judgment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:16:58+00:00",
+ "status": "ok",
+ "note": "variant=collective judgment; 审定公布名词库=743; 海峡两岸名词对照库=195; 其他来源数据库=132; 预公布名词数据库=55; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "判断力",
+   "en": "judgment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物、信息的分析决断能力。"
+  },
+  {
+   "cn": "集",
+   "en": "collection",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.063",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "由单个作品汇集编选而成的出版物。"
+  },
+  {
+   "cn": "收集",
+   "en": "collection ",
+   "source": "草学名词",
+   "wordNumber": "4.0641",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "馆藏评估",
+   "en": "collection assessment,collection evaluation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.012",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆依照一定的标准，对已采集和收藏的文献资源及其效用进行调查、分析与评价的过程。主要涉及馆藏的物理状态、馆藏的范围与结构、资源的规模与质量、资源的利用及满足读者需求的情况等方面的内容。"
+  },
+  {
+   "cn": "藏书补缺",
+   "en": "collection supplement,collection replacement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.344",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆针对因书籍亡佚、系列藏书不完整等造成的已有藏书不足，或者因为用户新需求、服务对象范围扩展等引起的对新书籍进行的藏书补充活动。"
+  },
+  {
+   "cn": "自我判断",
+   "en": "self-judgment",
+   "source": "行为医学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体为自己行为确立某个目标，以此来判断自己的行为与“标准”之间的差距，并引起肯定或否定自我评价的过程。"
+  },
+  {
+   "cn": "道威判据",
+   "en": "Dove judgment",
+   "source": "光学名词",
+   "wordNumber": "14.275",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "一个定义光学系统分辨能力的判据，即两个相邻像点之间的衍射斑中心距为0.85倍的艾里斑半径时，这两个点恰好被光学系统分辨。"
+  },
+  {
+   "cn": "专家判断",
+   "en": "expert judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0246",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "根据在应用领域、知识领域、专业学科、行业等的专长对于当前活动提供的适当判断。"
+  },
+  {
+   "cn": "审美判断",
+   "en": "aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对审美对象给予美丑等评价的心理过程。"
+  },
+  {
+   "cn": "专家判断法",
+   "en": "expert judgment",
+   "source": "药学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "向具有特定专业知识的人征求意见的方法。通常采用小组座谈的方式，其目的在于当某些变量难以获得时，利用专家经验做出快速评估。"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "教育学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "依据一定的道德行为准则对自己或他人的行为作出是非、善恶评定的逻辑思维形式。"
+  },
+  {
+   "cn": "集体土地",
+   "en": "collective land",
+   "source": "风景园林名词",
+   "wordNumber": "05.0020",
+   "subjectFullName": "风景园林_风景园林规划_城乡规划",
+   "subjectName": "城乡规划",
+   "publishYear": "2025",
+   "definition": "农民集体所有的土地。乡镇、村、村民小组等类同性质的农业集体经济组织拥有集体土地使用权，集体土地所有权归农民集体。"
+  },
+  {
+   "cn": "集体经济",
+   "en": "collective economy",
+   "source": "农学名词",
+   "wordNumber": "19.210",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产资料和劳动产品归组织内劳动群众集体共同所有的公有制经济形式。"
+  },
+  {
+   "cn": "集体资产",
+   "en": "collective asset",
+   "source": "农学名词",
+   "wordNumber": "19.293",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "产权归属集体共有的资源性资产和非资源性资产。"
+  },
+  {
+   "cn": "集体林",
+   "en": "collective forest",
+   "source": "风景园林名词",
+   "wordNumber": "04.0350",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "根据法律规定属于集体所有，集体依照法律对这些森林享有占有权、使用权、收益权和处分权的森林。"
+  },
+  {
+   "cn": "集体意向性",
+   "en": "collective intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.787",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "借鉴于心灵哲学的一种意向性概念。强调集体或社会行动的意向性不同于个人行动的意向性，要求符合“我们在做”而不只是“我在做”的模式。"
+  },
+  {
+   "cn": "集体激发",
+   "en": "collective excitation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.19",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "原子核内全部核子(或大部分核子)协同运动而引起的激‍发。"
+  },
+  {
+   "cn": "集体转动",
+   "en": "collective rotation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.194",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "原子核内所有核子(或大部分核子)绕空间某个轴所做的整体的旋转运‍动。"
+  },
+  {
+   "cn": "集体振动",
+   "en": "collective vibration",
+   "source": "核科学技术名词",
+   "wordNumber": "1.195",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "原子核内所有核子(或大部分核子)在平衡状态附近所做的整体的振荡运‍动。"
+  },
+  {
+   "cn": "集体模型",
+   "en": "collective model",
+   "source": "核科学技术名词",
+   "wordNumber": "1.241",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "用宏观坐标描述原子核作为一个整体进行集体运动的模‍型。"
+  },
+  {
+   "cn": "收集",
+   "en": "collection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标本收藏",
+   "en": "collection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "采集，采收",
+   "en": "collection",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集体无意识,集体潜意识",
+   "en": "collective unconsciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体协商",
+   "en": "collective bargaining",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体效能",
+   "en": "collective efficacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体选择",
+   "en": "collective selection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体性独白",
+   "en": "collective monologue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体剂量",
+   "en": "collective dose",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "集体价值",
+   "en": "collective value",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集体认同",
+   "en": "collective identities",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective consciouness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "聚光透镜",
+   "en": "collective lens",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "集合微静脉",
+   "en": "collecting venule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "集合小管",
+   "en": "collecting tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "收集效率",
+   "en": "collection efficiency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "收集环",
+   "en": "collecting ring",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "集尘",
+   "en": "dust collection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "勒马",
+   "en": "collect\",\"collection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁定",
+   "en": "judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge\",\"referee\",\"judgment\",\"refereeing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体智慧",
+   "en": "collective wisdom",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体拦网",
+   "en": "collective block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集",
+   "en": "Data Collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字典藏",
+   "en": "digital collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短跑步",
+   "en": "collected canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费",
+   "en": "Electronic Toll Collection",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合规采集",
+   "en": "compliant data collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体",
+   "en": "collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "许多人以共同价值、共同活动目的和任务为基础，高度组织起来的具有团结性、整合水平较高的群体。是群体发展的高级阶段。与“个体”相对。"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.031",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "根据道德标准或道德直觉判定自己或他人行为及其结果的善恶与道德责任的过程。是对道德现象作出断定的思维活动。"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "集体行动",
+   "en": "collective action",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集体行为组织化的形式，指有少数或许多个体参加的、涉及群体利益、集团利益或共同利益的、具有很大自发性的非正式的群体行为或制度外的政治行为，后者属于社会运动范畴。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "群体自尊",
+   "en": "collective esteem",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体会对其所属的群体产生的价值判断和情感体验。克罗克(Jennifer Crocker)和卢赫塔宁(Riia Luttanen)在社会认同理论的基础上提出。"
+  },
+  {
+   "cn": "集体农庄",
+   "en": "collective farm",
+   "source": "马克思主义",
+   "wordNumber": "02.0302",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联农业集体经济组织的基本形式。苏联在农业集体化运动中曾出现三种集体经济的组织形式：共耕社、农业劳动组合和农业公社。1930年联共（布）中央确定农业劳动组合是集体农庄运动的基本形式，通常就把它称为“集"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "集体领导",
+   "en": "collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0261",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "集体领导是无产阶级政党和社会主义国家的领导原则。它的主要内容是：一切重大问题由各级党的委员会集体民主讨论决定；决定问题必须严格遵守少数服从多数的原则；集体领导和个人分工负责相结合；集体领导作出的决定要"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconsciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0046",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种非物质的集体动因。本雅明认为上层建筑受双重力量支配，除物质因素外，还受集体无意识的决定。他总是将集体无意识与史前的无阶级社会中被埋葬的性欲经验的特定形式关联起来。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "集体防护",
+   "en": "collective protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "集体为避免或减轻核武器的伤害而采取的措施。主要是在工事、帐篷、车辆、飞机和舰船中安装密闭、滤毒通风、洗消和报警等设施来进行防护。分为隔离式防护和过滤式防护。"
+  },
+  {
+   "cn": "采样",
+   "en": "sample collection",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "从大量同类消毒产品实物中抽取一部分作为样品的过程。"
+  },
+  {
+   "cn": "样品采集",
+   "en": "samples collection",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "从整批被检样品或待分析对象中抽取一部分有代表性的样品或分析对象。"
+  },
+  {
+   "cn": "数据收集",
+   "en": "data collection",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "就某个具体的主题，有计划、有目的地准备、收集和记录相关信息的研究行动。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "revenue collection",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生系统从政府、家庭或个人、组织或部门以及其他渠道筹措资金的方式。"
+  },
+  {
+   "cn": "样品采集",
+   "en": "sample collection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "根据现场流行病调查结果，有针对性地从食品、加工环境、食品加工用品和食品加工人员等对象中抽取样品的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

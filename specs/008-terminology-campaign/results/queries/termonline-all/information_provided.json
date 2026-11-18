@@ -1,0 +1,762 @@
+{
+ "key": "information provided",
+ "term": "information provided",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:10:53+00:00",
+ "status": "ok",
+ "note": "variant=information provided; 审定公布名词库=3170; 海峡两岸名词对照库=600; 其他来源数据库=582; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "信息提供者",
+   "en": "information provider",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.226",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "直接向信息用户提供信息商品及相应服务的个体商户或企业。"
+  },
+  {
+   "cn": "信息提供方",
+   "en": "information provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0696",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "为用户收集并提供信息的组织。信息可以直接提供给用户，也可以通过内容提供方或接入提供方提供。"
+  },
+  {
+   "cn": "信息服务商",
+   "en": "information service provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.176",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "提供信息传输过程中信息技术服务的组织，即提供电信、广播电视和卫星传输，以及网络信息技术服务的组织。也指不仅提供专业的信息技术服务，还依托自身技术和资金优势聚集起海量的数字资源开展内容服务的组织。"
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.056",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "大数据参考体系结构中的一种逻辑功能构件，其作用是将新的数据或信息引入大数据系统。"
+  },
+  {
+   "cn": "提供方前缀",
+   "en": "provider prefix",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0628",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在CIDR中分配给因特网服务提供方的网络地址前缀。"
+  },
+  {
+   "cn": "服务提供方",
+   "en": "service provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "OSI参考模型中，在一个层次上合作运行的对等实体对向它提供服务的相邻下层的称谓；在更广泛的意义上，它指为用户和其他提供方提供服务的组织。"
+  },
+  {
+   "cn": "接入提供方",
+   "en": "access provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0054",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "提供对一个网络的接入的组织。"
+  },
+  {
+   "cn": "内容提供方",
+   "en": "content provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0697",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "建立并维护数据库的组织。数据库包含信息提供方所提供的信息，内容提供方和信息提供方也可以是同一个组织。"
+  },
+  {
+   "cn": "知识供应者",
+   "en": "knowledge provider",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0806",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "向知识需求方提供知识、知识服务的个人或机构。"
+  },
+  {
+   "cn": "服务提供者",
+   "en": "service provider",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0407",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "一项核心服务的主要提供者。例如服务员、医师、大学教师等。"
+  },
+  {
+   "cn": "第三方物流提供者",
+   "en": "third-party logistics provider,3PL provider",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0538",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "执行为使其客户的产品到达市场所要求的任一或全部功能的一类独立物流提供商。"
+  },
+  {
+   "cn": "业务提供商",
+   "en": "service provider,SP",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.046",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "为用户提供电话、移动电话和因特网服务等业务的公司。"
+  },
+  {
+   "cn": "应用服务提供商",
+   "en": "application service provider",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.159",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "通过互联网为企业、个人提供配置、租赁和管理应用等外包服务的专业化服务公司。根据客户的需求，构建应用系统运行平台，为各类经济组织提供应用服务。"
+  },
+  {
+   "cn": "增值服务提供商",
+   "en": "service provider;SP",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.109",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "针对用户特定的要求产生的新业务形态，使用户得到价值更高的信息服务。"
+  },
+  {
+   "cn": "数字内容提供商",
+   "en": "digital content provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.170",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "为数字出版市场开发、生产数字出版产品，并提供相应服务的数字出版市场主体。数字内容提供商是数字出版产业链的源头。"
+  },
+  {
+   "cn": "数字技术提供商",
+   "en": "digital technology provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.171",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "通过数字出版技术和软硬件平台提供参与数字出版活动的数字出版市场主体。数字技术提供商通常包括数字出版应用系统开发商、数字出版平台提供商和终端设备制造商。"
+  },
+  {
+   "cn": "订阅服务提供商",
+   "en": "subscription service provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.175",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "为用户提供数字期刊、报纸、音频、视频、数据库等产品订阅服务的代理机构。订阅服务提供商一般提供单品付费和包月付费购买两种收费方式供用户选择。"
+  },
+  {
+   "cn": "互联网服务提供者",
+   "en": "internet service provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.005",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "提供上网、服务器托管、电子邮件等服务的组织。通常大型的电信公司都会兼任互联网服务提供者，如中国电信、中国移动等。"
+  },
+  {
+   "cn": "云服务提供者",
+   "en": "cloud service provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.035",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "提供云服务的参与方。"
+  },
+  {
+   "cn": "网络服务提供方",
+   "en": "network service provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0055",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "为公用的或专用的信息传输提供网络基础设施的电信公司或其他组织。"
+  },
+  {
+   "cn": "商务访问提供者",
+   "en": "commercial access provider",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间段提供者",
+   "en": "space segment provider",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "另有相反的规定除外",
+   "en": "except otherwise herein provided",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务商",
+   "en": "application server provider\",\"ASP",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因特网服务提供者",
+   "en": "Internet service provider\",\"ISP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网接入提供者",
+   "en": "Internet access provider\",\"IAP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网内容提供者",
+   "en": "Internet content provider\",\"ICP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网平台提供者",
+   "en": "Internet presence provider\",\"IPP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网商务提供者",
+   "en": "Internet business provider\",\"IBP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务提供者",
+   "en": "application service provider\",\"ASP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全",
+   "en": "information safety\",\"information security",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置信息",
+   "en": "positional information",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "信息传递",
+   "en": "information transfer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传信息",
+   "en": "genetic information",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息服务提供商",
+   "en": "financial information service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网信息服务提供者",
+   "en": "Internet information service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字服务公司",
+   "en": "digital service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务提供者",
+   "en": "cloud service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务提供域",
+   "en": "service provider domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为老服务商",
+   "en": "elderly care service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据应用提供者",
+   "en": "big data application provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据框架提供者",
+   "en": "big data framework provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子支付服务提供者",
+   "en": "e-payment service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网接入服务提供者",
+   "en": "Internet access service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律电商服务",
+   "en": "online legal service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付业务许可证",
+   "en": "payment service provider (PSP) license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提供者",
+   "en": "provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "提供卫生服务的组织和个人，如卫生服务机构、卫生技术人员、药品企业等。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "healthcare providers",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.3",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "依法设立并具备专业资质，向公众提供疾病预防、诊断、治疗、康复等服务的组织或单位，包括医院、基层卫生机构、专科门诊、社区健康中心等。"
+  },
+  {
+   "cn": "服务购买者与提供者分离",
+   "en": "purchaser-provider split",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "由制度上独立的购买机构（如医疗保险基金或专设政府机构）代表全体或特定群体向公立或私立服务提供者购买卫生服务的模式。"
+  },
+  {
+   "cn": "卫生服务提供方",
+   "en": "health service provider",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "具备提供卫生服务的意愿和能力，并拥有相关服务人员及必要设施和条件的机构或组织。"
+  },
+  {
+   "cn": "餐饮服务提供者",
+   "en": "food service provider",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.23",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "通过即时制作加工、商业销售和服务性劳动等，向消费者提供食品和消费场所及设施的服务活动的单位。"
+  },
+  {
+   "cn": "卫生服务提供机构",
+   "en": "health care providers",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "在卫生费用核算范围内，通过开展或预期开展卫生服务活动而获得资金交换的各级各类卫生机构。"
+  },
+  {
+   "cn": "提供心理支持",
+   "en": "providing psychological support",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学生心理健康咨询中，咨询者给予求咨者的实质性帮助。通过向学生揭示问题本质，使其注意那些从未意识到的问题，获得专业支持，掌握自己解决问题的途径。并帮助求咨者增强自身对适应性行为的体验。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "营利性医疗卫生机构",
+   "en": "for-profit health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医疗服务所得收益可用于投资者经济回报的医疗机构。"
+  },
+  {
+   "cn": "社区卫生服务人员",
+   "en": "community health service provider",
+   "source": "社会医学名词",
+   "wordNumber": "11.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务人员",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "卫生费用分配总额",
+   "en": "total health expenditure by provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.6",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内，从全社会筹集到的卫生资金在各级各类卫生机构分配的总额，它反映了卫生资金在不同部门、不同领域和不同层次的分配。"
+  },
+  {
+   "cn": "机构法卫生费用核算",
+   "en": "national health accounts by provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "一个国家或地区一定时期内（一般指一年），从全社会筹集到的卫生资金在各级各类卫生机构分配的总额，反映了卫生资金在不同部门、不同领域和不同层次的分配。"
+  },
+  {
+   "cn": "卫生服务供给者行为",
+   "en": "behavior of health service provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的主体是提供卫生服务的人和组织，主要指医疗机构提供卫生服务的行为方式。"
+  },
+  {
+   "cn": "定点机构管理",
+   "en": "management of contracted health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险管理部门对医疗机构与零售药店在定点申请、专业评估、定点确定、协商谈判、协议订立、协议履行、协议解除等环节进行监督和管理的方式，以保证定点机构遵守医疗保障法律、法规、规章及有关政策，按照规定向参"
+  },
+  {
+   "cn": "非营利医疗卫生机构",
+   "en": "non-for-profit health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "为社会公众利益服务而设立和运营的医疗机构，其收入用于弥补医疗服务成本，实际运营中的收支结余只能用于自身的发展。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

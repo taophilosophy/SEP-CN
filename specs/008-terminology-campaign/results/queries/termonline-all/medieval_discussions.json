@@ -1,0 +1,782 @@
+{
+ "key": "medieval discussions",
+ "term": "medieval discussions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:17:14+00:00",
+ "status": "ok",
+ "note": "variant=medieval discussions; 审定公布名词库=729; 海峡两岸名词对照库=251; 其他来源数据库=60; 预公布名词数据库=278; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "中世纪建筑",
+   "en": "medieval architecture",
+   "source": "建筑学名词",
+   "wordNumber": "03.0267",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "欧洲中古时期(指公元476年西罗马灭亡至文艺复兴之间，约5世纪~16世纪)的建筑。包括拜占庭建筑、前罗马风建筑、罗马风建筑以及哥特式建筑等。"
+  },
+  {
+   "cn": "中世纪大学",
+   "en": "medieval university",
+   "source": "教育学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "从11世纪后期起，欧洲各地（如博洛尼亚、巴黎、牛津）普遍兴起的一类高等教育机构，是现代大学的前身。"
+  },
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "中世纪暖期",
+   "en": "medieval warm period",
+   "source": "地质学名词",
+   "wordNumber": "08.02.038",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "公元10世纪到14世纪，北大西洋地区出现的一个不正常的温暖时期。"
+  },
+  {
+   "cn": "中世纪自然哲学",
+   "en": "Medieval natural philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "自然辩证法_自然哲学_自然哲学类别",
+   "subjectName": "自然哲学类别",
+   "publishYear": "2024",
+   "definition": "欧洲中世纪基督教神学统治时期的自然哲学。认为自然界是上帝创造的，其存在与变化都由上帝控制。"
+  },
+  {
+   "cn": "中世纪暖期",
+   "en": "medieval warm period",
+   "source": "地理学名词",
+   "wordNumber": "16.058",
+   "subjectFullName": "地理学_古地理学",
+   "subjectName": "古地理学",
+   "publishYear": "2006",
+   "definition": "10世纪至13世纪出现的相对温暖的时期，在欧洲的部分地区、北美洲和大西洋等地区最为明显，中国也存在此暖期的证据。在欧洲又称为“小最宜期(little climate optimum)”。"
+  },
+  {
+   "cn": "清议报",
+   "en": "The China Discussion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.057",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "梁启超流亡日本后创办的第一份资产阶级改良派刊物。1898年12月23日创办于日本横滨，1901年因火灾停刊。"
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0486",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "多位评价者对由若干位受测者组成的不指定领导人的小组讨论中表现出的能力进行评判的过程。"
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion",
+   "source": "心理学名词",
+   "wordNumber": "12.101",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "由应试者小组以无指定领导人方式讨论给定的关键问题并做出决策的评估技术。"
+  },
+  {
+   "cn": "小组交流互动",
+   "en": "focus group discussion",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.084",
+   "subjectFullName": "物理医学与康复_总论_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "由社会工作者和残疾人组员共同组成的体系。在这个体系中，专业工作者与组员通过讨论的形式互动，彼此分享快乐和经验，分担责任和义务，互相帮助和教育，互相抚慰心理创伤和疏导心理障碍，改善他们的人生态度、人际关"
+  },
+  {
+   "cn": "欧洲中世纪大学",
+   "en": "Medieval Universities of Europe",
+   "source": "世界历史名词",
+   "wordNumber": "02.1191",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "11世纪至17世纪，欧洲各国兴起的高等学府，为近代高等教育的滥觞，大学最初是学生组织之间、教师组织之间或学生组织与教师组织之间的联合团体。"
+  },
+  {
+   "cn": "病例讨论",
+   "en": "case conference,case discussion",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "有关患者疾病诊断与治疗问题的讨论，是一种解决临床问题的方法。"
+  },
+  {
+   "cn": "商洽用语",
+   "en": "discussion and negotiation phrase",
+   "source": "档案学名词",
+   "wordNumber": "02.04.048",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "公文专用词语的一种。有礼貌地征求对方意见时所使用的带探询语气的词语。一般用于上行文或平行文。如“当否”“可否”“是否可行”“意见如何”“是否同意”“能否办理登记”等。"
+  },
+  {
+   "cn": "绝对自由地交换意见",
+   "en": "complete freedom of discussion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "恩格斯论述党内思想交流状态的术语。在西欧工人政党壮大之时，恩格斯发现党由于报刊和宣传而变成了为领袖提供黄油的奶牛。他提出：党内绝对自由地交换意见是必要的，在党的刊物上应当有探讨理论问题的辩论自由。他要"
+  },
+  {
+   "cn": "世界中古史",
+   "en": "medieval history of the world",
+   "source": "世界历史名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "世界历史_综合_总论、社会经济形态",
+   "subjectName": "总论、社会经济形态",
+   "publishYear": "2012",
+   "definition": "世界历史的断代分期，有学者认为“中世纪”只代表西欧历史中的封建社会阶段，不具有世界历史上的普遍意义，故将“中世纪史”改称为“世界中古史”。"
+  },
+  {
+   "cn": "中世纪西欧文化",
+   "en": "Medieval Culture in West Europe",
+   "source": "世界历史名词",
+   "wordNumber": "02.1179",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "约500-1500年，西欧封建社会以基督教文化为主的文化。"
+  },
+  {
+   "cn": "西欧中世纪城市",
+   "en": "Medieval Cities of West Europe",
+   "source": "世界历史名词",
+   "wordNumber": "02.0521",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "11世纪至15世纪，西欧诸国新兴的城市，一般都拥有某些特权，从而有别于庄园统治下的乡村。"
+  },
+  {
+   "cn": "中世纪史",
+   "en": "medieval history of the world",
+   "source": "世界历史名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "世界历史_综合_总论、社会经济形态",
+   "subjectName": "总论、社会经济形态",
+   "publishYear": "2012",
+   "definition": "世界历史的断代分期，在欧洲一般指人类社会经历的封建社会阶段。也有学者认为“中世纪”最初体现的是一种文化史观，并非社会经济形态。"
+  },
+  {
+   "cn": "图纸会审",
+   "en": "joint checking/discussion of drawing",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.657",
+   "subjectFullName": "化工（五）_工程建设_施工准备",
+   "subjectName": "施工准备",
+   "publishYear": "2021",
+   "definition": "工程各参建单位（建设单位、监理单位、施工单位、各种设备厂家）在收到设计院施工图设计文件后，对图纸进行全面细致的熟悉和审查，并将发现的问题及不合理情况汇总，在设计交底前，提交设计院进行处理的一项重要活动"
+  },
+  {
+   "cn": "中世纪地理学",
+   "en": "medieval geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪",
+   "en": "Middle Ages\",\"Medieval",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪气候适宜期",
+   "en": "Medieval Climate Optimum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪暖期",
+   "en": "medieval warm period",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪暖期",
+   "en": "Medieval Warm Epoch\",\"MWE",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪初寒冷期",
+   "en": "Early Medieval Cool Period",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内侧[的]",
+   "en": "medial",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内侧缘",
+   "en": "medial margin\",\"medial border",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "医学胚胎学",
+   "en": "medical embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气候学",
+   "en": "medical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学模式",
+   "en": "medical model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医用纤维",
+   "en": "medical fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical check-up\",\"medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学排查",
+   "en": "medical screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学巡查",
+   "en": "medical inspection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗服务",
+   "en": "medical service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务检查",
+   "en": "medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务代表",
+   "en": "medical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务方案",
+   "en": "medical guidelines",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医药规范",
+   "en": "medical code",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗队",
+   "en": "medical team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务室",
+   "en": "infirmary\",\"medical room",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中世纪城市",
+   "en": "medieval city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "欧洲5世纪至15世纪的城市形态。一般规模较小，有防御性的城墙、瞭望塔（有的有护城河），城市中心的主要建筑为教堂，重要的公共空间为市场、广场等，主要功能为宗教及贸易活动。"
+  },
+  {
+   "cn": "中世纪社会",
+   "en": "medieval society",
+   "source": "马克思主义",
+   "wordNumber": "04.0063",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中世纪一词出于欧洲文艺复兴之时，由意大利人文主义者首创。意指古典文化期（希腊、罗马）与古典文化“复兴”期之间的时代，约相当于公元4—5世纪到15世纪。历史学通常指封建制时代（主要用于欧洲），即介于古代"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "source": "消毒学",
+   "wordNumber": "4.6.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "直接或者间接用于人体的仪器、设备、器具、体外诊断试剂及校准物、材料以及其他类似或者相关的物品。"
+  },
+  {
+   "cn": "医用织物",
+   "en": "medical textile",
+   "source": "消毒学",
+   "wordNumber": "4.6.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医院内可重复使用的纺织品，包括患者使用的衣物、床单、被罩、枕套；工作人员使用的工作服、帽；手术衣、手术铺单；病床隔帘、窗帘等。"
+  },
+  {
+   "cn": "医疗用水",
+   "en": "medical water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构用于诊疗活动和器械处理时使用的水。"
+  },
+  {
+   "cn": "医用清洗剂",
+   "en": "medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "增强水对诊疗器械、器具及其相关物品上污物清洗效果的制剂。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2",
+   "subjectFullName": "消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "医疗卫生机构在医疗、预防、保健以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "患者或受检者因自身医学诊断、治疗或健康检查所受到的照射；知情但自愿帮助和安慰患者的人员（不包括职业受照人员）所受到的照射；以及生物医学研究计划中志愿者受到的照射。"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.11.1.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_医学社会学学科界定",
+   "subjectName": "医学社会学学科界定",
+   "publishYear": "2025",
+   "definition": "社会学的一个分支，用社会学的方法研究医疗健康领域的问题，包括医生、病人等医学领域的角色规范和角色关系，健康、疾病、就医行为等医学现象的社会学解释，对健康和疾病的各类文化反映，以及对各类医疗机构的组织研"
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "政府和社会为因病而无经济能力进行治疗的贫困人员提供基本的疾病预防、救治以及医疗健康服务等专项帮助和支持的一项社会救济制度。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.64",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "提供医疗服务的机构。其职责是诊疗伤病、收容伤病员、健康检查、预防接种、接生等。可按所有权、服务对象、患者住院期的长短、规模大小、设备和编制等来分类，如传染病院、妇产科医院、联合诊所、医疗站、卫生所等。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  },
+  {
+   "cn": "卫生技术人员",
+   "en": "medical personnel",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在卫生领域提供医疗卫生服务的专业人员，包括医师（士）、护师（士）、药师（士）、技师（士）及其他卫生专业人员等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

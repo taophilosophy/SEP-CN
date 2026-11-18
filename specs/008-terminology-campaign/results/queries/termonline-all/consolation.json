@@ -1,0 +1,622 @@
+{
+ "key": "consolation",
+ "term": "consolation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:11:18+00:00",
+ "status": "ok",
+ "note": "variant=consolation; 审定公布名词库=207; 海峡两岸名词对照库=62; 其他来源数据库=11; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "统一公债",
+   "en": "consols",
+   "source": "经济学名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "一种没有到期日的特殊的定息债券。最典型的统一公债是英格兰银行在18世纪发行的英国统一公债，英国政府必须无限期地向债券持有人支付固定利息。"
+  },
+  {
+   "cn": "控制台",
+   "en": "console",
+   "source": "核医学名词",
+   "wordNumber": "03.0269",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "通过计算机程序指挥控制设备运行工作的系统。在核医学中指负责图像的采集、重建、存储及传输的计算机系统。"
+  },
+  {
+   "cn": "操纵柜",
+   "en": "console",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "15.023",
+   "subjectFullName": "机械工程_拖拉机_驾驶室、驾驶座和覆盖件_仪表盘、操纵柜",
+   "subjectName": "仪表盘、操纵柜",
+   "publishYear": "2013",
+   "definition": "集中安装油门、变速杆和液压操纵等手柄的柜形装置。"
+  },
+  {
+   "cn": "康索尔",
+   "en": "Consol",
+   "source": "航海科技名词",
+   "wordNumber": "06.0208",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "康索尔海图",
+   "en": "Consol chart",
+   "source": "测绘学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "绘有康索尔定向无线电指向标方位线的导航图。"
+  },
+  {
+   "cn": "虚拟控制台",
+   "en": "virtual console",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0611",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统提供的实现用户与系统交互过程的软件工具。具备物理控制台的功能，而数量不受物理控制台限制。"
+  },
+  {
+   "cn": "控制台",
+   "en": "control console",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1016",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "一种专为监控室内摆放设备及理清线路的机壳设备。"
+  },
+  {
+   "cn": "主控台",
+   "en": "primary console",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0967",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "电子设备或计算机系统的主操作面板或操作界面。"
+  },
+  {
+   "cn": "分控",
+   "en": "branch console",
+   "source": "建筑学名词",
+   "wordNumber": "14.0655",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "在监控中心以外设立的控制终端设备。"
+  },
+  {
+   "cn": "副仪表板",
+   "en": "auxiliary console",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.190",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "驾驶座旁，地板通道前上方，安装操纵件和指示器的罩壳件。"
+  },
+  {
+   "cn": "高位仪表板",
+   "en": "overhead console",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.192",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车顶内护板前端安装指示器、操纵件和通风口的小型仪表板。"
+  },
+  {
+   "cn": "气动控制台",
+   "en": "pneumatic console",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.534",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "照明控制台",
+   "en": "lighting console",
+   "source": "电气工程名词",
+   "wordNumber": "22.242",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "操纵台",
+   "en": "operating console",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0254",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "控制台",
+   "en": "[control] console",
+   "source": "自动化名词",
+   "wordNumber": "04.193",
+   "subjectFullName": "自动化科学技术_控制技术_过程控制与仪表",
+   "subjectName": "过程控制与仪表",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "控制台命令处理程序",
+   "en": "console command processor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0597",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种操作系统中的程序。用于接受控制台命令，解释并执行控制台程序。"
+  },
+  {
+   "cn": "遥控主控台",
+   "en": "telecommand master console",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.445",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "遥控分控台",
+   "en": "telecommand sub-console",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.446",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "钻井控制台",
+   "en": "drilling control console",
+   "source": "石油名词",
+   "wordNumber": "05.0287",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "司钻控制台",
+   "en": "driller's console",
+   "source": "石油名词",
+   "wordNumber": "12.0117",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "安慰曲",
+   "en": "Consolations",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "控制台",
+   "en": "console",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "混声器",
+   "en": "console",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演奏台",
+   "en": "console",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "康索尔",
+   "en": "Consol",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "控制台，仪表板",
+   "en": "console",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分离演奏台",
+   "en": "detached console",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "康索尔海图",
+   "en": "Consol chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "副控台",
+   "en": "secondary console",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟控制台",
+   "en": "virtual console",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主控台",
+   "en": "primary console",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制台命令处理程序",
+   "en": "console command processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟控制台假脱机操作",
+   "en": "virtual console spooling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主控制台",
+   "en": "main control console",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "监控台",
+   "en": "control and monitor console",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "康索尔系统，扇区无线电指向标",
+   "en": "Consol sector radio marker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制台",
+   "en": "control console\",\"control desk",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机舱集控台",
+   "en": "centralized control console of engine room",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "固结[作用]",
+   "en": "consolidation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卷积",
+   "en": "convolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安慰赛",
+   "en": "consolation event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磋商",
+   "en": "consultation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员会商",
+   "en": "judge’s consultation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线接诊",
+   "en": "online medical consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程案件会商",
+   "en": "remote case consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共商共治",
+   "en": "joint governance through consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网健康咨询",
+   "en": "health consultation on Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间对话协商机制",
+   "en": "dialog and consultation mechanism on cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民主化协商参与技术",
+   "en": "technology facilitating democratic consultation and participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "会诊",
+   "en": "consultation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.031000000000001",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医师出于诊治患者疾病的需要，与其他医师和专家进行多学科讨论和协商的过程。"
+  },
+  {
+   "cn": "肺实变",
+   "en": "pulmonary consolidation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "任何原因所致肺泡腔内积聚浆液、纤维蛋白和细胞成分，使肺泡含气量减少、肺质地致密化的一种病变。肺体积一般并不发生变化。高分辨计算机体层扫描表现为肺衰减增加并掩盖了该区域内的肺血管，可见支气管充气征。"
+  },
+  {
+   "cn": "健康咨询",
+   "en": "health consultation",
+   "source": "社会医学名词",
+   "wordNumber": "7.16",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康咨询",
+   "publishYear": "2025",
+   "definition": "专业人员运用医学相关学科的专业知识为求助者提供个性化的解决健康问题的信息、指导或干预计划建议的一种服务方式。"
+  },
+  {
+   "cn": "健康咨询",
+   "en": "health consultation",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.059",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "运用医学、营养学以及其他学科的专业知识，遵循健康科学原则，通过专业的咨询技术与方法，为咨询者分析可能发生的医学问题和健康风险，提供预防或检查的方法、意见或建议，解决咨询者健康问题的服务活动。"
+  },
+  {
+   "cn": "职业健康咨询",
+   "en": "occupational health consultation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师针对怀孕或可能怀孕的以及哺乳期的女性、已经或可能受到明显超过个人剂量限值照射、可能对自己受照的情况感到忧虑或由于其他原因而要求咨询的放射工作人员提供必要的咨询，并给出医学建议。"
+  },
+  {
+   "cn": "母乳喂养咨询门诊",
+   "en": "breastfeeding consultation clinic",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "提供咨询指导、促进母乳喂养行为的重要措施。可设在综合医院、妇幼保健院、妇产医院、儿童医院及有条件的乡镇卫生院和社区医院，每周固定门诊时间，专业人员接诊，为家庭提供母乳喂养咨询指导，解决困难和问题。"
+  },
+  {
+   "cn": "心理咨询原则",
+   "en": "principle of psychological consultation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "为保护求咨者利益并使得咨询取得最优效果，在进行学生心理健康咨询时应遵循的法则或标准，包括：保密、限时、自愿、情感自限、延期决定、遵守伦理规范。"
+  },
+  {
+   "cn": "疾病调查权",
+   "en": "right to medical consultation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在执业活动中依法享有的对疾病的病因及预防控制措施进行调查研究的权利。包括对疾病进行流行病学调查、疾病监测、疾病筛查等权利。"
+  },
+  {
+   "cn": "婚前卫生咨询率",
+   "en": "coverage of premarital health consultation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.11.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区婚检医师针对医学检查结果发现的异常情况以及服务对象提出的具体问题进行解答、交换意见、提供信息，帮助受检对象在知情的基础上作出适宜决定的人数，与同期该地区结婚登记人数之比。"
+  },
+  {
+   "cn": "和平协商民主改革",
+   "en": "Peaceful Consultation and Democratic Reform",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0049",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "新中国成立初期在少数民族地区实行社会改革的一种方法。对各民族上层人士在政治上和经济上适当照顾，实行比内地更宽松的政策，采用和平的、协商的办法进行民主改革与社会主义改造，对少数民族的传统习惯和特殊需要给"
+  },
+  {
+   "cn": "中国共产党领导的多党合作与政治协商制度",
+   "en": "system of multiparty cooperation and political consultation under the leadership of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "03.0765",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党领导的多党合作和政治协商制度是中国的基本政治制度，是具有中国特色的政党制度。中国的多党合作制既不同于有些社会主义国家的一党制，也根本不同于某些资本主义国家的多党制或两党制，而具有一些鲜明的特"
+  },
+  {
+   "cn": "共产党领导的多党合作和政治协商制度",
+   "en": "system of multiparty cooperation and political consultation under the leadership of the communist party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0395",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国一项基本政治制度。中国共产党是中华人民共和国的唯一执政党，八个民主党派在接受中国共产党领导的前提下，具有参政党的地位，与中共合作，参与执政；各民主党派、各人民团体、各少数民族和社会各界的代表，对国"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

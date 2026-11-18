@@ -1,0 +1,772 @@
+{
+ "key": "national defence",
+ "term": "national defence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:07:50+00:00",
+ "status": "ok",
+ "note": "variant=national defence; 审定公布名词库=1068; 海峡两岸名词对照库=246; 其他来源数据库=249; 预公布名词数据库=225; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "国防计量[学]",
+   "en": "national defence metrology",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.003",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "国防公路",
+   "en": "national defence highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.345",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "国防军",
+   "en": "National Defence Army",
+   "source": "世界历史名词",
+   "wordNumber": "03.0653",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1919-1935年德国军队的名称，1935年，纳粹德国将它改为“德国防卫军”。"
+  },
+  {
+   "cn": "国防政府",
+   "en": "Government of National Defence",
+   "source": "世界历史名词",
+   "wordNumber": "03.0529",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1870年9月4日至1871年2月13日法兰西第三共和国的临时政府。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "nation",
+   "source": "教育学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "欧洲中世纪大学中按照师生地域来源所组成的自治团体。"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "source": "经济学名词",
+   "wordNumber": "04.090",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "将私人企业的生产资料通过购买、没收等多种方式收归国家所有的过程。"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "source": "世界历史名词",
+   "wordNumber": "01.0665",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "生产资料从其他所有制形式转归国家所有的形式。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "地理学名词",
+   "wordNumber": "17.040",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "属于民族的一种感情以及坚持区域和民族单元与自治统一关系同时存在的一种政治意识形态。"
+  },
+  {
+   "cn": "国家书目",
+   "en": "national bibliography,national catalog",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.348",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "揭示报道一个国家一定时期内全部出版物的综合性统计登记书目。是一个国家各项书目工作及国际书目控制的基础，通常采用最详细的级次进行著录。一般由国家图书馆等特定机构依靠呈缴本制度进行，全面充分地反映各类出版"
+  },
+  {
+   "cn": "性防卫",
+   "en": "sexual defence",
+   "source": "计划生育名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "保护自己免受性侵害的行为和措施。"
+  },
+  {
+   "cn": "防区",
+   "en": "defence area",
+   "source": "建筑学名词",
+   "wordNumber": "14.0639",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "利用探测器(包括紧急报警装置)对防护对象实施防护，并在控制设备上能明确显示报警部位的区域。"
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.053",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "动物保卫其所占领域免遭同种或他种个体侵犯的行为。"
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中职虫聚集围歼入侵者或修补被损窝巢的行为。"
+  },
+  {
+   "cn": "免疫防御",
+   "en": "immune defence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.388",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "海岸防护工程",
+   "en": "coastal defences",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0002",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋工程",
+   "subjectName": "海洋工程",
+   "publishYear": "2007",
+   "definition": "保护海岸、抵御海岸动力侵蚀的设施的总称。"
+  },
+  {
+   "cn": "国有林",
+   "en": "national forest",
+   "source": "风景园林名词",
+   "wordNumber": "04.0349",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "根据法律规定属于全民所有，国家依照法律对这些森林享有占有权、使用权、收益权和处分权的森林。"
+  },
+  {
+   "cn": "国树",
+   "en": "national tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0291",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "国家通过立法程序确定，或由人民喜爱约定俗成的用来表征国家，或代表国家民族文化传统、审美观念以及自然风貌的特定树种。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "风景园林名词",
+   "wordNumber": "03.0384",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "对在全国范围内需要统一的技术要求，由国务院标准化行政主管部门制定并在全国范围内实施的标准。分为强制性标准和推荐性标准。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "农学名词",
+   "wordNumber": "18.107",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "由国家标准化主管机构批准发布，在全国范围内统一使用的标准。"
+  },
+  {
+   "cn": "国家公园",
+   "en": "national park",
+   "source": "风景园林名词",
+   "wordNumber": "01.0060",
+   "subjectFullName": "风景园林_总论_风景名胜",
+   "subjectName": "风景名胜",
+   "publishYear": "2025",
+   "definition": "由国家批准设立并主导管理，以保护具有国家代表性的自然生态系统、珍稀濒危物种、自然遗迹、自然景观为主要目的，依法划定的大面积特定陆域或者海域。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本国货币",
+   "en": "national currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国定税则",
+   "en": "national tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民待遇",
+   "en": "national treatment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民会计",
+   "en": "national accounting",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民账户",
+   "en": "national account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①[美]联邦特许[注册]银行 ②国家银行 ③国民银行",
+   "en": "national bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家地图集",
+   "en": "national atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家公园",
+   "en": "national park",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "national-socialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家学派",
+   "en": "national schools",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[英国]国家格网",
+   "en": "National Grid",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国家地图集",
+   "en": "national atlas",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "国家询问",
+   "en": "national enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国内协调人",
+   "en": "national coordinator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优惠国",
+   "en": "favoured nation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全",
+   "en": "National Cybersecurity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国徽",
+   "en": "national emblem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家单项协会",
+   "en": "national federation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合国",
+   "en": "United Nations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全协调员",
+   "en": "national cybersecurity coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家超级计算中心",
+   "en": "National Supercomputing Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家数据主权",
+   "en": "national data sovereignty",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家信息安全漏洞库",
+   "en": "National Vulnerability Database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家杯",
+   "en": "Nation’s Cup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合国秘书处",
+   "en": "United Nations Secretariat",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国大学",
+   "en": "United Nations University",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极防御巩固国防",
+   "en": "active defenseing and strengthening national defence",
+   "source": "马克思主义",
+   "wordNumber": "04.0161",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国当前反侵略战争所采取的方针。积极防御本身不只是防御，防御中有进攻，本身就包括持久作战。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "民族化",
+   "en": "nationalization",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "在文化交流中，通过借鉴、吸收、转化和创造等方式，将外来文化转化为本民族文化的组成部分。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0120",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级处理民族问题的理论、原则、纲领和政策。它从民族观念出发,把本民族利益置于其他民族之上，不同的历史时期和不同的国家起着不同的作用。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0019",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "主张民族（nation）与国家（state）边界相一致的思想观念、理论主张、社会行动，是形成和建构民族国家的理论基础和实践信条"
+  },
+  {
+   "cn": "食品防护",
+   "en": "food defence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为防范与消除以危害和破坏为目的的食品蓄意污染和破坏以及食品犯罪和恐怖主义等而实施的保护行为。"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "国民财富",
+   "en": "national wealth",
+   "source": "马克思主义",
+   "wordNumber": "02.0026",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定时点上，一国全社会所有成员所拥有的全部物质资料的总和。包括国民财产、自然资源、一国外汇储备和对外债权等。它是一个国家或地区经济繁荣程度的重要标志之一，反映了居民的经济实力和福利水平。"
+  },
+  {
+   "cn": "国债",
+   "en": "national debt",
+   "source": "马克思主义",
+   "wordNumber": "02.0251",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中央政府发行的债务。国家以其信用为基础，按照债的一般原则，通过向社会筹集资金所形成的债权债务关系。"
+  },
+  {
+   "cn": "国家工厂",
+   "en": "national workshop",
+   "source": "马克思主义",
+   "wordNumber": "03.0078",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年二月革命结束后，法国临时政府将因危机和革命失业的工人编进了所谓国家工场，其目的是分裂工人阶级和反对革命。巴黎六月起义失败后，国家工厂解散。"
+  },
+  {
+   "cn": "国民议会",
+   "en": "national assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0085",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由全体国民选举产生拥有立法权的国家权力机关，是西方民主政治制度的一种形式。"
+  },
+  {
+   "cn": "民族解放",
+   "en": "national liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0117",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界各被压迫民族反对帝国主义、殖民主义和种族主义，争取民族独立、民族自决和民族平等的革命运动。它主要指亚洲、非洲和拉丁美洲等帝国主义殖民地和半殖民地民族反抗帝国主义的统治和压迫，争取国家独立的资产阶级"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "民族精神",
+   "en": "national spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0636",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个民族在延续发展过程中所逐渐形成的，为本民族大多数成员所认同的，带有广泛性和普遍性的精神追求。一般说来，它是指民族性格中的优点部分，或民族道德与民族文化中的精华部分，是一个民族赖以生存和发展的精神支"
+  },
+  {
+   "cn": "民族自治",
+   "en": "national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0090",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称“民族区域自治”。多民族的社会主义国家内的少数民族在最高国家机关的统一领导下，以其聚居区为基础建立相应的自治地区，自主管理本民族本地方的事务。这是马克思列宁主义解决多民族国家内民族问题的一项基本政"
+  },
+  {
+   "cn": "民族平等",
+   "en": "national equality",
+   "source": "马克思主义",
+   "wordNumber": "04.0092",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "民族平等是马克思主义解决民族问题的根本原则之一。民族不分大小一律平等。建立在私有制基础上的剥削制度，是造成社会不平等和民族不平等的根源。只有消灭阶级剥削制度，消灭一切阶级差别，才能彻底实现民族平等。各"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
