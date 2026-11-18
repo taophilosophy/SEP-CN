@@ -206,11 +206,12 @@ class _CatalogHTMLParser(HTMLParser):
         elif tag == "li":
             self._doc_seq += 1
             self.stack.append({"frozen": False, "slug": None, "strong": [],
-                               "linktext": [], "post": [], "raw": [],
+                               "linktext": [], "post": [], "raw": [], "saw_a": False,
                                "in_a": False, "in_strong": False,
                                "doc_order": self._doc_seq - 1})
         elif tag == "a" and self.stack and not self.stack[-1]["frozen"]:
             fr = self.stack[-1]
+            fr["saw_a"] = True
             if fr["slug"] is None:
                 m = re.search(r"entries/([^/\"]+)/?$", dict(attrs).get("href") or "")
                 if m:
@@ -252,17 +253,21 @@ class _CatalogHTMLParser(HTMLParser):
     def _finish(self, fr):
         doc_order = fr["doc_order"]
         if fr["slug"] is None:
-            label = "".join(fr["raw"]).strip()
-            if label:
-                self.cluster_mothers.append(
-                    {"label": label, "level": self.depth, "doc_order": doc_order})
+            # 含任意 <a> 的 slug-less li 是导航/外链条目（页眉菜单等），不入簇母行账
+            if not fr["saw_a"]:
+                label = "".join(fr["raw"]).strip()
+                if label:
+                    self.cluster_mothers.append(
+                        {"label": label, "level": self.depth, "doc_order": doc_order})
             return
         raw = "".join(fr["raw"])
         title = "".join(fr["strong"]).strip() or "".join(fr["linktext"]).strip()
         if self.SEE_RE.search(raw):
             low = raw.lower()
             i = low.find("see")
-            before = raw[:i].strip().rstrip("—–- ") if i >= 0 else title
+            # specs/054：只剥「独立破折号」（前接空白），保留标签尾连字符（self- 等）
+            before = re.sub(r"(?:^|\s)[\u2014\u2013]\s*$", "", raw[:i]).strip() \
+                if i >= 0 else title
             self.alias_rows.append({"slug": fr["slug"], "label": before or title,
                                     "href_text": "".join(fr["linktext"]).strip(),
                                     "level": self.depth, "doc_order": doc_order})

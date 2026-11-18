@@ -19444,7 +19444,7 @@
     },
     {
       "slug": "self-knowledge",
-      "label": "self",
+      "label": "self-",
       "href_text": "self-knowledge",
       "level": 2,
       "doc_order": 1399
@@ -21426,101 +21426,6 @@
   ],
   "cluster_mothers": [
     {
-      "label": "Browse",
-      "level": 1,
-      "doc_order": 0
-    },
-    {
-      "label": "Table of Contents",
-      "level": 2,
-      "doc_order": 1
-    },
-    {
-      "label": "What's New",
-      "level": 2,
-      "doc_order": 2
-    },
-    {
-      "label": "Random Entry",
-      "level": 2,
-      "doc_order": 3
-    },
-    {
-      "label": "Chronological",
-      "level": 2,
-      "doc_order": 4
-    },
-    {
-      "label": "Archives",
-      "level": 2,
-      "doc_order": 5
-    },
-    {
-      "label": "About",
-      "level": 1,
-      "doc_order": 6
-    },
-    {
-      "label": "Editorial Information",
-      "level": 2,
-      "doc_order": 7
-    },
-    {
-      "label": "About the SEP",
-      "level": 2,
-      "doc_order": 8
-    },
-    {
-      "label": "Editorial Board",
-      "level": 2,
-      "doc_order": 9
-    },
-    {
-      "label": "How to Cite the SEP",
-      "level": 2,
-      "doc_order": 10
-    },
-    {
-      "label": "Special Characters",
-      "level": 2,
-      "doc_order": 11
-    },
-    {
-      "label": "Advanced Tools",
-      "level": 2,
-      "doc_order": 12
-    },
-    {
-      "label": "Contact",
-      "level": 2,
-      "doc_order": 13
-    },
-    {
-      "label": "Support SEP",
-      "level": 1,
-      "doc_order": 14
-    },
-    {
-      "label": "Support the SEP",
-      "level": 2,
-      "doc_order": 15
-    },
-    {
-      "label": "PDFs for SEP Friends",
-      "level": 2,
-      "doc_order": 16
-    },
-    {
-      "label": "Make a Donation",
-      "level": 2,
-      "doc_order": 17
-    },
-    {
-      "label": "SEPIA for Libraries",
-      "level": 2,
-      "doc_order": 18
-    },
-    {
       "label": "aesthetics",
       "level": 1,
       "doc_order": 47
@@ -22459,96 +22364,6 @@
       "label": "Zermelo, Ernst",
       "level": 1,
       "doc_order": 2727
-    },
-    {
-      "label": "Table of Contents",
-      "level": 1,
-      "doc_order": 2732
-    },
-    {
-      "label": "What's New",
-      "level": 1,
-      "doc_order": 2733
-    },
-    {
-      "label": "Random Entry",
-      "level": 1,
-      "doc_order": 2734
-    },
-    {
-      "label": "Chronological",
-      "level": 1,
-      "doc_order": 2735
-    },
-    {
-      "label": "Archives",
-      "level": 1,
-      "doc_order": 2736
-    },
-    {
-      "label": "Editorial Information",
-      "level": 1,
-      "doc_order": 2737
-    },
-    {
-      "label": "About the SEP",
-      "level": 1,
-      "doc_order": 2738
-    },
-    {
-      "label": "Editorial Board",
-      "level": 1,
-      "doc_order": 2739
-    },
-    {
-      "label": "How to Cite the SEP",
-      "level": 1,
-      "doc_order": 2740
-    },
-    {
-      "label": "Special Characters",
-      "level": 1,
-      "doc_order": 2741
-    },
-    {
-      "label": "Advanced Tools",
-      "level": 1,
-      "doc_order": 2742
-    },
-    {
-      "label": "Accessibility",
-      "level": 1,
-      "doc_order": 2743
-    },
-    {
-      "label": "Contact",
-      "level": 1,
-      "doc_order": 2744
-    },
-    {
-      "label": "Support the SEP",
-      "level": 1,
-      "doc_order": 2745
-    },
-    {
-      "label": "PDFs for SEP Friends",
-      "level": 1,
-      "doc_order": 2746
-    },
-    {
-      "label": "Make a Donation",
-      "level": 1,
-      "doc_order": 2747
-    },
-    {
-      "label": "SEPIA for Libraries",
-      "level": 1,
-      "doc_order": 2748
-    },
-    {
-      "label": "Info about mirror sites",
-      "level": 1,
-      "doc_order": 2749
     }
   ]
 }

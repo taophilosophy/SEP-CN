@@ -1,0 +1,3900 @@
+{
+  "source_snapshot": "20261027T171130Z-contents.html",
+  "fixed_rows": [
+    [
+      19,
+      "<!DOCTYPE html>"
+    ],
+    [
+      19,
+      "<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->"
+    ],
+    [
+      19,
+      "<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->"
+    ],
+    [
+      19,
+      "<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->"
+    ],
+    [
+      19,
+      "<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->"
+    ],
+    [
+      19,
+      "<!--[if !IE]> --> <html lang=\"en\"> <!-- <![endif]-->"
+    ],
+    [
+      19,
+      "<head>"
+    ],
+    [
+      19,
+      "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />"
+    ],
+    [
+      19,
+      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />"
+    ],
+    [
+      19,
+      "<title>Table of Contents (Stanford Encyclopedia of Philosophy)</title>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "<!-- NOTE: Import webfonts using this link: -->"
+    ],
+    [
+      19,
+      "<link href=\"https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext\" rel=\"stylesheet\" type=\"text/css\" />"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"css/bootstrap.min.css\" />"
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"css/bootstrap-responsive.min.css\" />"
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/font-awesome.min.css\" />"
+    ],
+    [
+      19,
+      "<!--[if IE 7]> <link rel=\"stylesheet\" type=\"text/css\" href=\"css/font-awesome-ie7.min.css\"> <![endif]-->"
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"css/style.css\" />"
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" media=\"print\" href=\"css/print.css\" />"
+    ],
+    [
+      19,
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/entry.css\" />"
+    ],
+    [
+      19,
+      "<!--[if IE]> <link rel=\"stylesheet\" type=\"text/css\" href=\"css/ie.css\" /> <![endif]-->"
+    ],
+    [
+      19,
+      "<script type=\"text/javascript\" src=\"js/jquery-1.9.1.min.js\"></script>"
+    ],
+    [
+      19,
+      "<script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>"
+    ],
+    [
+      19,
+      "<script type=\"text/javascript\" src=\"js/sep.js\"></script>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->"
+    ],
+    [
+      19,
+      "<script type=\"text/javascript\" src=\"js/jquery.sticky.js\"></script>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "<!-- SEP custom script -->"
+    ],
+    [
+      19,
+      "<script type=\"text/javascript\" src=\"js/sep.js\"></script>"
+    ],
+    [
+      19,
+      "</head>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      " <!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->"
+    ],
+    [
+      19,
+      "<body class=\"nojs toc\" id=\"pagetopright\">"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "  <div id=\"container\">"
+    ],
+    [
+      19,
+      "    "
+    ],
+    [
+      19,
+      "    <div id=\"header-wrapper\">"
+    ],
+    [
+      19,
+      "      <div id=\"header\">"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "        <div id=\"branding\">"
+    ],
+    [
+      19,
+      "          <div id=\"site-logo\"><img src=\"symbols/sep-man-red.png\" alt=\"\" /></div>"
+    ],
+    [
+      19,
+      "          <div id=\"site-title\"><a href=\"index.html\">Stanford Encyclopedia of Philosophy</a></div>"
+    ],
+    [
+      19,
+      "        </div>"
+    ],
+    [
+      19,
+      "        "
+    ],
+    [
+      19,
+      "        <div id=\"navigation\">"
+    ],
+    [
+      19,
+      "          <div class=\"navbar\">"
+    ],
+    [
+      19,
+      "            <div class=\"navbar-inner\">"
+    ],
+    [
+      19,
+      "              <div class=\"container\">"
+    ],
+    [
+      19,
+      "                <button class=\"btn btn-navbar collapsed\" data-target=\".nav-collapse\" data-toggle=\"collapse\" type=\"button\">"
+    ],
+    [
+      19,
+      "                  <i class=\"icon-reorder\"></i> Menu"
+    ],
+    [
+      19,
+      "                </button>"
+    ],
+    [
+      19,
+      "                <div class=\"nav-collapse in collapse\">"
+    ],
+    [
+      19,
+      "                  <ul class=\"nav\">"
+    ],
+    [
+      19,
+      "                    <li class=\"dropdown open\"><a id=\"drop1\" href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"><i class=\"icon-book\"></i> Browse</a>"
+    ],
+    [
+      19,
+      "                      <ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"drop1\">"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"contents.html\">Table of Contents</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"new.html\">What's New</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"https://plato.stanford.edu/cgi-bin/encyclopedia/random\">Random Entry</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"published.html\">Chronological</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"archives/\">Archives</a></li>"
+    ],
+    [
+      19,
+      "                      </ul>"
+    ],
+    [
+      19,
+      "                    </li>"
+    ],
+    [
+      19,
+      "                    <li class=\"dropdown open\"><a id=\"drop2\" href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"><i class=\"icon-info-sign\"></i> About</a>"
+    ],
+    [
+      19,
+      "                      <ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"drop2\">"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"info.html\">Editorial Information</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"about.html\">About the SEP</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"board.html\">Editorial Board</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"cite.html\">How to Cite the SEP</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"special-characters.html\">Special Characters</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"tools/\">Advanced Tools</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"contact.html\">Contact</a></li>"
+    ],
+    [
+      19,
+      "                      </ul>"
+    ],
+    [
+      19,
+      "                    </li>"
+    ],
+    [
+      19,
+      "                    <li class=\"dropdown open\"><a id=\"drop3\" href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"><i class=\"icon-leaf\"></i> Support SEP</a>"
+    ],
+    [
+      19,
+      "                      <ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"drop3\">"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"support/\">Support the SEP</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"support/friends.html\">PDFs for SEP Friends</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"support/donate.html\">Make a Donation</a></li>"
+    ],
+    [
+      19,
+      "                        <li role=\"menuitem\"><a href=\"support/sepia.html\">SEPIA for Libraries</a></li>"
+    ],
+    [
+      19,
+      "                      </ul>"
+    ],
+    [
+      19,
+      "                    </li>"
+    ],
+    [
+      19,
+      "                  </ul>"
+    ],
+    [
+      19,
+      "                </div>"
+    ],
+    [
+      19,
+      "              </div>"
+    ],
+    [
+      19,
+      "            </div>"
+    ],
+    [
+      19,
+      "          </div>"
+    ],
+    [
+      19,
+      "        </div> <!-- End navigation -->"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "        <div id=\"search\">"
+    ],
+    [
+      19,
+      "          <form id=\"search-form\" method=\"get\" action=\"search/searcher.py\">"
+    ],
+    [
+      19,
+      "            <input type=\"search\" name=\"query\" placeholder=\"Search SEP\" />"
+    ],
+    [
+      19,
+      "            <div class=\"search-btn-wrapper\"><button class=\"btn search-btn\" type=\"submit\" aria-label=\"search\"><i class=\"icon-search\"></i></button></div>"
+    ],
+    [
+      19,
+      "          </form>"
+    ],
+    [
+      19,
+      "          <!-- <a class=\"advanced-search\" href=\"search/searcher.py\">Advanced Search</a> -->"
+    ],
+    [
+      19,
+      "        </div> <!-- End search -->"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "      </div> <!-- End header -->"
+    ],
+    [
+      19,
+      "    </div><!-- End header wrapper -->"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "    <div id=\"toc-wrapper\">"
+    ],
+    [
+      19,
+      "      <h1>Table of Contents</h1>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "          <div class=\"sticky\">"
+    ],
+    [
+      19,
+      "      <div id=\"toc-nav\">"
+    ],
+    [
+      19,
+      "        <p>"
+    ],
+    [
+      19,
+      "          <a href=\"#a\" class=\"btn\">A</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#b\" class=\"btn\">B</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#c\" class=\"btn\">C</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#d\" class=\"btn\">D</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#e\" class=\"btn\">E</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#f\" class=\"btn\">F</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#g\" class=\"btn\">G</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#h\" class=\"btn\">H</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#i\" class=\"btn\">I</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#j\" class=\"btn\">J</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#k\" class=\"btn\">K</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#l\" class=\"btn\">L</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#m\" class=\"btn\">M</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#n\" class=\"btn\">N</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#o\" class=\"btn\">O</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#p\" class=\"btn\">P</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#q\" class=\"btn\">Q</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#r\" class=\"btn\">R</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#s\" class=\"btn\">S</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#t\" class=\"btn\">T</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#u\" class=\"btn\">U</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#v\" class=\"btn\">V</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#w\" class=\"btn\">W</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#x\" class=\"btn\">X</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#y\" class=\"btn\">Y</a>"
+    ],
+    [
+      19,
+      "          <a href=\"#z\" class=\"btn\">Z</a>"
+    ],
+    [
+      19,
+      "        </p>"
+    ],
+    [
+      19,
+      "      </div>"
+    ],
+    [
+      19,
+      "          </div>"
+    ],
+    [
+      19,
+      "    </div> <!-- End Toc Wrapper -->"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "    <div id=\"content\">"
+    ],
+    [
+      19,
+      "<a id=\"a\"></a>"
+    ],
+    [
+      19,
+      "<h2>A</h2>"
+    ],
+    [
+      19,
+      ""
+    ],
+    [
+      19,
+      "<ul>"
+    ],
+    [
+      30,
+      "   <ul>"
+    ],
+    [
+      36,
+      "   </ul></li>"
+    ],
+    [
+      48,
+      "   <ul>"
+    ],
+    [
+      76,
+      "   </ul></li>"
+    ],
+    [
+      81,
+      "   <ul>"
+    ],
+    [
+      82,
+      "   </ul></li>"
+    ],
+    [
+      83,
+      "   <ul>"
+    ],
+    [
+      86,
+      "   </ul></li>"
+    ],
+    [
+      88,
+      "   <ul>"
+    ],
+    [
+      89,
+      "   </ul></li>"
+    ],
+    [
+      95,
+      "   <ul>"
+    ],
+    [
+      96,
+      "   </ul></li>"
+    ],
+    [
+      99,
+      "   <ul>"
+    ],
+    [
+      103,
+      "   </ul></li>"
+    ],
+    [
+      123,
+      "   <ul>"
+    ],
+    [
+      125,
+      "   </ul></li>"
+    ],
+    [
+      130,
+      "   <ul>"
+    ],
+    [
+      131,
+      "   </ul></li>"
+    ],
+    [
+      141,
+      "   <ul>"
+    ],
+    [
+      146,
+      "   </ul></li>"
+    ],
+    [
+      148,
+      "   <ul>"
+    ],
+    [
+      149,
+      "   </ul></li>"
+    ],
+    [
+      157,
+      "   <ul>"
+    ],
+    [
+      159,
+      "   </ul></li>"
+    ],
+    [
+      161,
+      "   <ul>"
+    ],
+    [
+      162,
+      "   </ul></li>"
+    ],
+    [
+      163,
+      "   <ul>"
+    ],
+    [
+      169,
+      "   </ul></li>"
+    ],
+    [
+      170,
+      "   <ul>"
+    ],
+    [
+      173,
+      "   </ul></li>"
+    ],
+    [
+      174,
+      "   <ul>"
+    ],
+    [
+      178,
+      "   </ul></li>"
+    ],
+    [
+      185,
+      "   <ul>"
+    ],
+    [
+      186,
+      "   </ul></li>"
+    ],
+    [
+      188,
+      "   <ul>"
+    ],
+    [
+      190,
+      "   </ul></li>"
+    ],
+    [
+      191,
+      "   <ul>"
+    ],
+    [
+      192,
+      "   </ul></li>"
+    ],
+    [
+      193,
+      "   <ul>"
+    ],
+    [
+      200,
+      "   </ul></li>"
+    ],
+    [
+      201,
+      "   <ul>"
+    ],
+    [
+      210,
+      "   </ul></li>"
+    ],
+    [
+      211,
+      "   <ul>"
+    ],
+    [
+      216,
+      "   </ul></li>"
+    ],
+    [
+      220,
+      "   <ul>"
+    ],
+    [
+      221,
+      "   </ul></li>"
+    ],
+    [
+      224,
+      "   <ul>"
+    ],
+    [
+      225,
+      "   </ul></li>"
+    ],
+    [
+      227,
+      "   <ul>"
+    ],
+    [
+      237,
+      "   </ul></li>"
+    ],
+    [
+      243,
+      "   <ul>"
+    ],
+    [
+      245,
+      "   </ul></li>"
+    ],
+    [
+      255,
+      "   <ul>"
+    ],
+    [
+      256,
+      "   </ul></li>"
+    ],
+    [
+      258,
+      "   <ul>"
+    ],
+    [
+      261,
+      "   </ul></li>"
+    ],
+    [
+      262,
+      "   <ul>"
+    ],
+    [
+      263,
+      "   </ul></li>"
+    ],
+    [
+      265,
+      "   <ul>"
+    ],
+    [
+      268,
+      "   </ul></li>"
+    ],
+    [
+      270,
+      "</ul>"
+    ],
+    [
+      270,
+      "<a id=\"b\"></a>"
+    ],
+    [
+      270,
+      "<hr />"
+    ],
+    [
+      270,
+      "<h2>B <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      270,
+      "<ul>"
+    ],
+    [
+      279,
+      "   <ul>"
+    ],
+    [
+      280,
+      "   </ul></li>"
+    ],
+    [
+      286,
+      "   <ul>"
+    ],
+    [
+      287,
+      "   </ul></li>"
+    ],
+    [
+      288,
+      "   <ul>"
+    ],
+    [
+      289,
+      "   </ul></li>"
+    ],
+    [
+      304,
+      "   <ul>"
+    ],
+    [
+      305,
+      "   </ul></li>"
+    ],
+    [
+      306,
+      "   <ul>"
+    ],
+    [
+      307,
+      "   </ul></li>"
+    ],
+    [
+      310,
+      "   <ul>"
+    ],
+    [
+      317,
+      "   </ul></li>"
+    ],
+    [
+      318,
+      "   <ul>"
+    ],
+    [
+      319,
+      "   </ul></li>"
+    ],
+    [
+      329,
+      "   <ul>"
+    ],
+    [
+      330,
+      "   </ul></li>"
+    ],
+    [
+      331,
+      "   <ul>"
+    ],
+    [
+      332,
+      "   </ul></li>"
+    ],
+    [
+      335,
+      "   <ul>"
+    ],
+    [
+      336,
+      "   </ul></li>"
+    ],
+    [
+      341,
+      "   <ul>"
+    ],
+    [
+      343,
+      "   </ul></li>"
+    ],
+    [
+      347,
+      "   <ul>"
+    ],
+    [
+      348,
+      "   </ul></li>"
+    ],
+    [
+      355,
+      "   <ul>"
+    ],
+    [
+      361,
+      "   </ul></li>"
+    ],
+    [
+      368,
+      "   <ul>"
+    ],
+    [
+      369,
+      "   </ul></li>"
+    ],
+    [
+      370,
+      "</ul>"
+    ],
+    [
+      370,
+      "<a id=\"c\"></a>"
+    ],
+    [
+      370,
+      "<hr />"
+    ],
+    [
+      370,
+      "<h2>C <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      370,
+      "<ul>"
+    ],
+    [
+      386,
+      "   <ul>"
+    ],
+    [
+      387,
+      "   </ul></li>"
+    ],
+    [
+      392,
+      "   <ul>"
+    ],
+    [
+      404,
+      "   </ul></li>"
+    ],
+    [
+      411,
+      "   <ul>"
+    ],
+    [
+      412,
+      "   </ul></li>"
+    ],
+    [
+      413,
+      "   <ul>"
+    ],
+    [
+      414,
+      "   </ul></li>"
+    ],
+    [
+      417,
+      "   <ul>"
+    ],
+    [
+      418,
+      "   </ul></li>"
+    ],
+    [
+      424,
+      "   <ul>"
+    ],
+    [
+      425,
+      "   </ul></li>"
+    ],
+    [
+      427,
+      "   <ul>"
+    ],
+    [
+      428,
+      "   </ul></li>"
+    ],
+    [
+      430,
+      "   <ul>"
+    ],
+    [
+      462,
+      "   </ul></li>"
+    ],
+    [
+      487,
+      "   <ul>"
+    ],
+    [
+      489,
+      "   </ul></li>"
+    ],
+    [
+      494,
+      "   <ul>"
+    ],
+    [
+      495,
+      "   </ul></li>"
+    ],
+    [
+      503,
+      "   <ul>"
+    ],
+    [
+      504,
+      "   </ul></li>"
+    ],
+    [
+      507,
+      "   <ul>"
+    ],
+    [
+      508,
+      "   </ul></li>"
+    ],
+    [
+      511,
+      "   <ul>"
+    ],
+    [
+      513,
+      "   </ul></li>"
+    ],
+    [
+      517,
+      "   <ul>"
+    ],
+    [
+      518,
+      "   </ul></li>"
+    ],
+    [
+      524,
+      "   <ul>"
+    ],
+    [
+      526,
+      "   </ul></li>"
+    ],
+    [
+      531,
+      "   <ul>"
+    ],
+    [
+      533,
+      "   </ul></li>"
+    ],
+    [
+      534,
+      "   <ul>"
+    ],
+    [
+      535,
+      "   </ul></li>"
+    ],
+    [
+      537,
+      "   <ul>"
+    ],
+    [
+      546,
+      "   </ul></li>"
+    ],
+    [
+      549,
+      "   <ul>"
+    ],
+    [
+      550,
+      "   </ul></li>"
+    ],
+    [
+      551,
+      "   <ul>"
+    ],
+    [
+      552,
+      "   </ul></li>"
+    ],
+    [
+      553,
+      "   <ul>"
+    ],
+    [
+      561,
+      "   </ul></li>"
+    ],
+    [
+      563,
+      "   <ul>"
+    ],
+    [
+      564,
+      "   </ul></li>"
+    ],
+    [
+      570,
+      "   <ul>"
+    ],
+    [
+      572,
+      "   </ul></li>"
+    ],
+    [
+      581,
+      "   <ul>"
+    ],
+    [
+      582,
+      "   </ul></li>"
+    ],
+    [
+      589,
+      "   <ul>"
+    ],
+    [
+      591,
+      "   </ul></li>"
+    ],
+    [
+      604,
+      "   <ul>"
+    ],
+    [
+      605,
+      "   </ul></li>"
+    ],
+    [
+      607,
+      "   <ul>"
+    ],
+    [
+      608,
+      "   </ul></li>"
+    ],
+    [
+      614,
+      "   <ul>"
+    ],
+    [
+      615,
+      "   </ul></li>"
+    ],
+    [
+      618,
+      "</ul>"
+    ],
+    [
+      618,
+      "<a id=\"d\"></a>"
+    ],
+    [
+      618,
+      "<hr />"
+    ],
+    [
+      618,
+      "<h2>D <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      618,
+      "<ul>"
+    ],
+    [
+      623,
+      "   <ul>"
+    ],
+    [
+      627,
+      "   </ul></li>"
+    ],
+    [
+      628,
+      "   <ul>"
+    ],
+    [
+      629,
+      "   </ul></li>"
+    ],
+    [
+      635,
+      "   <ul>"
+    ],
+    [
+      636,
+      "   </ul></li>"
+    ],
+    [
+      638,
+      "   <ul>"
+    ],
+    [
+      640,
+      "   </ul></li>"
+    ],
+    [
+      642,
+      "   <ul>"
+    ],
+    [
+      646,
+      "   </ul></li>"
+    ],
+    [
+      647,
+      "   <ul>"
+    ],
+    [
+      648,
+      "   </ul></li>"
+    ],
+    [
+      657,
+      "   <ul>"
+    ],
+    [
+      659,
+      "   </ul></li>"
+    ],
+    [
+      661,
+      "   <ul>"
+    ],
+    [
+      663,
+      "   </ul></li>"
+    ],
+    [
+      670,
+      "   <ul>"
+    ],
+    [
+      680,
+      "   </ul></li>"
+    ],
+    [
+      687,
+      "   <ul>"
+    ],
+    [
+      689,
+      "   </ul></li>"
+    ],
+    [
+      690,
+      "   <ul>"
+    ],
+    [
+      692,
+      "   </ul></li>"
+    ],
+    [
+      693,
+      "   <ul>"
+    ],
+    [
+      696,
+      "   </ul></li>"
+    ],
+    [
+      698,
+      "   <ul>"
+    ],
+    [
+      700,
+      "   </ul></li>"
+    ],
+    [
+      713,
+      "   <ul>"
+    ],
+    [
+      719,
+      "   </ul></li>"
+    ],
+    [
+      720,
+      "   <ul>"
+    ],
+    [
+      721,
+      "   </ul></li>"
+    ],
+    [
+      728,
+      "   <ul>"
+    ],
+    [
+      730,
+      "   </ul></li>"
+    ],
+    [
+      731,
+      "   <ul>"
+    ],
+    [
+      732,
+      "   </ul></li>"
+    ],
+    [
+      733,
+      "   <ul>"
+    ],
+    [
+      741,
+      "   </ul></li>"
+    ],
+    [
+      761,
+      "</ul>"
+    ],
+    [
+      761,
+      "<a id=\"e\"></a>"
+    ],
+    [
+      761,
+      "<hr />"
+    ],
+    [
+      761,
+      "<h2>E <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      761,
+      "<ul>"
+    ],
+    [
+      765,
+      "   <ul>"
+    ],
+    [
+      767,
+      "   </ul></li>"
+    ],
+    [
+      769,
+      "   <ul>"
+    ],
+    [
+      772,
+      "   </ul></li>"
+    ],
+    [
+      779,
+      "   <ul>"
+    ],
+    [
+      781,
+      "   </ul></li>"
+    ],
+    [
+      786,
+      "   <ul>"
+    ],
+    [
+      791,
+      "   </ul></li>"
+    ],
+    [
+      794,
+      "   <ul>"
+    ],
+    [
+      798,
+      "   </ul></li>"
+    ],
+    [
+      799,
+      "   <ul>"
+    ],
+    [
+      802,
+      "   </ul></li>"
+    ],
+    [
+      806,
+      "   <ul>"
+    ],
+    [
+      807,
+      "   </ul></li>"
+    ],
+    [
+      818,
+      "   <ul>"
+    ],
+    [
+      832,
+      "   </ul></li>"
+    ],
+    [
+      835,
+      "   <ul>"
+    ],
+    [
+      837,
+      "   </ul></li>"
+    ],
+    [
+      846,
+      "   <ul>"
+    ],
+    [
+      863,
+      "   </ul></li>"
+    ],
+    [
+      865,
+      "   <ul>"
+    ],
+    [
+      866,
+      "   </ul></li>"
+    ],
+    [
+      867,
+      "   <ul>"
+    ],
+    [
+      887,
+      "   </ul></li>"
+    ],
+    [
+      890,
+      "   <ul>"
+    ],
+    [
+      891,
+      "   </ul></li>"
+    ],
+    [
+      893,
+      "   <ul>"
+    ],
+    [
+      895,
+      "   </ul></li>"
+    ],
+    [
+      897,
+      "   <ul>"
+    ],
+    [
+      900,
+      "   </ul></li>"
+    ],
+    [
+      901,
+      "   <ul>"
+    ],
+    [
+      904,
+      "   </ul></li>"
+    ],
+    [
+      910,
+      "   <ul>"
+    ],
+    [
+      912,
+      "   </ul></li>"
+    ],
+    [
+      918,
+      "   <ul>"
+    ],
+    [
+      920,
+      "   </ul></li>"
+    ],
+    [
+      921,
+      "   <ul>"
+    ],
+    [
+      925,
+      "   </ul></li>"
+    ],
+    [
+      927,
+      "   <ul>"
+    ],
+    [
+      928,
+      "   </ul></li>"
+    ],
+    [
+      931,
+      "</ul>"
+    ],
+    [
+      931,
+      "<a id=\"f\"></a>"
+    ],
+    [
+      931,
+      "<hr />"
+    ],
+    [
+      931,
+      "<h2>F <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      931,
+      "<ul>"
+    ],
+    [
+      933,
+      "   <ul>"
+    ],
+    [
+      934,
+      "   </ul></li>"
+    ],
+    [
+      945,
+      "   <ul>"
+    ],
+    [
+      952,
+      "   </ul></li>"
+    ],
+    [
+      953,
+      "   <ul>"
+    ],
+    [
+      968,
+      "   </ul></li>"
+    ],
+    [
+      969,
+      "   <ul>"
+    ],
+    [
+      984,
+      "   </ul></li>"
+    ],
+    [
+      991,
+      "   <ul>"
+    ],
+    [
+      993,
+      "   </ul></li>"
+    ],
+    [
+      994,
+      "   <ul>"
+    ],
+    [
+      996,
+      "   </ul></li>"
+    ],
+    [
+      1007,
+      "   <ul>"
+    ],
+    [
+      1009,
+      "   </ul></li>"
+    ],
+    [
+      1014,
+      "   <ul>"
+    ],
+    [
+      1015,
+      "   </ul></li>"
+    ],
+    [
+      1024,
+      "   <ul>"
+    ],
+    [
+      1030,
+      "   </ul></li>"
+    ],
+    [
+      1032,
+      "   <ul>"
+    ],
+    [
+      1034,
+      "   </ul></li>"
+    ],
+    [
+      1035,
+      "   <ul>"
+    ],
+    [
+      1038,
+      "   </ul></li>"
+    ],
+    [
+      1041,
+      "   <ul>"
+    ],
+    [
+      1044,
+      "   </ul></li>"
+    ],
+    [
+      1047,
+      "   <ul>"
+    ],
+    [
+      1048,
+      "   </ul></li>"
+    ],
+    [
+      1048,
+      "</ul>"
+    ],
+    [
+      1048,
+      "<a id=\"g\"></a>"
+    ],
+    [
+      1048,
+      "<hr />"
+    ],
+    [
+      1048,
+      "<h2>G <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1048,
+      "<ul>"
+    ],
+    [
+      1049,
+      "   <ul>"
+    ],
+    [
+      1050,
+      "   </ul></li>"
+    ],
+    [
+      1053,
+      "   <ul>"
+    ],
+    [
+      1056,
+      "   </ul></li>"
+    ],
+    [
+      1057,
+      "   <ul>"
+    ],
+    [
+      1060,
+      "   </ul></li>"
+    ],
+    [
+      1067,
+      "   <ul>"
+    ],
+    [
+      1068,
+      "   </ul></li>"
+    ],
+    [
+      1071,
+      "   <ul>"
+    ],
+    [
+      1075,
+      "   </ul></li>"
+    ],
+    [
+      1077,
+      "   <ul>"
+    ],
+    [
+      1080,
+      "   </ul></li>"
+    ],
+    [
+      1083,
+      "   <ul>"
+    ],
+    [
+      1084,
+      "   </ul></li>"
+    ],
+    [
+      1091,
+      "   <ul>"
+    ],
+    [
+      1093,
+      "   </ul></li>"
+    ],
+    [
+      1094,
+      "   <ul>"
+    ],
+    [
+      1095,
+      "   </ul></li>"
+    ],
+    [
+      1096,
+      "   <ul>"
+    ],
+    [
+      1101,
+      "   </ul></li>"
+    ],
+    [
+      1104,
+      "   <ul>"
+    ],
+    [
+      1105,
+      "   </ul></li>"
+    ],
+    [
+      1106,
+      "   <ul>"
+    ],
+    [
+      1107,
+      "   </ul></li>"
+    ],
+    [
+      1111,
+      "   <ul>"
+    ],
+    [
+      1113,
+      "   </ul></li>"
+    ],
+    [
+      1122,
+      "</ul>"
+    ],
+    [
+      1122,
+      "<a id=\"h\"></a>"
+    ],
+    [
+      1122,
+      "<hr />"
+    ],
+    [
+      1122,
+      "<h2>H <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1122,
+      "<ul>"
+    ],
+    [
+      1125,
+      "   <ul>"
+    ],
+    [
+      1126,
+      "   </ul></li>"
+    ],
+    [
+      1141,
+      "   <ul>"
+    ],
+    [
+      1144,
+      "   </ul></li>"
+    ],
+    [
+      1145,
+      "   <ul>"
+    ],
+    [
+      1146,
+      "   </ul></li>"
+    ],
+    [
+      1155,
+      "   <ul>"
+    ],
+    [
+      1156,
+      "   </ul></li>"
+    ],
+    [
+      1160,
+      "   <ul>"
+    ],
+    [
+      1162,
+      "   </ul></li>"
+    ],
+    [
+      1165,
+      "   <ul>"
+    ],
+    [
+      1168,
+      "   </ul></li>"
+    ],
+    [
+      1179,
+      "   <ul>"
+    ],
+    [
+      1180,
+      "   </ul></li>"
+    ],
+    [
+      1186,
+      "   <ul>"
+    ],
+    [
+      1194,
+      "   </ul></li>"
+    ],
+    [
+      1199,
+      "   <ul>"
+    ],
+    [
+      1200,
+      "   </ul></li>"
+    ],
+    [
+      1202,
+      "</ul>"
+    ],
+    [
+      1202,
+      "<a id=\"i\"></a>"
+    ],
+    [
+      1202,
+      "<hr />"
+    ],
+    [
+      1202,
+      "<h2>I <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1202,
+      "<ul>"
+    ],
+    [
+      1211,
+      "   <ul>"
+    ],
+    [
+      1212,
+      "   </ul></li>"
+    ],
+    [
+      1213,
+      "   <ul>"
+    ],
+    [
+      1216,
+      "   </ul></li>"
+    ],
+    [
+      1220,
+      "   <ul>"
+    ],
+    [
+      1225,
+      "   </ul></li>"
+    ],
+    [
+      1241,
+      "   <ul>"
+    ],
+    [
+      1242,
+      "   </ul></li>"
+    ],
+    [
+      1245,
+      "   <ul>"
+    ],
+    [
+      1247,
+      "   </ul></li>"
+    ],
+    [
+      1249,
+      "   <ul>"
+    ],
+    [
+      1251,
+      "   </ul></li>"
+    ],
+    [
+      1253,
+      "   <ul>"
+    ],
+    [
+      1261,
+      "   </ul></li>"
+    ],
+    [
+      1264,
+      "   <ul>"
+    ],
+    [
+      1265,
+      "   </ul></li>"
+    ],
+    [
+      1274,
+      "   <ul>"
+    ],
+    [
+      1278,
+      "   </ul></li>"
+    ],
+    [
+      1279,
+      "   <ul>"
+    ],
+    [
+      1280,
+      "   </ul></li>"
+    ],
+    [
+      1281,
+      "   <ul>"
+    ],
+    [
+      1284,
+      "   </ul></li>"
+    ],
+    [
+      1290,
+      "   <ul>"
+    ],
+    [
+      1293,
+      "   </ul></li>"
+    ],
+    [
+      1301,
+      "   <ul>"
+    ],
+    [
+      1305,
+      "   </ul></li>"
+    ],
+    [
+      1312,
+      "   <ul>"
+    ],
+    [
+      1314,
+      "   </ul></li>"
+    ],
+    [
+      1315,
+      "   <ul>"
+    ],
+    [
+      1316,
+      "   </ul></li>"
+    ],
+    [
+      1320,
+      "</ul>"
+    ],
+    [
+      1320,
+      "<a id=\"j\"></a>"
+    ],
+    [
+      1320,
+      "<hr />"
+    ],
+    [
+      1320,
+      "<h2>J <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1320,
+      "<ul>"
+    ],
+    [
+      1325,
+      "   <ul>"
+    ],
+    [
+      1334,
+      "   </ul></li>"
+    ],
+    [
+      1342,
+      "   <ul>"
+    ],
+    [
+      1343,
+      "   </ul></li>"
+    ],
+    [
+      1347,
+      "   <ul>"
+    ],
+    [
+      1362,
+      "   </ul></li>"
+    ],
+    [
+      1363,
+      "   <ul>"
+    ],
+    [
+      1369,
+      "   </ul></li>"
+    ],
+    [
+      1370,
+      "   <ul>"
+    ],
+    [
+      1371,
+      "   </ul></li>"
+    ],
+    [
+      1371,
+      "</ul>"
+    ],
+    [
+      1371,
+      "<a id=\"k\"></a>"
+    ],
+    [
+      1371,
+      "<hr />"
+    ],
+    [
+      1371,
+      "<h2>K <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1371,
+      "<ul>"
+    ],
+    [
+      1372,
+      "   <ul>"
+    ],
+    [
+      1390,
+      "   </ul></li>"
+    ],
+    [
+      1397,
+      "   <ul>"
+    ],
+    [
+      1401,
+      "   </ul></li>"
+    ],
+    [
+      1406,
+      "   <ul>"
+    ],
+    [
+      1408,
+      "   </ul></li>"
+    ],
+    [
+      1411,
+      "</ul>"
+    ],
+    [
+      1411,
+      "<a id=\"l\"></a>"
+    ],
+    [
+      1411,
+      "<hr />"
+    ],
+    [
+      1411,
+      "<h2>L <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1411,
+      "<ul>"
+    ],
+    [
+      1423,
+      "   <ul>"
+    ],
+    [
+      1432,
+      "   </ul></li>"
+    ],
+    [
+      1434,
+      "   <ul>"
+    ],
+    [
+      1439,
+      "   </ul></li>"
+    ],
+    [
+      1440,
+      "   <ul>"
+    ],
+    [
+      1441,
+      "   </ul></li>"
+    ],
+    [
+      1448,
+      "   <ul>"
+    ],
+    [
+      1449,
+      "   </ul></li>"
+    ],
+    [
+      1453,
+      "   <ul>"
+    ],
+    [
+      1455,
+      "   </ul></li>"
+    ],
+    [
+      1459,
+      "   <ul>"
+    ],
+    [
+      1467,
+      "   </ul></li>"
+    ],
+    [
+      1475,
+      "   <ul>"
+    ],
+    [
+      1476,
+      "   </ul></li>"
+    ],
+    [
+      1477,
+      "   <ul>"
+    ],
+    [
+      1478,
+      "   </ul></li>"
+    ],
+    [
+      1480,
+      "   <ul>"
+    ],
+    [
+      1481,
+      "   </ul></li>"
+    ],
+    [
+      1484,
+      "   <ul>"
+    ],
+    [
+      1485,
+      "   </ul></li>"
+    ],
+    [
+      1486,
+      "   <ul>"
+    ],
+    [
+      1487,
+      "   </ul></li>"
+    ],
+    [
+      1491,
+      "   <ul>"
+    ],
+    [
+      1493,
+      "   </ul></li>"
+    ],
+    [
+      1499,
+      "   <ul>"
+    ],
+    [
+      1506,
+      "   </ul></li>"
+    ],
+    [
+      1507,
+      "   <ul>"
+    ],
+    [
+      1557,
+      "   </ul></li>"
+    ],
+    [
+      1558,
+      "   <ul>"
+    ],
+    [
+      1563,
+      "   </ul></li>"
+    ],
+    [
+      1564,
+      "   <ul>"
+    ],
+    [
+      1566,
+      "   </ul></li>"
+    ],
+    [
+      1567,
+      "   <ul>"
+    ],
+    [
+      1568,
+      "   </ul></li>"
+    ],
+    [
+      1579,
+      "   <ul>"
+    ],
+    [
+      1581,
+      "   </ul></li>"
+    ],
+    [
+      1585,
+      "   <ul>"
+    ],
+    [
+      1586,
+      "   </ul></li>"
+    ],
+    [
+      1589,
+      "   <ul>"
+    ],
+    [
+      1590,
+      "   </ul></li>"
+    ],
+    [
+      1591,
+      "</ul>"
+    ],
+    [
+      1591,
+      "<a id=\"m\"></a>"
+    ],
+    [
+      1591,
+      "<hr />"
+    ],
+    [
+      1591,
+      "<h2>M <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1591,
+      "<ul>"
+    ],
+    [
+      1598,
+      "   <ul>"
+    ],
+    [
+      1599,
+      "   </ul></li>"
+    ],
+    [
+      1600,
+      "   <ul>"
+    ],
+    [
+      1602,
+      "   </ul></li>"
+    ],
+    [
+      1603,
+      "   <ul>"
+    ],
+    [
+      1604,
+      "   </ul></li>"
+    ],
+    [
+      1623,
+      "   <ul>"
+    ],
+    [
+      1625,
+      "   </ul></li>"
+    ],
+    [
+      1627,
+      "   <ul>"
+    ],
+    [
+      1628,
+      "   </ul></li>"
+    ],
+    [
+      1629,
+      "   <ul>"
+    ],
+    [
+      1631,
+      "   </ul></li>"
+    ],
+    [
+      1633,
+      "   <ul>"
+    ],
+    [
+      1636,
+      "   </ul></li>"
+    ],
+    [
+      1637,
+      "   <ul>"
+    ],
+    [
+      1639,
+      "   </ul></li>"
+    ],
+    [
+      1640,
+      "   <ul>"
+    ],
+    [
+      1650,
+      "   </ul></li>"
+    ],
+    [
+      1653,
+      "   <ul>"
+    ],
+    [
+      1655,
+      "   </ul></li>"
+    ],
+    [
+      1659,
+      "   <ul>"
+    ],
+    [
+      1660,
+      "   </ul></li>"
+    ],
+    [
+      1664,
+      "   <ul>"
+    ],
+    [
+      1666,
+      "   </ul></li>"
+    ],
+    [
+      1667,
+      "   <ul>"
+    ],
+    [
+      1685,
+      "   </ul></li>"
+    ],
+    [
+      1688,
+      "   <ul>"
+    ],
+    [
+      1689,
+      "   </ul></li>"
+    ],
+    [
+      1693,
+      "   <ul>"
+    ],
+    [
+      1698,
+      "   </ul></li>"
+    ],
+    [
+      1702,
+      "   <ul>"
+    ],
+    [
+      1703,
+      "   </ul></li>"
+    ],
+    [
+      1704,
+      "   <ul>"
+    ],
+    [
+      1706,
+      "   </ul></li>"
+    ],
+    [
+      1715,
+      "   <ul>"
+    ],
+    [
+      1716,
+      "   </ul></li>"
+    ],
+    [
+      1717,
+      "   <ul>"
+    ],
+    [
+      1718,
+      "   </ul></li>"
+    ],
+    [
+      1721,
+      "   <ul>"
+    ],
+    [
+      1722,
+      "   </ul></li>"
+    ],
+    [
+      1726,
+      "   <ul>"
+    ],
+    [
+      1727,
+      "   </ul></li>"
+    ],
+    [
+      1728,
+      "   <ul>"
+    ],
+    [
+      1732,
+      "   </ul></li>"
+    ],
+    [
+      1736,
+      "   <ul>"
+    ],
+    [
+      1747,
+      "   </ul></li>"
+    ],
+    [
+      1748,
+      "   <ul>"
+    ],
+    [
+      1750,
+      "   </ul></li>"
+    ],
+    [
+      1754,
+      "   <ul>"
+    ],
+    [
+      1755,
+      "   </ul></li>"
+    ],
+    [
+      1762,
+      "   <ul>"
+    ],
+    [
+      1765,
+      "   </ul></li>"
+    ],
+    [
+      1770,
+      "   <ul>"
+    ],
+    [
+      1771,
+      "   </ul></li>"
+    ],
+    [
+      1781,
+      "   <ul>"
+    ],
+    [
+      1782,
+      "   </ul></li>"
+    ],
+    [
+      1785,
+      "   <ul>"
+    ],
+    [
+      1786,
+      "   </ul></li>"
+    ],
+    [
+      1793,
+      "   <ul>"
+    ],
+    [
+      1794,
+      "   </ul></li>"
+    ],
+    [
+      1796,
+      "   <ul>"
+    ],
+    [
+      1797,
+      "   </ul></li>"
+    ],
+    [
+      1801,
+      "   <ul>"
+    ],
+    [
+      1804,
+      "   </ul></li>"
+    ],
+    [
+      1807,
+      "   <ul>"
+    ],
+    [
+      1808,
+      "   </ul></li>"
+    ],
+    [
+      1813,
+      "   <ul>"
+    ],
+    [
+      1814,
+      "   </ul></li>"
+    ],
+    [
+      1820,
+      "   <ul>"
+    ],
+    [
+      1823,
+      "   </ul></li>"
+    ],
+    [
+      1825,
+      "</ul>"
+    ],
+    [
+      1825,
+      "<a id=\"n\"></a>"
+    ],
+    [
+      1825,
+      "<hr />"
+    ],
+    [
+      1825,
+      "<h2>N <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1825,
+      "<ul>"
+    ],
+    [
+      1832,
+      "   <ul>"
+    ],
+    [
+      1836,
+      "   </ul></li>"
+    ],
+    [
+      1839,
+      "   <ul>"
+    ],
+    [
+      1840,
+      "   </ul></li>"
+    ],
+    [
+      1841,
+      "   <ul>"
+    ],
+    [
+      1842,
+      "   </ul></li>"
+    ],
+    [
+      1843,
+      "   <ul>"
+    ],
+    [
+      1844,
+      "   </ul></li>"
+    ],
+    [
+      1845,
+      "   <ul>"
+    ],
+    [
+      1849,
+      "   </ul></li>"
+    ],
+    [
+      1852,
+      "   <ul>"
+    ],
+    [
+      1853,
+      "   </ul></li>"
+    ],
+    [
+      1865,
+      "   <ul>"
+    ],
+    [
+      1868,
+      "   </ul></li>"
+    ],
+    [
+      1871,
+      "   <ul>"
+    ],
+    [
+      1874,
+      "   </ul></li>"
+    ],
+    [
+      1877,
+      "   <ul>"
+    ],
+    [
+      1879,
+      "   </ul></li>"
+    ],
+    [
+      1884,
+      "   <ul>"
+    ],
+    [
+      1885,
+      "   </ul></li>"
+    ],
+    [
+      1887,
+      "   <ul>"
+    ],
+    [
+      1891,
+      "   </ul></li>"
+    ],
+    [
+      1896,
+      "   <ul>"
+    ],
+    [
+      1897,
+      "   </ul></li>"
+    ],
+    [
+      1898,
+      "</ul>"
+    ],
+    [
+      1898,
+      "<a id=\"o\"></a>"
+    ],
+    [
+      1898,
+      "<hr />"
+    ],
+    [
+      1898,
+      "<h2>O <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1898,
+      "<ul>"
+    ],
+    [
+      1901,
+      "   <ul>"
+    ],
+    [
+      1902,
+      "   </ul></li>"
+    ],
+    [
+      1903,
+      "   <ul>"
+    ],
+    [
+      1904,
+      "   </ul></li>"
+    ],
+    [
+      1906,
+      "   <ul>"
+    ],
+    [
+      1907,
+      "   </ul></li>"
+    ],
+    [
+      1919,
+      "   <ul>"
+    ],
+    [
+      1921,
+      "   </ul></li>"
+    ],
+    [
+      1931,
+      "</ul>"
+    ],
+    [
+      1931,
+      "<a id=\"p\"></a>"
+    ],
+    [
+      1931,
+      "<hr />"
+    ],
+    [
+      1931,
+      "<h2>P <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      1931,
+      "<ul>"
+    ],
+    [
+      1938,
+      "   <ul>"
+    ],
+    [
+      1949,
+      "   </ul></li>"
+    ],
+    [
+      1961,
+      "   <ul>"
+    ],
+    [
+      1963,
+      "   </ul></li>"
+    ],
+    [
+      1965,
+      "   <ul>"
+    ],
+    [
+      1972,
+      "   </ul></li>"
+    ],
+    [
+      1977,
+      "   <ul>"
+    ],
+    [
+      1978,
+      "   </ul></li>"
+    ],
+    [
+      1981,
+      "   <ul>"
+    ],
+    [
+      1982,
+      "   </ul></li>"
+    ],
+    [
+      1988,
+      "   <ul>"
+    ],
+    [
+      1990,
+      "   </ul></li>"
+    ],
+    [
+      1998,
+      "   <ul>"
+    ],
+    [
+      1999,
+      "   </ul></li>"
+    ],
+    [
+      2000,
+      "   <ul>"
+    ],
+    [
+      2001,
+      "   </ul></li>"
+    ],
+    [
+      2005,
+      "   <ul>"
+    ],
+    [
+      2011,
+      "   </ul></li>"
+    ],
+    [
+      2015,
+      "   <ul>"
+    ],
+    [
+      2030,
+      "   </ul></li>"
+    ],
+    [
+      2031,
+      "   <ul>"
+    ],
+    [
+      2033,
+      "   </ul></li>"
+    ],
+    [
+      2036,
+      "   <ul>"
+    ],
+    [
+      2037,
+      "   </ul></li>"
+    ],
+    [
+      2044,
+      "   <ul>"
+    ],
+    [
+      2046,
+      "   </ul></li>"
+    ],
+    [
+      2047,
+      "   <ul>"
+    ],
+    [
+      2048,
+      "   </ul></li>"
+    ],
+    [
+      2054,
+      "   <ul>"
+    ],
+    [
+      2055,
+      "   </ul></li>"
+    ],
+    [
+      2065,
+      "   <ul>"
+    ],
+    [
+      2067,
+      "   </ul></li>"
+    ],
+    [
+      2069,
+      "   <ul>"
+    ],
+    [
+      2070,
+      "   </ul></li>"
+    ],
+    [
+      2072,
+      "   <ul>"
+    ],
+    [
+      2073,
+      "   </ul></li>"
+    ],
+    [
+      2077,
+      "   <ul>"
+    ],
+    [
+      2078,
+      "   </ul></li>"
+    ],
+    [
+      2088,
+      "   <ul>"
+    ],
+    [
+      2089,
+      "   </ul></li>"
+    ],
+    [
+      2094,
+      "   <ul>"
+    ],
+    [
+      2096,
+      "   </ul></li>"
+    ],
+    [
+      2111,
+      "   <ul>"
+    ],
+    [
+      2112,
+      "   </ul></li>"
+    ],
+    [
+      2113,
+      "   <ul>"
+    ],
+    [
+      2116,
+      "   </ul></li>"
+    ],
+    [
+      2117,
+      "   <ul>"
+    ],
+    [
+      2118,
+      "   </ul></li>"
+    ],
+    [
+      2124,
+      "   <ul>"
+    ],
+    [
+      2126,
+      "   </ul></li>"
+    ],
+    [
+      2134,
+      "   <ul>"
+    ],
+    [
+      2135,
+      "   </ul></li>"
+    ],
+    [
+      2138,
+      "   <ul>"
+    ],
+    [
+      2139,
+      "   </ul></li>"
+    ],
+    [
+      2147,
+      "</ul>"
+    ],
+    [
+      2147,
+      "<a id=\"q\"></a>"
+    ],
+    [
+      2147,
+      "<hr />"
+    ],
+    [
+      2147,
+      "<h2>Q <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2147,
+      "<ul>"
+    ],
+    [
+      2149,
+      "   <ul>"
+    ],
+    [
+      2151,
+      "   </ul></li>"
+    ],
+    [
+      2153,
+      "   <ul>"
+    ],
+    [
+      2165,
+      "   </ul></li>"
+    ],
+    [
+      2166,
+      "   <ul>"
+    ],
+    [
+      2179,
+      "   </ul></li>"
+    ],
+    [
+      2181,
+      "   <ul>"
+    ],
+    [
+      2183,
+      "   </ul></li>"
+    ],
+    [
+      2184,
+      "</ul>"
+    ],
+    [
+      2184,
+      "<a id=\"r\"></a>"
+    ],
+    [
+      2184,
+      "<hr />"
+    ],
+    [
+      2184,
+      "<h2>R <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2184,
+      "<ul>"
+    ],
+    [
+      2185,
+      "   <ul>"
+    ],
+    [
+      2187,
+      "   </ul></li>"
+    ],
+    [
+      2189,
+      "   <ul>"
+    ],
+    [
+      2190,
+      "   </ul></li>"
+    ],
+    [
+      2193,
+      "   <ul>"
+    ],
+    [
+      2194,
+      "   </ul></li>"
+    ],
+    [
+      2195,
+      "   <ul>"
+    ],
+    [
+      2197,
+      "   </ul></li>"
+    ],
+    [
+      2200,
+      "   <ul>"
+    ],
+    [
+      2206,
+      "   </ul></li>"
+    ],
+    [
+      2209,
+      "   <ul>"
+    ],
+    [
+      2215,
+      "   </ul></li>"
+    ],
+    [
+      2217,
+      "   <ul>"
+    ],
+    [
+      2221,
+      "   </ul></li>"
+    ],
+    [
+      2222,
+      "   <ul>"
+    ],
+    [
+      2225,
+      "   </ul></li>"
+    ],
+    [
+      2230,
+      "   <ul>"
+    ],
+    [
+      2232,
+      "   </ul></li>"
+    ],
+    [
+      2237,
+      "   <ul>"
+    ],
+    [
+      2238,
+      "   </ul></li>"
+    ],
+    [
+      2239,
+      "   <ul>"
+    ],
+    [
+      2241,
+      "   </ul></li>"
+    ],
+    [
+      2245,
+      "   <ul>"
+    ],
+    [
+      2246,
+      "   </ul></li>"
+    ],
+    [
+      2247,
+      "   <ul>"
+    ],
+    [
+      2248,
+      "   </ul></li>"
+    ],
+    [
+      2250,
+      "   <ul>"
+    ],
+    [
+      2261,
+      "   </ul></li>"
+    ],
+    [
+      2275,
+      "   <ul>"
+    ],
+    [
+      2276,
+      "   </ul></li>"
+    ],
+    [
+      2284,
+      "   <ul>"
+    ],
+    [
+      2290,
+      "   </ul></li>"
+    ],
+    [
+      2293,
+      "   <ul>"
+    ],
+    [
+      2294,
+      "   </ul></li>"
+    ],
+    [
+      2295,
+      "   <ul>"
+    ],
+    [
+      2296,
+      "   </ul></li>"
+    ],
+    [
+      2310,
+      "   <ul>"
+    ],
+    [
+      2312,
+      "   </ul></li>"
+    ],
+    [
+      2314,
+      "</ul>"
+    ],
+    [
+      2314,
+      "<a id=\"s\"></a>"
+    ],
+    [
+      2314,
+      "<hr />"
+    ],
+    [
+      2314,
+      "<h2>S <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2314,
+      "<ul>"
+    ],
+    [
+      2339,
+      "   <ul>"
+    ],
+    [
+      2340,
+      "   </ul></li>"
+    ],
+    [
+      2342,
+      "   <ul>"
+    ],
+    [
+      2346,
+      "   </ul></li>"
+    ],
+    [
+      2348,
+      "   <ul>"
+    ],
+    [
+      2350,
+      "   </ul></li>"
+    ],
+    [
+      2351,
+      "   <ul>"
+    ],
+    [
+      2352,
+      "   </ul></li>"
+    ],
+    [
+      2357,
+      "   <ul>"
+    ],
+    [
+      2358,
+      "   </ul></li>"
+    ],
+    [
+      2362,
+      "   <ul>"
+    ],
+    [
+      2365,
+      "   </ul></li>"
+    ],
+    [
+      2366,
+      "   <ul>"
+    ],
+    [
+      2368,
+      "   </ul></li>"
+    ],
+    [
+      2376,
+      "   <ul>"
+    ],
+    [
+      2378,
+      "   </ul></li>"
+    ],
+    [
+      2379,
+      "   <ul>"
+    ],
+    [
+      2380,
+      "   </ul></li>"
+    ],
+    [
+      2384,
+      "   <ul>"
+    ],
+    [
+      2385,
+      "   </ul></li>"
+    ],
+    [
+      2391,
+      "   <ul>"
+    ],
+    [
+      2397,
+      "   </ul></li>"
+    ],
+    [
+      2398,
+      "   <ul>"
+    ],
+    [
+      2399,
+      "   </ul></li>"
+    ],
+    [
+      2404,
+      "   <ul>"
+    ],
+    [
+      2412,
+      "   </ul></li>"
+    ],
+    [
+      2415,
+      "   <ul>"
+    ],
+    [
+      2416,
+      "   </ul></li>"
+    ],
+    [
+      2423,
+      "   <ul>"
+    ],
+    [
+      2424,
+      "   </ul></li>"
+    ],
+    [
+      2429,
+      "   <ul>"
+    ],
+    [
+      2430,
+      "   </ul></li>"
+    ],
+    [
+      2431,
+      "   <ul>"
+    ],
+    [
+      2432,
+      "   </ul></li>"
+    ],
+    [
+      2434,
+      "   <ul>"
+    ],
+    [
+      2440,
+      "   </ul></li>"
+    ],
+    [
+      2442,
+      "   <ul>"
+    ],
+    [
+      2443,
+      "   </ul></li>"
+    ],
+    [
+      2445,
+      "   <ul>"
+    ],
+    [
+      2446,
+      "   </ul></li>"
+    ],
+    [
+      2447,
+      "   <ul>"
+    ],
+    [
+      2448,
+      "   </ul></li>"
+    ],
+    [
+      2449,
+      "   <ul>"
+    ],
+    [
+      2450,
+      "   </ul></li>"
+    ],
+    [
+      2470,
+      "   <ul>"
+    ],
+    [
+      2478,
+      "   </ul></li>"
+    ],
+    [
+      2480,
+      "   <ul>"
+    ],
+    [
+      2481,
+      "   </ul></li>"
+    ],
+    [
+      2485,
+      "   <ul>"
+    ],
+    [
+      2492,
+      "   </ul></li>"
+    ],
+    [
+      2499,
+      "   <ul>"
+    ],
+    [
+      2501,
+      "   </ul></li>"
+    ],
+    [
+      2512,
+      "   <ul>"
+    ],
+    [
+      2514,
+      "   </ul></li>"
+    ],
+    [
+      2518,
+      "   <ul>"
+    ],
+    [
+      2519,
+      "   </ul></li>"
+    ],
+    [
+      2526,
+      "   <ul>"
+    ],
+    [
+      2527,
+      "   </ul></li>"
+    ],
+    [
+      2531,
+      "   <ul>"
+    ],
+    [
+      2532,
+      "   </ul></li>"
+    ],
+    [
+      2537,
+      "</ul>"
+    ],
+    [
+      2537,
+      "<a id=\"t\"></a>"
+    ],
+    [
+      2537,
+      "<hr />"
+    ],
+    [
+      2537,
+      "<h2>T <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2537,
+      "<ul>"
+    ],
+    [
+      2539,
+      "   <ul>"
+    ],
+    [
+      2540,
+      "   </ul></li>"
+    ],
+    [
+      2544,
+      "   <ul>"
+    ],
+    [
+      2547,
+      "   </ul></li>"
+    ],
+    [
+      2552,
+      "   <ul>"
+    ],
+    [
+      2553,
+      "   </ul></li>"
+    ],
+    [
+      2556,
+      "   <ul>"
+    ],
+    [
+      2557,
+      "   </ul></li>"
+    ],
+    [
+      2560,
+      "   <ul>"
+    ],
+    [
+      2566,
+      "   </ul></li>"
+    ],
+    [
+      2580,
+      "   <ul>"
+    ],
+    [
+      2583,
+      "   </ul></li>"
+    ],
+    [
+      2585,
+      "   <ul>"
+    ],
+    [
+      2586,
+      "   </ul></li>"
+    ],
+    [
+      2593,
+      "   <ul>"
+    ],
+    [
+      2594,
+      "   </ul></li>"
+    ],
+    [
+      2606,
+      "   <ul>"
+    ],
+    [
+      2616,
+      "   </ul></li>"
+    ],
+    [
+      2629,
+      "   <ul>"
+    ],
+    [
+      2632,
+      "   </ul></li>"
+    ],
+    [
+      2632,
+      "</ul>"
+    ],
+    [
+      2632,
+      "<a id=\"u\"></a>"
+    ],
+    [
+      2632,
+      "<hr />"
+    ],
+    [
+      2632,
+      "<h2>U <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2632,
+      "<ul>"
+    ],
+    [
+      2633,
+      "   <ul>"
+    ],
+    [
+      2634,
+      "   </ul></li>"
+    ],
+    [
+      2642,
+      "   <ul>"
+    ],
+    [
+      2643,
+      "   </ul></li>"
+    ],
+    [
+      2644,
+      "   <ul>"
+    ],
+    [
+      2646,
+      "   </ul></li>"
+    ],
+    [
+      2646,
+      "</ul>"
+    ],
+    [
+      2646,
+      "<a id=\"v\"></a>"
+    ],
+    [
+      2646,
+      "<hr />"
+    ],
+    [
+      2646,
+      "<h2>V <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2646,
+      "<ul>"
+    ],
+    [
+      2652,
+      "   <ul>"
+    ],
+    [
+      2656,
+      "   </ul></li>"
+    ],
+    [
+      2665,
+      "   <ul>"
+    ],
+    [
+      2666,
+      "   </ul></li>"
+    ],
+    [
+      2668,
+      "   <ul>"
+    ],
+    [
+      2669,
+      "   </ul></li>"
+    ],
+    [
+      2676,
+      "   <ul>"
+    ],
+    [
+      2677,
+      "   </ul></li>"
+    ],
+    [
+      2677,
+      "</ul>"
+    ],
+    [
+      2677,
+      "<a id=\"w\"></a>"
+    ],
+    [
+      2677,
+      "<hr />"
+    ],
+    [
+      2677,
+      "<h2>W <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2677,
+      "<ul>"
+    ],
+    [
+      2687,
+      "   <ul>"
+    ],
+    [
+      2688,
+      "   </ul></li>"
+    ],
+    [
+      2689,
+      "   <ul>"
+    ],
+    [
+      2690,
+      "   </ul></li>"
+    ],
+    [
+      2703,
+      "   <ul>"
+    ],
+    [
+      2704,
+      "   </ul></li>"
+    ],
+    [
+      2705,
+      "   <ul>"
+    ],
+    [
+      2708,
+      "   </ul></li>"
+    ],
+    [
+      2715,
+      "   <ul>"
+    ],
+    [
+      2717,
+      "   </ul></li>"
+    ],
+    [
+      2720,
+      "</ul>"
+    ],
+    [
+      2720,
+      "<a id=\"x\"></a>"
+    ],
+    [
+      2720,
+      "<hr />"
+    ],
+    [
+      2720,
+      "<h2>X <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2720,
+      "<ul>"
+    ],
+    [
+      2723,
+      "</ul>"
+    ],
+    [
+      2723,
+      "<a id=\"y\"></a>"
+    ],
+    [
+      2723,
+      "<hr />"
+    ],
+    [
+      2723,
+      "<h2>Y <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2723,
+      "<ul>"
+    ],
+    [
+      2725,
+      "</ul>"
+    ],
+    [
+      2725,
+      "<a id=\"z\"></a>"
+    ],
+    [
+      2725,
+      "<hr />"
+    ],
+    [
+      2725,
+      "<h2>Z <a href=\"#pagetopright\" style=\"font-size: 10px; margin: 0px;\">[jump to top]</a></h2>"
+    ],
+    [
+      2725,
+      "<ul>"
+    ],
+    [
+      2727,
+      "   <ul>"
+    ],
+    [
+      2728,
+      "   </ul></li>"
+    ],
+    [
+      2729,
+      "   <ul>"
+    ],
+    [
+      2730,
+      "   </ul></li>"
+    ]
+  ],
+  "tail": [
+    "</ul>",
+    "<hr /><h3><a href=\"projected-contents.html\">Projected Table of Contents</a></h3>",
+    "    </div> <!-- End content --><!--DO NOT MODIFY THIS LINE AND BELOW-->",
+    "",
+    "    <div id=\"footer\" class=\"scroll-block\">",
+    "",
+    "      <div id=\"footer-menu\">",
+    "        <div class=\"menu-block\">",
+    "          <span class=\"listheader\"><i class=\"icon-book\"></i> Browse</span>",
+    "          <ul role=\"menu\">",
+    "            <li role=\"menuitem\"><a href=\"contents.html\">Table of Contents</a></li>",
+    "            <li role=\"menuitem\"><a href=\"new.html\">What's New</a></li>",
+    "            <li role=\"menuitem\"><a href=\"https://plato.stanford.edu/cgi-bin/encyclopedia/random\">Random Entry</a></li>",
+    "            <li role=\"menuitem\"><a href=\"published.html\">Chronological</a></li>",
+    "            <li role=\"menuitem\"><a href=\"archives/\">Archives</a></li>",
+    "          </ul>",
+    "        </div>",
+    "        <div class=\"menu-block\">",
+    "          <span class=\"listheader\"><i class=\"icon-info-sign\"></i> About</span>",
+    "          <ul role=\"menu\">",
+    "            <li role=\"menuitem\"><a href=\"info.html\">Editorial Information</a></li>",
+    "            <li role=\"menuitem\"><a href=\"about.html\">About the SEP</a></li>",
+    "            <li role=\"menuitem\"><a href=\"board.html\">Editorial Board</a></li>",
+    "            <li role=\"menuitem\"><a href=\"cite.html\">How to Cite the SEP</a></li>",
+    "            <li role=\"menuitem\"><a href=\"special-characters.html\">Special Characters</a></li>",
+    "            <li role=\"menuitem\"><a href=\"tools/\">Advanced Tools</a></li>",
+    "            <li role=\"menuitem\"><a href=\"accessibility.html\">Accessibility</a></li>",
+    "            <li role=\"menuitem\"><a href=\"contact.html\">Contact</a></li>",
+    "          </ul>",
+    "        </div>",
+    "        <div class=\"menu-block\">",
+    "          <span class=\"listheader\"><i class=\"icon-leaf\"></i> Support SEP</span>",
+    "          <ul role=\"menu\">",
+    "            <li role=\"menuitem\"><a href=\"support/\">Support the SEP</a></li>",
+    "            <li role=\"menuitem\"><a href=\"support/friends.html\">PDFs for SEP Friends</a></li>",
+    "            <li role=\"menuitem\"><a href=\"support/donate.html\">Make a Donation</a></li>",
+    "            <li role=\"menuitem\"><a href=\"support/sepia.html\">SEPIA for Libraries</a></li>",
+    "          </ul>",
+    "        </div>",
+    "      </div> <!-- End footer menu -->",
+    "",
+    "      <div id=\"mirrors\">",
+    "        <div id=\"mirror-info\">",
+    "          <span class=\"listheader\"><i class=\"icon-globe\"></i> Mirror Sites</span>",
+    "          <p>View this site from another server:</p>",
+    "        </div>",
+    "        <div class=\"btn-group open\">",
+    "          <a class=\"btn dropdown-toggle\" data-toggle=\"dropdown\" href=\"https://plato.stanford.edu/\">",
+    "            <span class=\"flag flag-usa\"></span> USA (Main Site) <span class=\"caret\"></span>",
+    "            <span class=\"mirror-source\">Philosophy, Stanford University</span>",
+    "          </a>",
+    "          <ul class=\"dropdown-menu\">",
+    "\t    <li><a href=\"mirrors.html\">Info about mirror sites</a></li>",
+    "          </ul>",
+    "        </div>",
+    "      </div> <!-- End mirrors -->",
+    "      ",
+    "      <div id=\"site-credits\">",
+    "        <p>The Stanford Encyclopedia of Philosophy is <a href=\"info.html#c\">copyright &copy; 2026</a> by <a href=\"https://mally.stanford.edu/\">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>",
+    "        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>",
+    "      </div> <!-- End site credits -->",
+    "",
+    "    </div> <!-- End footer -->",
+    "",
+    "  </div> <!-- End container -->",
+    "",
+    "   <!-- NOTE: Script required for drop-down button to work (mirrors). Sticky script required for ToC page. -->",
+    "  <script>",
+    "    $('.dropdown-toggle').dropdown();",
+    "      $(document).ready(function(){",
+    "      $(\".sticky\").sticky({topSpacing:0});",
+    "      });",
+    "  </script>",
+    "",
+    "</body>",
+    "</html>",
+    ""
+  ]
+}
