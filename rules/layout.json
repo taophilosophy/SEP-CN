@@ -648,6 +648,19 @@
    "index": "journal/README.md",
    "tracked": true,
    "desc": "条目事件日志（三存储之一的事实源；state 为其派生视图）"
+  },
+  {
+   "path": "开源翻译.md",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "外部方法论调研整理；只增补，不入 SUMMARY",
+   "writer": "承办会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "开源 LLM 翻译工具、多智能体工作流、prompt 方法论、质量评估、哲学与学术翻译方法论的整理"
   }
  ],
  "specs_container": {
