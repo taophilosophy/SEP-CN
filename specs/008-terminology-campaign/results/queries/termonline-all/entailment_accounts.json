@@ -1,0 +1,772 @@
+{
+ "key": "entailment accounts",
+ "term": "entailment accounts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:02:22+00:00",
+ "status": "ok",
+ "note": "variant=entailment accounts; 审定公布名词库=220; 海峡两岸名词对照库=158; 其他来源数据库=23; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "蕴涵",
+   "en": "entailment",
+   "source": "语言学名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在语义学中，指两个命题之间的一种语义关系：若第一个命题为真，那么第二个命题肯定为真，而且不可能同时肯定第一个命题又否定第二个命题。例如“我看到一只猫”和“我看见了一个动物”两个命题之间就是一种蕴涵关系"
+  },
+  {
+   "cn": "文本蕴含识别",
+   "en": "textual entailment recognition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0589",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "判断一个文本所含信息是否可以推演出另一个文本所含信息的过程、技术和方法。"
+  },
+  {
+   "cn": "账户",
+   "en": "account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0032",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据会计科目在账簿中对各项经济业务进行分类、系统、连续记录的记账单元。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.761",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在安全或多用户计算机系统中，为实现用户访问系统和资源时的权限控制而建立的一种方法。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以货币为主要计量尺度，对会计主体已经发生或已经完成的经济活动进行记账、算账和报账的程序。包括对会计对象（会计要素）进行完整的、连续的、系统的反映和监督。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "发生在社会责任论基础上，传媒为其产品的品质和效果而向社会做出回应的所有自愿和非自愿的过程。"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "通过确认、计量和传递经济信息，以帮助信息使用者做出合理判断和决策的程序。"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0002",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "研究会计的产生、发展、对象、任务、理论和方法及其运用的一门学科。"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "对自我职责的期望与感知。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以货币为主要计量尺度，对经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "教育学名词",
+   "wordNumber": "14.182",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "组织或管理者所承担的责任。包括接受外界监督和质询，向公众解释其决策或行为的合理性、有效性等。"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "在通信系统安全中，当可能发生扰乱或有企图扰乱系统安全的情况时，能够跟踪到某一个可能负有责任的特定人的特性。"
+  },
+  {
+   "cn": "会计基本假设",
+   "en": "accounting postulate,accounting assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0013",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对会计核算所处时间、空间环境、所运用的货币单位等所作的合理设定。会计基本假设包括会计主体假设、持续经营假设、会计期间假设和货币计量假设。"
+  },
+  {
+   "cn": "管理会计",
+   "en": "management accounting,managerial accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0260",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为企业内部管理者制定决策以实现企业目标而提供财务和非财务信息的一门学科。"
+  },
+  {
+   "cn": "应付账款",
+   "en": "accounts payable",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0169",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业因购买材料、商品或接受劳务等而发生的债务。"
+  },
+  {
+   "cn": "应收账款",
+   "en": "accounts receivable",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0123",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业因对外销售商品或产品、提供劳务等经营活动而应向客户收取的款项。"
+  },
+  {
+   "cn": "决算",
+   "en": "final account",
+   "source": "农学名词",
+   "wordNumber": "19.268",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "根据年度预算执行结果而编制的年度会计报告。是预算执行的总结，也是预算管理的最终环节。"
+  },
+  {
+   "cn": "电子账户",
+   "en": "electronic account",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "保险公司、银行等金融机构提供给用户的网上处理管理账户的服务。客户的信用卡号或银行账号是电子账户的标志。"
+  },
+  {
+   "cn": "小号",
+   "en": "small account",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.102",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "非实名认证的社交媒体账号。包括：(1)较少朋友关注的账号，以保护自己的隐私；(2)执行不同功用的账号，如区分工作与生活；(3)用于隐秘目的账号，如攻击他人、从事营销等；(4)在正式账号被盗或被禁的情况"
+  },
+  {
+   "cn": "呆账",
+   "en": "doubtful account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.055",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业在规定结算期内未能收回，有可能造成坏账损失的那部分应收账款。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保账户",
+   "en": "secured account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押账户",
+   "en": "hypothecated account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二账户",
+   "en": "second account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对外账户",
+   "en": "outward account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负债账户",
+   "en": "liability account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股金账户",
+   "en": "share account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际账户",
+   "en": "international account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民账户",
+   "en": "national account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合伙账户",
+   "en": "partnership account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金账户",
+   "en": "gold account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "汇总账户",
+   "en": "summary account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "混合账户",
+   "en": "mixed account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注册会计师",
+   "en": "certified public accountant",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款池融资",
+   "en": "accounts receivable pool financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户数据资产安全",
+   "en": "account data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟子账户管理体系",
+   "en": "virtual sub-account management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执法责任制",
+   "en": "accountability system for law enforcement",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "重大决策终身责任追究制度",
+   "en": "system of lifelong accountability for major decisions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "重大决策责任倒查机制",
+   "en": "mechanism for retroactive investigation into accountability for major decisions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《“一带一路”国家关于加强会计准则合作的倡议》",
+   "en": "Initiative on Promoting Accounting Standards Cooperation among Participating Countries of the Belt and Road Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“米袋子”省长责任制和“菜篮子”市长负责制",
+   "en": "systems of holding provincial governors accountable for grain supplies and city mayors for daily food supplies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "医疗保险基金管理机构为被保险人和退休职工设立的基本医疗保险账户或简称个人账户，用于被保险人生病或受伤时支付医疗费用"
+  },
+  {
+   "cn": "社会保险账户",
+   "en": "social insurance account",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "单位按规定划转的保险费和个人缴纳的全部保险费用，投保人相应拥有社会保险个人账户。目前我国多数险种（养老保险、医疗保险等）实行统帐结合制度。"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "source": "马克思主义",
+   "wordNumber": "02.0072",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下计算、统计或考核各种商品经济活动的价值量时所使用的货币单位。计算货币属于观念货币，是货币发挥价值尺度职能的表现。"
+  },
+  {
+   "cn": "记账法",
+   "en": "accounting dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "由被调查对象按规定要求记录其在规定时间内的食物摄入量，然后计算能量和各种营养素摄入量的调查方法，调查时间为连续1 个月或每季度1 个月或全年逐月。"
+  },
+  {
+   "cn": "医院成本核算",
+   "en": "hospital cost accounting ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.4",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院运营过程中实际发生的成本进行准确记录、合理的归集和计算，以获得成本对象成本信息的经济核算方法。"
+  },
+  {
+   "cn": "卫生费用核算",
+   "en": "national health accounts,NHA",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用国民经济核算方法，以整个卫生系统为核算对象，建立核算指标和核算框架，专门研究卫生系统的资金运动过程。"
+  },
+  {
+   "cn": "卫生费用核算体系",
+   "en": "system of health accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "从卫生服务功能、卫生服务提供者和筹资来源（筹资机构）三个维度来描述卫生资金的运动情况。"
+  },
+  {
+   "cn": "预算决算",
+   "en": "budget and final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "用货币的形式来反映医疗卫生机构未来某一特定期间的有关现金收支、资金需求、资金融通、业务收入、成本及财务状况和经营成果等方面的详细计划，并将执行结果编制的年度会计报告制度。"
+  },
+  {
+   "cn": "个人医疗储蓄账户",
+   "en": "individual medical savings account",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医疗保险机构为参加基本医疗保险的个人设立的、用于偿付本人医疗费用的专用基金账户"
+  },
+  {
+   "cn": "卫生费用核算核心维度",
+   "en": "core health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时所采用的最关键分析方向或角度。包括服务功能、服务提供机构和筹资方案三个维度。"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "卫生费用矩阵平衡核算",
+   "en": "national health accounts by matrix",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用棋盘式表格，按照一定顺序分别在行和列上体现不同核算维度，不仅使每个维度的账户在总额上平等，而且相互对应，各账户之间体现严密的数量衔接，综合反映卫生资金的循环流程及内在联系。"
+  },
+  {
+   "cn": "来源法卫生费用核算",
+   "en": "national health accounts by source",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "以卫生服务过程中的资金运行为核算对象，按照卫生资金的筹集渠道与筹资形式收集整理卫生总费用数据，核算全社会卫生资金投入总量及内部构成的方法。"
+  },
+  {
+   "cn": "机构法卫生费用核算",
+   "en": "national health accounts by provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "一个国家或地区一定时期内（一般指一年），从全社会筹集到的卫生资金在各级各类卫生机构分配的总额，反映了卫生资金在不同部门、不同领域和不同层次的分配。"
+  },
+  {
+   "cn": "功能法卫生费用核算",
+   "en": "national health accounts by function",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "根据卫生服务活动的功能进行划分，测算消费者接受各类卫生服务时所发生的费用，反映卫生费用在不同功能服务中的分布。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

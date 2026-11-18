@@ -1,0 +1,742 @@
+{
+ "key": "ecological inheritance",
+ "term": "ecological inheritance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:49:37+00:00",
+ "status": "ok",
+ "note": "variant=ecological inheritance; 审定公布名词库=1400; 海峡两岸名词对照库=573; 其他来源数据库=56; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "植物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代在同一性状上的相似性。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "超类与子类之间的一个关系。表明子类自动地拥有其超类的全部属性和操作。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类的对象拥有其一般类的全部属性和服务。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物世代之间的连续性和相似性。"
+  },
+  {
+   "cn": "新构造运动继承性",
+   "en": "neotectonics inheritance",
+   "source": "地质学名词",
+   "wordNumber": "09.07.005",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "新构造运动在类型、方向性、空间分布和周期韵律性方面与老构造运动(先前构造运动)的某些联系。许多新构造运动一方面受老构造的控制，在其形成的新构造中，带有老构造的某些特点；另一方面，在一定程度上改造了老构"
+  },
+  {
+   "cn": "继承性新断裂",
+   "en": "inheritance fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.070",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "迁就、利用和改造了已有的老断裂，在老断裂的基础上于新构造运动期形成的断裂。"
+  },
+  {
+   "cn": "质量遗传",
+   "en": "qualitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由单基因或少数几个基因控制的性状遗传模式。"
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，表现为连续分布性状的遗传模式。"
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在F₂或以后的世代中，由于基因重组而在某种性状上出现超越亲本个体的遗传模式。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "性状由亲代向子代传递的现象或过程。遗传方式主要包括单基因遗传、多基因遗传等。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由多个基因的微效作用及累加效应导致遗传性状改变或疾病的遗传方式。该遗传方式还受环境因素的影响。"
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由线粒体DNA决定遗传性状或遗传病的遗传方式。具有母系遗传、半自主复制、遗传瓶颈、阈值效应和线粒体DNA突变率高等特点。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "两个具有相对性状的亲本杂交，不论正交或反交，子代总是表现为母系性状的遗传方式。是细胞质遗传的主要特征。如线粒体DNA通过卵细胞将其中的遗传信息传给下一代，使得子代中线粒体DNA序列和母亲一致。"
+  },
+  {
+   "cn": "父系遗传",
+   "en": "paternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "父系性状传给子代的一种遗传方式。如父系Y染色体可以通过男性后代而代代相传，线粒体DNA也可由父系遗传。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "共显性遗传",
+   "en": "codominance inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.122",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "一对等位基因之间，没有显性和隐性的区别，在杂合子个体中两种基因的作用都能表现出来的一种遗传方式。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.173",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "人类受精卵中的线粒体绝大部分来自母亲的卵母细胞，即母亲将线粒体DNA（mtDNA）传递给儿子和女儿，但只有女儿能将其mtDNA传递给下一代的遗传方式。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.198",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "由多个微效基因的累加效应控制遗传性状或疾病的遗传方式。"
+  },
+  {
+   "cn": "细胞质遗传",
+   "en": "cytoplasmic inheritance ",
+   "source": "草学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "multigenic inheritance\",\"polygenic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核外遗传（=[细]胞质遗传）",
+   "en": "extranuclear inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "母体遗传（=[细]胞质遗传）",
+   "en": "maternal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体外遗传（=[细]胞质遗传）",
+   "en": "extrachromosomal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞质遗传",
+   "en": "cytoplasmic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质体遗传",
+   "en": "plastid inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假染色体遗传",
+   "en": "pseudoautosomal inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "延迟遗传",
+   "en": "delayed inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因",
+   "en": "Inherit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态农业",
+   "en": "ecological agriculture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态文化",
+   "en": "ecological culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态安全体系与生态屏障",
+   "en": "ecological security system and ecological barriers",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市生态安全",
+   "en": "urban ecological security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态保护红线",
+   "en": "ecological red lines",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态环境与保护",
+   "en": "marine ecological environment protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态扶贫",
+   "en": "poverty alleviation through ecological conservation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "生物在一定的自然环境下生存和发展的状态，也指生物的生理特性和生活习性。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "民俗传承",
+   "en": "inheritance of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民众在日常生活中把他们累积的日常生活的知识和经验、意愿和文化心理传递给后人的过程，它在历时性的向度上使得民俗文化保持稳定并不断延伸的运动过程；传承是一种文化行为，广大民众传承民俗文化而不使文化传统发生"
+  },
+  {
+   "cn": "女子继承制",
+   "en": "female inheritance system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0407",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期通行的继承制度。母系氏族早期和中期，实行外婚制群婚，子女只知其母不知其父，致使世系只能按母系计算。于是，财产、职业、职位等均按照母系继承。母系氏族晚期，实行对偶婚，但居住方式是从妻居，遂仍"
+  },
+  {
+   "cn": "生态恢复",
+   "en": "ecological restoration",
+   "source": "消毒学",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "恢复被损害的生态系统到接近于被损害前的自然状况的过程，即重建该系统干扰前的结构与功能及有关的物理、化学和生物学特征的过程。"
+  },
+  {
+   "cn": "生态修复",
+   "en": "ecological remediation",
+   "source": "消毒学",
+   "wordNumber": "7.1.12",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "对生态系统停止人为干扰，以减轻负荷压力，依靠其自我调节能力与自我组织能力向有序的方向进行演化，或者利用其自我恢复能力，辅以人工措施，使遭到破坏的生态系统逐步恢复或使生态系统向良性循环方向发展。"
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于生态学研究以各个不同情况的个体“集合”而成的群体（组）为观察和分析的单位，以及存在的混杂因素等原因而造成研究结果与真实情况不符的现象。"
+  },
+  {
+   "cn": "生态谬误",
+   "en": "ecological fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据较高层次上分析单位的研究结论推论较低层次上分析单位的特征所产生的推理错误。"
+  },
+  {
+   "cn": "生态效度",
+   "en": "ecological validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估在特定环境下（实验室环境）使用的测量工具能否刻画其他环境条件（日常环境或自然环境）下个体的认知过程的量度。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "将人文理念、生态意识和对资本主义的分析批判结合起来，重新认识资本主义和生态的冲突的理论。是面对日趋严重的全球生态危机，思考生态问题产生原因和寻求人类自身发展出路的的重要理论之一。"
+  },
+  {
+   "cn": "生态非理性",
+   "en": "ecological irrationality",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.11",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "“理性的强化”在自然范畴的应用，我们越想依照严格计算的原则办事，就越有可能为蜂拥而来的负面意外打开大门，表现为由技术灾难所带来的各种各样的破坏性后果。"
+  },
+  {
+   "cn": "生态现代化",
+   "en": "ecological modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种针对环境危害的新的发展理念。以发挥生态优势推进现代化进程，实现经济发展和环境保护的双赢，加快推进发展模式由先污染后治理向生态亲和型转变，决不能以牺牲环境为代价换取一时的发展。"
+  },
+  {
+   "cn": "生态效率",
+   "en": "ecological efficiency",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.6",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "用来测量每单位生产的生态影响和经济繁荣的程度。"
+  },
+  {
+   "cn": "生态文明",
+   "en": "ecological civilization",
+   "source": "马克思主义",
+   "wordNumber": "04.0206",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "人类遵循人、自然、社会和谐发展这一客观规律而取得的物质与精神成果的总和。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0079",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末从西方马克思主义研究内部分化出来的一种流派，主要特点是把生态学纳入马克思主义视野中，运用马克思主义立场、观点和方法去分析资本主义的生态危机，探索解决危机的途径，用生态学补充马克思主义"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "生态人类学",
+   "en": "ecological anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.022",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科，主要运用生态学的研究方法，研究生态环境对人的影响，以及人如何利用和改造生态环境的各种问题，并提出具体办法使人类更有效地适应自然环境，从而为人类服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

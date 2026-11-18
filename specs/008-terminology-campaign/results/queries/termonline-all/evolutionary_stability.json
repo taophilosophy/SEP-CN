@@ -1,0 +1,722 @@
+{
+ "key": "evolutionary stability",
+ "term": "evolutionary stability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:51:28+00:00",
+ "status": "ok",
+ "note": "variant=evolutionary stability; 审定公布名词库=1608; 海峡两岸名词对照库=626; 其他来源数据库=49; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "进化稳定性",
+   "en": "evolutionary stability ",
+   "source": "草学名词",
+   "wordNumber": "2.0094",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化稳定对策",
+   "en": "evolutionary stable strategy",
+   "source": "动物学名词",
+   "wordNumber": "7.0082",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "在给定环境下，如果一个策略被群体大部分个体所采用，并且由于其他策略无法产生比使用该策略更高的收益，该策略将不再被改变并将被自然选择所确立。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "农学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据同源DNA或RNA序列中核苷酸的变异估算出来的物种间遗传关系的远近。差异越大，进化关系越远。"
+  },
+  {
+   "cn": "进化速率",
+   "en": "evolutionary rate",
+   "source": "农学名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "进化过程中，每个世代或单位时间内发生的改变。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.204",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "模拟繁殖、变异、竞争和选择等生物进化过程，寻求最优解的计算方法。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "针对现有系统或通过构造初始过程系统，采用调优策略逐步改进初始系统，以改善系统性能的方法。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.418",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "现代生物学语境中通常指达尔文主义的进化论。将有机体特征的稳定遗传与其在环境中的变异和选择适应结合起来。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "演化程",
+   "en": "evolutionary track",
+   "source": "天文学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在赫罗图上的演化路径。"
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "行为医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "从进化论角度出发，对人的心理起源、本质及一些社会现象深入研究的理论。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。以生物进化原理为指导的分类学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "动物学名词",
+   "wordNumber": "2.0188",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "动物学名词",
+   "wordNumber": "7.0008",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中，不断地演变并获得完美的结构和相互适应能力的科学。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "02.0014",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "以生物进化原理为指导的分类学学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "植物学名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "植物学名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "物种的一种。祖先和祖先种群的一个单一谱系，该谱系保持了自己的属性而不同于其他谱系，具有自己的进化趋势和历史命运。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "生物物理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "生物物理学_生物信息学_生物信息学概要",
+   "subjectName": "生物信息学概要",
+   "publishYear": "2018",
+   "definition": "研究生命进化及演变原理与机制的学科。"
+  },
+  {
+   "cn": "稳定进化对策",
+   "en": "evolutionary stable strategy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化动力学",
+   "en": "evolutionary dynamics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化趋异",
+   "en": "evolutionary divergence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化时间",
+   "en": "evolutionary time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化稳态",
+   "en": "evolutionary homeostasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化系统学",
+   "en": "evolutionary systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化选择",
+   "en": "evolutionary selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化植物学，演化植物学",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化钟",
+   "en": "evolutionary clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化植物学（=进化植物学）",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调优操作",
+   "en": "evolutionary operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防震器",
+   "en": "stabilizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字稳定性",
+   "en": "digital stability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融稳定理事会",
+   "en": "Financial Stability Board (FSB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政贵有恒",
+   "en": "Stability Is the Key to Governance.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用进化论解释道德的起源、发展和本质的伦理学说。认为进化分为宇宙过程和自然过程，以生存竞争、适者生存为动力；社会是一个有机体，按照进化论的变异、自然选择、遗传等原理发展，人类道德发展规律服从于生物进化的"
+  },
+  {
+   "cn": "进化潜力法则",
+   "en": "law of evolutionary potential",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0583",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家塞维斯（Elman Rogers Service）在《进化的潜势》一文中，提出在“不发达的”文明社会中，存在着一定的发达社会所不具有的进化潜势。有一些落后社会它们通过引进发达社会的文化，从"
+  },
+  {
+   "cn": "稳定剂",
+   "en": "stabilizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.21",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能使食品成型并保持形态、质地稳定的物质。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "社会稳定",
+   "en": "social stability",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会障碍、冲突、失调等因素被控制在最小的常态范围内，社会处于稳固、安定、有序、和谐的良性运行和协调发展状态。包括没有大规模的社会冲突、社会主要秩序仍能正常维持的社会状态；以及社会具有较强的自我调节能力"
+  },
+  {
+   "cn": "大气稳定度",
+   "en": "atmospheric stability",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.5",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空中某大气团由于与周围空气存在密度、温度和流速等的强度差而产生的浮力使其产生加速度而上升或下降的程度。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "稳定性二氧化氯",
+   "en": "stabilized chlorine dioxide",
+   "source": "消毒学",
+   "wordNumber": "2.1.13.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "加酸活化前的商品态二氧化氯前体，一般为液体。"
+  },
+  {
+   "cn": "改革发展稳定",
+   "en": "reform development and stability",
+   "source": "马克思主义",
+   "wordNumber": "03.0628",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革、发展、稳定，始终是中国现代化建设中总揽全局的重大关系，是互为条件的辩证统一体：改革是中国社会主义现代化建设的动力，发展是中国社会主义现代化建设的目的，稳定是中国社会主义现代化建设的前提，三者统一"
+  },
+  {
+   "cn": "千倍稀释液稳定性",
+   "en": "thousand-fold diluent stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精的千倍稀释液在室温下横放静置72h 或以3000 r/min 转速离心15min 后保持表面无浮油、底部无沉淀的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "消化稳定性",
+   "en": "digestive stability, degestion-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.36",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种物质在消化过程中保持稳定的能力。它通常用于描述药物或其他物质在胃肠道中的稳定性，以预测它们在体内的作用和效果。"
+  },
+  {
+   "cn": "热稳定性",
+   "en": "thermal stability, heat-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在一定的时间尺度内致敏原的结构和性能对温度的耐受或敏感程度。"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "稳定性戊二醛",
+   "en": "stable glutaraldehyde",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在2%～2.5% 戊二醛中加入适量表面活性剂和缓冲剂形成的pH值中性的戊二醛溶液。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "仅由碘的非放射性同位素（127I）组成的碘化合物。经常被用来作为甲状腺阻断剂。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

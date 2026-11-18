@@ -1,0 +1,662 @@
+{
+ "key": "arguments regarding",
+ "term": "arguments regarding",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:36:33+00:00",
+ "status": "ok",
+ "note": "variant=arguments regarding; 审定公布名词库=474; 海峡两岸名词对照库=134; 其他来源数据库=16; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "能视域",
+   "en": "field of regard",
+   "source": "天文学名词",
+   "wordNumber": "06.023",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "望远镜或天文仪器在给定时刻的全部可指向观测天区构成的最大角度范围。"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "心理学名词",
+   "wordNumber": "08.084",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "罗杰斯提出的，对个体做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。"
+  },
+  {
+   "cn": "大弃赌论证",
+   "en": "Dutch book arguments",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.221",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "用来支持贝叶斯主义的主要论证。如果我们的主观置信度不遵守概率论，那么可以设计出赌局，让我们在所有可能情况下都输钱。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积极关注",
+   "en": "positive regard",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积极自我评价",
+   "en": "positive self regard",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "正向关怀需要",
+   "en": "need for positive regard",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无效箭",
+   "en": "arrow not regarded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国以义为利",
+   "en": "A State Should Regard Righteousness as a Benefit.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王者以民为天",
+   "en": "A Ruler Who Adheres to Benevolent Governance Regards the People as the Highest Authority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人数据处理中的个人保护公约》（欧洲委员会）",
+   "en": "Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (Council of Europe)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "磁记录设备",
+   "en": "magnetic recording equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铺瓦式写记录",
+   "en": "shingled write recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "叠瓦式磁记录",
+   "en": "shingled magnetic recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "沉潜讽诵",
+   "en": "Focused Study Through Reading and Recitation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "涵泳",
+   "en": "Be Totally Absorbed (in Reading and Learning)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "徙木立信",
+   "en": "Establish One’s Credibility by Rewarding People for Moving a Log",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事出于沈思，义归乎翰藻",
+   "en": "Recording History in an In-depth Way and Presenting It in Eloquent Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "症候阅读法",
+   "en": "symptomatic reading",
+   "source": "马克思主义",
+   "wordNumber": "05.0066",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞（Louis Althusser）《读〈资本论〉》依据症候的阅读。依据文本表现出的各种“症候”，包括沉默、缺失、空白和严格性上的疏漏等，来揭示文本的深层结构，这一方法是阿尔都塞从精神分析"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0069",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与日本汉字读音的“训读”相对。指由古代中国直接或间接传入日本的基于汉语的汉字读音。如“木”读“もく”[moku]或“ぼく”[boko]。依汉字传入时间和地点的不同可分为古音、吴音、汉音、新汉音、唐音、"
+  },
+  {
+   "cn": "食物记录法",
+   "en": "food recording method",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食物消费量调查方法，要求被调查者（或调查者）报告一段时期内消费的所有食物（通常是7天或更少）。"
+  },
+  {
+   "cn": "抚养制度",
+   "en": "child-rearing system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.29",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "有关家庭中长辈对未成年晚辈（包括无行为能力人）进行抚育和教养的制度规范。"
+  },
+  {
+   "cn": "家庭养育评估",
+   "en": "family rearing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "了解影响儿童心理行为发展相关家庭环境因素的一类评估。家庭环境因素包括家庭类型、父母或抚养人的文化水平、经济收入、养育方式、亲子依恋关系、父母的婚姻稳定性、是否单亲家庭与家庭养育环境等。"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "产妇建卡率",
+   "en": "health care recording rate of pregnant women",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区在医疗保健机构建立了保健卡（册）的产妇数，与妊娠满28周及以上的分娩人数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

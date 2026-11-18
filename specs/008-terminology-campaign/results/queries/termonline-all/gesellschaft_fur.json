@@ -1,0 +1,782 @@
+{
+ "key": "gesellschaft fur",
+ "term": "Gesellschaft für",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:45+00:00",
+ "status": "ok",
+ "note": "variant=Gesellschaft für; 审定公布名词库=4121; 海峡两岸名词对照库=587; 其他来源数据库=723; 预公布名词数据库=532; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "远红外",
+   "en": "far infrared,FIR",
+   "source": "物理学名词",
+   "wordNumber": "04.1708",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "远红外",
+   "en": "far infrared; Far IR; FIR",
+   "source": "天文学名词",
+   "wordNumber": "04.339",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "波长在40μm到0.35mm之间的电磁波。 "
+  },
+  {
+   "cn": "舌苔",
+   "en": "fur",
+   "source": "兽医学名词",
+   "wordNumber": "19.125",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "舌表面的一层苔状物，由胃气熏蒸而成。"
+  },
+  {
+   "cn": "裘皮",
+   "en": "fur",
+   "source": "畜牧学名词",
+   "wordNumber": "02.276",
+   "subjectFullName": "畜牧学_饲养管理_羊饲养",
+   "subjectName": "羊饲养",
+   "publishYear": "2020",
+   "definition": "从出生后1月龄以上的羊只中剥取的毛皮。"
+  },
+  {
+   "cn": "毛皮",
+   "en": "fur",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0404",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "原料皮经过一系列化学作用和机械作用后得到的具有使用性能、保留了毛面并以毛面为主要用途的产品。"
+  },
+  {
+   "cn": "舌苔",
+   "en": "fur",
+   "source": "中医药学名词",
+   "wordNumber": "04.203",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "舌面上的一层苔状物，由胃气所生。望舌苔主要包括苔质与苔色两个方面。"
+  },
+  {
+   "cn": "远东国际军事法庭",
+   "en": "International Military Tribunal for the Far East",
+   "source": "世界历史名词",
+   "wordNumber": "01.0315",
+   "subjectFullName": "世界历史_综合_第二次世界大战",
+   "subjectName": "第二次世界大战",
+   "publishYear": "2012",
+   "definition": "1946年1月，在同盟国授权下，远东盟军最高统帅部在东京成立的审判日本战犯的军事司法机构。"
+  },
+  {
+   "cn": "毛皮加脂剂",
+   "en": "fur fatliquor",
+   "source": "精细化工名词",
+   "wordNumber": "08.1387",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "能对毛皮皮板起到加脂作用，同时对毛纤维有良好的润滑效果的加脂剂。"
+  },
+  {
+   "cn": "杉木",
+   "en": "China fir",
+   "source": "风景园林名词",
+   "wordNumber": "08.1024",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "柳杉的木料，主要用于建筑、桥梁、造船、矿柱、家具等，南方古建筑使用较多。"
+  },
+  {
+   "cn": "远场",
+   "en": "far-field",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0635",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "震源距远大于所涉及的波的波长的波场范围。 "
+  },
+  {
+   "cn": "远红外[波]",
+   "en": "far infrared",
+   "source": "光学名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "光学_红外技术",
+   "subjectName": "红外技术",
+   "publishYear": "2021",
+   "definition": "波长范围在25～100 μm的电磁辐射。是红外子波段之一。"
+  },
+  {
+   "cn": "远点",
+   "en": "far point",
+   "source": "光学名词",
+   "wordNumber": "28.069",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "当眼睛处于松弛状态时，眼睛所能看清的最远物点。远点至眼睛的距离称为远点距，正常眼的远点距为无穷大。"
+  },
+  {
+   "cn": "皮用兔",
+   "en": "fur rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "08.003",
+   "subjectFullName": "畜牧学_养兔_家兔分类",
+   "subjectName": "家兔分类",
+   "publishYear": "2020",
+   "definition": "以生产裘皮为主的家兔。被毛绒密而短(1.3cm≤毛长≤2.2cm)，粗毛含量少，被毛平整。"
+  },
+  {
+   "cn": "远点",
+   "en": "far point",
+   "source": "生理学名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "远固定",
+   "en": "far fixed",
+   "source": "运动医学名词",
+   "wordNumber": "01.410",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "肌肉收缩时，定点在远侧端的肌肉收缩固定方式。即肌肉的止点端固定。"
+  },
+  {
+   "cn": "代",
+   "en": "used for",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.291",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "非叙词指引词。只在叙词下使用，其后所列的词是款目词所代替的非叙词。"
+  },
+  {
+   "cn": "远场",
+   "en": "far field",
+   "source": "物理学名词",
+   "wordNumber": "04.0988",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "远场",
+   "en": "far field",
+   "source": "化学名词",
+   "wordNumber": "06.0654",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "放射性废物处置设施中距离源项较远的地质层。此部分较少受强核辐射、热、水力、机械、化学的扰动。"
+  },
+  {
+   "cn": "远场",
+   "en": "far field",
+   "source": "计量学名词",
+   "wordNumber": "11.196",
+   "subjectFullName": "计量学_无线电_场强",
+   "subjectName": "场强",
+   "publishYear": "2015",
+   "definition": "场源距离 r 与发射天线口径D 及波长λ的关系满足 r ≥ 2D²/ λ 条件的电磁场区域的场。在远区主要是辐射场。"
+  },
+  {
+   "cn": "远迁移",
+   "en": "far transfer",
+   "source": "心理学名词",
+   "wordNumber": "09.074",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "将习得的知识经验迁移到相似性低的新情境或任务中的过程。"
+  },
+  {
+   "cn": "AGK星表",
+   "en": "Astronomische Gesellschaft Katalog\",\"AGK",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "远红外",
+   "en": "far infrared\",\"FIR",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "远红外",
+   "en": "far infrared\",\"FIR",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "献给爱丽丝",
+   "en": "Für Elise",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "毛皮",
+   "en": "fur",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "情侣挽歌",
+   "en": "Elegie für junge Liebende",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Henze, Hans Werner"
+  },
+  {
+   "cn": "要求赔偿损失的诉讼",
+   "en": "action for compensation for loss",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远红外",
+   "en": "far infrared",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[高放废物处理库]远场",
+   "en": "far field",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "付现交易",
+   "en": "for cash",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现款交易",
+   "en": "for money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远红外",
+   "en": "far infrared",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "远场",
+   "en": "far field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远区",
+   "en": "far zone",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[联合国]亚洲及远东经济委员会",
+   "en": "Economic Commission for Asia and the Far East (ECAFE)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[联合国]亚洲及远东经济委员会",
+   "en": "ECAFE (=Economic Commission for Asia and the Far East)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远紫外",
+   "en": "far ultraviolet\",\"FUV",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口申报单",
+   "en": "declaration for exportation (=declaration for export)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口申报单",
+   "en": "declaration for importation (=declaration for import)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "趋富特化",
+   "en": "specialization for abundance\",\"specialization for abundant resources",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "争夺",
+   "en": "contend for",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "drawing for stations\",\"drawing for the lanes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险准备金",
+   "en": "reserve for risks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "居民健康卡",
+   "en": "healthcard for residents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "victory for forfeit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方弃权获胜",
+   "en": "victory for abandon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方丧失比赛资格获胜",
+   "en": "victory for disqualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方受伤获胜",
+   "en": "victory for lesion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度裁判员",
+   "en": "judge for difficulties",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横杆架",
+   "en": "support for crossbar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远门柱",
+   "en": "far goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方受伤获胜",
+   "en": "victory for lesion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音响师",
+   "en": "controller for speakers",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人中断比赛",
+   "en": "interruption for substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "河流定级",
+   "en": "grading for the rivers\",\"rating for the rivers",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重大决策责任倒查机制",
+   "en": "mechanism for retroactive investigation into accountability for major decisions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "社会体",
+   "en": "Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.23",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "大量的、异质的、匿名的、追逐各自利益的人们的行动所构成的，以法律、规范、规章或契约联系起来的一种社会关系。在此，人们的行动以达到某种目的而有意识地选择与之相适应的有利手段为取向。在德国社会学家滕尼斯那"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  },
+  {
+   "cn": "特殊医学用途配方食品注册技术审评",
+   "en": "technical review for registration for food for special medical purposes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.2",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "审评机构根据申请材料、现场核查报告、抽样检验报告以及专家意见等，作出是否准予相应特殊医学用途配方食品注册的建议。"
+  },
+  {
+   "cn": "二为方向",
+   "en": "for the people and for serving socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0541",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为人民服务、为社会主义服务方向的简称，是我国社会主义文化建设的基本指导方针。为人民服务是指为包括工人、农民、士兵、知识分子、干部和一切拥护社会主义、热爱祖国的人民群众服务，首先是为工农兵服务。为社会主"
+  },
+  {
+   "cn": "远红外线消毒",
+   "en": "far infrared disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用波长30～1000µm远红外线具有的良好热效应，照射到物体表面进行快速加热的消毒处理。一般使用专用的红外线消毒柜进行消毒处理。"
+  },
+  {
+   "cn": "新法接生",
+   "en": "disinfection for delivery",
+   "source": "消毒学",
+   "wordNumber": "4.8.4",
+   "subjectFullName": "消毒学_消毒应用_居家消毒",
+   "subjectName": "居家消毒",
+   "publishYear": "2025",
+   "definition": "遵循分娩的规律，用科学的方法进行消毒的接生。"
+  },
+  {
+   "cn": "监督监测",
+   "en": "monitoring for inspection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "放射卫生监督人员在监督过程中，对被监督对象开展的辐射剂量或潜在污染的抽样检测。"
+  },
+  {
+   "cn": "营利组织",
+   "en": "for-profit organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以谋取利润为目的、从事经济活动的经济组织。与“非营利组织”相对。"
+  },
+  {
+   "cn": "亲子制度",
+   "en": "institutions for parenthood",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.27",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "规范父母与子女间的权利义务关系的制度。包括父母子女关系如何发生、变更、消灭以及父母子女间的权利义务关系等。"
+  },
+  {
+   "cn": "生育制度",
+   "en": "institutions for reproduction",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.32",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "社会对包括求偶、结婚、抚育和性关系的制度性安排。在费孝通的同名著作里，他将婚姻、家庭、夫妇配合、亲子关系、代际传承、亲属制度都纳入了讨论，因为这种种制度安排均是为了完成抚育新生孩童的功能，最终目的乃是"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家为了实现伟大的科学发现或为了推进科学研究及发展，以获得相应声誉而持有的抱负。通常表现为科学家为此目的而希望在其事业和工作业绩方面有所成就。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "儿童个案工作",
+   "en": "casework for children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以儿童为对象的个案工作。这是儿童社会工作的重要方法之一，隶属于个案社会工作，同时又有其独特的涵义、要素和特点。以儿童（多指有问题的儿童）为服务对象，直接目标在于帮助儿童解决困难和问题，并预防产生新的困"
+  },
+  {
+   "cn": "生存斗争",
+   "en": "struggle for survival",
+   "source": "马克思主义",
+   "wordNumber": "03.0172",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文自然选择进化理论的核心概念，包括生物与自然条件之间的斗争，异种个体间的斗争；同种个体间的竞争等。每个生物在生存过程中必须跟自然环境作斗争、跟同一物种的生物作斗争、跟不同物种的生物作斗争，其中以同"
+  },
+  {
+   "cn": "爱国主义教育",
+   "en": "education for patriotism",
+   "source": "马克思主义",
+   "wordNumber": "03.0525",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "树立热爱祖国并为之献身的思想教育。爱国主义教育是思想道德建设的一个重要内容,它就是要帮助人们认清只有社会主义才能救中国,才能发展中国的真理,在全社会发扬自尊、自信、自强的民族精神和培养正确的国家观念。"
+  },
+  {
+   "cn": "营利性医院",
+   "en": "for-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医疗服务所得收益可用于投资者经济回报的医院。"
+  },
+  {
+   "cn": "体育用地",
+   "en": "land for sports",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "体操、田径、球类、武术项目及场地间专用通道等用地。"
+  },
+  {
+   "cn": "绿化用地",
+   "en": "land for greening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "集中绿地、零星绿地、水面和供教学实践的种植园及小动物饲养园的用地。"
+  },
+  {
+   "cn": "道路用地",
+   "en": "land for road",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "消防车道、机动车道、步行道的用地。"
+  },
+  {
+   "cn": "广场用地",
+   "en": "land for square",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "无顶盖且无植被或植被不达标的广场的用地。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

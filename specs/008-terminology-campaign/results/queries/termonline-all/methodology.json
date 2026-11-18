@@ -1,0 +1,552 @@
+{
+ "key": "methodology",
+ "term": "methodology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:38:09+00:00",
+ "status": "ok",
+ "note": "variant=methodology; 审定公布名词库=84; 海峡两岸名词对照库=59; 其他来源数据库=11; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "方法论",
+   "en": "methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们认识世界和改造世界的一般方式、方法的理论体系。"
+  },
+  {
+   "cn": "方法论",
+   "en": "methodology",
+   "source": "心理学名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "关于认识世界、改造世界的根本方法的理论。有哲学方法论、一般科学方法论、具体科学方法论之分。"
+  },
+  {
+   "cn": "经验主义方法论",
+   "en": "empiricist methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "自然辩证法_总论_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2024",
+   "definition": "认为人类知识起源于感觉，并以感觉的领会为基础。经验主义认为人类对世界的认识与知识来源于人的经验，否定先天道德范畴的先验性。意即通过事物现象的直观性对人的感受作用而归纳它的本质，通过感官实践来获得外界知"
+  },
+  {
+   "cn": "计算主义方法论",
+   "en": "computational methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "自然辩证法_总论_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2024",
+   "definition": "当代一种关于心灵或认知的理论，是认知科学和人工智能中的主流研究范式。计算主义的基本思想是：心理状态、心理活动和心理过程是计算状态、计算活动、计算过程，认知就是计算。"
+  },
+  {
+   "cn": "证伪主义方法论",
+   "en": "falsification methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "自然辩证法_总论_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2024",
+   "definition": "英国哲学家K. 波普尔（K. Popper）提出的观点。他从反对逻辑实证主义关于科学理论来自对经验归纳的观点出发，把科学理论看作普遍命题。认为科学是通过个别的经验事实证伪普遍命题而获得更新和发展的。"
+  },
+  {
+   "cn": "历史主义方法论",
+   "en": "historicism methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "自然辩证法_总论_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2024",
+   "definition": "20世纪50年代末产生的一种科学哲学思潮，60年代后逐渐开始流行。历史主义以描述与解释科学实际如何、科学家如何为目的，产生使科学哲学失去规范意义的影响。S. E. 图尔明（S. E. Toulmin）"
+  },
+  {
+   "cn": "自然主义方法论",
+   "en": "naturalistic methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.133",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "主张用自然原因或自然原理来解释一切现象而不接受超自然原因的方法论。认为所有的现象和假设都可以用相同的方法来研究。"
+  },
+  {
+   "cn": "技术方法论",
+   "en": "technical methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "研究技术方法的对象、性质、种类、层次、发展以及技术的一般方法和具体方法之间的内在联系等的理论。"
+  },
+  {
+   "cn": "工程方法论",
+   "en": "engineering methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.006",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "以工程方法为研究对象的理论领域。主要探讨工程方法的性质、特征、意义、功能和作用等，旨在把握其共性特征、发展规律和应用原则，可分为特定工程方法论、行业性工程方法论、一般性工程方法论三个层次。"
+  },
+  {
+   "cn": "科学方法论",
+   "en": "scientific methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.007",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "以科学方法的性质、功能、内在联系及应用范围等为研究对象的哲学分支。"
+  },
+  {
+   "cn": "外部方法",
+   "en": "externalist methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.093",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "对科学活动外部的科学家、科学组织、科学建制进行研究的方法。以默顿学派为代表，一般以问卷调查、统计分析的定量方法为主。"
+  },
+  {
+   "cn": "内部方法",
+   "en": "internalist methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.094",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "对科学活动的内部进行研究。如实验室内科学知识的生产、科学争论解决的过程。一般以定性研究为主。"
+  },
+  {
+   "cn": "估算方法",
+   "en": "estimating methodology",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.155",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "投资估算采用的方法和技术。主要包括规模指数法、参数模型法、设备系数法、初步工程量法、详细工程量法等。"
+  },
+  {
+   "cn": "设计方法学",
+   "en": "design methodology",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0004",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "研究设计规律、设计程序及设计中思维和工作方法的一门综合性学科。"
+  },
+  {
+   "cn": "地图研究法",
+   "en": "cartographic methodology",
+   "source": "测绘学名词",
+   "wordNumber": "04.420",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "应用地图研究地面各种事物和现象的分布规律、数量质量特征和动态变化的方法，以及以制图作为研究手段进行综合评价、预测预报、区划规划与决策管理的方法。"
+  },
+  {
+   "cn": "计算流体力学方法",
+   "en": "CFD methodology",
+   "source": "冶金学名词",
+   "wordNumber": "04.0767",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "用计算机和离散化数值方法对流体力学问题进行数值模拟和分析发展起来的学科。它是传递过程及燃烧、多相流和化学反应研究的核心技术。"
+  },
+  {
+   "cn": "开发方法学",
+   "en": "development methodology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0026",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "指导软件系统开发的系统化方法。它明确软件的开发过程，规定每个阶段的活动、产品、表示语言、验证步骤和完成准则。"
+  },
+  {
+   "cn": "程序设计方法学",
+   "en": "programming methodology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0033",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "研究程序设计的原理和原则以及基于它们的设计方法和技术的学科。"
+  },
+  {
+   "cn": "系统方法论",
+   "en": "system methodology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0674",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "在一定的系统哲学思想指导下用于解决复杂系统问题的一套工作步骤、方法、工具和技术。"
+  },
+  {
+   "cn": "地理学方法论",
+   "en": "geographical methodology",
+   "source": "地理学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "地理学所采用的一般科学方法和地理学自身的专门方法的总和。"
+  },
+  {
+   "cn": "方法论",
+   "en": "methodology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方法论",
+   "en": "methodology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "统计方法学",
+   "en": "statistical methodology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学方法论",
+   "en": "geographical methodology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图研究法",
+   "en": "cartographic methodology",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计方法学",
+   "en": "programming methodology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开发方法学",
+   "en": "development methodology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件方法学",
+   "en": "software methodology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设计方法学",
+   "en": "design methodology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方法论的个体论",
+   "en": "methodological individualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "软件工程方法学",
+   "en": "software engineering methodology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象学",
+   "en": "meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气象学",
+   "en": "meteorology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "弹道气象学",
+   "en": "ballistic meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力气象学",
+   "en": "dynamic meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高原气象学",
+   "en": "plateau meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海岸带气象[学]",
+   "en": "coastal meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋气象",
+   "en": "oceanic meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋气象学",
+   "en": "marine meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "航空气象学",
+   "en": "aeronautical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "软件设计方法学",
+   "en": "program design methodology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30273-2013 信息安全技术 信息系统安全保障通用评估指南》",
+   "en": "GB/T 30273-2013 Information security technology — Common methodology for information systems security assurance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "方法论",
+   "en": "methodology",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "指导和评估研究实践的一组规则和程序。"
+  },
+  {
+   "cn": "q方法论",
+   "en": "q methodology",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.160",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "要同一群受试者在不同的时间进行q分类，或要若干受试者进行q分类，以搜集数字资料，从而进行统计处理，以阐明个人行为的改变或进行团体内的聚类分析的技术。是由斯蒂芬森创立的。"
+  },
+  {
+   "cn": "女性主义方法论",
+   "en": "feminist methodology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义倡导的一种以社会性别为核心概念、植根于女性日常生活经验的批判性的研究视角和立场。在研究程序上强调知识的反身性和情境化，在具体方法上主张多元化和包容性，在研究目标上则推崇服务于弱势性别群体的价值"
+  },
+  {
+   "cn": "实证主义方法论",
+   "en": "positivist methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "以自然主义或科学主义为基础的研究方法论。该方法论认为社会现象是可以被认识的，是客观的，它有自己内在的规律。社会工作研究应该通过广泛调查、深入地收集相关资料来说明问题，并找出规律性的东西。具体说来，其表"
+  },
+  {
+   "cn": "批判主义方法论",
+   "en": "critical methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "起源于马克思主义的研究方法论。其主张明确的价值立场，站在受压迫或弱势群体的立场上进行研究，并将研究活动本身作为促成人们解放及社会公平进步的过程。"
+  },
+  {
+   "cn": "监测方法学",
+   "en": "surveillance methodology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "研究人群健康相关问题监测思维和工作方法的一门综合性学科。"
+  },
+  {
+   "cn": "医学方法论",
+   "en": "medical methodology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.18",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "关于医学研究方法的理论，用来探究医学的发展规律、性质、特点、作用等。涉及哲学方法、社会科学方法和自然科学方法在医学中的运用。"
+  },
+  {
+   "cn": "方法论无政府主义",
+   "en": "methodological anarchism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.188",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由P. 费耶阿本德（P. Feyerabend）提出。坚持科学方法的多元性和多样性，反对寻找某些普遍适用的方法论原则来刻画科学合理性。"
+  },
+  {
+   "cn": "反实证主义方法论",
+   "en": "anti-positivist methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "反对实证主义的研究方法论。其强调对社会现象，尤其是对个体行为意义的深层理解，强调要能够站在被研究者的立场上去理解。要深入了解行动者所赋予自己行动的意义和价值，就需要了解行动者所处文化和行为发生的具体情"
+  },
+  {
+   "cn": "新途经方法",
+   "en": "new approach methodologies， NAMs",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "不依赖整体动物且可以为外源因素的健康危害和风险提供信息的技术丶方法和组合，旨在更精准、更高效地进行安全性与有效性评估。包括以类器官(organoids)、器官芯片(organ-on-a-chip)、3"
+  },
+  {
+   "cn": "社会工作研究的方法论",
+   "en": "methodology for social work research",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "指导社会工作研究的基本方法理论。主要包括实证主义方法论、人文主义方法论和马克思主义方法论，它们决定了研究者看待研究对象的角度、认识研究对象的方法和对研究对象认识的侧面和深度。"
+  },
+  {
+   "cn": "妇幼卫生评价方法学",
+   "en": "woman and child health evaluation methodology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "评价妇女儿童健康状况、影响因素及相关工作完成情况的一系列方法的集合。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

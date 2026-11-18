@@ -1,0 +1,772 @@
+{
+ "key": "real propositions",
+ "term": "Real propositions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:46:13+00:00",
+ "status": "ok",
+ "note": "variant=Real propositions; 审定公布名词库=1410; 海峡两岸名词对照库=346; 其他来源数据库=51; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "命题代数",
+   "en": "algebra of propositions",
+   "source": "数学名词",
+   "wordNumber": "02.0023",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "USP理论",
+   "en": "unique selling proposition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.036",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "广告大师罗塞·里夫斯(Rosser Reeves)在20世纪50年代首创。一个广告中必须包含一个向消费者提出的销售主张，这个主张须要具备三个要点：一是利益承诺；二是独特；三是强而有力。"
+  },
+  {
+   "cn": "形式不可判定命题",
+   "en": "formal undecidable proposition",
+   "source": "数学名词",
+   "wordNumber": "02.0145",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆否命题",
+   "en": "converse-negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0017",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题编码理论",
+   "en": "propositional code theory",
+   "source": "心理学名词",
+   "wordNumber": "02.541",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆中只有一种编码形式的理论。即只有命题形式的、语义的、抽象的表征。"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "即时",
+   "en": "real time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际大气",
+   "en": "real atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真实组成",
+   "en": "real composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实际阶段",
+   "en": "real stage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真动",
+   "en": "real movement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实际成本",
+   "en": "real cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际负债",
+   "en": "real liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际汇率",
+   "en": "real rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际货币",
+   "en": "real money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际交易",
+   "en": "real transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际利息",
+   "en": "real interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收入",
+   "en": "real income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收益",
+   "en": "real earning",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际投资",
+   "en": "real investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际支出",
+   "en": "real expenditure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时映射",
+   "en": "real-time mapping",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时多媒体",
+   "en": "real-time multimedia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时处理",
+   "en": "real-time processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不动产众筹",
+   "en": "real estate crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实网演练",
+   "en": "real network drill",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时定价",
+   "en": "real-time pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时发布",
+   "en": "real-time updates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际比赛时间",
+   "en": "real contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据实时分析",
+   "en": "real-time data analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市全状态实时可视化",
+   "en": "real-time, full-state urban visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球海洋观测网",
+   "en": "Array for Real-time Geostrophic Oceanography (ARGO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实网攻防演练",
+   "en": "attack and defense drill on real network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "让更多的金融活水流向实体经济",
+   "en": "allow more financial resources to be channeled into the real economy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "现实的个人",
+   "en": "real individual",
+   "source": "马克思主义",
+   "wordNumber": "01.0135",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象的个人”相对。指处于现实历史条件和社会关系中的人类个体。马克思以之作为历史的现实前提。认为以一定的方式进行生产活动的一定的个人之间必然会发生一定的社会关系。这种个人不是他们自己或别人想像中的抽"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0146",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“名义工资”相对应。指工人用货币工资所能买到的生活资料和服务的数量。实际工资和名义工资存在着密切的联系。其它条件不变时，工人所得的名义工资越高，所能购买的生活资料和服务数量就越多，因而实际工资也就越"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time polymerase chain reaction, real-time qPCR",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.69",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在PCR反应体系中加入荧光基团，利用荧光信号积累实时检测整个PCR进程，最后通过标准曲线对未知模板进行定量的方法。"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time fluorescence PCR",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在聚合酶链反应体系中加入含有荧光基团的底物，通过对扩增反应中每一个循环产物荧光信号的实时检测，从而实现对起始模板定量及定性的分析方法。"
+  },
+  {
+   "cn": "卫生总费用实际值",
+   "en": "real value of total health expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.5",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "消除价格影响因素后，各个时期的卫生总费用均采用基期的不变价格水平，或者一个特定时期的可比价格水平来计算。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "学生餐",
+   "en": "school meal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校食品安全监督",
+   "subjectName": "学校食品安全监督",
+   "publishYear": "2025",
+   "definition": "由学校食堂或供餐单位为在校学生提供的早餐、午餐或晚餐。"
+  },
+  {
+   "cn": "交叉参照",
+   "en": "read across",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据源化学物质的终点信息预测另一种结构相似的化学物质相同终点信息的方法。"
+  },
+  {
+   "cn": "篆刻",
+   "en": "seal carving",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0382",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国具有艺术价值的印章镌刻；一种以书法（主要是篆书）和镌刻（包括凿、铸）相结合，从而制作印章的艺术。它由中国古代的印章制作技艺发展而来，以石材为主要材料，以刻刀为工具，以汉字为表象。"
+  },
+  {
+   "cn": "肾移植",
+   "en": "renal transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.012",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "将某一个体的正常肾脏用手术方法移植到另一个体体内的技术。"
+  },
+  {
+   "cn": "肾区叩击痛",
+   "en": "renal percussive pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.18",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "患者取站立位、坐位或侧卧位，检查者用左手掌平放于患者的肾区（肋脊角），右手握拳用由轻到中等强度的力量叩击左手背，当肾脏有病变时，肾区可有不同程度的叩击痛的体征。"
+  },
+  {
+   "cn": "陪餐制度",
+   "en": "meal accompanying system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "为监督和确保餐饮服务质量和食品安全，在学校的食堂、餐厅等集体用餐场所中，规定陪同就餐的工作人员或成员的制度。"
+  },
+  {
+   "cn": "分餐制度",
+   "en": "meal separation system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "支持餐饮过程中，餐具、菜（饮）品等的不交叉、无混用的餐饮方式实现的活动安排。"
+  },
+  {
+   "cn": "热封强度试验",
+   "en": "seal strength test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.20",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "评价罐头食品的热封口强度的试验。"
+  },
+  {
+   "cn": "封刀",
+   "en": "seal the knife",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0066",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旧时行业习俗，流行于全国一些地区。厨师一年到头为人操刀掌勺，非常辛苦。春节期间，用红布包上菜刀，休息几天，故称。"
+  },
+  {
+   "cn": "封剪",
+   "en": "seal the scissors",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0067",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旧时行业习俗。流行于全国一些地区。裁缝师傅一年到头为人操剪裁衣，备极辛劳。春节期间为了好好休息几天，便用红布包住剪刀，表示暂停营业。"
+  },
+  {
+   "cn": "反应性关节炎",
+   "en": "reactive arthritis, ReA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "与机体前驱感染密切相关的关节炎，通常发生在明确感染后的2-4周，但受累关节中未发现病原微生物。目前确定前驱感染可能的胃肠道和泌尿生殖道病菌谱，包括沙眼衣原体、耶尔森菌属、沙门氏菌属、志贺菌属和弯曲杆菌"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

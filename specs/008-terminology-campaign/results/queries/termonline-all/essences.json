@@ -1,0 +1,322 @@
+{
+ "key": "essences",
+ "term": "essences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:59:35+00:00",
+ "status": "ok",
+ "note": "variant=essences; 审定公布名词库=37; 海峡两岸名词对照库=1; 其他来源数据库=3; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "精",
+   "en": "essence",
+   "source": "兽医学名词",
+   "wordNumber": "19.094",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "动物体内一切有形的精微物质。包括气、血、津液和水谷精微。"
+  },
+  {
+   "cn": "精华素",
+   "en": "essence;serum",
+   "source": "精细化工名词",
+   "wordNumber": "08.0800",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "在化妆品基质中添加了高营养、高浓度的活性成分，经混合或混合乳化工艺制成的产品。对皮肤具有深层护理作用。"
+  },
+  {
+   "cn": "k质",
+   "en": "k-essence",
+   "source": "天文学名词",
+   "wordNumber": "07.532",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "基于非平凡动能项的标量场暗能量模型。"
+  },
+  {
+   "cn": "精室",
+   "en": "essence chamber",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.008",
+   "subjectFullName": "中医药学_外科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "男子藏精之处。"
+  },
+  {
+   "cn": "精室",
+   "en": "essence chamber",
+   "source": "中医药学名词",
+   "wordNumber": "03.152",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "男子藏精之处。"
+  },
+  {
+   "cn": "肾精",
+   "en": "kidney essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "即肾中之精，来源于先天之精，又依赖后天之精的滋养而充盛，为肾之功能活动的物质基础。"
+  },
+  {
+   "cn": "先天之精",
+   "en": "congenital essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.394",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "生命的本原物质，受之父母，先身而生，为构成人体胚胎和繁衍后代的基本物质。"
+  },
+  {
+   "cn": "后天之精",
+   "en": "acquired essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "人出生之后，从吸入的自然界清气及摄入的饮食物中摄取的营养精华成分以及脏腑气化所生成的精微物质。"
+  },
+  {
+   "cn": "鱼光鳞",
+   "en": "pearl essence",
+   "source": "水产名词",
+   "wordNumber": "08.441",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "从鱼鳞提取的片状鸟嘌呤结晶发光物质。"
+  },
+  {
+   "cn": "精",
+   "en": "(1) essence,(2) semen",
+   "source": "中医药学名词",
+   "wordNumber": "03.391",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "(1)广义之精为人体一切有形精微物质，包括气、血、津液和水谷精微；(2)狭义之精专指男女生殖之精。"
+  },
+  {
+   "cn": "肾藏精",
+   "en": "kidney storing essence",
+   "source": "兽医学名词",
+   "wordNumber": "19.074",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "肾具有贮存、封藏动物体精气的功能。"
+  },
+  {
+   "cn": "实质独立",
+   "en": "independence in essence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0363",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师在提出审计结论时不受损害职业判断的因素影响，诚信行事，遵循客观和公正的原则，保持职业怀疑态度的内心状态。"
+  },
+  {
+   "cn": "肾藏精",
+   "en": "kidney storing essence",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.009",
+   "subjectFullName": "中医药学_外科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "肾具有贮存、封藏人身精气的生理功能。"
+  },
+  {
+   "cn": "肾藏精",
+   "en": "kidney storing essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "肾具有贮存、封藏人身精气的生理功能。"
+  },
+  {
+   "cn": "精脱",
+   "en": "depletion of essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.684",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "过劳伤精耗气，导致肾中精气亏损脱失，官窍失养的病理变化。"
+  },
+  {
+   "cn": "滋补肾精",
+   "en": "nourishing kidney essence",
+   "source": "中医药学名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有滋补肾阴、填精益髓作用的方药，治疗肾阴虚精亏证的治法。"
+  },
+  {
+   "cn": "精气神",
+   "en": "essence,qi and spirit",
+   "source": "老年医学名词",
+   "wordNumber": "08.025",
+   "subjectFullName": "老年医学_传统老年医学",
+   "subjectName": "传统老年医学",
+   "publishYear": "2017",
+   "definition": "气功术语。指上药，为练功的基本物质；指感觉、知觉、运动；指精气神一体不离，相互作用；指元精、元气、元神；指身体纯一通达和平。"
+  },
+  {
+   "cn": "藏精气而不泻",
+   "en": "storing essence without leaking",
+   "source": "中医药学名词",
+   "wordNumber": "03.087",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏贮藏精气，勿使外泄的生理功能特点。"
+  },
+  {
+   "cn": "精气夺",
+   "en": "consumption of vital essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "精气不足而导致虚证的病理变化。"
+  },
+  {
+   "cn": "肾精不足",
+   "en": "insufficiency of kidney essence",
+   "source": "中医药学名词",
+   "wordNumber": "03.683",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "肾精亏虚，功能减退，致脑髓、骨骼、齿、发、官窍失养，小儿生长发育迟缓，成人生殖功能减退，或早衰的病理变化。"
+  },
+  {
+   "cn": "香精回收",
+   "en": "essence recovery",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拟容取心",
+   "en": "Compare Appearances to Grasp the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离形得似",
+   "en": "Transcend the Outer Form to Capture the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚当子孙皆兄弟，兄弟犹如手足亲。（援助伊朗，源自古波斯诗人萨迪）",
+   "en": "The sons of Adam are limbs of one, having been created of one essence.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0059",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现象”相对。事物的内在性质，事物的全体及构成事物的主要要素、内部联系。它由事物内在矛盾决定，是决定事物性质和发展趋势的方面，具有一般性、稳定性和深刻性。它隐藏在现象背后并表现在现象之中。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "现象与本质",
+   "en": "phenomena and essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0060",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物的内部联系和外在表现的两个方面。两者对立统一。其统一性在于，二者相互联系、相互依赖。本质是现象的根据；本质决定现象，并通过现象表现出来；现象依赖本质，是本质的表现。二者相互区别，现象是外显的、易变"
+  },
+  {
+   "cn": "社会主义的本质",
+   "en": "essence of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0585",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平于1992年初在南方谈话中提出：社会主义的本质，是解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕。是把生产力与生产关系相结合的社会主义经济本质、"
+  },
+  {
+   "cn": "原强",
+   "en": "essence of strong nation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过提倡“群学”这一修齐治平之学，来培养和提高民众素质，建立良好社会基础，以达到国家富强的主张与做法。是严复主张的民本原则的体现。严复在《原强》一文中，强调强国保种在于培植民众在体、智、德三方面的潜力"
+  },
+  {
+   "cn": "弃其糟粕取其精华",
+   "en": "discard its dross and select its essence",
+   "source": "马克思主义",
+   "wordNumber": "03.0462",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "发扬旧事物中的积极因素,抛弃旧事物中的消极因素。毛泽东在《新民主主义论》中提出，有批判地吸收和继承文化遗产，对外国的东西决不能生吞活剥地毫无批判地吸收。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "important innovation",
+ "term": "important innovation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:37:54+00:00",
+ "status": "ok",
+ "note": "variant=important innovation; 审定公布名词库=319; 海峡两岸名词对照库=261; 其他来源数据库=57; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "创新",
+   "en": "innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.084",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "经济学家J. A. 熊彼特（J. A. Schumpeter）于1912年创用。不是单纯的发明，而是建立一种新的生产函数，把一种从来没有过的关于生产要素和生产条件的“新组合”引入生产体系，创造新价值。"
+  },
+  {
+   "cn": "创新",
+   "en": "innovation",
+   "source": "经济学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "按照熊彼特的观点，所谓创新就是建立一种新的生产函数，将一种从来没有过的生产要素和生产条件的“新组合”引入生产体系。创新包括五种形式：①引进新产品或提供一种产品的新质量；②采用新技术、新生产方法；③开辟"
+  },
+  {
+   "cn": "创新",
+   "en": "innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0784",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "将技术和经济结合起来，把一种生产要素的新组合引入生产体系，包括从新思想的产生到产品设计、试制、生产、营销、市场化的一系列活动。"
+  },
+  {
+   "cn": "新息",
+   "en": "innovation",
+   "source": "数学名词",
+   "wordNumber": "09.0420",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0574",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）将当前系统之外的某个指定位置上的一批数据输入到系统中。（2）一种改变元素可见性的表示法，使其他作用域或名字空间的元素可以在本作用域或名字空间内被直接引用。"
+  },
+  {
+   "cn": "种质创新",
+   "en": "germplasm innovation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0164",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "运用各种育种手段，将某些植物种质资源上所特有的有利性状，转育到某一作物上，从而培育出这一作物新的种质的工作。"
+  },
+  {
+   "cn": "创新系统",
+   "en": "innovation system",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.085",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "创新的组织管理技术，对组成系统的诸要素、要素之间的关系、系统结构、系统流程及系统与环境之间的关系进行动态地、全面地组织，以促进系统整体功能不断升级优化。伦德瓦尔（Lundvall）1985年提出此概念"
+  },
+  {
+   "cn": "创新生态系统",
+   "en": "innovation ecosystem",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.087",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由创新个体、创新组织和创新环境等要素组成的动态性开放系统。系统中的各要素为了创新的总体目标协同演化和互动适应。美国竞争力委员会2004年在《创新美国：在挑战和变革的世界中实现繁荣》的研究报告中提出。"
+  },
+  {
+   "cn": "技术创新",
+   "en": "technological innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "作为创新主体的企业在创新环境条件下，通过一定的中介而使创新客体转换形态，实现市场价值的一种实践活动。包括新设想的产生、研究、开发、商业化、扩散等。"
+  },
+  {
+   "cn": "工程创新",
+   "en": "engineering innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "面向特定需求，集成、运用各类资源以创造新价值的工程过程。通常包括问题界定、解决方案的提出和筛选、工程试验和评估、实施和运行等环节。"
+  },
+  {
+   "cn": "工艺创新",
+   "en": "process innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.059",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "通过运用新的方式、方法变革工艺流程，以提高生产技术水平、产品质量并降低生产成本的活动。"
+  },
+  {
+   "cn": "产品创新",
+   "en": "product innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "创造某种新产品或者对老产品加以改进以提升其性能的活动。"
+  },
+  {
+   "cn": "制度创新",
+   "en": "institutional innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "通过改进旧制度或者建立新制度而创造社会价值的过程。"
+  },
+  {
+   "cn": "管理创新",
+   "en": "management innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "通过变革管理方法、管理过程、管理思想等以实现价值创造的创新活动。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.041",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程，是相对于技术引进、模仿而言的一种创造活动。自主创新包括原始创新、集成创新和引进技术再创新。自主创新的成果一般体现为新的科学发现以及"
+  },
+  {
+   "cn": "创新驱动",
+   "en": "innovation-driven",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.124",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "创新驱动最早由迈克尔·波特（Michael Porter）提出。是指以知识、技术、制度、管理等创新要素为经济发展主要推动力的资源合理高效配置的一种方式，是区别于传统要素驱动的战略选择。"
+  },
+  {
+   "cn": "协同创新",
+   "en": "collaborative innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "以知识增值为核心，企业、政府、知识生产机构（大学、研究机构）、中介机构和用户等为了实现重大科技创新而开展的大跨度整合的创新组织模式。"
+  },
+  {
+   "cn": "开放创新",
+   "en": "open innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.148",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "企业利用外部思想进行创新，拓展科技，或与合作伙伴一起创新，分享风险和盈利的模式。"
+  },
+  {
+   "cn": "负责任创新",
+   "en": "responsible innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.036",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "技术创新活动与企业社会责任的有机结合。强调在技术创新的设计、开发、实施和成果使用各阶段充分考虑企业的各种社会责任，包括保护生态环境的责任、对利益相关者的责任、对社会生活健康发展的责任等要素，注重对技术"
+  },
+  {
+   "cn": "种质创新",
+   "en": "germplasm innovation ",
+   "source": "草学名词",
+   "wordNumber": "4.054",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "创新",
+   "en": "innovation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "进口",
+   "en": "import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "技术创新",
+   "en": "technological innovation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术创新",
+   "en": "technological innovation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "技术革新",
+   "en": "technical innovation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "重要负载",
+   "en": "important load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化物输入",
+   "en": "assimilate import",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿性进口",
+   "en": "compensation import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边进口",
+   "en": "unilateral import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内消费进口",
+   "en": "retained import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金输入",
+   "en": "gold import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间接进口",
+   "en": "indirect import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口保证金，进口押金",
+   "en": "import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报单",
+   "en": "import declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报关单",
+   "en": "import entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口壁垒",
+   "en": "import barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口补贴",
+   "en": "import subsidy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集群创新",
+   "en": "cluster innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众创",
+   "en": "mass innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主控式创新",
+   "en": "dominant innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新敏捷化",
+   "en": "innovation agility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新孵化",
+   "en": "innovation incubation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技创新",
+   "en": "Fintech Innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创意农业",
+   "en": "innovative farming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新发展",
+   "en": "innovative development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "创新型国家",
+   "en": "innovative country",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要性采样",
+   "en": "importance sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融模式创新",
+   "en": "Financial Model Innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融体系创新",
+   "en": "Financial System Innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贵宾",
+   "en": "very important person",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家自主创新示范区",
+   "en": "national innovation demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据创新生态体系",
+   "en": "big data innovation ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能原始创新",
+   "en": "original innovation in AI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《金融科技创新战略》（英国）",
+   "en": "Fintech Innovation Strategy (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技创新全球化",
+   "en": "globalization of Fintech innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新",
+   "en": "innovation",
+   "source": "马克思主义",
+   "wordNumber": "04.0196",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "人类的创造性活动和自觉能动性的集中体现。指人们为了发展的需要，运用已知的信息，不断突破常规，发现或产生某种新颖、独特的有社会价值或个人价值的新事物、新思想的活动。创新的本质是突破，创新活动的核心是“新"
+  },
+  {
+   "cn": "文化创新",
+   "en": "cultural innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0656",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族和国家文化在继承传统的基础上不断博采众长、面向世界、推陈出新，它是一个民族进步的灵魂，是一个国家兴旺发达的不竭动力。文化创新表现为不断推动社会实践的发展,又表现为不断促进民族文化的繁荣。"
+  },
+  {
+   "cn": "理论创新",
+   "en": "theoretical innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0679",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "人们在社会实践活动中，根据实践的发展和要求，在前人理论观点的基础上加以发展，对不断出现的新情况新问题作新的理论分析和解答，对认识对象或实践对象的本质、规律和发展变化的趋势作新的揭示和预见，对人类历史经"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "进口食品添加剂",
+   "en": "imported food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "产自中国境外，通过中国海关报关验放后进入中国境内的食品添加剂产品"
+  },
+  {
+   "cn": "创新扩散理论",
+   "en": "diffusion of innovation, DI",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "描述一项创新（新观念、新事物或新实践）经由一定的传播渠道，通过一段时间，在一个社会系统中扩散，并逐渐为社会系统成员所了解和采纳的过程的理论。"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "source": "马克思主义",
+   "wordNumber": "03.0620",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的第三代中央领导集体创立的党的指导思想的构成部分。其主要内容是：中国共产党要始终代表中国先进生产力的发展要求、要始终代表中国先进文化的前进方向、要始终代表中国最广大人民的根本利益。它是中"
+  },
+  {
+   "cn": "重要战略机遇期",
+   "en": "period of important strategic opportunities",
+   "source": "马克思主义",
+   "wordNumber": "04.0187",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党中央对当前国际国内形势作出的一个科学判断。主要是指国际国内各种因素综合作用形成的，能为国家（地区、集团）经济社会发展提供良好机会和境遇，并对其历史命运产生全局性、长远性、决定性影响的某一特定历史时期"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "重要军事活动卫生保障",
+   "en": "health security for important military activities",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "根据重要军事活动时人员特点、作业环境特点、人员聚集特点和作业特点，研究复合因素对人员影响的规律，从而提供综合性的卫生学保障措施。"
+  },
+  {
+   "cn": "进出口食品合格评定",
+   "en": "import and export food conformity assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "海关依据进出口商品检验相关法律、行政法规的规定对进口食品实施的一种评审活动。包括向中国境内出口食品的境外国家（地区）食品安全管理体系评估和审查、境外生产企业注册、进出口商备案和合格保证、进境动植物检疫"
+  },
+  {
+   "cn": "创新是一个民族进步的灵魂",
+   "en": "innovation is the soul of a nations progress",
+   "source": "马克思主义",
+   "wordNumber": "04.0188",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1995年全国科学技术大会上提出的著名论断。一个民族的进步需要理论创新与实践创新，实践基础上的理论创新和理论指导下的实践创新，是探索中国特色现代化道路的客观要求，只有不断创新才能解决改革进程中"
+  },
+  {
+   "cn": "以改革创新的精神加强党的建设",
+   "en": "strengthen party building in a spirit of reform and innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0651",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七大根据新的形势和任务，提出要以改革创新精神全面推进党的建设新的伟大工程。这为新世纪新阶段全面推进党的建设新的伟大工程提供了指导原则和行动纲领，是我们党顺利完成执政使命、正确应对新课题新考验和解"
+  },
+  {
+   "cn": "改革和完善党的领导方式和执政方式",
+   "en": "innovate and improve the leadership and governance methods of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0744",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革和完善党的领导方式和执政方式，是政治体制改革的首要任务，对于推进社会主义民主政治建设具有全局性作用。改革和完善党的领导方式和执政方式，首先要明确党的领导主要是政治、思想和组织领导，同时必须处理好党"
+  },
+  {
+   "cn": "习近平总书记关于加强和改进民族工作的重要思想",
+   "en": "General Secretary Xi Jinping’ s important thoughts on strengthening and improving ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0002",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "习近平新时代中国特色社会主义思想的重要组成部分，是做好新时代党的民族工作的根本遵循，主要内容包括：必须坚持党对民族工作的领导；坚持中华民族伟大复兴的历史方位，以铸牢中华民族共同体意识为主线，推动各民族"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

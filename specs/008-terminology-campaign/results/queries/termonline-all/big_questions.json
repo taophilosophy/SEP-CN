@@ -1,0 +1,802 @@
+{
+ "key": "big questions",
+ "term": "big questions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:03:09+00:00",
+ "status": "ok",
+ "note": "variant=big questions; 审定公布名词库=1122; 海峡两岸名词对照库=237; 其他来源数据库=250; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "十问",
+   "en": "ten questions",
+   "source": "中医药学名词",
+   "wordNumber": "04.259",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "古人所总结的问诊十项重点内容，即“一问寒热二问汗，三问头身四问便，五问饮食六问胸，七聋八渴俱当辨，九因脉色察阴阳，十从气味章神见”。"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者单刀直入地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者旁敲侧击地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在采访时有意使用一些刺激性语言迫使采访对象回应的一种提问手法。"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为获取最佳检索结果而进行的试验性操作。一般需对服务对象进行探索性提问，制订最初的检索方案，并根据反馈意见不断地修改，直至检索方案与服务对象的需求基本匹配或完全匹配。"
+  },
+  {
+   "cn": "咨询问题",
+   "en": "reference question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆用户在寻找专门信息或使用图书馆资源与服务时以现场、电话或互联网的方式提出的请求。"
+  },
+  {
+   "cn": "倾向型问题",
+   "en": "tendentious question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.079",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的表达了自己的倾向，给对方以暗示和诱导的问题。"
+  },
+  {
+   "cn": "复合型问题",
+   "en": "combined question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一句话中包括了两个或两个以上问题的问题。"
+  },
+  {
+   "cn": "试探型问题",
+   "en": "probing question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的对对方进行试探，以证实某种估测的问题。"
+  },
+  {
+   "cn": "克什米尔问题",
+   "en": "Kashmir Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0703",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "印巴分治后，印度和巴基斯坦之间因克什米尔归属问题而引起的争端。"
+  },
+  {
+   "cn": "魁北克问题",
+   "en": "Quebec Question",
+   "source": "世界历史名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大因为魁北克省的法裔居民要求该省独立而造成的民族矛盾问题。"
+  },
+  {
+   "cn": "东方问题",
+   "en": "Eastern Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0700",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "世界近代史上欧洲列强为争夺东边奥斯曼帝国所属领土和权益的一系列国际问题。"
+  },
+  {
+   "cn": "特指问句",
+   "en": "specific question",
+   "source": "语言学名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。用疑问代词或由疑问代词加其他词组成的短语对具体的人、物、时间、场所、方式、原因、工具等提出疑问，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。发问者希望对方做出具体的回答。例"
+  },
+  {
+   "cn": "选择问句",
+   "en": "alternative question",
+   "source": "语言学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。发问者提出两个或几个具体项目请对方选择，项目之间往往用“还是”连接，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。例如，“咱们今天去还是明天去？”“你寒假去广州还是深圳？”"
+  },
+  {
+   "cn": "素问",
+   "en": "Suwen,Plain Questions",
+   "source": "中医药学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "现存最早的中医理论著作，约成书于战国时期。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open ended question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者向采访对象提出的问题没有特别明确的框架，答案可能是多样的，采访对象可以自由发挥。"
+  },
+  {
+   "cn": "闭合式问题",
+   "en": "closed ended question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.067",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者向采访对象提出的问题有较为明确的框架，答案是有限定的，采访对象无法自由发挥。"
+  },
+  {
+   "cn": "问答系统",
+   "en": "question answering system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0692",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "能用准确的自然语言形式回答用户用自然语言提出问题的系统。"
+  },
+  {
+   "cn": "问题业务",
+   "en": "question mark business",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0255",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "公司内处于高增长、占据较低市场份额的业务。该类业务市场增长率不低于10%，公司该类业务在市场上的相对市场份额小于1。"
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大[型]科学",
+   "en": "big science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大爆炸宇宙论",
+   "en": "big bang cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "热大爆炸",
+   "en": "hot big bang",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大爆炸式生殖",
+   "en": "big-bang reproduction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大耀斑",
+   "en": "major flare\",\"big flare",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大五人格分类",
+   "en": "Big Five personality taxonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "北斗[七星]",
+   "en": "Big Dipper\",\"Northern Dipper\",\"Triones",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位交织奇偶性，比特交织奇偶性",
+   "en": "bit interleaved parity\",\"BIP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "8比特交错奇偶性",
+   "en": "bit interleaved parity 8\",\"BIP-8",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "酸性泥炭沼泽（=酸沼）",
+   "en": "bog",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酸沼，酸性泥炭沼泽",
+   "en": "bog",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位，比特",
+   "en": "bit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再一次",
+   "en": "bis",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "泥炭沼泽",
+   "en": "bog",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "比特",
+   "en": "bit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序缺陷",
+   "en": "bug",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[二进制]位，比特",
+   "en": "bit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据",
+   "en": "Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大力发球",
+   "en": "big serve\",\"cannonball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据论",
+   "en": "Big Data Theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据史",
+   "en": "Big Data History",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据管理局",
+   "en": "big data administration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大科学时代",
+   "en": "big science age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据技术",
+   "en": "Big Data Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据采集",
+   "en": "Big Data Acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据管理",
+   "en": "Big Data Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据处理",
+   "en": "Big Data Processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据分析",
+   "en": "Big Data Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大科学装置",
+   "en": "big science facility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据经济",
+   "en": "Big Data Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据陷阱",
+   "en": "big data trap",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景大数据",
+   "en": "Scenario Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行业大数据",
+   "en": "industry big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大数据",
+   "en": "urban big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "大资产阶级",
+   "en": "big bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0372",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "掌握垄断资本，操纵社会经济和政治统治权的垄断资产阶级。在殖民地半殖民地国家，指官僚资产阶级、买办资产阶级。是新民主主义革命的主要对象。"
+  },
+  {
+   "cn": "大拒绝",
+   "en": "big refusal",
+   "source": "马克思主义",
+   "wordNumber": "05.0032",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞认为现存发达工业社会的一切都不符合人类社会应然状况，不符合人的本性和需求，压抑人的自由，使人不能得到真正的幸福，因此必须进行社会革命。大拒绝战略就是把一切造反者联合起来与发达工业社会作对，与一"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "打破大锅饭",
+   "en": "break the big pot",
+   "source": "马克思主义",
+   "wordNumber": "03.0533",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国过去经济工作中存在的平均主义倾向提出的改革主张。改革开放初期的口号，也是国企改革第一个阶段中的主要任务。“打破大锅饭”主要内容是改变分配制度和用人制度，推行经济生产责任制，实行按劳付酬。"
+  },
+  {
+   "cn": "健康医疗大数据",
+   "en": "big data in healthcare ",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "在疾病防治、健康管理等过程中产生的与健康医疗相关的多方面数据。"
+  },
+  {
+   "cn": "食品安全大数据",
+   "en": "food safety big data",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.55",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "由若干个食品安全数据集合组成，食品安全数据集来源于不同业态的各种品类的食品或食用农产品生产过程或者质量管理过程中产生的数据或数组。"
+  },
+  {
+   "cn": "中华民族大家庭",
+   "en": "Big Family of the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0113",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "对中国社会主义民族关系的形象概括，即指中华民族和各民族的关系是一个大家庭和家庭成员的关系，各民族的关系是一个大家庭里不同成员的关系。"
+  },
+  {
+   "cn": "大食物观",
+   "en": "big food concept，all-encompassing approach to food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.24",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "食物安全内涵外延的深化和拓展。构建多元化食物供给体系，从耕地资源向整个国土资源拓展，从传统农作物和畜禽资源向更丰富的生物资源拓展，向耕地草原森林海洋、向植物动物微生物要热量、要蛋白，全方位多途径开发食"
+  },
+  {
+   "cn": "特殊条件下无产阶级和大资产阶级的联盟",
+   "en": "alliance of the proletariat and the big bourgeoisie under special conditions",
+   "source": "马克思主义",
+   "wordNumber": "03.0375",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家遭受帝国主义国家侵略，民族矛盾成为主要矛盾的条件下，无产阶级与大资产阶级组成的统一战线。在中国，指抗日战争时期中国共产党与亲英美的蒋介石等大资产阶级的第二次国共合作的联盟。"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "伯克",
+   "en": "Beg",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.02",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清代新疆维吾尔族聚居区沿用的职官名称，本意为首领、头目、官吏等。清朝统一天山南北后，以伯克主理民政事务，分三至七品，但废除世袭制。清光绪时改行省制，伯克制废止。"
+  },
+  {
+   "cn": "心咒（梵文Mantra）",
+   "en": "Sngags yig",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.051",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。指密宗咒文字母音节的特定组合，是某一本尊本质的象征和沟通，具有净化和达到了悟的功能，例如观音心咒（嗡嘛呢呗美吽）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

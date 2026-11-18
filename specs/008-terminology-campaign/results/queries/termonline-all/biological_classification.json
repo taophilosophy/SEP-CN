@@ -1,0 +1,712 @@
+{
+ "key": "biological classification",
+ "term": "biological classification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:48:01+00:00",
+ "status": "ok",
+ "note": "variant=biological classification; 审定公布名词库=1714; 海峡两岸名词对照库=537; 其他来源数据库=121; 预公布名词数据库=146; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "生物主义",
+   "en": "biologism",
+   "source": "心理学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "忽视或否定社会文化历史因素，主张用生物学原理来解释人类心理发生发展的理论观点。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "按照事物的种类、等级或性质分别归类的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1509",
+   "subjectFullName": "化工（八）_化工设备_分级设备",
+   "subjectName": "分级设备",
+   "publishYear": "2021",
+   "definition": "将颗粒物料按粒径或密度大小分成若干级别的操作。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.071",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "将粉末按粒度分成若干级别。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "动物学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "根据生物之间相同、相异的程度与亲缘关系的远近，使用不同等级特征，将其逐级划归为合适的类群或单元的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "冶金学名词",
+   "wordNumber": "03.0060",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "根据固体颗粒因粒度不同在介质中具有不同的沉降速度的原理，将颗粒群分成两种或多种粒度级别的过程。分级的目的与筛分相似，但主要用于处理细粒级物料。"
+  },
+  {
+   "cn": "分类法",
+   "en": "classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "将表示各种知识领域的类目按知识分类原理进行系统排列，并以代表类目的数字或字母符号作为文献主题标识的一类检索语言。可分为体系分类法和组配分类法两种。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "植物学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "分类单元的界定、排序和等级化，或由这个过程产生的相互关联类群系统的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1200",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "根据固体颗粒因粒度不同在介质中具有不同沉降速度的原理，将颗粒群分为两种或多种粒度级别的过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "核医学名词",
+   "wordNumber": "04.0207",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "按照种类、等级或性质等指标，将性质相同及不同的事物分别归入不同组别的方法和过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0243",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "包括学习和预测两个阶段。在学习阶段，分类器从有类别标记的数据中学到一个分类模型；在预测阶段，分类器根据学到的模型对没有类别标记的样本进行类别判断。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "微生物学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "根据微生物相互间的相似性或亲缘关系将其划归为合适的类群或单元的过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "昆虫学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "分类学的基本步骤，包括区分和鉴定分类单元，确定阶元等级和建立分类体系。"
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "船舶工程名词",
+   "wordNumber": "01.145",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "经船厂或船东申请，船舶接受船级社检验，取得船级的过程。"
+  },
+  {
+   "cn": "组配分类法",
+   "en": "synthetic classification,faceted classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "在分类表中分别列出不同范畴的单独概念，用组配方式来表达具体类目的文献分类法。因分面成分的多少不同，组配分类法可分为分面组配分类法、组配-体系分类法和体系-组配分类法三种类型。"
+  },
+  {
+   "cn": "专业分类表",
+   "en": "special classification,professional classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.176",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "以某一学科或专业的文献（一般包括相关学科或专业的文献）为适用范围的分类表。"
+  },
+  {
+   "cn": "文献分类",
+   "en": "literature classification,document classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.142",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "信息整序的一种方法。按照文献的内容特征对众多的文献予以划分，并进行系统组织。文献分类工作包括编类（编制文献分类表）及归类（即分类标引）两部分。"
+  },
+  {
+   "cn": "体系分类法",
+   "en": "hierachical classification,enumerative classification",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0395",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "以科学分类为基础，依据概念的划分与概括原理，把概括文献内容与事物的各种类目组成一个层层隶属、详细列举的等级结构体系的一种文献分类法。"
+  },
+  {
+   "cn": "生态分类",
+   "en": "ecological classification ",
+   "source": "草学名词",
+   "wordNumber": "2.0212",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "source": "地质学名词",
+   "wordNumber": "18.01.028",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "通过生物的新陈代谢作用，使污染的环境得到净化，提高环境对污染物的承载负荷，增加环境容量的作用。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密级",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生物膜",
+   "en": "biological film\",\"biological membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固持作用",
+   "en": "biological immobilization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物学种",
+   "en": "biological species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物演替",
+   "en": "biological succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物自由基",
+   "en": "biological radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物去污染",
+   "en": "biological depollution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物处理",
+   "en": "biological treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固体",
+   "en": "biological solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物过滤器",
+   "en": "biological filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification\",\"placing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类树",
+   "en": "classification tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊分类",
+   "en": "fuzzy classification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类别化",
+   "en": "classification",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.2",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一个对象和观念被识别、区分和理解的过程。通常是基于某种目的，根据某种特征对对象、观念进行归类，以达到理解和把握该对象或观念的目的。在文化研究中，指某文化客体能够完全、清晰地被包容在一个范畴中的情况。"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "利用致病性微生物（如细菌、病毒、真菌）或其代谢产物（如毒素）作为武器，通过故意释放、散布等方式，造成人群、动植物感染或死亡，从而达到军事、政治或恐怖主义目的的攻击行为。"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.3",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用生物产生的物质通过化学机制杀灭有害微生物的消毒处理。"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对特定灭菌处理有确定的抗力，并装在内层包装中可供使用的染菌载体。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "source": "消毒学",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "生物体及其所生活的生态系统的多种变化。包括不同物种的多样性（物种多样性），物种内部基因的多样性（基因多样性），生态系统内和生态系统间相互作用的多样性（生态系统多样性）。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "消毒学",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "战争中以病原微生物或生物因子为主要成分，用来伤害人、畜或毁坏农作物的特殊武器。由生物战剂装料和施放装置组成，一般包括战剂、弹体、施放装置、推进装置、定时装置和爆破装置等部件。"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "根据生物监测需要采集的、具有代表性的、作为检测样品的生物材料。"
+  },
+  {
+   "cn": "生物去污",
+   "en": "biological decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "用微生物进行去污的过程。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.10",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "用微生物(细菌、立克次体、病毒等)及其代谢产物有效抗原成分、动物毒素、人或动物的血液或组织等加工而成作为预防、治疗、诊断传染病或其他相关疾病的生物制品。医药行业通常指免疫生物制剂。"
+  },
+  {
+   "cn": "生物性污染",
+   "en": "biological pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中有害微生物、寄生虫、昆虫等生物引起的食品污染。"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.57",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过计算机与光学、声学、生物传感器和生物统计学原理等高科技手段密切结合，利用动物固有的生理特性（如指纹、脸像、虹膜等）和行为特征（如笔迹、声音、步态等）来进行食品身份鉴定的技术。"
+  },
+  {
+   "cn": "生物弹药",
+   "en": "biological ammunition",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "用来装载生物战剂的弹药，主要有爆炸型和喷撒型。"
+  },
+  {
+   "cn": "生物防治",
+   "en": "biological control",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.21",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "利用有益生物或其他生物及其产物来抑制或消灭另一种有害生物的一种控制方法"
+  },
+  {
+   "cn": "生物侦检法",
+   "en": "biological detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "通过观察染毒区内各种动物和植物的异常表现，或用可疑染毒样品使动物中毒，观察动物中毒后症状，作出是否染毒及毒剂类别的初步判断。"
+  },
+  {
+   "cn": "生物制造",
+   "en": "biological manufacturing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.18",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "以基因操作、合成生物学为基础，利用生物组织或生物体（酶、微生物细胞等）进行物质加工，生产相关产品的先进工业模式，涉及生物医药、新材料与新能源、现代农业与食品等多个产业集群，催生许多新产品，如替代蛋白。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "类型和数量非预防、保护或其他和平用途所正当需要的、任何来源或者任何方法产生的微生物剂、其他生物剂以及生物毒素；也包括为将上述生物剂、生物毒素使用于敌对目的或者武装冲突而设计的武器、设备或者运载工具。"
+  },
+  {
+   "cn": "生物膨松剂",
+   "en": "biological leavener",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.9.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品加工过程中加入的，能通过特定微生物的发酵反应产生气体，从而使食品形成致密多孔组织并具备膨松、柔软或酥脆等特性的物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

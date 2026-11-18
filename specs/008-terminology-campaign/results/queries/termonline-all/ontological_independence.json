@@ -1,0 +1,642 @@
+{
+ "key": "ontological independence",
+ "term": "ontological independence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:49:52+00:00",
+ "status": "ok",
+ "note": "variant=ontological independence; 审定公布名词库=384; 海峡两岸名词对照库=132; 其他来源数据库=10; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "本体论节俭",
+   "en": "ontological parsimony",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个评价与取舍候选理论的原则。如果T1在本体论上比T2更节俭，即做出更少的本体论承诺，则在其他情况一样的条件下，优先选择T1。是奥卡姆剃刀原则的强化版本。"
+  },
+  {
+   "cn": "本体论中性",
+   "en": "ontological neutrality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.590",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一个命题或判断不依赖于其本体论预设。"
+  },
+  {
+   "cn": "本体论自然主义",
+   "en": "ontological naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.591",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "认为自然的特性、自然事件和自然个体是唯一存在的特性、事件和个体，即那些可以被自然科学研究的对象才是唯一存在的。"
+  },
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "工程本体论",
+   "en": "engineering ontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程本根或本体的认识和研究。强调工程相对于科学和技术的独立地位与基础地位，强调工程是直接生产力，是人类生存与发展的根本基础。"
+  },
+  {
+   "cn": "媒介本体论",
+   "en": "media ontology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "探讨媒介存在方式的学说。该学说反对形式-内容二元论，强调媒介物所扮演的基础性角色，认为媒介物以各种方式聚合起来，组织和安排了人与外部世界之间的关系，构成了人的生存境况。"
+  },
+  {
+   "cn": "地理本体",
+   "en": "geo-ontology",
+   "source": "测绘学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理信息科学领域共享概念的明确的形式化规范。"
+  },
+  {
+   "cn": "领域本体",
+   "en": "domain ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述特定领域知识的一种专门本体。是揭示领域实体概念及相互关系、领域活动以及该领域所具有的特性和规律的一种形式化描述。可以明确专业术语、关系及其领域公理，使其形式化，并可实现共享，达到一定程度的领域"
+  },
+  {
+   "cn": "应用本体",
+   "en": "application ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "特定领域和任务的概念以及概念之间的关系。"
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立性检验",
+   "en": "independence test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部独立性",
+   "en": "local independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "场独立性",
+   "en": "field independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领域无关",
+   "en": "field independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件独立性",
+   "en": "event independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据独立性",
+   "en": "data independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计独立",
+   "en": "statistical independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性独立",
+   "en": "linear independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "主动发育",
+   "en": "independent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "独立分配（=自由组合）",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合，独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立样本",
+   "en": "independent sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "独立反应",
+   "en": "independent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立自我",
+   "en": "independent self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立产额",
+   "en": "independent yield",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independent",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "自然本体论态度",
+   "en": "natural ontological attitude",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由A. 法因（A. Fine）提出。认为科学无须依赖实在论和非实在论所给出的形而上学和认识论基础，尽量追随科学家的立场，无须给出额外的哲学解释。"
+  },
+  {
+   "cn": "尚未存在本体论",
+   "en": "ontology of notyetbeing",
+   "source": "马克思主义",
+   "wordNumber": "05.0020",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）提出的本体论理论。布洛赫通过批判二元思维的机械性、静止性与“无人”的自然科学，指出给定存在论的危害在于抹杀了人作为精神性主体对自身、对世界的存在意义；"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "半独立报酬系统",
+   "en": "semi-independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.18",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中，创造性的生产者分配符号性报酬，而消费者分配物质性报酬。"
+  },
+  {
+   "cn": "统一性和独立性相结合",
+   "en": "combination of unity and independence",
+   "source": "马克思主义",
+   "wordNumber": "02.0379",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的统一性和独立性是对立的统一的思想。要有统一性，也要有独立性。各个生产单位都要有一个与统一性相联系的独立性，才会发展的更加活泼。"
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "独立自主的山地游击战",
+   "en": "independent guerrilla struggle in the mountains",
+   "source": "马克思主义",
+   "wordNumber": "03.0428",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中提出的人民军队在抗日战争时期的基本战略方针。在整个抗日战争中，人民军队在敌后开展的独立自主的山地游击战，既是对正规战争的配合，又由于在敌后建立抗日根"
+  },
+  {
+   "cn": "工农武装割据",
+   "en": "armed independent regime of workers and peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0355",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为主要代表的中国共产党人建立红色政权的实践和思想。它的基本内容是在中国共产党的领导下, 以农民武装斗争为主要形式,以土地革命为主要内容,以农村革命根据地为主要阵地，三者密切结合，进行反对帝国主"
+  },
+  {
+   "cn": "子宫颈细胞学检查",
+   "en": "cervical cytological test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本、样本制片和阅片，并对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

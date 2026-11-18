@@ -1,0 +1,642 @@
+{
+ "key": "bayesian rationality",
+ "term": "Bayesian rationality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:45:48+00:00",
+ "status": "ok",
+ "note": "variant=Bayesian rationality; 审定公布名词库=222; 海峡两岸名词对照库=52; 其他来源数据库=9; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "贝叶斯主义",
+   "en": "Bayesianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.098",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "将概率看作信念程度，通过贝叶斯定理来研究证据是否提高了科学家对假说的相信程度。"
+  },
+  {
+   "cn": "贝叶斯算法",
+   "en": "Bayesian algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.202",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "通过计算最大后验概率来预测待分类数据类别的计算方法。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.235",
+   "subjectFullName": "自然辩证法_科学技术方法论_系统与发明",
+   "subjectName": "系统与发明",
+   "publishYear": "2024",
+   "definition": "以英国学者贝叶斯建立的条件概率定理为基础，发展出的一种统计推断方法。将关于未知参数的先验信息与样本信息综合，再根据贝叶斯公式，得出后验信息，然后根据后验信息去推断未知参数的方法。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2311",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "接受概率不仅是经验性直方图的极限，而且是主观性信息表示的一种解释方法。 "
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "动物学名词",
+   "wordNumber": "2.0201",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "基于贝叶斯法则来推算系统发生树后验概率的一种系统发生分析方法。"
+  },
+  {
+   "cn": "贝叶斯分类",
+   "en": "Bayesian classification",
+   "source": "测绘学名词",
+   "wordNumber": "03.600",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "依据贝叶斯准则(两组间最大分离原则)建立的判别函数集进行的图像分类。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "畜牧学名词",
+   "wordNumber": "04.681",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "基于贝叶斯定理的统计分析方法。"
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "植物学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "基于贝叶斯法则来推算系统发育树后验概率的一种系统发育分析方法。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "生物物理学名词",
+   "wordNumber": "02.395",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "一种基于概率统计模型的图像分析方法。在三维重构模型的修正计算过程中，计算在先验模型和实验图像数据的基础上出现各种三维模型的概率，通过对该概率求优获得三维模型的修正。该方法对每一个原始投影图像并不赋予单"
+  },
+  {
+   "cn": "贝叶斯网络",
+   "en": "Bayesian network",
+   "source": "生物物理学名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "一种概率图模型。借由有向非循环图来拟合一组随机变量之间的因果关系，可用来表示大脑神经元或脑区之间的有向作用关系。"
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "生物物理学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "英国科学家贝叶斯(T. Bayes)提出的一种归纳推理统计推断方法。当存在不确定性时应如何进行推理，用概率语言描述不确定性，根据已有的证据去推断事件发生的概率可以实现用先验的知识去计算后验的概率。"
+  },
+  {
+   "cn": "贝叶斯估计",
+   "en": "Bayesian estimation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0260",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "结合关于待估计参数的先验知识和数据的似然函数来估算参数的贝叶斯方法。"
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0258",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "基于贝叶斯公式，通过计算最大后验概率的方法来预测待分类数据类别的分类方法。"
+  },
+  {
+   "cn": "贝叶斯网络",
+   "en": "Bayesian network",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0262",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "一种用有向无环图描述随机变量及其条件依赖关系的概率图模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "地理学名词",
+   "wordNumber": "25.088",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "基于对贝叶斯准则的统计推断。"
+  },
+  {
+   "cn": "贝叶斯学习",
+   "en": "Bayesian learning",
+   "source": "自动化名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "心理学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与经验主义相对。强调主体先天固有的能动性，夸大理智、智慧和意志的主导作用。"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0356",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "理性主义思想在不同时期的建筑思潮中广泛存在，但狭义的理性主义指20世纪20年代兴起于意大利的一种现代建筑思潮。试图综合理性几何学和结构逻辑学，注重建筑目的、建造过程与建筑使用的逻辑性。代表作品有特拉尼"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "语言学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“经验主义”相对。一种哲学方法。认为人的推理可以作为知识来源的理论基础。一般认为随着笛卡尔的理论而产生，17—18世纪期间主要在欧洲大陆传播。"
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类",
+   "en": "Bayesian classification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayesian theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯逻辑",
+   "en": "Bayesian logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯决策方法",
+   "en": "Bayesian decision method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯决策规则",
+   "en": "Bayesian decision rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理网络",
+   "en": "Bayesian inference network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有理函数",
+   "en": "rational function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有理数",
+   "en": "rational number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "贝叶斯层次模型",
+   "en": "Bayesian hierarchical model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.91",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种使用贝叶斯方法估计后验分布参数的多层次统计模型。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.7",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体虽然主观上希望做出理性选择，但是因为其认知限制而无法做出使自己效用最大化的理性选择。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会以理性原则建立的资本主义贸易、生产和金融模式。存在的前提条件包括市场的交易自由、发达的货币经济、劳动力的商品化、诸如簿记制度等理性技术的运用，经营组织与家产分离或产权的明晰化、法律保障、经济生"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "理性选择",
+   "en": "rational choice",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "理性人目标最优化或效用最大化，即理性人趋向于采取最优策略，以最小成本获得最大收益。"
+  },
+  {
+   "cn": "合理膳食",
+   "en": "rational diet",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过合理的膳食组成和科学的烹调加工，使从膳食中摄入的能量和各种营养素与机体需要保持平衡，既能满足人体生长发育、生理及身体活动的需要，又不存在营养相关健康问题的膳食。"
+  },
+  {
+   "cn": "救生食品",
+   "en": "survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "军人遇险待救时用于维持生存的专用食品，要求能量高、体积小、重量轻、携带方便、储存期长和食用方便等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

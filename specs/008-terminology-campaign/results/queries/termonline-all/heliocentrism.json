@@ -1,0 +1,282 @@
+{
+ "key": "heliocentrism",
+ "term": "heliocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:56:24+00:00",
+ "status": "ok",
+ "note": "variant=heliocentrism; 审定公布名词库=11; 海峡两岸名词对照库=16; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "日心角",
+   "en": "heliocentric angle",
+   "source": "天文学名词",
+   "wordNumber": "09.039",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "太阳表面某点至太阳中心连线与观测者至太阳中心连线的交角。"
+  },
+  {
+   "cn": "日心距离",
+   "en": "heliocentric distance",
+   "source": "天文学名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "太阳视圆面上一点与日面中心的距离。常以太阳半径为单位。"
+  },
+  {
+   "cn": "日心坐标",
+   "en": "heliocentric coordinate",
+   "source": "天文学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "以日心为原点或天球中心的天体坐标。"
+  },
+  {
+   "cn": "日心纬度",
+   "en": "heliocentric latitude",
+   "source": "天文学名词",
+   "wordNumber": "02.323",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "日心坐标系中的纬度。"
+  },
+  {
+   "cn": "日心经度",
+   "en": "heliocentric longitude",
+   "source": "天文学名词",
+   "wordNumber": "02.324",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "日心坐标系中的经度。"
+  },
+  {
+   "cn": "日心说",
+   "en": "heliocentric theory",
+   "source": "天文学名词",
+   "wordNumber": "05.181",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "古希腊部分哲学家和天文学家如阿里斯塔克等持有的宇宙学说，到16世纪哥白尼发展了日心说并做出系统的理论证明，认为太阳是宇宙中心，而不是地球。"
+  },
+  {
+   "cn": "日心体系",
+   "en": "heliocentric system",
+   "source": "天文学名词",
+   "wordNumber": "05.182",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "古希腊天文学家阿里斯塔克于公元前3世纪提出，认为太阳是宇宙中心的宇宙体系。到16世纪，哥白尼发展了日心说，并做出系统的理论证明。"
+  },
+  {
+   "cn": "日心[宇宙]体系",
+   "en": "heliocentric system",
+   "source": "物理学名词",
+   "wordNumber": "11.0181",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "日心视差",
+   "en": "heliocentric parallax",
+   "source": "物理学名词",
+   "wordNumber": "11.0180",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "日面坐标网",
+   "en": "heliocentric coordinate network",
+   "source": "天文学名词",
+   "wordNumber": "09.035",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "对应于不同时刻的太阳球面坐标网在日面上的投影图。"
+  },
+  {
+   "cn": "日心引力常数",
+   "en": "heliocentric gravitational constant",
+   "source": "天文学名词",
+   "wordNumber": "02.238",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天文常数之一。是引力常数与太阳质量的乘积。"
+  },
+  {
+   "cn": "日心改正",
+   "en": "heliocentric correction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心角",
+   "en": "heliocentric angle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心经度",
+   "en": "heliocentric longitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心距[离]",
+   "en": "heliocentric distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心历表",
+   "en": "heliocentric ephemeris",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心视差",
+   "en": "heliocentric parallax",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心说",
+   "en": "heliocentric theory",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心体系",
+   "en": "heliocentric system",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心天象",
+   "en": "heliocentric phenomena",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心纬度",
+   "en": "heliocentric latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心位置",
+   "en": "heliocentric position",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心坐标",
+   "en": "heliocentric coordinate",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日面坐标网",
+   "en": "heliocentric coordinate network",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心视向速度",
+   "en": "heliocentric radial velocity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心引力常数",
+   "en": "heliocentric gravitational constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心儒略日",
+   "en": "heliocentric Julian date\",\"HJD",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

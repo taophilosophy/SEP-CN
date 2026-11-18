@@ -1,0 +1,292 @@
+{
+ "key": "leibniz congruence",
+ "term": "Leibniz congruence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:52:23+00:00",
+ "status": "ok",
+ "note": "variant=Leibniz congruence; 审定公布名词库=48; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "莱布尼茨公式",
+   "en": "Leibniz formula",
+   "source": "数学名词",
+   "wordNumber": "05.0088",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿-莱布尼茨公式",
+   "en": "Newton-Leibniz formula",
+   "source": "数学名词",
+   "wordNumber": "05.0155",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余式",
+   "en": "congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余方程",
+   "en": "congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0153",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0951",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在特定代数结构的所有运算下都保持的等价关系。"
+  },
+  {
+   "cn": "乘性同余",
+   "en": "multiplicative congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0262",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "source": "数学名词",
+   "wordNumber": "03.0255",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余子群",
+   "en": "congruence subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.0319",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因子同余",
+   "en": "factor congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一次同余方程",
+   "en": "linear congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0164",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二次同余方程",
+   "en": "quadratic congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0166",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "线汇",
+   "en": "line congruence",
+   "source": "数学名词",
+   "wordNumber": "08.0390",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余格",
+   "en": "congruence lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0251",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主同余",
+   "en": "principal congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0347",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主同余子群",
+   "en": "principal congruence subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.0320",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余分配代数",
+   "en": "congruence-distributive algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0348",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余可换代数",
+   "en": "congruence-permutable algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0350",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全不变同余",
+   "en": "fully invariant congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0359",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全等公理",
+   "en": "axiom of congruence",
+   "source": "数学名词",
+   "wordNumber": "08.0007",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余模代数",
+   "en": "congruence-modular algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，共识性",
+   "en": "consensus\",\"congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合流",
+   "en": "confluence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "汇集学习",
+   "en": "confluence learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相容效度",
+   "en": "congruent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "窦汇",
+   "en": "confluence of sinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "相合熔点",
+   "en": "congruent melting point",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不相合熔点",
+   "en": "non-congruent melting point",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

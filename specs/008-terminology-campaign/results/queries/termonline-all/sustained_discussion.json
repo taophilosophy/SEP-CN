@@ -1,0 +1,622 @@
+{
+ "key": "sustained discussion",
+ "term": "sustained discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:44:22+00:00",
+ "status": "ok",
+ "note": "variant=sustained discussion; 审定公布名词库=149; 海峡两岸名词对照库=27; 其他来源数据库=7; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "可持续性",
+   "en": "sustainability",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.148",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "（1）广义上指能够长久保持一定的过程或状态。（2）狭义上指人类生活的质量得以长久地维持。可持续性包括经济、社会和生态等几个不可分割的部分。"
+  },
+  {
+   "cn": "可持续性",
+   "en": "sustainability",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）在不危及子孙后代发展需要的情况下，满足当代发展需求的能力和趋势。（2）系统和过程持久有效运行的能力。"
+  },
+  {
+   "cn": "维持",
+   "en": "sustaining",
+   "source": "电子学名词",
+   "wordNumber": "11.074",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "持续多汁性",
+   "en": "sustained juiciness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "咀嚼过程中持续释放肉汁的多少的特性。"
+  },
+  {
+   "cn": "持续波",
+   "en": "sustained wave",
+   "source": "物理学名词",
+   "wordNumber": "04.0845",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "持续性能",
+   "en": "sustained performance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0207",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "计算机系统运行某一基准程序时所获得的实测性能值。"
+  },
+  {
+   "cn": "连续注意",
+   "en": "sustained attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.183",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "连续一段时间注意某项活动或刺激的能力。与警觉有关，取决于紧张性觉醒的维持水平。"
+  },
+  {
+   "cn": "持续性动词",
+   "en": "sustained verb",
+   "source": "语言学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示持续性动作行为的动词。后面可以加“着”。例如“敲”“等”“挖”“研究”。"
+  },
+  {
+   "cn": "续航发动机",
+   "en": "sustained motor",
+   "source": "航天科学技术名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "航天科学技术_航天推进",
+   "subjectName": "航天推进",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "持续性加速度",
+   "en": "sustained acceleration",
+   "source": "航天科学技术名词",
+   "wordNumber": "11.252",
+   "subjectFullName": "航天科学技术_航天医学与载人航天",
+   "subjectName": "航天医学与载人航天",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自持振荡",
+   "en": "sustained oscillation",
+   "source": "自动化名词",
+   "wordNumber": "01.156",
+   "subjectFullName": "自动化科学技术_自动化技术通类",
+   "subjectName": "自动化技术通类",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "主发动机",
+   "en": "sustainer motor",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.160",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "在助推火箭发动机助推器工作期间或工作结束后，用来增加或保持导弹(火箭)飞行速度的火箭发动机。"
+  },
+  {
+   "cn": "持水度",
+   "en": "sustain capacity",
+   "source": "地质学名词",
+   "wordNumber": "08.190",
+   "subjectFullName": "地质学_水文地质学",
+   "subjectName": "水文地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可持续性技术",
+   "en": "sustainable technology",
+   "source": "风景园林名词",
+   "wordNumber": "06.0021",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "以环境友好、清洁、节俭为目标，基于可持续发展策略的制造技术。"
+  },
+  {
+   "cn": "循环农业",
+   "en": "sustainable agriculture",
+   "source": "风景园林名词",
+   "wordNumber": "05.0266",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "在农作系统中推进各种农业资源往复多层与高效流动的活动，以此实现节能减排与增收的目的，促进现代农业和农村的可持续发展。"
+  },
+  {
+   "cn": "可持续管理",
+   "en": "sustainable management",
+   "source": "风景园林名词",
+   "wordNumber": "12.0213",
+   "subjectFullName": "风景园林_风景园林生态_可持续生态学",
+   "subjectName": "可持续生态学",
+   "publishYear": "2025",
+   "definition": "对资源管理方式不仅满足短期利益，更重要着眼于长远利益的管理。"
+  },
+  {
+   "cn": "永续利用",
+   "en": "sustainable use",
+   "source": "风景园林名词",
+   "wordNumber": "04.0355",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "通过对风景名胜区科学规划、统一管理以及严格保护等手段，以实现风景名胜资源得以持续地被人类利用，既要满足当代人的利用需要，又不对后代人满足其需要的能力构成危害。"
+  },
+  {
+   "cn": "可持续农业",
+   "en": "sustainable agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "通过合理使用、管理和保护自然资源，调整农作制度和技术，持续满足人类对农产品需求的农业生产方式。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.025",
+   "subjectFullName": "自然辩证法_总论_自然界的辩证法",
+   "subjectName": "自然界的辩证法",
+   "publishYear": "2024",
+   "definition": "人与自然环境持续协调发展的一种自然观。提倡既满足当代及后代人的基本需要又不危害自然环境的发展方式。"
+  },
+  {
+   "cn": "可持续农业",
+   "en": "sustainable agriculture",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.274",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "合理利用和维护自然资源，保护和改善生态环境，确保达到并持续满足当代人和今后世世代代人们对农产品的需求，技术上适当可行、经济上有活力、能被社会广泛接受的农业。"
+  },
+  {
+   "cn": "维持",
+   "en": "sustaining",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自持振荡",
+   "en": "sustained oscillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自持续",
+   "en": "self sustaining",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "持续渔获量",
+   "en": "sustainable yield",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可持续管理",
+   "en": "sustainable management",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可持续利用",
+   "en": "sustainable use",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可持续管理",
+   "en": "sustainable management",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可持续利用",
+   "en": "sustainable use",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可持续旅游",
+   "en": "sustainable tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自持续反应",
+   "en": "self-sustained reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最大持续产量",
+   "en": "maximum sustained yield",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "缓释制剂",
+   "en": "sustained release preparation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自给系统",
+   "en": "self-sustaining system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可持续农业,永续农业",
+   "en": "sustainable agriculture\",\"permaculture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中踏板",
+   "en": "sostenuto pedal\",\"sustaining pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择延音踏板",
+   "en": "sostenuto pedal\",\"sustaining pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "永续发展",
+   "en": "sustainable development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "strategy for sustainable development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济行稳致远",
+   "en": "maintain sustainable economic growth",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "制民之产",
+   "en": "Sustaining the People's Livelihood",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《可持续发展数据全球行动计划》",
+   "en": "Global Action Plan for Sustainable Development Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可持续性",
+   "en": "sustainability",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.3",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一个广泛的争论平台，而不是一个特定的概念，它所争论的基本问题包括以下几种关系：人类和自然、这一代和未来几代人、富人和穷人，技术进步和社会进步，全球政治和地区政治。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainability",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.1.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在满足当代人需求的同时保障后代发展，强调经济、社会与环境协调，是卫生体系长期健康运行的基础原则。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.13",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "既满足当代人的需求，又不损害后代人满足其需求的能力的发展方式。是一种注重长远发展的经济增长模式，最初于1972年6月5日联合国在斯德哥尔摩召开的“人类环境会议”中提出。"
+  },
+  {
+   "cn": "可持续生计",
+   "en": "sustainable livelihood",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.85",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "个人或家庭为改善长远的生活状况所拥有和获得的谋生的能力、资产和有收入的活动。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "马克思主义",
+   "wordNumber": "03.0682",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在对待资源、环境、人口的开发和利用方面，既满足当代人的需求，又不对后代人满足其需求的能力构成危害的发展，是科学发展观的基本要求之一。"
+  },
+  {
+   "cn": "食物可持续性",
+   "en": "food sustainability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.7",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "能够确保当代和后代所有人的食物安全和营养，促进公平贸易，对自然具有积极影响，并在社会、经济、环境层面具有韧性的食物供给能力或体系。具有系统性、动态性、多样性、科学性和协同性五方面核心特征。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "建立在社会、经济、人口、资源、环境相互协调和共同发展的基础上的一种发展，其宗旨是既能相对满足当代人的需求，又不能对后代人的发展构成危害。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "持续抗菌作用",
+   "en": "sustained antibacterial action",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.26",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "具有长时间杀灭细菌或妨碍细菌生长繁殖及其活性的作用。"
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "sustainable development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0632",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "可持续发展是20世纪80年代提出的一种新发展观，指实现可持续发展的行动计划和纲领，是国家在多个领域实现可持续发展的总称。其核心思想是：经济发展、保护资源和保护生态环境协调一致。它包含两个基本要素即“需"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "卫生筹资可持续性",
+   "en": "sustainability of health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生体系能够使其用户和资金持有者有足够的资源用于继续进行某项有长期受益的活动的一种目标。"
+  },
+  {
+   "cn": "可持续发展目标",
+   "en": "sustainable development goals, SDGs",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.5",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "联合国于2015 年通过的全球发展框架，旨在到2030年实现消除贫困、保护地球、确保全人类和平与繁荣的17 个目标及169 项具体指标。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

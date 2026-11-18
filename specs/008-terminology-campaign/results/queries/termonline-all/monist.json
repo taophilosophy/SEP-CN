@@ -1,0 +1,562 @@
+{
+ "key": "monist",
+ "term": "Monist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:03:50+00:00",
+ "status": "ok",
+ "note": "variant=Monist; 审定公布名词库=270; 海峡两岸名词对照库=85; 其他来源数据库=14; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "发烊",
+   "en": "moist",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1236",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "糖体无保护地暴露在湿度较高的空气中，由于其自身的吸水作用，糖体表面逐渐发黏和混浊，严重时糖体变形，甚至从原来的过饱和状态变为不饱和状态的一种现象。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0226",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "能使另一物质活化而引起化学反应的物质。如与酶结合而增加酶活性的物质。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "麻醉学名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "与受体有亲和力又有内在活性的药物。能与受体结合并激动受体而产生效应。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "兽医学名词",
+   "wordNumber": "17.201",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "与受体有选择性亲和力，结合后产生诱导药理效应的内在活性药物。"
+  },
+  {
+   "cn": "珠突",
+   "en": "monila",
+   "source": "动物学名词",
+   "wordNumber": "5.2742",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "狭唇类苔藓动物中个虫虫室壁的间歇性加厚。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "生理学名词",
+   "wordNumber": "02.161",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原动肌",
+   "en": "agonist",
+   "source": "运动医学名词",
+   "wordNumber": "01.403",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "直接参与完成动作的肌群。其中起主要作用的肌肉称为主动肌，起次要作用的称为副动肌。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "与受体有亲和力又有内在活性的药物。能与受体结合并激动受体而产生效应。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "生物物理学名词",
+   "wordNumber": "04.083",
+   "subjectFullName": "生物物理学_神经生物物理学_神经递质与调质",
+   "subjectName": "神经递质与调质",
+   "publishYear": "2018",
+   "definition": "能与细胞上受体或信号转导途径的分子相结合，并产生生理效应的化学物质。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "核医学名词",
+   "wordNumber": "02.0363",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "具有与体内特定靶分子结合的较强亲和力，但减弱或阻止其活性或信号转导途径，使其功能活跃，从而表现出相应的生理效应或药理作用的药物、酶、化学品或激素类物质。"
+  },
+  {
+   "cn": "原动肌",
+   "en": "agonist",
+   "source": "老年医学名词",
+   "wordNumber": "07.045",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "完成运动的发动和维持的肌肉。其中起主要作用的肌肉又称主动肌。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "老年医学名词",
+   "wordNumber": "05.052",
+   "subjectFullName": "老年医学_老年人合理用药",
+   "subjectName": "老年人合理用药",
+   "publishYear": "2017",
+   "definition": "与受体有亲和力又有内在活性的药物。它们能与受体结合并激动受体而产生效应。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "化学名词",
+   "wordNumber": "02.1321",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "可与天然物质的受体细胞结合而产生生物效应的化合物。"
+  },
+  {
+   "cn": "墨家",
+   "en": "Mohism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0247",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "先秦时期的一个思想派别，以墨翟为代表，主张“兼相爱”、“交相利”、“非攻”、“尚贤”、“明鬼”、“天志”等，倡导社会平等，战国以后衰落，后代的侠客源于墨家。"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "心理学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "能增强另一分子活性、促进某种反应的药物、酶制剂或激素类的物质。"
+  },
+  {
+   "cn": "原动肌",
+   "en": "agonist",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "发起和完成特定动作的主要动作肌肉。"
+  },
+  {
+   "cn": "激动药",
+   "en": "agonist",
+   "source": "药学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "既有亲和力又有内在活性的药物。"
+  },
+  {
+   "cn": "楞木",
+   "en": "joist",
+   "source": "风景园林名词",
+   "wordNumber": "07.0169",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "承重的木构，用以承托楼板。"
+  },
+  {
+   "cn": "起重葫芦",
+   "en": "hoist",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0529",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_轻型起重设备",
+   "subjectName": "轻型起重设备",
+   "publishYear": "2013",
+   "definition": "由汇装在公共吊架上的驱动装置、传动装置、制动装置以及挠性件卷放，或夹持装置带动取物装置升降的轻小起重设备。"
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "激动药，激动剂",
+   "en": "agonist",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "起重机",
+   "en": "hoist",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "雾",
+   "en": "mist",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "山",
+   "en": "mons",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "霭",
+   "en": "mist",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[美国]国家标准及技术协会",
+   "en": "National Institute of Standards and Technology\",\"NIST",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "湿对流",
+   "en": "moist convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿绝热线",
+   "en": "moist adiabat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿模式",
+   "en": "moist model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿润气候",
+   "en": "moist climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿舌",
+   "en": "moist tongue",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿物料",
+   "en": "moist materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿草甸",
+   "en": "moist meadow",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿森林",
+   "en": "moist forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿制颗粒",
+   "en": "moist granulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单辐骨针",
+   "en": "monactine\",\"monact",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "升起",
+   "en": "hoist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小康",
+   "en": "Modest Prosperity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和为贵",
+   "en": "Harmony  Is Most Precious.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据公共工作组",
+   "en": "NIST Big Data Public Working Group (NBD-PWG)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新时代最可爱的人",
+   "en": "the most admirable people in the new era",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "采取最全面、最严格、最彻底的防控举措",
+   "en": "to take the most comprehensive, rigorous and thorough measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人深者求贤急",
+   "en": "Those Who Most Love the People Will Eagerly Seek Talent.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医务工作者是光明的使者、希望的使者，是最美的天使，是真正的英雄。",
+   "en": "Medical workers are symbols of brightness and hope, the most beautiful angels and real heroes.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保基本、兜底线、建机制",
+   "en": "build up a basic safety net, ensure there is a cushion in place for those most in need, and make due institutional arrangements",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "孟人",
+   "en": "Mons",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0102",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "缅甸民族之一。人口约为113.78 万（2016 年）。主要分布在缅甸东部的三角洲地带和泰国的中西部地区。属蒙古人种南亚类型。操孟语，属南亚语系孟高棉语族，有文字。孟人多信小乘佛教，也有一部分人信基督"
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "湿啰音",
+   "en": "moist rale",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "吸气时气体通过呼吸道内稀薄分泌物，如渗出液、血液和脓液等形成水泡并破裂所产生的声音；或由于小支气管壁因分泌物黏着而陷闭，吸气时突然张开重新充气所产生的爆裂音。也类似水煮沸时的冒泡音。"
+  },
+  {
+   "cn": "湿热消毒",
+   "en": "moist heat disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用湿热使病原微生物蛋白质变性或凝固、酶失活、代谢障碍，进而死亡的消毒处理，包括煮沸消毒、巴氏消毒和蒸汽消毒。"
+  },
+  {
+   "cn": "硫酸雾",
+   "en": "sulfuric acid mist",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.1.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "大气中的二氧化硫被氧化成三氧化硫后溶于水汽中，或者先溶于水汽生成亚硫酸后再被氧化，形成的雾。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

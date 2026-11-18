@@ -1,0 +1,792 @@
+{
+ "key": "observation categoricals",
+ "term": "observation categoricals",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:56+00:00",
+ "status": "ok",
+ "note": "variant=observation categoricals; 审定公布名词库=734; 海峡两岸名词对照库=312; 其他来源数据库=29; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "source": "语言学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "主客观相互作用对事物进行分类的过程，其结果就是认知范畴。范畴化是人类对世界万物进行分类的一种高级认知活动。"
+  },
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "source": "数学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.330",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "表型可清晰地分为若干类型的性状。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0328",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由买方的各种职能部门(工程、生产、质量等)提供意见，并将其综合分类，来选择和评价供应商的一种方法。"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "心理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象表面特征将其归入特定类别的知觉。"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "通过确定每个观察单位的某项特征的性质或类别得到的数据。其变量值是定性的，表现为互不相容的类别或属性，没有度量衡单 位。"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "source": "语言学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "说话人意识不到但又不会违反的规则。例如汉语普通话的“上声＋上声”读为“阳平＋上声”的规则。"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "指同义词之间共有的那部分意义。例如，“优异”“优秀”“优良”中“好”义为范畴义。"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "source": "数学名词",
+   "wordNumber": "02.0318",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0726",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "按照功能在满足使用者需求方面的不同属性、重要程度、以及功能之间的相互关系等原则，对全部功能所进行的类别划分。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过感官（包括使用仪器获得的信息）收集经验证据的过程。"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0105",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "细察事物的现象、动向，是一种有目的、有计划、比较持久的活动。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0106",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "留验",
+   "en": "observation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0344",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "事物或现象能被人的感官（通过仪器）直接经验或知觉到的可能性。"
+  },
+  {
+   "cn": "观察者",
+   "en": "observer",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.052",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "观察活动的主体。即进行科学观察的人，决定观察仪器的使用和观察对象的选择。"
+  },
+  {
+   "cn": "可观测量",
+   "en": "observable",
+   "source": "物理学名词",
+   "wordNumber": "06.0543",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观测员",
+   "en": "observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "观测仪",
+   "en": "observer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "观测器",
+   "en": "observer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音类别知觉",
+   "en": "categorical speech perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观",
+   "en": "Observation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观象",
+   "en": "Observing Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合地球观测系统",
+   "en": "integrated earth observation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两周观察期",
+   "en": "two-week observation period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地球观测组织",
+   "en": "Group on Earth Observations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天—空—地多尺度观测技术",
+   "en": "space-air-ground multiscale observation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解除医学观察",
+   "en": "to be discharged from medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自觉接受医学观察",
+   "en": "to present yourself to medical observation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球综合对地观测系统",
+   "en": "Global Earth Observation System of Systems (GEOSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以物观物",
+   "en": "Observe Things Based on Their Own Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一以贯之",
+   "en": "Observe a Fundamental Principle Throughout One’s Pursuit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见微知著",
+   "en": "Learning About What Is Forthcoming by Observing Tiny Clues",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "默哀三分钟",
+   "en": "to observe three minutes of silence to mourn the deceased",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有法可依，有法必依，执法必严，违法必究",
+   "en": "ensure that laws are put in place, observed, and strictly enforced and that anyone who violates the law is held to account",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在社会情景中，人们根据不同的情况，把处于该情景中的个人归于不同的社会类别中的过程。例如区分男性/女性、年轻人/老年人、中国人/外国人等。"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在各种社会情景下，个人会主动把自己归于不同的类别/群体当中，接受相应的规范并采取相应的行为的现象和过程，是与社会类别化相对应的一个社会认知过程。一般认为这一过程是群体行为形成的基本条件。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.108",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以定类或定序变量作为因变量的统计分析。"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《放射源分类办法》（国家环境保护总局公告 2005年第62号）和国际原子能机构《放射性物质的危险量》（EPR-D-values 2006），根据放射源对人体健康和环境的潜在危害程度进行分类，分为："
+  },
+  {
+   "cn": "实验室观察",
+   "en": "laboratory observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在实验室中对研究对象、观察情景与条件进行严密控制的情况下进行的观察。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "生理学法",
+   "en": "physiological observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过测定视觉功能状态，间接反映脑力工作能力的水平，以分析和评价疲劳程度的方法。常用的方法为明视持久度、临界闪光融合频率。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《射线装置分类》（环境保护部、国家卫生计生委公告2017年第66号），根据射线装置对人体健康和环境可能造成危害的程度，分为Ⅰ类（高危险射线装置）、Ⅱ类（中危险射线装置）、Ⅲ类（低危险射线装置）。"
+  },
+  {
+   "cn": "观察对象",
+   "en": "object of observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "放射工龄大于2年，受到一定剂量照射，具有某些无力型神经衰弱症状，实验室检查显示有某些改变，但尚未达到外照射慢性放射病I度诊断标准者。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "负载理论的观察",
+   "en": "theory-laden observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.169",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "观察会受观察者所持有的理论预设或信念影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者不参与观察对象的群组活动，仅仅作为一个旁观者仔细的观察获取与研究相关信息的方法。"
+  },
+  {
+   "cn": "外观",
+   "en": "observing external world",
+   "source": "马克思主义",
+   "wordNumber": "01.0067",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运用意识、心灵观察心灵之外的外部世界，攫取其特征的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

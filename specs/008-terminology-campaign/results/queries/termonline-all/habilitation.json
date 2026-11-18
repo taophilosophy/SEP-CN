@@ -1,0 +1,492 @@
+{
+ "key": "habilitation",
+ "term": "Habilitation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:45:07+00:00",
+ "status": "ok",
+ "note": "variant=Habilitation; 审定公布名词库=283; 海峡两岸名词对照库=18; 其他来源数据库=3; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "小儿康复",
+   "en": "habilitation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0217",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.396",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "局部阈下兴奋状态能使神经元兴奋性升高的现象。"
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "兽医学名词",
+   "wordNumber": "04.494",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "局部阈下兴奋状态能使神经元兴奋性升高的现象。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "行为医学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "综合协调地应用各种措施，使病、伤、残者已经损伤的功能尽快尽可能得到恢复和重建的过程。包括生理、心理和社会功能的恢复。"
+  },
+  {
+   "cn": "整治",
+   "en": "rehabilitation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "为历史文化名城和历史文化街区风貌完整性的保持、建成环境品质的提升所采取的各项活动。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "手外科学名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "综合、协调地应用各种措施，消除或减轻病、伤、残者的功能障碍，提高其生存质量，促其重返社会的过程。"
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "生理学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "神经病学名词",
+   "wordNumber": "05.152",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由于神经肌肉接头传导功能的改善，以前未兴奋的肌纤维被激活的现象。可见于高频重复神经刺激后的递增反应和兴奋后或强直收缩后易化。与突触前膜乙酰胆碱量子化释放增多有关。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "运动医学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "综合和协同地将各种措施(医学、社会、教育和职业措施等)应用于残疾者和功能障碍者，使其功能恢复至最高可能的水平，从而不受歧视地成为社会组成部分的过程。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "烧伤学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "综合、协调地应用各种措施，消除或减轻病、伤、残者的功能障碍，提高其生存质量，帮助其重返社会的过程。"
+  },
+  {
+   "cn": "易化作用",
+   "en": "facilitation",
+   "source": "植物学名词",
+   "wordNumber": "13.0176",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "一个物种改变群落环境有利于其他物种在群落中定居的现象。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "老年医学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "综合协调地应用各种措施，以减少病、伤、残者的躯体、心理和社会功能障碍，发挥其最高潜能，提高其生存质量，使其能重返社会的过程。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "心理学名词",
+   "wordNumber": "10.215",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "针对各种先天性或后天的疾病和损伤所造成的功能障碍采取综合措施，使之尽可能恢复正常功能或充分发挥残余功能的过程。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "治疗因外伤或疾病遗留的功能障碍，以提高患者的生活质量，恢复生活、学习和工作能力的医学措施。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "综合、协调地应用各种措施，消除或减轻病、伤、残者的功能障碍，提高其生存质量、促其重返社会的过程。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "教育学名词",
+   "wordNumber": "10.017",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "为减轻残疾的影响、建立或重建受损功能使其达到最佳发展水平并使残疾者融入社会而采取的各种有用的措施。广义指全面康复或综合康复，狭义指医学康复。"
+  },
+  {
+   "cn": "生境修复",
+   "en": "rehabilitation",
+   "source": "地理学名词",
+   "wordNumber": "06.108",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "采取有效措施，对受损的生境进行恢复与重建，使恶化状态得到改善的措施。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "中医药学名词",
+   "wordNumber": "03.774",
+   "subjectFullName": "中医药学_推拿学、养生学、康复学",
+   "subjectName": "推拿学、养生学、康复学",
+   "publishYear": "2004",
+   "definition": "根据中医理论，运用药物和非药物方法，恢复残疾者的机体结构、功能和心理的传统医学方法。"
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "中医药学名词",
+   "wordNumber": "03.774",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "疾病痊愈，完全恢复健康，为疾病转归的最佳结局。"
+  },
+  {
+   "cn": "康复[学]",
+   "en": "rehabilitation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0003",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "促进作用（=易化作用）",
+   "en": "facilitation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化作用，促进作用",
+   "en": "facilitation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "促进作用",
+   "en": "facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生境修复",
+   "en": "rehabilitation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "栖地恢復",
+   "en": "rehabilitation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "修建",
+   "en": "rehabilitation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "康复心理学",
+   "en": "rehabilitation psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会助长,社会促进",
+   "en": "social facilitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放牧促进",
+   "en": "grazing facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社会性易化",
+   "en": "social facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市复兴",
+   "en": "urban rehabilitation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "康复工程",
+   "en": "Rehabilitation engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设施主体",
+   "en": "facilitation agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物社群互助",
+   "en": "biosocial facilitation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会性易化",
+   "en": "social facilitation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "便利国际海上运输公约",
+   "en": "Convention on Facilitation of International Maritime Traffic",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "智慧戒毒",
+   "en": "smart drug rehabilitation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨境贸易便利化",
+   "en": "cross-border trade facilitation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "康复",
+   "en": "rehabilitation",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.6",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "综合、协调地应用各种措施，消除或减轻病、伤、残者的功能障碍，提高其生存质量、促其重返社会的过程。"
+  },
+  {
+   "cn": "社会助长",
+   "en": "social facilitation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.2",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "在与别人一起活动，或意识到他人在场或被他人实时关注，并且个人的表现可能会受到评价的情况下，个人的行为效率提高的现象。"
+  },
+  {
+   "cn": "康复治疗",
+   "en": "rehabilitation therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "患者进入恢复期或遗留某些后遗症时，为进一步康复和彻底治愈所采取的治疗措施。"
+  },
+  {
+   "cn": "产后康复",
+   "en": "postpartum rehabilitation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "综合协调应用各类措施，治疗因妊娠或分娩产生的功能障碍，以减少产后妇女躯体、心理及社会功能的障碍，提高生活质量。"
+  },
+  {
+   "cn": "社区康复",
+   "en": "community rehabilitation",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.15",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "在社区环境中，通过多学科协作和资源整合，为存在功能障碍的居民提供医疗康复、教育康复、职业康复及社会康复等综合性服务，旨在帮助其恢复或补偿功能、提高生活质量，并最终实现社会参与和融入。强调康复服务与基层"
+  },
+  {
+   "cn": "康复伦理",
+   "en": "rehabilitation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.07",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在康复医疗活动中涉及的伦理问题及应遵循的伦理规范。"
+  },
+  {
+   "cn": "残疾人康复",
+   "en": "disabled people rehabilitation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.71",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "综合地采取医学、社会、教育和职业的措施，对残疾人进行训练，减轻致残因素造成的后果，使其活动功能得到最大程度的专业活动。目的是改善和提高残疾人的身心功能，使他们能够自理生活，能够参与社会活动，从而获得和"
+  },
+  {
+   "cn": "残疾人康复机构",
+   "en": "rehabilitation institutions for disabled people",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.72",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "遵循康复的宗旨，应用多种康复手段对残疾人进行康复医疗与训练的机构，如各级、各类残疾人康复中心等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

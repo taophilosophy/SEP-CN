@@ -1,0 +1,492 @@
+{
+ "key": "relevant question",
+ "term": "relevant question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:43:12+00:00",
+ "status": "ok",
+ "note": "variant=relevant question; 审定公布名词库=95; 海峡两岸名词对照库=14; 其他来源数据库=6; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "source": "植物学名词",
+   "wordNumber": "13.0237",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "通过视觉记录植物习性和生境的数据描述一个区域内的植被特征的方法。"
+  },
+  {
+   "cn": "相关尺寸",
+   "en": "relevant size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0338",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在视图上表示与给定直角坐标系的两坐标轴既不平行、也不垂直的直线(或曲线)或平面(或曲面)位置的两个坐标尺寸。"
+  },
+  {
+   "cn": "有关参量",
+   "en": "relevant parameter",
+   "source": "物理学名词",
+   "wordNumber": "05.1046",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相关方",
+   "en": "relevant side",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0713",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "与组织的业绩或成就有利益关系的个人或团体。"
+  },
+  {
+   "cn": "关联故障",
+   "en": "relevant fault",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.188",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.091",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "互逆相关性",
+   "en": "reversible relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用以描述查全率、查准率两个指标相对关系的概念，即当查全率增大时查准率减小，查全率减小时查准率增大。"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户在某一特定时间按照一定标准对信息检索结果满足用户需求的程度进行评判的过程。"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "系统方法论的基本原则之一，也是情报学的一个基本原理。系统的要素之间、要素与系统整体之间、系统与环境之间是普遍联系的，它们互相制约、互相影响、不可分割开来。任何一种情报结构都是按一定规则相互关联的，研究"
+  },
+  {
+   "cn": "用户相关性",
+   "en": "user relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户及其代理与检索系统间的关系。受到用户偏好、兴趣、时效、完整性、信息价值和针对性的影响，是衡量检索系统与用户情报问题匹配程度的重要指标。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0343",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "通过在信息检索过程中加入用户交互过程，从而把检索模式从一次进行变成交互式的多次进行，提高检索的准确率。"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "relevance logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "基于“蕴涵是意义之间的必然联系”这种观点提出的一类逻辑系统。旨在清除真值蕴涵不要求前件与后件之间具有有意义的联系所导致的“蕴涵怪论”。"
+  },
+  {
+   "cn": "价值相关性",
+   "en": "value relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0249",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业的会计数据与其股票价格之间的相关程度。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0551",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用户对检索系统返回的检索结果进行相关性判断，检索系统从用户认为相关的文献中选择重要的语词或表达式形成新的查询式，以使二次检索结果更接近用户的查询需求。"
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索常数",
+   "en": "quest constant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "缺失体",
+   "en": "deletant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "排遗",
+   "en": "egestion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肌肉松弛药",
+   "en": "muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "血管松弛药",
+   "en": "vessel relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "排泄",
+   "en": "excretion\",\"egestion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "骨骼肌松弛药",
+   "en": "skeletal muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌松弛药",
+   "en": "voluntary muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "列万特",
+   "en": "Levant\",\"Oscar(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神韵",
+   "en": "Elegant Subtlety",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "圣文之雅丽",
+   "en": "The Sages’ Writings Are both Elegant and Refined.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

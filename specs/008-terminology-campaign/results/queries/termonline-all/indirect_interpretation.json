@@ -1,0 +1,792 @@
+{
+ "key": "indirect interpretation",
+ "term": "indirect interpretation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:05:03+00:00",
+ "status": "ok",
+ "note": "variant=indirect interpretation; 审定公布名词库=1310; 海峡两岸名词对照库=327; 其他来源数据库=48; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "间接解释标志",
+   "en": "mark of indirect interpretation",
+   "source": "石油名词",
+   "wordNumber": "02.0968",
+   "subjectFullName": "石油_油气地质勘探_石油遥感地质",
+   "subjectName": "石油遥感地质",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.120",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于一定规则为概念、符号、对象等赋予意义的过程。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像中获取所摄对象语义信息的基本过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "心理学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师依据某一理论或个人经验，对当事人的问题、反应进行因果说明的一种咨询技术。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.128",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "对遥感影像的解释，或识别的过程，即进行分类的过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "数学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0100",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "逐条翻译和执行每一条程序语句的计算机程序。"
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation,map interpretation",
+   "source": "地理学名词",
+   "wordNumber": "27.151",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "对地图所表示的内容进行较深入的阅读与分析，从而获得对制图对象质量与数量特征及其分布规律的认识。"
+  },
+  {
+   "cn": "判读",
+   "en": "identification,interpretation",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.495",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "部分解释",
+   "en": "partial interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.121",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "在对一个理论的解释中，并非理论的每一个基本陈述都有对应的主题。"
+  },
+  {
+   "cn": "形式化解释",
+   "en": "formal interpretation",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "大地电磁法发展初期，对受到畸变影响视电阻率曲线的解释，通过定性分析，采用适当的近似，用一维模型对数据进行反演，称为形式化解释。 "
+  },
+  {
+   "cn": "叠合解释",
+   "en": "overlay interpretation",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0502",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "对多种属性或特征参量按照空间对应关系进行叠合显示、成图并对比分析的综合解释方法。 "
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "光学名词",
+   "wordNumber": "21.096",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "借助人的知识，直接观察遥感影像，研究目标物在影像上的特征(如形状、大小、位置、彩色、灰度、阴影、纹理等)及目标物之间的相互关系，通过分析、判断识别目标的分布、类型、性质的过程。"
+  },
+  {
+   "cn": "像片判读",
+   "en": "photo interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.178",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "根据地物的光谱特性、空间特征、时间特征和成像规律，识别出与像片影像相应的地物类别、特性和某些要素或者测算某种数据指标的过程。"
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "判读者通过直接观察或借助判读仪以研究地物在遥感图像或其他像片上反映的各种影像特征，并通过地物间的相互关系来推理分析，达到识别所需地物信息的过程。"
+  },
+  {
+   "cn": "自动判读",
+   "en": "automatic interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "由计算机根据先验知识自动识别图斑属性的技术。"
+  },
+  {
+   "cn": "判读标志",
+   "en": "interpretation sign",
+   "source": "测绘学名词",
+   "wordNumber": "03.582",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "遥感图像上能直接反映和判别地物信息的影像特征。如形状、大小、阴影、色调、颜色、纹理、位置、分布等。"
+  },
+  {
+   "cn": "影像解译",
+   "en": "image interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.585",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像上识别目标，提取目标的分布、结构、功能等有关信息实现对目标和影像进行描述的过程。"
+  },
+  {
+   "cn": "地图判读",
+   "en": "map interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "04.412",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地图使用者在地图阅读的基础上，通过符号组合、判断与推理，获得各种地理要素和现象的空间结构和空间关系等信息的过程。"
+  },
+  {
+   "cn": "哥本哈根诠释",
+   "en": "Copenhagen interpretation",
+   "source": "物理学名词",
+   "wordNumber": "06.0411",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "释梦",
+   "en": "dream interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地震解释",
+   "en": "seismic interpretation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工判读",
+   "en": "manual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "影像判读",
+   "en": "image interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "map interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接任意球",
+   "en": "indirect free kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接的简单还击",
+   "en": "simple indirect riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "击地传球",
+   "en": "bounce pass\",\"indirect pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以意逆志",
+   "en": "Interpreting a Writing from One’s Own Perspective",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4089-2008 数据的统计处理和解释 泊松分布参数的估计和检验》",
+   "en": "GB/T 4089-2008 Statistical interpretation of data — Estimation and hypothesis test of parameter in Poisson distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27042-2016 信息技术 安全技术 数字证据分析和解释的指南》",
+   "en": "EN ISO/IEC 27042:2016 Information technology — Security techniques — Guidelines for the analysis and interpretation of digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "对心理问题进行剖析的咨询技巧。在学校心理咨询中，咨询者依据心理学理论、知识或人生经验，分析、说明求咨者心理问题的成因和性质，使对方有所领悟，为随后的指导及求咨者的思维、情绪、行为转变奠定基础。"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具解释分数或分数变化内涵的程度的测量性能。"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "巫师或当事人根据自然界出现的某些异常现象而探知事物所要出现的结果。在现实生活中，最常见的征兆是天象兆，另外还有植物兆、动物兆、人体兆、梦兆。"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "揭示文化符号性与解释性的文化人类学（民族学）分支。解释人类学由美国人类学家格尔兹（Clifford Geertz）开创，格尔茨强调人类文化的符号性和阐释性，认为人类是被自身编织的意义之网所束缚的动物，"
+  },
+  {
+   "cn": "间接服务",
+   "en": "indirect service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭、小组、组织和社区以至更大的社会系统为关注对象，由社会工作者代表服务对象采取行动，通过介入服务对象以外的其他系统以实现间接帮助的服务行动。"
+  },
+  {
+   "cn": "间接成本",
+   "en": "indirect cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目，但不能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "间接效益",
+   "en": "indirect benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "实行某项干预措施后所增加的患者的健康时间或劳动生产力恢复带来的收益。"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "间接致癌物",
+   "en": "indirect carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "必须经过体内代谢活化才具有致癌作用的化学物。"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "source": "马克思主义",
+   "wordNumber": "05.0125",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，法国著名的马克思主义经济学家，国际马克思大会主席热拉尔·迪梅尼尔（Gérard Duménil）提出关于价值转型问题的所谓“新解释”。认为总产品的总生产价格一般不等于总价值。而且可"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张文化分析是寻求意义系统的解释科学。由美国人类学家格尔茨(C.Geertz）于20世纪70年代提出，认为人是由其自身编织的意义之网所支撑的动物，而文化就是这种意义之网。"
+  },
+  {
+   "cn": "间接接触传播",
+   "en": "indirect contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者接触被污染的中间对象（如污染的环境和物品）而导致病原体的传播的过程。"
+  },
+  {
+   "cn": "间接冲击伤",
+   "en": "indirect blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波通过物体、建筑物等作用于人体引起的损伤。"
+  },
+  {
+   "cn": "间接抗球蛋白试验",
+   "en": "indirect antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.26",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一种测定患者血清中不完全抗体(抗红细胞抗体)的试验。用已知抗原的红细胞测定受检血清中相应的不完全抗体，或用已知抗血清测定受检红细胞上相应抗原，可用于鉴定血型和检查血清中不完全抗体、输血前交叉配血试验及"
+  },
+  {
+   "cn": "间接传播方法",
+   "en": "indirect propagation method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "通过机械性、技术性媒介传播信息的方法。"
+  },
+  {
+   "cn": "间接食品添加剂",
+   "en": "indirect food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品生产、加工、包装、运输或存贮过程中与食品直接接触，通过迁移而无意中进入食品的添加剂。"
+  },
+  {
+   "cn": "间接经济损失",
+   "en": "indirect economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于疾病的发病、伤残（失能）和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担；包括因疾病、伤残和过早死亡所损失的工作时间；由于疾病和伤残导致个人工作能力和效率降低而造成的损失；患者陪"
+  },
+  {
+   "cn": "辐射间接作用",
+   "en": "indirect effect of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射诱发水的原发辐射产物（H•、•OH、e、H2、H2O2等）对机体的核酸、蛋白质、酶等生物大分子产生作用，引起这些生物大分子损伤的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

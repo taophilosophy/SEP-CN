@@ -1,0 +1,542 @@
+{
+ "key": "implicit arguments",
+ "term": "implicit arguments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:05:17+00:00",
+ "status": "ok",
+ "note": "variant=implicit arguments; 审定公布名词库=146; 海峡两岸名词对照库=62; 其他来源数据库=10; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "隐性信息",
+   "en": "implicit information",
+   "source": "农学名词",
+   "wordNumber": "16.022",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "与显性信息相对，尚未或难以用文字、符号、图形等方式表达的信息。"
+  },
+  {
+   "cn": "隐性债务",
+   "en": "implicit debt",
+   "source": "农学名词",
+   "wordNumber": "19.272",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "政府财政中，在法定债务预算之外需要政府直接或间接用财政资金偿还的债务。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐函数",
+   "en": "implicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内隐自我主义",
+   "en": "implicit egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐态度",
+   "en": "implicit attitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐理论",
+   "en": "implicit theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐学习",
+   "en": "implicit learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐刻板印象",
+   "en": "implicit stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐行为",
+   "en": "implicit behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐测量",
+   "en": "implicit measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内含利息",
+   "en": "implicit interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐格式",
+   "en": "implicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐式标记",
+   "en": "implicit tag",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式请求",
+   "en": "implicit request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隐性数据",
+   "en": "implicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显性数据",
+   "en": "explicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的明确",
+   "en": "explicit purpose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "易简",
+   "en": "Ease and Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见素抱朴",
+   "en": "Maintain Originality and Embrace Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绘事后素",
+   "en": "<div> The White Silk First, the Painting Afterwards / Beauty from Natural Simplicity</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "通过成本会计计算得来的成本。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

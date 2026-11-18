@@ -1,0 +1,242 @@
+{
+ "key": "denialism",
+ "term": "denialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:01:42+00:00",
+ "status": "ok",
+ "note": "variant=denialism; 审定公布名词库=15; 海峡两岸名词对照库=5; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "否认",
+   "en": "denial",
+   "source": "行为医学名词",
+   "wordNumber": "10.074",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体拒绝接受不愉快的现实，从而达到保护自我、减轻心理压力作用的一种自我防御机制。"
+  },
+  {
+   "cn": "否认",
+   "en": "denial",
+   "source": "心理学名词",
+   "wordNumber": "15.016",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体拒绝或不承认不能接受的想法、行为或事实的一种心理防御机制。"
+  },
+  {
+   "cn": "信息否定",
+   "en": "information denial",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.168",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "信息保护的一种防御手段，是针对竞争对手信息搜集系统的超常规保护措施。主要包括两方面工作：攻击竞争对手的信息搜集系统和提供虚假或烟雾信息误导竞争对手。"
+  },
+  {
+   "cn": "访问拒绝",
+   "en": "access denial",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0545",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在资源访问过程中，发起方接到对方的拒绝信号或者在预定时间内得不到响应的现象。"
+  },
+  {
+   "cn": "主动拒止反应",
+   "en": "active denial response",
+   "source": "生物物理学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射生物效应",
+   "subjectName": "辐射生物效应",
+   "publishYear": "2018",
+   "definition": "毫米波能量束照射到人体或动物皮肤后，数秒内可引发难以忍受的灼热效应，使受照者本能地产生逃离辐射源的反应。灼热感觉也随即消失。"
+  },
+  {
+   "cn": "甩客",
+   "en": "denial of passenger",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.109",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝服务",
+   "en": "denial of service,DoS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0305",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "一种使系统或网络失去服务能力的攻击。在互联网上，它洪泛一个网络或结点，降低网络或结点性能，阻止其他用户对网络或结点服务的获取。"
+  },
+  {
+   "cn": "分布式拒绝服务",
+   "en": "distributed denial of service",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.043",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "和拒绝服务(DoS)相似，只是采用很多台计算机作为向目标发送信息的攻击源头，从而使被攻击者更加难以防范。"
+  },
+  {
+   "cn": "拒绝服务",
+   "en": "denial of service,DoS",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.042",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "通过向服务器发送大量垃圾信息或干扰信息的方式，导致服务器无法向正常用户提供服务的现象。"
+  },
+  {
+   "cn": "分布式拒绝服务",
+   "en": "distributed denial of service,DDoS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0306",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "在拒绝服务基础上产生的一类攻击方式。攻击者利用客户端-服务器技术，将众多受控的计算机联合起来作为攻击平台，对目标主机发起多攻击端协作攻击，从而成倍地提高拒绝服务攻击的威力。"
+  },
+  {
+   "cn": "心理主义",
+   "en": "mentalism",
+   "source": "心理学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以人的内部心理过程为研究重点的心理学理论。如冯特的内容心理学与当代的认知心理学。"
+  },
+  {
+   "cn": "心智主义",
+   "en": "mentalism",
+   "source": "语言学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。认为人的内部的心智活动与外显的行为表现是相互独立的，并且前者可以解释后者。"
+  },
+  {
+   "cn": "早衰",
+   "en": "senilism,senium praecox",
+   "source": "老年医学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "老年医学_老年医学概论",
+   "subjectName": "老年医学概论",
+   "publishYear": "2017",
+   "definition": "个体的细胞分裂代数减少，某些器官、组织的衰老速度倍增并快速走向疾病和死亡的现象。表现为未成年人出现老年人的特征，如动脉硬化、皱皮、白发以及老态面容和行为等。"
+  },
+  {
+   "cn": "早衰",
+   "en": "senilism;senium praecox",
+   "source": "急救医学名词",
+   "wordNumber": "03.842",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "个体的细胞分裂代数减少，某些器官、组织的衰老速度倍增并快速走向疾病和死亡的现象。表现为未成年人出现老年人的特征，如动脉硬化、皮肤皱纹、白发、老态面容和行为等。"
+  },
+  {
+   "cn": "齿垫",
+   "en": "dental pad，pulvinus dentalis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "牛和羊硬腭前端无切齿，由黏膜形成厚而致密的胶质垫。"
+  },
+  {
+   "cn": "否认",
+   "en": "denial",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存取拒绝",
+   "en": "access denial",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝服务",
+   "en": "denial of service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列主义",
+   "en": "serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整体序列主义",
+   "en": "total serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝服务攻击",
+   "en": "denial-of-service (DoS) attack",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式拒绝服务攻击",
+   "en": "distributed denial-of-service (DDoS) attack",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动拒止系统",
+   "en": "active denial system, ADS",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "远距离发射毫米波电磁能量束以阻止、延缓和挡回前进之敌的一项突破性非杀伤技术。在杀伤性对抗出现之前，以非杀伤方法阻止单兵前进有望能拯救无数条生命。广义的拒止系统还包括反介入和/或区域拒止所使用的系统等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

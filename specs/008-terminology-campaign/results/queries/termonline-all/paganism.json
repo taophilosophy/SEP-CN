@@ -1,0 +1,432 @@
+{
+ "key": "paganism",
+ "term": "paganism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:03:47+00:00",
+ "status": "ok",
+ "note": "variant=paganism; 审定公布名词库=106; 海峡两岸名词对照库=86; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "激动",
+   "en": "agonism",
+   "source": "药学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "激动药与受体结合后，引起或增强的生理效应。"
+  },
+  {
+   "cn": "供体生物",
+   "en": "donor organism",
+   "source": "农学名词",
+   "wordNumber": "15.356",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "转基因操作中提供外源基因的生物体。"
+  },
+  {
+   "cn": "受体生物",
+   "en": "recipient organism",
+   "source": "农学名词",
+   "wordNumber": "15.357",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "转基因操作中接受外源基因的生物体。"
+  },
+  {
+   "cn": "转基因生物",
+   "en": "transgenic organism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0952",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "接受了用基因工程技术导入的外源基因且通过繁殖而传代的生物。如将外源基因显微注射入受精卵的细胞核，再转入养母子宫内，所培育出来转基因的小鼠、牛、羊等。"
+  },
+  {
+   "cn": "农业生物",
+   "en": "agricultural organism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.276",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "可用于或有助于农业生产和农产品加工的一类自然资源。包括植物、动物和微生物。"
+  },
+  {
+   "cn": "靶生物",
+   "en": "target organism",
+   "source": "兽医学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "有毒物质直接作用的生物群体。可以是一个生物种群,也可以是一个生物群落。"
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "兽医学名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "作为实验模型以研究特定生物学现象的动物、植物和微生物。从研究模式生物得到的结论，通常可适用于其他生物。"
+  },
+  {
+   "cn": "底盘生物",
+   "en": "chassis organism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.076",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "具备基本的生长与代谢功能及标准化基因线路接口的生物。可嵌合功能化的合成生物系统。"
+  },
+  {
+   "cn": "发光生物",
+   "en": "luminous organism",
+   "source": "动物学名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "自身具有发光器官、细胞（包括发光的共生细菌），或具有能分泌发光物体腺体的海洋生物的总称。"
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "植物学名词",
+   "wordNumber": "10.0093",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "作为实验模型以研究特定生物学现象的动物、植物和微生物。从研究模式生物得到的结论，通常可适用于其他同类生物。"
+  },
+  {
+   "cn": "耐辐射生物",
+   "en": "radioresistant organism",
+   "source": "生物物理学名词",
+   "wordNumber": "11.072",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "可以忍受5000Gy以上高强度辐射的生物。对紫外线、电离辐射等都具有极强抗性。"
+  },
+  {
+   "cn": "耐低重力生物",
+   "en": "hypogravity organism",
+   "source": "生物物理学名词",
+   "wordNumber": "11.073",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "在低重力的环境下正常生存的生物。"
+  },
+  {
+   "cn": "耐金属生物",
+   "en": "metallotolerant organism",
+   "source": "生物物理学名词",
+   "wordNumber": "11.070",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "能够耐受高浓度重金属溶液而生存的生物。"
+  },
+  {
+   "cn": "耐超重生物",
+   "en": "hypergravity organism",
+   "source": "生物物理学名词",
+   "wordNumber": "11.074",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "在超过1.5万倍至40万倍地球重力的超重环境下可以生存的生物。"
+  },
+  {
+   "cn": "数字机体",
+   "en": "digital organism",
+   "source": "生物物理学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "一种能自我复制的计算机程序。能发生变异和进化。通常用以研究达尔文进化的时间演化过程，并检验有关进化的数学模型和某些有关假说。"
+  },
+  {
+   "cn": "耐药菌",
+   "en": "resistant organism",
+   "source": "药学名词",
+   "wordNumber": "04.036",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "对某些药物的作用不敏感的病菌。"
+  },
+  {
+   "cn": "检定菌",
+   "en": "test organism",
+   "source": "药学名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "用于微生物测定和其他检查用的标准菌株。"
+  },
+  {
+   "cn": "敏感菌",
+   "en": "sensitive organism",
+   "source": "药学名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "易于被某种药物抑制或杀死的细菌或真菌。"
+  },
+  {
+   "cn": "海洋生物",
+   "en": "marine organism",
+   "source": "资源科学技术名词",
+   "wordNumber": "17.048",
+   "subjectFullName": "资源科学技术_海洋资源学",
+   "subjectName": "海洋资源学",
+   "publishYear": "2008",
+   "definition": "海洋中的生命有机体。按分类系统分为海洋原核生物界、海洋原生生物界、海洋真菌界、海洋植物界和海洋动物界；按其生活方式分为底栖生物、浮游生物、游泳生物和寄生生物。"
+  },
+  {
+   "cn": "大洋中层生物",
+   "en": "mesopelagic organism",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0581",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "生活在大洋中层(水深200～1000m)的生物。"
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "激动",
+   "en": "agonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发光生物",
+   "en": "luminous organism\",\"bioluminescent organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "土壤微生物",
+   "en": "soil organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "构件生物",
+   "en": "modular organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "嗜冷生物",
+   "en": "psychrophilic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "固着生物",
+   "en": "sessile organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单体生物",
+   "en": "unitary organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "流水营养生物",
+   "en": "rheotrophic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多细胞生物",
+   "en": "multicellular organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "漂流生物",
+   "en": "drifting organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大洋生物,远海生物",
+   "en": "pelagic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "造礁生物",
+   "en": "hermatypic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广温性生物",
+   "en": "eurythermal organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "钻孔生物,钻蚀生物",
+   "en": "boring organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "污着生物",
+   "en": "fouling organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转基因生物",
+   "en": "transgenic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗层生物， 喜暗生物",
+   "en": "stygobiotic organism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家有机体学说",
+   "en": "state organism theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0507",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "德国民族学家拉采尔（Friedrich Ratzel）在《政治地理学》一书中提出的有关国家空间增长的理论。该理论把国家比作有生命的有机体，它的社会行为遵循生物规律，适用生物进化的理论，应用与生物的类比"
+  },
+  {
+   "cn": "高温作业机体变化",
+   "en": "organism change working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "在高温环境中从事劳动，人体机能发生变化的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

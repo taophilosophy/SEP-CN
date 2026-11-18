@@ -1,0 +1,472 @@
+{
+ "key": "simplicity",
+ "term": "simplicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:54:44+00:00",
+ "status": "ok",
+ "note": "variant=simplicity; 审定公布名词库=79; 海峡两岸名词对照库=29; 其他来源数据库=6; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "图形简化",
+   "en": "graphic simplicity",
+   "source": "地理学名词",
+   "wordNumber": "27.144",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "地图概括方法之一。根据地图概括指标将线状图形和面状轮廓界线的细节进行化简处理的过程。"
+  },
+  {
+   "cn": "高频趋简律",
+   "en": "simplication tendency of high frequency character",
+   "source": "语言学名词",
+   "wordNumber": "02.202",
+   "subjectFullName": "语言学_文字学_汉字政策、应用研究等",
+   "subjectName": "汉字政策、应用研究等",
+   "publishYear": "2011",
+   "definition": "使用频率高的汉字平均笔画数较少、字形通常趋于简便的规律。"
+  },
+  {
+   "cn": "黄帝内经太素",
+   "en": "Huangdi Neijing Taisu,Grand Simplicity of Inner Canon of Huangdi",
+   "source": "中医药学名词",
+   "wordNumber": "02.016",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "《黄帝内经》整理注释类著作，隋代杨上善撰。"
+  },
+  {
+   "cn": "单纯图",
+   "en": "simplicial graph",
+   "source": "物理学名词",
+   "wordNumber": "08.0618",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "单纯复形",
+   "en": "simplicial complex",
+   "source": "数学名词",
+   "wordNumber": "08.0645",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单纯逼近",
+   "en": "simplicial approximation",
+   "source": "数学名词",
+   "wordNumber": "08.0677",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单纯重分",
+   "en": "simplicial subdivision",
+   "source": "数学名词",
+   "wordNumber": "08.0676",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐性信息",
+   "en": "implicit information",
+   "source": "农学名词",
+   "wordNumber": "16.022",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "与显性信息相对，尚未或难以用文字、符号、图形等方式表达的信息。"
+  },
+  {
+   "cn": "隐性债务",
+   "en": "implicit debt",
+   "source": "农学名词",
+   "wordNumber": "19.272",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "政府财政中，在法定债务预算之外需要政府直接或间接用财政资金偿还的债务。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "隐式表达式",
+   "en": "implicit expression",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述化工过程系统的各类方程，表达所含变量的某种约束等式关系。等式的表达形式为f(x)=0，未知变量被包含于表达式中。"
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "相对于微分方程组求解显式法（如欧拉法、龙格-库塔法等）的另一类方法。隐式法通常包括离散化、构造隐式方程组、求解隐式方程组及更新解等主要步骤，通常比显式法具有更好的性能。"
+  },
+  {
+   "cn": "隐式方案",
+   "en": "implicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当0<f≤1时的时间积分方案，无条件稳定，但其在时间域上只具有一阶截差精度，因此需要使用小的时间步长。"
+  },
+  {
+   "cn": "隐序",
+   "en": "implicit order",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.387",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理学家D. J. 玻姆（D. J. Bohm）在1980年出版的《整体性与隐序》一书中提出的用来说明亚原子粒子奇特行为的一个概念。是实在涌现的更深层次的基础，意指每个部分都包括对象的某些信息，因此，"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.526",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对先前经验的无意识记忆。"
+  },
+  {
+   "cn": "隐式枚举",
+   "en": "implicit enumeration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "整数规划问题的一种求解思想。根据求解过程中获得的可行性和目标函数的相关信息，不需要枚举所有的整数解即可得到最优解。通常认为该思想等同于分支定界，但与其早期版本有区别。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "麻醉学名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "与一定的操作和实践有关的记忆。即与直觉和意识无关的记忆。需要反复从事某种技能的操作，经过反复的经验积累才能缓慢地被保存下来的记忆。一旦建立，可保存较长时间，不再需要意识的参与。"
+  },
+  {
+   "cn": "隐含义",
+   "en": "implicit meaning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.064",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "符号的引申意义，属于意义的外围部分。"
+  },
+  {
+   "cn": "内隐行为",
+   "en": "implicit behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "在神经系统调控下，机体内部不易被观察到的行为活动。如内分泌腺活动、平滑肌运动、思维活动等。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对过去经验无意识的记忆过程。"
+  },
+  {
+   "cn": "图形简化",
+   "en": "graphic simplicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "隐函数",
+   "en": "implicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内隐自我主义",
+   "en": "implicit egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐态度",
+   "en": "implicit attitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐理论",
+   "en": "implicit theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐学习",
+   "en": "implicit learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐刻板印象",
+   "en": "implicit stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐行为",
+   "en": "implicit behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐测量",
+   "en": "implicit measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内含利息",
+   "en": "implicit interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐格式",
+   "en": "implicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐式标记",
+   "en": "implicit tag",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式请求",
+   "en": "implicit request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内隐人格理论",
+   "en": "implicit personality theory\",\"implicit theory of personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "半隐[式]法",
+   "en": "semi-implicit method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半隐式格式",
+   "en": "semi-implicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐式[差分]格式",
+   "en": "implicit difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易简",
+   "en": "Ease and Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见素抱朴",
+   "en": "Maintain Originality and Embrace Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绘事后素",
+   "en": "<div> The White Silk First, the Painting Afterwards / Beauty from Natural Simplicity</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性数据",
+   "en": "implicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

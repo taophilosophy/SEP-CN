@@ -1,0 +1,622 @@
+{
+ "key": "futurism",
+ "term": "futurism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:54:37+00:00",
+ "status": "ok",
+ "note": "variant=futurism; 审定公布名词库=52; 海峡两岸名词对照库=33; 其他来源数据库=25; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "约1909~1913年间兴起于意大利的前卫建筑思潮。源于马里内蒂(Filippo Tommaso Marinetti)提出的未来主义思想，激烈反对旧的文化和美学观念，歌颂新时代的科技、机械、速度、鲁莽"
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "农学名词",
+   "wordNumber": "19.105",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "由期货交易场所统一制定的，将来在某一规定的时间和地点交割一定数量商品的标准化交易合约。"
+  },
+  {
+   "cn": "未来",
+   "en": "future",
+   "source": "物理学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "指向未来",
+   "en": "future pointing,future-pointing",
+   "source": "物理学名词",
+   "wordNumber": "06.0118",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "棉花期货",
+   "en": "cotton futures",
+   "source": "农学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花作为标的物的期货交易品种。中国有郑州商品交易所生成的中国棉花期货和价格，美国有洲际交易所生成的棉花期货和价格。"
+  },
+  {
+   "cn": "期货交易",
+   "en": "futures trading",
+   "source": "农学名词",
+   "wordNumber": "19.106",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "以期货或期权为交易标的的一种交易活动。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "农学名词",
+   "wordNumber": "19.107",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进行期货交易的场所或系统。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "经济学名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "进行期货交易的场所。是多种期货交易关系的总和。从组织结构上看，广义上的期货市场包括期货交易所、结算所或结算公司、经纪公司和期货交易员；狭义上的期货市场仅指期货交易所。"
+  },
+  {
+   "cn": "石油期货",
+   "en": "oil futures",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0133",
+   "subjectFullName": "化工（一）_总论_技术经济",
+   "subjectName": "技术经济",
+   "publishYear": "2017",
+   "definition": "标的物为石油产品（石油、天然气、炼制产品）的期货。是能源期货的一个交易品种。"
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0523",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标的物为实物商品的期货合约。"
+  },
+  {
+   "cn": "期货基金",
+   "en": "futures fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0602",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "专门用于期货合约交易的共同基金。"
+  },
+  {
+   "cn": "金属期货",
+   "en": "metal futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0524",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以金属商品为标的物的期货合约。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0666",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "进行期货合约买卖的市场。根据期货买卖种类的不同，可分为商品期货市场和金融期货市场。"
+  },
+  {
+   "cn": "指数期货",
+   "en": "index futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0519",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以股票指数或其他指数为标的的期货。"
+  },
+  {
+   "cn": "外汇期货",
+   "en": "currency futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0520",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以某种货币为标的的期货。"
+  },
+  {
+   "cn": "黄金期货",
+   "en": "gold futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0522",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以黄金为交易标的物的期货。"
+  },
+  {
+   "cn": "期货合同",
+   "en": "futures contract",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0506",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标准化的金融交易合同。对于要购买或者出售的商品或金融产品，约定在未来一段时间内的交易量和价格，包括数量、价格、交货地点、交货时间、最后一个交易日或结算日等。"
+  },
+  {
+   "cn": "期货期权",
+   "en": "futures option,option on futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0550",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标的为期货合约的期权。"
+  },
+  {
+   "cn": "终值",
+   "en": "future value",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "一定货币量在将来时间的价值，即一定量的货币按一定利率计算的，在某一时限后的本利之和。"
+  },
+  {
+   "cn": "期货合同",
+   "en": "future contract",
+   "source": "电力名词",
+   "wordNumber": "06.433",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "标准化的金融交易合同。对于要购买或者出售的商品或金融产品,期货合约给出在未来一段时间内的交易量和价格,该合约的内容包括数量、价格、交货地点、交货时间、最后一个交易日或结算日等。"
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "货币期货",
+   "en": "currency futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融期货",
+   "en": "financial future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货价格",
+   "en": "future price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "future business",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①期货交易所 ②期货外汇",
+   "en": "future exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货市场",
+   "en": "future market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远期交货，期货交割",
+   "en": "future delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指数期货",
+   "en": "index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货交易",
+   "en": "commodity futures trading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货交易所",
+   "en": "commodity futures exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货市场",
+   "en": "commodity futures market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购买期货",
+   "en": "purchase of future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票指数期货",
+   "en": "stock index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "利率期货",
+   "en": "interest rate future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "dealing in future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "future goods transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货清算所",
+   "en": "future clearing house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "未来互联网",
+   "en": "future Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来法学家",
+   "en": "future jurist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来法治",
+   "en": "future rule of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "the community of shared future",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《JR/T 0016-2014 期货交易数据交换协议》",
+   "en": "JR/T 0016-2014 Futures trading data exchange protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间命运共同体",
+   "en": "community with a shared future in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "周边命运共同体",
+   "en": "a neighborhood community with a shared future",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建面向未来的亚太伙伴关系",
+   "en": "jointly building the future-oriented Asia-Pacific partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构建人类命运共同体",
+   "en": "building a community with a shared future for humanity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间命运共同体",
+   "en": "building a community with a shared future in cyberspace",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "没有贫困的人类命运共同体",
+   "en": "a poverty-free community with a shared future for mankind",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国一东盟命运共同体",
+   "en": "the community with a shared future for China and ASEAN",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中非命运共同体",
+   "en": "the community with a shared future for China and Africa",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "前事不忘,后事之师",
+   "en": "Past Experience, If Not Forgotten, Is a Guide for the Future.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中拉命运共同体",
+   "en": "the community with a shared future for China and Latin America",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界眼光、国际标准、中国特色、高点定位",
+   "en": "global vision, international standards, distinctive Chinese features, and future-oriented goals",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《金融科技未来：英国作为全球金融科技领导者》（英国）",
+   "en": "Fintech Futures: The UK as a World Leader in Financial Technologies (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类命运共同体",
+   "en": "human community with a Shared Future",
+   "source": "马克思主义",
+   "wordNumber": "03.0800",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2011年以来中国政府和领导人关于国际关系和人类社会未来的新理念。其基本内涵是：各国共处一个地球、一个世界，在追求本国利益时应兼顾他国合理关切，在谋求本国发展中要促进各国共同发展。"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

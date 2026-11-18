@@ -1,0 +1,52 @@
+{
+ "key": "involuntarism",
+ "term": "Involuntarism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:50:17+00:00",
+ "status": "ok",
+ "note": "variant=Involuntarism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "source": "心理学名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "片面夸大意志的作用，把意志看成是世界万物的本质和基础的哲学理论。"
+  },
+  {
+   "cn": "唯意志论,唯意志主义",
+   "en": "voluntarism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "source": "马克思主义",
+   "wordNumber": "01.0206",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "哲学和心理学中的一种唯心主义思潮。在哲学上，夸大意志的本质和作用，主张将意志、情感本能冲动置于理性（理智）之上，而且将意志看做是宇宙的本质基础、真相。认为意志创造世界万物。唯意志论的学说产生于19世纪"
+  },
+  {
+   "cn": "意志主义伦理学",
+   "en": "ethics of voluntarism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.139",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从意志主义出发说明道德现象的非理性主义伦理学理论。是近代伦理学从理性主义转向非理性主义的标志。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

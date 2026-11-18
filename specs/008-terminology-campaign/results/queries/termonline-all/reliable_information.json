@@ -1,0 +1,672 @@
+{
+ "key": "reliable information",
+ "term": "reliable information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:39:48+00:00",
+ "status": "ok",
+ "note": "variant=reliable information; 审定公布名词库=3325; 海峡两岸名词对照库=645; 其他来源数据库=567; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "行为医学名词",
+   "wordNumber": "19.01",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "测验的可靠程度。反映测量结果的一致性、再现性和稳定性。大小用信度系数衡量，反映在多大程度上可以保证测量工具本身的精确性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0218",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠度",
+   "en": "reliability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0221",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在规定的条件下和规定的时间内，完成规定功能的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.509",
+   "subjectFullName": "畜牧学_遗传育种_育种技术",
+   "subjectName": "育种技术",
+   "publishYear": "2020",
+   "definition": "衡量估计育种值准确性的一种度量。等于估计育种值与真实育种值的相关系数的平方。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "电力名词",
+   "wordNumber": "25.001",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "结核病学名词",
+   "wordNumber": "03.546",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_细菌学诊断",
+   "subjectName": "细菌学诊断",
+   "publishYear": "2019",
+   "definition": "由准确性和重复性决定的检测可信性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "物理学名词",
+   "wordNumber": "08.0992",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "置信度",
+   "en": "reliability",
+   "source": "物理学名词",
+   "wordNumber": "01.0277",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0463",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统（包括全部硬件和软件在内）在规定的环境及时间里正确执行所要求的任务并实现既定目标的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0559",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统按指定的功能提供可靠而令人信任的服务的特性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "化学名词",
+   "wordNumber": "03.0855",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "在给定条件下分析方法达到预期分析结果的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0559",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "产品在设计的使用寿命期内，在规定的条件下一致地完成规定功能的能力。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.105",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对同一对象进行多次心理测验所得结果的一致性程度。以反映测验的有效性或准确性。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "心理学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一个测验在测量中所表现的一致性程度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "药学名词",
+   "wordNumber": "10.083",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "生存质量量表测量结果的可靠程度或可重复程度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在相同条件下用某测量工具(如筛检试验)重复测量同一受试者时获得相同结果的稳定程度。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0801",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "成功地完成预期运行功能的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.008",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "产品在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "09.067",
+   "subjectFullName": "机械工程_拖拉机_整机_整机性能及参数",
+   "subjectName": "整机性能及参数",
+   "publishYear": "2013",
+   "definition": "拖拉机在规定的使用条件、规定时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.306",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在给定条件下和规定的时间间隔内，产品(装备)执行所需功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "置信度",
+   "en": "reliability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可靠度",
+   "en": "reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性检验",
+   "en": "reliability test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "设备可靠性",
+   "en": "equipment reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过程可靠性",
+   "en": "process reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信度系数",
+   "en": "reliability coefficient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观察者信度",
+   "en": "observer reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性顺序",
+   "en": "reliability ranking",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图可靠性",
+   "en": "map reliability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性示意图",
+   "en": "reliability diagram",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "编图资料示意图",
+   "en": "reliability diagram",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "封装可靠性",
+   "en": "package reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机可靠性",
+   "en": "computer reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性度量",
+   "en": "reliability measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠服务",
+   "en": "Reliable Service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统可靠性",
+   "en": "computer system reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机硬件可靠性",
+   "en": "computer hardware reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性及安全性评测",
+   "en": "reliability and security evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一种评估测量程序的可重复性、稳定性的量度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "研究所得结果的可靠程度。通过测量结果的稳定性及一致性来判断，通常用信度系数来评价。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由多位不同评分者分别独立评阅同一份测验问卷，再估计所给分数的一致性的量度。"
+  },
+  {
+   "cn": "再测信度",
+   "en": "test-retest reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估回答人在不同时点上对同一个测量的反应的稳定或不稳定程度的量度。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "将所有问题按性质、难度排队，编好单双数，在单数题目的回答结果与双数题目的回答之间求相关性的量度。"
+  },
+  {
+   "cn": "评价者间信度",
+   "en": "inter-rater reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "由多位不同的评定者分别采用同一问卷对相同研究对象进行评定，判断评定结果的一致程度。"
+  },
+  {
+   "cn": "复测信度",
+   "en": "test-retest reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用同一问卷在不同时间对同一研究对象进行重复测量，分析两次测量结果之间的一致性程度判断调查结果的可信度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "将一个问卷按照奇数条目和偶数条目分拆为两半，根据奇数条目项与偶数条目项回答的一致性程度判断的信度。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

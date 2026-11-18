@@ -1,0 +1,742 @@
+{
+ "key": "finite substance",
+ "term": "finite substance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:50:06+00:00",
+ "status": "ok",
+ "note": "variant=finite substance; 审定公布名词库=828; 海峡两岸名词对照库=267; 其他来源数据库=67; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "有限",
+   "en": "finite",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "观测对象的描述参量（时间、空间、质量、速度等）具有确定的赋值边界，或其参量赋值没有超过可观测的数量范围。"
+  },
+  {
+   "cn": "有限[的]",
+   "en": "finite",
+   "source": "数学名词",
+   "wordNumber": "01.0127",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "α有限",
+   "en": "α-finite,alpha-finite",
+   "source": "数学名词",
+   "wordNumber": "02.0293",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有穷主义",
+   "en": "finitism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.313",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学哲学观点。一般被界定为只承认原始递归算术或可以与原始递归算术相互解释的数学理论是客观的。"
+  },
+  {
+   "cn": "有限应变",
+   "en": "finite strain",
+   "source": "地质学名词",
+   "wordNumber": "09.02.058",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "与无限小应变对应。变形体在递进变形过程的某阶段或终结时达到的应变。是许多小增量应变或无限小应变累积的结果。"
+  },
+  {
+   "cn": "有限能力调度",
+   "en": "finite scheduling",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.170",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据实际的公司约束，使用多种调度排程方法，设计固定的最大能力和工序的过程。"
+  },
+  {
+   "cn": "有限元",
+   "en": "finite element",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2694",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "为求解偏微分方程边值问题近似解，将整个问题所研究的结构或介质区域分解成为有限数量的小的几何子区域。一般被用于复杂结构或介质对地震激发的响应的数值研究。典型的有限元包括二维问题的三角形或矩形，或三维问题"
+  },
+  {
+   "cn": "有限转动",
+   "en": "finite rotation",
+   "source": "物理学名词",
+   "wordNumber": "02.0519",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有限控制器",
+   "en": "finite controller",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0494",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "自动机的核心部件。它根据自动机的状态和扫描到的字符（对下推自动机来说，还有栈顶元素）确定自动机的新状态，输出（或在带上写上）新字符（以及下推栈的变化）等。"
+  },
+  {
+   "cn": "有限自动机",
+   "en": "finite automaton",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0493",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "计算能力最弱的一类自动机，含一个有限控制器、一条输入带以及连接控制器和输入带的一个只读输入头。有限自动机接受的语言是正规语言。"
+  },
+  {
+   "cn": "有限网",
+   "en": "finite net",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0601",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "网元集为有限集的网。特殊网理论中讨论的网（佩特里网的基网）都是有限网。"
+  },
+  {
+   "cn": "有限负荷",
+   "en": "finite loading",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0175",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在某给定时间内工作中心分配到的任务不超过其预期数量的一种负荷分配方式。"
+  },
+  {
+   "cn": "有限振幅",
+   "en": "finite amplitude",
+   "source": "大气科学名词",
+   "wordNumber": "05.157",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "波振幅较大，不能再看作水平流场上小扰动的情况时的振幅。在波的振幅较小时，可以把波动看成叠加在平均波上的小扰动。"
+  },
+  {
+   "cn": "有限群体",
+   "en": "finite population",
+   "source": "遗传学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "由有限数量的个体组成的群体。"
+  },
+  {
+   "cn": "有限点火",
+   "en": "finite burn",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.354",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有限几何",
+   "en": "finite geometry",
+   "source": "数学名词",
+   "wordNumber": "03.0052",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有限自动机",
+   "en": "finite automaton",
+   "source": "数学名词",
+   "wordNumber": "02.0224",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有限型",
+   "en": "finite type",
+   "source": "数学名词",
+   "wordNumber": "02.0250",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有限群",
+   "en": "finite group",
+   "source": "数学名词",
+   "wordNumber": "04.1743",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有限态射",
+   "en": "finite morphism",
+   "source": "数学名词",
+   "wordNumber": "04.1120",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有限差分",
+   "en": "finite differencing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有限振幅",
+   "en": "finite amplitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有限差分",
+   "en": "finite difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限扰动",
+   "en": "finite disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有终卡农",
+   "en": "finite canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有限群体",
+   "en": "finite population",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有穷自动机，有限自动机",
+   "en": "finite automaton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限场",
+   "en": "finite field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限控制器",
+   "en": "finite controller",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限目标",
+   "en": "finite goal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限群",
+   "en": "finite group",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限网",
+   "en": "finite net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有穷性问题",
+   "en": "finiteness problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限差分模式",
+   "en": "finite difference model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有限元法",
+   "en": "finite element method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中[央]差[分]",
+   "en": "centered finite difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有限元法",
+   "en": "finite element method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限时间稳定性",
+   "en": "finite-time stability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限边界元素",
+   "en": "finite boundary element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限元分析",
+   "en": "finite element analysis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "有穷自动机",
+   "en": "finite automaton",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限法律人格",
+   "en": "finite legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限接近理论",
+   "en": "finite approximation theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔华佩实",
+   "en": "Harmony Between Substance and Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "到达终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "到达终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "到达终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "到达终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "到达终点",
+   "en": "finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会学有限论",
+   "en": "sociological finitism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "科学社会学爱丁堡学派的社会建构论取向的一种方法论。认为一个概念的先前使用并不能决定其后继使用，亦即每一次的概念应用行为都是全新的和创造性的过程。"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  },
+  {
+   "cn": "实体",
+   "en": "substance",
+   "source": "马克思主义",
+   "wordNumber": "01.0009",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）首创的范畴，指万物不变的本原，万物由它而生成，最后复归于它。马克思主义哲学吸取了以往哲学中关于实体的丰富思想，形成了物质范畴，以物质范畴扬弃了实体概念。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对物质持续性或间歇性过度使用的状况。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对烟草、酒精、毒品和其他违禁药物中任意一种的过度或不恰当使用的行为。"
+  },
+  {
+   "cn": "放射性物质",
+   "en": "radioactive substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "原子核能发生衰变，放出肉眼看不见也感觉不到，只能用专门的仪器才能探测到的射线的物质。如¹³¹I多见于奶制品的污染。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "可溶性抗菌物质",
+   "en": "soluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.17",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料非紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "非溶出性抗菌物质",
+   "en": "insoluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.18",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂不可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "有机干扰物",
+   "en": "organic interfering substance",
+   "source": "消毒学",
+   "wordNumber": "6.2.13",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于消毒学试验的试验试剂，人为加入试验中能够影响消毒剂消毒效果的有机物，常用的有牛血清白蛋白、小牛血清、腐殖酸等。"
+  },
+  {
+   "cn": "丙烯酰胺前体物质",
+   "en": "acrylamide precursor substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.7",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "在焙烤等高温加工条件下，食品中可通过美拉德反应生成两烯酰胺的成分，主要为还原糖和天门冬酰胺。"
+  },
+  {
+   "cn": "军用化学物质",
+   "en": "military chemical substances",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质",
+   "subjectName": "军用化学物质",
+   "publishYear": "2025",
+   "definition": "用于军事目的或军事活动的化学物质。通常包括化学战剂、军事工业毒物和军事活动中可能遇到的有毒化学物质（生物、物理和化学因素）。"
+  },
+  {
+   "cn": "食品用香精香料",
+   "en": "food flavoring substances",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "符合国家卫生标准的用于食品赋香的香料和香精的统称"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "物质使用障碍",
+   "en": "substance use disorder, SUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "单次或重复使用一种或多种精神活性物质导致的精神或行为障碍。精神活性物质有酒精、阿片类、大麻类、镇静催眠药、可卡因、兴奋剂、致幻剂、烟草和挥发性溶剂等。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "有意添加物质",
+   "en": "intentionally added substance， IAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.45",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在食品接触材料及制品的生产过程中特别添加的，在制造过程或最终产品中具有或曾经起过作用，用于制造聚合物的起始物质、单体、添加剂、溶剂、聚合物生产助剂、聚合助剂和着色剂等。"
+  },
+  {
+   "cn": "食品相关产品新品种",
+   "en": "new food related substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.7",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "用于食品包装材料、容器、洗涤剂、消毒剂和用于食品生产经营的工具、设备的新材料、新原料或新添加剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

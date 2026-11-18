@@ -1,0 +1,742 @@
+{
+ "key": "humean skepticism",
+ "term": "Humean skepticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:51:53+00:00",
+ "status": "ok",
+ "note": "variant=Humean skepticism; 审定公布名词库=1248; 海峡两岸名词对照库=404; 其他来源数据库=74; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "谨慎推理",
+   "en": "skeptical reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0032",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种非单调推理模式。只有当一个命题在所有非单调语义模型中为真时，才认为该命题为真。"
+  },
+  {
+   "cn": "审计职业怀疑",
+   "en": "audit professional skepticism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务时保持怀疑的一种态度。包括采取质疑的思维方式，对可能表明存在由于错误或舞弊而导致的错报的迹象保持警觉，以及对审计证据进行审慎评价。"
+  },
+  {
+   "cn": "人居环境",
+   "en": "human settlement,human habitat",
+   "source": "建筑学名词",
+   "wordNumber": "07.0043",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "人类集聚或居住的生存环境，特别是指建筑、城市、风景园林等整合的人工建成环境。"
+  },
+  {
+   "cn": "人与人之间传播",
+   "en": "human-to-human transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0316",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "传染病的病原体以感染的人作为传染源，通过适当的传播途径传给易感者，并导致易感人群被感染的传播方式。"
+  },
+  {
+   "cn": "胡乐期",
+   "en": "Hulean Age",
+   "source": "地质学名词",
+   "wordNumber": "02.226",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "胡乐阶",
+   "en": "Hulean Stage",
+   "source": "地质学名词",
+   "wordNumber": "02.227",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "人类适应",
+   "en": "human adaption",
+   "source": "地质学名词",
+   "wordNumber": "08.03.024",
+   "subjectFullName": "地质学_第四纪地质学_第四纪古生态学",
+   "subjectName": "第四纪古生态学",
+   "publishYear": "2026",
+   "definition": "人类的形态结构、生理机能和行为方式与其赖以生存的一定环境条件相适合的现象。"
+  },
+  {
+   "cn": "人类迁徙",
+   "en": "human migration",
+   "source": "地质学名词",
+   "wordNumber": "08.03.025",
+   "subjectFullName": "地质学_第四纪地质学_第四纪古生态学",
+   "subjectName": "第四纪古生态学",
+   "publishYear": "2026",
+   "definition": "人类为了觅食生存，或因气候等其他条件变化，周期性地从一地区或气候区迁移到另一地区或气候区的行为。"
+  },
+  {
+   "cn": "人体舒适度",
+   "en": "human comfort",
+   "source": "风景园林名词",
+   "wordNumber": "12.0127",
+   "subjectFullName": "风景园林_风景园林生态_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2025",
+   "definition": "人体在不同的外界环境条件下，皮肤、眼、神经等器官因受环境刺激而产生不同的感觉，经过大脑神经系统整合后形成的总体感觉的适宜或不适宜程度。"
+  },
+  {
+   "cn": "人为干扰",
+   "en": "human disturbance",
+   "source": "风景园林名词",
+   "wordNumber": "12.0038",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "由于人的行为，改变或破坏生态系统、群落或种群的组成结构，改变生物系统的资源基础和环境状况。"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "农学名词",
+   "wordNumber": "19.095",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "劳动者价值的体现。包括劳动者的知识技能、文化技术水平与健康状况等。"
+  },
+  {
+   "cn": "人血白蛋白",
+   "en": "human albumin",
+   "source": "肝病学名词",
+   "wordNumber": "8.4.4.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化腹水",
+   "subjectName": "肝硬化腹水",
+   "publishYear": "2024",
+   "definition": "人体血液中由585个氨基酸残基组成的单肽链蛋白质。分子量约为66.5kDa。肝脏是其主要合成场所，具有维持血浆胶体渗透压、运输营养物质及机体代谢物质等作用。"
+  },
+  {
+   "cn": "人文地理学",
+   "en": "human geography",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.481",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_地学哲学",
+   "subjectName": "地学哲学",
+   "publishYear": "2024",
+   "definition": "地理科学分支科学之一。将人类与自然地理环境的各种要素相互联系起来进行系统研究的理论学科。该学科以人类为研究的主体。"
+  },
+  {
+   "cn": "人类宏基因组学",
+   "en": "human metagenomics",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0037",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "研究人体宏基因组结构和功能、相互之间关系、作用规律和与疾病关系的学科领域。"
+  },
+  {
+   "cn": "人文理性",
+   "en": "human rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.299",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "从人出发实现人的自我生成、自我发展、自我实现的认知能力、道德能力和情感能力的总和。人文理性强调人文关怀、伦理价值必须以合乎科学理性为基础。"
+  },
+  {
+   "cn": "克隆人",
+   "en": "human cloning",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.152",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "使用无性辅助生殖技术生产的、具有自然生命体意义的并在其后天生长发育过程中成为具有个性和社会化属性的人类生命个体。"
+  },
+  {
+   "cn": "后人类",
+   "en": "post human",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.194",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "源于科幻、未来学、当代艺术和哲学领域的概念。其字面意义是人可以存在于超越人类的状态。这一概念涉及道德与正义、语言与跨物种传播、社会制度以及跨学科的智力愿望等问题。"
+  },
+  {
+   "cn": "人类行为学",
+   "en": "human ethology",
+   "source": "行为医学名词",
+   "wordNumber": "1.056",
+   "subjectFullName": "行为医学_总论_行为医学分支学科",
+   "subjectName": "行为医学分支学科",
+   "publishYear": "2022",
+   "definition": "研究人类在自然环境和社会环境中的行为特征及其规律的学科。"
+  },
+  {
+   "cn": "人类神经遗传学",
+   "en": "human neurogenetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.193",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_神经遗传学",
+   "subjectName": "神经遗传学",
+   "publishYear": "2022",
+   "definition": "以现代遗传学的理论和技术，研究和探讨人类神经系统的结构、功能、变异、传递、表达规律及其与疾病关系的学科。"
+  },
+  {
+   "cn": "人体解剖学",
+   "en": "human anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人体胚胎学",
+   "en": "human embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人类气候",
+   "en": "human climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气候学",
+   "en": "human bioclimatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气象学",
+   "en": "human biometeorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人为失误，人误",
+   "en": "human error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肉眼",
+   "en": "human eye",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人为干扰",
+   "en": "human disturbance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人类领地",
+   "en": "human territory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人类能动性",
+   "en": "human agency",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人文地理学",
+   "en": "human geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人文地图",
+   "en": "human map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人类基因组",
+   "en": "human genome",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人类免疫学",
+   "en": "human immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人类遗传学",
+   "en": "human genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人文地图",
+   "en": "human map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "人主体",
+   "en": "human agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人",
+   "en": "virtual human",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人传人",
+   "en": "person-to-person/human-to-human transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类免疫缺陷  病毒",
+   "en": "human immunodeficiency virus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人文",
+   "en": "Renwen （Human Culture）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伪",
+   "en": "Human Modification; Artifice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有组织的怀疑",
+   "en": "organized skepticism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.9",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，指一种制度化的对科学家同行工作的批评态度，具体包括对已确立的规则、权威、既定程序的某些基础以及一般的神圣领域提出疑问。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "人体形态学",
+   "en": "human morphology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0066",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "阐明人体器官的各种形态、结构、成因、相互关系及其发展规律的学科，分为人体学和测量学。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  },
+  {
+   "cn": "人类—自然二元论",
+   "en": "human-nature dualism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.9",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类属于一个较高等级，与其他处于较低等级的动物界和非人类是相互分离的观点。"
+  },
+  {
+   "cn": "人类免疫缺陷病毒",
+   "en": "human immunodeficiency virus",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "一种主要侵犯CD4+ T淋巴细胞RNA病毒。可引起获得性免疫缺陷综合征和相关疾病。"
+  },
+  {
+   "cn": "人员保障",
+   "en": "human resources assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门按照“平战结合、因地制宜，分类管理、分级负责，统一管理、协调运转”的原则建立的突发公共卫生事件应急处理队伍，并加强管理和培训，支持应急处置工作的活动。"
+  },
+  {
+   "cn": "人乳库",
+   "en": "human milk bank",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.19",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "招募母乳捐赠者，收集捐赠母乳，并负责母乳的筛查、加工、储存和分配工作的非营利性专业机构。"
+  },
+  {
+   "cn": "人力资本法",
+   "en": "human capital approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "用健康个体的剩余生命对社会产生的经济价值来衡量疾病间接成本或健康效益的测量方法。"
+  },
+  {
+   "cn": "人类发展指数",
+   "en": "human development index",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "联合国开发计划署在《1990 年人文发展报告》中提出的衡量各国经济社会发展水平的综合指标，通过预期寿命、教育水平和生活质量三项基础变量计算得出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

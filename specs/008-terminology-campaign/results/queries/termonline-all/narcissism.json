@@ -1,0 +1,62 @@
+{
+ "key": "narcissism",
+ "term": "narcissism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:00:17+00:00",
+ "status": "ok",
+ "note": "variant=narcissism; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "冷反射",
+   "en": "narcissus",
+   "source": "光学名词",
+   "wordNumber": "01.444",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "在红外热成像系统中，来自制冷型探测器自身的反射引起的对红外系统干扰的现象。"
+  },
+  {
+   "cn": "冷反射像",
+   "en": "narcissus image",
+   "source": "光学名词",
+   "wordNumber": "14.013",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "制冷型探测器探测到的自身的反射像。它是从系统中各透镜表面反射回来进入光敏面的辐射。"
+  },
+  {
+   "cn": "中国水仙",
+   "en": "Chinese narcissus; Narcissus tazetta var. chinensis (M.Roem.) Masam. & Yanagih.",
+   "source": "农学名词",
+   "wordNumber": "05.438",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "石蒜科水仙属多年生草本花卉。染色体数2n=3x=30。伞形花序着生于花茎顶端，花序外具膜质总苞，内有小花4～9朵。中国水仙有单瓣花品种“金盏银台”和复瓣花品种“玉玲珑”。不耐寒，主要用于盆栽。"
+  },
+  {
+   "cn": "喇叭水仙",
+   "en": "common daffodil; Narcissus pseudonarcissus L.",
+   "source": "农学名词",
+   "wordNumber": "05.439",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "石蒜科水仙属多年生草本花卉。染色体数2n=14，15，20，22，30。花茎高30～80cm，一茎一花；花大型，直径可达10cm，黄或淡黄色，稍具香气，横向或斜上方开放。耐寒，主要用于园林。"
+  },
+  {
+   "cn": "自恋",
+   "en": "narcissism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

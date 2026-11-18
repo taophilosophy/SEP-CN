@@ -1,0 +1,732 @@
+{
+ "key": "causal priority",
+ "term": "causal priority",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:42:42+00:00",
+ "status": "ok",
+ "note": "variant=causal priority; 审定公布名词库=1614; 海峡两岸名词对照库=590; 其他来源数据库=37; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果推论",
+   "en": "causal inference",
+   "source": "心理学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据实验设计中关于自变量、因变量的界定，采用统计方法对变量间的因果关系进行分析的过程。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "地理学名词",
+   "wordNumber": "21.021",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "反映x和y两个变量之间非对应关系的一种数学模型，在旅游学中有比较广泛的运用。如旅游者行为研究、目的地选择、居民对旅游发展的态度和旅游者目的地服务的感知等。"
+  },
+  {
+   "cn": "因果子波",
+   "en": "causal wavelet",
+   "source": "石油名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "电子学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冗余因果性",
+   "en": "redundant causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "某事件的发生存在多个原因，但其中某些原因即使不发生，该事件也可能发生。"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国经济学家，2003年诺贝尔经济学奖获得者格兰杰(C. Granger)提出的一种确定某一时间序列是否能预测另一时间序列的统计假设检验。即如果时间序列X与时间序列Y之间存在格兰杰因果关系，那么X值可"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0637",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "一个变量信息的加入对另一变量具有预测作用的一种关系。最早由格兰杰(Clive W. J. Granger)于1969年提出。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果分析系统",
+   "en": "causal analysis system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果消息日志",
+   "en": "causal message logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果批判",
+   "en": "criticism of causality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "优先律，优先权",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权（=优先律）",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "cause and effect relationship\",\"causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故",
+   "en": "Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大故",
+   "en": "Major Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小故",
+   "en": "Minor Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漂流水道",
+   "en": "wildwater canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "lane\",\"starlane\",\"canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "canal\",\"course\",\"lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "儿童死因链",
+   "en": "causal chain of child mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的5岁以下儿童死因之间，以及这些死因与5岁以下儿童死亡事件之间的关系。"
+  },
+  {
+   "cn": "孕产妇死因链",
+   "en": "causal chain of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的孕产妇死因之间，以及这些死因与孕产妇死亡事件之间的关系。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "战略优先领域",
+   "en": "strategic priorities",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "根据战略目标、环境、资源能力和竞争态势，确定需优先投入资源、重点关注的战略方向。对食品安全未来发展进行系统研究基础上，充分权衡食品安全发展趋势、国家发展目标以及社会经济和科技资源限制等因素后确立的未来"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "优先发展重工业",
+   "en": "give priority to the development of heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "03.0312",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "联共（布）中央为实现苏联社会主义工业化而提出的发展国民经济的重要指导方针。1925年联共（布）第十四次代表大会提出：“优先发展重工业是实现社会主义工业化的实质和关键。”"
+  },
+  {
+   "cn": "流动和留守儿童优先策略",
+   "en": "priority strategy for migrant and left-behind children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_流动儿童和留守儿童健康促进",
+   "subjectName": "流动儿童和留守儿童健康促进",
+   "publishYear": "2025",
+   "definition": "通过确定流动和留守儿童公共卫生问题和需优先解决的问题，设计并实行干预的策略。"
+  },
+  {
+   "cn": "效率优先兼顾公平",
+   "en": "giving priority to efficiency with due consideration to fairness",
+   "source": "马克思主义",
+   "wordNumber": "02.0406",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1993年11月中国共产党第十四届中央委员会第三次全体会议通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》中所确立的社会主义初级阶段的收入分配原则。坚持效率优先就要以承认一定差别为前提提高"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "以农轻重为序安排国民经济",
+   "en": "arranging national economy in the priority order of agriculture light industry and heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0373",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的原则和方法。制订国民经济和社会发展计划，必须首先安排好农业的发展速度和生产规模，安排好农业内部的生产，安排好各业的结构和比例关系；其次安排好轻工业的发展速度和生产规模及其"
+  },
+  {
+   "cn": "党执政兴国的第一要务",
+   "en": "It is essential for the Party to give top priority to development in governing and rejuvenating the country",
+   "source": "马克思主义",
+   "wordNumber": "03.0627",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "所谓“第一要务”，是相对于其他各种要务而言的。把发展作为党执政兴国的第一要务，是由我们党的宗旨和根本任务所规定的，说明在党面临的各种繁重任务中，发展始终是第一位的任务、根本的任务、中心的任务。"
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  },
+  {
+   "cn": "内因和外因",
+   "en": "internal cause and external cause",
+   "source": "马克思主义",
+   "wordNumber": "01.0233",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法关于事物发展原因和动力来源的一对范畴。内因是事物发展变化的内在原因，即内部矛盾。外因是事物发展变化的外部原因，即此事物与它事物的联系、互相作用，即外部矛盾。在事物发展过程中的地位不同，所起的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

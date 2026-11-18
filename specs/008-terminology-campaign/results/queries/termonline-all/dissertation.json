@@ -1,0 +1,52 @@
+{
+ "key": "dissertation",
+ "term": "Dissertation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:56:58+00:00",
+ "status": "ok",
+ "note": "variant=Dissertation; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "学位论文",
+   "en": "thesis,dissertation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.185",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "高等学校或研究机构的学生为取得学位，在导师指导下完成的科学研究、科学试验成果的书面报告。"
+  },
+  {
+   "cn": "博士学位论文",
+   "en": "PhD dissertation,doctoral dissertation,doctor's dissertation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由攻读博士学位的研究生撰写，作为申请博士学位评审用的学术论文。"
+  },
+  {
+   "cn": "论文博士学位",
+   "en": "dissertation doctor",
+   "source": "教育学名词",
+   "wordNumber": "08.242",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "对未修习相应的博士课程，但经审核被确认具有同等学力，且完成博士论文并通过答辩者授予的博士学位。"
+  },
+  {
+   "cn": "学位论文",
+   "en": "degree dissertation",
+   "source": "教育学名词",
+   "wordNumber": "08.184",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "学位申请者根据学位授予单位要求提交的研究论文。在导师的指导下由申请者独立完成，是学位授予的重要依据之一。一般分为学士学位论文、硕士学位论文和博士学位论文三种。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

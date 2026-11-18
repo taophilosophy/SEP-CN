@@ -1,0 +1,792 @@
+{
+ "key": "spatial dimensions",
+ "term": "spatial dimensions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:47:04+00:00",
+ "status": "ok",
+ "note": "variant=spatial dimensions; 审定公布名词库=1846; 海峡两岸名词对照库=520; 其他来源数据库=55; 预公布名词数据库=83; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "空间维",
+   "en": "spatial dimension",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.330",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "空间坐标方向度量。"
+  },
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0193",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "用特定长度或角度单位表示的数值，并在技术图样上用图线、符号和技术要求表示出来。"
+  },
+  {
+   "cn": "维[度]",
+   "en": "dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0314",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0313",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "核医学名词",
+   "wordNumber": "03.0570",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "数学中独立参数的数目。在物理学和哲学领域内，指独立的时空坐标数。"
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0358",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "人们观察客观世界的角度，是一种高层次的类型划分。"
+  },
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "source": "建筑学名词",
+   "wordNumber": "09.0119",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "用特定单位表示一个物体大小的数值。"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "source": "数学名词",
+   "wordNumber": "08.0585",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "尺度传感器",
+   "en": "dimension transducer,dimension sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0076",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受物体的几何尺寸并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "时间维度",
+   "en": "time dimension,temporal dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0030",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "空间性",
+   "en": "spatiality",
+   "source": "地理学名词",
+   "wordNumber": "24.017",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "空间的人文与社会内涵。"
+  },
+  {
+   "cn": "热膨胀分析",
+   "en": "dimensions thermodilatometry",
+   "source": "化学名词",
+   "wordNumber": "03.2691",
+   "subjectFullName": "化学_分析化学_仪器分析_热分析",
+   "subjectName": "热分析",
+   "publishYear": "2016",
+   "definition": "在程序控温下，测量试样长度或体积与温度关系的技术。"
+  },
+  {
+   "cn": "立体美",
+   "en": "dimensions beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "从上下、左右、前后、仰俯等多层次、多角度对人体三维立体结构进行审视而形成的美。"
+  },
+  {
+   "cn": "主尺度",
+   "en": "principal dimensions",
+   "source": "船舶工程名词",
+   "wordNumber": "02.109",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "船体外形大小的基本量度，即船的长度、宽度、深度和吃水。"
+  },
+  {
+   "cn": "异常规模",
+   "en": "anomaly dimension",
+   "source": "地质学名词",
+   "wordNumber": "13.08.043",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "通过异常面积和异常强度刻画的异常大小。"
+  },
+  {
+   "cn": "分维",
+   "en": "fractional dimension",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.715",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "分形理论中最重要的一个概念。它是对非光滑、非规则、破碎的等极其复杂的分形客体进行定量刻画的重要参数。它表征了分形体的复杂程度、粗糙程度。"
+  },
+  {
+   "cn": "情绪维度",
+   "en": "emotional dimension",
+   "source": "行为医学名词",
+   "wordNumber": "4.072",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪的动力性、机动性、强度和紧张度等多方面所固有的某些特征。"
+  },
+  {
+   "cn": "分形维",
+   "en": "fractal dimension",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2246",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "分形的分数维与幂次律分形定标律的幂次。 "
+  },
+  {
+   "cn": "尺寸方案",
+   "en": "dimension plan",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0713",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承尺寸",
+   "subjectName": "滚动轴承尺寸",
+   "publishYear": "2021",
+   "definition": "包括滚动轴承外形尺寸的系统或表。"
+  },
+  {
+   "cn": "尺寸系列",
+   "en": "dimension series",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0715",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承尺寸",
+   "subjectName": "滚动轴承尺寸",
+   "publishYear": "2021",
+   "definition": "宽度系列或高度系列与直径系列的组合。对于圆锥滚子轴承，还包括角度系列。"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因次，量纲",
+   "en": "dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因次",
+   "en": "dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间的",
+   "en": "spatial",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间性",
+   "en": "spatiality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "主尺度",
+   "en": "principal dimensions",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "零维",
+   "en": "zero dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次要因次",
+   "en": "secondary dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主要尺寸",
+   "en": "primary dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刺激维度",
+   "en": "stimulus dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格维度",
+   "en": "personality dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪维度",
+   "en": "emotional dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无扰尺寸",
+   "en": "unperturbed dimension",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "石材",
+   "en": "dimension stone",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "扰动尺寸",
+   "en": "perturbed dimension",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无扰尺寸",
+   "en": "unperturbed dimension",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态位维数,生态位维度",
+   "en": "niche dimension",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "三维",
+   "en": "three dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景维度",
+   "en": "scenario dimension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间人工智能技术",
+   "en": "spatial AI technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息服务平台",
+   "en": "spatial information service platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息服务企业",
+   "en": "spatial information service enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市空间信息模型",
+   "en": "urban spatial information model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家空间数据基础设施",
+   "en": "national spatial data infrastructure (NSDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息共享服务网络",
+   "en": "spatial information sharing service network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“空间信息+”产业生态圈",
+   "en": "Spatial Information Plus industry ecosphere",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国土空间开发格局",
+   "en": "the national spatial development pattern",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“一带一路”空间信息走廊",
+   "en": "Belt and Road spatial information corridor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "航空物流空间信息服务示范",
+   "en": "air logistics spatial information service demonstration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天空海立体化海上空间信息服务体系",
+   "en": "space-air-sea 3D maritime spatial information service system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "21世纪海上丝绸之路空间信息产业合作",
+   "en": "21st-Century Maritime Silk Road spatial information industry cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 24874-2010 草地资源空间信息共享数据规范》",
+   "en": "GB/T 24874-2010 Data standard for spatial information sharing of grassland resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高维统计",
+   "en": "high-dimensional statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全维空间",
+   "en": "full-dimensional space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.50",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "概念所包含的具体方面。"
+  },
+  {
+   "cn": "规格板",
+   "en": "dimension board",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "涂抹采样时用于准确定量采样面积的实验器材。多以金属板或塑料制成，中间镂空的50mm×50mm的正方形。"
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "仪器分辨空间物体最小细节的能力。在X射线诊断中，用每毫米多少条线来衡量，即单位为线/毫米（1/mm或mm-1）或者线对/毫米（lp/mm）。在核医学中，指成像系统分辨互相靠近的两个相邻点间的最小距离，"
+  },
+  {
+   "cn": "空间化生产",
+   "en": "spatial production",
+   "source": "马克思主义",
+   "wordNumber": "05.0114",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "列斐伏尔将空间问题作为理解当今资本主义社会的重要方面，提出了“社会空间”的概念，大卫·哈维在此基础上又把空间作为一个积极因素纳入历史唯物主义的分析和阐述框架之中，提出了“空间与资本积累”“不平衡地理发"
+  },
+  {
+   "cn": "空间定向",
+   "en": "spatial orientation",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.7",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员在所处环境中正确辨识方向的知觉反应或能力。"
+  },
+  {
+   "cn": "多元分层",
+   "en": "multi-dimension stratification",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "以多种指标（或维度）进行社会分层。其中最著名的多元分层模式是马克斯•韦伯提出的三元分层——经济地位、社会地位和权力地位三维分层。与“一元分层"
+  },
+  {
+   "cn": "六维健康调查简表",
+   "en": "short form-6 dimension,SF-6D",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "由布雷热等人开发的包含身体功能、角色限制、社会功能、疼痛、心理健康及活力六个维度的测量健康状态的标准化量表。"
+  },
+  {
+   "cn": "欧洲五维健康量表",
+   "en": "EuroQol five dimensions questionnaire,EQ-5D",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "由欧洲生命质量学会（EuroQol Group）开发的测量健康相关生命质量的标准化量表，包括行动能力、自我照顾、日常活动、疼痛与不适、焦虑与抑郁5个维度，测量结果经转换可以得到健康效用值。"
+  },
+  {
+   "cn": "生长发育评价维度",
+   "en": "dimension of growth and development appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "反映儿童各维度生长发育的指标集合，一般包括生长发育水平、生长发育速度、生长发育匀称度、生长发育年龄等。"
+  },
+  {
+   "cn": "课桌椅功能尺寸",
+   "en": "functional dimension of desk and chair",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课桌椅的各项尺寸，包括椅高（或椅面高）、桌高、桌椅高差、桌下空区、桌面、椅面、椅靠背、桌椅距离等。"
+  },
+  {
+   "cn": "医疗资源空间可及性",
+   "en": "spatial accessibility of health resources",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "居民获取基本医疗卫生需求在空间上的难易程度。"
+  },
+  {
+   "cn": "欧洲生存质量测定量表",
+   "en": "the EuroQoL five-dimension questionnaire, EQ-5D",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.2.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "欧洲生命质量组织研制的一个简易生命质量量表。量表包括两个部分，第一部分应答者回答在移动性、自我照顾、日常活动、疼痛或不适、焦虑或压抑五个方面存在问题的程度；第二部分应答者在视觉模拟尺度上标记总的健康感"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spacial perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对物体的形状、大小、方位、距离等构成空间关系要素的感知和判断"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "特殊监测",
+   "en": "special monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "旨在调查工作场所中某一特定情况进行的监测。当现有信息不足以证明对该情况有充分控制时，通过监测为阐明存在的问题和确定未来的操作程序提供更详细的信息。通常应在新设施运行阶段、设施或程序发生了重大变更后，或"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，用以表示当其他自变量保持恒定，某一自变量与因变量之间的相关关系。"
+  },
+  {
+   "cn": "特殊染色检查",
+   "en": "special stain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.30",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "显示与确定组织或细胞中的正常结构或病理过程中出现的异常物质、病变及病原体等的多种染色技术的总称。"
+  },
+  {
+   "cn": "专项预案",
+   "en": "special plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校某一类突发公共卫生事件的预防和控制而制定的、包含具体工作程序和措施的计划和实施方案的文件。"
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "special child",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "需要给予特殊帮助、特殊教育才能发展的儿童。"
+  },
+  {
+   "cn": "部分母乳喂养",
+   "en": "partial breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "在母乳喂养过程中，除母乳外，以补充营养为目的给婴儿喂食含有能量和营养素的液体（婴儿配方奶等食物）的喂养方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

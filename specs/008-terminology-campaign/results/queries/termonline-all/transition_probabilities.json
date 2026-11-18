@@ -1,0 +1,712 @@
+{
+ "key": "transition probabilities",
+ "term": "transition probabilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:44:08+00:00",
+ "status": "ok",
+ "note": "variant=transition probabilities; 审定公布名词库=1142; 海峡两岸名词对照库=541; 其他来源数据库=43; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "核科学技术名词",
+   "wordNumber": "1.143",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "在单位时间内由某一能级跃迁到另一能级的粒子数与该能级原有粒子数之‍比。"
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "光学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "单位时间内，粒子从一个能级跃迁到另一个能级的概率。数值上等于单位时间内跃迁的粒子数与当前粒子数的比值。"
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "物理学名词",
+   "wordNumber": "06.0639",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "化学名词",
+   "wordNumber": "04.1338",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "在一定的条件下，原子、分子和原子核等体系可以从一个状态变到另一个状态的概率。跃迁过程往往伴随着体系能量的改变和辐射过程，包括能量的发射和吸收。"
+  },
+  {
+   "cn": "转换概率",
+   "en": "transition probability",
+   "source": "药学名词",
+   "wordNumber": "10.102",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "在马尔可夫模型中，从一种健康状态转换为另一种健康状态的可能性。"
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.426",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_激光器件和激光设备_激光器件和激光设备一般名词",
+   "subjectName": "激光器件和激光设备一般名词",
+   "publishYear": "2003",
+   "definition": "在单位时间内，由某一能级跃迁到另一能级的粒子数与该能级原有粒子数之比。"
+  },
+  {
+   "cn": "转移概率",
+   "en": "transition probability",
+   "source": "数学名词",
+   "wordNumber": "09.0293",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "约化跃迁概率",
+   "en": "reduced transition probability",
+   "source": "核科学技术名词",
+   "wordNumber": "1.144",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "对初态角动量求平均、对末态角动量求和的跃迁概率。是实际测量得到的跃迁概‍率。"
+  },
+  {
+   "cn": "约化跃迁概率",
+   "en": "reduced transition probability",
+   "source": "物理学名词",
+   "wordNumber": "09.0237",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "状态转移概率",
+   "en": "state transition probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0105",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策制定后当前状态转移到新状态的概率。"
+  },
+  {
+   "cn": "转移概率矩阵",
+   "en": "transition probability matrix",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0252",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "各元素都是非负的，并且各行元素之和等于1的矩阵，其元素可用概率解释。"
+  },
+  {
+   "cn": "林龄转移概率",
+   "en": "age-class-transition probability",
+   "source": "林学名词",
+   "wordNumber": "06.278",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "某一龄级林木向所有可能的龄级转移的概 率。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "source": "物理学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转换概率",
+   "en": "transition probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过渡",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凌",
+   "en": "transit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子午卫星系统",
+   "en": "transit",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "传递性",
+   "en": "transitivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进入转换区",
+   "en": "check-in to the transition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器翻译",
+   "en": "machine translation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局部事务",
+   "en": "local transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "人口转变",
+   "en": "demographic transition",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口出生率与死亡率从高至低的历史过程。死亡率的下降往往先于生育率，因此在人口转变期间，人口往往会快速增长。"
+  },
+  {
+   "cn": "和平过渡",
+   "en": "peaceful transition",
+   "source": "马克思主义",
+   "wordNumber": "03.0250",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在特定历史条件下，通过不流血的和平方式，把政权从反动统治阶级手中夺过来，实现资本主义向社会主义的过渡。暴力革命是无产阶级夺取政权的一般规律。但是，并不排斥非暴力的和平手段。在当代，我们不反对西"
+  },
+  {
+   "cn": "过渡时期",
+   "en": "transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0255",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从无产阶级取得政权到进入共产主义社会低级阶段之前的这一特殊历史阶段。1875年马克思在《哥达纲领批判》中第一次提出过渡时期这一著名论断。他指出: “在资本主义社会和共产主义社会之间,有一个从前者变为后"
+  },
+  {
+   "cn": "过渡仪式",
+   "en": "transition ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0532",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国民族学家和民俗学家范·盖内普（Arnold Van Gennep）在《过渡礼仪》一书中提出的观点，即个人或群体在不同阶段的转换中所采取的仪式过程。过渡礼仪的完整模式在理论上包括分隔礼仪、聚合礼仪和"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.37",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "处于高能态的同质异能素退激发时所发生的γ跃迁现象。"
+  },
+  {
+   "cn": "市场转型理论",
+   "en": "market transition theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.24",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由美国社会学家倪志伟(Victor Nee）等人针对20世纪80年代以来俄罗斯、东欧等前社会主义国家以及中国的社会分层变迁提出的一种理论。主要观点是：市场化转型导致这些社会的分层机制发生根本改变，即原"
+  },
+  {
+   "cn": "市场转型研究",
+   "en": "market transition study",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.34",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "关注社会主义国家从国家再分配计划经济转向以市场为导向的经济过程中所发生的社会结构变迁和利益格局再调整，以及该过程对社会主义国家的分层结构的影响的研究。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

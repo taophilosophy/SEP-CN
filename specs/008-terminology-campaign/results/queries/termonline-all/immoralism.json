@@ -1,0 +1,32 @@
+{
+ "key": "immoralism",
+ "term": "immoralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:13+00:00",
+ "status": "ok",
+ "note": "variant=immoralism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "不道德管理",
+   "en": "immoral management",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0947",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "违背社会和企业的道德标准的经营管理活动。"
+  },
+  {
+   "cn": "兵者凶器,争者逆德",
+   "en": "Weapons Kill; War Is Immoral.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

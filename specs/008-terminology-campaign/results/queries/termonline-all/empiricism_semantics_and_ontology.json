@@ -1,0 +1,712 @@
+{
+ "key": "empiricism semantics and ontology",
+ "term": "Empiricism Semantics and Ontology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:57:16+00:00",
+ "status": "ok",
+ "note": "variant=Empiricism Semantics and Ontology; 审定公布名词库=9929; 海峡两岸名词对照库=1825; 其他来源数据库=1293; 预公布名词数据库=1048; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "经验主义",
+   "en": "empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与理性主义相对。一切知识来源于感觉经验，感觉经验如实记录和反映了客观世界。"
+  },
+  {
+   "cn": "经验主义",
+   "en": "empiricism",
+   "source": "语言学名词",
+   "wordNumber": "01.184",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“理性主义”相对。一种哲学方法。认为人类的想法来源于经验，所以除了数学以外的知识可能主要来源于经验。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "建构经验论",
+   "en": "constructive empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的一种反实在论。认为科学理论应具有经验适当性，接受一个科学理论并不需要承诺其为真。"
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "主张逻辑与经验是人类知识的来源。主要代表是维也纳学派与柏林学派。"
+  },
+  {
+   "cn": "后经验主义",
+   "en": "post empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "经验主义的发展形式，经验不是理论的附属物，而是被理论所决定，其基础包括现象学、释义学、社会建构论等。"
+  },
+  {
+   "cn": "英国经验主义",
+   "en": "British empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "肯定感性认识的可靠性，贬低理性的作用，提倡观察、分析及实验的归纳法。以洛克(J. Locke)等为代表。"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "经验主义,经验论",
+   "en": "empiricism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后经验主义",
+   "en": "post empiricism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变换语义",
+   "en": "transformation semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成分语义学",
+   "en": "compositional semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动词语义学",
+   "en": "verb semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程语义",
+   "en": "procedural semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算语义学",
+   "en": "computational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传切",
+   "en": "give and go\",\"pass and cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "反对经验主义",
+   "en": "oppose empiricism",
+   "source": "马克思主义",
+   "wordNumber": "03.0347",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经验主义是主观主义的一种表现形式。特点是轻视理论、夸大感性经验，把局部的、个别的、片面的经验误认为普遍的真理。毛泽东在《整顿党的作风》一文中指出，经验主义和教条主义的表现形式虽然不同，但同样违背了主观"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "尚未存在本体论",
+   "en": "ontology of notyetbeing",
+   "source": "马克思主义",
+   "wordNumber": "05.0020",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）提出的本体论理论。布洛赫通过批判二元思维的机械性、静止性与“无人”的自然科学，指出给定存在论的危害在于抹杀了人作为精神性主体对自身、对世界的存在意义；"
+  },
+  {
+   "cn": "自然本体论态度",
+   "en": "natural ontological attitude",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由A. 法因（A. Fine）提出。认为科学无须依赖实在论和非实在论所给出的形而上学和认识论基础，尽量追随科学家的立场，无须给出额外的哲学解释。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "士大夫",
+   "en": "literati and officialdom",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "在中国古代封建制度下介乎庶人与卿大夫之间的一个阶级。其中一种是帮助卿大夫佐治政事的有官禄的小吏，另一种是无官禄的“士民”，与农工商同列“四民”。封建解体后，士阶层兴起，成为秦以后中国文化和知识主要担纲"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  },
+  {
+   "cn": "狩猎—采集社会",
+   "en": "hunting and gathering",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "以采集生活地域上的植物、猎捕动物的办法获取食物的社会。据考证大约始于1万年前，是人类早期的生产与生活方式。随着农业与游牧的技术扩张与稳定逐渐走入绝境。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

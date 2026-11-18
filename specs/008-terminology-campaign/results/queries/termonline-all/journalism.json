@@ -1,0 +1,322 @@
+{
+ "key": "journalism",
+ "term": "journalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:57:12+00:00",
+ "status": "ok",
+ "note": "variant=journalism; 审定公布名词库=170; 海峡两岸名词对照库=9; 其他来源数据库=6; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "轴颈",
+   "en": "journal",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0210",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "转子上与轴承接触或由轴承支承着的在其中旋转的部分。"
+  },
+  {
+   "cn": "期刊",
+   "en": "journal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "刊载不同著者、译者、编者的不同作品，有固定的名称，以统一的装帧形式，按期序号（卷号、期号）或时序号（月号、季号）定期或不定期并计划无限期地连续出版的文献。与图书相比，具有出版周期短、报道速度快、内容新"
+  },
+  {
+   "cn": "日志",
+   "en": "journal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0606",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统记录的信息集合。包含系统在运行过程中发生的各类事件信息。"
+  },
+  {
+   "cn": "日记账",
+   "en": "journal",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0057",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "按照经济业务发生时间的先后顺序，逐日逐笔连续登记经济业务的会计账簿。"
+  },
+  {
+   "cn": "轴颈",
+   "en": "journal",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0110",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "新闻事业",
+   "en": "journalism industry;Chinese journalism;journalism undertaking",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "①从事新闻采集、制作、传播的组织和机构的总称。广义上还可以包括新闻研究和新闻教育的组织和机构。②以采集、制作、传播新闻为其职业追求，有社会担当的组织和机构的总称；同时也包括这些组织和机构的从业人员，为"
+  },
+  {
+   "cn": "实用新闻学",
+   "en": "practical journalism;applied journalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "新闻学研究的一个重要门类。以从事新闻活动所需的各种业务技能、操作方法及执业资质为研究对象。其下属的研究领域包括新闻采访、新闻写作、新闻编辑、新闻评论、广播新闻、电视新闻、新闻电影、新闻摄影、新闻业管理"
+  },
+  {
+   "cn": "电子期刊",
+   "en": "electronic journal;e journal",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.062",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "集图、文、声、像等于一体的形式上保留了印刷版式特征的期刊。"
+  },
+  {
+   "cn": "高等学校学报",
+   "en": "university journal,college journal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.168",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由高等学校主办的、以反映本校科研和教学成果为主的学术理论刊物。"
+  },
+  {
+   "cn": "学报",
+   "en": "academic journal,learned journal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.167",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由学术团体、科研单位或高等院校编辑出版，致力于传播某一特定学科或研究领域的最新成果及其评论的连续出版物。有时也称“学术期刊”。"
+  },
+  {
+   "cn": "电子期刊",
+   "en": "electronic journal,e-journal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.604",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_数字资源建设",
+   "subjectName": "数字资源建设",
+   "publishYear": "2019",
+   "definition": "利用数字化技术生产、制作、出版的期刊。包括印刷型期刊的电子版、无印刷版的网络电子期刊、光盘型的电子期刊等类型。"
+  },
+  {
+   "cn": "主轴颈",
+   "en": "crank journal,main journal",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0888",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "新闻史",
+   "en": "journalism history",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.184",
+   "subjectFullName": "新闻学与传播学_新闻史_新闻史研究",
+   "subjectName": "新闻史研究",
+   "publishYear": "2022",
+   "definition": "人类新闻活动及新闻业产生、变化、发展的历史，同时也是新闻业与整个社会之间相互联系和相互作用的发展史。"
+  },
+  {
+   "cn": "新闻学",
+   "en": "journalism studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.014",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究新闻传播现象和规律的学科。"
+  },
+  {
+   "cn": "新闻伦理",
+   "en": "journalism ethics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.003",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_媒体与传播伦理总论",
+   "subjectName": "媒体与传播伦理总论",
+   "publishYear": "2022",
+   "definition": "支持和维系新闻活动中人际关系良性状态的自律规范与行为准则。该术语虽然常与“新闻道德”不加区别地混用，但很少被用于指称新闻活动中人对物的自律关系；新闻道德的指称范围则涵盖爱护单位的采编和录播器材、遵守财"
+  },
+  {
+   "cn": "新闻失范",
+   "en": "journalism anomie",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.021",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "新闻采制、传播过程中存在的违背新闻道德和职业规范的各种行为与现象。"
+  },
+  {
+   "cn": "新闻立法",
+   "en": "journalism legislation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "由国家立法机关针对新闻传播主体及其新闻传播行为制定(包括修改、废止)单行法律或相关法律规范的活动，以及这种活动结果的文本呈现。具体指对报纸、通讯社、广播、电视、新闻摄影、新闻电影等新闻媒体的资格、职能"
+  },
+  {
+   "cn": "新闻学",
+   "en": "journalism studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "以新闻传播现象和新闻传播的主要载体为研究对象的一门学科。传统研究领域包括新闻史、新闻理论和新闻业务三大内容板块。互联网条件下，这一学科的研究对象已经扩展到新闻传播的更广阔的领域和更多的传播介质形态。"
+  },
+  {
+   "cn": "新闻业务",
+   "en": "journalism operations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "新闻采集(采访)、写作(制作)、编辑等具体操作性工作的统称。传统新闻学的三大内容板块之一，另外两大内容板块分别是新闻史、新闻理论。"
+  },
+  {
+   "cn": "新闻行业",
+   "en": "journalism profession",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "专职从事新闻采集、制作、传播的各个专业领域，以及与这些领域相关的管理和经营系统、传播技术系统的统称。"
+  },
+  {
+   "cn": "系统日志",
+   "en": "system journal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "用户日志",
+   "en": "user journal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主轴颈",
+   "en": "crankshaft journal",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "天体物理学报",
+   "en": "Astrophysical Journal\",\"ApJ",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文学报",
+   "en": "Astronomical Journal\",\"AJ",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天体物理学报通信",
+   "en": "Astrophysical Journal Letters\",\"ApJL",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日志文件",
+   "en": "log file\",\"journal file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电子杂志",
+   "en": "electronic journal\",\"e-zine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "昼行性",
+   "en": "diurnality\",\"diurnalism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "体育记者",
+   "en": "sports journalist\",\"sportwriter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斯大林新闻思想",
+   "en": "Stalins thoughts on journalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0101",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林关于报纸及新闻媒体的作用、地位和应坚持的原则的思想综合，包括：①报纸作用。党的报纸具有“极强的凝聚力”，帮助党发挥核心领导作用；运用报纸进行批评和自我批评，“及时发现我们党的脓疮”；“精神导线”"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

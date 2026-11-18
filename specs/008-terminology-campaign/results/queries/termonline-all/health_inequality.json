@@ -1,0 +1,762 @@
+{
+ "key": "health inequality",
+ "term": "health inequality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:55:25+00:00",
+ "status": "ok",
+ "note": "variant=health inequality; 审定公布名词库=4422; 海峡两岸名词对照库=917; 其他来源数据库=146; 预公布名词数据库=1126; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "不等式",
+   "en": "inequality",
+   "source": "数学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等方程",
+   "en": "inequation",
+   "source": "数学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束条件",
+   "en": "inequality constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题需要满足的不等式形式的约束条件。"
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "天文学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳引力作用而产生的周期为一个朔望月的小摄动项。"
+  },
+  {
+   "cn": "信息不平等",
+   "en": "information inequality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "不同国家、阶级、地域、种族、性别等背景的人获取与使用信息资源的机会和能力存在差异的现象。在数字化时代突出表现为“数字鸿沟”的形成。"
+  },
+  {
+   "cn": "施瓦茨不等式",
+   "en": "Schwarz inequality",
+   "source": "物理学名词",
+   "wordNumber": "01.0455",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔不等式",
+   "en": "Bell inequality",
+   "source": "物理学名词",
+   "wordNumber": "06.0769",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0063",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "热力学第二定律的另一种表达形式，可以表述为：过程的熵变大于或等于热温商。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "物理学名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统在相同的始、终态间经历可逆变化与不可逆变化时存在下述关系：<img src='/root/syzx/static/spz/huaxue2.04.0206.1.png'/>，式中dS、δQ分别为系统"
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天文潮潮差变化逐日不等的现象。其周期为27.3216天。"
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "地理学名词",
+   "wordNumber": "24.019",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人、资源、生活品的不均衡空间分布或空间关系。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学工程名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束",
+   "en": "inequality constraint",
+   "source": "化学工程名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "熵不等式",
+   "en": "entropy inequality",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变分不等式",
+   "en": "variational inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0688",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加权不等式",
+   "en": "weighted inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件不等式",
+   "en": "conditional inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0066",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不等式",
+   "en": "absolute inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0065",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基不等式",
+   "en": "Minkowski inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0069",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均差",
+   "en": "inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "月行差",
+   "en": "lunar inequality\",\"evection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低潮不等",
+   "en": "low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高潮不等",
+   "en": "high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality\",\"parallactic equation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回归低潮不等",
+   "en": "tropic low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "回归高潮不等",
+   "en": "tropic high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康心理学",
+   "en": "health psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康岛",
+   "en": "health island",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康指标",
+   "en": "health indicator",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "平均日高潮不等",
+   "en": "mean diurnal high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "健康与保健地理学",
+   "en": "geography of health and health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康筛查",
+   "en": "health screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生系统",
+   "en": "health system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": " electronic health record",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "家庭健康系统",
+   "en": "home health system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health QR code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康监控器具",
+   "en": "health monitoring device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报表",
+   "en": "health declaration form",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生检疫",
+   "en": "health and quarantine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿码",
+   "en": "green (health) code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  数字化健康证明",
+   "en": "digital health certificate    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康不平等",
+   "en": "health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "各类经济特征人群之间健康水平的差异。"
+  },
+  {
+   "cn": "健康不公平",
+   "en": "health inequity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "人们获得良好健康状态的机会、条件的差异。"
+  },
+  {
+   "cn": "健康不平等改善策略",
+   "en": "strategy to reduce health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "为实现健康公平，世界卫生组织基于健康社会决定因素理论给各国政府提供了一系列具体的政策建议。"
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "社会不平等",
+   "en": "social inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会不同群体之间或同一群体内部不同个体之间存在资源或机会的不平等分配。这种不平等主要表现为两大类：机会不平等（获取资源的机会不平等）和结果不平等（实际拥有的资源不平等）。"
+  },
+  {
+   "cn": "收入不平等",
+   "en": "income inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会中人们之间的收入水平差异。通常有两种方式测量收入不平等程度：一种是基尼系数（基于收入获得者百分比与收入百分比之间的回归线来计算），另一种是高低收入组之比（如收入最高的10％的人口的平均收入与收"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "不仅是没有疾病和衰弱状态，而是一种在身体上、精神上和社会适应上的完好状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "身体、心理和社会适应的完好状态，而不仅仅是没有疾病或虚弱。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "健康责任",
+   "en": "health responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "政府、社区及个人对个体和群体健康所承担的义务。政府和社区应制定有助于促进个体和群体健康的政策，提供健康的环境；个人应保持健康的生活方式，为自身、他人及群体健康提供支持。"
+  },
+  {
+   "cn": "卫生管理人员",
+   "en": "health administrator",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事卫生管理的人员。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "放射卫生学",
+   "wordNumber": "1.4",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射引起的从变化、损伤、损害到危害的种种改变。"
+  },
+  {
+   "cn": "卫生监督",
+   "en": "health inspection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "行政机关依据法律法规的规定对个人、法人和组织从事与卫生有关的事项许可，对执行卫生法律法规的情况进行监督检查，并对违法行为做出处理的行政执法行动。"
+  },
+  {
+   "cn": "健康状况",
+   "en": "health status",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.7",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "反映某个人或某个人群整体健康状况的指标，现有的健康状况指标有健康结果指标（发病率、死亡率等）、医疗服务利用指标（门诊数、住院天数等）、主观健康评价指标等。"
+  },
+  {
+   "cn": "健康职业",
+   "en": "health occupations",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "泛指所有的健康服务提供职业，包括正式系统中的职业（如医生、护士、药剂师、牙医等），相关的健康工作者（如医学实验室人员、职业治疗师），以及替代医疗职业（比如针灸师）。"
+  },
+  {
+   "cn": "医疗专业",
+   "en": "health professions",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "专业(profession）是一种需要广泛、系统性知识、技能或科学训练的职业。具备对知识体系的独占或垄断能力，并获得社会大众对此权威的认可，是专业不可或缺的要件。医疗专业即医疗领域中符合上述条件的职业"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

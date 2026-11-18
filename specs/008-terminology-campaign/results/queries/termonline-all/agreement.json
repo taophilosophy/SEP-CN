@@ -1,0 +1,622 @@
+{
+ "key": "agreement",
+ "term": "agreement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:53:53+00:00",
+ "status": "ok",
+ "note": "variant=agreement; 审定公布名词库=104; 海峡两岸名词对照库=92; 其他来源数据库=11; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "协定",
+   "en": "agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0419",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "国家间或国家与其他国际法主体间用来规定专门问题或临时性问题的，有效期较短的契约性文件。泛指具有法律拘束的任何国际协议。特指条约的一个名称，即以“协定”为名称的国际协议。"
+  },
+  {
+   "cn": "协议书",
+   "en": "agreement",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "符合率",
+   "en": "agreement rate",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.086",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_二级预防",
+   "subjectName": "二级预防",
+   "publishYear": "2022",
+   "definition": "同一批研究对象两次诊断结果均为阳性与均为阴性的人数之和占所有进行诊断试验人数的比例。"
+  },
+  {
+   "cn": "协定贸易",
+   "en": "agreement trade",
+   "source": "经济学名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "根据缔约国之间签订的贸易协定进行的对外贸易活动。可分为双边贸易协定和多边贸易协定，政府间的贸易协定及民间团体签署的贸易协定。"
+  },
+  {
+   "cn": "设计协议",
+   "en": "design agreement",
+   "source": "风景园林名词",
+   "wordNumber": "03.0306",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "委托人与设计人为完成约定的设计任务，签订的明确双方权利和义务的原则和框架的约定。"
+  },
+  {
+   "cn": "华盛顿协议",
+   "en": "Washington Agreement",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.236",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "1989年由来自美国、英国、加拿大、爱尔兰、澳大利亚、新西兰6个国家的民间工程专业团体发起和在华盛顿签署的协议。主要针对国际上本科工程学历（一般为4年）资格互认，确认由签约成员认证的工程学历基本相同，"
+  },
+  {
+   "cn": "约束性协议",
+   "en": "restriction agreement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.236",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "在企业经营过程中，由各方协商达成并拥有法律效力的协议。"
+  },
+  {
+   "cn": "保密协议",
+   "en": "confidentiality agreement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.169",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "协议当事人之间就一方告知另一方的书面或口头信息，约定不得向任何第三方披露该信息的协议。负有保密义务的当事人违反协议约定，将保密信息披露给第三方，将要承担民事责任甚至刑事责任。保密协议一般包括保密内容、"
+  },
+  {
+   "cn": "框架协议",
+   "en": "frame agreement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.618",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "合同双方当事人就合同标的交易达成意向并对主要内容予以确定而订立的合同。"
+  },
+  {
+   "cn": "双边协定",
+   "en": "bilateral agreement",
+   "source": "电力名词",
+   "wordNumber": "06.192",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "两个控制中心之间的协定。该协定标识可访问的数据元素和对象以及允许访问的程度。"
+  },
+  {
+   "cn": "书刊交换协议",
+   "en": "exchange agreement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.406",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "两个或两个以上的图书馆制定的有关出版物或馆藏书刊交换种类、数量、期限、范围和方式等内容的合同或约定。"
+  },
+  {
+   "cn": "密钥协商",
+   "en": "key agreement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0082",
+   "subjectFullName": "计算机科学技术_信息安全_密码理论与技术",
+   "subjectName": "密码理论与技术",
+   "publishYear": "2018",
+   "definition": "两个实体间以双方都无法预先决定密钥值的方式，确定共享秘密密钥的过程。"
+  },
+  {
+   "cn": "对等协定",
+   "en": "peering agreement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0554",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在两个因特网服务提供方之间交换可达性信息和数据分组的协定。"
+  },
+  {
+   "cn": "咨询协议书",
+   "en": "consultancy agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0518",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "咨询工程师为客户(雇主，或施工–设计承包商)提供服务的服务协议书。"
+  },
+  {
+   "cn": "停滞协议",
+   "en": "standstill agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0611",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "公司与投资者协商制定的一种协议，大股东自愿在一段时间内不增加股票持有量。"
+  },
+  {
+   "cn": "抵押协议",
+   "en": "collateral agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0495",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "用试图通过对债务担保做出规定的方法，提出信用风险问题的贷款或者其他协议的一部分。"
+  },
+  {
+   "cn": "巴塞尔协议",
+   "en": "Basel agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0800",
+   "subjectFullName": "管理科学技术_金融工程_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "巴塞尔银行监管委员会为了维持资本市场稳定、减少国际银行间的不公平竞争、降低银行系统信用风险和市场风险，制定的一系列重要的银行监管规定。"
+  },
+  {
+   "cn": "合同协议书",
+   "en": "contract agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0521",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "双方间批准或确立合同的正式协议书。"
+  },
+  {
+   "cn": "信托合同",
+   "en": "trust agreement",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0620",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "信托人接受委托人的委托，以自己的名义，用委托人的费用，为委托人办理购销、寄售等事务，并收取相应酬金的协议。"
+  },
+  {
+   "cn": "汉堡协定",
+   "en": "hamburg agreement",
+   "source": "教育学名词",
+   "wordNumber": "05.157",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "由原联邦德国各州州长于1968年在汉堡共同签署的，旨在规定联邦德国普通学校教育制度基本框架的《联邦德国各州关于统一学校制度的协定》。"
+  },
+  {
+   "cn": "协定缔约国",
+   "en": "agreement country",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "协定关税",
+   "en": "agreement tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "协定贸易",
+   "en": "agreement trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "协议公司",
+   "en": "agreement corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巴塞尔协议",
+   "en": "Basel Agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保证协定",
+   "en": "guarantee agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑协议",
+   "en": "acceptance agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[船货]抵押契约，押船契约",
+   "en": "hypothecation agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①贷款协议 ②借款合同",
+   "en": "loan agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多边协定",
+   "en": "multilateral agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附条件交付契约",
+   "en": "escrow agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同协议",
+   "en": "joint agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关税协定",
+   "en": "tariff agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际协议",
+   "en": "international agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损协议书",
+   "en": "average agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合伙契约",
+   "en": "partnership agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互换货币协议",
+   "en": "swap agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回购协议",
+   "en": "repurchase agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "混合协议",
+   "en": "mixed agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币协定",
+   "en": "monetary agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自由贸易协定",
+   "en": "Free Trade Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特惠贸易协定",
+   "en": "Preferential Trade Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化监管协议",
+   "en": "digital regulatory agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私保护协议",
+   "en": "privacy protection agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据许可协议",
+   "en": "data license agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨太平洋伙伴关系协定",
+   "en": "Trans-Pacific Partnership Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贡献者许可协议",
+   "en": "Contributor License Agreement (CLA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台服务协议和交易规则",
+   "en": "platform service agreement and trading rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《SJ/T 11691-2017 信息技术服务 服务级别协议指南》",
+   "en": "SJ/T 11691-2017 Information technology service — Guide of service level agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "赡养协议",
+   "en": "maintenance agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.12",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "赡养人与被赡养人之间或者赡养人之间，依照法律规定或相互间的约定，就承担赡养义务的有关事宜，平等、自愿签订的履行赡养义务的协议。赡养协议分两大类：一类是赡养人与被赡养人签订的赡养协议；另一类是赡养人之间"
+  },
+  {
+   "cn": "遗赠扶养协议",
+   "en": "legacy-support agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.11",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "受扶养的公民与扶养人之间关于扶养人承担受抚养人的生养死葬的义务，受扶养人将财产遗赠给抚养人的协议。"
+  },
+  {
+   "cn": "量价协议",
+   "en": "price-volume agreement",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2.1.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医疗保险机构与药企签订协议，将价格与用量挂钩，当药品销售量或销售额超过某一约定数量时，降低药品价格的机制。"
+  },
+  {
+   "cn": "财务风险分担",
+   "en": "financial-based agreement,CSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医保部门和药企签订协议，在赋予创新药准入医保目录机会的同时，要求制药企业分担部分成本，使医保基金承担的成本控制在其预算范围内的机制。"
+  },
+  {
+   "cn": "协议管理制度",
+   "en": "regulation on agreements management",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险经办机构对定点医疗机构和定点零售药店在协议签订、履行、变更、解除等方面制定的一系列管理制度。"
+  },
+  {
+   "cn": "药品风险分担机制",
+   "en": "risk sharing agreement for pharmaceuticals,RSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "药品疗效的不确定性或超过医保预算的风险，由医疗保险基金与药企共同承担药品费用的机制。"
+  },
+  {
+   "cn": "卫生与植物卫生措施协定",
+   "en": "agreement on sanitary and phytosanitary measures, SPS",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "世界贸易组织制定的贸易协定之一，规定了食品安全和动植物卫生标准的基本规则。主要目的是维护任何政府提供其认为适当的健康保护水平的主权，但要确保其不是出于保护主义的目的，也不会对国际贸易造成不必要的壁垒。"
+  },
+  {
+   "cn": "技术性贸易壁垒协定",
+   "en": "agreement on technical barriers to trade, TBT",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "世界贸易组织制定的贸易协定之一，旨在规范成员国实施各项技术法规和标准的行为，确保技术标准不会给国际贸易造成不必要障碍的协议。"
+  },
+  {
+   "cn": "动植物卫生检疫措施协定",
+   "en": "agreement of sanitary and phytosanitary measures，SPS",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.35",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "世界贸易组织关于各成员货物贸易的一项重要协定，旨在避免各成员的卫生与植物卫生措施给国际贸易带来不必要的障碍，最大限度地减少和消除国际贸易中的技术性壁垒，为世界经济全球化服务。"
+  },
+  {
+   "cn": "协议薪酬",
+   "en": "agreed annual salary",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医疗机构和医务人员根据工作岗位及绩效目标而商定的薪酬。"
+  },
+  {
+   "cn": "疗效风险分担",
+   "en": "performance-based risk sharing agreement,PBRSA，outcome-based risk sharing arrangement，OBRSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医保部门和药企签订协议，将药品在真实世界中的治疗结果作为触发事件，当治疗结果低于预期时，医保将要求药企降价、打折、返还已支付的医保基金，或调整未来医保支付的范围和标准，甚至要求药品退出医保目录的响应行"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

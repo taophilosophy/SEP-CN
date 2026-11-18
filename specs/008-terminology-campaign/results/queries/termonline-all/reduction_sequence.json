@@ -1,0 +1,722 @@
+{
+ "key": "reduction sequence",
+ "term": "reduction sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:02:14+00:00",
+ "status": "ok",
+ "note": "variant=reduction sequence; 审定公布名词库=4663; 海峡两岸名词对照库=1419; 其他来源数据库=128; 预公布名词数据库=335; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "压缩量",
+   "en": "reduction",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "压缩前后坯料高度的差值。即高度方向被压缩而减小的尺寸。"
+  },
+  {
+   "cn": "约化",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0200",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0199",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "核医学名词",
+   "wordNumber": "02.0242",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "物质得到电子、还原剂失去电子的过程。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0010",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据语法规则，把句子或句型中的符号串替换为规则左部的非终极符。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "把解决一个问题归结到解决另一个问题的方法。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化学名词",
+   "wordNumber": "01.0389",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "1个或多个电子转移到1个分子实体(元素氧化态降低)的过程。"
+  },
+  {
+   "cn": "复位术",
+   "en": "reduction",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.216",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0298",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "精细化工名词",
+   "wordNumber": "08.1119",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "在氧化还原反应中，失去电子或有电子偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "冶金学名词",
+   "wordNumber": "06.0157",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "在氧化还原反应里，失去电子或有电子对偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "核医学名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "在氧化还原反应中，所含原子失去电子(或电子对偏离)、化合价升高的物质。还原剂反应时本身被氧化，生成氧化产物。"
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.028",
+   "subjectFullName": "化工（二）_反应与三剂_反应",
+   "subjectName": "反应",
+   "publishYear": "2019",
+   "definition": "在有电子转移的化学反应中，反应物原子得电子、氧化数降低的过程。"
+  },
+  {
+   "cn": "还原障",
+   "en": "reduction block",
+   "source": "地质学名词",
+   "wordNumber": "13.02.080",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "某些变价元素在自然界迁移过程中，因还原而发生沉淀时的环境。"
+  },
+  {
+   "cn": "解剖复位",
+   "en": "anatomic reduction",
+   "source": "整形外科名词",
+   "wordNumber": "12.13",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折段通过复位恢复正常的解剖关系，对位对线完全良好的状态。"
+  },
+  {
+   "cn": "功能复位",
+   "en": "functional reduction",
+   "source": "整形外科名词",
+   "wordNumber": "12.131",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折复位后，两骨折段虽未恢复正常的解剖关系，但在骨折愈合后对肢体功能无明显影响者。为有别于解剖复位的一种复位状态。"
+  },
+  {
+   "cn": "闭合复位",
+   "en": "closed reduction",
+   "source": "整形外科名词",
+   "wordNumber": "12.132",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "不显露骨折端，仅经牵引及手法操作而使骨折复位的治疗方法。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疝复位",
+   "en": "hernia reduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双减数分裂",
+   "en": "double reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硝酸盐还原作用",
+   "en": "nitrate reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚硝酸盐还原作用",
+   "en": "nitrite reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "订正因子",
+   "en": "reduction factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差降低",
+   "en": "variance reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[海平面]气压换算",
+   "en": "pressure reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曳力降低",
+   "en": "drag reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原电位",
+   "en": "reduction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原值",
+   "en": "reduction value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "破碎比",
+   "en": "reduction ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "直接还原",
+   "en": "direct reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原区",
+   "en": "reduction zone",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原制粉法",
+   "en": "reduction process",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "还原沉淀",
+   "en": "reduction precipitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "直接还原",
+   "en": "direct reduction",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作减贫框架",
+   "en": "cooperative poverty reduction framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字减贫",
+   "en": "Poverty Reduction Through Digital Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国扶贫国际论坛",
+   "en": "China Poverty Reduction International Forum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "氧化还原滴定法",
+   "en": "oxidation-reduction titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于氧化还原反应的滴定分析法。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "舰艇部队战斗减员",
+   "en": "personnel reduction from sea warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "海上作战中，舰艇成员阵亡（直接战斗行动死于战位、溺死或负伤后在到达医院船、码头救护所以前死亡）、失踪、被俘、投敌或因伤病失战斗执勤能力，经舰救护所救治仍无法返岗，需送医院船等上级救护机构治疗的情况。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "二五减租",
+   "en": "reduction of land rent by  per cent",
+   "source": "马克思主义",
+   "wordNumber": "02.0338",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "减租减息的主要内容。第一次国内革命战争时期，中国共产党曾促使国民政府在其“政纲”中作出了“减轻佃农田租百分之二十五”的规定。但为地主阶级所反对，未能实行。抗日战争时期，中国共产党在抗日根据地实行了二五"
+  },
+  {
+   "cn": "舰艇部队疾病减员",
+   "en": "personnel reduction from sickness in the naval force",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰艇部队在海上执行任务时，舰艇成员患病、非战斗外伤和意外死亡导致不能参战的情况。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "肥胖、减脂手术全营养配方食品",
+   "en": "nutritionally complete formula foods for obesity and fat reduction surgery",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.28",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为适应肥胖、减脂手术病人因代谢紊乱导致的蛋白质和微量营养素摄入不足的情况，在保证较低能量摄入配方的基础上调整蛋白质和微量营养素的比例，使其能作为单一营养来源满足肥胖、减脂手术患者营养需求的配方食品。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

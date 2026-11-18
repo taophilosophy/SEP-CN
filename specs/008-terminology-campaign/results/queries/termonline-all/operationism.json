@@ -1,0 +1,522 @@
+{
+ "key": "operationism",
+ "term": "operationism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:52:57+00:00",
+ "status": "ok",
+ "note": "variant=operationism; 审定公布名词库=31; 海峡两岸名词对照库=15; 其他来源数据库=12; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "操作主义",
+   "en": "operationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "主张以操作行为来定义科学概念，概念的意义在于一套与之相应的科学实验操作和经验行为。"
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.759",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "20世纪30年代初发展起来的一门学科。主要研究目的是在决策时为管理人员提供科学依据，是实现有效管理、正确决策和现代化管理的重要方法之一。该学科应用于数学和形式科学的跨领域研究，旨在寻找复杂问题中的最优"
+  },
+  {
+   "cn": "新闻业务",
+   "en": "journalism operations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "新闻采集(采访)、写作(制作)、编辑等具体操作性工作的统称。传统新闻学的三大内容板块之一，另外两大内容板块分别是新闻史、新闻理论。"
+  },
+  {
+   "cn": "信息战",
+   "en": "information operations",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0356",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "敌对双方为争取信息的获取权、控制权和使用权，通过利用、破坏敌方和保护己方的信息系统而展开的一系列作战行动。"
+  },
+  {
+   "cn": "网络空间战",
+   "en": "cyberspace operations",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0357",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "在网络空间中或透过网络空间实施的军事行动、情报行动和相关活动。目的是保证网络空间能为己方使用，获得网络空间作战优势与控制权。"
+  },
+  {
+   "cn": "作业分析",
+   "en": "operations analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0992",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "研究在某道工序中，如何使工人的操作以及工人和机器的相互配合达到最经济、最有效程度的分析方法。"
+  },
+  {
+   "cn": "颅脑手术",
+   "en": "craniocerebral operations",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.211",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "基本运算",
+   "en": "fundamental operations",
+   "source": "数学名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research",
+   "source": "自动化名词",
+   "wordNumber": "03.263",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "毁胎术",
+   "en": "destructive operations",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.433",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "制造运行软件",
+   "en": "manufacturing operations software",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.143",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "管理制造执行过程的软件。包括MES（制造执行系统）、LIMS（实验室信息管理系统）与CIMS（计算机集成制造系统）等应用类软件。"
+  },
+  {
+   "cn": "联合作战图",
+   "en": "joint operations map",
+   "source": "测绘学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "表示与诸军兵种联合作战相关的陆地、海洋和航空等基本要素的专用地图。比例尺为1∶25万、1∶50万和1∶100万。"
+  },
+  {
+   "cn": "[输变电元件]运行相关停运",
+   "en": "operations related outage",
+   "source": "电力名词",
+   "wordNumber": "25.120",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "为改善系统运行工况,安排元件退出运行的一种预安排停运。"
+  },
+  {
+   "cn": "防御性信息作战",
+   "en": "defensive information operations",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0385",
+   "subjectFullName": "计算机科学技术_信息安全_容侵系统与生存技术",
+   "subjectName": "容侵系统与生存技术",
+   "publishYear": "2018",
+   "definition": "通过信息保障、物理安全、行动安全、反欺骗、反情报、电子保护等措施和手段来保护己方信息和防护己方信息系统的过程。"
+  },
+  {
+   "cn": "分开的平行运行",
+   "en": "segregated parallel operations",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.114",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "在平行或接近平行的仪表跑道同时运行时，一条跑道专用于进近，而另一条跑道专用于起飞离场。"
+  },
+  {
+   "cn": "双重作业",
+   "en": "double freight operations",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0266",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "网络运行中心",
+   "en": "network operations center,NOC",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0093",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "负责运行和维护网络的组织。"
+  },
+  {
+   "cn": "工艺路线",
+   "en": "routing,bill of operations",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0088",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "详细阐述特定产品的制造方法的文件。包括操作及其顺序、工作地、调整和运行设备的标准。在某些公司还包括工具、工人技术水平、检查及试验等信息。"
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research,operational research",
+   "source": "数学名词",
+   "wordNumber": "011.0001",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "术间自净时间",
+   "en": "recovery time between operations",
+   "source": "普通外科学名词",
+   "wordNumber": "02.041",
+   "subjectFullName": "医学_普通外科学_无菌术",
+   "subjectName": "无菌术",
+   "publishYear": "2026",
+   "definition": "在正常运行的换气次数条件下，使手术室内术后废弃物已被清除后的空气含尘浓度降低约90%或降低到设计洁净度级别上限浓度之内所需的时间。"
+  },
+  {
+   "cn": "知识操作化",
+   "en": "knowledge operationalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运算每秒，操作每秒",
+   "en": "operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "作业控制中心",
+   "en": "operations control center",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区中点运算",
+   "en": "point-in-polygon operations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "十亿次运算每秒，吉次运算每秒",
+   "en": "giga operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "万亿次运算每秒，太[拉] 次运算每秒",
+   "en": "tera operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作与设备手册",
+   "en": "operations and equipment manual",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "百万次运算每秒",
+   "en": "million operations per second\",\"MOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "千万亿条指令每秒，拍[它]条指令每秒",
+   "en": "peta operations per second\",\"POPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络操作控制中心",
+   "en": "network operations control center\",\"NOCC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浮点运算每秒",
+   "en": "floating-point operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十亿次浮点运算每秒，吉次浮点运算每秒",
+   "en": "giga floating-point operations per second\",\"gigaflops",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "千万亿次浮点运算每秒，拍[它] 次浮点运算每秒",
+   "en": "peta floating point operations per second\",\"petaflops\",\"PFLOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "万亿次浮点运算每秒,太[拉]次浮点运算每秒",
+   "en": "tera－floating-point operations per second\",\"teraflops\",\"TFLOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "百万次浮点运算每秒",
+   "en": "mega floating point operations per second\",\"million floationg-point oprations per second\",\"MFLOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防御性信息作战",
+   "en": "defensive information operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国维持和平行动部",
+   "en": "Department of Peacekeeping Operations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混业经营风险",
+   "en": "risk of mixed operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人征信业务牌照",
+   "en": "license for personal credit information operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运维管控域",
+   "en": "operations and maintenance (O&M) control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "休舱",
+   "en": "to close temporary treatment centers; to cease/wind up operations",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.2-1988 数据处理词汇 第2部分：算术和逻辑运算》",
+   "en": "GB/T 5271.2-1988 Data processing — Vocabulary — Section 2: Arithmetic and logic operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "昆明国家经开区城市智能运营中心（IOC）",
+   "en": "Intelligent Operations Center (IOC) of State-Level Kunming Economic and Technological Development Zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 28827.1-2012 信息技术服务 运行维护 第1部分：通用要求》",
+   "en": "GB/T 28827.1-2012 Information technology service — Operations and maintenance — Part 1: General requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2727-2014 互联网数据中心运维管理技术要求》",
+   "en": "YD/T 2727-2014 Technical requirement for operations and maintenance management of Internet data center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 1926.2-2009 IT运维服务管理技术要求 第2部分：管理服务定义》",
+   "en": "YD/T 1926.2-2009 IT operations and maintenance service management technical specification — Part 2: Managed service definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作主义",
+   "en": "operationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "主张以操作行为来定义科学概念，概念的意义在于一套与之相应的科学实验操作和经验行为。"
+  },
+  {
+   "cn": "操作化",
+   "en": "operationalization",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "通过对抽象概念的定义来选择（或制定）调查指标，从而将抽象概念转化为具体的可以观测的变量的过程。"
+  },
+  {
+   "cn": "政务公开",
+   "en": "transparency in government operations",
+   "source": "马克思主义",
+   "wordNumber": "04.0197",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家政治事务和活动在法律范围内向人民公开，也就是让权力在阳光下运行。具体要求：政府的工作内容公开化，政府筹划或正准备进行的各项工作分类进行公开，政府的各项工作内容及进程公开，任何公民都可以通过特定途径"
+  },
+  {
+   "cn": "公立医院管办分开",
+   "en": "supervision be separated from day-to-day operations in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将政府对公立医院的监督管理职责与公立医院的经营管理职能分开的管理体制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

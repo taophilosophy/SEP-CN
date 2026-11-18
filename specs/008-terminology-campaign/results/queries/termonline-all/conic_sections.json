@@ -1,0 +1,762 @@
+{
+ "key": "conic sections",
+ "term": "conic sections",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:42:57+00:00",
+ "status": "ok",
+ "note": "variant=conic sections; 审定公布名词库=1403; 海峡两岸名词对照库=348; 其他来源数据库=28; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "截面检验锥度量规",
+   "en": "section test conicity gauge",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0250",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "通过对给定截面直径的检验，判定圆锥工件合格性的特殊锥度量规。"
+  },
+  {
+   "cn": "锥度效应",
+   "en": "conicity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.364",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "不因轮胎旋转方向改变而改变方向的侧向力偏移的现象。"
+  },
+  {
+   "cn": "光锥",
+   "en": "optical conic",
+   "source": "光学名词",
+   "wordNumber": "09.343",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "一种由光纤或者光纤束制成的、两端口径不同的非成像聚光元件。其大端一般放置在透镜焦面附近，借助光纤把入射光引导到小端，以便探测器接收。它有空腔圆锥、实心圆锥、角锥等类型。主要用于像增强器与CCD或互补金"
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conic projection",
+   "source": "测绘学名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "以圆锥面为承影面的一类投影。假想用圆锥包裹着地球且与地球面相切或相割，将经纬网等制图对象投影到圆锥面上，再将圆锥面展开为平面而成。"
+  },
+  {
+   "cn": "共轭圆锥曲线",
+   "en": "conjugate conics",
+   "source": "数学名词",
+   "wordNumber": "08.0265",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥状褶皱",
+   "en": "conical fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.045",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "岩层面弯曲形成像圆锥体表面的褶皱。这是一种理想的褶皱几何模式，褶皱面形态可设想为一端固定的直线在空间旋转移动所形成的轨迹。褶皱轴可以用锥轴来表示。在赤平投影网上，同一褶皱变形面不同部位的极点呈小圆分布"
+  },
+  {
+   "cn": "圆锥螺旋线",
+   "en": "conical spiral",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0100",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "动点沿圆锥面上的一条直母线做等速移动，而该直母线又绕圆锥面的轴线做等角速的旋转运动时，动点在此圆锥面上的运动轨迹。"
+  },
+  {
+   "cn": "锥形容器",
+   "en": "conical vessel",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0072",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "壳体截面为锥形的容器。"
+  },
+  {
+   "cn": "锥形封头",
+   "en": "conical head",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0135",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "壳体表面为锥面的封头。按锥壳的大端或小端有无折边结构可分为无折边锥壳、大端折边锥壳、两端折边锥壳。"
+  },
+  {
+   "cn": "锥形支座",
+   "en": "conical support",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0207",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "以圆锥壳等作为支承部件的球形容器支座。"
+  },
+  {
+   "cn": "圆锥形球磨机",
+   "en": "conical mill",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1286",
+   "subjectFullName": "化工（八）_化工设备_粉碎设备",
+   "subjectName": "粉碎设备",
+   "publishYear": "2021",
+   "definition": "筒体为圆筒体，两端盖呈圆锥形，筒体长度和直径之比（L/D）等于0.25～1.0的球磨机。"
+  },
+  {
+   "cn": "圆锥形螺杆",
+   "en": "conical screw",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.199",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "外形为圆锥形的螺杆。多用于压片和造粒。"
+  },
+  {
+   "cn": "锥面衍射",
+   "en": "conical diffraction",
+   "source": "光学名词",
+   "wordNumber": "01.576",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波的入射面和与光栅栅线垂直的任意平面有一定夹角时，光栅产生的各衍射级次光在空间形成锥面分布的现象。"
+  },
+  {
+   "cn": "圆锥透镜",
+   "en": "conical lens",
+   "source": "光学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "一种特殊的轴对称静电透镜。其特点是：电极除沿z轴对称外，还在与对称轴成q的圆锥方向形成电子透镜(等电位透镜、浸没透镜等)，电子在其中形成特殊的轨迹，具有理想成像的性质。它主要用于分析仪器中。"
+  },
+  {
+   "cn": "圆锥凸轮",
+   "en": "conical cam",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0114",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器与机构构成",
+   "subjectName": "机器与机构构成",
+   "publishYear": "2021",
+   "definition": "轮廓曲线位于圆锥面上并绕其轴线旋转的凸轮。"
+  },
+  {
+   "cn": "圆锥镜扫描",
+   "en": "conical scan",
+   "source": "测绘学名词",
+   "wordNumber": "03.482",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "利用旋转轴连续旋转，带动与转轴不垂直的反射镜旋转，实现激光发射方向改变，且不同发射方向与地表呈圆锥形的扫描方式。"
+  },
+  {
+   "cn": "锥形折射",
+   "en": "conical refraction",
+   "source": "物理学名词",
+   "wordNumber": "04.0093",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "锥形磨浆机",
+   "en": "conical refiner",
+   "source": "林学名词",
+   "wordNumber": "12.238",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "由带有齿条的截头圆锥转子和带有齿形的截头圆锥形外壳及间隙调解机构所构成的连续打浆设备。"
+  },
+  {
+   "cn": "圆锥乳头",
+   "en": "conical papilla",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0120",
+   "subjectFullName": "人体解剖学_内脏学_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2014",
+   "definition": "稀疏分布于舌背的圆锥状突起。被认为是丝状乳头的变形。"
+  },
+  {
+   "cn": "量杯",
+   "en": "conical graduate",
+   "source": "药学名词",
+   "wordNumber": "06.502",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "一种玻璃仪器，有规定的刻度和最大容量标记的上口大下部小的容器。具有不同的规格，用来量取一定体积的液体，但不是准确的计量器具。"
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conic projection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "锥鳞",
+   "en": "conic scale",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "锥形导槽",
+   "en": "conic guide",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥乳头",
+   "en": "conical papilla",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锥形冰雹",
+   "en": "conical hail",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "锥形过渡段",
+   "en": "conical transition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conical projection",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conical Projection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥号角",
+   "en": "conical horn",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥阵",
+   "en": "conical array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥突",
+   "en": "conical process",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥号型",
+   "en": "conical shape",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conical projection",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锥形浮标",
+   "en": "conical buoy",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锥形距",
+   "en": "conical spur",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "切片",
+   "en": "section\",\"section cutting\",\"sectioning",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组",
+   "en": "section",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "section",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派",
+   "en": "section",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "section",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区段裁判员",
+   "en": "section judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "楔形箭头",
+   "en": "chisel pile\",\"conical pile",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.22-1993 数据处理词汇 第22部分：计算器》",
+   "en": "GB/T 5271.22-1993 Data processing — Vocabulary — Section 22: Calculators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国（上海）自由贸易试验区临港新片区",
+   "en": "Lingang section of Shanghai Pilot Free Trade Zone",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.2-1988 数据处理词汇 第2部分：算术和逻辑运算》",
+   "en": "GB/T 5271.2-1988 Data processing — Vocabulary — Section 2: Arithmetic and logic operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.10-1986 数据处理词汇 第10部分：操作技术和设施》",
+   "en": "GB/T 5271.10-1986 Data processing — Vocabulary — Section 10: Operating techniques and facilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预约进站",
+   "en": "to make reservations at subway stations ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剖宫产术",
+   "en": "cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经腹部和子宫切口娩出胎儿的一种外科手术方式。按手术时机分为择期剖宫产和急诊剖宫产两种。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "八分体系",
+   "en": "eight-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在四分法原有区分基础上再加一层亚半族区分（半族、亚半族和代别），由此构成部落社会外婚规则的八个类别，其中包含一整套类别间通婚和继嗣规则。用以协调和指导部落内半族和亚半族间的平代通婚。"
+  },
+  {
+   "cn": "剖宫产率",
+   "en": "cesarean section rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区采用剖宫产手术分娩的活产数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "紧急剖宫产",
+   "en": "emergency cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产妇在发生先兆临产前、后进行的计划外剖宫产术，是快速终止妊娠、挽救孕产妇和胎儿生命的有效手段。"
+  },
+  {
+   "cn": "横断面研究",
+   "en": "cross-sectional study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在某一人群中收集特定时间内疾病的存在情况和相关因素的资料，以描述疾病或健康状况在不同特征人群中的分布，以及观察某些因素与疾病之间关联的一类流行病学研究方法。"
+  },
+  {
+   "cn": "横断面研究",
+   "en": "cross-sectional study",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "通过对特定时点（或期间）和特定范围内人群中的疾病或健康状况和有关因素的分布状况的资料收集、描述，从而为进一步的研究提供病因线索的研究方法。"
+  },
+  {
+   "cn": "非医学需要的剖宫产",
+   "en": "non-medically indicated cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "对无剖宫产手术指征孕妇进行的剖宫产手术。"
+  },
+  {
+   "cn": "剖宫产后再次妊娠间隔",
+   "en": "cesarean section-to-pregnancy interval",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "前次剖宫产分娩至再次妊娠开始的间期。"
+  },
+  {
+   "cn": "卫生人力资源部门分布",
+   "en": "sectional distribution of human resource for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生人力资源在部门间的配备情况。包括公立和私营部门，卫生和其他部门等。"
+  },
+  {
+   "cn": "生长发育横断面调查",
+   "en": "cross-sectional survey design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "在某一时点或一个较短时间内调查特定区域内、有代表性的儿童少年生长发育状况的方法。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

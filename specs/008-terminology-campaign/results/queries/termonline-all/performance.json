@@ -1,0 +1,792 @@
+{
+ "key": "performance",
+ "term": "performance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:56:39+00:00",
+ "status": "ok",
+ "note": "variant=performance; 审定公布名词库=365; 海峡两岸名词对照库=105; 其他来源数据库=29; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "表演",
+   "en": "performance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.01",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "由演员面对观众扮演角色并通过舞台行动而塑造人物形象的过程。在拟剧理论中，也指通过语言符号和非语言符号扮演社会角色的活动。"
+  },
+  {
+   "cn": "性能",
+   "en": "performance",
+   "source": "电力名词",
+   "wordNumber": "02.180",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "测量仪器仪表实现预期功能的能力的特性。"
+  },
+  {
+   "cn": "性能",
+   "en": "performance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0549",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "产品在功能上满足顾客要求的能力。"
+  },
+  {
+   "cn": "绩效",
+   "en": "performance",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0622",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_绩效管理",
+   "subjectName": "绩效管理",
+   "publishYear": "2016",
+   "definition": "完成工作的效率、效能与效果。"
+  },
+  {
+   "cn": "绩效",
+   "en": "performance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.063",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "一个机构及其成员的行为和结果。"
+  },
+  {
+   "cn": "活动表现",
+   "en": "performance",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.047",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "国际功能、残疾和健康分类中用于描述活动功能障碍程度的指标，主要描述个体在现时环境中做了什么。"
+  },
+  {
+   "cn": "绩效",
+   "en": "performance",
+   "source": "教育学名词",
+   "wordNumber": "13.151",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "对一个组织的维持和发展有价值的成绩、成效或业绩。在企业组织系统中，组织层面的绩效表现为经济效益与（或）社会效益；工作流程层面的绩效和工作岗位层面（员工个人）的绩效表现为产品或服务。"
+  },
+  {
+   "cn": "使用性能",
+   "en": "performance",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0441",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "表征材料服役性能使用的考核技术指标。"
+  },
+  {
+   "cn": "语言运用",
+   "en": "performance,linguistic performance",
+   "source": "语言学名词",
+   "wordNumber": "01.134",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "与“语言能力”相对。在语言学理论，特别是转换生成语法中，指本族语者说出的具体语言。"
+  },
+  {
+   "cn": "表演者",
+   "en": "performer",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.04.003",
+   "subjectFullName": "编辑与出版学_著作权_邻接权",
+   "subjectName": "邻接权",
+   "publishYear": "2022",
+   "definition": "指演员、演出单位或者其他表演文学、艺术作品的人。"
+  },
+  {
+   "cn": "性能调优",
+   "en": "performance optimization,performance tuning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0611",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "进行系统评测，找出系统瓶颈，改进系统运行状况，提高性能和效率的过程。"
+  },
+  {
+   "cn": "绩效评估",
+   "en": "performance evaluation,performance appraisal",
+   "source": "教育学名词",
+   "wordNumber": "13.160",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "以组织目标为标准、选择合适的工具，为个人或组织提供绩效反馈，帮助个人或组织管理和改进自己绩效的活动。"
+  },
+  {
+   "cn": "履约保证金",
+   "en": "performance bond",
+   "source": "风景园林名词",
+   "wordNumber": "03.0191",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "工程发包人为防止承包人在合同执行过程中违反合同规定或违约，要求施工方提交并留存的一笔费用，在施工方违约时用以弥补给发包人造成的经济损失。"
+  },
+  {
+   "cn": "绩效考评",
+   "en": "performance appraisal",
+   "source": "风景园林名词",
+   "wordNumber": "03.0052",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "企业绩效管理中的一个环节，是指通过系统的方法和标准，对员工在一定时期内的工作表现、成果及能力进行评估的过程。其目的是衡量员工的工作效率、质量及对组织目标的贡献，并为人力资源管理决策（如晋升、奖惩、培训"
+  },
+  {
+   "cn": "绩效管理",
+   "en": "performance management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "各级管理者和员工为了达到组织目标共同参与的与经营业绩与个人报酬挂钩的考核和分配活动。包括绩效计划制定、绩效辅导沟通、绩效考核评价、绩效结果应用、绩效目标提升的持续循环过程。"
+  },
+  {
+   "cn": "高性能化学品",
+   "en": "performance chemicals",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.003",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "具有某种特定功能、高附加值、技术密度高的化学品。"
+  },
+  {
+   "cn": "性能指标",
+   "en": "performance index",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.087",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对过程或设备事先规定的最优化准则，也就是过程最优化要达到的目标数学表达式。"
+  },
+  {
+   "cn": "绩效评价",
+   "en": "performance evaluation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.102",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "运用科学、规范的评价方法，对企业一定经营期间的资产运营、财务效益等经营成果，进行定量及定性对比分析，做出真实、客观、公正的综合评判。"
+  },
+  {
+   "cn": "性能测试",
+   "en": "performance testing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.170",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "检测电子出版物在特定软硬件支撑环境下的整体运行状况，以整体检验显示及播放效果是否达到设计要求的措施。"
+  },
+  {
+   "cn": "履约保函",
+   "en": "performance guarantee",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.030",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "应申请人的请求，银行金融机构向受益人做出的一种履约保证承诺。用于保证申请人在约定的期限内未按照合同约定进行履约时，受益人可依据该履约保函提取一定的金额。"
+  },
+  {
+   "cn": "性能",
+   "en": "performance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "使用性能",
+   "en": "performance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "性能",
+   "en": "performance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "性能，特性",
+   "en": "performance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性能试验",
+   "en": "performance test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性能指标",
+   "en": "performance index",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运行特性",
+   "en": "performance characteristics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［操作］性能图",
+   "en": "performance chart",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性判据",
+   "en": "performance criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［操作］性能控制",
+   "en": "performance control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性方程式",
+   "en": "performance equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性数",
+   "en": "performance number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作测验",
+   "en": "performance test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绩效评估",
+   "en": "performance appraisal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绩效反馈",
+   "en": "performance feedback",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表演实践",
+   "en": "performance practice",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绩效管理",
+   "en": "performance management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "履约保证书",
+   "en": "performance bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "性能保证",
+   "en": "performance guarantee",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性能比",
+   "en": "performance ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表现",
+   "en": "performance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字表演",
+   "en": "digital performance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过滤性能",
+   "en": "filtering performance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "及格成绩",
+   "en": "minimum performance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance\",\"result\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞技体育",
+   "en": "athletics\",\"performance sport",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高性能计算",
+   "en": "high-performance computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机性能评估",
+   "en": "computer performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高性能计算机",
+   "en": "high-performance computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "履约信息",
+   "en": "contract performance information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记分板",
+   "en": "performance indicator board\",\"scoreboard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高性能计算战略",
+   "en": "high-performance computing strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色信贷业绩评价",
+   "en": "green credit performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "百戏",
+   "en": "Baixi (All Performing Arts)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公告牌",
+   "en": "notice board\",\"performance indicator board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性能评估",
+   "en": "performance assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.17",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估系统或子系统的性能及其对授权设施的防护和安全的影响。"
+  },
+  {
+   "cn": "表演理论",
+   "en": "performance theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0511",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代末70 年代初在美国兴起的理论。与以往民间文学研究领域中盛行的“以文本为中心”（text-centered）、关注抽象的、无实体、往往被剥离了语境关系的口头艺术事象（item-ce"
+  },
+  {
+   "cn": "综合性能",
+   "en": "comprehensive performance",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对全部照射组的剂量系统性能的综合判定指标，为全部照射组的平均偏离与标准偏差的平方和。"
+  },
+  {
+   "cn": "角色表现",
+   "en": "role performance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体按照社会或群体对某一角色行为规范的要求，努力扮演该角色的行为表现。不同个体的角色表现既受到角色行为规范本身内容的限制，也受到个体如何理解该角色行为规范的限制，因而往往存在一定程度上的差异。"
+  },
+  {
+   "cn": "组织绩效",
+   "en": "organizational performance",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在某一时期内，依据一定的标准，在判定组织运作状况和效益时经常采用的一套测量标准。"
+  },
+  {
+   "cn": "外在表现",
+   "en": "external performance",
+   "source": "马克思主义",
+   "wordNumber": "01.0071",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在本质”相对。事物在发生、发展、变化过程中所表现的外部联系性和客观形式。"
+  },
+  {
+   "cn": "民俗演艺",
+   "en": "folklore performance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0474",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "依托民间艺术表演方式形成的产业形式，即某地利用当地的民俗文化，自发组织演艺团队进行演艺产品开发，为当地居民和游客表演传统民俗节目，以此吸引游客，为地方旅游活动增色，也被称为“接地气”的表演。中国民俗演"
+  },
+  {
+   "cn": "语言运用",
+   "en": "linguistic performance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0052",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“语言能力”相对。在语言学理论，特别是转换生成语法中，指本族语者说出的具体语言。"
+  },
+  {
+   "cn": "优绩优酬",
+   "en": "performance-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "体现医务人员成绩、成效或业绩大小的分配方式。"
+  },
+  {
+   "cn": "单组性能",
+   "en": "single group performance",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对单个照射组的剂量系统性能判定指标，为该照射组的估计值与参考值的相对偏差。"
+  },
+  {
+   "cn": "预算绩效管理",
+   "en": "budget performance management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.8",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "在预算管理中融入绩效的理念和要求，各个环节活动以绩效为核心导向，设定绩效目标，跟踪监控，评价资金的使用效益以及项目是否达到预期绩效目标的管理模式。"
+  },
+  {
+   "cn": "医院绩效评估",
+   "en": "hospital performance evaluation",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.9",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "在科学合理的绩效计划基础上，根据可及可靠原则制订的评价指标，对医院效能与效益进行科学测量和评定的程序、方法、形式之总称。"
+  },
+  {
+   "cn": "灭菌设备性能验证",
+   "en": "sterilization equipment performance verification",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用物理、化学和生物的方法对设备的灭菌参数和灭菌程序进行鉴定，以检验灭菌程序是否能始终符合灭菌要求的过程。"
+  },
+  {
+   "cn": "卫生体系绩效评价",
+   "en": "health system performance evaluation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "评价在一定卫生资源条件下卫生体系达到和实现目标程度的评价。"
+  },
+  {
+   "cn": "医务人员绩效考核",
+   "en": "healthcare staff performance evaluation",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "对医务人员按照事先确定的工作目标和发展目标及其衡量标准，考察其实际完成绩效目标的过程。"
+  },
+  {
+   "cn": "来访者常见表现",
+   "en": "common performance of clients",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "青少年在心理咨询过程中常见的心理行为表现，如心理阻抗、沉默和移情。"
+  },
+  {
+   "cn": "按绩效支付",
+   "en": "pay-for-performance，P4P",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.7",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者基于服务提供者的服务效率、质量、对健康结果的影响等绩效目标的完成程度进行支付。"
+  },
+  {
+   "cn": "高效液相色谱法",
+   "en": "high performance liquid chromatography, HPLC",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.7.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "相对于经典液相色谱而言，主要指采用小粒度（＜10μm）的分离填料，使用高压输液泵驱动流动相的现代液相色谱法。"
+  },
+  {
+   "cn": "最低执行限量",
+   "en": "minimum required performance limit, MRPL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "样品中至少必须检出和确证的分析物的最小含量"
+  },
+  {
+   "cn": "妇幼卫生绩效管理",
+   "en": "performance management of woman and child health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.8.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生管理的其他方面",
+   "subjectName": "妇幼卫生管理的其他方面",
+   "publishYear": "2025",
+   "definition": "管理者用来确保妇幼卫生人员的工作活动和产出与组织目标保持一致的手段及过程，包括计划制定、辅导沟通、考核评价、结果应用、目标提升等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

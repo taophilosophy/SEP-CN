@@ -1,0 +1,762 @@
+{
+ "key": "complete configuration",
+ "term": "complete configuration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:53:49+00:00",
+ "status": "ok",
+ "note": "variant=complete configuration; 审定公布名词库=1647; 海峡两岸名词对照库=480; 其他来源数据库=39; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子在空间的排列状况。构型不同的化合物可以分离出异构体。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.723",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "对于宏观上或整体上重复持续出现的某种形式，不必每一次都重新由头至尾对它的组成与结构进行描述，用一个简略的高层次的名称来指称它，称为构型。它是系统的相互关系总和或结构的一个子集或一种具体形式。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0215",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "分子中各原子特有的固定空间排列。用以区分立体异构体的各原子在空间的不同排列状态。根据异构体共价键的方向性分D型（右旋）和L型（左旋）两种。构型的改变要有共价键的断裂和重新组成，从而导致光学活性的变化。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0418",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在任何时刻均能完全确定机器人外形轮廓的所有关节的一组位移值。"
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "电力名词",
+   "wordNumber": "12.166",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在分散控制系统中,用户根据系统要求对不同的功能模块进行适当组合与连接的过程。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "冶金学名词",
+   "wordNumber": "09.0077",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "物体在空间所占的区域。在时间t = 0时的构形为初始构形(initial configuration)，在时间t时的构形为即时构形(current configuration)。"
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "物理学名词",
+   "wordNumber": "05.0666",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "位形",
+   "en": "configuration",
+   "source": "物理学名词",
+   "wordNumber": "05.0665",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "核医学名词",
+   "wordNumber": "06.0107",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "分子中各个原子特有的固定空间排列。因分子中存在不对称中心，根据异构体共价键的方向性，分D-型和Ｌ-型两种，有相应光学活性的变化。"
+  },
+  {
+   "cn": "格局",
+   "en": "configuration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机运行过程中任何一个时刻的快照。它包含以下内容：当前状态、带上读头的位置、当前带上的内容。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "化学名词",
+   "wordNumber": "02.0655",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "在立体化学领域，构型是在1个给定构造的分子实体中，用以区分立体异构体的各原子在空间的不同排列状态。但不考虑由构象所造成的差异。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "药学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子中各个原子特有的固定空间排列。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "数学名词",
+   "wordNumber": "03.0054",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "自动化名词",
+   "wordNumber": "04.230",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "配发",
+   "en": "configure",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.040",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "按照客户、流向及出版物品种、数量等进行拣选、核件、集货。"
+  },
+  {
+   "cn": "可配置性",
+   "en": "configurability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0482",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统能够根据运行需要而被配置的能力。"
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "位形",
+   "en": "configuration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格局",
+   "en": "configuration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置",
+   "en": "configuration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反应器构型",
+   "en": "reactor configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环路构型",
+   "en": "loop configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子构型",
+   "en": "molecular configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "立体排列",
+   "en": "spatial configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "控制构型",
+   "en": "control configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "立体有规构型",
+   "en": "stereospecific configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中心构形",
+   "en": "central configuration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赤式构型",
+   "en": "erythro configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对构型",
+   "en": "absolute configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四面体构型",
+   "en": "tetrahedral configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "苏式构型",
+   "en": "threo configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位形坐标",
+   "en": "configuration coordinate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一本胜",
+   "en": "complete win\",\"ippon-gachi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双缰",
+   "en": "complete bridle\",\"double bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试举成功",
+   "en": "completed attempt\",\"good lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "NP完全性理论",
+   "en": "theory of NP-completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统配置技术管理规程",
+   "en": "technical management procedure for system configuration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记分获胜",
+   "en": "complete win\",\"decision by points\",\"win by score\",\"win on points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成竹于胸",
+   "en": "<p class=\"MsoNormal\"> Have&nbsp;a Complete Image of the Bamboo Before Drawing It / Have&nbsp;a Fully Formed Picture in the Mind’ Eye</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容不完整球队",
+   "en": "incomplete team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂网络",
+   "en": "complex network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化形貌",
+   "en": "cultural configuration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。文化基本形貌指的是与生存、生计有关的文化事项；次级形貌则是与创造力、艺术活动有关的文化活动，如语言、艺术、文学和音乐等。他认为，在任"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "青少年自杀死亡",
+   "en": "completed suicide in adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年有意图并采取行动而最终导致死亡的结果。其死亡有鲜明的“自我施予性”。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "大型医用设备配置管理",
+   "en": "configuration management of large medical equipment ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.7",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "为合理配置和有效使用大型医用设备开展的规划、配置、审批以及监督的过程。"
+  },
+  {
+   "cn": "肿瘤全营养配方食品",
+   "en": "nutritionally complete formula foods for cancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.21",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应肿瘤患者代谢特点及肿瘤细胞分化特性，适当提高脂肪和蛋白质的供能比以及其他免疫功能相关营养素含量，使其可作为单一营养来源满足肿瘤患者营养需求的配方食品。"
+  },
+  {
+   "cn": "糖尿病全营养配方食品",
+   "en": "nutritionally complete formula food for diabetes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.18",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为满足糖尿病患者的特殊需求，调整其营养素构成后加工配制而成，以改善糖尿病患者血糖及营养代谢相关指标的能够作为单一营养来源满足患者营养需求的配方食品。"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "肌肉衰减综合征全营养配方食品",
+   "en": "nutritionally complete formula foods for sarcopenia",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.23",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应患者肌肉流失、运动能力下降的生理特点，使用更易消化吸收的蛋白质并提高其供能比，适当调整氨基酸模式及微量营养素成分，使其可作为单一营养来源满足肌肉衰减综合征患者"
+  },
+  {
+   "cn": "肾病全营养配方食品",
+   "en": "nutritionally complete formula foods for renal diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.20",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据肾病患者的病理生理特点，分别调整其营养素构成后加工配制而成的能够作为单一营养来源满足肾病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "肝病全营养配方食品",
+   "en": "nutritionally complete formula foods for liver diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据不同类型肝病患者的病理状况与生理代谢特点，调整营养素含量与相互之间的比例，使其可作为单一营养来源满足肝病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "难治性癫痫全营养配方食品",
+   "en": "nutritionally complete formula foods for intractable epilepsy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.27",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用高脂肪、低碳水化合物和适量蛋白质组成的生酮饮食配方，保证营养充足并为大脑提供必要的能量，在缓解癫痫发作的同时也能作为单一营养来源满足难治性癫痫患者营养需求的配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

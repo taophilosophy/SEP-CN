@@ -1,0 +1,652 @@
+{
+ "key": "conditional wave function",
+ "term": "conditional wave function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:02:34+00:00",
+ "status": "ok",
+ "note": "variant=conditional wave function; 审定公布名词库=6052; 海峡两岸名词对照库=1714; 其他来源数据库=179; 预公布名词数据库=157; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "冶金学名词",
+   "wordNumber": "04.0798",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "量子力学中描述微观体系状态的一个基本概念，是描述微观粒子运动状态的函数。波函数是空间和时间的复函数，即ψ=ψ(x，y，z，t)。微观体系的任何一个状态都可以用一个坐标和时间的连续、单值、平方可积的函数"
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0522",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "化学名词",
+   "wordNumber": "04.1312",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "量子力学中有个基本假定，体系的状态由其波函数<img src='/root/syzx/static/spz/huaxue2.04.1312.1.png'/>来描述。<img src='/root/sy"
+  },
+  {
+   "cn": "条件光度函数",
+   "en": "conditional luminosity function",
+   "source": "天文学名词",
+   "wordNumber": "07.137",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "满足一定约束条件导出的光度函数。"
+  },
+  {
+   "cn": "条件限制函数",
+   "en": "conditional restraint function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0234",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在某些情况下，一个策略可能设置一些带条件的限制函数，而不是绝对地限制一切受限制的数不能进入某个集合。"
+  },
+  {
+   "cn": "宏观波函数",
+   "en": "macroscopic wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.3279",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "超导波函数",
+   "en": "superconducting wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.3138",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "劳夫林波函数",
+   "en": "Laughlin wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.2895",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原子波函数",
+   "en": "atomic wave function",
+   "source": "物理学名词",
+   "wordNumber": "07.0094",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对波函数",
+   "en": "pair wave function",
+   "source": "物理学名词",
+   "wordNumber": "09.0347",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "径向波函数",
+   "en": "radial wave function",
+   "source": "物理学名词",
+   "wordNumber": "07.0096",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "旋量波函数",
+   "en": "spinor wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0658",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反对称波函数",
+   "en": "antisymmetric wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0524",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "布洛赫波函数",
+   "en": "Bloch wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.1281",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反对称波函数",
+   "en": "antisymmetrical wave function",
+   "source": "化学名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "因为电子是费米子，于是体系的电子波函数Ψ要服从泡利不相容原理，即满足交换反对称性：<img src='/root/syzx/static/spz/huaxue2.04.1313.1.png'/>。这样"
+  },
+  {
+   "cn": "球体[波]函数",
+   "en": "spheroidal [wave] function",
+   "source": "数学名词",
+   "wordNumber": "06.0723",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "波浪",
+   "en": "wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波纹",
+   "en": "wave",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "波浪",
+   "en": "wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "波浪",
+   "en": "wave",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "波",
+   "en": "wave",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "波动",
+   "en": "wave",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "波",
+   "en": "wave",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "δ波",
+   "en": "delta wave\",\"δ wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "θ波",
+   "en": "theta wave\",\"θ wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "β波",
+   "en": "beta wave\",\"β wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "α波",
+   "en": "alpha wave\",\"α wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浪",
+   "en": "wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "冲击波",
+   "en": "shock wave",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸产生高温、高压火球猛烈膨胀，急剧压缩周围空气，形成的压缩波。"
+  },
+  {
+   "cn": "蠕动波",
+   "en": "peristaltic wave",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胃肠道发生梗阻时，梗阻近端的胃或肠段饱满而隆起，伴有该部位蠕动增强呈现波动式运动的体征。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "冲击波超压",
+   "en": "overpressure of shock wave",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.49",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "冲击波内，超过正常大气压的那部分压力。核爆炸时形成的高温高压的火球,向外猛烈膨胀，压缩周围的空气，因而在火球周围形成了一个空气密度很大的压缩区,该区域的空气压力超过了正常大气压。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

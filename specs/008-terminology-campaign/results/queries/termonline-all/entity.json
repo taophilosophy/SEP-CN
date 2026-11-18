@@ -1,0 +1,762 @@
+{
+ "key": "entity",
+ "term": "entity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:23+00:00",
+ "status": "ok",
+ "note": "variant=entity; 审定公布名词库=1319; 海峡两岸名词对照库=449; 其他来源数据库=70; 预公布名词数据库=98; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "能够独立存在的、作为一切具体事物和现象最后根源的载体的东西。唯物主义认为实体是常驻不变的、时空上无限的物质，唯心主义则把它作为精神、神和观念来理解。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.022",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，表示一个或一类有相同特性个体的应用对象。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.358",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目记录使用者关注的主要对象。包括具有单一与自我独立特征的某些事物；一种抽象的观念、思想的概念、思考的客体，或先验的对象。在书目记录的功能需求（FRBR）中，实体类型的实例包括：知识或艺术创作的产品、"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "客观世界中存在的可互相区分的客观对象或抽象概念。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0925",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "具有法律地位的个人、合伙人、组织或企业。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0150",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "客观存在并可独立处理的元素。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.454",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理学名词",
+   "wordNumber": "30.026",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "实体搜索",
+   "en": "entity search",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0421",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以实体为核心的搜索技术。"
+  },
+  {
+   "cn": "实体完整性",
+   "en": "entity integrity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0082",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据库中任一关系元组的主键值的每一组成部分均不能为空值。"
+  },
+  {
+   "cn": "实体识别",
+   "en": "entity identification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0419",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "一种信息提取技术。从文本数据中获取人名、地名等实体数据。"
+  },
+  {
+   "cn": "实体鉴别",
+   "en": "entity authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0114",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "实体真实性的证明，通过标识真实性证明和本体真实性证明来实现。"
+  },
+  {
+   "cn": "实体消解",
+   "en": "entity resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0420",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "发现同一个实体不同表示的过程。"
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.462",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "实体按照类型分组，每个组里相同类型的实体有着相同的属性和关系结构。"
+  },
+  {
+   "cn": "实体模型",
+   "en": "entity model",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.464",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "多个特征组成的一个整体的一种三维物体表达方式。"
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.466",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "实体要素的描述。"
+  },
+  {
+   "cn": "实体子类",
+   "en": "entity subtype",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.467",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "实体的子集。"
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.460",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "物理上或概念上独立存在的事物所构成的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体超类",
+   "en": "entity supertype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体点",
+   "en": "entity point",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体对象",
+   "en": "entity object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体分类",
+   "en": "entity classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体子类",
+   "en": "entity subtype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体鉴别",
+   "en": "entity authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体完整性",
+   "en": "entity integrity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子实体",
+   "en": "molecular entity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实行封闭式管控",
+   "en": "to exercise management by sealing off entities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "入水",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "入水",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注册",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进场",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份",
+   "en": "digital identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密度图",
+   "en": "density plot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权益风险",
+   "en": "equity risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份盗窃",
+   "en": "identity theft",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟主体",
+   "en": "virtual identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "消毒产品责任单位",
+   "en": "responsibility entity for disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "依法承担因消毒产品缺陷而致他人人身伤害或财产损失的赔偿责任的个人、法人及其他组织。消毒产品委托生产加工时，特指委托方，进口消毒产品的责任单位为在华责任单位。"
+  },
+  {
+   "cn": "同一性",
+   "en": "identity",
+   "source": "马克思主义",
+   "wordNumber": "01.0079",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证法中，指“辩证同一性”，与“形而上学同一性”相对。矛盾的同一性是指矛盾双方相互依存、相互贯通、相互转化的一种联系和趋势。具体表现为：矛盾对立面之间的相互依赖，各自以对方为自己存在和发展的条件，任"
+  },
+  {
+   "cn": "身份鉴定",
+   "en": "identity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.9",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品固有本质特征等同程度的检验，确保食品和食品组分的身份和纯度符合安全标准。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "民俗认同",
+   "en": "folkloric identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0026",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以民俗为核心来构建与维系认同和传承传统的意识与行为，尤其强调一个民俗传统的传承是基于所有认同和实践该传统的不同群体的成员来维系的。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "等离子体密度",
+   "en": "plasma density",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "等离子腔体内施加的交变电场引发粒子正负电荷分离，使带电粒子发生集体震荡的粒子密度称为等离子体密度，相应的交变电场即是等离子体频率。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "对一种文化具有某种亲近感或归属感，或者是对一种文化表示基本的赞同。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "阶级认同",
+   "en": "class identity",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员通过身份标签、价值认同或行为模式等方式承认他们是同一类人。非马克思主义理论家采用这一概念取代马克思所说的“阶级意识”概念。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "代际公平",
+   "en": "intergenerational equity",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.10",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "当代人和后代人在利用自然资源、满足自身利益、谋求生存与发展上权利均等。即当代人必须留给后代人生存和发展的必要环境资源和自然资源，是可持续发展的重要原则。"
+  },
+  {
+   "cn": "代际平等",
+   "en": "intergenerational equity",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.7",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "描述儿童、青年、成年人、老人等不同代人在经济、教育、健康等多个社会领域内的公平和正义现状。"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对他/她属于某些社会群体的知识，同时对他/她的群体成员身份赋予某些情感和价值上的重要性的过程。由英国社会心理学家泰弗尔(Henri Tajfel）提出。"
+  },
+  {
+   "cn": "群体认同",
+   "en": "group identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对于自己所属群体赋予某些情感和价值上的重要性的现象。在社会生活中，每个人都同时属于不同的群体，对所属群体所赋予的情感和价值的重要性是不一样的；同时，同一群体中不同成员对于该群体所赋予的情感和价值上"
+  },
+  {
+   "cn": "人口密度",
+   "en": "population density",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "单位面积土地上的人口数。例如，每平方英里土地上的人口数，又比如每平方公里耕地上的人口数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "positions within",
+ "term": "positions within",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:41:06+00:00",
+ "status": "ok",
+ "note": "variant=positions within; 审定公布名词库=5786; 海峡两岸名词对照库=654; 其他来源数据库=318; 预公布名词数据库=179; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "会商",
+   "en": "consulting within system",
+   "source": "档案学名词",
+   "wordNumber": "02.03.006",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "发文处理的环节之一。当公文文稿内容涉及其他有关同级或不相属机关或部门的职权范围,需征得其同意或配合时所进行的协商活动。"
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.33",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "位于另一个基因内含子中的基因。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within family selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.413",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在每个家系内根据个体表型值和家系均值的偏差进行选择的方法。"
+  },
+  {
+   "cn": "预处理渣的去除",
+   "en": "deslag within pretreatment",
+   "source": "冶金学名词",
+   "wordNumber": "05.1305",
+   "subjectFullName": "冶金学_钢铁冶金_炉外精炼",
+   "subjectName": "炉外精炼",
+   "publishYear": "2019",
+   "definition": "预处理产生的渣必须在预处理时去除，避免和铁水一同倒入炼钢炉而造成回硫、回磷的措施。"
+  },
+  {
+   "cn": "批内误差",
+   "en": "within-batch error",
+   "source": "核医学名词",
+   "wordNumber": "03.0749",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "由于实验条件的变化导致整批样品不同阶段的测定值偏差。质控样品是监测批内误差的主要依据。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "selection within family",
+   "source": "林学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在家系间选择的基础上，于最优良家系内进行最优良个体的选择育种方法。"
+  },
+  {
+   "cn": "组内变异性",
+   "en": "variation within laboratory",
+   "source": "化学名词",
+   "wordNumber": "03.0155",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在短时间内用相同的方法在相同的测量条件下对同一被测定量进行连续多次测量时，所得到的各测量值之间的差异。"
+  },
+  {
+   "cn": "组内方差",
+   "en": "variance within laboratory",
+   "source": "化学名词",
+   "wordNumber": "03.0191",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在短时间内用相同的方法在相同的测量条件下对同一被测定量进行连续多次测量时所得到的方差。"
+  },
+  {
+   "cn": "组内设计",
+   "en": "within-group design",
+   "source": "心理学名词",
+   "wordNumber": "02.081",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "将每个被试轮流分配到所有自变量或自变量水平的实验设计方法。"
+  },
+  {
+   "cn": "批内变异",
+   "en": "within-lot variation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.408",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "同批内的探测元件或产品的某一特性的波动程度。"
+  },
+  {
+   "cn": "森林流域",
+   "en": "forest within watershed",
+   "source": "资源科学技术名词",
+   "wordNumber": "11.008",
+   "subjectFullName": "资源科学技术_森林资源学",
+   "subjectName": "森林资源学",
+   "publishYear": "2008",
+   "definition": "分布森林的天然流域。"
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "遗传学名词",
+   "wordNumber": "08.111",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "一个基因位于另一个基因的内含子中。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within-family selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在每个家系内根据个体表型和家系均值的偏差进行选择的方法。"
+  },
+  {
+   "cn": "生境内多样性",
+   "en": "within-habitat diversity",
+   "source": "生态学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一具体生境内的物种多样性。"
+  },
+  {
+   "cn": "群落内多样性",
+   "en": "within-community diversity",
+   "source": "生态学名词",
+   "wordNumber": "06.047",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一群落内的物种多样性和生境多样性。"
+  },
+  {
+   "cn": "采点内精度",
+   "en": "within-sites precision",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "胎位",
+   "en": "position",
+   "source": "兽医学名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的位置。即在母体中胎儿背部和母体背部或腹部的位置关系。"
+  },
+  {
+   "cn": "体位",
+   "en": "position",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗过程中为方便检查，患者身体所保持的一定姿势。"
+  },
+  {
+   "cn": "就位",
+   "en": "position",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.742",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "将机器设备按设计文件的规定摆放到安装位置的过程。"
+  },
+  {
+   "cn": "对准",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1017",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "为将物体放置于所需的正确位置而进行的动作。从开始放置物体至一定方位的瞬间开始，到物体已被安置于正确方位的瞬间结束。"
+  },
+  {
+   "cn": "组内变异",
+   "en": "within group variance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试内设计",
+   "en": "within subjects design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组内方差",
+   "en": "variance within laboratory",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限定区域内的贸易",
+   "en": "trade within area",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "栖息地内多样性",
+   "en": "within-habitat diversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群落内多样性",
+   "en": "within-community diversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within family selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "点位数据资料",
+   "en": "position data\",\"position reference",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "动态定位",
+   "en": "dynamic positioning\",\"kinematic positioning",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "place\",\"position",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解剖学姿势",
+   "en": "anatomical position",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "位置效应",
+   "en": "position effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位置矢量",
+   "en": "position vector",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海内",
+   "en": "Within the Four Seas/ Within the Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意姿势",
+   "en": "D position\",\"free position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑士姿势",
+   "en": "castle position\",\"knight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身处其中的局外人",
+   "en": "outsiders within",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义对于边缘或底层弱势群体尴尬处境的一种描述。认为一方面他们需要在主流社会制定的规则中生存，另一方面他们又被排斥在主流世界之外。但女性主义认为这种处境也使边缘弱势群体具有了认识论上的优势。"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "限期改正",
+   "en": "make correction within a prescribed time",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行政主体责令违法行为人停止和纠正违法行为，以恢复原状，维持法定的秩序或者状态，具有事后救济性。"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "患者定位装置",
+   "en": "patient positioning device",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗时用来固定患者体位的辅助工具，通常包括定位板、托架、热塑膜、负压袋等。"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阳性型）",
+   "en": "polyarticular JIA, RF positive",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阳性。约占JIA的10%。大小关节均可受累，关节症状较重。"
+  },
+  {
+   "cn": "产后28天访视率",
+   "en": "coverage of postnatal care visit within 28 days of childbirth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区产后28天内接受过1次及以上产后访视的产妇人数与同期当地活产数之比。"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "现代社会的实证法",
+   "en": "positive law in modern society",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应现代社会的法律。通过特定决定创设法律，法律的有效性基础来自于决定本身，而不是更高的规范。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

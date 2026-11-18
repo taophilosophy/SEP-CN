@@ -1,0 +1,772 @@
+{
+ "key": "meditations on first philosophy",
+ "term": "Meditations on First Philosophy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:57:05+00:00",
+ "status": "ok",
+ "note": "variant=Meditations on First Philosophy; 审定公布名词库=2352; 海峡两岸名词对照库=640; 其他来源数据库=441; 预公布名词数据库=267; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.007",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "瑜伽实现入定的一项技法和途径。把心、意、灵完全专注于原始之初，最终目的在于把人引导至解脱的境界。瑜伽者通过冥想来制服心灵，并超脱物质欲念，感受到和原始动因直接沟通。"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "精神医学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "宗教修炼、民间疗病术中常见的心身调节方法。在经过一段时间他人指导后进行自我催眠，诱导出生理心理性的放松反应，包括意识改变状态。需要安静的环境，以意念、想象或呼吸等作为注意对象，态度被动、自然，采取舒服"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "心理学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "起于印度的一种宗教修炼形式。通过调整身体和注意而达到深度放松、宁静的意识状态。"
+  },
+  {
+   "cn": "气功",
+   "en": "qigong,meditation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0201",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "超觉静坐",
+   "en": "transcendental meditation",
+   "source": "运动医学名词",
+   "wordNumber": "08.036",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "一种以静为主进行气功锻炼的改良瑜伽术。"
+  },
+  {
+   "cn": "集中性沉思",
+   "en": "concentrative meditation",
+   "source": "心理学名词",
+   "wordNumber": "02.673",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过长时间把注意力集中于单一事物，来训练自己形成一个总焦点或单一注意点的方法。"
+  },
+  {
+   "cn": "冥想术",
+   "en": "skill of meditation",
+   "source": "行为医学名词",
+   "wordNumber": "20.067",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "在幽静不受干扰的环境中集中注意力，以舒适的姿势让自己平静下来进入冥想状态的方法。"
+  },
+  {
+   "cn": "机械论哲学",
+   "en": "mechanical philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.032",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为自然类似于一台机器，是一个完全受制于物理规律的客观存在。"
+  },
+  {
+   "cn": "系统哲学",
+   "en": "systems philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.777",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "一种新的哲学分支。以系统这种新的科学范式为思想和世界观重新定位，旨在利用系统概念建构一种新哲学的学科。最初由美国著名系统论专家欧文·拉兹洛（Ervin Laszlo）提出，他在1972年发表的《系统哲"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.813",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "研究政治现象的内在本性和政治活动的相关准则等规范性问题的哲学分支。试图从哲学层面审视公正、民主、自由、国家、公民、权利、义务等政治观念及其实践。"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.814",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "对社会理论的基本问题进行哲学分析的分支学科。对人类的社会交往、社会关系以及社会团体活动等所进行的一般性的哲学阐释。"
+  },
+  {
+   "cn": "编辑思想",
+   "en": "editorial philosophy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.006",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "编辑主体在编辑活动中体现出来的相对稳定的价值倾向或理念。"
+  },
+  {
+   "cn": "HELP哲学观",
+   "en": "HELP philosophy",
+   "source": "运动医学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "一种健康哲学观念。HELP中的H即health，代表健康，健康是生命的根本；E即everyone，代表每个人，要让每个人都有良好的健康行为；L即lifetime，代表一生, 从生命的早期就开始重视健康"
+  },
+  {
+   "cn": "信息哲学",
+   "en": "information philosophy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.179",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "对现代信息科学一般理论成果的哲学概括，是具有交叉性质的哲学学科。该学科把信息作为一种普遍化的存在形式、认识方式、价值尺度和进化原则予以探讨，并从元哲学的高度构建出全新的信息本体论、信息认识论、信息生产"
+  },
+  {
+   "cn": "图书馆哲学",
+   "en": "library philosophy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.120",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "关于图书馆本质规律和方法论的图书馆学分支学科。是图书馆实践和图书馆学理论研究的总结、提炼和升华，也是哲学原理在图书馆领域的应用。"
+  },
+  {
+   "cn": "管理哲学",
+   "en": "management philosophy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0023",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "对一般管理的认识论与方法论的总称。作为管理学与哲学的交叉学科，兼具二者的特性。"
+  },
+  {
+   "cn": "制造理念",
+   "en": "manufacturing philosophy",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0024",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "对制造的认识论和方法论的总称。"
+  },
+  {
+   "cn": "教父哲学",
+   "en": "patristic philosophy",
+   "source": "教育学名词",
+   "wordNumber": "04.044",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "基督教早期神学家所提出的基督教神学观念和理论，主要是以哲学学说论证神、三位一体、创世、原罪、救赎、预定、天国报应等教义。"
+  },
+  {
+   "cn": "维护准则",
+   "en": "maintenance philosophy",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "组织和实施维护的基本原则体系。"
+  },
+  {
+   "cn": "地理学哲学",
+   "en": "geographical philosophy",
+   "source": "地理学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "从世界观、本体论、目的论、认识论、方法论的高度，对地理学理论、方法和实践应用作哲学提炼和提升的学科。"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集中性沉思",
+   "en": "concentrative meditation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学哲学",
+   "en": "geographical philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境保护哲学",
+   "en": "conservationist philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史哲学",
+   "en": "philosophies of history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "初估值",
+   "en": "first guess",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初霜",
+   "en": "first frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霜降",
+   "en": "First Frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一转位",
+   "en": "first inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一主题",
+   "en": "first subject",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上弦",
+   "en": "first quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "第一抵押",
+   "en": "first mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第一信使",
+   "en": "first messenger",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一级堂表亲",
+   "en": "first cousin",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一级亲属",
+   "en": "first degreerelative",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "封面",
+   "en": "first cover",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "初缩",
+   "en": "first minification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一垒跑垒员",
+   "en": "runner on first base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理理念",
+   "en": "governance philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half\",\"first period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一回合!",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一节",
+   "en": "first quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一局！",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一腾空",
+   "en": "first flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试跳（投、掷）",
+   "en": "first trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冥想训练",
+   "en": "meditation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原医学",
+   "subjectName": "高原医学",
+   "publishYear": "2025",
+   "definition": "通过对主题深刻连续思考与想象，以心性训练实现放松的手段。经常冥想静坐，能减轻生活压力、增强身体抗病能力、缓解精神紧张，还对呼吸道、头痛、胃痛、神经系统等相关疾病有良好改善作用。"
+  },
+  {
+   "cn": "哲学",
+   "en": "philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0001",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源于希腊语“Φιλοσοφία”，意为“爱智慧”。汉译名源于日本启蒙家西周，后由黄遵宪、康有为等人介绍到中国。哲学是理论化、系统化的世界观和方法论，是关于自然、社会和思维发展一般规律的学说，是对具体科"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用哲学的理论、观点和方法解释整体社会或社会事物构成、发展和变化的学说。哲学与社会学的交叉学科。"
+  },
+  {
+   "cn": "马克思主义哲学",
+   "en": "Marxist philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0002",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的关于自然界、人类社会和思维发展最一般规律的科学，是无产阶级的世界观和方法论，是马克思主义学说的理论基础和重要组成部分。"
+  },
+  {
+   "cn": "思辩哲学",
+   "en": "speculative philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0102",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "仅从抽象思想或概念运动中来说明和引申出一切事物的哲学学说。它认为概念先于事物存在并派生出事物，颠倒了物质与意识的辩证关系，是典型的唯心主义哲学。思辨哲学的主要代表有莱布尼茨（Gottfried Wil"
+  },
+  {
+   "cn": "实践哲学",
+   "en": "practical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0009",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "最初是由意大利马克思主义者拉布里奥拉（Antonio- Labriola）提出过的概念，葛兰西在《狱中札记》中对之做过较为系统的阐释，用以指称历史唯物主义和马克思主义，其主要见解是：（1）提倡“实践一"
+  },
+  {
+   "cn": "无调哲学",
+   "en": "atonal philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0030",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺从现代新音乐大师勋伯格（Arnold Schoenberg）那里吸取了一种非古典的“无调”音乐技巧，并把它用于对音乐和哲学的分析中。如果说勋伯格等人的“无调音乐”是音乐中的辩证法，无调哲学则是一"
+  },
+  {
+   "cn": "星丛哲学",
+   "en": "constellation philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0031",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "星丛原是犹太教古老认知方法，阿多诺借用这一概念来打破同一性哲学的统治。星丛不是一而是多，不是静态的而是动态的，“让概念进入一个星丛”意味着概念不再封闭于主体的思想中，而是消除一切以人为中心的倾向，超越"
+  },
+  {
+   "cn": "医学哲学",
+   "en": "medical philosophy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1740000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "以医学的发生、发展和实践活动中的根本性问题为研究对象的一门哲学学科。以人类生命的健康为逻辑起点，涉及医学的本体论、认识论、价值论、方法论和发展观等理论问题。"
+  },
+  {
+   "cn": "道德哲学",
+   "en": "moral philosophy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0070000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对人类道德生活进行系统思考和规范的学科。主要研究善与应当、事实与价值、权利与义务等基础性的道德问题。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "自然哲学",
+   "en": "philosophy of nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0005",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种凌驾于经验自然科学之上，运用对自然的哲学沉思而得出一般原理以解释自然界的构成、基本结构、基本规律及人与自然的关系等的一个哲学分支。其代表观点如德国古典哲学家谢林和黑格尔的自然哲学思想。"
+  },
+  {
+   "cn": "德国古典哲学",
+   "en": "German classical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0111",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "主要代表人物是康德、费希特、谢林、黑格尔和费尔巴哈。它经历了从唯心主义到唯物主义两个发展阶段，是德国当时社会关系的必然产物，为德国1848年资产阶级政治革命作了先导。它是马克思主义哲学的理论来源。"
+  },
+  {
+   "cn": "康德哲学",
+   "en": "philosophy of Kant",
+   "source": "马克思主义",
+   "wordNumber": "01.0117",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "德国古典哲学创始人康德的哲学体系，其核心是通过对理性的知、情、意功能的划分，为真（现象—知识）奠定基础，为善（物自体—自由）留下余地，美（合目的性）则是沟通两者的桥梁。其论著涉及宗教哲学、法哲学、历史"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new development philosophy",
+   "source": "马克思主义",
+   "wordNumber": "03.0818",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十八届五中全会首次提出“实现‘十三五’时期发展目标，破解发展难题，厚植发展优势，必须牢固树立并切实贯彻创新、协调、绿色、开放、共享的发展理念”。2017年10月，中共十九大明确提出把“坚持新发展理"
+  },
+  {
+   "cn": "希望哲学",
+   "en": "philosophy of hope",
+   "source": "马克思主义",
+   "wordNumber": "05.0018",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）的基本哲学思想。在布洛赫看来，马克思主义应该由客观冷静的经济分析（即“寒流”）和精神道德的倾向或乌托邦过剩（即“热流”）两方面组成。希望哲学集中于“热"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "死亡哲学",
+   "en": "philosophy of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "运用哲学范畴和理论，对人类的死亡现象、死亡规律及其本质进行研究的哲学学说。"
+  },
+  {
+   "cn": "第一语言",
+   "en": "first language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0181",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第二语言”相对。人在幼儿时期最早自然习得的语言，通常是母语。第一语言强调的是最早习得的语言，母语强调的是认同的所属族群的语言，所以二者也可以不一致。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

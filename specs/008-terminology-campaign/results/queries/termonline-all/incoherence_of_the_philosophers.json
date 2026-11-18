@@ -1,0 +1,812 @@
+{
+ "key": "incoherence of the philosophers",
+ "term": "Incoherence of the Philosophers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:03:36+00:00",
+ "status": "ok",
+ "note": "variant=Incoherence of the Philosophers; 审定公布名词库=10000; 海峡两岸名词对照库=7700; 其他来源数据库=2568; 预公布名词数据库=2909; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "非相干性",
+   "en": "incoherence",
+   "source": "光学名词",
+   "wordNumber": "01.536",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "非相干光场或非相干光学系统的光学特性。它包括：光场或系统中各光波彼此独立、互不关联，它们的输入、输出像也是彼此不相干的，输出像是输入像的强度叠加。"
+  },
+  {
+   "cn": "非相干性",
+   "en": "incoherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1284",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干",
+   "en": "incoherent",
+   "source": "光学名词",
+   "wordNumber": "01.528",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光波不满足相干条件相遇时的光场特性。它包括振幅、相位、强度和偏振态等特性，其各自的振幅、相位和偏振态是各自独立、互不关联的，其光强为各波光强的线性叠加。"
+  },
+  {
+   "cn": "思维不连贯",
+   "en": "incoherence of thinking",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "思维内容缺乏连贯性和应有的逻辑性、言语杂乱、语句片段化、毫无主题可言的意识障 碍。"
+  },
+  {
+   "cn": "思维不连贯",
+   "en": "incoherence of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.052",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "哲学家之船",
+   "en": "Philosophers Ships",
+   "source": "世界历史名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1922年9月和11月，苏俄政府用船只遣送一批知识分子离境，其中有别尔嘉耶夫、洛斯基等著名哲学家。史称“哲学家之船”。"
+  },
+  {
+   "cn": "哲学王",
+   "en": "philosopher king",
+   "source": "教育学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家柏拉图在其著作《理想国》中构想的理想国家统治者的形象。其核心在于利用哲学领悟的原理对国家进行治理。"
+  },
+  {
+   "cn": "《哲学书简》",
+   "en": "Philosophical Letters",
+   "source": "世界历史名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1826-1831年，俄国哲学家恰达耶夫写的作品，对俄国在世界历史和政治中起的作用做了严厉的批评，认为俄国远远落后于西方国家，对世界历史进程毫无贡献。"
+  },
+  {
+   "cn": "哲学语义学",
+   "en": "philosophical semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。对语言中的意义进行哲理研究。"
+  },
+  {
+   "cn": "哲理语言学",
+   "en": "philosophical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。一方面研究语言对理解和阐明哲学概念的作用，一方面研究语言学理论、方法以及观察结果的哲学地位。主要包括语言本体论和语言研究方法论。"
+  },
+  {
+   "cn": "非相干光",
+   "en": "incoherent light",
+   "source": "光学名词",
+   "wordNumber": "01.219",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "不满足相干条件、不能产生干涉现象的光波。例如，基于自发发射机理的发光二极管(LED)所发出的光。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.521",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光束不满足相干条件相遇时按照光强叠加的现象。它说明在叠加区域总光波的光强为各波单独存在时的线性相加。"
+  },
+  {
+   "cn": "非相干合成",
+   "en": "incoherent synthesis",
+   "source": "光学名词",
+   "wordNumber": "01.523",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "将多个非相干激光束在近场或远场进行合束，获得能量(或功率)累加的过程。"
+  },
+  {
+   "cn": "非相干成像",
+   "en": "incoherent imaging",
+   "source": "光学名词",
+   "wordNumber": "14.045",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "采用非相干光进行照明的成像过程。光学系统传输和处理的基本物理量是光场的强度分布，非相干成像系统是强度的线性系统，满足强度叠加原理。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "物理学名词",
+   "wordNumber": "04.1285",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干发射",
+   "en": "incoherent emission",
+   "source": "物理学名词",
+   "wordNumber": "04.1281",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "冶金学名词",
+   "wordNumber": "07.0137",
+   "subjectFullName": "冶金学_金属学_晶体缺陷",
+   "subjectName": "晶体缺陷",
+   "publishYear": "2019",
+   "definition": "界面两侧的晶体点阵完全不存在连续性的界面。"
+  },
+  {
+   "cn": "非相干产生",
+   "en": "incoherent production",
+   "source": "物理学名词",
+   "wordNumber": "09.1071",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干散射",
+   "en": "incoherent scattering",
+   "source": "物理学名词",
+   "wordNumber": "04.0877",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干成像",
+   "en": "incoherent imaging",
+   "source": "物理学名词",
+   "wordNumber": "04.1245",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "哲学家",
+   "en": "philosopher",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思考不连贯",
+   "en": "incoherence of thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱奥尼亚哲学家",
+   "en": "Ionian philosophers",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "哲学心理学",
+   "en": "philosophical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非相干回波",
+   "en": "incoherent echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非相干雷达",
+   "en": "incoherent radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非共格析出物",
+   "en": "incoherent precipitate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非相干检测",
+   "en": "incoherent detection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非共格晶界",
+   "en": "incoherent grain boundary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卫队侍从",
+   "en": "Yeomen of the Guard\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Sullivan, Arthur"
+  },
+  {
+   "cn": "死之岛",
+   "en": "Isle of the Dead\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rachmaninoff, Sergey "
+  },
+  {
+   "cn": "宝塔王子",
+   "en": "Prince of the Pagodas\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "献给剧院",
+   "en": "Consecration of the House\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "驯悍记",
+   "en": "The Taming of the Shrew",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Goetz, Hermann"
+  },
+  {
+   "cn": "旋螺丝",
+   "en": "The Turn of the Screw",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "野蜂飞舞",
+   "en": "Flight of the Bumble Bee\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rimsky-Korsakov, Nikolay  "
+  },
+  {
+   "cn": "死屋手记",
+   "en": "House of the Dead\",\"From The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Janáček, Leoš "
+  },
+  {
+   "cn": "隐城基特日的故事",
+   "en": "Invisible City of Kitezh\",\"The Legend of the",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rimsky-Korsakov, Nikolay  "
+  },
+  {
+   "cn": "地球扁率",
+   "en": "flattening of the earth\",\"compression of the earth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "郑声",
+   "en": "The Music of the State of Zheng",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杠铃重量证明书",
+   "en": "certificate of the weight of the barbell",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浪的反作用力",
+   "en": "effect of the return of the waves",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体国经野，义尚光大",
+   "en": "Portray the Grandeur of the Capital and the Glory of the Countryside",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《俄罗斯联邦国家标准化体系发展构想2020》",
+   "en": "The Concept of the Development of the National System of Standardization of the Russian Federation for the Period Until 2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "醉翁之乐",
+   "en": "The Joy of the Old Drunkard",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红船精神",
+   "en": "the spirit of the Red Boat",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古田会议精神",
+   "en": "the spirit of the Gutian Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长征精神",
+   "en": "the spirit of the Long March",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遵义会议精神",
+   "en": "the spirit of the Zunyi Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红旗渠精神",
+   "en": "the spirit of the Hongqi Canal",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北京奥运精神",
+   "en": "the spirit of the Beijing Olympics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莫高精神",
+   "en": "the spirit of the Mogao Grottoes",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整杠铃位置",
+   "en": "assure the position of the bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "党的领导、人民当家作主、依法治国 有机统一",
+   "en": "the unity of the leadership of the Party, the position of the people as masters of the country and law-based governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "路线图",
+   "en": "plan of the course\",\"map of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腿部动作",
+   "en": "action of the legs\",\"aid of the legs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人民当家作主",
+   "en": "people are the masters of the country / running of the country by the people",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国共产党人的初心和使命",
+   "en": "the original aspiration and the mission of the CPC",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "自然哲学医学模式",
+   "en": "natural philosophical medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将健康、疾病与人类生活的自然环境和社会环境相联系的朴素、辩证和整体的医学观和方法论。其核心思想认为人体与自然界存在内在统一性，均由特定成分构成，这些成分之间保持平衡就是健康状态，平衡被打破则导致疾病。"
+  },
+  {
+   "cn": "坚持党的领导人民当家作主和依法治国有机统一",
+   "en": "integrate the leadership of the party the position of the people as masters of the country and the rule of law",
+   "source": "马克思主义",
+   "wordNumber": "03.0658",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国特色社会主义民主政治的科学内涵，反映我国民主政治建设的基本规律和客观要求。党的领导是人民当家作主和依法治国的根本保证；人民当家作主是社会主义民主政治的本质要求；实现党的领导和人民当家的辩证统一，关"
+  },
+  {
+   "cn": "生活世界的殖民化",
+   "en": "the colonization of the life world",
+   "source": "马克思主义",
+   "wordNumber": "05.0039",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为系统侵入到日常生活世界中，市场机制和官僚制的系统权力侵蚀了原本属于私人领域和公共领域的关系网络，形成共识的可能途径被阻塞，以至于生活世界的原有结构与行为逻辑受到控制与破坏。"
+  },
+  {
+   "cn": "党的建设的总体布局",
+   "en": "overall layout of the construction of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0728",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十八大报告明确提出党的建设总体布局是：牢牢把握加强党的执政能力建设、先进性和纯洁性建设这条主线，坚持解放思想、改革创新，坚持党要管党、从严治党，全面加强党的思想建设、组织建设、作风建设、反腐倡廉建"
+  },
+  {
+   "cn": "党的建设总目标",
+   "en": "general goal of the construction of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0730",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的建设总目标是随着党领导的事业发展和党自身状况变化而不断丰富和发展的。党的十八大进一步提出“建设学习型、服务型、创新型的马克思主义执政党，确保党始终成为中国特色社会主义事业的坚强领导核心”的总目标，"
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "中华民族历史观",
+   "en": "view of the history of the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0142",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "关于中华民族形成和发展的历史规律的认知体系，核心是“五个共同”，中华民族多元一体格局和中华民族大家庭，各民族血脉相通、信念相同、文化相通、经济相依、情感相亲，各民族共同的中华民族和中国人身份。"
+  },
+  {
+   "cn": "党政分开",
+   "en": "separate the functions of the Party from those of the government",
+   "source": "马克思主义",
+   "wordNumber": "03.0538",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为解决党政不分、以党代政问题，理顺党与国家政权的关系而进行的一项党和国家领导体制的重大改革。在坚持党的领导前提下，党组织和行政组织职能分开，各司其职，各负其责。根据邓小平的思想，十三大报告在党的正式文"
+  },
+  {
+   "cn": "中国共产党党员权利保障条例",
+   "en": "regulations on the protection of the rights of members of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0757",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了发展党内民主，健全党内生活，坚持民主集中制原则，增强党的生机活力，保障党员权利的正常行使和不受侵犯，根据党章而制定的专门条例。作为党员权利保障的基础性法规，早在1995年党中央就印发了试行《条例》"
+  },
+  {
+   "cn": "族规",
+   "en": "regulations of the clan",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "家族或宗族用以约束和规定族内成员的行为规范和道德公约。宋明以来随着宗族势力的成长，作为团体组织原则而得以推行。特点是维护宗法，维护等级制度和奉行儒家伦常，并由此衍生出了“族权”、”族长”等一套权力体系"
+  },
+  {
+   "cn": "绅权",
+   "en": "power of the gentry",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "地方绅士和官僚为保护自身家族的利益，客观上形成的软禁皇权的消极力量。从观念上说，士大夫要用道统来约制皇权，也即承认皇权之上还存在着士大夫作为帝王师存在。这是士大夫在政治经济方面发挥制约皇权的作用之依据"
+  },
+  {
+   "cn": "欠发达的发展",
+   "en": "the development of underdevelopment",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "脱离了传统的未发展阶段，但因“中心－外围”的依附关系而产生的低水平发展阶段。依附理论家弗兰克提出的概念。"
+  },
+  {
+   "cn": "文明冲突论",
+   "en": "the clash of civilizations",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "美国学者塞缪尔·亨廷顿（S.P.Huntington）提出的理论，认为一个以文明为基础的世界秩序正在出现，文明将取代民族国家成为国际政治的行为主体，未来世界的国际冲突将主要是文明的冲突。"
+  },
+  {
+   "cn": "资本主义精神",
+   "en": "the spirit of capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "促动资本主义经济发生的精神因素。包括生活的意义主要在于努力工作、永无止境地追逐利润、精于计算、讲求高效、进行精确记录、将利润用于再投资而非消费、珍惜时间等等。由马克斯•韦伯(Max Weber)提出。"
+  },
+  {
+   "cn": "公地悲剧",
+   "en": "tragedy of the commons",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.12",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "一种涉及个人利益和公共利益对资源分配冲突的社会陷阱，比喻有限的资源注定因自由进入和不受限制的利用而被过度消耗。"
+  },
+  {
+   "cn": "社会工作的理论基础",
+   "en": "the theoretical foundation of",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "支撑社会工作实践的基础性理论部分。主要包括社会学、经济学、心理学等学科领域中对社会工作具有重要或直接影响的一些理论、学说。"
+  },
+  {
+   "cn": "残疾人联合会",
+   "en": "federation of the disabled",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.74",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国国家法律确认、国务院批准的，由残疾人及其亲友和残疾人工作者组成的人民团体。"
+  },
+  {
+   "cn": "世界的物质性",
+   "en": "materiality of the world",
+   "source": "马克思主义",
+   "wordNumber": "01.0193",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界的本原是不依赖于意识而存在但又被意识所反映的客观实在。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

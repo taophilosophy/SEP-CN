@@ -1,0 +1,772 @@
+{
+ "key": "addition subtraction",
+ "term": "addition subtraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:40:51+00:00",
+ "status": "ok",
+ "note": "variant=addition subtraction; 审定公布名词库=780; 海峡两岸名词对照库=161; 其他来源数据库=23; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "增减材复合制造",
+   "en": "additive-subtractive hybrid manufacturing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "08.027",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_近净成形与快速制造",
+   "subjectName": "近净成形与快速制造",
+   "publishYear": "2021",
+   "definition": "将增材制造与传统减材制造相结合，通过增材及减材加工参数控制成形系统实现增减材复合制造，直接成形实体零件的技术。"
+  },
+  {
+   "cn": "相减",
+   "en": "subtraction",
+   "source": "核医学名词",
+   "wordNumber": "03.0600",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "两组可比性数据(如两幅大小一致的灰度图像)相减，获取两者之间差异信息的图像运算方法。"
+  },
+  {
+   "cn": "减法",
+   "en": "subtraction",
+   "source": "数学名词",
+   "wordNumber": "04.0014",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加减消元法",
+   "en": "elimination by addition and subtraction",
+   "source": "数学名词",
+   "wordNumber": "04.0744",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "减法器",
+   "en": "subtracter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0219",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "产生两个操作数之差的逻辑电路。"
+  },
+  {
+   "cn": "能量减影",
+   "en": "energy subtraction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "使用两个不同的管电压进行曝光，获得两幅不同能量的影像信号，再对两影像信号进行减影，从而获得减影影像的方式。原理是利用碘与周围软组织对X射线衰减系数在不同能量下有明显差异的物理特性，将对比剂到达前后的高"
+  },
+  {
+   "cn": "混合减影",
+   "en": "hybrid subtraction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "将能量减影和时间减影技术相结合，先作能量减影，后作时间减影，先消除软组织，再消除骨组织，最后留下血管影像的减影方式。"
+  },
+  {
+   "cn": "相干相消",
+   "en": "coherent subtraction",
+   "source": "物理学名词",
+   "wordNumber": "06.0901",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "减除点",
+   "en": "subtraction point",
+   "source": "物理学名词",
+   "wordNumber": "09.1616",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "最小减除",
+   "en": "minimum subtraction",
+   "source": "物理学名词",
+   "wordNumber": "09.1613",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "背景减除法",
+   "en": "background subtraction",
+   "source": "核医学名词",
+   "wordNumber": "03.0515",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "一种通过从总符合计数中直接减去背景计数来校正随机符合的方法。随机符合因来源于不相关的任意两个随机发生的湮灭事件，因此其空间分布是均匀的，在背景区域因无湮灭事件，故探测到的计数可看作是随机符合事件。这种"
+  },
+  {
+   "cn": "基因删减",
+   "en": "gene subtraction",
+   "source": "药学名词",
+   "wordNumber": "05.435",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "将生物细胞内一个或一个以上的基因活性予以破坏，使其丧失原有特性。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtractive hybridization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0463",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分子杂交与印迹技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。基本做法是将一种细胞的互补DNA（cDNA）或信使RNA（mRNA）与第二种细胞cDNA或mRNA"
+  },
+  {
+   "cn": "相减色",
+   "en": "subtractive color",
+   "source": "光学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "由两种或两种以上的非发光色(例如光波的反射或透射光)混合而成的颜色。例如，彩色印刷、彩色打印等获得的颜色通常都是相减色。"
+  },
+  {
+   "cn": "相减混色",
+   "en": "subtractive mixture",
+   "source": "光学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "光波经过颜色滤光片或其他吸收介质后组合并刺激到视网膜的同一个部位而产生或感觉出不同于原来颜色的现象或过程。这个现象使产生的颜色比原来颜色要深暗。减法三原色被称为“染料的三原色”，它们分别是蓝绿色(cy"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtracting hybridization",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.045",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。是将一种细胞的互补DNA（cDNA）或信使核糖核酸（mRNA）与第二种细胞cDNA或mRNA相互杂"
+  },
+  {
+   "cn": "消减[基因]文库",
+   "en": "subtractive library",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.139",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "用两种不同类型或不同生理状态下的细胞DNA作消减杂交后，将目标DNA克隆而构成的基因文库。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtracting hybridization",
+   "source": "植物学名词",
+   "wordNumber": "16.0312",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。是将一种细胞的互补DNA(cDNA)或信使核糖核酸(mRNA)与第二种细胞cDNA或mRNA相互杂"
+  },
+  {
+   "cn": "减量秤",
+   "en": "subtractive weigher",
+   "source": "计量学名词",
+   "wordNumber": "03.101",
+   "subjectFullName": "计量学_质量、密度、衡器_衡器",
+   "subjectName": "衡器",
+   "publishYear": "2015",
+   "definition": "通过控制称量料斗的物料输出，来确定装料质量的重力式自动装料衡器。如失重秤等。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtractive hybridization",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.082",
+   "subjectFullName": "放射医学与防护_放射生物学_放射生物学实验技术",
+   "subjectName": "放射生物学实验技术",
+   "publishYear": "2014",
+   "definition": "筛选不同类型的细胞或不同生理状态下同种细胞所特有的基因、mRNA或DNA片段的一种方法。"
+  },
+  {
+   "cn": "减法器",
+   "en": "subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消减杂交,扣除杂交",
+   "en": "subtractive hybridization\",\"subtracting hybridization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减杂交, 扣除杂交",
+   "en": "subtracting hybridization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减克隆,扣除克隆",
+   "en": "subtractive cloning",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "减色法",
+   "en": "subtractive process",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "消减探针, 扣除探针",
+   "en": "subtracted probe",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减文库, 扣除文库",
+   "en": "subtracted library",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半减器",
+   "en": "half-subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加减器",
+   "en": "adder-subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全减器",
+   "en": "full subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1\",\"4-addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction\",\"additive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氧化加成[反应]",
+   "en": "oxidation addition\",\"oxidative addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光谱差减法",
+   "en": "spectral subtraction method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "附加试跳（投、掷）",
+   "en": "additional trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加动作",
+   "en": "additional element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再次严重犯规",
+   "en": "additional major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时",
+   "en": "additional time\",\"extra time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "为学日益，为道日损",
+   "en": "Pursue Knowledge by Adding; Pursue Dao by Subtracting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络成瘾",
+   "en": "Internet addiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规添加",
+   "en": "illegal addition",
+   "source": "消毒学",
+   "wordNumber": "5.2.16",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "违反相关法律法规的规定，在消毒产品中添加禁用物质或限用物质超量的行为。"
+  },
+  {
+   "cn": "非法添加",
+   "en": "illegal addition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.19",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为提高食品的质量属性，故意在食品中添加未经批准或未进行申报成分的行为。不属于传统上认为的或不属于相关法律法规和标准允许的食品生产活动，如添加三聚氰胺提高蛋白质的检测值。"
+  },
+  {
+   "cn": "药物成瘾",
+   "en": "drug addition",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "因长期或反复应用某种药物（物质）而产生精神或躯体上的依赖性，持续地或周期性渴望重复应用该种药物的现象。"
+  },
+  {
+   "cn": "附加过滤",
+   "en": "additional filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线源与患者或规定平面之间附加的对线束具有滤过特性的材料产生的等效过滤。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "成瘾性社会病",
+   "en": "additive sociopathy",
+   "source": "社会医学名词",
+   "wordNumber": "13.5",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "在特定社会环境下，由经济不平等、文化异化或技术异化等因素驱动，导致个体或群体对物质或行为形成强迫性依赖的社会现象。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6",
+   "subjectFullName": "食品卫生学_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "数字减影血管造影",
+   "en": "digital subtraction angiography，DSA",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "通过人工的方法将对比剂注射到目标血管内进行X射线成像，利用计算机处理对比剂注入前后所得到的数字化影像信息，以消除周围组织结构而使血管影像清晰显示的一种成像技术。"
+  },
+  {
+   "cn": "标准加入法",
+   "en": "standard addition method",
+   "source": "消毒学",
+   "wordNumber": "6.1.9.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在未知样品中定量加入待测物的标准品，然后根据信号的增加量来进行定量分析的方法。"
+  },
+  {
+   "cn": "成瘾模型",
+   "en": "model of addition",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "解释个体成瘾的心理学、医学和经济学模型，包括不完全理性成瘾模型、短视成瘾模型、理性成瘾模型"
+  },
+  {
+   "cn": "短视成瘾模型",
+   "en": "myopic addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对于成瘾物品的性质和危害存在认知不足，进而导致消费成瘾物品，以致上瘾。"
+  },
+  {
+   "cn": "理性成瘾模型",
+   "en": "rational addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "研究理性个体选择消费成瘾产品的模型。成瘾行为使个体感到愉快，之前对于成瘾物品的消费能够增加现在对于成瘾物品消费的边际效用，个体对于成瘾物品的消费是理性的。"
+  },
+  {
+   "cn": "药品加成",
+   "en": "drug price addition",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医院或药店向药品售价中添加额外的费用，加成费用通常涵盖了药品的成本、管理成本以及可能的利润。"
+  },
+  {
+   "cn": "食品添加剂制剂",
+   "en": "food additive preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "含有一种或多种食品添加剂、食品用酶和/或营养素的配方型产品，其中添加了食品添加剂和/或食品配料以利于添加剂的贮存、销售、标准化、稀释、分散。"
+  },
+  {
+   "cn": "相加作用",
+   "en": "additional joint action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.39",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物各自以相似的方式和机制作用于相同的靶点，其毒作用彼此互不影响，对机体产生的毒作用等于各化学物单独对机体产生毒作用的算术总和。"
+  },
+  {
+   "cn": "间接食品添加剂",
+   "en": "indirect food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品生产、加工、包装、运输或存贮过程中与食品直接接触，通过迁移而无意中进入食品的添加剂。"
+  },
+  {
+   "cn": "直接食品添加剂",
+   "en": "direct food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "人为添加到食品中，并在终产品中发挥特定功能的食品添加剂。"
+  },
+  {
+   "cn": "食品添加剂管理",
+   "en": "food additive management",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "政府采取计划、组织、领导和监督等方式，对食品添加剂生产、流通、销售及消费等活动进行有效的控制和引导，确保食品添加剂相关活动健康有序地开展，从而保障公众生命财产安全和社会利益的过程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

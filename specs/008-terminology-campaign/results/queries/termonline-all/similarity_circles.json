@@ -1,0 +1,652 @@
+{
+ "key": "similarity circles",
+ "term": "similarity circles",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:54:41+00:00",
+ "status": "ok",
+ "note": "variant=similarity circles; 审定公布名词库=372; 海峡两岸名词对照库=206; 其他来源数据库=34; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "动物学名词",
+   "wordNumber": "7.0464",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "群落间或样方间的相似程度。"
+  },
+  {
+   "cn": "相似[性]",
+   "en": "similarity",
+   "source": "物理学名词",
+   "wordNumber": "01.0474",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "生物物理学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "两条序列做对位排列比对时，在同一位置上出现同一种氨基酸或不同氨基酸，但却具有相似的特性。是对两条序列关系的定量描述。相似性程度用相同或相似氨基酸数目相加的总数占比对序列的氨基酸总数的百分比表示。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "药学名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "不同的物质在理化性质上具有相近或相似的性质。就是“相似者相溶”原理的应用。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "自动化名词",
+   "wordNumber": "04.567",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "相似[的]",
+   "en": "similar",
+   "source": "数学名词",
+   "wordNumber": "08.0120",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "度盘",
+   "en": "circle",
+   "source": "测绘学名词",
+   "wordNumber": "02.453",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "用于测量角度的分度圆盘。"
+  },
+  {
+   "cn": "圆",
+   "en": "circle",
+   "source": "数学名词",
+   "wordNumber": "08.0074",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自相似[性]",
+   "en": "self-similarity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1815",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "一个物体和它本身的一部分完全或几乎完全相似的性质。 "
+  },
+  {
+   "cn": "几何相似",
+   "en": "geometric similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1357",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "两液力元件过流部分及相应的各线性尺寸成比例和相应角度相等的工况。"
+  },
+  {
+   "cn": "运动相似",
+   "en": "kinematic similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1358",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "几何相似的液力元件的转速比相同的工况。"
+  },
+  {
+   "cn": "动力相似",
+   "en": "dynamic similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1359",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "具有几何相似和运动相似的工况。"
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.105",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "说明自然界和工程中各相似现象相似原理的学说。是研究自然现象中个性与共性，或特殊与一般的关系以及内部矛盾与外部条件之间的关系的理论。"
+  },
+  {
+   "cn": "自相似",
+   "en": "self-similarity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.132",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "一种形状的每一部分在几何上相似于整体，一般对分形而言。"
+  },
+  {
+   "cn": "相似性检索",
+   "en": "similarity retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.095",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "在给定的样本文献集合中查找出与检索词内容相似的文献的过程。"
+  },
+  {
+   "cn": "相似性测度",
+   "en": "similarity measure",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "衡量一篇文献是否满足一个特定的用户提问，或者衡量文献向量空间中任意两篇文献相类似的程度。"
+  },
+  {
+   "cn": "相似群",
+   "en": "similarity group",
+   "source": "物理学名词",
+   "wordNumber": "01.0485",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "文献相似度",
+   "en": "document similarity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.099",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "两组文献在相关信息描述方面的相似程度的数值度量。"
+  },
+  {
+   "cn": "相似定理",
+   "en": "similarity theorem",
+   "source": "冶金学名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "判断相似的规则。由三个定理组成。相似第一定理即相似正定理，提出彼此相似的物理现象必定具有数值相同的特征数（即相似准数）。相似第二定理即白金汉(Buckingham)定理，为彼此的物理相似现象中的特征数"
+  },
+  {
+   "cn": "广义相似",
+   "en": "generalized similarity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0356",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "工程问题的模型研究方法。适用于体系的有关特征数之间存在线性或连续的函数关系，但无法满足特征数恒定条件的情况。为此可使模型特征数取值覆盖原型特征数目标值的一个领域，仍有相似性。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圆",
+   "en": "circle",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "度盘",
+   "en": "circle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "动力相似",
+   "en": "dynamic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谱相似[性]",
+   "en": "spectral similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动学相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "几何相似",
+   "en": "geometric similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力学相似性",
+   "en": "dynamic similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似变换",
+   "en": "similarity transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性解",
+   "en": "similarity solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假设相似性",
+   "en": "assumed similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相似准则",
+   "en": "similarity criterion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回环",
+   "en": "circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全旋",
+   "en": "circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转圈",
+   "en": "circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳球圈",
+   "en": "circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中圈",
+   "en": "center circle\",\"kickoff circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正撑回环",
+   "en": "small circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腹回环",
+   "en": "hip circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "楚肖尔德回环",
+   "en": "Zuchold circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腿全旋",
+   "en": "leg circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立撑回环",
+   "en": "sole circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "托马斯全旋",
+   "en": "Thomas circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁饼投掷圈",
+   "en": "discus circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铅球投掷圈",
+   "en": "shot circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "投掷圈",
+   "en": "throwing circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "链球投掷圈",
+   "en": "hammer circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中圈",
+   "en": "center circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半圈",
+   "en": "half-circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "祭祀圈",
+   "en": "sacrificing circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0639",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个地方社区的居民基于祭祀天地鬼神的共同信仰需求所形成的义务性祭祀组织。此概念由日本学家冈田谦1938 年提出，20 世纪60 年代中期以后，中国台湾学家许嘉明、施振明等在台湾汉人传统社会研究中，开始"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "社会圈",
+   "en": "social circle",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "从生物圈演化而来并与此相依存的、一定时空范围内人与社会结构或社会关系构成的具有一定政治、经济、文化内容的种种社会生态系统。"
+  },
+  {
+   "cn": "通婚圈",
+   "en": "intermarry circle",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "某一婚姻个体在择偶时可能选择的地域或群体范围。"
+  },
+  {
+   "cn": "文化圈",
+   "en": "cultural circle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.051",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "德奥传播学派代表人物格累布奈尔（Robert Fritz Graebner）在《民族学方法论》一书中使用文化圈概念作为研究民族学的方法论，对“文化圈”概念进行了系统的理论和方法综述，为传播论学派广泛使"
+  },
+  {
+   "cn": "市场圈",
+   "en": "market circle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0157",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "市场以其所在地点为中心，沿着一定的方向和距离扩展，吸引顾客的辐射范围。"
+  },
+  {
+   "cn": "文化周圈论",
+   "en": "cultural circle theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0524",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "日本民俗学研究方法之一，为日本民俗学家柳田国男所创立，是指根据方言传播规律研究民俗传承的一种方法。他认为方言可以揭示出地方差异和时代差异这一规律，提出语言的变化一般从文化的中心开始。产生于文化中心的新"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

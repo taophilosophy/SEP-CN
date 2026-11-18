@@ -1,0 +1,772 @@
+{
+ "key": "interaction",
+ "term": "interaction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:05:10+00:00",
+ "status": "ok",
+ "note": "variant=interaction; 审定公布名词库=920; 海峡两岸名词对照库=280; 其他来源数据库=62; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "互动",
+   "en": "interaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.018",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "两个或更多的传播参与者通过符号进行的交互行为或产生相互影响的作用。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.128",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "两个或多个独立变量对同一反应变量产生共同效应的作用。但效应总和并不是每个变量效应的简单相加。"
+  },
+  {
+   "cn": "[相]互作用",
+   "en": "interaction",
+   "source": "物理学名词",
+   "wordNumber": "01.0089",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "核医学名词",
+   "wordNumber": "06.0271",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "在统计学上一个因素不同水平间的效应差受另一因素的影响的情况。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "心理学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "多因素实验中，一个因素的水平在另一个因素的不同水平上对因变量的影响变化趋势不一致时的效果。说明两个因素之间存在交互作用。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "有三个方面的含义：(1)两个或多个因素之间的互相作用，从而导致、阻止或控制某一疾病的发生或进展，可进一步分为拮抗作用和协同作用。(2)又称“效应修正作用(effect modification)”。随"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction",
+   "source": "数学名词",
+   "wordNumber": "09.0719",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "互联",
+   "en": "interaction",
+   "source": "自动化名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "交互",
+   "en": "interactive",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.244",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "具有直接和连续的反应的双向电子或通信系统的，或与之有关的。"
+  },
+  {
+   "cn": "互动性",
+   "en": "interactivity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.099",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "横跨信息科学、计算机科学、工业设计、传播学等众多领域的一个概念。在传播学领域，互动性广泛体现在人际沟通、组织传播及大众传播过程中。人际沟通中的互动性通常指的是人们在人际交流过程中的心理和行为方面的交往"
+  },
+  {
+   "cn": "交互影响",
+   "en": "interaction effect",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.051",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在多因素试验中，某些因素的交叉项对目标函数的影响。"
+  },
+  {
+   "cn": "相互作用参数",
+   "en": "interaction parameter",
+   "source": "冶金学名词",
+   "wordNumber": "04.0177",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "在多元稀溶液中，当i溶质浓度趋于不变时，其活度系数的对数对j溶质浓度的变化率。在1%浓度标准态下，j溶质的质量分数浓度每提高1%，引起i的活度系数对数值的改变，用<img src='/root/syz"
+  },
+  {
+   "cn": "共同作用理论",
+   "en": "interaction theory",
+   "source": "冶金学名词",
+   "wordNumber": "02.0303",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "围岩与支护形成一种共同承载体，维持岩石开挖工程稳定的理论。"
+  },
+  {
+   "cn": "[相]互作用表象",
+   "en": "interaction representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0450",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[相]互作用能",
+   "en": "interaction energy",
+   "source": "物理学名词",
+   "wordNumber": "03.0100",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[相]互作用常量",
+   "en": "interaction constant",
+   "source": "物理学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[相]互作用长度",
+   "en": "interaction length",
+   "source": "物理学名词",
+   "wordNumber": "09.1278",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用系数",
+   "en": "interaction coefficient",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0120",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "用来描述混合物不同组分的分子间相互作用的参数。"
+  },
+  {
+   "cn": "交互故障",
+   "en": "interaction fault",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1116",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "由于人为操作失误，通过人机接口使系统发生的故障。"
+  },
+  {
+   "cn": "交互图",
+   "en": "interaction diagram",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0110",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "描述对象之间或对象与系统的参与者之间如何进行交互的图，有许多种类，例如统一建模语言（UML）的顺序图、通信图、交互概览图和定时图。"
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交互",
+   "en": "interaction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交互[作用]",
+   "en": "interaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互的",
+   "en": "interactive",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互作离差",
+   "en": "interaction deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用势",
+   "en": "interaction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用指数",
+   "en": "interaction index",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用系数",
+   "en": "interaction coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用能",
+   "en": "interaction energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用因数",
+   "en": "interaction factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用力",
+   "en": "interaction force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互作效应",
+   "en": "interaction effect",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互常量",
+   "en": "interaction constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互错误",
+   "en": "interaction error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互故障",
+   "en": "interaction fault",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多感官交互",
+   "en": "multisensory interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态交互",
+   "en": "multimodal interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语音交互",
+   "en": "voice interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核心交互",
+   "en": "core interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹幕互动",
+   "en": "danmaku interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式处理",
+   "en": "interactive processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式学习",
+   "en": "interactive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动群落",
+   "en": "interactive community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式传播",
+   "en": "interactive communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动仪式链",
+   "en": "Interaction ritual chain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手势交互",
+   "en": "hand gesture interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社交",
+   "en": "networked social interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人机交互系统",
+   "en": "human-machine interaction system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式智能RFID标签",
+   "en": "interactive smart RFID tag",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民族交往交流交融",
+   "en": "interaction, exchange, and integration among all ethnic groups",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0127",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "在一定历史条件下发生的不同民族个人、组织、群体之间的互动、接近、嵌入以至形成新的民族共同体的过程，中华民族是各民族长期交往交流交融的结果，广泛交往交流交融是推进中华民族共同体建设的重要途径。"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction effect",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.96",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或多个自变量对因变量产生的共同影响。也就是说，一个自变量对因变量的影响效应会因另一个自变量的水平不同而有所不同。"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "互动仪式",
+   "en": "interaction ritual",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在焦点互动中，个体有意或无意地按照一定规范与秩序表现出来的行为举止，如眼神、动作、站立位置和语言等等。通过这种方式，个体感知并表达某种情感与意识，使互动在社会行为与个体心理方面都产生影响。"
+  },
+  {
+   "cn": "社会互动",
+   "en": "social interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会互动",
+   "subjectName": "社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间、群体之间，或个体与群体之间相互采取社会行动的过程，通常是一方对另一方采取社会行动，另一方相应作出反应性社会行动。人类存在的重要方式，是社会发展的动力所在。"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体运用语言符号，理解自我与他人的行为与态度，从而在赋予行动以意义的基础上彼此互动的过程。此概念最先由美国社会学家库利、米德等人提出，后经一些学者补充、发展为“符号互动论”，进一步强调了符号交流在社会"
+  },
+  {
+   "cn": "焦点互动",
+   "en": "focused interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在面对面相遇时，互相积极有效地将感觉和视觉都注意于某一焦点而发生的互动行为。这一互动过程具有开始、结束、进入、退出的正式标识和仪式，有利于产生团结感。美国社会学家戈夫曼最早提出这一概念，与“非焦点"
+  },
+  {
+   "cn": "社会交往",
+   "en": "social interaction",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体参与社会活动并与他人互动的过程。"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "将健康教育的内容融入游戏之中，生动形象地让其通过游戏的方式学习，获得知识、培养良好生活习惯的教育活动。"
+  },
+  {
+   "cn": "相乘交互作用模型",
+   "en": "multiplicative interaction model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "描述两个危险因素（如吸烟和氡暴露）间相互作用的一种统计学模型。假定同时暴露于两个危险因素的相对危险是分别暴露于这两个危险因素的两个相对危险之积。"
+  },
+  {
+   "cn": "符号互动理论",
+   "en": "symbolic interaction theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.44",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "由美国学者布鲁默(H.Blumer）提出，强调个人在互动过程中建构社会结构的能动性，认为人具有意识和运用符号的能力，社会是全体行为者相互调整的产物，即人类的行动充满意义和解释，人们彼此理解并在理解过程"
+  },
+  {
+   "cn": "礼俗互动",
+   "en": "etiquette-custom interaction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0506",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国民俗学家张士闪提出的概念，“礼”是指制度化的国家礼仪，“俗”是指民众自然生成的生活习惯；礼俗互动指礼、俗并非简单的对立关系，两者之间经常互相借用各种元素，以重新建构一个在生活中可以延续的、符合形式"
+  },
+  {
+   "cn": "创造社交互动机会",
+   "en": "creating opportunities for social interaction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "为增加国际学生与国内学生分享与交流共同话题而设计的形式多样的活动。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

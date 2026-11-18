@@ -1,0 +1,652 @@
+{
+ "key": "density function",
+ "term": "density function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:47:45+00:00",
+ "status": "ok",
+ "note": "variant=density function; 审定公布名词库=4202; 海峡两岸名词对照库=1128; 其他来源数据库=128; 预公布名词数据库=138; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "密度函数",
+   "en": "density function",
+   "source": "经济学名词",
+   "wordNumber": "10.041",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "如果对于随机变量 X 的分布函数F(x)，存在非负函数f(x)，使对于任意实数x有F(x)=<img src='/root/syzx/static/spz/jingjixue1.10.041.01.p"
+  },
+  {
+   "cn": "概率密度函数",
+   "en": "probability density function",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2679",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "描述随机变量的输出值在某个确定的取值点附近的可能性的函数。 "
+  },
+  {
+   "cn": "概率密度函数",
+   "en": "probability density function",
+   "source": "畜牧学名词",
+   "wordNumber": "04.620",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一个连续性随机变量的概率分布函数的导数。是表示该随机变量在某一特定区间取值概率的函数。"
+  },
+  {
+   "cn": "密度关联函数",
+   "en": "density correlation function",
+   "source": "物理学名词",
+   "wordNumber": "08.1544",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电子密度函数",
+   "en": "electron-density function",
+   "source": "化学名词",
+   "wordNumber": "04.2034",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "具有周期点阵结构的晶体，以3个晶轴为坐标系，描述电子在三维空间连续分布的周期函数。在晶体结构分析中，连续的电子密度函数描述1个个孤立原子、甚至价电子以及化学键分布。与结构因子互为傅里叶变换和反变换关系"
+  },
+  {
+   "cn": "谱密度函数",
+   "en": "spectral density function",
+   "source": "数学名词",
+   "wordNumber": "09.0415",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转移密度函数",
+   "en": "transition density function",
+   "source": "数学名词",
+   "wordNumber": "09.0295",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "密度函数",
+   "en": "[probability] density function",
+   "source": "数学名词",
+   "wordNumber": "09.0064",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "冶金学名词",
+   "wordNumber": "04.0799",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "多电子体系基态的总能量是密度的泛函，即体系的所有能量可由该体系内电子分布表述，不考虑电子运动的细节。该理论为凝聚态物理和计算化学领域最常用的量子力学方法之一。是基于量子力学和玻恩–奥本海默绝热近似的从"
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "物理学名词",
+   "wordNumber": "08.1310",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "化学名词",
+   "wordNumber": "04.1388",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "用电子密度代替波函数来作为表述基础，研究多电子体系的一种量子力学方法。现代密度泛函理论是在1964年霍恩伯格和科恩证明的两个定理基础上发展起来的。1965年科恩和沈吕九提出了具体处理方法，为密度泛函理"
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory，DFT",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "用电子密度代替波函数作为表述基础，研究多电子体系的一种量子力学方法。"
+  },
+  {
+   "cn": "平均场密度函数",
+   "en": "average field density function",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.189",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "存在相互作用的多粒子系统，每个粒子受到周围其他粒子的叠加作用，对其粒子密度分布采用零级近似得到的平均势场，称为平均场密度函数。"
+  },
+  {
+   "cn": "局域密度泛函",
+   "en": "local density functional,LDF",
+   "source": "物理学名词",
+   "wordNumber": "08.1316",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相对论[性]密度泛函理论",
+   "en": "relativistic density-functional theory",
+   "source": "物理学名词",
+   "wordNumber": "06.0170",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.063",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "以10为底的透或反射系数倒数的对数值。"
+  },
+  {
+   "cn": "密度",
+   "en": "density ",
+   "source": "草学名词",
+   "wordNumber": "3.0126",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0483",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "(1)单位测度 (如单位长度、面积或频次)某物质的数量。 (2)单位体积中所含物质的质量。 "
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划制度",
+   "subjectName": "城乡规划制度",
+   "publishYear": "2021",
+   "definition": "通常是指一定范围内，某一要素的量占该范围总面积的比例。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "电力名词",
+   "wordNumber": "01.476",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "单位体积物质的质量。"
+  },
+  {
+   "cn": "概率密度函数",
+   "en": "probability density function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "种群密度函数",
+   "en": "population density function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率密度函数",
+   "en": "probability density function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障密度函数",
+   "en": "failure density function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瑞利概率密度函数",
+   "en": "Rayleigh probability density function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浓度",
+   "en": "density",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density\",\"shade density",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "填充密度",
+   "en": "packed density\",\"packing density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理论密度",
+   "en": "theoretical density\",\"solid density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "密度流",
+   "en": "density current\",\"density flow",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "密度分割",
+   "en": "density slicing\",\"density splitting",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密度图",
+   "en": "density plot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疏密",
+   "en": "Sparsity and Density",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密度聚类",
+   "en": "density-based clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值密度",
+   "en": "data value density",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等离子体密度",
+   "en": "plasma density",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "等离子腔体内施加的交变电场引发粒子正负电荷分离，使带电粒子发生集体震荡的粒子密度称为等离子体密度，相应的交变电场即是等离子体频率。"
+  },
+  {
+   "cn": "人口密度",
+   "en": "population density",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "单位面积土地上的人口数。例如，每平方英里土地上的人口数，又比如每平方公里耕地上的人口数。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "染毒密度",
+   "en": "exposure density",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.13.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "单位面积地面、物体或人体表面污染毒剂的平均质量，表示这些部位染毒严重程度，常用单位有微克/平方厘米（μg/cm²）、毫克/平方厘米（mg/cm²）、毫克/平方米（mg/m²）、克/平方米（g/m²）。"
+  },
+  {
+   "cn": "光密度",
+   "en": "optical density",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.3",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "入射光与透射光比值的对数。"
+  },
+  {
+   "cn": "光密度值",
+   "en": "optical density value",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.4.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "物质在溶液中吸收特定波长光线强弱的数值。与光吸收物质在溶液中的浓度成正比，是透光率对数的倒数。"
+  },
+  {
+   "cn": "骨密度",
+   "en": "bone mineral density",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.37",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "全称 “骨骼矿物质密度”。评价骨骼强度的 主要指标之一，即单位面积矿物质含量。 人体在 20~29 岁时达到最高值，以后随衰 老进程而下降。诊断骨质疏松的最基本依 据，通常选择腰椎和Ward三角作为骨"
+  },
+  {
+   "cn": "最大种群密度",
+   "en": "maximum population density",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.112",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "种群在一个有限的环境中所能稳定达到的最大数量或最大密度。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "卫生资源密度指数",
+   "en": "health resources density index，HDRI",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.12",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "衡量卫生资源地理分布和人口分布综合水平的指数。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

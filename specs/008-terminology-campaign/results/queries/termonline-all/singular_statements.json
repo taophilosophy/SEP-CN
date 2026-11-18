@@ -1,0 +1,542 @@
+{
+ "key": "singular statements",
+ "term": "singular statements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:49:04+00:00",
+ "status": "ok",
+ "note": "variant=singular statements; 审定公布名词库=390; 海峡两岸名词对照库=182; 其他来源数据库=16; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "单称陈述",
+   "en": "singular statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对单个相关对象的特征描述。"
+  },
+  {
+   "cn": "奇异的",
+   "en": "singular",
+   "source": "数学名词",
+   "wordNumber": "05.0224",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singular point,singularity",
+   "source": "数学名词",
+   "wordNumber": "05.0393",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.334",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "会使方程或表面等爆掉或退化的点。在奇点处，某些属性会变得无限大。"
+  },
+  {
+   "cn": "奇异",
+   "en": "singularity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0468",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在雅可比矩阵不满秩时出现的现象。"
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "物理学名词",
+   "wordNumber": "11.0465",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "电子学名词",
+   "wordNumber": "03.326",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0221",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据文法从开始符号推导出的终极符号串。即程序设计语言中符合语法的、具有一定功能的字符组合。"
+  },
+  {
+   "cn": "陈述",
+   "en": "statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达信息的条款。"
+  },
+  {
+   "cn": "奇异边界",
+   "en": "singular boundary",
+   "source": "物理学名词",
+   "wordNumber": "06.0278",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇异扰动",
+   "en": "singular perturbation",
+   "source": "物理学名词",
+   "wordNumber": "11.0506",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇异摄动法",
+   "en": "singular perturbation",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.367",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "奇异序数",
+   "en": "singular ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0187",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异基数",
+   "en": "singular cardinal",
+   "source": "数学名词",
+   "wordNumber": "02.0189",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值",
+   "en": "singular value",
+   "source": "数学名词",
+   "wordNumber": "04.0660",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异摄动",
+   "en": "singular perturbation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异面",
+   "en": "singular surface",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异环面",
+   "en": "singular torus",
+   "source": "数学名词",
+   "wordNumber": "04.2016",
+   "subjectFullName": "数学_代数学_代数几何学_代数群",
+   "subjectName": "代数群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异解",
+   "en": "singular solution",
+   "source": "数学名词",
+   "wordNumber": "06.0022",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇[异]点",
+   "en": "singular point\",\"singularity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇异向量",
+   "en": "singular vectors",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singular point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "奇异系",
+   "en": "singular set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单孔",
+   "en": "foramen singulare",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "报表表头",
+   "en": "statement heading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "报表格式",
+   "en": "statement form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算表",
+   "en": "liquidation statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件声明",
+   "en": "conditional statement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[分]情况语句",
+   "en": "CASE statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制语句",
+   "en": "control statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值分解",
+   "en": "singular value decomposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "客户结单",
+   "en": "customer’s statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术奇点",
+   "en": "Technological Singularity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值分解",
+   "en": "singular value decomposition (SVD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《国际图书馆协会和机构联合会数字素养宣言》",
+   "en": "International Federation of Library Associations (IFLA) Statement on Digital Literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《奇点临近》（〔美〕雷·库兹韦尔）",
+   "en": "The Singularity Is Near: When Humans Transcend Biology (Ray Kurzweil, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TR 29181-9-2017 信息技术 未来网络 问题陈述和要求 万物联网》",
+   "en": "BS PD ISO/IEC TR 29181-9:2017 Information technology — Future network — Problem statement and requirements — Networking of everything",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "角分辨率",
+   "en": "angular resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "角响应",
+   "en": "angular response",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的灵敏度与辐射入射方向之间的关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

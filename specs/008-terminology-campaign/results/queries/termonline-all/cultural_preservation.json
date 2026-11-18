@@ -1,0 +1,692 @@
+{
+ "key": "cultural preservation",
+ "term": "cultural preservation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:49:45+00:00",
+ "status": "ok",
+ "note": "variant=cultural preservation; 审定公布名词库=1151; 海峡两岸名词对照库=312; 其他来源数据库=56; 预公布名词数据库=282; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "菌种保藏",
+   "en": "culture preservation",
+   "source": "微生物学名词",
+   "wordNumber": "09.251",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "用适宜方法将微生物的代谢速率降至最低，使其长期存活、不被污染、不易衰退、原有生物学特性稳定, 便于以后使用的储存过程。"
+  },
+  {
+   "cn": "保存",
+   "en": "preservation ",
+   "source": "草学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "修缮",
+   "en": "preservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹的保护方式。包括日常保养、防护加固、现状修整、重点修复等。"
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "地理学名词",
+   "wordNumber": "24.114",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "对具有特殊价值(如历史价值、文化价值等)的人文景观或其遗迹的保护，特别是对建筑环境的保护。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "风景园林名词",
+   "wordNumber": "09.0281",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "为保持园林植物采后的观赏品质、减少流通损失或者延长贮藏时间和观赏时间所使用的化学药剂。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "农学名词",
+   "wordNumber": "17.037",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "能够延长农产品贮藏期及货架期的物质。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "微生物学名词",
+   "wordNumber": "08.295",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的化合物。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "水产名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的添加剂。"
+  },
+  {
+   "cn": "器官保存",
+   "en": "organ preservation",
+   "source": "普通外科学名词",
+   "wordNumber": "20.296",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "使待移植器官在离体无血状态下保持活力的措施。"
+  },
+  {
+   "cn": "档案保管",
+   "en": "archival preservation",
+   "source": "档案学名词",
+   "wordNumber": "03.03.006",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "维护档案完整、系统与安全的活动。"
+  },
+  {
+   "cn": "数字保存",
+   "en": "digital preservation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.045",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "在同一代或不同代技术环境中长期维护数字信息可访问性、可用性和可理解性的过程。"
+  },
+  {
+   "cn": "生育力保存",
+   "en": "fertility preservation",
+   "source": "男科及性医学名词",
+   "wordNumber": "16.001",
+   "subjectFullName": "男科及性医学_男性生育力保存",
+   "subjectName": "男性生育力保存",
+   "publishYear": "2023",
+   "definition": "利用手术、药物或者实验室措施，为处于不孕或不育风险的成人或者儿童提供帮助，保护和保存其产生遗传学后代的技术和方法。这些不孕或不育风险主要包括医疗过程中或环境中的性腺毒性药物或物质，以及累及生殖器官的疾"
+  },
+  {
+   "cn": "生育力保存",
+   "en": "fertility preservation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.092",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "为了保存生育力，推迟或延长生育期，将配子（精子和卵母细胞）、体外受精后的早期胚胎、卵巢或睾丸组织进行体外冷冻保存的技术。"
+  },
+  {
+   "cn": "保存方式",
+   "en": "preservation method ",
+   "source": "草学名词",
+   "wordNumber": "4.0661",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "种子保存",
+   "en": "seed preservation ",
+   "source": "草学名词",
+   "wordNumber": "4.0664",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "封存期",
+   "en": "preservation life",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.254",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_防锈",
+   "subjectName": "防锈",
+   "publishYear": "2021",
+   "definition": "在一定储运条件下，防锈包装件有效防锈的保证期。"
+  },
+  {
+   "cn": "菌种保藏",
+   "en": "strain preservation",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.128",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "微生物纯培养的收集、分类和管理。"
+  },
+  {
+   "cn": "精液保存",
+   "en": "semen preservation",
+   "source": "畜牧学名词",
+   "wordNumber": "05.345",
+   "subjectFullName": "畜牧学_繁殖_人工授精",
+   "subjectName": "人工授精",
+   "publishYear": "2020",
+   "definition": "为延长精子的存活时间，提高精液利用率所采用的保存方法。"
+  },
+  {
+   "cn": "饲料保藏",
+   "en": "feed preservation",
+   "source": "畜牧学名词",
+   "wordNumber": "07.518",
+   "subjectFullName": "畜牧学_饲料与营养_饲料卫生与安全",
+   "subjectName": "饲料卫生与安全",
+   "publishYear": "2020",
+   "definition": "通过向饲料中添加饲料保藏剂或将饲料置于保藏设备中，使饲料品质及营养成分含量在一定时期内基本不发生变化的措施。"
+  },
+  {
+   "cn": "器官保存",
+   "en": "organ preservation",
+   "source": "器官移植学名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "使离体器官损伤降到最小程度，为临床提供充分时间完成器官运送及手术，并在循环建立后立刻恢复功能。主要有冷保存和机械灌注两种方法。"
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐",
+   "en": "wood preservation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射保藏",
+   "en": "radiation preservation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冷冻保存",
+   "en": "freeze preservation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自然保持",
+   "en": "natural preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "依赖保持",
+   "en": "dependence preservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐剂",
+   "en": "wood preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维持关税",
+   "en": "preserving duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "培养",
+   "en": "culture",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "culture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化主义",
+   "en": "Culturalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "防腐木",
+   "en": "preservative-treated timber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "食品防腐剂分析",
+   "en": "food preservative analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保F映射",
+   "en": "F-preserve mapping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保P映射",
+   "en": "P-preserve mapping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贴壁培养",
+   "en": "attachment culture\",\"adherent culture",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大量培养",
+   "en": "mass culture\",\"large-scale culture\",\"bulk culture",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保护、传承、弘扬黄河文化",
+   "en": "to preserve, inherit and promote the Yellow River culture",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据文化",
+   "en": "Data Culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算文化",
+   "en": "computational culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利他文化",
+   "en": "altruistic culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集约文化",
+   "en": "intensive culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和合文化",
+   "en": "harmony culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文化",
+   "en": "Internet Culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "草根文化",
+   "en": "grassroots culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或减缓由微生物引起的食品腐败变质、延长食品储存期的物质。"
+  },
+  {
+   "cn": "辐照保鲜",
+   "en": "irradiation preservation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.4",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "利用γ射线、X射线、电子射线的辐射对食品进行辐照处理，经辐照可达到杀菌、杀虫、抑制蔬菜发芽、延迟果实后熟等目的，从而达到延长果蔬保鲜期的一种方法。"
+  },
+  {
+   "cn": "保温",
+   "en": "heat preservation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿生后即用预热的毛巾擦干，并采取各种保暖措施，使婴儿处于中性温度中。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "天然防腐剂",
+   "en": "natural preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由生物体分泌或体内存在的具有抑菌作用的物质，其经人工提取或加工而成的食品防腐剂。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "文化",
+   "en": "culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "描述社会整体生活方式的一般概念，主要包括人所创造的科学技术、艺术、哲学、宗教、法律等精神财富与制度资源。一般分为物质文化和非物质文化两个方面。"
+  },
+  {
+   "cn": "文化",
+   "en": "culture",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "描述社会整体生活方式的一般概念，主要包括人所创造的科学技术、艺术、哲学、宗教、法律等精神财富与制度资源。"
+  },
+  {
+   "cn": "文化",
+   "en": "culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的研究对象和永恒主题，指人类社会的全部活动方式，包括一个特定的社会或民族所持有的一切内隐和外显的行为、行为方式、行为的产物及观念和态度。"
+  },
+  {
+   "cn": "文化化",
+   "en": "culturalization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0137",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个人习得自己所属社会的文化的过程。"
+  },
+  {
+   "cn": "文化共生",
+   "en": "cultural symbiosis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0044",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定的共享环境内，不同的文化实体按照某种特定模式有限度地相互依赖、共同生存。"
+  },
+  {
+   "cn": "文化冲突",
+   "en": "cultural conflict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0048",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "两种或者两种以上的文化相互接触所产生的竞争和对抗状态。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "文化异质性",
+   "en": "cultural heterogeneity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "两种或两种以上文化之间不可沟通、不可通约的特征。强调的是各种文化之间的差异与相互独立。"
+  },
+  {
+   "cn": "文化连续性",
+   "en": "cultural continuity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "文化在长时段历史中所呈现的“层叠性”特征，即文化的发展依靠积累、凝结与积淀，必然呈现为连续渐进的形态。即使是文化衰退，也具有递减的连续性。与文化断层、文化突变相对。"
+  },
+  {
+   "cn": "文化多样性",
+   "en": "cultural diversity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "不同文化呈现的不同形式和形态，反映了人类群体生活方式的多元性和丰富性。由“生态多样性”演变而来。与“文化单一性”相对。"
+  },
+  {
+   "cn": "文化相对性",
+   "en": "cultural relativity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个判断文化差异之价值的概念和观念。强调特定的社会、自然环境产生特定的文化。在不同文化中，其行为准则、行为模式之价值必须以该文化系统自身之标准来衡量。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "cultural determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "社会研究的一种理论取向，强调社会母系统中的文化子系统对其他子系统（经济、政治等）的决定作用。该取向一方面发掘了文化对社会母系统及其他子系统的推动、引导、决定作用，另一方面却容易导致简单化、以偏概全和脱"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "intelligence",
+ "term": "intelligence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:56:17+00:00",
+ "status": "ok",
+ "note": "variant=intelligence; 审定公布名词库=385; 海峡两岸名词对照库=99; 其他来源数据库=149; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类对客观事物进行合理分析、判断、推理及有目的的行动、有效地处理周围环境事宜的综合能力。在高技术领域，它特指机器所具有的逻辑判断、自动控制功能和根据环境信息调节运动动作的性能。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "精神医学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "精神医学_症状与体征_智力障碍症状",
+   "subjectName": "智力障碍症状",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。是一种个性心理特征，反映个体在认识活动方面的差异。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "计划生育名词",
+   "wordNumber": "04.023",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "包括对环境的适应力、学习能力及对经验教训的吸取能力、对抽象事物的思考能力。"
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "核医学名词",
+   "wordNumber": "04.0775",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "一种复杂的精神活动的综合表现。是运用以往积累的知识和经验以获得新知识、形成新概念及解决新问题的能力，是感觉、记忆、理解、思维、判断、行为创造等方面能力的综合反映。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "地方病学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "地方病学_碘缺乏病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "人们在获得知识以及运用知识解决问题时所必须具备的心理条件或特征。其核心是理解、判断或抽象思维能力。碘缺乏所致脑发育损伤的主要表现就是程度不同的智力低下。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0128",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个体适应、改造和选择环境的心理能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "心理学名词",
+   "wordNumber": "02.749",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "intelligibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0576",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "机器译文的评价准则之一。从目标语的角度衡量机器译文是否流畅规范。"
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "语言学名词",
+   "wordNumber": "11.268",
+   "subjectFullName": "语言学_计算语言学_机器翻译",
+   "subjectName": "机器翻译",
+   "publishYear": "2011",
+   "definition": "评价机器翻译译文的一个标准。表示译文在多大程度上能够让不懂原文的人理解。"
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0148",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "电子学名词",
+   "wordNumber": "21.187",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精情报",
+   "en": "refined intelligence,deepprocessed intelligence,finished intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_情报研究",
+   "subjectName": "情报研究",
+   "publishYear": "2019",
+   "definition": "与“粗情报”相对。经过分析的、可信赖且能为高层决策者所用的情报。"
+  },
+  {
+   "cn": "情报人员",
+   "en": "intelligence expert,intelligence agent",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.215",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "通过对情报源的搜集、加工、整理、分析研究、编译报道，专门从事情报业务的专业人员。"
+  },
+  {
+   "cn": "客户情报",
+   "en": "customer intelligence,prospect intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "竞争情报的一种类型。通过搜集和分析客户（包括潜在客户）的概况和行为等相关信息而形成的情报。目的是建立更深入和更高效的客户关系，提高组织的市场战略决策水平。"
+  },
+  {
+   "cn": "智力节律",
+   "en": "intelligence rhythm",
+   "source": "行为医学名词",
+   "wordNumber": "3.22",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_睡眠遗传学",
+   "subjectName": "睡眠遗传学",
+   "publishYear": "2022",
+   "definition": "个体智力周期性波动规律。循环周期一般为33天。"
+  },
+  {
+   "cn": "智能化栽培",
+   "en": "intelligence cultivation ",
+   "source": "草学名词",
+   "wordNumber": "6.0151",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "智力测验",
+   "en": "intelligence test",
+   "source": "行为医学名词",
+   "wordNumber": "19.035",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "对感觉与思维等各种认知能力的测验。是有关普通心智功能测验的总称。"
+  },
+  {
+   "cn": "智力分数",
+   "en": "intelligence score",
+   "source": "行为医学名词",
+   "wordNumber": "19.036",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "智力测验中，受测者对智力测验项目做出反应，得出受测者正确回答项目的原始分数，再将原始分转换成可评定的分数。反映受测者智力水平的高低。"
+  },
+  {
+   "cn": "智力测验",
+   "en": "intelligence test",
+   "source": "精神医学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "用来测定个体知觉、注意、记忆、学习、计算、知识、动手操作等方面能力的标准化工具。可以是单个测验，也可以是成套测验，通常用智商来表示智力水平。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智力测验",
+   "en": "intelligence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能仿真",
+   "en": "intelligence simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能放大器",
+   "en": "intelligence amplifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特殊智力",
+   "en": "specific intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实践智力",
+   "en": "practical intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "晶体智力,晶态智力",
+   "en": "crystallized intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般智力",
+   "en": "general intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验智力",
+   "en": "experiential intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流体智力,液态智力",
+   "en": "fluid intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会智力",
+   "en": "social intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成分智力",
+   "en": "componential intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物智力",
+   "en": "animal intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语智力",
+   "en": "verbal intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境智力",
+   "en": "contextual intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间智力",
+   "en": "spatial intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智",
+   "en": "Intelligence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "Business Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算智能",
+   "en": "Computational Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合智能",
+   "en": "hybrid intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "business intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群体智能",
+   "en": "swarm intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智开放",
+   "en": "Crowd Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式智能",
+   "en": "distributed intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能计算",
+   "en": "intelligent computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "Intelligent Robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能终端",
+   "en": "intelligent terminal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能制造",
+   "en": "intelligent manufacturing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能控制器",
+   "en": "intelligent controller",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能穿戴",
+   "en": "intelligent wearables",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能工厂",
+   "en": "intelligent factory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能平台",
+   "en": "intelligent platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "认识客观事物和现象并解决实际问题的能力。包括观察力、记忆力、注意力、想象力、分析判定能力、应变能力等。"
+  },
+  {
+   "cn": "智力测试",
+   "en": "intelligence test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价智力水平高低的一种心理测验。"
+  },
+  {
+   "cn": "智力筛查",
+   "en": "intelligence screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "将智力落后个体从群体中区别出来的活动。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "通过一系列标准测试所获得个人认知能力与同年龄段常模的比值。是智力测验中表示一个人智力水平的指数。"
+  },
+  {
+   "cn": "智能武器",
+   "en": "intelligent weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用人工智能技术，通过计算机、网络和自动化系统实现自主侦察、锁定目标、实施攻击的一种武器系统。能够自我识别、自我规划、自我决策和自我执行军事任务，具有高度的自主性和智能化能力。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient, IQ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "表示个体智力发展水平的指标。现多采用离差智商表示智力的高低，即以100为均数、15为标准差，个体智商数值在70以下为智力低下；在130以上为智力超常。"
+  },
+  {
+   "cn": "智能消毒机器人",
+   "en": "intelligence disinfection robot",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在特定的程序操控下，可代替人力实现消毒操作并达到消毒效果的设备。"
+  },
+  {
+   "cn": "多元智力理论",
+   "en": "multiple intelligences theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "加德纳（Gardner）提出的智力包括一组相对独立的能力，而并非一种一般能力的理论。"
+  },
+  {
+   "cn": "智力残疾分类",
+   "en": "intelligent disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按智力残疾形成的原因、教育上的表现、适应性障碍、支持辅助等对智力残疾类型的划分。"
+  },
+  {
+   "cn": "智力残疾分级",
+   "en": "intelligent disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据智力测验和适应行为测验等结果，对智力和适应行为障碍程度的划分。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  },
+  {
+   "cn": "韦氏儿童智力量表",
+   "en": "Wechsler Intelligence Scale for Children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.30.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的诊断性工具之一。由韦克斯勒(D. Wechsler，美国)编制的儿童智力测验工具。适用于6～16岁的儿童。测验包括12个分测验，由言语和操作两部分组成。"
+  },
+  {
+   "cn": "筛查性发育和智能测评",
+   "en": "screening test of development and intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "一系列对儿童发育和智能进行筛查的测试及相关工具的总称。"
+  },
+  {
+   "cn": "诊断性发育和智能测评",
+   "en": "diagnostic test of development and intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.30",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "一系列对儿童发育和智能进行诊断的测试及相关工具的总称。"
+  },
+  {
+   "cn": "韦氏学龄前期儿童智力量表",
+   "en": "Wechsler Preschool and Primary Scale of Intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.30.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的诊断性工具之一。是韦氏(D. Wechsler，美国)学龄儿童智力量表的扩延。用于4～6.5岁儿童。测试时间40～50 min。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

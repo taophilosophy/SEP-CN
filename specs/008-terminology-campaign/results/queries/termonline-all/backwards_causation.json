@@ -1,0 +1,642 @@
+{
+ "key": "backwards causation",
+ "term": "backwards causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:46:43+00:00",
+ "status": "ok",
+ "note": "variant=backwards causation; 审定公布名词库=85; 海峡两岸名词对照库=76; 其他来源数据库=29; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "逆向市场",
+   "en": "backwardation",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0528",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "当现货价格高于期货价格，基差为正值的市场状态。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "事件A发生会导致事件B的发生，二者之间有律则必然性。因果关系具有相关性，但反之不然。"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "物理学名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "心理学名词",
+   "wordNumber": "02.581",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "联想律之一。事物的原因与结果之间的观念可相互引起联想。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "心理学名词",
+   "wordNumber": "02.589",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在有因果关系的事物之间形成的联想。"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/ (ERR+1)。"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "反传工况",
+   "en": "backward condition",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1364",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "在超越工况中，涡轮在外载荷带动下，泵轮从动力机吸收功率的工况。"
+  },
+  {
+   "cn": "逆向归纳",
+   "en": "backward induction",
+   "source": "经济学名词",
+   "wordNumber": "03.169",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "一种求解动态博弈均衡的方法。指的是从动态博弈的最后一个阶段开始分析，逐步向前归纳出各阶段参与人的选择策略。在完全且完美的动态博弈中，先行行动的理性参与人，在前面阶段选择策略时，必然会考虑随后行动的参与"
+  },
+  {
+   "cn": "后向关联",
+   "en": "backward linkage",
+   "source": "经济学名词",
+   "wordNumber": "08.130",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "通过需求联系与其他部门发生的关联。当甲产业在经济活动过程中向乙产业提供了产出，则对乙产业来说，它与甲产业的关系就是后向关联的关系。"
+  },
+  {
+   "cn": "后滑",
+   "en": "backward slip",
+   "source": "冶金学名词",
+   "wordNumber": "09.0328",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "轧制时，轧件的水平速度小于轧辊线速度水平分量的现象。"
+  },
+  {
+   "cn": "后向掩蔽",
+   "en": "backward masking",
+   "source": "生物物理学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "一个声刺激后，即刻给予第二个短暂声刺激，导致受试者未能感知第一个声刺激的现象。"
+  },
+  {
+   "cn": "后向串扰",
+   "en": "backward crosstalk",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0880",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "在被动线上产生的与主动线原始信号反方向的串扰信号。是电容性耦合与电感性耦合之和。"
+  },
+  {
+   "cn": "后向恢复",
+   "en": "backward recovery",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0280",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "事务异常终止时，对该事务已完成的操作回退，用前像替换后像让数据库返回到以前的状态。"
+  },
+  {
+   "cn": "向后可达性",
+   "en": "backward reachability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0684",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在C/E系统中，假定一个事件既可以向前发生（与佩特里网原义相同），也可向后（向反方向）发生。向后可达性就是以向后发生为假定的可达性。"
+  },
+  {
+   "cn": "逆向排程",
+   "en": "backward scheduling",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0412",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由完工期限开始逆向计算各项作业的最迟必须开、完工时间的排程方法。"
+  },
+  {
+   "cn": "后向散射",
+   "en": "backward scattering",
+   "source": "化学名词",
+   "wordNumber": "04.0379",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "在交叉分子束实验中观察到的质心坐标中的产物角度分布相对于反应物入射方向是向后的散射现象。"
+  },
+  {
+   "cn": "逆[向]反应",
+   "en": "backward reaction",
+   "source": "化学名词",
+   "wordNumber": "01.0361",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "通常指可逆反应的化学方程式中，从生成物到反应物方向的反应。"
+  },
+  {
+   "cn": "交割延期费",
+   "en": "backwardation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反向链接",
+   "en": "backward chaining\",\"backward link",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "向后差分",
+   "en": "backward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆向反应",
+   "en": "backward reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逆向进料",
+   "en": "backward feed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "后向掩蔽",
+   "en": "backward masking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逆向条件反射",
+   "en": "backward conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后向散射",
+   "en": "backward scattering",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逆[向]反应",
+   "en": "backward reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "后向散射率",
+   "en": "backward scatterance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "后向联系",
+   "en": "backward linkage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "反向串扰",
+   "en": "backward crosstalk",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向电流",
+   "en": "backward current",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向电压",
+   "en": "backward voltage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向二极管",
+   "en": "backward diode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向分支",
+   "en": "backward branch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向规则",
+   "en": "backward rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向恢复",
+   "en": "backward recovery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体后倾",
+   "en": "backward lean",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后平衡",
+   "en": "backward scale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施托克里向后",
+   "en": "Stockli backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻",
+   "en": "backward salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后滚翻",
+   "en": "backward roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后转体",
+   "en": "backward twisting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后跳",
+   "en": "backward jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背传",
+   "en": "backward pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移至后排",
+   "en": "moving backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后起跳",
+   "en": "backward take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后受身",
+   "en": "ushiro-ukemi\",\"falling backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后仰摔",
+   "en": "backward bending throw\",\"souplesse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反交叉",
+   "en": "backward scissors\",\"reverse scissors",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后跳水",
+   "en": "back dive\",\"backward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回传",
+   "en": "back pass\",\"backward pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退",
+   "en": "rein-back\",\"backward movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "逆推顺述",
+   "en": "backward observation from now",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0213",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "将在自己的田野点观察到的、依然活着的结构要素，推到它们有材料可证的历史起点，然后再从这个起点，将这些结构要素一一向晚近叙述，最后概括出该区域历史的结构过程。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

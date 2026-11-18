@@ -1,0 +1,772 @@
+{
+ "key": "organism",
+ "term": "organism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:00:31+00:00",
+ "status": "ok",
+ "note": "variant=organism; 审定公布名词库=1279; 海峡两岸名词对照库=513; 其他来源数据库=76; 预公布名词数据库=159; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "兽医学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "由两种或两种以上组织按一定方式结合而成的具有一定结构的功能单位。如心脏、肺、肝、肾、脾和淋巴结等。"
+  },
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "兽医学名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "病理性产物或坏死组织被新生的肉芽组织取代的过程。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.001",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "集合与协调两个以上人行动的一种社会交互体系。组织成立的基本条件是：(1)这些人之间有密切的信息沟通；(2)愿意相互协调，共同参与行动；(3)实现特定的目标。"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "动物学名词",
+   "wordNumber": "1.0164",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由几种不同类型的组织按照一定的方式有机地组合在一起、具有一定的形态特征、行使特定生理功能的结构。"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "动物学名词",
+   "wordNumber": "4.0568",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "在胚胎发育过程中，能调控其他组织和细胞形成高度有序和相对完整的胚胎结构的特殊组织。"
+  },
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "病理学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "坏死组织不能完全溶解或分离排出，则由肉芽组织长入坏死区、代替坏死组织的过程。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "经济学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "可以从静态与动态两个方面来理解。从静态方面看，指组织结构。即反映人、职位、任务以及它们之间的特定关系的网络。从动态方面看，指维持与变革组织结构，以完成组织目标的过程。通过组织机构的建立与变革，将生产经"
+  },
+  {
+   "cn": "组构",
+   "en": "organization",
+   "source": "生理学名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "植物学名词",
+   "wordNumber": "08.0375",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "由各种细胞或组织构成，能执行一定功能的特定的形态结构。"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "核医学名词",
+   "wordNumber": "06.0220",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "发起临床研究，负责研究具体组织的机构或组织。通常由申办者担任。"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "核医学名词",
+   "wordNumber": "01.0026",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "由不同细胞和组织构成，有一定空间连续性、能够完成某些特定功能的系统或机体的组成单位。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0073",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人们为实现一定的目标，互相协作结合而成的集体或团体。"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.083",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "在胚胎发育过程中，能调控其他组织形成高度有序和相对完整的胚胎结构的特殊组织。"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "由基本组织按照一定的方式有机地组合在一起，行使特定功能的结构。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "教育学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "（1）从广义上说，组织是指由诸多要素按照一定方式相互联系起来的系统。（2）从狭义上说，组织就是指人们为实现一定的目标，互相协作结合而成的集体或团体。如党团组织、工会组织、企业、军事组织等。"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "遗传学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "在胚胎发育过程中，能诱导相邻组织形成高度有序和相对完整胚胎结构的一些特殊组织。"
+  },
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.107",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "有机物",
+   "en": "organic matter,organic compound",
+   "source": "电力名词",
+   "wordNumber": "12.228",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "通常指碳氢化合物。"
+  },
+  {
+   "cn": "有机农业",
+   "en": "organic agriculture,organic farming",
+   "source": "生态学名词",
+   "wordNumber": "15.012",
+   "subjectFullName": "生态学_农业生态学",
+   "subjectName": "农业生态学",
+   "publishYear": "2006",
+   "definition": "在生产中完全或基本不用人工合成的肥料、农药、生长调节剂和畜禽饲料添加剂，而采用有机肥满足作物营养需求的种植业，或采用有机饲料满足畜禽营养需求的养殖业。"
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管风琴",
+   "en": "organ",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发光生物",
+   "en": "luminous organism\",\"bioluminescent organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有机农业",
+   "en": "organic agriculture\",\"organic farming",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "感觉器",
+   "en": "sensory organ\",\"sense organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "核仁组织者",
+   "en": "nucleolus organizer\",\"nucleolar organizer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "痕迹器官（=退化器官）",
+   "en": "rudimentary organ\",\"vestigial organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "淋巴器官",
+   "en": "lymphatic organ\",\"lymphoid organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "泌尿器[官]",
+   "en": "urinary organ\",\"uropoietic organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖器",
+   "en": "genital organ\",\"reproductive organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "退化器官，痕迹器官",
+   "en": "rudimentary organ\",\"vestigial organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组织[者]中心",
+   "en": "organization center\",\"organizer center",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖器官",
+   "en": "genital organ\",\"reproductive organ",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "听器，鼓膜器",
+   "en": "tympanic organ\",\"tympanal organ",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组委会",
+   "en": "organizing committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组委会",
+   "en": "organizing committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞赛组织者",
+   "en": "competition organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大体/小体",
+   "en": "The Major Organ and the Minor Organs",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "有机的知识分子",
+   "en": "organic intellectual",
+   "source": "马克思主义",
+   "wordNumber": "05.0007",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西在《狱中札记》中提出的概念。葛兰西基于社会生产方式的历史性特点，将知识分子划分为“传统的”知识分子和“有机的”知识分子两种类型。前者是指在社会变动过程中，凭借文化的持续传承而保持相对稳定地位的知"
+  },
+  {
+   "cn": "有机溶剂",
+   "en": "organic solvent",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.7.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "由碳氢化合物组成的一类有机化合物，能溶解一些非水溶性物质如油脂、蜡、树脂、橡胶、染料等。其特点是在常温常压下呈液态，具有较大的挥发性，在溶解过程中，溶质与溶剂的性质均无改变。"
+  },
+  {
+   "cn": "有机团结",
+   "en": "organic solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0521",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与机械团结相对，指建立在社会分工、社会成员异质性基础上的社会结合方式，突出体现在现代工业社会中。有机团结社会的特点是：①分工发达，人们"
+  },
+  {
+   "cn": "有机食品",
+   "en": "organic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.12",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "在农业种养殖中遵循自然规律和生态学原理，不使用化学合成的农药、化肥、生长调节剂、饲料添加剂等物质，亦不使用基因工程生物及其产物，在加工、贮藏、运输、包装、标识、销售等符合标准要求，获得第三方机构认证的"
+  },
+  {
+   "cn": "有机锡",
+   "en": "organic tin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.20",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "四烃基锡化合物（R₄Sn）、三烃基锡化合物（R₃SnX）、二烃基锡化合物（R₂SnX₂）和一烃基锡化合物（RSnX₃）的统称，其中R 为烃基，可为烷基或芳香基等，X 为无机或有机酸根、氧卤族元素等。可"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T的平均吸收剂量，符号为DT。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

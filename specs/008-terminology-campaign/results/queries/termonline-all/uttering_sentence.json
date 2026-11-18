@@ -1,0 +1,642 @@
+{
+ "key": "uttering sentence",
+ "term": "uttering sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:41:20+00:00",
+ "status": "ok",
+ "note": "variant=uttering sentence; 审定公布名词库=1291; 海峡两岸名词对照库=482; 其他来源数据库=23; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "教师语言",
+   "en": "teacher utterance",
+   "source": "教育学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在进行教育教学活动时所运用的语言。"
+  },
+  {
+   "cn": "韵律语句",
+   "en": "prosodic utterance",
+   "source": "语言学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "在韵律层级的某些分析中，指任何具有音系学意义的最大辖域。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern",
+   "source": "语言学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句子的结构类型。句子从结构上可以分为单句和复句两大类型。其中单句又可分为主谓句和非主谓句，复句又可分为联合复句和偏正复句。"
+  },
+  {
+   "cn": "倒装句",
+   "en": "inversional sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "为了突出重要部分或者先说重要部分再追加其他部分的句子。是口语句法中的一种特有现象。句子语音上前半部分重读，补充部分轻读；语义重点在前半部分；句末语气词出现在前半部分；整个结构不能按照正常的短语结构来分"
+  },
+  {
+   "cn": "祈使句",
+   "en": "imperative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。要求、命令、禁止或建议、请求对方做某事或不做某事的句子。全句用降调，句末标点用句号或感叹号。祈使句的主语一般是第二人称，不过常常省略。表示命令、禁止的祈使句语气较为急促简短，句末标点常用感"
+  },
+  {
+   "cn": "判断句",
+   "en": "equational sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式的谓语动词为表示断定的“是”等动词。例如，“他是学生。”"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "省略句",
+   "en": "ellipsis sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "在一定语境中某个句法成分没有出现的句子。例如，甲：“你喝什么？”乙：“啤酒。”其中答话“啤酒”就是省略句，省略了“我喝”两个词。句中被省略的成分可以添补出来，而且只有一种添补的可能。"
+  },
+  {
+   "cn": "疑问句",
+   "en": "interrogative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示疑问、带有疑问语调的句子。句中可以用表示疑问的语气词、副词，句末标点符号一般用问号。根据结构形式特点和语义重点，可分为是非问句、反复问句、特指问句和选择问句。例如，“你去吗？”“你"
+  },
+  {
+   "cn": "话语分析",
+   "en": "utterance analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "托收票据",
+   "en": "bill sent for collection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "子宫静脉",
+   "en": "uterine vein\",\"vena uterina",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "隔离堆焊层",
+   "en": "buttering",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计量",
+   "en": "metering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溅射",
+   "en": "sputtering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "口吃",
+   "en": "stuttering",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吸除",
+   "en": "gettering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "赤子之心",
+   "en": "Utter Innocence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转向装置",
+   "en": "steering",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向标",
+   "en": "steering marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "美国大数据研发高级指导小组",
+   "en": "Big Data Senior Steering Group (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“直过民族”",
+   "en": "the directly-entering-socialism ethnic groups",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推进“一带一路”建设工作领导小组",
+   "en": "Steering Group for the Belt and Road Initiative",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "餐饮服务",
+   "en": "catering service",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.31",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过即时加工制作、商业销售和服务性劳动等，向消费者提供食品或食品和消费设施的服务活动。"
+  },
+  {
+   "cn": "子宫收缩乏力",
+   "en": "uterine atony",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.18",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩过程中子宫收缩异常的一种现象，包括协调性和不协调性两种。前者宫缩节律性、对称性和极性均正常，仅收缩力弱，宫缩<2次/10分钟，持续时间短，间歇时间长；后者失去正常节律性、对称性和极性，不能产生向下"
+  },
+  {
+   "cn": "子宫移植",
+   "en": "uterine transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.02",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，摘取器官供体具有生理功能的子宫，将其植入器官受体以代替其病损子宫的技术。"
+  },
+  {
+   "cn": "离子溅射机",
+   "en": "ion sputtering device",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.28",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用物理气相沉积的方法在真空室内通入惰性气体（如氩），使之在高压下辉光放电，气体离子在强电场作用下轰击膜料制成的阴极靶，使表面的原子被溅射出来，沉积在基体上成膜的设备。"
+  },
+  {
+   "cn": "子宫性不孕",
+   "en": "uterine factor infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "由先天性子宫畸形、子宫内膜良性病变或损伤和宫腔内异物等子宫性因素导致的生育障碍，这些疾病主要改变宫腔正常解剖结构或影响内膜功能，从而影响胚胎着床或导致着床后妊娠丢失。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "军队餐饮卫生管理",
+   "en": "sanitary management of military catering",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.10",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队餐饮卫生管理",
+   "subjectName": "军队餐饮卫生管理",
+   "publishYear": "2025",
+   "definition": "对包括军队编制内的各类食堂、生活服务中心、实行社会化保障的餐饮单位和军队招待所餐厅等军队餐饮单位，进行食品卫生的监督管理，以保障食品安全，保护官兵的健康与安全，为部队战斗力提供基础与保证。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "女童子宫发育异常",
+   "en": "uterine dysplasia of female child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "女童因子宫段副中肾管的发育及融合异常所致子宫大小、形状和结构异常的一种先天畸形。"
+  },
+  {
+   "cn": "围绝经期异常子宫出血",
+   "en": "abnormal uterine bleeding in perimenopause",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "发生于围绝经期，月经的周期频率、周期规律性、经期长度和经期出血量中任何一项发生变化的现象。多为无排卵性子宫出血，但应首先排查生殖系统恶性肿瘤。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

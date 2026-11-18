@@ -1,0 +1,372 @@
+{
+ "key": "literalism",
+ "term": "literalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:36:13+00:00",
+ "status": "ok",
+ "note": "variant=literalism; 审定公布名词库=22; 海峡两岸名词对照库=13; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "文字",
+   "en": "literal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0140",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔变量或一个布尔变量的否定。"
+  },
+  {
+   "cn": "文字",
+   "en": "literal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0073",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "在数理逻辑中指不含连接词的原子公式或原子公式的否定,常用于归结法证明定理。"
+  },
+  {
+   "cn": "字面组配",
+   "en": "literal coordination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.076",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "根据构词法原理，将一个具有专指性的复杂概念按其字面构成分拆为两个或两个以上的单词，标引时再将两个词拼接起来，表示一个专指、复杂概念的方法，如“图书馆自动化”可以分解为“图书馆”和“自动化”两个单元词。"
+  },
+  {
+   "cn": "字面常量",
+   "en": "literal constant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0227",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种常量。由其表示就可以得知它的值和类型。"
+  },
+  {
+   "cn": "望文生训",
+   "en": "literal interpretation",
+   "source": "语言学名词",
+   "wordNumber": "10.074",
+   "subjectFullName": "语言学_训诂学_训诂方法与禁忌",
+   "subjectName": "训诂方法与禁忌",
+   "publishYear": "2011",
+   "definition": "根据已经脱离原始造意的后代演变的字形或以假借字的字形来解释意义的错误做法。"
+  },
+  {
+   "cn": "升功率",
+   "en": "power per liter",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.078",
+   "subjectFullName": "机械工程_汽车_发动机_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "标定功率除以发动机排量所得的值。"
+  },
+  {
+   "cn": "每升肺泡容积的一氧化碳弥散量",
+   "en": "diffusion capacity for carbon monoxide per liter of alveolar volume",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.208",
+   "subjectFullName": "呼吸病学_肺功能_换气功能",
+   "subjectName": "换气功能",
+   "publishYear": "2018",
+   "definition": "肺一氧化碳弥散量(<img src='/root/syzx/static/spz/huxibing1.09.207.01.png'/>)与弥散量测定时的肺泡气容积(<img src='/root/sy"
+  },
+  {
+   "cn": "每升肺泡容积的一氧化碳弥散量",
+   "en": "diffusion capacity for carbon monoxide per liter of alveolar volume",
+   "source": "医学名词 第一分册",
+   "wordNumber": "05.207",
+   "subjectFullName": "医学_呼吸病学",
+   "subjectName": "呼吸病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "古典自由主义",
+   "en": "classical liberalism",
+   "source": "经济学名词",
+   "wordNumber": "14.007",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "反对国家权力对个人自由干涉的一种政治思想。经济学意义上的古典自由主义思想首先由亚当·斯密在《国富论》中提出，功利学派边沁（Jeremy Bentham）、詹姆斯·穆勒(James Mill)和约翰·穆"
+  },
+  {
+   "cn": "新自由主义",
+   "en": "neo-liberalism",
+   "source": "经济学名词",
+   "wordNumber": "14.008",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "20世纪30年代后发展起来的一种经济自由主义理论。该理论主张自由放任和充分发挥市场的调节作用，反对凯恩斯主义的政府干预主张。广义的新自由主义思潮包括新奥地利学派、伦敦学派、芝加哥学派和弗莱堡学派，狭义"
+  },
+  {
+   "cn": "“新”自由主义",
+   "en": "Neo-Liberalism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0430",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "20世纪70年代，随着“福利国家”政策的破产而出现的主张以回复古典自由主义为主要内容的政治学派。"
+  },
+  {
+   "cn": "新自由主义",
+   "en": "New Liberalism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0391",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "19世纪70年代出现的英国现代资产阶级政治思想的重要派别。主张既维护个人自由，又实施国家干预。"
+  },
+  {
+   "cn": "哈耶克自由主义",
+   "en": "Hayek neo-liberalism",
+   "source": "经济学名词",
+   "wordNumber": "14.009",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "20世纪30年代形成的新自由主义分支，以奥地利学派经济学家哈耶克为主要代表。这一经济思潮主张给私人经济最充分的自由，反对政府对经济活动的任何干预。哈耶克自由主义是最彻底的自由主义，它不仅反对计划经济，"
+  },
+  {
+   "cn": "股外侧肌",
+   "en": "vastus lateralis",
+   "source": "运动医学名词",
+   "wordNumber": "01.367",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "起自股骨粗线外侧唇，与股内侧肌、股直肌和股中间肌向下形成一腱，包绕髌骨的前面和两侧，向下续为髌韧带，止于胫骨粗隆。是膝关节有力的伸肌。"
+  },
+  {
+   "cn": "股外侧肌",
+   "en": "vastus lateralis",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.1744",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨骼肌",
+   "subjectName": "附肢骨骼肌",
+   "publishYear": "2014",
+   "definition": "起自股骨粗线外侧唇，肌腱构成髌腱，止于胫骨粗隆的肌肉。"
+  },
+  {
+   "cn": "股外侧肌",
+   "en": "vastus lateralis muscle",
+   "source": "动物学名词",
+   "wordNumber": "6.0828",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_肌肉系统",
+   "subjectName": "肌肉系统",
+   "publishYear": "2021",
+   "definition": "起自股骨粗线外侧唇，肌腱构成髌腱，止于胫骨粗隆的肌肉。"
+  },
+  {
+   "cn": "肩胛骨外侧缘",
+   "en": "scapula margo lateralis",
+   "source": "手外科学名词",
+   "wordNumber": "03.0121",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "肩胛骨外侧邻近腋窝肥厚的纵行边缘。"
+  },
+  {
+   "cn": "头外侧直肌",
+   "en": "rectus capitis lateralis",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.1467",
+   "subjectFullName": "人体解剖学_运动系统_中轴骨骼肌",
+   "subjectName": "中轴骨骼肌",
+   "publishYear": "2014",
+   "definition": "位于寰椎与枕骨之间的小肌。居头前直肌外侧。作用为使头颈前屈。"
+  },
+  {
+   "cn": "侧脑室",
+   "en": "lateral ventricle，ventriculus lateralis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.418",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "大脑半球内的空腔。其顶壁为胼胝体；底壁前部为尾状核，后部为海马，内含脑脊液。"
+  },
+  {
+   "cn": "跗外侧动脉",
+   "en": "lateral tarsal artery，arteria tarsalis lateralis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.306",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "比跗内侧动脉粗大，于伸肌下支持带的下缘处，发自足背动脉穿经趾短伸肌深面向外下行，参与形成足背动脉网。"
+  },
+  {
+   "cn": "文化程序设计",
+   "en": "literate programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文字",
+   "en": "literal\",\"script",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字面常量",
+   "en": "literal constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直译",
+   "en": "transliterate\",\"literal translation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由主义",
+   "en": "liberalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "侧部",
+   "en": "pars lateralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧面观",
+   "en": "norma lateralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧索",
+   "en": "funiculus lateralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "股外侧肌",
+   "en": "vastus lateralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腰横突间外侧肌",
+   "en": "intertransversarius lateralis lumbi",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧肌",
+   "en": "lateral muscle\",\"musculus lateralis(拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "侧输卵管",
+   "en": "lateral oviduct\",\"oviductus lateralis(拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "头外[侧]直肌",
+   "en": "rectus capitis lateralis\",\"lateral straight muscle of head",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自由主义",
+   "en": "liberalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.16",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "以自由为主要价值的一种意识形态和哲学思想。其特点为追求个人发展，强调个人的自治权和意志自由，反对社会施加于个人的不当的政治、经济和宗教的束缚，具有个人主义的思想倾向。"
+  },
+  {
+   "cn": "新自由主义",
+   "en": "neo-liberalism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪70年代兴起的自由主义思潮。在社会福利领域强调对国家作用的限制，反对中央集权式的社会经济发展计划，推崇市场经济的主导作用，强调个人自由和个人责任，在福利领域主张市场化、私有化、商品化，推崇剩余"
+  },
+  {
+   "cn": "反对自由主义",
+   "en": "combat liberalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0481",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在中国共产党和革命团体内用马克思主义的积极精神克服消极的无组织、无原则的倾向。自由主义是个人主义的一种表现。毛泽东强调把反对自由主义作为思想战线的任务之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

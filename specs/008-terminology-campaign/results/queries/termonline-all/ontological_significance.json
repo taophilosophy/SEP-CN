@@ -1,0 +1,632 @@
+{
+ "key": "ontological significance",
+ "term": "ontological significance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:38:31+00:00",
+ "status": "ok",
+ "note": "variant=ontological significance; 审定公布名词库=135; 海峡两岸名词对照库=41; 其他来源数据库=4; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "本体论节俭",
+   "en": "ontological parsimony",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个评价与取舍候选理论的原则。如果T1在本体论上比T2更节俭，即做出更少的本体论承诺，则在其他情况一样的条件下，优先选择T1。是奥卡姆剃刀原则的强化版本。"
+  },
+  {
+   "cn": "本体论中性",
+   "en": "ontological neutrality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.590",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一个命题或判断不依赖于其本体论预设。"
+  },
+  {
+   "cn": "本体论自然主义",
+   "en": "ontological naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.591",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "认为自然的特性、自然事件和自然个体是唯一存在的特性、事件和个体，即那些可以被自然科学研究的对象才是唯一存在的。"
+  },
+  {
+   "cn": "工程本体论",
+   "en": "engineering ontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程本根或本体的认识和研究。强调工程相对于科学和技术的独立地位与基础地位，强调工程是直接生产力，是人类生存与发展的根本基础。"
+  },
+  {
+   "cn": "媒介本体论",
+   "en": "media ontology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "探讨媒介存在方式的学说。该学说反对形式-内容二元论，强调媒介物所扮演的基础性角色，认为媒介物以各种方式聚合起来，组织和安排了人与外部世界之间的关系，构成了人的生存境况。"
+  },
+  {
+   "cn": "地理本体",
+   "en": "geo-ontology",
+   "source": "测绘学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理信息科学领域共享概念的明确的形式化规范。"
+  },
+  {
+   "cn": "领域本体",
+   "en": "domain ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述特定领域知识的一种专门本体。是揭示领域实体概念及相互关系、领域活动以及该领域所具有的特性和规律的一种形式化描述。可以明确专业术语、关系及其领域公理，使其形式化，并可实现共享，达到一定程度的领域"
+  },
+  {
+   "cn": "应用本体",
+   "en": "application ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "特定领域和任务的概念以及概念之间的关系。"
+  },
+  {
+   "cn": "方法本体",
+   "en": "method ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用来描述问题求解方法的相关概念以及概念之间的关系。"
+  },
+  {
+   "cn": "本体映射",
+   "en": "ontology mapping",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "两个本体存在语义级的概念关联，通过关联，实现将源本体的实例映射到目标本体的过程。是两个异构本体实现互操作的基本方法。"
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际显著性",
+   "en": "practical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床显著性",
+   "en": "clinical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显着性检验",
+   "en": "significance test",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "显著性水准",
+   "en": "significance level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特性层",
+   "en": "significant level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效波",
+   "en": "significant wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要天气",
+   "en": "significant weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant other",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性差异",
+   "en": "significant difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性差异",
+   "en": "significant difference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效位",
+   "en": "significant bit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "千年大计、国家大事",
+   "en": "national project of millennial significance",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "自然本体论态度",
+   "en": "natural ontological attitude",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由A. 法因（A. Fine）提出。认为科学无须依赖实在论和非实在论所给出的形而上学和认识论基础，尽量追随科学家的立场，无须给出额外的哲学解释。"
+  },
+  {
+   "cn": "尚未存在本体论",
+   "en": "ontology of notyetbeing",
+   "source": "马克思主义",
+   "wordNumber": "05.0020",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）提出的本体论理论。布洛赫通过批判二元思维的机械性、静止性与“无人”的自然科学，指出给定存在论的危害在于抹杀了人作为精神性主体对自身、对世界的存在意义；"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从总体中得到的样本统计量的概率或似然估计客观地评判研究假设能否为数据所支持的统计方法。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从统计的意义上来说，在一定的显著性水平之下，样本统计量可以拒绝虚无假设的显著性。与“实质显著性”相对。"
+  },
+  {
+   "cn": "实质显著性",
+   "en": "substantive significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从现实的意义上来说，一个统计结论具有现实意义的显著性。与“统计显著性”相对。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "假设检验达到统计学显著性的标准，即P 值小于预先设定的检验水准α或者置信区间不包括零假设界值。"
+  },
+  {
+   "cn": "生物学意义",
+   "en": "biological significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物对生物体健康具有实质性或显著影响（正面或负面）的统计学显著性效应"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significant level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在统计假设检验中，用样本资料推断总体时，犯拒绝虚无假设错误的可能性大小。通常以表示，是一个临界概率值；越小，犯拒绝虚无假设的错误可能性越小。"
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant others",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "对一个人的生活和幸福有着特别重要影响的任何他人，影响个体的自我评价和对重要社会规范的接受与认可。"
+  },
+  {
+   "cn": "显著疲劳",
+   "en": "significant fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第二阶段。机理是大脑皮层的保护性抑制加深和扩散，表现兴奋泛化和内抑制障碍同时出现。主要表现有：上课时打呵欠和瞌睡；对条件刺激的错误反应增多，反应量减少，反应时延长。"
+  },
+  {
+   "cn": "显着危害",
+   "en": "significant hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，有极大可能发生的生物、化学或物理危害，且一旦发生将对消费者造成不可接受的健康危险，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "最小有意义活度",
+   "en": "minimum significant activity",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对特定的测量方法，测量值大于本底响应的最小的有意义的数值。"
+  },
+  {
+   "cn": "最小有效活度",
+   "en": "minimum significant activity，MSA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平下，与本底有显著性区别的放射性活度值。"
+  },
+  {
+   "cn": "意义未明的单克隆丙种球蛋白血症",
+   "en": "monoclonal gammopathy of undetermined significance，MGUS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.24",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一类血液中可以检测到异常升高的单克隆蛋白（M蛋白），骨髓浆细胞比例小于10%，但无全身症状和明确脏器损伤的良性疾病。部分患者可能会主诉感觉麻木、疲乏等非特异性症状。少数MGUS可能在相当长的时间后进展"
+  },
+  {
+   "cn": "子宫颈细胞学检查",
+   "en": "cervical cytological test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本、样本制片和阅片，并对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

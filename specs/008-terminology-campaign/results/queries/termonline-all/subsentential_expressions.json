@@ -1,0 +1,672 @@
+{
+ "key": "subsentential expressions",
+ "term": "subsentential expressions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:36:44+00:00",
+ "status": "ok",
+ "note": "variant=subsentential expressions; 审定公布名词库=240; 海峡两岸名词对照库=114; 其他来源数据库=33; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "运用语言符号或非语言符号进行的意义呈现。"
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪情感产生时身体各部分的动作量化形式。包括面部表情、姿态表情和语调表情等。"
+  },
+  {
+   "cn": "内容表达",
+   "en": "expression",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.362",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "通过数字、文字、音乐、声音、图像、动作等或这些形式的组合对智慧或艺术作品的展现。例如用文字方式体现一个作品时所用的那些词语、句子、段落等就是一种内容表达。"
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "化学工程名词",
+   "wordNumber": "03.758",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[表达]式",
+   "en": "expression",
+   "source": "数学名词",
+   "wordNumber": "01.0041",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.163",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "善于运用语言和非语言讯息，通过让他人容易理解与倾听的方式，展示出来的沟通表现力。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.35",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同基因型的不同个体间性状或遗传病表现的程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "遗传学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "具相同基因型的个体间基因表达的变化程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.053",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "稳定表达",
+   "en": "stable expression",
+   "source": "农学名词",
+   "wordNumber": "15.213",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源基因导入细胞并整合入基因组，随着生长和传代能稳定存在并表达的现象。"
+  },
+  {
+   "cn": "瞬时表达",
+   "en": "transient expression",
+   "source": "农学名词",
+   "wordNumber": "15.214",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源基因导入细胞后，未整合入基因组，而是在细胞中以附加体形式进行的基因表达。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "农学名词",
+   "wordNumber": "06.445",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因由DNA序列转录为mRNA序列，再翻译成氨基酸序列，并最终表现出性状的过程。"
+  },
+  {
+   "cn": "表达模式",
+   "en": "expression pattern",
+   "source": "农学名词",
+   "wordNumber": "06.446",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因表达时间（发育时期）、空间（组织）和强度（转录强度、翻译强度）的总称。"
+  },
+  {
+   "cn": "异位表达",
+   "en": "ectopic expression",
+   "source": "农学名词",
+   "wordNumber": "06.447",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因在通常不表达的组织或细胞中表达的现象。"
+  },
+  {
+   "cn": "建筑表达",
+   "en": "architectural expression",
+   "source": "风景园林名词",
+   "wordNumber": "07.0105",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "用技术图纸来表达建筑内涵的方式，一般来说技术图纸包括平、立、剖面图和轴测图，以及各种分析图。"
+  },
+  {
+   "cn": "表达克隆",
+   "en": "expression cloning",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0691",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "通过进行基因表达而克隆目的基因的方法。用表达载体构建互补DNA（cDNA）或基因组DNA表达文库，转入细菌或细胞内进行表达，再通过特定表型进行筛选，从而获得目的基因克隆。该方法可以对任何能表达可筛选表"
+  },
+  {
+   "cn": "表达载体",
+   "en": "expression vector",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0722",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "携带外源DNA并可使之在宿主细胞中表达的载体。包括原核表达载体和真核表达载体，可以是质粒、噬菌体或病毒等。典型的表达载体带有基因表达的调控序列，并在适当位置有可插入外源基因的限制性内切酶位点。"
+  },
+  {
+   "cn": "表达质粒",
+   "en": "expression plasmid",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0733",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "用做表达载体的质粒。"
+  },
+  {
+   "cn": "短暂表达",
+   "en": "transient expression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.08",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "外源基因导入真核细胞后，不待整合进受体细胞基因组，而立即转录出现基因产物的现象。重组基因的短暂表达水平一般比较高，但数天内消失。不能稳定遗传给下一代。当需要在短时间内分析目的基因表达的效应时可以采取短"
+  },
+  {
+   "cn": "稳定表达",
+   "en": "stable expression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0801",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）外源基因转染真核细胞并整合入其细胞基因组后的表达。表达量长时间处于稳定水平，可随细胞分裂稳定遗传给下一代。（2）基因工程表达系统中工程菌株或细胞虽经过多次传代或条件变化，但表达水平仍然保持稳定的"
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现度,表达度",
+   "en": "expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达度, 表现度",
+   "en": "expressivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表达盒（=表达组件）",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达载体",
+   "en": "expression vector",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达组件，表达盒",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达（=瞬时表达）",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时表达，短暂表达",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导型表达",
+   "en": "inducible expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整合表达",
+   "en": "integrant expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成型表达",
+   "en": "constitutive expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿伦尼乌斯表达式，阿氏表达式",
+   "en": "Arrhenius expression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力学式",
+   "en": "kinetic expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "emotional expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邮政特快专递",
+   "en": "express mail service",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中欧班列",
+   "en": "China Railway Express",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用保障极速贷",
+   "en": "credit-guaranteed express loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清词丽句",
+   "en": "Refreshing Words and Exquisite Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假象见意",
+   "en": "Use Imagery to Express Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情发于声",
+   "en": "Feelings Find Expression in Musical Poetry.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书者，舒也",
+   "en": "Writing Is a Way of Expression.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀景写乐",
+   "en": "Depict Sorrowful Scenery to Express Happiness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "党的信访工作",
+   "en": "Partys works of handling peoples complaints expressed in letters or visits",
+   "source": "马克思主义",
+   "wordNumber": "03.0732",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的信访工作是党的工作的重要组成部分，是指各级党组织及其部门依据党的路线、方针、政策和有关规定，受理和解决党员、干部、群众或者有关组织通过书信、走访、电话、电子邮件、传真等形式提出或反映的有关问题所进"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

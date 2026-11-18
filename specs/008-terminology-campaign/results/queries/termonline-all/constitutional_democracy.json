@@ -1,0 +1,752 @@
+{
+ "key": "constitutional democracy",
+ "term": "constitutional democracy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:47:27+00:00",
+ "status": "ok",
+ "note": "variant=constitutional democracy; 审定公布名词库=144; 海峡两岸名词对照库=46; 其他来源数据库=16; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy;discursive democracy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.19",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一种民主的形式，将慎议(deliberation)作为制定政治决策的核心。目的是纠正代议民主过度依赖投票表决而形成多数人的偏好、剥夺了少数人意见表达权利的缺陷。主张在公共议题形成决策的过程中，应尽可能"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子相互连接的方式和次序，可以说明分子中原子的连接次序和键性（单、双键等）。"
+  },
+  {
+   "cn": "体质",
+   "en": "constitution",
+   "source": "运动医学名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "在遗传性和获得性基础上表现出来的人体形态结构、生理机能和心理因素等综合的、相对稳定的特征。人的生命活动和工作能力的物质基础。主要包括身体形态发育水平、生理功能水平、身体素质和运动能力发展水平、心理发展"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化学名词",
+   "wordNumber": "02.0652",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "描述组成分子的原子种类、数量及相互间的连接方式(包括单键或重键)。不考虑其空间结构。"
+  },
+  {
+   "cn": "学术民主",
+   "en": "academic democracy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "将民主的投票表决和少数服从多数等原则引入学术组织活动中的民主形式。涉及学术课题的申报和评审、学术成果的鉴定和评奖、学术组织的建立和相应的学术领导机构的产生等。强调在真理面前人人平等，包括学术研究者话语"
+  },
+  {
+   "cn": "电子化民主",
+   "en": "E democracy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.128",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "电子时代新的民主实践形式。其往往以发达的信息技术、网络及其相关技术为运作平台，以直接民主为发展趋向，并以公民的全体、主动、切实参与民主决策、民主选举等民主运作程序为典型特征。这一概念伴随着互联网的兴起"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0138",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "19世纪社会主义运动中出现的一种主张放弃暴力方式，采用合法的议会民主的政治程序，实现从资本主义到社会主义的渐进式和平转变的政治思潮。"
+  },
+  {
+   "cn": "网络民主",
+   "en": "cyber democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0469",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "政府或其他主体搭建的，以计算机网络为媒介的，公民表达政治意愿、参与政治事务的一种新型民主方式。"
+  },
+  {
+   "cn": "协商式民主决策",
+   "en": "deliberative democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0263",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "采取各种对话的方式，通过各方的理性反思和意见交流，共同探索公共议题解决方案的决策过程。"
+  },
+  {
+   "cn": "教育民主",
+   "en": "educational democracy",
+   "source": "教育学名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "政治民主理念在教育中的引申。强调教育过程应以自由、平等、参与、协商、交流、沟通、共识等为价值基础的观念、诉求、制度安排与具体实践。"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "Social Democracy",
+   "source": "世界历史名词",
+   "wordNumber": "01.0099",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "第二国际中，已经蜕化为资产阶级政党的社会民主党的指导思想。颂扬资产阶级民主政治，反对无产阶级革命和建立社会主义政权，是现代修正主义的理论基础。"
+  },
+  {
+   "cn": "波兰国家民主党",
+   "en": "National Democracy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0569",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "在1897-1945年期间活动的波兰资产阶级民族主义政党。"
+  },
+  {
+   "cn": "体质性异常",
+   "en": "constitutional anomaly",
+   "source": "血液学名词",
+   "wordNumber": "4.269",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "体细胞的染色体出现异常变化。可能表现为染色体数目异常或者结构异常。"
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional supercooling",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.019",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "在合金凝固过程中由于溶质再分配引起的过冷。"
+  },
+  {
+   "cn": "立宪经济学",
+   "en": "constitutional economics",
+   "source": "经济学名词",
+   "wordNumber": "05.018",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "讨论制度规则或约束的选择和影响的理论。采用立宪这个词，一方面表明这里对于制度规则的讨论，是在最一般的层面上展开的，并不针对特定的制度；另一方面表明个人在制度规则的形成上的最终权利。称为最终权利，是因为"
+  },
+  {
+   "cn": "立宪规则",
+   "en": "constitutional rules",
+   "source": "经济学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "一套政治和经济活动的宪法性规则。备选的规则谱系涵盖面较宽，从某个体为整个集体做出决定这一极端，到由全体共同决定这另一极端，后者意味着一项决定需要全体一致同意。其间还有各种形态，例如，半数同意规则、超多"
+  },
+  {
+   "cn": "组元空位",
+   "en": "constitutional vacancy",
+   "source": "冶金学名词",
+   "wordNumber": "07.0071",
+   "subjectFullName": "冶金学_金属学_晶体缺陷",
+   "subjectName": "晶体缺陷",
+   "publishYear": "2019",
+   "definition": "有序合金中，合金成分偏离化学计量比时导致增加的空位。"
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional supercooling",
+   "source": "冶金学名词",
+   "wordNumber": "07.0214",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "在合金凝固过程中由于溶质再分配引起的过冷。"
+  },
+  {
+   "cn": "构造异构体",
+   "en": "constitutional isomer",
+   "source": "化学名词",
+   "wordNumber": "02.0653",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "组成分子的原子种类及数量相同，但排列顺序及方式不同而引起的异构体。构造异构体实际上可能是不同的物质。如二甲醚(<img src='/root/syzx/static/spz/huaxue2.02.06"
+  },
+  {
+   "cn": "组成单元",
+   "en": "constitutional unit",
+   "source": "化学名词",
+   "wordNumber": "05.0657",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "高分子链、嵌段或低聚物分子中，包含部分基本组成的原子或原子基团。"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "体质特质",
+   "en": "constitutional trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "浓度起伏",
+   "en": "constitutional fluctuation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组元空位",
+   "en": "constitutional vacancy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组成过冷",
+   "en": "constitutional supercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional undercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "构造异构体",
+   "en": "constitutional isomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成单元",
+   "en": "constitutional unit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成型易位",
+   "en": "constitutional translocation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组成型多倍体",
+   "en": "constitutional polyploid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成型表达",
+   "en": "constitutive expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成型启动子，组成性启动子",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成性启动子（=组成型启动子）",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组成酶",
+   "en": "constitutive enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成性突变",
+   "en": "constitutive mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组成性基因",
+   "en": "constitutive gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义协商民主",
+   "en": "the socialist consultative democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民主",
+   "en": "Lord of the People / Democracy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依宪治国",
+   "en": "governance of the country on the basis of its constitution",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "政府机构改革",
+   "en": "government institutional reform",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "合格境内机构投资者",
+   "en": "Qualified Domestic Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境外机构投资者",
+   "en": "Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "the Party's institutional development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人民币合格境外机构投资者",
+   "en": "RMB Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "把权力关进制度的笼子",
+   "en": "confining power within an institutional cage",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保基本、兜底线、建机制",
+   "en": "build up a basic safety net, ensure there is a cushion in place for those most in need, and make due institutional arrangements",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "民主",
+   "en": "democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0113",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与专制制度相对立的一种政治制度，原意指大多数人享有权力的政治制度。最早出现于古希腊。现代意义上的民主制是资产阶级革命所建立的君主立宪制或民主共和制。但资产阶级民主制建立在生产资料私有制和金钱政治、寡头"
+  },
+  {
+   "cn": "宪法",
+   "en": "constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0204",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中确定国家基本阶级关系和统治架构的根本法律。通常规定国家的社会制度和国家制度的基本原则，国家机关的组织和活动的基本原则，以及公民的基本权利和义务等重要内容。宪法具有最高的法律效力，是制定其他法"
+  },
+  {
+   "cn": "协商式民主",
+   "en": "deliberative democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "公民以深思熟虑的判断为基础，通过理性沟通、公共辩论等方式参与政治选举和公共决策的政治形态。"
+  },
+  {
+   "cn": "合作式民主",
+   "en": "consociational democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.2",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种以大联合、相互否决与局部自主等联合同意原则为决策方式的民主制度形态。美国学者利日法特提出，与“多数原则的民主”相对。"
+  },
+  {
+   "cn": "参与式民主",
+   "en": "participatory democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种以公民自治为核心的政治形式，强调公民通过公共讨论、集体商议等渠道积极参与公共事务、影响公共决策。"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "推崇人道主义精神以及民主制度，以自由、平等、公正、团结、互助为组织社会的基本原则。在社会福利方面强调国家的责任、公民的权利，推崇普遍主义的社会福利模式。"
+  },
+  {
+   "cn": "无产阶级民主",
+   "en": "proletarian democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0198",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级的政治制度。是绝大多数人的民主，贯穿在政治生活、经济生活、文化生活各个方面，反映了人与人之间和个人与社会之间的正确关系。在无产阶级获得政权以后确立，在生产资料所有制的社会主义改造完成以后得到广"
+  },
+  {
+   "cn": "资产阶级民主",
+   "en": "bourgeois democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0235",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义国家规定的以代议制为核心,以分权制、多党制、普选制、法律面前人人平等以及形式上规定的公民权利为主要内容的民主制度。它虽然以全民的、普遍的形式出现,但实际上是以少数人对多数人的统治为前提的民主，"
+  },
+  {
+   "cn": "党内民主",
+   "en": "intraparty democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0280",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党各级党组织和全体党员都有一律平等地参与党的领导和管理党的事务的权利和遵守党章党纪和党的决定的义务，是党内生活的一种重要制度和基本准则。党内民主的根本作用是确立党员在党内的主人翁地位，即党员"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "社会主义民主",
+   "en": "socialist democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0590",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家最广大人民群众的民主，包括对人民民主和对敌人专政两方面，是人类历史上最新、最广泛和最高类型的民主。社会主义民主必须同法制相结合。建设高度的社会主义民主是社会主义建设的根本目标之一。"
+  },
+  {
+   "cn": "基层民主",
+   "en": "communitylevel democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0630",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "公民在所居住的社会基层区域内，依照少数服从多数的民主原则和民主机制参与、管理自身事务的一系列制度和过程的总称。"
+  },
+  {
+   "cn": "人民民主",
+   "en": "peoples democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0763",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义民主的形式之一,社会主义国家人民当家作主、管理国家、实行无产阶级专政的国家形式。在苏联、东欧、中国等社会主义国家实行的一种政治制度，它体现了工人阶级等广大劳动人民的当家作主。人民民主本质上是社"
+  },
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0764",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过协商的形式对公共事务进行民主讨论，达成共识，做出决策。协商民主的核心要素是协商与共识。协商民主与选举民主，是民主的不同表现形式。协商民主有助于矫正自由主义的不足，实现最广泛的政治参与，包容和吸纳各"
+  },
+  {
+   "cn": "军事民主制",
+   "en": "military democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0016",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会后期形成的部落联盟组织制度。是从原始社会向阶级社会过渡时期的一种社会组织形式，适应于当时军事活动的频繁需要而产生。军事民主制是由部落联盟议事会、人民大会、军事首领三者并列组成的机构。"
+  },
+  {
+   "cn": "革命民主主义",
+   "en": "revolutionary democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0307",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对封建专制制度的过程中形成的社会革命思潮和政治主张。依据革命领导权的不同，又可分为资产阶级革命民主主义和无产阶级革命民主主义。"
+  },
+  {
+   "cn": "后民族民主",
+   "en": "postnational democracy",
+   "source": "马克思主义",
+   "wordNumber": "05.0043",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯在《后民族结构与民主的未来》一文中认为，在全球化的背景下，国际社会需要建立一个全球范围的民主秩序，即把发达国家的民主秩序推广到全球范围。这种全球范围的民主秩序就是后民族民主。"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "立宪君主制",
+   "en": "constitutional monarchy",
+   "source": "马克思主义",
+   "wordNumber": "03.0069",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级国家政体的一种形式。资产阶级革命早期，因资产阶级力量薄弱，不得不与封建君主妥协。君主仍为国家最高元首，但权力受到议会和宪法不同程度的限制。按照君主权力受到限制的程度不同，又可分为二元君主立宪制"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

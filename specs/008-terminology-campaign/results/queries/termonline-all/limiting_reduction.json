@@ -1,0 +1,762 @@
+{
+ "key": "limiting reduction",
+ "term": "limiting reduction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:58:44+00:00",
+ "status": "ok",
+ "note": "variant=limiting reduction; 审定公布名词库=5198; 海峡两岸名词对照库=1370; 其他来源数据库=149; 预公布名词数据库=385; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "压缩量",
+   "en": "reduction",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "压缩前后坯料高度的差值。即高度方向被压缩而减小的尺寸。"
+  },
+  {
+   "cn": "约化",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0200",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0199",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "核医学名词",
+   "wordNumber": "02.0242",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "物质得到电子、还原剂失去电子的过程。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0010",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据语法规则，把句子或句型中的符号串替换为规则左部的非终极符。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "把解决一个问题归结到解决另一个问题的方法。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化学名词",
+   "wordNumber": "01.0389",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "1个或多个电子转移到1个分子实体(元素氧化态降低)的过程。"
+  },
+  {
+   "cn": "复位术",
+   "en": "reduction",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.216",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0298",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "精细化工名词",
+   "wordNumber": "08.1119",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "在氧化还原反应中，失去电子或有电子偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "冶金学名词",
+   "wordNumber": "06.0157",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "在氧化还原反应里，失去电子或有电子对偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "核医学名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "在氧化还原反应中，所含原子失去电子(或电子对偏离)、化合价升高的物质。还原剂反应时本身被氧化，生成氧化产物。"
+  },
+  {
+   "cn": "限幅",
+   "en": "limiting",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.268",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "将信号某种特性(例如电压、电流、功率)超过预定门限值的所有瞬时值减弱至接近此门限值，而对其他所有的瞬时值予以保留的操作。"
+  },
+  {
+   "cn": "限幅",
+   "en": "amplitude limiting,limiting",
+   "source": "电子学名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "限制器",
+   "en": "limiting device,limiter",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0139",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_安全和指示装置",
+   "subjectName": "安全和指示装置",
+   "publishYear": "2013",
+   "definition": "停止或限制起重机运动或功能的装置。大多数限制器在有关的运动或功能到达极限状态时自动作用。"
+  },
+  {
+   "cn": "限量",
+   "en": "limit",
+   "source": "农学名词",
+   "wordNumber": "18.115",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "最大允许含量，包括最高限量和最低限量。"
+  },
+  {
+   "cn": "限制器",
+   "en": "limiter",
+   "source": "核科学技术名词",
+   "wordNumber": "3.137",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "托卡马克中把等离子体和真空室器壁分开的挡板。有极向和环向两种，用于保护真空室器壁和内部部件，并减少再循环和杂‍质。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限幅",
+   "en": "amplitude limiting\",\"limiting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极限",
+   "en": "limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限度",
+   "en": "limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制器",
+   "en": "limiter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "limits",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疝复位",
+   "en": "hernia reduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双减数分裂",
+   "en": "double reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硝酸盐还原作用",
+   "en": "nitrate reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚硝酸盐还原作用",
+   "en": "nitrite reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "订正因子",
+   "en": "reduction factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差降低",
+   "en": "variance reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[海平面]气压换算",
+   "en": "pressure reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曳力降低",
+   "en": "drag reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原电位",
+   "en": "reduction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原值",
+   "en": "reduction value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "破碎比",
+   "en": "reduction ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限位装置",
+   "en": "limiting device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制线",
+   "en": "limit line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制时间",
+   "en": "limit time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定限数权",
+   "en": "limited data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "微生物限量",
+   "en": "microbial limit",
+   "source": "消毒学",
+   "wordNumber": "4.2.2.7",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "产品中不允许超过某一标准范围的微生物数。"
+  },
+  {
+   "cn": "探测限",
+   "en": "detection limit",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "使某一测量装置所测样品中有感兴趣的事件存在时所对应的一个最小值。"
+  },
+  {
+   "cn": "初级限值",
+   "en": "primary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "《电离辐射防护与辐射源安全基本标准》中规定的个人受到辐射剂量或辐射危险不得超过的值。"
+  },
+  {
+   "cn": "次级限值",
+   "en": "secondary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要所规定的相应于有效剂量限值的某一限值。例如，内照射的次级限值是年摄入量限值。"
+  },
+  {
+   "cn": "管理限值",
+   "en": "authorized limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "由监管机构建立或正式接受的可测量的限值。"
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "局限性硬皮病",
+   "en": "limited scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "系统性硬化症的临床亚型之一，皮肤病变仅局限于肘、膝远端和头颈部，内脏受累较轻，但少数可出现肺动脉高压和食道受累。抗着丝点抗体为本型的标志性抗体。病情通常较轻，病程发展缓慢，预后较好。"
+  },
+  {
+   "cn": "最高限价",
+   "en": "price limit",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府规定某种产品或服务价格不得超过某个水平的价格"
+  },
+  {
+   "cn": "限制加成率",
+   "en": "markup limit",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府规定某种产品或服务加成率不得超过某个水平的比率。"
+  },
+  {
+   "cn": "封顶线",
+   "en": "limit line",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构对投保人医疗费用进行补偿的补偿费最高限额，限额以上的费用由投保人个人支付"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "剂量限值",
+   "en": "dose limit",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.20",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在有计划照射情况下对个人产生的有效剂量或当量剂量不得超过的数值。"
+  },
+  {
+   "cn": "角色受限",
+   "en": "role limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "角色功能因为健康问题而受到的限制。包括主要角色活动的数量受限、角色紧张和角色冲突等。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "剂量限值",
+   "en": "dose limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.7",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "基于技术原因的需要，规定的某食品产品的最高或最低辐照吸收剂量，此剂量限值以范围或单个的低值或高值表示（如，食品产品任何部分的吸收剂量不得低于或高于某一特定值）。"
+  },
+  {
+   "cn": "安全限值",
+   "en": "safety limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护人群健康，对生活、生产环境及各种介质（空气、水、食物、土壤等）中与人群身体健康有关的各种因素（物理性、化学性和生物性因素）所规定的浓度和暴露时间的限制性量值。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

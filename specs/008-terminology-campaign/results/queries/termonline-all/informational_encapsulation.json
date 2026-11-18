@@ -1,0 +1,672 @@
+{
+ "key": "informational encapsulation",
+ "term": "Informational encapsulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:53:08+00:00",
+ "status": "ok",
+ "note": "variant=Informational encapsulation; 审定公布名词库=1639; 海峡两岸名词对照库=364; 其他来源数据库=539; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "档案学名词",
+   "wordNumber": "06.02.010",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "将电子档案及其元数据作为一个整体按指定结构打包的过程。"
+  },
+  {
+   "cn": "包裹",
+   "en": "encapsulation",
+   "source": "兽医学名词",
+   "wordNumber": "10.161",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "病理性产物、异物或坏死组织被增生的纤维组织包围和限制的过程。"
+  },
+  {
+   "cn": "装套",
+   "en": "encapsulation",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.096",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形",
+   "subjectName": "压制及成形",
+   "publishYear": "2021",
+   "definition": "将粉末或压坯封装在薄壁密闭容器内。"
+  },
+  {
+   "cn": "包裹",
+   "en": "encapsulation",
+   "source": "病理学名词",
+   "wordNumber": "01.101",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "如果坏死组织较大，肉芽组织难以向中心部完全长入或吸收，则由周围增生的肉芽组织将其包围的现象。"
+  },
+  {
+   "cn": "胶囊化",
+   "en": "encapsulation",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0359",
+   "subjectFullName": "食品科学技术_食品营养_食物营养价值、营养强化食品_营养强化食品",
+   "subjectName": "营养强化食品",
+   "publishYear": "2020",
+   "definition": "将营养强化剂包裹在胶囊中。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.587",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献保护",
+   "subjectName": "文献保护",
+   "publishYear": "2019",
+   "definition": "文献保护的一种方法。将文献载体密封在惰性透明材料层之间。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0341",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "将对象的属性和操作（或其他软件成分）结合成一个独立的系统单位，并尽可能隐蔽其内部细节。"
+  },
+  {
+   "cn": "包结作用",
+   "en": "encapsulation",
+   "source": "化学名词",
+   "wordNumber": "02.0836",
+   "subjectFullName": "化学_有机化学_物理有机化学_超分子",
+   "subjectName": "超分子",
+   "publishYear": "2016",
+   "definition": "1个分子对另一个分子或离子的全部或大部分的包裹或覆盖。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0228",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "把对象的属性和服务结合成一个独立的系统单位，并尽可能隐蔽对象的内部细节。"
+  },
+  {
+   "cn": "包囊",
+   "en": "encapsulation",
+   "source": "药学名词",
+   "wordNumber": "02.506",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "将固态或液态药物(囊心物)包裹在天然的或合成的高分子材料(囊材)中形成微囊的过程。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.160",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在面向对象编程思想中，将某些信息有意识地隐藏在程序的某个部分的一种程序设计方法。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.028",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "为实现各式各样的数据传送，将被传送的数据结构映射进另一种数据结构的处理方式。"
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.337",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "包囊作用",
+   "en": "encapsulation",
+   "source": "昆虫学名词",
+   "wordNumber": "10.014",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "昆虫细胞性免疫的机制，血细胞识别异物和病原体并吸附，聚集的血细胞将异物和病原体包围起来，逐渐增厚形成被囊，达到杀灭、清除入侵异物和病原体而免受其害的目的。"
+  },
+  {
+   "cn": "包裹",
+   "en": "encapsulation",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.108",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "胶囊化",
+   "en": "encapsulation",
+   "source": "化学工程名词",
+   "wordNumber": "06.136",
+   "subjectFullName": "化学工程_生物化学工程_生化反应工程_酶催化反应",
+   "subjectName": "酶催化反应",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "包封",
+   "en": "encapsulating",
+   "source": "电气工程名词",
+   "wordNumber": "03.221",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "数据封装",
+   "en": "data encapsulation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0251",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "在面向对象语言中，将一组数据和在这些数据上的操作隔离在一个类内，只能通过其成员或者友元访问的技术。"
+  },
+  {
+   "cn": "气密限制层",
+   "en": "encapsulating layer",
+   "source": "航天科学技术名词",
+   "wordNumber": "11.220",
+   "subjectFullName": "航天科学技术_航天医学与载人航天",
+   "subjectName": "航天医学与载人航天",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "包封胶",
+   "en": "encapsulating compound",
+   "source": "电气工程名词",
+   "wordNumber": "03.045",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "胶囊化",
+   "en": "encapsulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "包结作用",
+   "en": "encapsulation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封装",
+   "en": "encapsulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "包囊",
+   "en": "encapsulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "包囊作用",
+   "en": "encapsulation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "数据封装",
+   "en": "data encapsulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帧封装",
+   "en": "frame encapsulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打包安全",
+   "en": "encapsulating security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖剂",
+   "en": "encapsulated agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖材料",
+   "en": "encapsulated materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "液封技术",
+   "en": "liquid encapsulation technique",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有被囊神经末梢",
+   "en": "encapsulated nerve ending",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "被囊神经末梢",
+   "en": "encapsulated nerve ending",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有被囊感觉神经末梢",
+   "en": "encapsulated sensory nerve ending",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "液封覆盖直拉法",
+   "en": "liquid encapsulated Czochralski method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据封装",
+   "en": "data encapsulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "胶囊型固体香精",
+   "en": "encapsulated solid flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "香气和（或）香味成分以芯材的形式被包裹于固体壁材之内的颗粒型香精"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

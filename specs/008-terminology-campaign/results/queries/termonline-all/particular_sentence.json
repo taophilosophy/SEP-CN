@@ -1,0 +1,692 @@
+{
+ "key": "particular sentence",
+ "term": "particular sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:44:00+00:00",
+ "status": "ok",
+ "note": "variant=particular sentence; 审定公布名词库=762; 海峡两岸名词对照库=456; 其他来源数据库=13; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "特种地图",
+   "en": "particular map",
+   "source": "测绘学名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "利用特殊介质制成或以特殊形式显示的地图。"
+  },
+  {
+   "cn": "特殊荷载",
+   "en": "particular load",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0348",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "单独海损",
+   "en": "particular average",
+   "source": "航海科技名词",
+   "wordNumber": "13.0211",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "特解",
+   "en": "particular solution",
+   "source": "数学名词",
+   "wordNumber": "06.0021",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主要要素",
+   "en": "principal particulars",
+   "source": "船舶工程名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "船体主尺度、载重量、载客量、主机型号及其主要参数、航速、船员定额、续航力等的总称。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "货物平安险",
+   "en": "free from particular average,FPA",
+   "source": "航海科技名词",
+   "wordNumber": "13.0208",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern",
+   "source": "语言学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句子的结构类型。句子从结构上可以分为单句和复句两大类型。其中单句又可分为主谓句和非主谓句，复句又可分为联合复句和偏正复句。"
+  },
+  {
+   "cn": "倒装句",
+   "en": "inversional sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "为了突出重要部分或者先说重要部分再追加其他部分的句子。是口语句法中的一种特有现象。句子语音上前半部分重读，补充部分轻读；语义重点在前半部分；句末语气词出现在前半部分；整个结构不能按照正常的短语结构来分"
+  },
+  {
+   "cn": "祈使句",
+   "en": "imperative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。要求、命令、禁止或建议、请求对方做某事或不做某事的句子。全句用降调，句末标点用句号或感叹号。祈使句的主语一般是第二人称，不过常常省略。表示命令、禁止的祈使句语气较为急促简短，句末标点常用感"
+  },
+  {
+   "cn": "单独海损",
+   "en": "particular average",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特定留置权",
+   "en": "particular lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主要要素",
+   "en": "principal particulars",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单独海损",
+   "en": "particular average\",\"P/A",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "个别贸易差额",
+   "en": "particular balance of trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物平安险",
+   "en": "free from particular average\",\"FPA",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "托收票据",
+   "en": "bill sent for collection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关节唇",
+   "en": "articular labrum\",\"articular lip",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避免使某个国家或特定群体蒙受污名",
+   "en": "to avoid stigmatizing a country or particular group",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "细颗粒物",
+   "en": "particulate matter",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可吸入颗粒物",
+   "en": "particulate matter 10",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特殊性",
+   "en": "particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0047",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "矛盾之间或每一个矛盾的各方面、各个发展阶段之间相互区别的特殊本质，即事物的个别性。矛盾的特殊性是世界上各种事物千差万别的内在依据，也是人们认识事物的基础。"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0066",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在扩大的相对价值形式中，处于等价形式上的一切商品。即在“20码麻布=1件上衣，或=10磅茶叶，或=40磅咖啡，或=其他”这一总和的或扩大的价值形式中，除20码麻布以外的一切商品就都获得了特殊等价物的形"
+  },
+  {
+   "cn": "历史特殊论",
+   "en": "historical particularism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0545",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国历史学派的重要理论观点之一，这一观点认为每个民族的文化都有其自身的独特历史，因此必须在每个民族的特点中研究每个民族。要理解或解释某一特定文化，最正确的做法就是用人类学资料来重新恢复某个民族的历史发"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0044",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "辩证法的一对范畴。个别，指单一事物的个体性、独特性，使事物彼此区别；一般，指一类事物或一切事物普遍具有的共性和本质。二者是辩证的统一。一般不能脱离个别而存在，个别总是同一般相联结，一般比个别深刻，个别"
+  },
+  {
+   "cn": "普遍性与特殊性",
+   "en": "universality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0048",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "普遍性与特殊性的关系是共性与个性、一般与个别的关系，它们之间相互包含又相互转化。普遍性寓于矛盾的特殊性之中，并通过特殊性表现；任何普遍性都不能包括全部特殊性，特殊性比普遍性丰富、具体；二者的区分是相对"
+  },
+  {
+   "cn": "矛盾的普遍性和特殊性",
+   "en": "universality and particularity of contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0229",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "矛盾的普遍性是指矛盾存在于一切事物的发展过程之中，矛盾存在于一切事物发展过程的始终。矛盾的特殊性是指具体事物的矛盾以及每一矛盾的各个方面都有其特点。矛盾的普遍性与特殊性的关系是共性和个性、一般和个别的"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "关节面",
+   "en": "articular surface",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "关节中相邻骨的骨面。可以是凸面，也可以是凹面或平面。凸起的为关节头，凹陷的为 关节窝。周缘常有浅沟或深沟环绕，沟内为关节囊的附着部；面上还常附有关节软骨。"
+  },
+  {
+   "cn": "关节囊",
+   "en": "articular capsule",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.3",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "附着于关节的周围，密封关节腔，由结缔组织构成的膜囊。囊壁有2层：外侧为纤维层， 厚而坚韧，由致密结缔组织构成，含有丰富的血管和神经；内层为滑膜层，薄而柔润，由疏松结缔组织构成，向关节腔分泌滑液， 减少"
+  },
+  {
+   "cn": "关节腔",
+   "en": "articular cavity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "滑膜层与关节面所围成的腔隙。形状和大小 在不同关节上差别很大。运动度大的关节， 关节腔较为宽阔，反之较为狭窄。腔内有滑液，可滑润和营养关节软骨。腔内为负压， 可维持关节的稳固性。"
+  },
+  {
+   "cn": "关节腔注射",
+   "en": "intra-articular injection",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "在无菌技术操作下，用空针刺入关节腔，向关节内注射药物的治疗方法。用于治疗关节疾病。"
+  },
+  {
+   "cn": "颗粒物",
+   "en": "particulate matter, PM",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.1.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "气溶胶体系中均匀分散的各种固体或液体微粒。"
+  },
+  {
+   "cn": "可吸入颗粒物",
+   "en": "inhalable particulate, IP, PM10",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.3.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空气动力学直径≦10μm 的颗粒物，可进入呼吸道。"
+  },
+  {
+   "cn": "大气颗粒物",
+   "en": "airborne particulate matter, APM",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "大气中存在的各种固态和液态颗粒状物质的总称。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "高效空气过滤器",
+   "en": "high efficiency particulate air filter, HEPA",
+   "source": "消毒学",
+   "wordNumber": "1.8.20.5",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "在额定风量下，对粒径≥0.3μm粒子的捕集效率在99.95%以上的空气过滤器。"
+  },
+  {
+   "cn": "亚高效空气过滤器",
+   "en": "sub-high efficiency particulate air filter",
+   "source": "消毒学",
+   "wordNumber": "1.8.20.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对粒径≥0.5μm微粒的捕集效率≥95%而<99.9%的过滤器。"
+  },
+  {
+   "cn": "高效微粒空气过滤器",
+   "en": "high efficiency particulate air filter，HEPA",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.9",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "一种用来过滤空气中的亚微米级微粒的干式过滤装置。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

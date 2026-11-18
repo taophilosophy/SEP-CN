@@ -1,0 +1,762 @@
+{
+ "key": "exclusion",
+ "term": "exclusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:43:00+00:00",
+ "status": "ok",
+ "note": "variant=exclusion; 审定公布名词库=975; 海峡两岸名词对照库=216; 其他来源数据库=33; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "独家新闻",
+   "en": "exclusive",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.082",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "由唯一一家新闻媒体得到线索并加以披露的重大报道。"
+  },
+  {
+   "cn": "独家新闻",
+   "en": "exclusive",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.112",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "仅由一家新闻媒体发出的具有较高新闻价值的新闻。"
+  },
+  {
+   "cn": "排他性",
+   "en": "exclusiveness",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.221",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在市场体制下，物品或服务的潜在用户能够被有效排除的性质。"
+  },
+  {
+   "cn": "排阻层析",
+   "en": "exclusion chromatography",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0234",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "根据分子大小和/或形状的差异形成的排阻效应实现分离的一种层析方法。"
+  },
+  {
+   "cn": "排他成本",
+   "en": "exclusion cost",
+   "source": "经济学名词",
+   "wordNumber": "05.026",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "如果想将其他人排斥在某项产品的消费之外，不允许他享受该产品的利益，所必须付出的高昂费用。"
+  },
+  {
+   "cn": "非居住区",
+   "en": "exclusion area",
+   "source": "电力名词",
+   "wordNumber": "17.861",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆周围一定范围内禁止居民常住的区域。非居住区边界离反应堆距离不得小于500m。"
+  },
+  {
+   "cn": "排阻色谱",
+   "en": "exclusion chromatography",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0609",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品仪器分析",
+   "subjectName": "食品仪器分析",
+   "publishYear": "2020",
+   "definition": "根据分子尺寸和/或形状的差异形成的排阻效应实现分离的色谱法。"
+  },
+  {
+   "cn": "排除标准",
+   "en": "exclusion criteria",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "不能参加某项研究的规定，入选标准的对立 面。"
+  },
+  {
+   "cn": "排阻色谱法",
+   "en": "exclusion chromatography",
+   "source": "化学名词",
+   "wordNumber": "03.1750",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "根据分子尺寸和/或形状的差异形成的排阻效应实现分离的色谱法。"
+  },
+  {
+   "cn": "非居住区",
+   "en": "exclusion area",
+   "source": "建筑学名词",
+   "wordNumber": "11.0283",
+   "subjectFullName": "建筑学_建筑防护_防电离辐射",
+   "subjectName": "防电离辐射",
+   "publishYear": "2014",
+   "definition": "为限制事故风险，核电厂周围设置非居住的区域。其半径(以反应堆为中心)不得小于0.5km。"
+  },
+  {
+   "cn": "排它过程",
+   "en": "exclusion process",
+   "source": "数学名词",
+   "wordNumber": "09.0393",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "金融排斥",
+   "en": "financial exclusion",
+   "source": "农学名词",
+   "wordNumber": "19.253",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "一些群体缺乏从金融体系中获得金融服务机会的状态。"
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion ",
+   "source": "草学名词",
+   "wordNumber": "2.0097",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competition exclusion",
+   "source": "动物学名词",
+   "wordNumber": "7.0424",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "生态位上相同的两个物种不可能在同一地区内长期共存，如果生活在同一地区内，由于激烈竞争，它们之间必然出现栖息地、食性、活动时间或其他特征上的生态位分化。"
+  },
+  {
+   "cn": "等位基因排斥",
+   "en": "allelic exclusion",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.408",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "（1）控制某一性状的一对等位基因处于同一个体或细胞时，仅其中一个得以表达的现象。基因的不表达可由转录沉默或翻译阻滞等机制引起。（2）免疫球蛋白的杂合体只表达一对等位基因中的一个的现象。"
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "植物学名词",
+   "wordNumber": "13.0180",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "种间竞争导致物种消亡的现象。"
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "林学名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "生态位相似的两个物种，通过竞争而导致其中一个消失，或者两个物种处于不同的生态位的现象。"
+  },
+  {
+   "cn": "同种型排斥",
+   "en": "isotypic exclusion",
+   "source": "免疫学名词",
+   "wordNumber": "2.262",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "一个成熟B细胞通常仅能表达一类重链和一型轻链，而其他类型的重链和轻链基因均处于静息状态的现象。"
+  },
+  {
+   "cn": "等位[基因]排斥",
+   "en": "allelic exclusion",
+   "source": "免疫学名词",
+   "wordNumber": "2.263",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "一个B细胞的两条同源染色体上编码重链或轻链的两个C区等位基因中，仅有一个得到表达的现象。"
+  },
+  {
+   "cn": "等位[基因]排斥",
+   "en": "allelic exclusion",
+   "source": "遗传学名词",
+   "wordNumber": "02.363",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "免疫球蛋白的杂合体只表达一对等位基因中的一个的现象。"
+  },
+  {
+   "cn": "排阻色谱法",
+   "en": "exclusion chromatography",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排斥作图",
+   "en": "exclusion mapping",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "排阻层析",
+   "en": "exclusion chromatography",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拒盐",
+   "en": "salt exclusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离子排斥",
+   "en": "ion exclusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正确排除",
+   "en": "valid exclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会排斥",
+   "en": "social exclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际排斥",
+   "en": "interpersonal exclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拒盐",
+   "en": "salt exclusion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "税收豁免",
+   "en": "tax exclusion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competitive exclusion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同种[型]排斥",
+   "en": "isotypic exclusion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等位[基因]排斥",
+   "en": "allelic exclusion",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同种型排斥",
+   "en": "isotypic exclusion",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等位[基因]排斥",
+   "en": "allelic exclusion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competition exclusion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "确限种",
+   "en": "exclusive species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融排斥",
+   "en": "financial exclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排他锁",
+   "en": "exclusive lock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"send off\",\"ejection\",\"exclusion\",\"expulsion\",\"sending off\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"suspend\",\"expulsion\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据爆炸",
+   "en": "data explosion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容性",
+   "en": "Digital Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排斥",
+   "en": "exclusion",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.29",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "某些弱势群体在劳动权利和社会保障体系里由于受到社会主流群体的排挤而日益孤立、边缘化的过程，表现为在经济、政治、社会、文化以及心理方面的权利长期受到漠视和剥夺，在获取生活资料、参与政治、社会平等、享受文"
+  },
+  {
+   "cn": "文化排斥",
+   "en": "cultural exclusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与某种文化刻意保持一定距离，拒绝与其交流、了解的现象。容易造成自身文化的封闭、隔离，往往不利于新文化的产生与发展。"
+  },
+  {
+   "cn": "社会排斥",
+   "en": "social exclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会封闭的一种主要方式。居于优势地位的阶级、群体或集团设置各种制度化的屏障以限制较低阶层的社会成员获取某些资格和权益，从而达到垄断资源和机会的目的。"
+  },
+  {
+   "cn": "纯母乳喂养",
+   "en": "exclusive breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "出生后至满6月龄前的婴儿除母乳外，不给孩子其他食物及饮料，完全依赖母乳满足所需全部液体、能量和营养需要的喂养方式。"
+  },
+  {
+   "cn": "免于体育测试标准",
+   "en": "exclusion criteria on physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "国家在学校教育工作中针对特殊学生免于执行学生体质健康标准的规范性技术文件。该标准为在实施国家学生体质健康标准过程中，因患病、残疾或丧失运动能力等特殊学生，准予暂缓或免于体质健康测试提供了判断标准和程序"
+  },
+  {
+   "cn": "6个月内婴儿纯母乳喂养率",
+   "en": "exclusive breastfeeding under 6 months of age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用纯母乳喂养的0-5月龄婴儿数与该月龄段全部婴儿数之比。通常用调查前24小时内纯母乳喂养的0-5月龄婴儿数与受调查的该月龄段婴儿总数的百分比表示。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "社会包容",
+   "en": "social inclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会的制度体系对具有不同社会特征的社会成员及其所表现的各种社会行为不加排斥的宽容对待、平等相处，并扶持弱者、共同发展的状态。"
+  },
+  {
+   "cn": "输精管栓堵术",
+   "en": "vas occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "经阴囊皮肤穿刺的方法将液态高分子化合物聚醚型聚氨酯弹性体或者硅橡胶，加压注入输精管腔内，在管内迅速固化为栓子，堵塞输精管腔以阻止精子排出，达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "切除修复",
+   "en": "excision repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "生物界广泛存在的较为复杂的一种修复方式。需要多种酶参加，将损伤区域切除，然后利用互补链为模板，合成一段正确配对的、完好的碱基顺序来修补。可分为碱基切除修复和核苷酸切除修复两种方式。"
+  },
+  {
+   "cn": "大气层核爆炸",
+   "en": "atmospheric nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以上的核爆炸。包括地（水）面核爆炸和爆炸高度在海拔30km以下的空中核爆炸。有利于对核爆炸产生的力学、光学、核辐射、电磁脉冲和放射性沾染等效应进行观测和研究，为核防护和核武器使用提供数据。"
+  },
+  {
+   "cn": "地下核爆炸",
+   "en": "underground nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以下一定深度的核爆炸。按比深不同可分为浅层地下核爆炸和封闭式地下核爆炸。"
+  },
+  {
+   "cn": "水下核爆炸",
+   "en": "underwater nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器在水面以下的爆炸。用于破坏水下、水面舰艇和水中设施。爆炸会造成局部水域严重放射性污染。水下核爆炸火球比空爆小，爆心附近水域被火球照亮，形成明亮发光区；爆心上面的水被掀起可形成不同高度的中空水柱，"
+  },
+  {
+   "cn": "核爆炸装置",
+   "en": "nuclear explosion device",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "具有核爆炸功能的裂变装置或聚变装置，是原子弹或氢弹的核心组成部分。核装置用于各种目的的核试验时，可以只是一种物理装置，而不是武器。按照核武器作战使用目的而设计制造的核装置，加上引爆控制系统和相应的结构"
+  },
+  {
+   "cn": "输卵管黏堵绝育术",
+   "en": "chemical tube occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "通过导管将化学粘堵剂注入输卵管，引发输卵管内膜化学性损伤、粘连，继发输卵管阻塞，以达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "碱基切除修复",
+   "en": "base excision repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "切除修复的一种，其特点是切除受损伤的碱基。主要过程是水解受损伤的碱基与脱氧核糖核酸链之间的N-糖苷键，反应由一类糖基化酶催化。"
+  },
+  {
+   "cn": "核苷酸切除修复",
+   "en": "nucleotide excision repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "切除修复的一种，其特点是切除一段寡核苷酸。主要过程是首先由一个酶系统识别损伤；然后在损伤两侧各水解一个磷酸二酯键，从而释放出一段寡核苷酸；造成的缺损区重新填补；最后由连接酶完成连接，使DNA恢复原来的"
+  },
+  {
+   "cn": "核爆炸方式",
+   "en": "types of nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器或核装置在不同介质、不同高度爆炸的类型。分为高空核爆炸、大气层核爆炸、地下核爆炸和水下核爆炸四类。"
+  },
+  {
+   "cn": "高空核爆炸",
+   "en": "high-altitude nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "高度在海拔30km以上的核爆炸。包括外层空间核爆炸。爆心海拔80km以下的高空核爆炸与空中核爆炸特征相似；爆心距地面60km～80km处，可能形成厚度10 km～15km的饼状火球。80km以上高空核"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

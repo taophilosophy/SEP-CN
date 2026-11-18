@@ -1,0 +1,742 @@
+{
+ "key": "meaning statements",
+ "term": "meaning statements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:52:50+00:00",
+ "status": "ok",
+ "note": "variant=meaning statements; 审定公布名词库=3439; 海峡两岸名词对照库=1008; 其他来源数据库=141; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0221",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据文法从开始符号推导出的终极符号串。即程序设计语言中符合语法的、具有一定功能的字符组合。"
+  },
+  {
+   "cn": "陈述",
+   "en": "statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达信息的条款。"
+  },
+  {
+   "cn": "表态用语",
+   "en": "statement phrase",
+   "source": "档案学名词",
+   "wordNumber": "02.04.050",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "公文专用词语的一种。表明发文机关态度时使用。如“照办”“可行”“准予”“不可行”“同意”“原则同意”“不同意”等。"
+  },
+  {
+   "cn": "单称陈述",
+   "en": "singular statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对单个相关对象的特征描述。"
+  },
+  {
+   "cn": "观察陈述",
+   "en": "observational statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.056",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "对观察结果的描述。是对个别对象的性质、状态的陈述，所表达的知识都是经验知识或经验事实。"
+  },
+  {
+   "cn": "利润表",
+   "en": "income statement",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "反映企业一定期间生产经营成果的会计报表。"
+  },
+  {
+   "cn": "创刊词",
+   "en": "inaugural statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.081",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登在创刊号上，说明本刊发刊缘由、性质、办刊宗旨、服务对象、主要内容等方面的辅文。"
+  },
+  {
+   "cn": "休刊词",
+   "en": "suspension statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.082",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "休刊号上交代休刊事由的辅文。"
+  },
+  {
+   "cn": "停刊词",
+   "en": "discontinuation statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.083",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "停刊号上交代停刊事由的辅文。"
+  },
+  {
+   "cn": "组织使命",
+   "en": "mission statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.029",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织对所管理的范围、内容、力图实现目标的正式说明。既能体现组织创办者或高层领导人的追求和抱负，也能反映该组织之所以存在的理由或价值，以及该组织在社会中所处的地位、作用、承担的义务和扮演的角色。"
+  },
+  {
+   "cn": "损益表",
+   "en": "income statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.104",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒管理",
+   "subjectName": "传媒管理",
+   "publishYear": "2022",
+   "definition": "反映企业在一定会计期间经营成果，如收入、成本、费用，以及成果分配情况的会计报表。体现了企业实际获得利润或亏损的情况，是一定时期内企业经营业绩的财务记录。企业的损益包括四个方面：企业营业收入；直接成本、"
+  },
+  {
+   "cn": "丛编说明",
+   "en": "series statement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.614",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对丛编题名信息的说明。包含不用于检索及与规范检索点不同的丛编题名信息。"
+  },
+  {
+   "cn": "可调用语句",
+   "en": "callable statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0555",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "Java数据库互连（JDBC）提供的对象，为所有数据库管理系统（DBMS）提供了一种以标准形式调用存储过程的方法。"
+  },
+  {
+   "cn": "情况语句",
+   "en": "case statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "包含多路选择分支结构的语句。"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0200",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "赋给变量一个具体的确定值的语句。"
+  },
+  {
+   "cn": "财务报表",
+   "en": "financial statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0071",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对企业财务状况、经营成果和现金流量进行结构性表述的文件。"
+  },
+  {
+   "cn": "利润表",
+   "en": "income statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "反映企业在一定会计期间经营成果的会计报表。"
+  },
+  {
+   "cn": "使命陈述",
+   "en": "mission statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "组织希望在较大环境中完成什么任务的声明。扮演着一只引导人们的无形的手角色，并回答如下问题：我们从事什么业务？我们的顾客是谁？顾客珍视什么？我们的事业应该是什么？"
+  },
+  {
+   "cn": "政策条文",
+   "en": "policy statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0216",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "可供一般民众正式且合法获悉的政策内容的书面表述。"
+  },
+  {
+   "cn": "定位陈述",
+   "en": "positioning statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0295",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "总结公司或品牌定位的一份正式说明。"
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报表表头",
+   "en": "statement heading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "报表格式",
+   "en": "statement form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算表",
+   "en": "liquidation statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件声明",
+   "en": "conditional statement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[分]情况语句",
+   "en": "CASE statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制语句",
+   "en": "control statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平均数",
+   "en": "mean",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "客户结单",
+   "en": "customer’s statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "财务报表分析",
+   "en": "financial statement analysis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "费用清单",
+   "en": "statement of expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "结算书",
+   "en": "statement of settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经营情况表",
+   "en": "statement of operation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格义",
+   "en": "Matching Meanings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政者正也",
+   "en": "Governance Means Rectitude.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "K均值聚类",
+   "en": "K-means clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中庸",
+   "en": "Zhongyong (The Golden Mean)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假象见意",
+   "en": "Use Imagery to Express Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "允执厥中",
+   "en": "Hold Fast the Golden Mean",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知足者富",
+   "en": "Being Contented Means True Wealth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "符号在表达系统里的价值。与符号构成人类学解读文化的一种范式。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0042",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一般指语言形式（语音）所承载和传达的信息或说话者的意图。在不同的理论中，内涵有所不同。"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在某一规定时间间隔内，一个量的所有瞬时值或其绝对值的算术平均计值"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "一个人口所有成员年龄的算术平均数。"
+  },
+  {
+   "cn": "行政手段",
+   "en": "administrative means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府机关及其工作人员通过履行行政职能，依法对卫生服务市场有序运行进行的管理活动。"
+  },
+  {
+   "cn": "法律手段",
+   "en": "legal means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "运用法律、法规、政策等去规范卫生服务市场的运行和卫生服务机构的市场行为，以实现政府对卫生服务市场的宏观调控。"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用人的视觉和听觉的感性认识，加深理解，提高教学效果的教学与学习方法。"
+  },
+  {
+   "cn": "意义中心论",
+   "en": "meaning-centered theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0246",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "医学人类学的主要理论之一，从意义中心论的角度来看，医学人类学的一个目标是“解包”（unpack）并分析构成健康的所有组分，从痛苦的经历到治疗者的训练和功能，发挥着创造、体验和传达人类生活意义的作用。"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "辐射粒子进入物体穿行的平均距离。"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.14",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "某种粒子在给定介质中相继发生一种或几种反应或过程之间平均穿行的距离。SI单位为米，记作m。"
+  },
+  {
+   "cn": "平均吸收剂量",
+   "en": "mean absorbed dose",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.8",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "给定特定目标器官或组织吸收电离辐射的总能量与其质量的比值。"
+  },
+  {
+   "cn": "流通手段",
+   "en": "means of circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0073",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一，指货币在商品流通中充当交换媒介的职能。货币流通手段职能以货币价值尺度的职能为前提。"
+  },
+  {
+   "cn": "贮藏手段",
+   "en": "means of hoarding",
+   "source": "马克思主义",
+   "wordNumber": "02.0084",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一。货币退出流通领域，被人们当作独立的价值形态和社会财富的一般代表保存起来的职能。只有贵金属即金属铸币、金银条块以及它的可靠代表才能执行贮藏手段或货币贮藏职能。"
+  },
+  {
+   "cn": "支付手段",
+   "en": "means of payment",
+   "source": "马克思主义",
+   "wordNumber": "02.0085",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一。货币用于清偿债务、支付租金、赋税、利息、工资等的职能。从货币作为支付手段的职能中直接产生了信用货币，表现了货币对商品生产和商品交换的适应。"
+  },
+  {
+   "cn": "劳动资料",
+   "en": "means of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0102",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者在生产过程中用于改造或影响劳动对象的一切物质资料和物质条件。生产工具（特别是机械性的生产工具，比那些只是充当劳动对象容器的劳动资料例如管、桶、篮、罐等，更能显示一个社会生产时代具有决定意义的特征"
+  },
+  {
+   "cn": "生产资料",
+   "en": "means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0103",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们从事物质资料生产所必需的一切物质条件。是社会生产力中物的要素，即人们在生产过程中所使用的劳动资料和劳动对象的总和。劳动者只有和生产资料相结合，才能进行生产、创造物质财富。二者的结合方式强烈地反映与"
+  },
+  {
+   "cn": "生活资料",
+   "en": "means of subsistence",
+   "source": "马克思主义",
+   "wordNumber": "02.0210",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用来满足人们物质和文化生活需要的那部分社会产品。生活资料是维持人类生存和发展的基本条件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

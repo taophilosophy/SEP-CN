@@ -1,0 +1,642 @@
+{
+ "key": "outcome independence",
+ "term": "outcome independence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:00:27+00:00",
+ "status": "ok",
+ "note": "variant=outcome independence; 审定公布名词库=344; 海峡两岸名词对照库=132; 其他来源数据库=9; 预公布名词数据库=36; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某件事或行为的结果。临床研究中通常为所研究疾病的转归或治疗的效果。"
+  },
+  {
+   "cn": "产出",
+   "en": "outcome",
+   "source": "药学名词",
+   "wordNumber": "10.050",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "医疗干预后，患者在临床指标、身体功能和主观感受等各方面变化。"
+  },
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "数学名词",
+   "wordNumber": "011.0405",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转归评价",
+   "en": "outcome assessment,outcome evaluation",
+   "source": "核医学名词",
+   "wordNumber": "06.0326",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "以受试对象临床整体状态为主要观察指标的临床试验评价体系。"
+  },
+  {
+   "cn": "妊娠结局",
+   "en": "pregnancy outcome",
+   "source": "生殖医学名词",
+   "wordNumber": "6.088",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "妊娠相关的结果。常指在辅助生殖技术治疗后的临床结局，包括活产、多胎、临床妊娠、流产、生化妊娠及反复植入失败等。"
+  },
+  {
+   "cn": "治疗转归",
+   "en": "treatment outcome",
+   "source": "结核病学名词",
+   "wordNumber": "04.092",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "对肺结核患者抗结核治疗后效果的总结。分为治愈、完成疗程、死亡、失败、丢失、迁出等。敏感肺结核与耐药肺结核治疗转归标准不同。"
+  },
+  {
+   "cn": "次要结局",
+   "en": "secondary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "一项研究中除主要终点指标外关注的其他结局或测量指标。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "肠外肠内营养学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "评价患者是否从某种治疗方法中受益的指标。包括感染性并发症发生率、死亡率、住院时间、质量调整生命年等。国内近年有少量已经发表的高质量证据显示，对有营养风险的患者给予合理的营养支持，可能降低感染性并发症发"
+  },
+  {
+   "cn": "主要结局",
+   "en": "primary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.106",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "根据试验目标与设计决定的首要的、决定临床试验终止的指标和参数。"
+  },
+  {
+   "cn": "结果公平",
+   "en": "outcome fairness",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0110",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对于自己所得到的结果与其他人所得到的结果相比而做出的一种是否公平的判断。"
+  },
+  {
+   "cn": "中间产出",
+   "en": "intermediate outcome",
+   "source": "药学名词",
+   "wordNumber": "10.100",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "能影响病人最终健康产出的指标，但该指标本身不是治疗的最终目标。当最终产出难以在短期内观察到，常用来作为最终产出的代理变量。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "经过一定时间，某种健康问题、治疗方案和医学干预所显示的临床结果。"
+  },
+  {
+   "cn": "结果质量",
+   "en": "outcome quality",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "服务的最终结果。是多种质量特性和质量内涵的综合体现。"
+  },
+  {
+   "cn": "结局空间",
+   "en": "outcome space",
+   "source": "数学名词",
+   "wordNumber": "011.0406",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立派",
+   "en": "Independents",
+   "source": "世界历史名词",
+   "wordNumber": "03.0325",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国资产阶级革命中的一个清教派别，主要代表中等贵族和中等资产阶级利益。"
+  },
+  {
+   "cn": "独立[的]",
+   "en": "independent",
+   "source": "数学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "应激转归",
+   "en": "outcome of stress",
+   "source": "行为医学名词",
+   "wordNumber": "10.055",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "应激反应的发展趋向和结局。一般有积极性转归和消极性转归两种。"
+  },
+  {
+   "cn": "结果测量",
+   "en": "outcome measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结果研究",
+   "en": "outcome research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立性检验",
+   "en": "independence test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部独立性",
+   "en": "local independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "场独立性",
+   "en": "field independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领域无关",
+   "en": "field independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件独立性",
+   "en": "event independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据独立性",
+   "en": "data independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计独立",
+   "en": "statistical independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性独立",
+   "en": "linear independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "主动发育",
+   "en": "independent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "独立分配（=自由组合）",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合，独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立样本",
+   "en": "independent sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "独立反应",
+   "en": "independent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立自我",
+   "en": "independent self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“扶真贫、真扶贫”",
+   "en": "helping those in need and delivering genuine outcomes",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吉凶由人",
+   "en": "The Outcome of Auspiciousness or Inauspiciousness Depends on Human Behavior.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "营养结局",
+   "en": "nutritional outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童生长发育和健康水平的总和，是由营养素、营养行为和营养气氛三个因素来决定的，而营养气氛包括烹调过程与进食过程。"
+  },
+  {
+   "cn": "结局评价",
+   "en": "outcome evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育项目计划实施后，对目标人群健康状况和生活质量等变化的评价。"
+  },
+  {
+   "cn": "不良结局",
+   "en": "adverse outcome",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物引起的具有法规监管意义的有害效应关键事件。通常与已确立的安全保护目标相符合、或与公认的毒性测试指南中的观察终点等效。"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "健康教育结果",
+   "en": "health educational outcome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "学生在接受健康教育后发生健康行为改变的状况。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "妊娠期、分娩及产后期或新生儿期发生的对孕妇、胎儿或新生儿健康产生负面影响的任何不良结果。母体结局包括孕产期并发症和孕产妇死亡，胎儿/新生儿结局包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良出生结局",
+   "en": "adverse birth outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "特指出生后发现的新生儿健康问题或异常结果，包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcomes",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "妊娠后不能产生外观和功能正常的子代，包括所有的不良结果，如流产、死胎、死产、宫内生长迟缓、发育异常、新生儿和婴幼儿期死亡等。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "不良结局路径",
+   "en": "adverse outcome pathway, AOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物作用于机体时引起的分子起始事件和最终有害结局之间相对完整的证据链条。包括在分子、细胞、组织、器官等不同生物结构水平依次发生的关键事件及相邻关键事件的上下游关系。"
+  },
+  {
+   "cn": "基于健康结局方法",
+   "en": "health outcome-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算由特定健康结局导致的疾病负担的方法。"
+  },
+  {
+   "cn": "患者报告结果",
+   "en": "patient-reported outcomes, PROs",
+   "source": "社会医学名词",
+   "wordNumber": "5.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "患者报告结果",
+   "publishYear": "2025",
+   "definition": "直接来自于患者的与健康状况和治疗有关的感受。"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

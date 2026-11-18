@@ -1,0 +1,772 @@
+{
+ "key": "categorial information theory",
+ "term": "categorial information theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:52:34+00:00",
+ "status": "ok",
+ "note": "variant=categorial information theory; 审定公布名词库=5411; 海峡两岸名词对照库=1364; 其他来源数据库=740; 预公布名词数据库=375; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "范畴论",
+   "en": "category theory",
+   "source": "数学名词",
+   "wordNumber": "04.1555",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "社会分类论",
+   "en": "social categories theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.058",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "认为受众具有性别、年龄、文化程度、收入职业、民族、种族等方面人口学特征。相似的人口学特征有时可能会导致相近的媒介接受行为，不同人口学特征的个体也可能具有不一样的媒介接受行为。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.678",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "起源于电子通信领域，将通信中的原始信息量化为物理量，为探究编码、存储、传输、解码、接收等信息传播过程提供了一种量化研究的方法。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.093",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "在人们需要决策之际，影响他们行为选择概率的物质—能量的形式。信息不是单纯的物理信号，而是适用于自然界和社会所有领域的一个普遍概念。由美国数学家、信息论的创始人香农提出。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory ",
+   "source": "草学名词",
+   "wordNumber": "3.0311",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "经济学名词",
+   "wordNumber": "10.184",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "研究信息的产生、获取、变换、传输、存储、处理及识别利用的学科。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "物理学名词",
+   "wordNumber": "05.1115",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "语言学名词",
+   "wordNumber": "11.011",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "关于信息的本质和传输规律的科学理论。研究信息的计量、发送、传递、交换、接收和储存等。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "应用数理统计方法研究信息处理和传递的理论。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "地理学名词",
+   "wordNumber": "25.041",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "关于信息量度量和信息编码、信号处理和分析的科学理论。"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "数学名词",
+   "wordNumber": "012.0001",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "电子学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.565",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "将认知看作对来自主体内部状态或外部环境中的信息的接收、编码、储存、提取、使用过程的认知研究范式与理论。"
+  },
+  {
+   "cn": "经济信息论",
+   "en": "economic information theory",
+   "source": "经济学名词",
+   "wordNumber": "10.178",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "研究经济信息的产生、获取、变换、传输、存贮、处理及应用的学科。从信息方面来研究经济过程，主要研究经济符号、经济信息的编码和传递、经济信息流的合理化、经济信息的效益评价、经济信息系统模型，离散数学及其各"
+  },
+  {
+   "cn": "信息构建理论",
+   "en": "information architecture theory",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.203",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "信息系统内组织、导航、标识和搜索体系设计的总和，旨在帮助人们有效地管理信息以及快速地查找信息。其准则可以表述为“使信息可被理解”和“按表达预定意图的方式传递信息”。"
+  },
+  {
+   "cn": "信息不对称理论",
+   "en": "asymmetric information theory",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.202",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "信息经济学的一个重要理论。在商业活动中，交易双方对于他们面临的选择有关经济变量所拥有的信息并不完全相同。掌握信息比较充分的人员，往往处于比较有利的地位，而信息贫乏的人员，则处于比较不利的地位。在信息服"
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "心理学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "把人的认知过程看作是信息接受、编码、储存和提取过程，通过人机类比来研究认知的理论。"
+  },
+  {
+   "cn": "地图信息论",
+   "en": "cartographic information theory",
+   "source": "地理学名词",
+   "wordNumber": "27.162",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "研究地图图形显示、转换、传递、存储、处理和利用空间信息的理论。"
+  },
+  {
+   "cn": "过剩信息学说",
+   "en": "redundant information theory",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.029",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[分类]阶元",
+   "en": "category",
+   "source": "动物学名词",
+   "wordNumber": "2.0021",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "由各分类单元按等级排列的阶梯式系统。有7个主要级别，由高到低依次为：界、门、纲、目、科、属、种。有时，为了更精确地表达种的分类地位，可将原有的阶元进一步细分，常在原有阶元名称之前或之后加上总（supe"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息整合理论",
+   "en": "information integration theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地图信息论",
+   "en": "cartographic information theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶元",
+   "en": "category",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category\",\"taxonomic category",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多用户信息论",
+   "en": "multiple user information theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "采用者类别",
+   "en": "adopter categories",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新闻群种类",
+   "en": "newsgroups categories",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类，类别",
+   "en": "category\",\"class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据类别",
+   "en": "data category",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组件目录",
+   "en": "component category",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地类",
+   "en": "land category",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴论",
+   "en": "category theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类",
+   "en": "Category",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种类",
+   "en": "category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无差别级",
+   "en": "all categories\",\"open category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组别",
+   "en": "competition category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "Category A infectious diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "Category B infectious diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四类规定动作",
+   "en": "Category IV of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "马克思主义",
+   "wordNumber": "01.0204",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德最早对范畴做了系统研究，康德、黑格尔均对范畴作重要论述。马克思主义哲学中，范畴是反映客观事物的本质属性和普遍联系的思维形式。它具有高度概括性、结构稳定性特点。"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有高度概括性和广泛适用性的基本概念。"
+  },
+  {
+   "cn": "类别匹配",
+   "en": "category matching",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "要求某因素的分布或特征在病例组/研究组和对照组之间相同或相似的匹配。比如都在某一年龄段内，或均属于某一职业组别。"
+  },
+  {
+   "cn": "经济范畴",
+   "en": "economic category",
+   "source": "马克思主义",
+   "wordNumber": "02.0151",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指人们在社会实践所取得的大量社会经济材料的基础上，经过抽象思维，从现象深入到本质，由感性认识上升为理性认识而形成的逻辑概念，是一定社会生产关系的理论表现。"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某种特定疾病病例按不同类别危害因素导致的病例分类溯源分析。"
+  },
+  {
+   "cn": "医院分类",
+   "en": "categories of hospitals",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "生产类别分类目录",
+   "en": "catalogue of production categories",
+   "source": "消毒学",
+   "wordNumber": "5.1.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "《消毒产品生产企业卫生许可规定》中明确规定的消毒产品分类目录。"
+  },
+  {
+   "cn": "主诊断分类",
+   "en": "major diagnostic categories，MDCs",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "主要诊断按解剖系统及其他大类目进行的分类。"
+  },
+  {
+   "cn": "经济范畴人格化",
+   "en": "economic category is personified",
+   "source": "马克思主义",
+   "wordNumber": "02.0152",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把一定经济关系中的人看做是一定的阶级关系和利益的承担者。也就是说，不是把人看作抽象的人，而是把人看作体现一定经济关系的经济范畴的化身。马克思指出，《资本论》中涉及到的人只是经济范畴的人格化，是一定的阶"
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "category A infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》规定需强制管理的一类传染病，包括鼠疫和霍乱。"
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "category B infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定，需严格管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "丙类传染病",
+   "en": "category C infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定的监测管理方法进行管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "心理咨询类别",
+   "en": "category of psychological counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询的种类。主要包括门诊心理咨询、信函咨询、电话心理咨询、线上心理咨询、专题心理咨询和现场心理咨询。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

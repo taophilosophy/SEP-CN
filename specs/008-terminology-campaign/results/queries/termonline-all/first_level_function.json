@@ -1,0 +1,802 @@
+{
+ "key": "first-level function",
+ "term": "first-level function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:55:18+00:00",
+ "status": "ok",
+ "note": "variant=first-level function; 审定公布名词库=5047; 海峡两岸名词对照库=1320; 其他来源数据库=215; 预公布名词数据库=245; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "职能[层]战略",
+   "en": "functional-level strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0677",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "在公司层战略的指导下，为了保证公司层战略和业务层战略的贯彻实施而在企业特定管理领域由中层管理人员参与制定的具体战略。"
+  },
+  {
+   "cn": "基层首诊",
+   "en": "first visit at the grassroots level",
+   "source": "行为医学名词",
+   "wordNumber": "9.077",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "坚持自愿的原则，通过政策引导，鼓励常见病、多发病患者首先到基层医疗卫生机构就诊。"
+  },
+  {
+   "cn": "鼠疫疫情Ⅰ级预警",
+   "en": "first level of plague early-warning",
+   "source": "地方病学名词",
+   "wordNumber": "07.305",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "发生特别重大鼠疫疫情(Ⅰ级疫情)和重大鼠疫疫情(Ⅱ级疫情)时的预警级别。"
+  },
+  {
+   "cn": "初动",
+   "en": "first motion,first movement",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "初至",
+   "en": "first arrival;first break",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0851",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "某一震相开始出现在地震图上，称为该震相或波的初至。 "
+  },
+  {
+   "cn": "先进先出",
+   "en": "first in first out",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0509",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "先入库的材料先发出，发完该批再发第二批的规则。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "风景园林名词",
+   "wordNumber": "08.0018",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "根据水准测量原理测量地面两点间高差的仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "地球物理学_地球重力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "根据水准测量原理，建立水平视线测定地面两点间高差的仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "光学名词",
+   "wordNumber": "19.015",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "测量地面上两点间高度差的光学仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "测绘学名词",
+   "wordNumber": "02.421",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "根据水准测量原理测量地面两点间高差的仪器。"
+  },
+  {
+   "cn": "阶段",
+   "en": "level",
+   "source": "冶金学名词",
+   "wordNumber": "02.0730",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "沿矿体的垂直方向按一定高度将矿体划分成具有走向全长的矿段。该矿段的下端水平层称为阶段水平，一般担负运输、通风、排水等功能。"
+  },
+  {
+   "cn": "级别",
+   "en": "level",
+   "source": "物理学名词",
+   "wordNumber": "01.0300",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "level",
+   "source": "计量学名词",
+   "wordNumber": "08.021",
+   "subjectFullName": "计量学_声学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "声学中一个量与同类基准量之比的对数。"
+  },
+  {
+   "cn": "级",
+   "en": "level",
+   "source": "建筑学名词",
+   "wordNumber": "10.0192",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "在声学中一个量与同类基准量之比的对数。"
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.320",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "一个时间变量，如功率或场量，在特定的时间间隔内以特定方式计算的均值或加权值。其单位可以用相对于基准值的对数形式表示，例如“分贝”。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.234",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_水准仪",
+   "subjectName": "水准仪",
+   "publishYear": "2003",
+   "definition": "测量地面两点间高差的仪器。一般由望远镜、管状水准器或补偿器、竖轴、基座等组成。"
+  },
+  {
+   "cn": "水平仪",
+   "en": "level",
+   "source": "土木工程名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测检测仪器",
+   "subjectName": "土木工程检测检测仪器",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0030",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "水平",
+   "en": "level",
+   "source": "数学名词",
+   "wordNumber": "09.0717",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "电子学名词",
+   "wordNumber": "03.289",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一等水准测量",
+   "en": "first order leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "水准",
+   "en": "level",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "层次",
+   "en": "level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "levelling instrument，level",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "流平性",
+   "en": "leveling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "水准测量",
+   "en": "leveling",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "水准",
+   "en": "leveling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "置平",
+   "en": "leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "初估值",
+   "en": "first guess",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初霜",
+   "en": "first frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霜降",
+   "en": "First Frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一转位",
+   "en": "first inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一主题",
+   "en": "first subject",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上弦",
+   "en": "first quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "第一抵押",
+   "en": "first mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half\",\"first period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举枪瞄准",
+   "en": "level",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一回合!",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一节",
+   "en": "first quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一局！",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一腾空",
+   "en": "first flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试跳（投、掷）",
+   "en": "first trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一垒手",
+   "en": "first baseman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试举",
+   "en": "first attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一裁判员",
+   "en": "first referee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一语言",
+   "en": "first language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0181",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第二语言”相对。人在幼儿时期最早自然习得的语言，通常是母语。第一语言强调的是最早习得的语言，母语强调的是认同的所属族群的语言，所以二者也可以不一致。"
+  },
+  {
+   "cn": "最初响应人员",
+   "en": "first responder",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "第一批在核或辐射紧急情况下在现场做出响应的应急救援人员。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention first",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.006",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "主动采取积极行动将卫生健康服务的重心由治疗转向预防，促进疾病的早发现、早报告、早诊断、早治疗，以提高医疗卫生资源的使用效率，维护和改善人民健康的卫生策略。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "安静水平",
+   "en": "quiet level",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船的噪声强度控制到使舰员感到安静的水平，以保证舰员清晰的语言交谈，最好控制在低于56dBA。"
+  },
+  {
+   "cn": "消毒水平",
+   "en": "disinfection level",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过消毒处理所体现出对微生物杀灭能力的强度。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。达到或超过这一数值时应进行调查。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  },
+  {
+   "cn": "解控水平",
+   "en": "clearance level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.4",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度表示的值，在等于或低于该值时，在已通知或授权实践中的辐射源可以解除监管控制。"
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为对核或辐射紧急情况的应急准备和响应进行优化而建立的一种分类方案，以求与威胁评估中所确立的危险的可能大小和性质相适应。威胁分为五种类型，I类到Ⅲ类按威胁水平逐次降低，Ⅳ类是在任何地区都可能存在的威胁和"
+  },
+  {
+   "cn": "行动水平",
+   "en": "action level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "在持续照射情况或应急照射情况下，应考虑采取补救行动或防护行动的剂量率水平或活度浓度水平。"
+  },
+  {
+   "cn": "测量层次",
+   "en": "measurement level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "社会测量中由对测量对象数量化程度的高低决定的测量水平。依数量化程度由低到高的顺序，可将测量分为定类测量、定序测量、定距测量和定比测量4个层次。"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significant level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在统计假设检验中，用样本资料推断总体时，犯拒绝虚无假设错误的可能性大小。通常以表示，是一个临界概率值；越小，犯拒绝虚无假设的错误可能性越小。"
+  },
+  {
+   "cn": "统筹层次",
+   "en": "pooling level",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.5",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "统筹的层级和覆盖人群的规模，即在多大程度和范围对参保人分散风险、基金共济以及提供相关服务，常以相应的行政管理层为参照。由于我国各地发展水平有差异，各类社会保险项目并未实现全国统筹，常见的有省级和县、市"
+  },
+  {
+   "cn": "生育水平",
+   "en": "fertility level",
+   "source": "社会学名词",
+   "wordNumber": "4.5.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_育龄妇女",
+   "subjectName": "育龄妇女",
+   "publishYear": "2025",
+   "definition": "某一特定时点育龄妇女平均生育的孩子数。通常用平均生育率来表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

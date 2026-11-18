@@ -1,0 +1,812 @@
+{
+ "key": "following inference",
+ "term": "following inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:49:18+00:00",
+ "status": "ok",
+ "note": "variant=following inference; 审定公布名词库=1298; 海峡两岸名词对照库=368; 其他来源数据库=93; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "被领导者",
+   "en": "follower",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.112",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "在组织共同活动中处于被管理地位的人员。是执行决策方案、命令、任务，实现组织传播目标的具体执行者。"
+  },
+  {
+   "cn": "从板",
+   "en": "follower",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0573",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从物理系统、生命系统的结构描述出发，导出行为描述，以便预测系统行为并给出原因解释。"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "按照由条件推出结论的方向进行的推理方式，它从一组事实出发，使用一定的推理规则，来证明目标事实或命题的成立。"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "既自顶向下，又自底向上的推理，直至某个中间界面上两方向结果相符便成功结束。"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "source": "行为医学名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "不经严格推理，在缺乏事实依据的情况下，草率地得出结论。"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "经济学名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "根据带随机性的观测数据（样本）以及问题的条件和假定（模型），而对未知事物做出的、以概率形式表述的推断。"
+  },
+  {
+   "cn": "推理方法",
+   "en": "inference method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0070",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从已知条件，通过推理规则获得新知识的各种逻辑方法。"
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0104",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "通过问题领域或者结构的启发式知识指导推导的过程。"
+  },
+  {
+   "cn": "推理机",
+   "en": "inference engine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0069",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "计算机推理程序。在一定的推理机制下，根据知识库中的知识和动态数据库中的实时数据进行推理判断，同时把中间结果送入动态数据库，直到达到预期目标。"
+  },
+  {
+   "cn": "推理攻击",
+   "en": "inference attack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0344",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "从非敏感的数据推理得出敏感信息的攻击。包括直接攻击、间接攻击和统计推理攻击等。"
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistical inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "根据统计数据建立推理通道，推导出隐含数据的推理方法。"
+  },
+  {
+   "cn": "推理控制",
+   "en": "inference control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0233",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对推理通道的控制，防止非法访问通过推理通道变成合法访问。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性推理",
+   "en": "uncertain inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多路推理",
+   "en": "multiline inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟推理",
+   "en": "analogical inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理步",
+   "en": "inference step",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理策略",
+   "en": "inference strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的跟随者",
+   "en": "authorized follower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“回头看，，",
+   "en": "follow-up checks",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随球",
+   "en": "follow the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随行车",
+   "en": "escort car\",\"following van",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按规定路线进行比赛",
+   "en": "follow the prescribed course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "  随访和复诊",
+   "en": "follow-up and subsequent visits",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "继足",
+   "en": "follow-foot stepping\",\"tsugi-ashi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "follow a wheel\",\"take shelter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "follow a wheel\",\"take shelter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "克己复礼",
+   "en": "Restrain Yourself and Follow Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法后王",
+   "en": "Follow the Examples of Recent Kings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "榜样学习",
+   "en": "following example",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学习、崇敬和模仿某种理想人格，指导支配自身的言行。榜样一般由社会主流文化提倡或塑造，符合某种政治要求、道德标准和社会效益。"
+  },
+  {
+   "cn": "健康随访",
+   "en": "health follow-up",
+   "source": "社会医学名词",
+   "wordNumber": "7.13",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康随访",
+   "publishYear": "2025",
+   "definition": "专业人员对个体或群体的健康状况开展的持续性追踪观察访问，旨在评估健康状况、干预效果及疾病转归，并进行保健指导的一种服务方式。"
+  },
+  {
+   "cn": "后续跟进安排",
+   "en": "follow-up plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结案后社会工作者对于服务对象相关事宜的安排。一般来说，社会工作者要根据实际需要与服务对象讨论结案后的跟进事宜，并选择适合服务对象的跟进方式。"
+  },
+  {
+   "cn": "医学随访",
+   "en": "medical follow-up observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.24",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "以发现电离辐射远后效应为目的，对受到超剂量限值照射者和意外辐射事故照射者进行系统的长期医学追踪观察。"
+  },
+  {
+   "cn": "失访",
+   "en": "lost to follow-up",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "随访期间，研究对象由于迁走、不愿继续参与研究、死于其他疾病或意外等原因脱离了观察，导致其结局资料缺失的现象。"
+  },
+  {
+   "cn": "标准跟踪评价",
+   "en": "standard follow-up evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.43",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "了解食品安全标准实施情况、听取各方意见建议并进行分析和研究,提出标准实施和标准修订相关建议的过程。"
+  },
+  {
+   "cn": "预防接种不良反应",
+   "en": "adverse events following immunization,AEFI",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.5.2.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "在预防接种后发生的怀疑与预防接种有关的反应或事件。"
+  },
+  {
+   "cn": "氡跟踪测量",
+   "en": "follow-up measurement of radon",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "一种对筛选测量中发现的可能超标的房屋进行的验证式的氡浓度测量程序，以确定被测房屋的氡浓度是否符合国家标准规定的水平，为可能进行的干预和治理提供依据。"
+  },
+  {
+   "cn": "早产儿随访管理",
+   "en": "follow-up management of preterm infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.7.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "对早产儿开展的儿童保健系统管理，包括体格检查、生长发育监测、预见性指导和其它综合干预技术。"
+  },
+  {
+   "cn": "体内污染者医学随访",
+   "en": "medical follow up for the internal-contaminated person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.42",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对受到放射性核素内污染量大于5个年摄入量限值的工作人员，除采取有关的治疗措施外，需要进行长期医学随访观察，以便更早发现或预防可能的远期健康危害。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "流动浸泡消毒",
+   "en": "flowing immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "用流动的消毒液对污染物品进行浸泡的处理。"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

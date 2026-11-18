@@ -1,0 +1,442 @@
+{
+ "key": "assertion",
+ "term": "assertion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:54:14+00:00",
+ "status": "ok",
+ "note": "variant=assertion; 审定公布名词库=118; 海峡两岸名词对照库=50; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "断定一个特定前提为真的陈述。"
+  },
+  {
+   "cn": "论断",
+   "en": "assertion",
+   "source": "数学名词",
+   "wordNumber": "01.0011",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "管理层认定",
+   "en": "management assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0411",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "管理层在财务报表中对财务报表组成要素的确认、计量、报告所做出的明确或隐含的表达。"
+  },
+  {
+   "cn": "角色主张",
+   "en": "role assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0943",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "创业者基于公司利益至上的思想，以新创企业的名义所做出的对公司有利的不道德的事。"
+  },
+  {
+   "cn": "决断力训练",
+   "en": "assertiveness training",
+   "source": "精神医学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "一种用于增强社交技能的行为治疗方法。运用人际关系的情景，训练受检者正确地和适当地与他人交往，顺畅自如地表达自己的情绪、情感，主张自己的权益，实现自己的目的，有勇气拒绝别人的不合理要求。"
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training",
+   "source": "心理学名词",
+   "wordNumber": "15.039",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "帮助退缩或被动的人学习以适时、适当的方式表达他们所想、所需的一种训练方法。"
+  },
+  {
+   "cn": "安全断言置标语言",
+   "en": "security assertion markup language,SAML",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.051",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "一种实现Web服务安全产品之间互操作，保证端到端、机构内部以及从企业到企业的安全性的建议标准。"
+  },
+  {
+   "cn": "消费资本资产定价模型",
+   "en": "consumption-based capital assert pricing model,consumption-based CAPM,CCAPM",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0092",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资者在最优化其跨期消费的总效用实现均衡时，所用的资本资产定价模型。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0194",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "DNA或RNA的一种突变形式。其多核苷酸链内参入了一个或多个额外核苷酸。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "血液学名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "一条染色体发生两次断裂，两个断裂点之间的片段插入到另一条染色体短臂或长臂中间的过程。插入片段可以在新的位置保持原始方向，也可以保持相反的方向。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "药学名词",
+   "wordNumber": "05.354",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "(1)DNA或RNA的一种突变形式，在多核苷酸链内插入了一个或多个额外核苷酸的过程。(2)在DNA或RNA链中增加一个或多个额外核苷酸的过程。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "遗传学名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "在DNA或RNA链中增加一个或多个额外核苷酸的过程。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.207",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "增音",
+   "en": "epenthesis,insertion",
+   "source": "语言学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "一种语流音变现象。在语流中增添一些语音串里原来没有的音素。例如北京话中，“是啊”“唱啊”“好啊”有时读为［şƪτa］［tş‘ɑŋŋa］［xɑu wa］，各自增加了［τ］［ŋ］［w］。"
+  },
+  {
+   "cn": "星点",
+   "en": "asterion",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0898",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "人字缝、枕乳突缝和顶乳突缝的交点。若此处有缝间骨存在，则以3缝之主轴的交点为星点。"
+  },
+  {
+   "cn": "季节演替",
+   "en": "seasonal succession,aspection",
+   "source": "生态学名词",
+   "wordNumber": "06.147",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "群落结构和外貌随着季节的更迭依次出现的改变。"
+  },
+  {
+   "cn": "插入突变",
+   "en": "insertion mutation",
+   "source": "农学名词",
+   "wordNumber": "06.479",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "因外源核苷酸序列插入而引发的突变。"
+  },
+  {
+   "cn": "插入电位",
+   "en": "insertion potential",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.44.2",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "肌肉完全松弛状态下，针电极插入肌肉或在肌肉中移动时所引起的电活动。"
+  },
+  {
+   "cn": "插入型载体",
+   "en": "insertion vector",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0731",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一类可以容纳一定长度外源DNA片段的噬菌体载体。在克隆时无需去除与插入体大小相当的片段。"
+  },
+  {
+   "cn": "接头插入",
+   "en": "linker insertion",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0817",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一种易于控制并具有更大破坏性的克隆基因随机突变所使用的技术。即通过在靶基因的不同位点具有单切口的质粒库，在切口处连入带有某种限制性内切酶位点的大小为6～12个核苷酸（可编码2～4个氨基酸）的接头，从而"
+  },
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言",
+   "en": "inductive assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输出断言",
+   "en": "output assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入断言",
+   "en": "input assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言法",
+   "en": "inductive assertion method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training\",\"self confidence trai ning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "星点",
+   "en": "asterion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "帆状附着",
+   "en": "velamentous insertion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "插入突变",
+   "en": "insertion mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "插入位点",
+   "en": "insertion site",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "插入反应",
+   "en": "insertion reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "插入聚合",
+   "en": "insertion polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "跨环插入",
+   "en": "transannular insertion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "迁移插入[反应]",
+   "en": "migratory insertion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定向插入,同向插入",
+   "en": "direct insertion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入突变",
+   "en": "insertion mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入[型]载体",
+   "en": "insertion vector",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无为者帝",
+   "en": "Taking a Non-assertive Action Makes a Good Emperor.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放置后出血",
+   "en": "bleeding after insertion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "放置节育器后，由于节育器本身原因或使用者合并其他妇科疾病出现经期延长、经量增多、点滴出血、不规则出血、下腹疼痛、阴道分泌物增多等临床表现，常见于放置后最初3-6个月。"
+  },
+  {
+   "cn": "放置宫内节育器并发症",
+   "en": "complications of intrauterine contraceptive device insertion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "放置宫内节育器手术中或手术后，因为宫内节育器本身原因、手术操作或使用者自身原因，发生的感染、子宫及邻近脏器损伤等医学问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

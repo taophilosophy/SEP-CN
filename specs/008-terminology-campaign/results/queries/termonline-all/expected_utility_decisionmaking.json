@@ -1,0 +1,772 @@
+{
+ "key": "expected utility decisionmaking",
+ "term": "Expected Utility Decisionmaking",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:55:47+00:00",
+ "status": "ok",
+ "note": "variant=Expected Utility Decisionmaking; 审定公布名词库=861; 海峡两岸名词对照库=147; 其他来源数据库=33; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "期望效用",
+   "en": "expected utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0004",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体在不确定条件下可能获得的各种结果的效用的依概率的加权平均数。"
+  },
+  {
+   "cn": "期望效用理论",
+   "en": "expected utility theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0269",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "20世纪50年代，冯·诺伊曼(John von Neumann)和摩根斯坦(Oskar Morgenstern)在公理化假设，即效用关系的完备性、传递性与替换性、决策者偏好的一致性等的基础上，运用逻辑"
+  },
+  {
+   "cn": "主观期望效用理论",
+   "en": "subjective expected utility theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0158",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "以主观期望效用值做出期望效用判断的决策模型。"
+  },
+  {
+   "cn": "参与式决策法",
+   "en": "participatory decisionmaking",
+   "source": "城乡规划学名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "城乡规划学_城乡规划技术科学_城乡规划分析与优化技术",
+   "subjectName": "城乡规划分析与优化技术",
+   "publishYear": "2021",
+   "definition": "群体或利益相关者参与公共政策制订及决策过程的规划方法。"
+  },
+  {
+   "cn": "定性决策",
+   "en": "qualitative decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0313",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "目标和方案无法用数量表示，只能作定性的描述或抽象的表达的决策。"
+  },
+  {
+   "cn": "智能决策",
+   "en": "intelligent decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0315",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "利用人类的知识并借助计算机通过人工智能方法来解决复杂的决策问题的决策。"
+  },
+  {
+   "cn": "结构化决策",
+   "en": "structured decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0306",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "针对结构化问题所进行的决策活动。"
+  },
+  {
+   "cn": "定量决策",
+   "en": "quantitative decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0314",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "目标和方案都可以用数量的形式表示，运用数学模型来辅助决策者寻找最优决策方案的决策。"
+  },
+  {
+   "cn": "多特征决策",
+   "en": "multiattribute decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0150",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "在做出决策判断时对多方案多特征的信息进行整合加工而形成的不同决策模式。"
+  },
+  {
+   "cn": "分布式决策",
+   "en": "distributed decisionmaking",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0310",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "决策过程必需的信息资源或某些重要的决策因素分散在较大的空间范围的决策。"
+  },
+  {
+   "cn": "预期",
+   "en": "expectation",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "对事物未来发展变化趋势的预先设想。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectancy",
+   "source": "心理学名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "主观上希望某一特定事件发生的心理倾向。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.411",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "(1)对以概率<img src='/root/syzx/static/spz/fangshefanghu1.04.411.1.png'/>取值<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "语言学名词",
+   "wordNumber": "11.155",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "随机变量的一种数字特征。描述了随机变量的平均值，是随机变量按其取值概率的加权平均。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "经济学名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。效用表明的是商品与个人愉悦或痛苦程度之间的关系，它在很大程度上是个人福利的同义词。"
+  },
+  {
+   "cn": "公用工程",
+   "en": "utility",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.084",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "维持化工装置正常运行的辅助设施的总称。主要包括给水排水、供气（汽）、供电、供暖、制冷等。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0197",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在有风险的情况下，为使决策者所作的决策符合其价值，达到预期的最优效果，对各种决策后果(包括决策者对后果的偏爱)进行量化赋以某种数值的一种度量。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "药学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "消费者在消费商品时所感受到的满足程度。"
+  },
+  {
+   "cn": "利用率",
+   "en": "utilance",
+   "source": "电气工程名词",
+   "wordNumber": "22.277",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "期望杂合度",
+   "en": "expected heterozygosity",
+   "source": "畜牧学名词",
+   "wordNumber": "04.314",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "在群体处于哈迪-温伯格平衡的假设下根据基因频率计算的杂合度。"
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公用设施",
+   "en": "utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序",
+   "en": "utility program\",\"utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "utilities",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利用",
+   "en": "utilization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预期收益",
+   "en": "expected yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "期望价值",
+   "en": "expectancy value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会期望",
+   "en": "social expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望理论",
+   "en": "expectancy theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望， 估计寿命",
+   "en": "life expectance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人口预期寿命",
+   "en": "life expectance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望值",
+   "en": "life expectancy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "公用服务事业",
+   "en": "utility service",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "common utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "期望[值]",
+   "en": "expectation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预期价值",
+   "en": "expected value (EV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectation maximization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人数据利用",
+   "en": "personal data utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制利用",
+   "en": "limitations in the utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法利用信息网络罪",
+   "en": "crime of illegally utilizing information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制天命而用之",
+   "en": "Grasp and Utilize the Endowments of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳就业、稳金融、稳外贸、稳外资、 稳投资、稳预期",
+   "en": "stabilizing the employment, the financial market, foreign trade, foreign investment, domestic investment, and expectations",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "预期效用理论",
+   "en": "expected utility theory",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "决策者在面对风险或不确定的前景时，基于期望效用最大化原则，通过比较期望效用值来做出期望效用最大化的决策行为。"
+  },
+  {
+   "cn": "医疗决策权",
+   "en": "medical decisionmaking right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0089999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在注册的执业范围内根据诊查结果，针对患者病情依法享有的制定合理的医疗、预防、保健方案的权利。医师应在与患者或其家属充分沟通的基础上，获得患者或其家属对医疗方案的知情同意。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "期望频次",
+   "en": "expected ffrequency",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.110",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生的平均次数。"
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会或群体对处于一定角色位置的个体所应表现出来的行为的一种期待。这种角色的行为是被社会规范化了的行为，是社会对个体的制约，亦是社会整合的必要前提。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.23",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "期望寿命",
+   "publishYear": "2025",
+   "definition": "在一定的年龄别死亡率水平下，同时出生的一代人活到某一岁数时，尚能生存的平均年数。反映居民健康水平和社会经济发展水平及医疗卫生服务水平。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据一个国家或地区的某一人群的年龄组死亡率，通过寿命表计算某一年龄的人能够存活的平均年数。"
+  },
+  {
+   "cn": "角色期望",
+   "en": "role expectation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "群体或社会对病患角色行为所持有的期待和要求。"
+  },
+  {
+   "cn": "企业自主权",
+   "en": "decisionmaking power of enterprise",
+   "source": "马克思主义",
+   "wordNumber": "02.0403",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "企业享有的自主经营的权利。落实企业自主权，使其成为自主经营、自负盈亏、自我发展、自我约束的法人和市场竞争主体，是深化企业改革，增强企业活力的重要内容。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "健康效用",
+   "en": "health utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "人们对特定健康水平或生命质量的满意或偏好程度。"
+  },
+  {
+   "cn": "党内民主决策机制",
+   "en": "system of intraParty democratic decisionmaking",
+   "source": "马克思主义",
+   "wordNumber": "03.0737",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为规范党组织决策行为，通过预定的程序、规则和方式，确保决策能广泛吸取各方意见、集中各方智慧、符合本地区本部门实际、反映事物发展规律的制度设计和程序安排。它是由制度设计、程序设定、规则设立、机构设置有机"
+  },
+  {
+   "cn": "健康预期寿命",
+   "en": "active life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "衡量一个人处于健康状态的预期存活年数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,22 @@
+{
+ "key": "speciesism",
+ "term": "speciesism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:54:59+00:00",
+ "status": "ok",
+ "note": "variant=speciesism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "物种主义",
+   "en": "speciesism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.15",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "那些因为非人类物种被认为是劣于人类的物种而遭受歧视的行为，与歧视女性和不同肤色人种的性别主义和种族主义很相似。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

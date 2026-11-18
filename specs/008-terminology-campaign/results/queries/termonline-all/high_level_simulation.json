@@ -1,0 +1,752 @@
+{
+ "key": "high-level simulation",
+ "term": "high-level simulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:01:53+00:00",
+ "status": "ok",
+ "note": "variant=high-level simulation; 审定公布名词库=4151; 海峡两岸名词对照库=1148; 其他来源数据库=160; 预公布名词数据库=246; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "快速仿真",
+   "en": "high speed simulation",
+   "source": "自动化名词",
+   "wordNumber": "04.635",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "高水平消毒",
+   "en": "high level disinfection",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.021",
+   "subjectFullName": "消化内镜学_消化内镜洗消_清洗消毒",
+   "subjectName": "清洗消毒",
+   "publishYear": "2021",
+   "definition": "能达到杀灭一切细菌繁殖体、分枝杆菌、病毒、真菌及其孢子和绝大多数细菌芽孢标准的消毒处理标准。"
+  },
+  {
+   "cn": "高水平消毒剂",
+   "en": "high level disinfectant",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "消化内镜学_消化内镜洗消_清洗消毒",
+   "subjectName": "清洗消毒",
+   "publishYear": "2021",
+   "definition": "能杀灭一切细菌繁殖体、分枝杆菌、病毒、真菌及其孢子等，达到高水平消毒要求的消毒剂。对致病性细菌芽孢也有一定的杀灭作用。如戊二醛、邻苯二甲醛、过氧乙酸等。"
+  },
+  {
+   "cn": "高级语言",
+   "en": "high level language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0032",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "易被人们所理解的独立于某类计算机的程序设计语言。"
+  },
+  {
+   "cn": "高级语言",
+   "en": "high-level language",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "使用类似人类语言的指令编写程序的计算机语言。"
+  },
+  {
+   "cn": "增强透视",
+   "en": "high level fluoroscopy,HLF",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "增加X射线的量，提高透视强度，降低噪声，提高影像质量的一种透视方式。主要用于体厚部位及心脏等部位的检查，其透视量与一般的透视相比，X 射线剂量将增加2倍。"
+  },
+  {
+   "cn": "锅炉满水",
+   "en": "high drum water level",
+   "source": "电力名词",
+   "wordNumber": "09.542",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "运行中锅筒内水位超过最高允许水位的故障。"
+  },
+  {
+   "cn": "高放废物",
+   "en": "high level radioactive waste",
+   "source": "电力名词",
+   "wordNumber": "17.909",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "活度浓度>4×<img src='/root/syzx/static/spz/dianli3.17.909.01.png'/>Bq/L的放射性废液,活度浓度>4×<img src='/root/syz"
+  },
+  {
+   "cn": "高级语言计算机",
+   "en": "high level language computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0042",
+   "subjectFullName": "计算机科学技术_通论_计算机系统类型",
+   "subjectName": "计算机系统类型",
+   "publishYear": "2018",
+   "definition": "把高级程序设计语言的语句作为基本指令，可由硬件直接执行高级语言程序的计算机。"
+  },
+  {
+   "cn": "高级佩特里网",
+   "en": "high level Petri net",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0658",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "包括着色佩特里网和谓词/变迁系统。这类网系统的特点是通过折叠来减少网的网元，压缩网的规模。"
+  },
+  {
+   "cn": "高放废物",
+   "en": "high level radioactive waste",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "放射性核素的含量或浓度高，热释量大，操作和运输过程中需要特殊屏蔽的放射性废物。"
+  },
+  {
+   "cn": "线侧上式站房",
+   "en": "high level station building",
+   "source": "建筑学名词",
+   "wordNumber": "02.0713",
+   "subjectFullName": "建筑学_建筑类型及组成_交通建筑",
+   "subjectName": "交通建筑",
+   "publishYear": "2014",
+   "definition": "与车站广场毗连的一层地面标高高于站台面标高，而且其高差相差较大的线侧式站房。"
+  },
+  {
+   "cn": "高放射性废物",
+   "en": "high-level radioactive waste",
+   "source": "生态学名词",
+   "wordNumber": "14.056",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "含有辐照核燃料后处理过程分离出的绝大部分高放射裂变产物、若干锕系元素等放射性废物及其固化体。"
+  },
+  {
+   "cn": "高水位桥",
+   "en": "high water level bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.172",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "高水平呼气末正压",
+   "en": "high level positive end-expiratory pressure,high level PEEP",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.363",
+   "subjectFullName": "呼吸病学_机械通气_机械通气策略",
+   "subjectName": "机械通气策略",
+   "publishYear": "2018",
+   "definition": "超过15cm<img src='/root/syzx/static/spz/huxibing1.10.161.01.png'/>的呼气未正压。常对循环功能产生显著影响，并明显增加机械通气相关性肺损伤的"
+  },
+  {
+   "cn": "高放废物",
+   "en": "high-level [radioactive] waste,high-level [nuclear] waste,HLW",
+   "source": "化学名词",
+   "wordNumber": "06.0626",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "放射性核素的含量高，释热量大，操作和运输过程需要特殊屏蔽的放射性废物。我国目前的标准是：①高放废液，放射性浓度大于4×<img src='/root/syzx/static/spz/huaxue2.0"
+  },
+  {
+   "cn": "四重式多辊矫直机",
+   "en": "four high roller leveler",
+   "source": "冶金学名词",
+   "wordNumber": "09.1383",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "具有支撑辊的板材矫直机。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "在模型上做实验，以寻求原型中过程的规律性。模型如果是物理实体，则称为物理模拟；模型如果是数学模型，且模拟是用计算机进行的，则称为数学模拟或数值模拟。"
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "利用模型复现实际系统中发生的本质过程，并通过对系统模型的实验，研究存在的或设计中的系统。"
+  },
+  {
+   "cn": "拟真",
+   "en": "simulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.115",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "象征符号的高度抽象阶段。它不是对本真事物的模仿，也不是工业上的复制生产，而是从符号的编码中复制出来的存在，缺乏现实参考。这一概念由法国哲学家让·鲍德里亚提出。"
+  },
+  {
+   "cn": "高潮面",
+   "en": "high tidal level",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高级语言",
+   "en": "high-level language",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "高水位",
+   "en": "high water level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高层调度",
+   "en": "high-level scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级语言",
+   "en": "high-level language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高放射性废物",
+   "en": "high-level radioactive waste",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "筹集高额资金",
+   "en": "high level of financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清偿能力高",
+   "en": "high level of liquidity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高级佩特里网",
+   "en": "high-level Petri net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "甚高级语言",
+   "en": "very-high level language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模拟,仿真",
+   "en": "simulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器",
+   "en": "simulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仿真器，模拟器",
+   "en": "simulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器，仿真器",
+   "en": "simulator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "高放废物",
+   "en": "high-level [nuclear] waste\",\"HLW",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "随机高级佩特里网",
+   "en": "stochastic high-level Petri net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机高级语言",
+   "en": "high-level computer language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高水平开放",
+   "en": "high-level opening up",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "举枪瞄准",
+   "en": "level",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机模拟",
+   "en": "stochastic simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟仿真技术",
+   "en": "simulation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传高球",
+   "en": "high ball\",\"high pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市规划仿真",
+   "en": "urban planning simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据仿真模型",
+   "en": "data simulation model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "朗道能级",
+   "en": "Landau level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高水平消毒剂",
+   "en": "high level disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有细菌繁殖体包括分枝杆菌、病毒、真菌及其孢子和绝大多数细菌芽孢，达到消毒合格要求的消毒剂。"
+  },
+  {
+   "cn": "高水平消毒",
+   "en": "high level disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "杀灭所有细菌繁殖体包括分枝杆菌、病毒、真菌及其孢子和绝大多数细菌芽孢，达到消毒合格要求所进行的消毒。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "MR模拟定位机",
+   "en": "MR simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.18",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径磁共振扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "食品模拟物",
+   "en": "food simulant",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.57",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能够接近真实地反映食品接触材料及制品中组分向与之接触的食品中的迁移，具有某类食品的典型共性，用于模拟食品进行迁移试验的测试介质。"
+  },
+  {
+   "cn": "模拟样品",
+   "en": "simulated sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.11",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "对真实样品的模仿，能表现其关键特性，对真实样品具有代表性的用于试验的样品。"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在卫生经济学评价中，一种利用计算机技术模拟政策对微观决策单元(如个人、家庭或企业)的影响及其产生的宏观效果,用于预测疾病发病或死亡趋势以及总医疗费用的决策分析模型。"
+  },
+  {
+   "cn": "X射线模拟定位机",
+   "en": "X-ray simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "用于在正式放射治疗前模拟患者治疗状态，获取患者解剖或功能信息的X射线影像设备。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "安静水平",
+   "en": "quiet level",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船的噪声强度控制到使舰员感到安静的水平，以保证舰员清晰的语言交谈，最好控制在低于56dBA。"
+  },
+  {
+   "cn": "消毒水平",
+   "en": "disinfection level",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过消毒处理所体现出对微生物杀灭能力的强度。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。达到或超过这一数值时应进行调查。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

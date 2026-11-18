@@ -1,0 +1,772 @@
+{
+ "key": "higher-order perception",
+ "term": "higher-order perception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:45:58+00:00",
+ "status": "ok",
+ "note": "variant=higher-order perception; 审定公布名词库=3159; 海峡两岸名词对照库=1043; 其他来源数据库=224; 预公布名词数据库=184; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "等级感",
+   "en": "ordered perception",
+   "source": "测绘学名词",
+   "wordNumber": "04.123",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将观察对象区分出几个等级的视觉效果。"
+  },
+  {
+   "cn": "高阶像差",
+   "en": "higher-order aberration",
+   "source": "光学名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "光学相位误差中除去倾斜、离焦、像散等空间频率较低的低阶像差部分外的其他空间频率较高的像差。高阶像差的每阶各包括许多项，其中的每一项又代表不同的内容。例如，高阶像差第三阶包括彗差、三叶草样散光等四项内容"
+  },
+  {
+   "cn": "高阶模",
+   "en": "higher-order mode",
+   "source": "物理学名词",
+   "wordNumber": "04.2088",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "上位功能",
+   "en": "higher order function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0708",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "基本功能存在所要满足的特殊需求。"
+  },
+  {
+   "cn": "高次模",
+   "en": "higher-order mode",
+   "source": "计量学名词",
+   "wordNumber": "11.030",
+   "subjectFullName": "计量学_无线电_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "除基模外的所有色散波型的模式的统称。"
+  },
+  {
+   "cn": "再次条件反射",
+   "en": "higher order conditioning",
+   "source": "心理学名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在经典条件反射中，把一个被习得的条件刺激当作无条件刺激那样用于进一步强化学习的过程。"
+  },
+  {
+   "cn": "高阶差分",
+   "en": "difference of higher order,higher difference",
+   "source": "数学名词",
+   "wordNumber": "010.0200",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶导数",
+   "en": "derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0086",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分",
+   "en": "differential of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高级丁铎尔谱",
+   "en": "higher order Tyndall spectra,HOTS",
+   "source": "化学名词",
+   "wordNumber": "04.1543",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "由被照射的分散体的不同角度的散射光组成的光谱。对于在白光照射下的粒子大小与波长相近的单分散胶体，高级丁铎尔谱常常是彩色谱。"
+  },
+  {
+   "cn": "意识的高阶理论",
+   "en": "higher order theories of consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.570",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种关于意识本质的学说。主张心理状态只有经比它高阶的知觉或思维的表征才是有意识的。"
+  },
+  {
+   "cn": "高阶速度分析",
+   "en": "higher-order velo-city analysis",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0359",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "采用包含偏移距平方项和四次方项计算时差的速度分析。 "
+  },
+  {
+   "cn": "高阶等差数列",
+   "en": "arithmetic progression of higher order",
+   "source": "数学名词",
+   "wordNumber": "04.0140",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶偏导数",
+   "en": "partial derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0099",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分方程",
+   "en": "differential equation of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0038",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶奇点",
+   "en": "singular point of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0094",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.575",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "处在外部环境的有机体，基于环境对感觉器官的刺激，形成的对环境特征的觉知过程。是有机体对外部环境信息的一种提取。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "行为医学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "人体对感觉信息进行加工和解释的过程。是对事物整体属性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生理学名词",
+   "wordNumber": "03.262",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等级感",
+   "en": "ordered perception",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高阶闭合",
+   "en": "higher-order closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高阶光孤子",
+   "en": "higher-order soliton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高阶逻辑",
+   "en": "higher order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触知觉",
+   "en": "tactile perception\",\"haptic perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception\",\"shape perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spatial perception\",\"space perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "高等植物",
+   "en": "higher plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阈下知觉",
+   "en": "subliminal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性知觉",
+   "en": "selective perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小知觉",
+   "en": "size perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度知觉",
+   "en": "depth perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方位知觉",
+   "en": "orientation perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "跨通道知觉,跨感官知觉",
+   "en": "intermodal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听知觉",
+   "en": "auditory perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主动知觉",
+   "en": "active perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据感知",
+   "en": "Data Perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器感知",
+   "en": "machine perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态感知",
+   "en": "multimodal perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数觉",
+   "en": "perception of numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智感知",
+   "en": "swarm intelligence perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字秩序",
+   "en": "digital order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "competitive order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跑顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "含3 个及以上碳原子醇类的总称，是酒类发酵过程中产生的主要副产物，包括正丙醇、正丁醇、异丁醇、异戊醇等。"
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "社会知觉",
+   "en": "social perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "包括对人知觉和自我知觉。前者为人们了解他人（个人或群体），利用各种可能的信息资料形成对他人印象、判断的过程。后者为对自身形成印象和判断的过程。"
+  },
+  {
+   "cn": "人际知觉",
+   "en": "interpersonal perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "对人与人之间关系的知觉。包括对人的外部特征、个性特点了解、对人行为的判断和理解。这种知觉主要是在人际交往中发生的，以各种交际行为为知觉对象。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spacial perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对物体的形状、大小、方位、距离等构成空间关系要素的感知和判断"
+  },
+  {
+   "cn": "时间知觉",
+   "en": "time perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对客观现象延续性和顺序性的感知和判断能力。"
+  },
+  {
+   "cn": "风险认知",
+   "en": "risk perception",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "个体对存在于外界各种客观风险的主观感受和认识。"
+  },
+  {
+   "cn": "感知觉发育",
+   "en": "sensory perception development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对作用于感觉器官客观事物的反映能力随年龄增长的发展变化过程。包括视觉、味觉、听觉、嗅觉、触觉、运动觉、空间时间知觉等的发展变化过程。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "净观",
+   "en": "Dag snang（Pure Perception）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0461",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。密宗金刚乘视外境为佛剎、视自他为本尊、视音声为咒语、视思想为智慧之展现的观点。"
+  },
+  {
+   "cn": "上访",
+   "en": "appeal to the higher authorities",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "公民或组织以书信、电子邮件、走访等形式向各级人民政府、县级以上人民政府工作部门反映问题、寻求解决办法的活动。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

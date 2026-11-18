@@ -1,0 +1,782 @@
+{
+ "key": "intrinsic qualities",
+ "term": "intrinsic qualities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:42:15+00:00",
+ "status": "ok",
+ "note": "variant=intrinsic qualities; 审定公布名词库=1074; 海峡两岸名词对照库=261; 其他来源数据库=33; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "固有品质因数",
+   "en": "intrinsic quality factor",
+   "source": "电子学名词",
+   "wordNumber": "10.194",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内在价值",
+   "en": "intrinsic value",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.225",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "自然界中人类和各种非人动植物生命及无机界事物本身所固有的价值。它的价值体现是来源于自身的，而不是体现于其他生命及事物的存在价值的，即这种价值是内在的、只反映地球物种生命及宇宙事物本身的属性和内在特征的"
+  },
+  {
+   "cn": "本征亮度",
+   "en": "intrinsic brightness",
+   "source": "天文学名词",
+   "wordNumber": "04.361",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "(1)改正星际消光和大气消光后的天体亮度。(2)河外天体经K改正和消光改正后的亮度。"
+  },
+  {
+   "cn": "本征光度",
+   "en": "intrinsic luminosity",
+   "source": "天文学名词",
+   "wordNumber": "04.362",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "由本征亮度和距离测定推算的天体光度。"
+  },
+  {
+   "cn": "内在活性",
+   "en": "intrinsic activity",
+   "source": "麻醉学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "药物与受体结合后产生药理效应的能力。"
+  },
+  {
+   "cn": "内禀红移",
+   "en": "intrinsic redshift",
+   "source": "天文学名词",
+   "wordNumber": "07.270",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由天体内在原因引起的谱线红移。"
+  },
+  {
+   "cn": "内在终止子",
+   "en": "intrinsic terminator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0251",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "能够使RNA聚合酶不需依赖ρ因子即可终止转录的DNA序列。其特征性结构包括：①在靠近转录终止末端具有能够产生自我互补RNA的序列，转录生成的RNA可形成发夹结构；②发夹3′端有高度保守的多(A)序列。"
+  },
+  {
+   "cn": "内因子",
+   "en": "intrinsic factor",
+   "source": "兽医学名词",
+   "wordNumber": "04.330",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "泌酸腺内壁细胞分泌的一种糖蛋白。是促进维生素B₁₂吸收的必需因子。"
+  },
+  {
+   "cn": "内在活性",
+   "en": "intrinsic activity",
+   "source": "兽医学名词",
+   "wordNumber": "17.007",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "药物本身具有的特定功能。能与受体一定部位结合并诱导产生效应。"
+  },
+  {
+   "cn": "特性黏度",
+   "en": "intrinsic viscosity",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0055",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "当高分子溶液浓度趋于零时的比浓黏度。表示单个分子链对溶液黏度的贡献。"
+  },
+  {
+   "cn": "内因子",
+   "en": "intrinsic factor",
+   "source": "血液学名词",
+   "wordNumber": "5.148",
+   "subjectFullName": "血液学_红细胞系统疾病_贫血",
+   "subjectName": "贫血",
+   "publishYear": "2022",
+   "definition": "胃底黏膜的壁细胞合成和分泌的一种糖蛋白。与维生素B₁₂结合形成内因子-维生素B₁₂复合物，能够抵抗胃的消化，促进回肠吸收和摄取维生素B₁₂。"
+  },
+  {
+   "cn": "内源性凝血途径",
+   "en": "intrinsic pathway",
+   "source": "血液学名词",
+   "wordNumber": "9.003",
+   "subjectFullName": "血液学_出血与血栓性疾病",
+   "subjectName": "出血与血栓性疾病",
+   "publishYear": "2022",
+   "definition": "由凝血因子Ⅻ启动的凝血过程。"
+  },
+  {
+   "cn": "内因子",
+   "en": "intrinsic factor",
+   "source": "消化病学名词",
+   "wordNumber": "3.111",
+   "subjectFullName": "消化病_胃十二指肠_胃十二指肠生理",
+   "subjectName": "胃十二指肠生理",
+   "publishYear": "2022",
+   "definition": "由胃的壁细胞分泌的能与维生素B₁₂结合的糖蛋白。可防止维生素B₁₂被分解破坏，并在回肠上皮被吸收。"
+  },
+  {
+   "cn": "内禀衰减",
+   "en": "intrinsic attenuation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0818",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "地震波在传播过程中，由于介质滞弹性 (介质吸收)损耗的能量而发生的衰减。 "
+  },
+  {
+   "cn": "内禀随机性",
+   "en": "intrinsic randomness",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1576",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "内在的、本质上的一种偶然性，具有某一概率的事件集合中的各个事件所表现出来的不确定性。 "
+  },
+  {
+   "cn": "内在动机",
+   "en": "intrinsic motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.093",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "由个体内在需要引起的行为动机。"
+  },
+  {
+   "cn": "本征吸收",
+   "en": "intrinsic absorption",
+   "source": "光学名词",
+   "wordNumber": "01.485",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "受到光波照射的半导体材料中产生的一种吸收现象。因半导体材料受到外来光子照射时，其价带电子跃迁到导带上而导致入射辐射能量减少，这是材料吸收的最主要因素。光子还与半导体材料中处于各种状态的电子、晶格原子和"
+  },
+  {
+   "cn": "本征型电致发光",
+   "en": "intrinsic electroluminescence",
+   "source": "光学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "发光材料在直流或交流强电场的作用下，多数载流子被加速碰撞激发发光中心而导致的复合发光现象。"
+  },
+  {
+   "cn": "内禀发光",
+   "en": "intrinsic luminescence",
+   "source": "光学名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "自捕获激子的发光现象。"
+  },
+  {
+   "cn": "本征探测器",
+   "en": "intrinsic detector",
+   "source": "光学名词",
+   "wordNumber": "11.004",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "由纯净半导体制成的光电探测器。"
+  },
+  {
+   "cn": "固有品质因数",
+   "en": "intrinsic quality factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内在活性",
+   "en": "intrinsic activity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内[在]因子",
+   "en": "intrinsic factor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内因成种（=内因性物种形成）",
+   "en": "intrinsic speciation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内因性物种形成，内因成种",
+   "en": "intrinsic speciation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本征动力学",
+   "en": "intrinsic kinetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固有能",
+   "en": "intrinsic energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蕴压",
+   "en": "intrinsic pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "本征安全",
+   "en": "intrinsic safety",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固有速率",
+   "en": "intrinsic rate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性黏度",
+   "en": "intrinsic viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内在激励",
+   "en": "intrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内禀性标度",
+   "en": "intrinsic scale",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本征硅",
+   "en": "intrinsic silicon",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本征锗",
+   "en": "intrinsic germanium",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本征半导体",
+   "en": "intrinsic semiconductor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本征光电导",
+   "en": "intrinsic photoconductivity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本征吸除",
+   "en": "intrinsic gettering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "内禀红移",
+   "en": "intrinsic redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内禀亮度",
+   "en": "intrinsic brightness",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球质量溯源体系",
+   "en": "global quality tracking system (GQTS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全国高质量发展样板区",
+   "en": "national pacesetter of high-quality development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情兼雅怨",
+   "en": "A Mixed Quality of Grace and Sorrow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量管理公共服务系统",
+   "en": "public service system for environmental quality management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《LY/T 2921-2017 林业数据质量 基本要素》",
+   "en": "LY/T 2921-2017 Forestry data quality — Base elements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "the Strategy on Developing a Quality Workforce",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内在",
+   "en": "intrinsic",
+   "source": "马克思主义",
+   "wordNumber": "01.0073",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在”相对。事物自身所固有的东西。"
+  },
+  {
+   "cn": "内在尺度",
+   "en": "intrinsic scale",
+   "source": "马克思主义",
+   "wordNumber": "01.0171",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思提出的哲学范畴。指人在实践、认识或价值评价活动中，在尊重客观事物规律性的同时，以人自身的需要、愿望、要求、目的等作为出发点和评判标准、裁度原则。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "本征探测效率",
+   "en": "intrinsic detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "用以表示探测器本身性能的参数。它等于记录的脉冲数与入射到探测器灵敏体积内的γ光子数的比值。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足规定的质量要求所采取的技术措施和活动。"
+  },
+  {
+   "cn": "社会质量",
+   "en": "social quality",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "测量公民日常生活是否达到一个社会可接受水准的指标及标准，民众在提升福祉和个人潜能的条件下，能够参与社区经济社会生活的程度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "睡眠质量",
+   "en": "sleep quality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "评定睡眠过程及其效果的综合指标。主要包括睡眠时间、睡眠过程干扰、睡眠效果、对睡眠质量的整体感受等方面。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量管理”。又称“妇幼健康监测质量管理”。确定妇幼卫生监测、服务或项目的质量方针、目标和职责，并通过明确的质量控制和评价方法来实现对服务或流程中涉及效率、效果、绩效、问责、结果和其他"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "食品质量",
+   "en": "food quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品的一组固有特性满足要求的程度。固有特性为顾客合法期望与生产经营者须履行的，如感官和营养等；满足要求为明示的（食品标签和说明书）、隐含的（无缺陷、欺诈和掺假）和必须履行的（法律法规及强制性标准）。"
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.32",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "产品本身具有的满足顾客要求或技术要求的固有特征和特性"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在健康教育/健康促进计划实施的过程中，采用特定的方法和手段对健康教育/健康促进的实施过程进行监督，了解实施过程，保证实施效果等的活动。"
+  },
+  {
+   "cn": "四有新人",
+   "en": "youngsters withfour qualities",
+   "source": "马克思主义",
+   "wordNumber": "03.0524",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年5月邓小平给《中国少年报》和《辅导员》杂志的题词:“希望全国的小朋友，立志做有理想、有道德、有文化、有纪律的人，立志为人民作贡献，为祖国作贡献，为人类作贡献。”“四有”指有理想、有道德、有文"
+  },
+  {
+   "cn": "质量控制人员",
+   "en": "quality control personnel",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事质量控制的人员。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

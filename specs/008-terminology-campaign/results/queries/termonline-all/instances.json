@@ -1,0 +1,172 @@
+{
+ "key": "instances",
+ "term": "Instances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:16+00:00",
+ "status": "ok",
+ "note": "variant=Instances; 审定公布名词库=9; 海峡两岸名词对照库=6; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0072",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一阶逻辑的一类定理证明方法。通过生成实例、在命题逻辑中检查不可满足性来证明一阶逻辑问题的不可满足性，从而证明一阶逻辑表述的相应定理。"
+  },
+  {
+   "cn": "距离定位",
+   "en": "fixing by distances",
+   "source": "航海科技名词",
+   "wordNumber": "02.0168",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不要纸张、不受距离限制的报纸",
+   "en": "newspaper without using paper and without being restricted by distances",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.08",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "列宁对无线电广播性质的一种喻证。1920年起苏维埃俄国进行无线电广播的实验，列宁两次使用这个喻证，从方便广泛宣传角度表达了对广播的认识。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离交会法",
+   "en": "intersection by distances",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "距离定位",
+   "en": "fixing by distances",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "减免养老、失业以及工伤这三项社会保险单位的缴费",
+   "en": "to reduce or remit required premiums to be paid by employers for their employees’ old-age, unemployment and work-related injury insurances  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

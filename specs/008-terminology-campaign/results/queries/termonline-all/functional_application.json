@@ -1,0 +1,772 @@
+{
+ "key": "functional application",
+ "term": "functional application",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:48:19+00:00",
+ "status": "ok",
+ "note": "variant=functional application; 审定公布名词库=2840; 海峡两岸名词对照库=772; 其他来源数据库=151; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "应用功能层",
+   "en": "functional layer of application",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.309",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "数据仓库系统中用于提供数据分析、数据挖掘、决策支持等服务的层次。由若干个特定应用服务元素和一个或多个公用应用服务元素组成，能提供特定的应用服务。"
+  },
+  {
+   "cn": "管理应用功能",
+   "en": "management application function,MAF",
+   "source": "通信科学技术名词",
+   "wordNumber": "03.044",
+   "subjectFullName": "通信科学技术_支撑网络",
+   "subjectName": "支撑网络",
+   "publishYear": "2007",
+   "definition": "在同步数字系列网络管理系统中，参与系统管理的应用进程。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "电力名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "由一个或多个组件构成的,在给定的领域内实现某种业务功能的软件。重要的是所实现的功能,而不是软件的打包。如文字处理器,它的功能非常容易理解,但实际安装的组件会随供应商的不同而不同。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0078",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "泛指企业信息系统的开发与应用，常见于詹姆斯·马丁（James Martin）的著作中。"
+  },
+  {
+   "cn": "敷贴",
+   "en": "application",
+   "source": "药学名词",
+   "wordNumber": "08.024",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "将软膏摊涂于纱布上，贴敷于皮损面，或将软膏厚敷于皮损面，外加纱布固定的给药方法。"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.161",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "一种技术、系统或产品的使用。"
+  },
+  {
+   "cn": "敷贴器",
+   "en": "applicator",
+   "source": "核医学名词",
+   "wordNumber": "05.0106",
+   "subjectFullName": "核医学_核医学治疗_放射性核素敷贴治疗",
+   "subjectName": "放射性核素敷贴治疗",
+   "publishYear": "2018",
+   "definition": "将一定剂量的放射性核素均匀吸附在滤纸或银箔上制成的敷贴治疗装置。临床常用磷-32和锶-90敷贴器。前者多为临时自制，具有适应病患形态、大小的灵活性；后者已有固定规格的商品供应。"
+  },
+  {
+   "cn": "申请者",
+   "en": "applicant",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "向监管部门申请批准其从事某一辐射照射实践或监测、评价、健康监护等活动并承诺对该活动负责的单位或个人。"
+  },
+  {
+   "cn": "应用到应用集成",
+   "en": "application to application，AtA",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "把基于不同平台开发的、功能不同的应用软件、硬件和标准联合起来，集成到一个无缝的、并列的平台上，以方便操作者访问和进行业务处理，实现各应用系统间的信息共享的方法。"
+  },
+  {
+   "cn": "微量点滴法",
+   "en": "topical application",
+   "source": "精细化工名词",
+   "wordNumber": "03.0174",
+   "subjectFullName": "精细化工_农药_生物测定",
+   "subjectName": "生物测定",
+   "publishYear": "2025",
+   "definition": "测定杀虫剂触杀作用的方法。将药剂适量地滴加在昆虫体壁的某一部位，然后正常饲养，观察药效。"
+  },
+  {
+   "cn": "根施",
+   "en": "root application",
+   "source": "风景园林名词",
+   "wordNumber": "08.0258",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "在植物根部进行施肥的一种方式。"
+  },
+  {
+   "cn": "施工性",
+   "en": "application property",
+   "source": "精细化工名词",
+   "wordNumber": "05.0399",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "涂料施工的难易程度。涂料施工性良好，一般是指涂料易施涂（刷、喷、浸等），流平性良好，不出现流挂、起皱、缩边、渗色、咬底；干性适中，易打磨，重涂性好，以及对施工环境要求低等。"
+  },
+  {
+   "cn": "生态学应用",
+   "en": "ecological application",
+   "source": "风景园林名词",
+   "wordNumber": "10.0072",
+   "subjectFullName": "风景园林_风景园林教育_风景园林硕士学术学位教育课程",
+   "subjectName": "风景园林硕士学术学位教育课程",
+   "publishYear": "2025",
+   "definition": "在生态学核心理论、观点的基础上，阐述社会–经济–自然复合生态系统理念及其在风景园林规划、设计、管理中的应用，介绍森林、湿地、草地、农田、水域等生态系统管理、维持和合理利用的科学方法，探讨生态园林在生物"
+  },
+  {
+   "cn": "应用层",
+   "en": "application layer",
+   "source": "农学名词",
+   "wordNumber": "16.098",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "担负对感知层数据的管理、处理与应用功能的物联网体系的组成部分。"
+  },
+  {
+   "cn": "口腔矫治器",
+   "en": "oral application",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.13",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "口腔正畸的一类常用辅助工具。可实现排齐牙列，改善牙、颌、面的不协调，对上气道也有扩张作用。"
+  },
+  {
+   "cn": "报检",
+   "en": "inspection application",
+   "source": "风景园林名词",
+   "wordNumber": "03.0272",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "有关当事人根据法律、行政法规的规定，对外贸易合同的约定或证明履约的需要，向检验机构申请检验、检疫、鉴定或准出入境或取得销售使用的合法凭证及某种公证证明所必须履行的法定程序和手续。"
+  },
+  {
+   "cn": "应用服务",
+   "en": "application service",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.160",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "从一个集中管理的组织中提供应用的部署、供应、管理以及对应用出租访问的契约性服务。"
+  },
+  {
+   "cn": "配伍",
+   "en": "concerted application",
+   "source": "兽医学名词",
+   "wordNumber": "19.295",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "根据相应的理论原则、治疗目的和药性特点，将两种以上的药物配合应用的方法。"
+  },
+  {
+   "cn": "应用商店",
+   "en": "application store",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.067",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "一个为手机、平板电脑等移动终端使用者提供应用软件等资源下载服务的平台，同时也为移动服务的开发者提供开发工具及产品发布渠道。应用商店最先由苹果公司在其iOS操作系统平台上推出，现在各主流的手机操作系统都"
+  },
+  {
+   "cn": "应用",
+   "en": "application;APP",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.073",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "智能手机、平板电脑以及智能电视等设备的第三方应用程序。应用最早是苹果公司在iTouch、iPhone平台推出的一种提供内容和服务的方式，也就是苹果公司之外的软件开发商基于iOS系统开发相关的应用程序，"
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敷贴",
+   "en": "application",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应用性",
+   "en": "applicability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "点样",
+   "en": "sample application",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贷款申请书",
+   "en": "loan application",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "申请单",
+   "en": "application form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专利申请书",
+   "en": "patent application",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "万维网应用",
+   "en": "web application",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序",
+   "en": "application program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序集",
+   "en": "application assembly",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序开发人员",
+   "en": "application developer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序可移植性",
+   "en": "application portability",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务",
+   "en": "application service",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用集成",
+   "en": "application Integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用模型",
+   "en": "application model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用平台",
+   "en": "application platform",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用软件",
+   "en": "application software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序；应用软件",
+   "en": "Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去中心化应用",
+   "en": "Decentralized Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能应用",
+   "en": "Smart Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务器",
+   "en": "application server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用架构",
+   "en": "application architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景应用",
+   "en": "Scenario Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技应用",
+   "en": "Fintech Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网应用",
+   "en": "IoT application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用标准",
+   "en": "Application Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗议申请",
+   "en": "protest application",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知行",
+   "en": "Knowledge and Application",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据应用能力",
+   "en": "data application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产应用",
+   "en": "data asset application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用中台",
+   "en": "application middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射频识别应用系统",
+   "en": "RFID application system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒应用",
+   "en": "disinfection application",
+   "source": "消毒学",
+   "wordNumber": "4",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "消毒措施在医疗卫生、生产生活等过程中的使用。"
+  },
+  {
+   "cn": "放射性核素敷贴器",
+   "en": "radionuclide applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.24",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将一定活度的放射性核素，制成具有不同形状和面积的面状源，作为敷贴治疗用的放射源。"
+  },
+  {
+   "cn": "施源器",
+   "en": "source applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，预先放入人体腔、管道或组织间，供放射源驻留或运动，并实施治疗的特殊容器。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "放射性核素敷贴治疗",
+   "en": "radionuclide application therapy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.23",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "选择适当的放射性核素面状源作为敷贴器覆盖在患者病变部位的表面，照射一定时间，达到治疗目的的放射治疗方法。"
+  },
+  {
+   "cn": "民俗应用资源",
+   "en": "folklore application resources",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0466",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "某种民俗作为文化资源，在景物、食品、工艺、信仰等方面的应用价值和继续认识、不断开发的巨大潜能。"
+  },
+  {
+   "cn": "试验性使用效果",
+   "en": "experimental application effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.15",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂在试验性应用中的有效性，一般通过比较使用添加剂和未使用添加剂的食品之间特定感官和（或）理化指标的差异来获知"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "功能指标",
+   "en": "functional parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年不同器官或系统生理功能的指标，主要包括肺活量、呼吸频率和最大吸氧量等肺功能的指标，心率、血压等心血管功能的指标"
+  },
+  {
+   "cn": "功能性遗尿",
+   "en": "functional enuresis",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.9.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "儿童5岁后仍经常出现的不自主性排尿；主要表现为熟睡中遗尿，少数甚至在白天也不能控制排尿反射而尿裤，男孩多见。"
+  },
+  {
+   "cn": "功能社区",
+   "en": "functional community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以特定社会功能（如生产、教育、医疗、行政等）为核心形成的非地理主导型社区。其核心特征是功能属性优先于地理边界，成员因共同的社会角色、职业身份或活动需求聚集，形成具有明确目标和运行规则的社会单元。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

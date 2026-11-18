@@ -1,0 +1,732 @@
+{
+ "key": "division",
+ "term": "division",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:04:06+00:00",
+ "status": "ok",
+ "note": "variant=division; 审定公布名词库=1051; 海峡两岸名词对照库=288; 其他来源数据库=53; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "分割",
+   "en": "division",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0427",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "根据制品要求，通过称量将面团分割成一定质量的小面团或用模具、刀具切割成型的过程。分割质量通常为成品质量的110%。"
+  },
+  {
+   "cn": "关系除法",
+   "en": "division",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0127",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "设关系 R除以关系S的结果为关系T，则T包含所有在R中但不在S中的属性及其值，且T的元组与S的元组的所有组合都在R 中。"
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "数学名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "门",
+   "en": "division,phylum",
+   "source": "植物学名词",
+   "wordNumber": "02.0029",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "介于界和纲之间的生物分类阶元。"
+  },
+  {
+   "cn": "等",
+   "en": "division,grade",
+   "source": "语言学名词",
+   "wordNumber": "09.098",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "切韵学中根据韵腹和介音把韵母分为四类，以四行分列或四格分列的方式来区别，称为四种“等”。"
+  },
+  {
+   "cn": "可分性",
+   "en": "divisibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物本身具有内在结构可以区分为组成部分或子系统的属性。是事物的结构性与结构层次性的基础。其侧重于能被区分，而“可分离性”侧重于能被分离。"
+  },
+  {
+   "cn": "整除性",
+   "en": "divisibility",
+   "source": "数学名词",
+   "wordNumber": "04.0948",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整除",
+   "en": "divisible",
+   "source": "数学名词",
+   "wordNumber": "04.0949",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "间歇分度",
+   "en": "interrupted division,step division",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.324",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床的运动",
+   "subjectName": "机床的运动",
+   "publishYear": "2021",
+   "definition": "在工作运动间歇时进行的分度运动。"
+  },
+  {
+   "cn": "分株繁殖",
+   "en": "division propagation",
+   "source": "农学名词",
+   "wordNumber": "08.102",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "将植物萌蘖枝、丛生枝、吸芽或匍匐枝等从母株上分割后，另行培养成独立新植株的方法。"
+  },
+  {
+   "cn": "分株繁殖",
+   "en": "division propagation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0244",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "将植物营养体从母株分离单栽，借以繁殖植株的一种繁殖方法。"
+  },
+  {
+   "cn": "分裂期",
+   "en": "division stage",
+   "source": "兽医学名词",
+   "wordNumber": "08.051",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "细胞周期中细胞进行分裂的时期。即M期，包括前期、中期、后期和末期。"
+  },
+  {
+   "cn": "分裂期",
+   "en": "division stage",
+   "source": "动物学名词",
+   "wordNumber": "1.0158",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "真核生物细胞周期中的一个时期。包含了有丝分裂过程，经过核分裂和相继进行的胞质分裂，最终被分为两个子细胞。"
+  },
+  {
+   "cn": "分度值",
+   "en": "division value",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0207",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "计量器具标尺上每个刻度间距所代表的量值。"
+  },
+  {
+   "cn": "双面水冷壁",
+   "en": "division wall",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0400",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_蒸发受热面",
+   "subjectName": "蒸发受热面",
+   "publishYear": "2013",
+   "definition": "沿炉高布置在炉膛空间能双面吸收辐射热的水冷壁。"
+  },
+  {
+   "cn": "区段通信",
+   "en": "division communication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0410",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可除代数",
+   "en": "division algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1406",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原甲螨部",
+   "en": "Division Archoribatida",
+   "source": "昆虫学名词",
+   "wordNumber": "11.509",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "后背板毛至少15对；足膝节的形状和长度与胫节相似；生殖孔和肛孔大型，相接；仅有短气管。"
+  },
+  {
+   "cn": "真甲螨部",
+   "en": "Division Euoribatida",
+   "source": "昆虫学名词",
+   "wordNumber": "11.510",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "后背板毛4～15对；足膝节δ形状和长度与胫节不同；生殖孔和肛孔小型,远离；气管长，开口于足盘腔或分颈缝。"
+  },
+  {
+   "cn": "水文地质分区",
+   "en": "hydrogeological division",
+   "source": "地质学名词",
+   "wordNumber": "16.01.018",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳表部按其中赋存的地下水的差异性而划分的若干个块段。影响分区的主要因素包括：地质结构，岩石性质，含水层和隔水层的产状、分布及其在地表的出露情况，地形地貌(水文网密度、河流切割深度等)，气象，水文因素"
+  },
+  {
+   "cn": "分裂",
+   "en": "division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部",
+   "en": "division",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "径向分裂（=垂周分裂）",
+   "en": "radial division (=anticlinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "切向分裂（=平周分裂）",
+   "en": "tangential division (=periclinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弦向分裂，切向分裂（=平周分裂）",
+   "en": "tangential division (=periclinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "门",
+   "en": "division\",\"phylum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加花变奏",
+   "en": "diversions\",\"divisions",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分裂周期",
+   "en": "division cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "加花变奏维奥尔琴",
+   "en": "division viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隔板",
+   "en": "division plate",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原甲螨部",
+   "en": "Division Archoribatida",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "真甲螨部",
+   "en": "Division Euoribatida",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "背侧股",
+   "en": "dorsal division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟分裂",
+   "en": "maturation division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单极分裂",
+   "en": "monocentric division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腹侧股",
+   "en": "ventral division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "后股",
+   "en": "posterior division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "后减数分裂",
+   "en": "postmeiotic division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间接分裂",
+   "en": "indirect division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跨行政区域排污权交易",
+   "en": "emission trading across administrative divisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"division line\",\"midcourt line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "central line\",\"division line\",\"midcourt line\",\"net line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分区线",
+   "en": "dividing line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分治算法",
+   "en": "divide-and-conquer algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "职业分立",
+   "en": "division ofoccupation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于描述中国传统社会中，分工与身份的结合主要基于经济和伦理特点，而非基于血统和种姓的概念。梁漱溟指出，其表现为生产者自有其生产工具，可以自行生产。各行各业的从业者之间主要是职业差别，没有形成西方社会中"
+  },
+  {
+   "cn": "社会划分",
+   "en": "social division",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员的阶级、阶层或代际区分。人们依据一定的标准被分为不同的阶级阶层或不同年龄段的群体。"
+  },
+  {
+   "cn": "分家",
+   "en": "household division",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "因家庭内部的人口增加所引发的家庭生活空间的重新组合，往往伴随家庭成员的财产和责权的移动。"
+  },
+  {
+   "cn": "分工",
+   "en": "division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0050",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于自然或社会原因导致的劳动的划分及独立化，表现为生产不同种类产品的不同种类的劳动的并存。分工可以区分为社会分工、不同部门的分工、企业内部的分工等。"
+  },
+  {
+   "cn": "物理去除法",
+   "en": "physical division method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过稀释、过滤、吸附或离心沉淀等物理方式去除消毒体系中残余消毒剂的方法。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "人类从事各种劳动的社会划分及其独立化和专业化。人类文明的标志之一。社会发展，尤其是商品经济发展和社会形式差别的基础。平均社会劳动时间大为缩短、生产效率显著提高的体现。"
+  },
+  {
+   "cn": "国际分工",
+   "en": "international division of labour",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "世界各国间的劳动分工。劳动分工从一国之内向世界范围延伸的结果。国际生产关系决定了国际分工的性质，各国生产力的水平决定了其在国际分工中的地位。"
+  },
+  {
+   "cn": "劳动的性别分工",
+   "en": "gender division of labor",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依据性别进行的劳动分工，是一种强制性的分工规则。在男性中心主导的社会中，这一分工基本为男外女内、男主女从的模式。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0051",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“自然分工”不同，社会劳动超越一个经济单位在整个社会范围内的独立划分和专业化过程，包括部门分工和部门内部分工。"
+  },
+  {
+   "cn": "一分为二",
+   "en": "one divides into two",
+   "source": "马克思主义",
+   "wordNumber": "01.0228",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东对于对立统一规律的一种简括、形象的表述。任何一个事物都包含着两个相互对立而又相互联系的对立面,对立面之间又统一又斗争,在一定条件下,各自向相反的方面转化。"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "视觉系统的外周感觉器官(眼)接受一定波长范围的光刺激，经中枢编码加工和分析后获得的感觉。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "视力不良",
+   "en": "poor vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "根据《标准对数视力表》（国家标准GB11533-2011）检查远视力，6岁以上儿童少年裸眼视力低于5.0的情况。其中，视力4.9为轻度，4.6≤视力≤4.8为中度，视力≤4.5为重度。"
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以日常生活视力较好眼判断得出的视力或视野功能不足的状态。轻度，4.5（0.3）≤视力<4.7（0.5）；中度，4.0（0.1）≤视力<4.5（0.3）；重度，3.7（0.05）≤视力<4.0（0.1）"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<4.5（0.3）的状态。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

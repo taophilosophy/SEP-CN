@@ -1,0 +1,812 @@
+{
+ "key": "idealist position",
+ "term": "idealist position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:40:24+00:00",
+ "status": "ok",
+ "note": "variant=idealist position; 审定公布名词库=1639; 海峡两岸名词对照库=530; 其他来源数据库=151; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "胎位",
+   "en": "position",
+   "source": "兽医学名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的位置。即在母体中胎儿背部和母体背部或腹部的位置关系。"
+  },
+  {
+   "cn": "体位",
+   "en": "position",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗过程中为方便检查，患者身体所保持的一定姿势。"
+  },
+  {
+   "cn": "就位",
+   "en": "position",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.742",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "将机器设备按设计文件的规定摆放到安装位置的过程。"
+  },
+  {
+   "cn": "对准",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1017",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "为将物体放置于所需的正确位置而进行的动作。从开始放置物体至一定方位的瞬间开始，到物体已被安置于正确方位的瞬间结束。"
+  },
+  {
+   "cn": "头寸",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0037",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体或组织在某一时刻所拥有的某种特定金融资产的数量状况。"
+  },
+  {
+   "cn": "职位",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0349",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "与一定职务、权力和责任相对应的，由相应规格的公务员来承担的工作岗位。"
+  },
+  {
+   "cn": "位",
+   "en": "position",
+   "source": "电子学名词",
+   "wordNumber": "08.045",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "测绘学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度一致或色彩一致的像片。"
+  },
+  {
+   "cn": "定位",
+   "en": "positioning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "在磁盘中指将磁头移动到指定位置的操作。"
+  },
+  {
+   "cn": "摆位",
+   "en": "positioning",
+   "source": "核医学名词",
+   "wordNumber": "03.0275",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "根据成像目的和设备要求，让患者在检查床上保持某种体位的操作。"
+  },
+  {
+   "cn": "就位",
+   "en": "positioning",
+   "source": "土木工程名词",
+   "wordNumber": "06.236",
+   "subjectFullName": "土木工程_桥梁工程_桥梁施工",
+   "subjectName": "桥梁施工",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "体位保持",
+   "en": "positioning",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0169",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "位置传感器",
+   "en": "position transducer,position sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0069",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受物体的位置并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "头尾位",
+   "en": "craniocaudal position,CC position",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字乳腺X射线成像技术",
+   "subjectName": "数字乳腺X射线成像技术",
+   "publishYear": "2020",
+   "definition": "乳腺X射线摄影常规体位，为内外斜位的补充体位。摄影平台角度为0，充分托起乳腺以消除上部固定组织的盲区后持实压力，X射线自上向下投射，可确定局限性病变的内外空间位置，能完整显示乳腺内侧组织。"
+  },
+  {
+   "cn": "仰卧位",
+   "en": "supine position,dorsal position",
+   "source": "核医学名词",
+   "wordNumber": "03.0277",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "面向上躺在检查床上的体位。"
+  },
+  {
+   "cn": "正调控",
+   "en": "positive regulation;positive control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0449",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "调控因子（如转录、翻译的调控因子）等通过直接结合或间接作用，引起激活或增强基因表达的调控方式。可提高目的基因的转录效率以及基因产物的数量或活性。"
+  },
+  {
+   "cn": "仰卧位",
+   "en": "supine position",
+   "source": "普通外科学名词",
+   "wordNumber": "13.054",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "患者自然地仰身平卧于手术台上的手术体位。"
+  },
+  {
+   "cn": "截石位",
+   "en": "lithotomy position",
+   "source": "普通外科学名词",
+   "wordNumber": "13.057",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "在仰卧位的基础上，用腿架使膝关节和髋关节屈曲，两下肢分开，充分显露会阴部的手术体位。"
+  },
+  {
+   "cn": "俯卧位",
+   "en": "prone position",
+   "source": "普通外科学名词",
+   "wordNumber": "13.058",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "患者腹部着床的手术体位。包括水平俯卧位和屈髋俯卧位。"
+  },
+  {
+   "cn": "折刀位",
+   "en": "jackknife position",
+   "source": "普通外科学名词",
+   "wordNumber": "13.059",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "在俯卧位基础上，将手术床摇至头低腿低状态，使患者躯体呈折刀状的手术体位。"
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "点位数据资料",
+   "en": "position data\",\"position reference",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "动态定位",
+   "en": "dynamic positioning\",\"kinematic positioning",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "place\",\"position",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解剖学姿势",
+   "en": "anatomical position",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "位置效应",
+   "en": "position effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位置矢量",
+   "en": "position vector",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地心位置",
+   "en": "geocentric position",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对位置",
+   "en": "absolute position",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日心位置",
+   "en": "heliocentric position",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对位",
+   "en": "para position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近位",
+   "en": "peri position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "邻位",
+   "en": "ortho position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "远位",
+   "en": "amphi position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意姿势",
+   "en": "D position\",\"free position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑士姿势",
+   "en": "castle position\",\"knight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "唯心主义死亡观",
+   "en": "idealistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是超自然现象的观念。认为人的灵魂不依赖于物质性的身体而存在，灵魂不灭，死亡是灵魂对尘世的超脱。"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "患者定位装置",
+   "en": "patient positioning device",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗时用来固定患者体位的辅助工具，通常包括定位板、托架、热塑膜、负压袋等。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阳性型）",
+   "en": "polyarticular JIA, RF positive",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阳性。约占JIA的10%。大小关节均可受累，关节症状较重。"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "现代社会的实证法",
+   "en": "positive law in modern society",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应现代社会的法律。通过特定决定创设法律，法律的有效性基础来自于决定本身，而不是更高的规范。"
+  },
+  {
+   "cn": "抗日游击战争的战略地位",
+   "en": "strategic position of antiJapanese guerrilla warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0427",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中指出：抗日战争中，游击战辅助了正规战，把自己也变为正规战。在整个抗日战争中，尤其是在战略相持阶段，游击战是主要的战争形式。忽视抗日游击战争的战略地位"
+  },
+  {
+   "cn": "IgG4 阳性浆细胞浸润",
+   "en": "immunoglobulin G4 positive plasma cell infiltration",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.10.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_IgG4相关疾病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "IgG4 相关疾病患者IgG4 阳性浆细胞弥漫性浸润的免疫病理学表现。偶有淋巴滤泡形成，浸润的浆细胞呈多克隆性，有时可见浆母细胞。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

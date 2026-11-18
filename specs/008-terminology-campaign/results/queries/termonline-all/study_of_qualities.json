@@ -1,0 +1,702 @@
+{
+ "key": "study of qualities",
+ "term": "Study of Qualities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:02:00+00:00",
+ "status": "ok",
+ "note": "variant=Study of Qualities; 审定公布名词库=10000; 海峡两岸名词对照库=7591; 其他来源数据库=1857; 预公布名词数据库=2779; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "留学",
+   "en": "study abroad,overseas study",
+   "source": "教育学名词",
+   "wordNumber": "08.163",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "某国学习者到别国学校或科研机构接受相关层次教育的行为。根据承担留学经费的不同可分为“公派留学”或“自费留学”。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "急救医学名词",
+   "wordNumber": "03.868",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "不同文化体系和价值体系中的个人对于他们的目标、期望、标准及与其所关心的事情有关的生存状况的体验。"
+  },
+  {
+   "cn": "质量成本",
+   "en": "cost of quality",
+   "source": "风景园林名词",
+   "wordNumber": "03.0234",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "用于保证和提高工程质量、景观效果，防止工程成果低于合同标准而发生的各项措施费用的总和。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.145",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "一个人的健康状况、舒适度以及其参与、享有生活所能够达到的程度。在卫生保健领域其被视为包括多个层面，即情感、身体、物质和社会幸福等。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或团体的社会福利状态。"
+  },
+  {
+   "cn": "航摄质量",
+   "en": "quality of aerophotography",
+   "source": "测绘学名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "航空摄影的飞行质量和摄影质量。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "器官移植学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "个体根据其所处的文化背景和价值系统对自身生活的主观感受。受个体的目标、期望值标准和个体关注点等因素的影响。"
+  },
+  {
+   "cn": "用电质量",
+   "en": "quality of consumption",
+   "source": "电力名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "用户电力负荷对公用电网的干扰水平,干扰因素包括谐波电流、负序电流、零序电流、用电功率因数、无功功率波动和有功功率冲击等。专指用电方与供电方之间相互作用和影响中用电方的责任。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "老年医学名词",
+   "wordNumber": "02.019",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "不同文化体系和价值体系中的个人对于他们的目标、期望、标准以及与其所关心的事情有关的生存状况的体验。"
+  },
+  {
+   "cn": "质量屋",
+   "en": "house of quality",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0937",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用于确定顾客期望与公司产品能力之间关系的房屋样的图形工具。"
+  },
+  {
+   "cn": "质量成本",
+   "en": "cost of quality",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0328",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "当产品或服务的特征及品质与顾客要求不符时所发生的成本。"
+  },
+  {
+   "cn": "工作生活质量",
+   "en": "quality of worklife",
+   "source": "心理学名词",
+   "wordNumber": "12.022",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "通过工作内在激励和工作环境营造，实现组织的高效能与员工积极工作状态的整体体验。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "心理学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "个人在其所处文化和价值系统背景下，参照目标、期望和关注对自己生活状态的感受与评价。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "药学名词",
+   "wordNumber": "10.073",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "一种测量患者健康结果的指标。其测量范围超越了传统的死亡率和患病率，还包括生理、功能、社会活动、认知、情感、睡眠和休息、精力和活动、健康感知和总体生存满意度等多个维度的测量。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "病损或残疾者在健康、职业、工作、经济、婚姻、家庭、居住环境、参与社会及政治生活等方面的状况和个人对生活的感受。"
+  },
+  {
+   "cn": "就业质量",
+   "en": "quality of employment",
+   "source": "教育学名词",
+   "wordNumber": "11.265",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "劳动者的专业技能、职业兴趣及就业意向与其所从事就业工作岗位的匹配程度。"
+  },
+  {
+   "cn": "教育质量",
+   "en": "quality of education",
+   "source": "教育学名词",
+   "wordNumber": "01.042",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "以教育目的和学校培养目标为衡量标准的教育水平的高低和效果优劣的程度。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "地理学名词",
+   "wordNumber": "24.034",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "以明确指标显示的个人或团体的社会福利状况。"
+  },
+  {
+   "cn": "食性",
+   "en": "quality of food",
+   "source": "中医药学名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "中医药学_推拿学、养生学、康复学",
+   "subjectName": "推拿学、养生学、康复学",
+   "publishYear": "2004",
+   "definition": "食物气、味、归经、升降浮沉、有毒无毒等性能。"
+  },
+  {
+   "cn": "束流品质",
+   "en": "quality of beam",
+   "source": "电气工程名词",
+   "wordNumber": "21.054",
+   "subjectFullName": "电气工程_工业加速器",
+   "subjectName": "工业加速器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "水质模拟研究",
+   "en": "water quality simulation study",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决策研究",
+   "en": "decision study\",\"D study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概化研究",
+   "en": "generalizability study\",\"G study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "航摄质量",
+   "en": "quality of aerophotography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投资可行性研究",
+   "en": "feasibility study of investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "练习曲",
+   "en": "exercise\",\"study",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个例研究",
+   "en": "case study",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可行性研究",
+   "en": "feasibility study",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验室研究",
+   "en": "laboratory study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "修女研究",
+   "en": "nun study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍桑研究",
+   "en": "Hawthorne study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剥夺研究",
+   "en": "deprivation study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然研究",
+   "en": "naturalistic study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物研究",
+   "en": "animal study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "文件研究",
+   "en": "document study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领养研究",
+   "en": "adoption study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义研究",
+   "en": "existential study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双生子研究",
+   "en": "twin study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子学",
+   "en": "Study of A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冠状病毒工作组",
+   "en": "Coronavirus Study Group (CSG)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "青年学",
+   "en": "study of youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.2.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年研究",
+   "subjectName": "青年研究",
+   "publishYear": "2025",
+   "definition": "介于社会学、教育学、心理学之间的交叉学科。主要内容为：青年的身心发展规律；青年与社会的互动规律；青年的需求与引导规律。青年研究在20世纪80年代初创时期的称呼和研究纲领，现在已不再沿用。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种测量患者健康结果的指标。其测量范围超越了传统的死亡率和患病率，还包括生理、功能、社会活动、认知、情感、睡眠和休息、精力和活动、健康感知和总体生存满意度等多个维度的评估。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.045",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "全面评价个体或群体生存优劣、好坏的概念。主要侧重于对人的物质生活以及精神文化等需求满足程度和环境状况的评价。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "5",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.9.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体在不同文化和价值体系中，对其生活目标、期望、标准及所关心事情有关的生活状态的主观体验。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "科学的社会研究",
+   "en": "social studies of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一个多学科交叉的领域，依其历史脉络，可以分为以实证主义传统为准则的科学社会学、以“强纲领”为核心的科学知识社会学和以常人方法论为基础的田野式科学研究。"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对发生在某一或较少数自然条件下的社会现象进行深入理解的研究策略。"
+  },
+  {
+   "cn": "跨文化研究",
+   "en": "crosscultural study",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "对他者文化进行的研究行为。起初是人类学之父泰勒(E.Tylor）、摩尔根(L.H.Morgan）建立起的一种解释他者社会文化现象的比较方法，也是当初人类学中文化进化论者广泛使用的方法，运用传统的历史资"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将案例和一些列思考题提供给学习者，要求学习者根据自己的认知（所学过的知识、生活经验、价值观等）进行思考和分析讨论，提出自己的看法和办法的教学方法。"
+  },
+  {
+   "cn": "学习指导",
+   "en": "study guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "在教学环境中，教师以学生学习的心理过程为依据，为学生的自主学习等创设有利环境，对学生的学习动机、过程、方法进行指导和引导，从而促进学生发展的教学行为方式。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "学习方法",
+   "en": "study method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过学习实践总结出的具有通用性的解决相关问题的规则和程序。"
+  },
+  {
+   "cn": "文献计量法",
+   "en": "bibliometric study",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.5",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体研究问题所发表的所有文献，采用统计学量化分析方法描述文献在年代、作者、主题等方面的分布结构及变化规律，从而评价和预测该研究的现状及发展趋势的方法。"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiologic study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对涉及食物中毒人群中的疾病或者健康状况分布及其决定因素进行调查研究，提出控制食物中毒的措施对策"
+  },
+  {
+   "cn": "社区研究",
+   "en": "community study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0673",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用人类学中的田野工作、参与观察、访谈等手段，在具有文化相似性的小型社会中进行相关研究的社会科学基础研究方法。人类学家主张将社区视为一个“整体”，对社区中的政治、经济及文化等方面进行彻底而细微的观察与"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.38",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对特定个体或组织进行观察和调查，在充分认识问题或事件的特殊性的基础上来考虑普遍性的研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0658",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "以一个人、一个团体或一个事件为研究对象，广泛搜集各种资料，综合运用各种方法（包括质的方法和量的方法）和分析技术，对复杂情境中的现象进行深入探究的研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
