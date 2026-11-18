@@ -7,6 +7,10 @@ import unittest
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, REPO)
 
+import shutil  # noqa: E402
+import tempfile  # noqa: E402
+
+from tools import check_yuanwen_fidelity as cyf  # noqa: E402
 from tools.check_yuanwen_fidelity import (  # noqa: E402
     SENTINEL, strip_math, strip_math_ex)
 
@@ -147,6 +151,53 @@ class TestMdSideSymmetry(unittest.TestCase):
     def test_fence_body_dropped_for_tex(self):
         t = self._text("```\n\\begin{array}{c} x \\end{array}\n```\n")
         self.assertNotIn("begin", t)
+
+
+class TestIterEntriesDirScope(unittest.TestCase):
+    """iter_entries 的目录枚举面（回归：2026-11-18 修数字目录漏扫）。
+
+    原实现只认 ``d.isalpha() and d.islower()`` 的单字母目录，漏掉数字目录
+    ``yuanwen/1/``，使数字开头词条（如 18thGerman-preKant）在 B1 全库审计里
+    报 "no yuanwen md"——把"审计器看不见"误报成"产物不存在"。这是覆盖面缺陷，
+    不是数据缺陷，故须以回归测试钉住枚举面。
+    """
+
+    def setUp(self):
+        self._dir = tempfile.mkdtemp()
+        for letter, slug in (("a", "abduction"), ("1", "18thGerman-preKant")):
+            d = os.path.join(self._dir, "yuanwen", letter)
+            os.makedirs(d)
+            with open(os.path.join(d, slug + ".md"), "w",
+                      encoding="utf-8", newline="\n") as fh:
+                fh.write("# t\n")
+        # 非单字符目录（容器）须跳过；点号命名是补充材料子文档，不入主件面
+        os.makedirs(os.path.join(self._dir, "yuanwen", "ab"))
+        with open(os.path.join(self._dir, "yuanwen", "a", "abduction.notes.md"), "w",
+                  encoding="utf-8", newline="\n") as fh:
+            fh.write("# s\n")
+        self._old = cyf.repo_path
+        cyf.repo_path = lambda *parts: os.path.join(self._dir, *parts)
+
+    def tearDown(self):
+        cyf.repo_path = self._old
+        shutil.rmtree(self._dir, ignore_errors=True)
+
+    def test_digit_dir_enumerated(self):
+        slugs = {s for s, _ in cyf.iter_entries()}
+        self.assertIn("18thGerman-preKant", slugs)
+
+    def test_letter_dir_enumerated_and_supplement_excluded(self):
+        slugs = {s for s, _ in cyf.iter_entries()}
+        self.assertIn("abduction", slugs)
+        self.assertNotIn("abduction.notes", slugs)
+
+    def test_multi_char_dir_skipped(self):
+        slugs = {s for s, _ in cyf.iter_entries()}
+        self.assertNotIn("ab", slugs)
+
+    def test_only_filter(self):
+        slugs = [s for s, _ in cyf.iter_entries(only="18thGerman-preKant")]
+        self.assertEqual(slugs, ["18thGerman-preKant"])
 
 
 if __name__ == "__main__":

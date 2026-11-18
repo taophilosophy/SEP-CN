@@ -1,0 +1,44 @@
+{
+ "schema": "sep-cn-patch-intersection/1",
+ "patches": 3,
+ "html_changed": 3,
+ "intersection_nonempty": 0,
+ "regressions": 0,
+ "errors": [],
+ "rows": [
+  {
+   "id": "P-001",
+   "slug": "incommensurability",
+   "category": "格式层（空格）",
+   "html_changed": true,
+   "changed_bytes": 1,
+   "b0_before_ok": true,
+   "b0_after_ok": true,
+   "flipped": [],
+   "regressed": []
+  },
+  {
+   "id": "P-002",
+   "slug": "lakatos",
+   "category": "格式层（空格）",
+   "html_changed": true,
+   "changed_bytes": 1,
+   "b0_before_ok": true,
+   "b0_after_ok": true,
+   "flipped": [],
+   "regressed": []
+  },
+  {
+   "id": "P-003",
+   "slug": "yorck",
+   "category": "格式层（空格）",
+   "html_changed": true,
+   "changed_bytes": 1,
+   "b0_before_ok": true,
+   "b0_after_ok": true,
+   "flipped": [],
+   "regressed": []
+  }
+ ],
+ "verdict": "空交集：本池补丁无一改动 B0 判据所及之处，故 B0 求值视图的正确性不能由补丁数据佐证，须由「判定器与 convert_entry 同源」的代码对照保证（ADR-0073 同源对照条）。"
+}

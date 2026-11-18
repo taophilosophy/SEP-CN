@@ -125,8 +125,10 @@ def b1_ok(slug):
     toks_a, st_a = a
     toks_b, st_b = md_text(repo_path(relpath))
     d = multiset_diff(toks_a, toks_b)
-    asym = (st_a["spans"] != st_b["spans"] or st_a["oversize"] or st_b["oversize"]
-            or st_a["unclosed"] or st_b["unclosed"])
+    # bool() 必须显式：or 链在命中计数时返回 int（如 oversize=2），
+    # 机读字段 token_asym 会变成 1/2/True 混杂，消费方按 == True 比较即漏判。
+    asym = bool(st_a["spans"] != st_b["spans"] or st_a["oversize"] or st_b["oversize"]
+                or st_a["unclosed"] or st_b["unclosed"])
     token_ok = (d is None) or asym  # asym 时判据不适用（软信号单列），不判失败
     return {"slug": slug, "b1": (not pin_bad) and token_ok,
             "pin_bad": pin_bad, "token_diff": d, "token_asym": asym}
