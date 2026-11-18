@@ -1,0 +1,102 @@
+{
+ "key": "binarism",
+ "term": "binarism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:40:26+00:00",
+ "status": "ok",
+ "note": "variant=binarism; 审定公布名词库=5; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "替代现象",
+   "en": "vicarism",
+   "source": "生态学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "关系密切的亲缘种和生态等价的分类单位，在地理分布上相互取代的现象。"
+  },
+  {
+   "cn": "双棱镜",
+   "en": "biprism",
+   "source": "物理学名词",
+   "wordNumber": "04.0166",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复柱",
+   "en": "biprism",
+   "source": "地质学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "菲涅耳双棱镜",
+   "en": "Fresnel biprism",
+   "source": "物理学名词",
+   "wordNumber": "04.0924",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "菲涅耳双棱镜干涉实验",
+   "en": "interference experiment of Fresnel biprism",
+   "source": "光学名词",
+   "wordNumber": "01.566",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "利用两个对接的棱镜实现分波前干涉的一个实验。它的实现是：由点光源发出的光波通过分束器分成两个波前，并分别射入两棱镜经折射后，其两束出射光在空间交叠处满足相干条件呈现出干涉条纹。"
+  },
+  {
+   "cn": "成双性",
+   "en": "binarity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "替代现象",
+   "en": "vicarism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "替代现象",
+   "en": "vicarism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "双棱镜",
+   "en": "biprism，double prism",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

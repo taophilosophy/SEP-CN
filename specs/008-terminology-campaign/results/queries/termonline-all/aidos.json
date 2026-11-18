@@ -1,0 +1,502 @@
+{
+ "key": "aidos",
+ "term": "aidōs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:39:15+00:00",
+ "status": "ok",
+ "note": "variant=aidōs; 审定公布名词库=51; 海峡两岸名词对照库=18; 其他来源数据库=1; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "计划生育名词",
+   "wordNumber": "03.513",
+   "subjectFullName": "计划生育_计划生育临床_炎症",
+   "subjectName": "炎症",
+   "publishYear": "2019",
+   "definition": "由人类免疫缺陷病毒（HIV）感染引起的综合征。人类免疫缺陷病毒通过性接触、血液和母婴传播，主要侵犯和破坏人体辅助性T淋巴细胞，使细胞免疫功能部分或完全丧失，继而发生条件致病性感染和肿瘤。自发现以来，蔓"
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "结核病学名词",
+   "wordNumber": "03.366",
+   "subjectFullName": "结核病学_结核病诊断_结核病分类_并发症和合并症",
+   "subjectName": "并发症和合并症",
+   "publishYear": "2019",
+   "definition": "由人类免疫缺陷病毒感染引起的综合征。主要侵犯和破坏人体辅助性T细胞，使细胞免疫功能部分或完全丧失，继而发生条件致病性感染和肿瘤。一般通过性接触、血液和母婴传 播。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "泌尿外科学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统感染与炎症",
+   "subjectName": "泌尿、男性生殖系统感染与炎症",
+   "publishYear": "2014",
+   "definition": "因感染人类免疫缺陷病毒后引起的一种慢性传染病。人类免疫缺陷病毒主要侵犯和破坏辅助性T淋巴细胞，经过数年甚至更长时间潜伏感染使机体细胞免疫功能受到损害，引起发病，最后并发各种严重的机会感染和肿瘤而死亡。"
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "由人类免疫缺陷病毒引起的一种传染病。患者免疫力极度下降，由此引起一系列的感染、肿瘤等病变。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "免疫学名词",
+   "wordNumber": "3.144",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2007",
+   "definition": "由人类免疫缺陷病毒(HIV)感染所致的继发性免疫缺陷病。HIV侵入表达CD4分子的Th细胞和单核/巨噬细胞等，引发以细胞免疫功能严重受损为主的免疫缺陷病。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.530",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome,AIDS",
+   "source": "医学名词 第四分册",
+   "wordNumber": "05.123",
+   "subjectFullName": "医学_传染病学",
+   "subjectName": "传染病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immune deficiency syndrome,AIDS",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.276",
+   "subjectFullName": "中医药学_皮肤科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "感染艾滋病病毒，以早期乏力，易感冒，继则皮肤黏膜溃疡，高热不退，消瘦，出血，肺部感染，多脏器损害等为主要表现的性传染病。"
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immune deficiency syndrome,AIDS",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1400",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "感染艾滋病病毒，以早期乏力，易感冒，继则皮肤黏膜溃疡，高热不退，消瘦，出血，肺部感染、多脏器损害等为主要表现的性病。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immune deficiency syndrome,AIDS",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.1198",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "调试工具",
+   "en": "debugging aids",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1225",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "帮助程序人员调试程序的一种例行程序。例如，它可为程序人员提供所选择的存储区的内容。"
+  },
+  {
+   "cn": "艾滋病患者",
+   "en": "AIDS patient",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.100",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "免疫系统受到人类免疫缺陷病毒破坏，引发各种感染和肿瘤及相关症状的患者。"
+  },
+  {
+   "cn": "导航设备",
+   "en": "navigation aids",
+   "source": "航海科技名词",
+   "wordNumber": "04.0003",
+   "subjectFullName": "航海科学技术_电子航海",
+   "subjectName": "电子航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "助听器",
+   "en": "hearing aids",
+   "source": "电子学名词",
+   "wordNumber": "25.079",
+   "subjectFullName": "电子学_生物医学电子学",
+   "subjectName": "生物医学电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "助视器",
+   "en": "visual aids",
+   "source": "电子学名词",
+   "wordNumber": "25.080",
+   "subjectFullName": "电子学_生物医学电子学",
+   "subjectName": "生物医学电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "助行器",
+   "en": "mobility aids",
+   "source": "电子学名词",
+   "wordNumber": "25.081",
+   "subjectFullName": "电子学_生物医学电子学",
+   "subjectName": "生物医学电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "档案检索工具",
+   "en": "archival finding aids",
+   "source": "档案学名词",
+   "wordNumber": "03.04.050",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "用于存储、查找和报道档案信息的系统化文字描述工具，是目录、索引、指南等的统称。"
+  },
+  {
+   "cn": "艾滋病相关性淋巴结病",
+   "en": "AIDS-associated lymphadenopathy",
+   "source": "病理学名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "病理学_淋巴造血系统",
+   "subjectName": "淋巴造血系统",
+   "publishYear": "2020",
+   "definition": "在人类免疫缺陷病毒（HIV）感染过程中发生的与HIV感染/艾滋病直接相关的淋巴结病变。"
+  },
+  {
+   "cn": "艾滋病标志性病变",
+   "en": "AIDS-defining condition",
+   "source": "感染病学名词",
+   "wordNumber": "03.0494",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "20余种特异的机会感染性疾病及肿瘤疾病的合称。人类免疫缺陷病毒感染者出现上述疾病时，即可诊断为艾滋病。"
+  },
+  {
+   "cn": "艾滋病相关痴呆综合征",
+   "en": "AIDS dementia complex",
+   "source": "感染病学名词",
+   "wordNumber": "03.0498",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "发生于艾滋病期的一种神经功能障碍。主要表现为认知能力的下降，还可伴有运动、语言及行为的异常。"
+  },
+  {
+   "cn": "调试工具",
+   "en": "debugging aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无线电辅助设备",
+   "en": "radio aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助行器",
+   "en": "mobility aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助视器",
+   "en": "visual aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助听器",
+   "en": "hearing aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "导航设备",
+   "en": "navigation aids",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "助航标志",
+   "en": "aids to navigation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "无线电导航辅助设备",
+   "en": "radio navigational aids",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象辅助业务",
+   "en": "meteorological aids service",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "助航标志",
+   "en": "aids to navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艾滋病相关综合征，AIDS前期症状",
+   "en": "AIDS-related complex， ARC",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫缺陷综合征，艾滋病",
+   "en": "acquired immunodeficiency syndrome， AIDS",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内河航标",
+   "en": "inland waterway navigation aids",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "运河航标",
+   "en": "navigation aids on canal",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自主式导航设备",
+   "en": "self-contained navigational aids",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自动雷达标绘仪",
+   "en": "automatic radar plotting aids\",\"ARPA",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抗艾滋病药",
+   "en": "anti-acquied immunodeticiency syndrome drug(anti-AIDS drug)",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抗艾滋病药",
+   "en": "anti-AIDS drug （=anti-acquired immuno-deficiency syndrome drug）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "协调扶助",
+   "en": "harmonious use of aids",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核武器损伤救治first-aid",
+   "en": "due to nuclear weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器损伤救治",
+   "subjectName": "核武器损伤救治",
+   "publishYear": "2025",
+   "definition": "对核武器杀伤因素所致伤员所采取的急救治疗措施。"
+  },
+  {
+   "cn": "自身炎症性疾病",
+   "en": "autoinflammatory diseases, AIDs",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "由于基因突变导致编码蛋白改变、引起固有免疫异常导致机体出现全身或器官炎症反应的一组疾病，大多为单基因疾病。表现为反复发热、皮疹、浆膜炎、淋巴结病、血管病变和肌肉骨骼症状等，并伴急性期反应物升高，发作间"
+  },
+  {
+   "cn": "食品工业用加工助剂",
+   "en": "food processing aids",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "保证食品加工能顺利进行的各种物质，与食品本身无关。如助滤、澄清、吸附、润滑、脱模、脱色、脱皮、提取溶剂、发酵用营养物质等"
+  },
+  {
+   "cn": "受艾滋病影响儿童",
+   "en": "children affected by AIDS",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "因父母或本人感染艾滋病病毒而受到不利影响的儿童，特别是父母因艾滋病离世的孤儿。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome，AIDS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "由人类免疫缺陷病毒感染造成的一种严重免疫缺陷综合征。HIV主要攻击CD4+T淋巴细胞，引起免疫功能丧失。潜伏期平均为8～9年，发病后可并发机会性感染及肿瘤，严重者可导致死亡。"
+  },
+  {
+   "cn": "预防艾滋病教育",
+   "en": "HIV/AIDS prevention education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "围绕预防艾滋病，通过多种形式教学活动开展的综合性健康教育。旨在帮助学生了解预防艾滋病相关知识、培养其健康的生活方式、增强自我保护意识和抵御艾滋病侵袭的能力。"
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immune deficiency syndrome，AIDS",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.022",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "全称“获得性免疫缺陷综合征”。由感染人类免疫缺陷病毒（human immunodeficiencyvirus，HIV）引起的一种破坏性和危害性极大的传染病。主要通过性接触、血液和母婴传播。HIV 可严"
+  },
+  {
+   "cn": "艾滋病自愿咨询检测",
+   "en": "aids voluntary counseling and testing",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.031",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体主动咨询并自愿接受艾滋病病毒检测，以尽早发现、及时治疗和预防感染，促使受检者减少危险行为，预防艾滋病病毒传播的行为或过程。"
+  },
+  {
+   "cn": "孕产妇艾滋病检测率",
+   "en": "AIDS testing coverage in pregnant women",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.14",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区孕期至产时接受过1次及以上艾滋病病毒抗体检测的产妇人数与同期当地产妇数之比。"
+  },
+  {
+   "cn": "预防艾滋病、梅毒和乙肝母婴传播项目",
+   "en": "project to prevent mother-to-child transmission of AIDS, syphilis and hepatitis B",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "为孕产妇免费提供的预防艾滋病、梅毒和乙型肝炎母婴传播的国家重大公共卫生项目。由国家卫生行政部门于2001年启动，2015年实现预防上述三种疾病母婴传播整合型服务模式的全国覆盖。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

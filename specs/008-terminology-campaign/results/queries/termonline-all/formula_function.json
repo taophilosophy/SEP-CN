@@ -1,0 +1,652 @@
+{
+ "key": "formula function",
+ "term": "formula function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:22+00:00",
+ "status": "ok",
+ "note": "variant=formula function; 审定公布名词库=3573; 海峡两岸名词对照库=863; 其他来源数据库=107; 预公布名词数据库=160; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "配合式",
+   "en": "formula",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0049",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "按总氮-有效五氧化二磷-氧化钾（N-P2O5-K2O）顺序，用阿拉伯数字分别表示其在复混肥料中所占百分比含量的一种方式。“0”表示肥料中不含该元素。"
+  },
+  {
+   "cn": "公式",
+   "en": "formula",
+   "source": "数学名词",
+   "wordNumber": "01.0042",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "上颚齿式",
+   "en": "maxillary formula;jaw formula",
+   "source": "动物学名词",
+   "wordNumber": "5.1456",
+   "subjectFullName": "动物学_无脊椎动物学_环节动物门",
+   "subjectName": "环节动物门",
+   "publishYear": "2021",
+   "definition": "环节动物矶沙蚕目颚片排列、小齿数目的表达式。"
+  },
+  {
+   "cn": "处方",
+   "en": "prescription,formula",
+   "source": "药学名词",
+   "wordNumber": "02.011",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "医疗和生产中关于药剂调制的一项重要书面文件。"
+  },
+  {
+   "cn": "雅可比公式",
+   "en": "Jacob formula",
+   "source": "地质学名词",
+   "wordNumber": "16.03.077",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "当距抽水井径向距离较小，而抽水时间较长时，泰斯公式的近似表达式。"
+  },
+  {
+   "cn": "矿物化学式",
+   "en": "mineral formula",
+   "source": "地质学名词",
+   "wordNumber": "03.01.022",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "组成矿物的化学成分的表示方法。通常以单矿物化学全分析所得到的各组分的相对百分含量为基础，经计算而得到。包括实验式和结构式。"
+  },
+  {
+   "cn": "实验式",
+   "en": "experimental formula",
+   "source": "地质学名词",
+   "wordNumber": "03.01.023",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "只表示组成矿物的组分种类和数量比的矿物化学式。"
+  },
+  {
+   "cn": "结构式",
+   "en": "structural formula",
+   "source": "地质学名词",
+   "wordNumber": "03.01.024",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "用以表示元素种类及其原子数量之比，反映矿物晶体结构中各组分相互关系及其存在形式的矿物化学式。矿物学中普遍采用的化学式。"
+  },
+  {
+   "cn": "配方掺混",
+   "en": "formula blend",
+   "source": "农学名词",
+   "wordNumber": "09.346",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "根据配方将颗粒肥料充分混合在一起的过程。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "experiential formula",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学实验和生产实践中，从数据出发由拟合得到的近似表达式。通常缺少完整的理论推导过程。"
+  },
+  {
+   "cn": "泻下方",
+   "en": "purgative formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.474",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以泻下药为主配伍组成，具有通导大便、排除胃肠积滞、荡涤实热、攻逐水饮等作用，用于治疗里实证的一类方剂。"
+  },
+  {
+   "cn": "消导方",
+   "en": "digestive formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.475",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以消导药为主配伍组成，具有消食化积、醒脾开胃等功能，治疗食积、气滞、血瘀病证的一类方剂。"
+  },
+  {
+   "cn": "和解方",
+   "en": "mediating formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.476",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以疏通调和药为主配伍组成，具有和解表里、调畅气机的作用，用于治疗少阳病或肝脾不和等病证的一类方剂。"
+  },
+  {
+   "cn": "祛湿方",
+   "en": "desiccating formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.479",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以祛湿药物为主配伍组成，具有化湿利水、祛风除湿等作用，治疗水湿和风湿病证的一类方剂。"
+  },
+  {
+   "cn": "固涩方",
+   "en": "astringent formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.482",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以固涩药为主配伍组成，具有收敛固涩作用，用于治疗气、血、精、津液耗散滑脱等证的一类方剂。"
+  },
+  {
+   "cn": "补虚方",
+   "en": "tonic formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.483",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以补益药为主配伍组成，具有补益畜体气、血、阴、阳不足和扶助正气，用于治疗各种虚证的一类方剂。"
+  },
+  {
+   "cn": "安神方",
+   "en": "sedative formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.485",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以养心安神药为主配伍组成，具有重镇安神功能，用于治疗惊悸、神昏不安等证的一类 方剂。"
+  },
+  {
+   "cn": "驱虫方",
+   "en": "antihelmintic formula",
+   "source": "兽医学名词",
+   "wordNumber": "19.487",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "以驱虫药为主配伍组成，具有驱除和杀灭寄生虫的作用，用于治疗畜禽体内外寄生虫病的一类方剂。"
+  },
+  {
+   "cn": "大森公式",
+   "en": "Omori formula",
+   "source": "地球物理学名词",
+   "wordNumber": "01.023",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "大森房吉(F. Omori)于 1899 年发现的初期微动的持续时间 (S-P时间)与震源距成正比，比例系数约为 8.0km/s。 "
+  },
+  {
+   "cn": "柯西公式",
+   "en": "Cauchy formula",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0598",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "表示任何一个闭合区域上的全纯函数，在区域内部的值完全取决于其在区域边界上的值的公式。 "
+  },
+  {
+   "cn": "［化学］式",
+   "en": "formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公式",
+   "en": "formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "花程式",
+   "en": "flower formula\",\"floral formula",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泊松公式",
+   "en": "Poisson formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "测湿公式",
+   "en": "psychrometric formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式，循环公式",
+   "en": "recurrence formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罗斯贝公式",
+   "en": "Rossby formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱公式",
+   "en": "Poincare formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "斯托克斯公式",
+   "en": "Stokes formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "近似式",
+   "en": "approximation formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离子式",
+   "en": "ionic formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分子式",
+   "en": "molecular formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化学式",
+   "en": "chemical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构式",
+   "en": "structural formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "式量",
+   "en": "formula weight",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投影式",
+   "en": "projection formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十六字诀",
+   "en": "sixteencharacter formula",
+   "source": "马克思主义",
+   "wordNumber": "03.0425",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1929年4月在红四军前委给中央的信中提出的红军游击战的作战基本原则，即“敌进我退，敌驻我扰，敌疲我打，敌退我追”。这一原则是第二次国内革命战争初期,毛泽东、朱德等在井冈山对敌斗争过程中,根据当"
+  },
+  {
+   "cn": "配方乳喂养",
+   "en": "formula feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "婴儿早期由于各种原因不能进行母乳喂养时，完全采用配方乳的喂哺。是替代喂养的一种形式。"
+  },
+  {
+   "cn": "人工配方乳",
+   "en": "formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "将兽乳改造为宏量营养素(蛋白质、脂肪、乳糖)成分尽量“接近”人乳的乳配方制品，如降低其酪蛋白、无机盐的含量；添加一些重要的营养素，强化婴儿生长所需要的维生素、微量营养素。改造后的配方乳，应按年龄选用。"
+  },
+  {
+   "cn": "婴儿配方食品",
+   "en": "infants formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.1",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "适于正常婴儿食用，其能量及营养成分能满足0~6 月龄正常营养需要的配方食品。"
+  },
+  {
+   "cn": "低乳糖配方",
+   "en": "low-lactose formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.9",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳糖由其他碳水化合物部分代替、蛋白质由乳蛋白提供的，适用于乳糖不耐受婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "无乳糖配方食品",
+   "en": "lactose free formula",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "食物成分中以麦芽糖或葡萄糖聚合体代替乳糖的婴儿配方食品(奶粉)，其中蛋白质、脂肪和其他成分仍保留于配方奶成分。"
+  },
+  {
+   "cn": "特殊配方乳",
+   "en": "special formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "对婴儿既有营养作用，又有特殊治疗作用的乳配方制品。"
+  },
+  {
+   "cn": "早产儿配方乳",
+   "en": "preterm formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "按同龄胎儿宫内生长发育所需蛋白质/能量(P：E)设计的乳配方制品，其特点为高能量、高蛋白质，强化钙、磷、铁含量，以满足早产儿/低出生体重儿生后快速生长的需要。"
+  },
+  {
+   "cn": "无乳糖配方",
+   "en": "lactose free formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.8",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳糖由其他碳水化合物完全代替、蛋白质由乳蛋白提供的，适用于乳糖不耐受婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "氨基酸配方",
+   "en": "amino acid formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.12",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳蛋白经加工完全分解为氨基酸、不含食物蛋白质、可适当调整矿物质和维生素含量的，适用于食物蛋白过敏婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "无乳糖配方奶",
+   "en": "lactose-free formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.8",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "以牛奶为基础的不含乳糖的配方奶，专为乳糖不耐受的人群设计。"
+  },
+  {
+   "cn": "资本的总公式",
+   "en": "general formula of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0090",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "G-W-G’，是资本运动的最一般形式，作为资本的货币直接在流通领域内表现出来的资本运动的形式。这表示预付货币额作为资本经过一定的运动又回到原来的形式，并带来一个增值额即剩余价值。这个公式集中反映了产业"
+  },
+  {
+   "cn": "深度水解配方乳",
+   "en": "extensively hydrolyzed formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "水解牛乳酪蛋白或乳清蛋白后的乳配方制品，其中氮以游离氨基酸以及分子量<1500的肽的形式存在，少量分子量 >3500。在不同的配方奶中，水解蛋白的程度和广度均不同。"
+  },
+  {
+   "cn": "无苯丙氨酸配方乳",
+   "en": "free phenylalanine formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "除苯丙氨酸外，均含有各种必需氨基酸、非必需氨基酸、碳水化合物、脂肪、必需脂肪酸、维生素和矿物质等的乳配方制品。"
+  },
+  {
+   "cn": "豆基婴儿配方食品",
+   "en": "soy-based infants formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以大豆及大豆蛋白制品为主要蛋白质来源，加入适量的维生素、矿物质和（或）其他成分，仅用物理方法生产加工制成的适用于正常婴儿食用的产品。"
+  },
+  {
+   "cn": "乳蛋白深度水解配方",
+   "en": "lactoprotein deeply-hydrolyzed formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳蛋白经加工全部分解为肽段和氨基酸、不含食物蛋白质、可适当调整矿物质和维生素含量的，适用于食物蛋白过敏婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "乳基婴儿配方食品",
+   "en": "diary-based infants formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.2",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品为主要蛋白质来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的适用于正常婴儿食用的产品。"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "乳蛋白部分水解配方",
+   "en": "lactoprotein partially-hydrolyzed formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.10",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳蛋白经加工分解成小分子乳蛋白、肽段和氨基酸、乳糖可由其他碳水化合物完全或部分替代的，适用于乳蛋白过敏高风险婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "保健食品配方",
+   "en": "formula of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可以反复使用的、限定了保健食品从加工生产到获得最终产品的整个过程中所使用的原料辅料的种类与用量、生产工艺、质量标准等的指导性要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

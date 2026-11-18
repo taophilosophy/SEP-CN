@@ -1,0 +1,272 @@
+{
+ "key": "mulla adra",
+ "term": "Mullā adrā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:54:44+00:00",
+ "status": "ok",
+ "note": "variant=Mullā adrā; 审定公布名词库=15; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "细腐殖质",
+   "en": "mull",
+   "source": "土壤学名词",
+   "wordNumber": "02.499",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "腐殖物质与黏粒的复合体。"
+  },
+  {
+   "cn": "细腐殖质",
+   "en": "mull,mild humus",
+   "source": "林学名词",
+   "wordNumber": "02.201",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "森林土壤表层的有机质与矿质土层充分混合(如形成发育很好的A层)的腐殖质组型。"
+  },
+  {
+   "cn": "石蜡糊法",
+   "en": "nujol mull method",
+   "source": "药学名词",
+   "wordNumber": "06.289",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "将固体样品研成细末，与液体石蜡油混合成糊状，然后夹在两窗片之间进行测定的红外样品处理方法。"
+  },
+  {
+   "cn": "不良反应",
+   "en": "adverse reaction,ADR",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0340",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "用药后产生与用药目的不相符的，并给患者带来不适或痛苦的反应。"
+  },
+  {
+   "cn": "遗传药理学不良反应",
+   "en": "pharmaco-genetical ADR",
+   "source": "药学名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "因机体遗传因素对药理反应造成的影响，导致的非期望反应。"
+  },
+  {
+   "cn": "B类药品不良反应",
+   "en": "ADR type B",
+   "source": "药学名词",
+   "wordNumber": "08.003",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "与剂量和常规药理作用无关的不良反应。其发生与患者体质密切相关，难预测，发生率低。"
+  },
+  {
+   "cn": "不可预测不良反应",
+   "en": "non-predictable ADR",
+   "source": "药学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "B类或C类药品不良反应。"
+  },
+  {
+   "cn": "A类药品不良反应",
+   "en": "ADR type A",
+   "source": "药学名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "与剂量密切相关的不良反应。可预测。"
+  },
+  {
+   "cn": "C类药品不良反应",
+   "en": "ADR type C",
+   "source": "药学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "通常在长期用药后出现的不良反应。其特点是：难预测、非特异性、没有明确的时间关系、潜伏期长。"
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "adverse drug reaction,ADR",
+   "source": "结核病学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物不良反应",
+   "subjectName": "药物不良反应",
+   "publishYear": "2019",
+   "definition": "合格药物在正常用法和用量时出现的与用药目的无关的或意外的有害反应。按照临床表现分为副作用、毒性反应、依赖性、特异质反应、变态反应、致畸、致癌和致突变等；按照与药理作用有无关联分为A型和B型；按照发生的"
+  },
+  {
+   "cn": "药品不良反应",
+   "en": "adverse drug reaction,ADR",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "药物所引起的不符合药物治疗目的、带来痛苦或危害的反应。包括副作用、毒性反应、后遗效应和变态反应等。也可理解为与研究药物相关的不良事件。"
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "adverse drug reaction,ADR",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.287",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "合格药品在正常用法、用量下出现的与用药目的无关的或意外的有害反应。"
+  },
+  {
+   "cn": "<img src='/root/syzx/static/spz/10.051α.png'/> ₁肾上腺素能受体阻滞剂",
+   "en": "<img src='/root/syzx/static/spz/10.051α.png'/> ₁ adre-nergic receptor blocker",
+   "source": "男科及性医学名词",
+   "wordNumber": "10.051",
+   "subjectFullName": "男科及性医学_前列腺疾病",
+   "subjectName": "前列腺疾病",
+   "publishYear": "2023",
+   "definition": "竞争性与<img src='/root/syzx/static/spz/10.051α.png'/> ₁受体结合，阻抑肾上腺素递质对<img src='/root/syzx/static/spz/10"
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "adverse drug reaction;ADR",
+   "source": "兽医学名词",
+   "wordNumber": "17.134",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "药物除治疗作用外，其他与用药目的无关或对动物产生有害的作用的统称。"
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "adverse drug reaction;ADR",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.197",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗疗效评价",
+   "subjectName": "化疗疗效评价",
+   "publishYear": "2022",
+   "definition": "合格药品在正常的用法用量下出现了与用药目的无关的有害反应。恶性肿瘤患者系统地接受了肿瘤化疗治疗，在治疗过程或治疗后的不良反应与药物的因果关系不能否定。"
+  },
+  {
+   "cn": "细腐殖质",
+   "en": "mull",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "石蜡糊法",
+   "en": "nujol mull method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不可预报不良反应",
+   "en": "nonpredictable ADR",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可预报不良反应",
+   "en": "predictable ADR",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "遗传药理学不良反应",
+   "en": "pharmacogenetical ADR",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "A类药品不良反应",
+   "en": "ADR type A",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "B类药品不良反应",
+   "en": "ADR type B",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "剂量无关型不良反应",
+   "en": "dose-independent ADR",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "剂量相关型不良反应",
+   "en": "dose-dependent ADR",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "替代性纠纷解决方式",
+   "en": "alternative dispute resolution\",\"ADR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "ADR （=adverse drug reaction）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

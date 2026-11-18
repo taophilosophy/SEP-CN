@@ -1,0 +1,662 @@
+{
+ "key": "proportion",
+ "term": "Proportion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:52:06+00:00",
+ "status": "ok",
+ "note": "variant=Proportion; 审定公布名词库=245; 海峡两岸名词对照库=47; 其他来源数据库=6; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "风景园林名词",
+   "wordNumber": "07.0096",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "建筑物各个组成部分或和整体在尺度上的相互数量关系。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "建筑学名词",
+   "wordNumber": "09.0107",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "(1)在绘图中表示图形与其实物相应要素的线性尺寸之比。(2)在建筑的构成中，指物质形态的局部与局部、局部与整体之间的比值关系。"
+  },
+  {
+   "cn": "构成比",
+   "en": "proportion",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "说明同一事物内部各组成部分所占的比重或分布情况，可用百分数表示。分子与分母的单位相同，而且分子包含于分母之中。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0074",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "黄金比例",
+   "en": "golden proportion",
+   "source": "整形外科名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "整形外科_整形外科学概论_整形外科美学",
+   "subjectName": "整形外科美学",
+   "publishYear": "2026",
+   "definition": "将整体一分为二，当较大部分与整体的比值等于较小部分与较大部分的比值时，该比值约为0.618，被公认为是最能引起美感的比例。"
+  },
+  {
+   "cn": "配合比",
+   "en": "mixture proportion",
+   "source": "风景园林名词",
+   "wordNumber": "08.0464",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "混合料组成材料之间的比例关系。"
+  },
+  {
+   "cn": "抽样比",
+   "en": "sample proportion",
+   "source": "计划生育名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "抽样时抽取的样本单位数与总体单位数之比。"
+  },
+  {
+   "cn": "细长比",
+   "en": "slender proportion",
+   "source": "冶金学名词",
+   "wordNumber": "09.1014",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "坯料的长度与直径的比。"
+  },
+  {
+   "cn": "入选率",
+   "en": "selection proportion",
+   "source": "林学名词",
+   "wordNumber": "04.059",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "选择个体数目占选择群体总数的比例。用符号P表示。"
+  },
+  {
+   "cn": "最适比例",
+   "en": "optimal proportion",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.409",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "连比",
+   "en": "continued proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0078",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正比",
+   "en": "direct proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0080",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反比",
+   "en": "inverse proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0081",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0311",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一种测量放射性强度的装置。由充气（常用甲醇与氩混合气体）的管或小室作探头，当对探头施加的电压在一定范围内时，射线在管内引起电离所产生的脉冲大小与射线的能量成正比，与探头相连的电子系统就能够分析不同能量"
+  },
+  {
+   "cn": "比例电磁铁",
+   "en": "proportional solenoid",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1005",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "输出力随控制信号的变化而变化，并呈一定比例关系的电磁铁。"
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0387",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "产生比例控制作用的控制器。"
+  },
+  {
+   "cn": "比例税",
+   "en": "proportional taxation",
+   "source": "经济学名词",
+   "wordNumber": "09.086",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "对同一课税对象，不论数额大小，均按同一比例计征的一种税率制度。"
+  },
+  {
+   "cn": "比例采样",
+   "en": "proportional sampling",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.607",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "采用从流动水中采样的技术，在不连续采样时，其采样频率或连续采样的流速与所采水的流速成正比。"
+  },
+  {
+   "cn": "比例极限",
+   "en": "proportional limit",
+   "source": "冶金学名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料在不偏离应力与应变正比关系(胡克定律)条件下所能承受的最大应力。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter",
+   "source": "冶金学名词",
+   "wordNumber": "04.0651",
+   "subjectFullName": "冶金学_冶金物理化学_冶金物理化学研究方法",
+   "subjectName": "冶金物理化学研究方法",
+   "publishYear": "2019",
+   "definition": "与射线在计数管中电离所形成的最初离子数呈正比地给出电压脉冲的测量射线强度的仪器。"
+  },
+  {
+   "cn": "符值比例法",
+   "en": "proportion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例度",
+   "en": "proportional band",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例增益",
+   "en": "proportional gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例灵敏度",
+   "en": "proportional sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例元件",
+   "en": "proportional element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例作用",
+   "en": "proportional action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均衡凝固",
+   "en": "proportional solidification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "比例抽样",
+   "en": "proportional sampling",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比例阀",
+   "en": "proportional valve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比例误差",
+   "en": "proportional error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "比例带",
+   "en": "proportional band",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例式旋转变压器",
+   "en": "proportional revolver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例指令",
+   "en": "proportional command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务促进",
+   "en": "e-commerce promotion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康扶贫",
+   "en": "poverty alleviation through health promotion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据标准宣传推广",
+   "en": "promotion of big data standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国扶贫志愿服务促进会",
+   "en": "China Poverty-Alleviation Promotion of Volunteer Service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地方政府标准化协调推进机制",
+   "en": "coordination and promotion mechanism of local governments for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按一定比例共同支付医疗费用，可以是一个固定的比率，也可以是变动的比率。"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的80%及以上。"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%～79%"
+  },
+  {
+   "cn": "低比例母乳喂养",
+   "en": "low-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%以下。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "食源性传播占比",
+   "en": "proportion of foodborne transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性传播引起的疾病负担占总的疾病负担的比例。"
+  },
+  {
+   "cn": "后运方法构成比",
+   "en": "proportion of evacuation methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每百名伤员采用不同后运方法的百分构成比。后运方法常分步行、担架、救护车、回程空车、卡车、船、卫生列车、飞机及其他。"
+  },
+  {
+   "cn": "卫生技术人员占比",
+   "en": "proportion of health technicians",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生技术人员在卫生人力资源中的比重，等于卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "麻醉方法构成比",
+   "en": "proportion of anesthesia methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.8",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名手术伤员采用不同麻醉方法的百分比。"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "工作量及其比例情况分析",
+   "en": "workload and proportion analysis",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "通过分析病床、住院、门诊和医疗技术科室等方面工作量及其比例情况，反映医院人力、物力和技术效果是否得到正常发挥。工作量越大，表示完成的任务越多。治疗的疑难病种越多，表示发挥技术的效能越高。"
+  },
+  {
+   "cn": "医院卫生技术人员占比",
+   "en": "proportion of hospital health technicians ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "医院卫生技术人员在卫生人力资源中的比重，等于各类医院中卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "基层卫生机构卫生技术人员占比",
+   "en": "proportion of primary health workers",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "基层卫生机构卫生技术人员在卫生人力资源中的比重，等于基层卫生机构卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "非战斗伤构成比",
+   "en": "proportion of non-battle injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "非战斗伤伤员中不同的伤类、伤情所占百分比。"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "火线救护种类构成比",
+   "en": "proportion of fire rescue types",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "连、营火线救护每百名伤员中，自救、互救、卫救及未包扎分别所占百分比，用来分析火线抢救力量是否足够以及战前包扎训练是否有效等，统计时皆以第一次救护者为准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

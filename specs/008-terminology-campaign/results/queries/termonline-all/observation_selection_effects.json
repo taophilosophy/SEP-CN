@@ -1,0 +1,702 @@
+{
+ "key": "observation selection effects",
+ "term": "observation selection effects",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:41:07+00:00",
+ "status": "ok",
+ "note": "variant=observation selection effects; 审定公布名词库=6914; 海峡两岸名词对照库=2258; 其他来源数据库=183; 预公布名词数据库=313; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "行动者-观察者效应",
+   "en": "actor-observer effect",
+   "source": "心理学名词",
+   "wordNumber": "07.045",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "在行为归因上，观察者高估个人特质，行动者高估情境因素的现象。"
+  },
+  {
+   "cn": "择形效应",
+   "en": "shape-selective effect",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.133",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "分子筛催化剂根据其晶体内通道的大小，只能让某一定大小或某一形状的分子通过的特性。"
+  },
+  {
+   "cn": "择形效应",
+   "en": "shape-selective effect",
+   "source": "化学名词",
+   "wordNumber": "04.0772",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "因为催化剂孔道大小的限制而导致的反应选择性的差别。"
+  },
+  {
+   "cn": "选择性毒作用",
+   "en": "selective toxic effect",
+   "source": "药学名词",
+   "wordNumber": "07.143",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "外源物质对不同特种，或同一物不同器官毒效应的专一性。"
+  },
+  {
+   "cn": "选择效果解释",
+   "en": "selected effect account",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.437",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "将有机体的特性（功能）看作为应对所处环境中的难题，通过自然选择过程而演化出的有用工具。"
+  },
+  {
+   "cn": "观察到效应的最低水平",
+   "en": "lowest observed effect level",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.224",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "在规定的暴露条件下，与适当的对照机体比较，一种物质引起机体某种非有害作用(如治疗作用)的最低剂量或浓度。"
+  },
+  {
+   "cn": "未观察到效应的水平",
+   "en": "no observed effect level",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.225",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "在规定的暴露条件下，与适当的对照机体比较，一种物质不引起机体任何作用(有害作用或非有害作用)的最高剂量或浓度。"
+  },
+  {
+   "cn": "药物作用选择性",
+   "en": "selectivity of drug effect",
+   "source": "麻醉学名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "由于药物理化性质及组织器官细胞的生化特点不同，某些药物对一些组织器官有作用，而对另外一些器官组织无明显作用的现象。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过感官（包括使用仪器获得的信息）收集经验证据的过程。"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0105",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "细察事物的现象、动向，是一种有目的、有计划、比较持久的活动。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0106",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "留验",
+   "en": "observation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0344",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "事物或现象能被人的感官（通过仪器）直接经验或知觉到的可能性。"
+  },
+  {
+   "cn": "观察者",
+   "en": "observer",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.052",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "观察活动的主体。即进行科学观察的人，决定观察仪器的使用和观察对象的选择。"
+  },
+  {
+   "cn": "可观测量",
+   "en": "observable",
+   "source": "物理学名词",
+   "wordNumber": "06.0543",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能观性",
+   "en": "observability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0924",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "系统的状态变量可由外部变量（输入变量和输出变量）的实测值来重构或估计的一种性能。如果根据系统的外部变量的实测值能够估计或重构出全部的状态变量，称系统为完全能观的，否则称系统为不完全能观的。"
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体可以看到一项创新结果的可能性程度。观察到结果的创新，容易被采纳。"
+  },
+  {
+   "cn": "气象观测员",
+   "en": "observer",
+   "source": "大气科学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "在各级气象台站或哨所中从事地面、日(辐)射或高空等各种气象观测工作的人员的总称。"
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "化学工程名词",
+   "wordNumber": "05.187",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "选择效应",
+   "en": "selection effect",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行动者-观察者效应",
+   "en": "actor observer effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观察者-行为者效应",
+   "en": "observer actor effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观测员",
+   "en": "observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "观测仪",
+   "en": "observer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "观测器",
+   "en": "observer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无毒性效应剂量",
+   "en": "non-observed effect dose（NOED）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无毒性效应剂量",
+   "en": "NOED （=non-observed effect dose）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "观测点",
+   "en": "observation spot\",\"observation  station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "倾斜观测",
+   "en": "oblique observation\",\"tilt  observation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "常规观测",
+   "en": "routine observation，regular observation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "观",
+   "en": "Observation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观象",
+   "en": "Observing Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弧线球",
+   "en": "effect\",\"swerve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "未观察到有害作用水平",
+   "en": "no observed adverse effect level，NOAEL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在规定的试验条件下，用现有的技术手段或检测指标未观察到任何与外源化学物有关的有害效应的最大剂量或浓度。"
+  },
+  {
+   "cn": "观察到有害作用最低水平",
+   "en": "lowest observed adverse effect level，LOAEL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在规定的试验条件下，外源化学物引起实验动物某种可观察到的损害作用的最低剂量或浓度。"
+  },
+  {
+   "cn": "实验室观察",
+   "en": "laboratory observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在实验室中对研究对象、观察情景与条件进行严密控制的情况下进行的观察。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "生理学法",
+   "en": "physiological observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过测定视觉功能状态，间接反映脑力工作能力的水平，以分析和评价疲劳程度的方法。常用的方法为明视持久度、临界闪光融合频率。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后造成的个体、器官或组织的生物学改变，是量反应，变化的程度用计量单位表示。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后所引起的一个生物个体、器官或组织的生物学改变"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

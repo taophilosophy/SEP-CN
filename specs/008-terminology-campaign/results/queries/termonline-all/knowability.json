@@ -1,0 +1,62 @@
+{
+ "key": "knowability",
+ "term": "knowability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:24+00:00",
+ "status": "ok",
+ "note": "variant=knowability; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "[粉末]流动性",
+   "en": "flowability",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.059",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "粉末在规定的条件下通过小孔的难易程度。用标准量(通常为50g)的粉末由标准漏斗流出所需的时间来表示，单位s/50g。"
+  },
+  {
+   "cn": "流动性",
+   "en": "flowability",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0558",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "松散的粉体颗粒通过流动进行移动的能力。粉体的流动性常用休止角和流速表示。休止角越小，流速越大，流动性越好。"
+  },
+  {
+   "cn": "流动性试验器",
+   "en": "flowability tester",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.473",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_铸造仪器名称_冲天炉及铸造合金测试仪",
+   "subjectName": "冲天炉及铸造合金测试仪",
+   "publishYear": "2003",
+   "definition": "检验液态金属流动能力时，所使用的各种标准模具。"
+  },
+  {
+   "cn": "低温流动性",
+   "en": "low temperature flowability",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1253",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "油样在低温条件下的流动性能。可以通过目测、黏度测量、扭矩测量等来考察。"
+  },
+  {
+   "cn": "铸造合金真空流动性测试仪",
+   "en": "vacuum flowability tester of casting alloy",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.468",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_铸造仪器名称_冲天炉及铸造合金测试仪",
+   "subjectName": "冲天炉及铸造合金测试仪",
+   "publishYear": "2003",
+   "definition": "根据液态金属的重量、温度的不同而吸入铸型内长度异同的原理，测定有色及黑色液态金属流动性的仪器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

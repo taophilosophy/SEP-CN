@@ -1,0 +1,702 @@
+{
+ "key": "linear notation",
+ "term": "Linear notation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:01+00:00",
+ "status": "ok",
+ "note": "variant=Linear notation; 审定公布名词库=4400; 海峡两岸名词对照库=1225; 其他来源数据库=99; 预公布名词数据库=119; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "标记符号",
+   "en": "notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "可以构成类目或概念标记的字符，如数字、字母、自然语言中的词及其缩写形式（文字标记）和其他符号。一般数字与字母可以单独构成分类标记，是基本的标记符号，词及其缩写和其他符号不能单独构成分类标记，是辅助的标"
+  },
+  {
+   "cn": "表示法",
+   "en": "notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0023",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用于对模型进行表达的文字或图形符号体系。"
+  },
+  {
+   "cn": "μ记号",
+   "en": "μ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0923",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统中表示递归函数（不动点）的符号系统。"
+  },
+  {
+   "cn": "λ表示法",
+   "en": "λ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0903",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算系统中用来表示函数的方法。"
+  },
+  {
+   "cn": "颜色标号",
+   "en": "colour notation",
+   "source": "精细化工名词",
+   "wordNumber": "05.0427",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "（1）通过目视比较试样与《中国颜色体系标准样册》或《孟赛尔颜色图册》中色块而确定试样颜色的色调、明度和彩度。（2）根据试样在光源、2°视场并排除镜面光泽条件下测得的CIE系统刺激值（Y）和色度坐标（x"
+  },
+  {
+   "cn": "空间注记",
+   "en": "space notation",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.354",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "使用图画、照片、文字等形式对空间要素、使用和感受等进行的标注和记录。"
+  },
+  {
+   "cn": "整数标记制",
+   "en": "integer notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为整数的一种标记制度。在排列标记符号时，先按位数多少排列，位数相同时再从前往后逐位比较来决定次序的分类方法。区别于“小数标记制”。"
+  },
+  {
+   "cn": "层累标记制",
+   "en": "hierarchical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类时以标记符号的长度显示类目等级层次的标记制度，即分类号的位数与类目的等级数相对应的标记制度。层累制的分类号可反映类目之间的隶属和并列关系。具体编号方法：用一位数字或一个字母来标志大类，再加一位数字"
+  },
+  {
+   "cn": "分段组合标记制",
+   "en": "faceted notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分面标记制的一种类型。通常以特定符号表示主题的各个构成方面，从而使整个分类号由各个具有相对独立性的节段构成。可充分表达复杂主题的构成因子，但是号码冗长，成分复杂。"
+  },
+  {
+   "cn": "小数标记制",
+   "en": "decimal notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为小数的一种标记制度。是由纯阿拉伯数字构成的层累制分类标记的一种结构模式。其规则是采用0~9十个数字作为分类标记，每次可划分为十个类目，加一位数字予以标记。类目级位与分类号位数相对应"
+  },
+  {
+   "cn": "范畴号",
+   "en": "category notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.343",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "款目词在范畴索引中的类目归属，是查找范畴索引的依据。"
+  },
+  {
+   "cn": "回溯标记制",
+   "en": "retrospective notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.167",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "一种结构型标记制度。通过直接将分类表中的类号与位于其前的分面的类号组合，以表达一个复杂概念的类号。"
+  },
+  {
+   "cn": "let记号",
+   "en": "let-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0922",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "函数式语言中一种描述函数（或语句）中变量取值的符号体系。"
+  },
+  {
+   "cn": "动作表示法",
+   "en": "action notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0873",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "动作语义描述中所使用的形式化表示方法。"
+  },
+  {
+   "cn": "入级标志",
+   "en": "class notation",
+   "source": "船舶工程名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "船级社在授予的入级符号后所附加的表征船舶类型、特种任务、货物种类、航区、冰区加强以及其他含义的一个或一组标志。"
+  },
+  {
+   "cn": "字母数字符号",
+   "en": "alphanumeric notation",
+   "source": "电气工程名词",
+   "wordNumber": "01.923",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "肯德尔记号",
+   "en": "Kendall notation",
+   "source": "数学名词",
+   "wordNumber": "011.0536",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "序数记号",
+   "en": "ordinal notation",
+   "source": "数学名词",
+   "wordNumber": "02.0290",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺序标记制",
+   "en": "non-hierachical notation,ordinal notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.169",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "利用标记符号固有的顺序来标记全部类目的分类标记制度。只标明类目排列次序，从号码长度上不能判断类目的上下位类及同位类关系，属于非结构型标记制。顺序标记制构成的分类号十分简短，不能显示类目之间的隶属和并列"
+  },
+  {
+   "cn": "顺序-层累混合标记制",
+   "en": "semi-hierachical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "结合层累标记制与顺序标记制的优点而制定的标记制度。即把标记符号分成两部分，一部分用层累标记制，另一部分用顺序标记制。"
+  },
+  {
+   "cn": "记号",
+   "en": "notation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记法",
+   "en": "notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例记谱法",
+   "en": "proportional notation\",\"proportionate notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有量记谱法",
+   "en": "mensural notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记数信用证",
+   "en": "notation credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "八进制记数法",
+   "en": "octal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "十六进制记数法",
+   "en": "hexadecimal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制记数法",
+   "en": "binary notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "点分十进制记法",
+   "en": "dotted decimal notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性的",
+   "en": "linear",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性度",
+   "en": "linearity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高程注记",
+   "en": "elevation number\",\"elevation  notation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "船级符号",
+   "en": "ship class symbol notation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "线性四分子（=直列四分体）",
+   "en": "linear tetrad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直列四分体，线性四分子",
+   "en": "linear tetrad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直线迁移",
+   "en": "linear migration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线性波",
+   "en": "linear wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性方程组",
+   "en": "system of linear equations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性表位",
+   "en": "linear epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.23",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "蛋白质中能与T/B 细胞抗原受体结合的单个小区域的氨基酸序列。"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子沿直线路径加速的粒子加速器。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性生长",
+   "en": "linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "以骨骼生长为基础，反映人体长度生长的特征。"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，其光子注量减少的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "电子直线加速器",
+   "en": "electron linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用射频电场加速电子的直线轨道加速器。由电子枪、加速管、射频功率源、射频传输、真空系统、冷却水、束流引出和控制等系统组成。被广泛地应用于肿瘤的放射治疗。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "线碰撞阻止本领",
+   "en": "linear collision stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因电离、激发过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线辐射阻止本领",
+   "en": "linear radioactive stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因轫致辐射过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线能量转移系数",
+   "en": "linear energy transfer coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移的份额。SI单位为米，记作m-1。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "射线粒子在单位长度运动径迹上损失的平均能量。单位为千电子伏特每毫米，记作keV·mm-1。其大小取决于粒子所载电荷和粒子质量。"
+  },
+  {
+   "cn": "探测器剂量线性",
+   "en": "dose linear of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.30",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的响应与所测量的剂量值保持线性关系的现象。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear models (glm)",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于线性模型的结构，容纳了非正态和定类以及定序因变量的单一的统一的模型理论形式。"
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "非线性校正",
+   "en": "correction for non-linearity",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "剂量当量值在变化时的响应和参考响应的商。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "活体捐献器官准则",
+   "en": "guide lines for living organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.026",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "为加强活体器官移植管理，确保活体器官捐献人和接受人的生命安全和身体健康，由卫生行政部门或学术组织制定的有关活体器官捐献行为的规范与要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

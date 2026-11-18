@@ -1,0 +1,742 @@
+{
+ "key": "no-least requirement",
+ "term": "no-least requirement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:53:45+00:00",
+ "status": "ok",
+ "note": "variant=no-least requirement; 审定公布名词库=661; 海峡两岸名词对照库=224; 其他来源数据库=169; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "最小实体要求",
+   "en": "least material requirement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0380",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "设计时应用边界尺寸为最小实体实效尺寸的边界，来控制被测要素的实际尺寸和几何误差的综合结果，要求该要素的实际轮廓不得超出这边界，并且实际尺寸不得超出极限尺寸。"
+  },
+  {
+   "cn": "需要量",
+   "en": "requirement",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "在最适宜环境条件下，正常、健康生长或达到理想状态对各种营养物质种类和数量的最低要求。一个群体平均值，不包括一切可能增加需要量而设定的保险系数。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0230",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算性中的一个条件通常涉及所有图灵机，因此每一个图灵机要求一个子条件，这个子条件就称为一个需求。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0127",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用户或其他利益相关者对被开发的软件产品所提出的要求和期望，包括功能需求和非功能需求。"
+  },
+  {
+   "cn": "要求",
+   "en": "requirement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0537",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "明示的、通常隐含的或必须履行的需求或期望。"
+  },
+  {
+   "cn": "最小作用量",
+   "en": "least action",
+   "source": "物理学名词",
+   "wordNumber": "02.0155",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无效果－无报酬",
+   "en": "no cure-no pay",
+   "source": "航海科技名词",
+   "wordNumber": "13.0177",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "免耕",
+   "en": "no-tillage",
+   "source": "农学名词",
+   "wordNumber": "08.161",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "作物播种前不采用基本耕作和表土耕作，直接在茬地上播种，且作物生长发育期间也不使用农具进行土壤管理的耕法。"
+  },
+  {
+   "cn": "无固定",
+   "en": "no fixed",
+   "source": "运动医学名词",
+   "wordNumber": "01.413",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "躯干肌肉收缩时，上下两端都不固定的肌肉固定方式。"
+  },
+  {
+   "cn": "无填充",
+   "en": "no filling",
+   "source": "核医学名词",
+   "wordNumber": "04.1600",
+   "subjectFullName": "核医学_临床核医学_消化系统核医学_临床常见消化系统疾病",
+   "subjectName": "临床常见消化系统疾病",
+   "publishYear": "2018",
+   "definition": "在肝血池显像时，病变部位显像剂分布低于周围正常肝组织的表现。多见于肝囊肿、肝脓肿。"
+  },
+  {
+   "cn": "免耕",
+   "en": "no-tillage",
+   "source": "林学名词",
+   "wordNumber": "08.114",
+   "subjectFullName": "林学_水土保持与荒漠化防治_水土保持",
+   "subjectName": "水土保持",
+   "publishYear": "2016",
+   "definition": "一种不翻动表土，并全年在土壤表面留下足以保护土壤的作物残茬的耕作方式。其类型包括不耕、条耕、根茬覆盖及其他不翻动表土的耕作措施。"
+  },
+  {
+   "cn": "无光感",
+   "en": "no light perception,no LP",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.036",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "能势动力学",
+   "en": "Nosé dynamics",
+   "source": "化学名词",
+   "wordNumber": "04.1457",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "1984年能势修一(ShuichiNosé)提出恒温时把热浴与体系一起考虑的扩展哈密顿量的方法，从而达到严格符合正则系综的目的。是第一次把分子动力学方法的理论框架建立在严格统计系综的基础上。其缺点是不"
+  },
+  {
+   "cn": "热力型氮氧化物",
+   "en": "thermal NOₓ",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0043",
+   "subjectFullName": "机械工程_动力机械_锅炉_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "燃烧用空气中的氮气(N₂)在高温下氧化而生成的氮氧化物(NOₓ)。"
+  },
+  {
+   "cn": "营养需要量",
+   "en": "nutrition requirement",
+   "source": "普通外科学名词",
+   "wordNumber": "08.057",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "为维持正常营养状况及健康生理状态，机体每天对热量和各种营养素的需求量。"
+  },
+  {
+   "cn": "能量需要量",
+   "en": "energy requirement",
+   "source": "普通外科学名词",
+   "wordNumber": "08.058",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "用于维持人体基础代谢、体力活动和食物的特殊动力作用所需要的能量。"
+  },
+  {
+   "cn": "蛋白质需要量",
+   "en": "protein requirement",
+   "source": "普通外科学名词",
+   "wordNumber": "08.059",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "用于维持代谢需要摄入的蛋白质量。"
+  },
+  {
+   "cn": "淋洗需要量",
+   "en": "leaching requirement",
+   "source": "农学名词",
+   "wordNumber": "12.183",
+   "subjectFullName": "农业水利_农田排水",
+   "subjectName": "农田排水",
+   "publishYear": "2025",
+   "definition": "为满足作物生长及控制土壤根层盐渍化水平，必须通过根区实现淋洗的水量。"
+  },
+  {
+   "cn": "质量要求",
+   "en": "quality requirement",
+   "source": "农学名词",
+   "wordNumber": "18.128",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "产品必须达到的条件或具备的能力。"
+  },
+  {
+   "cn": "石灰需要量",
+   "en": "lime requirement",
+   "source": "农学名词",
+   "wordNumber": "09.092",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "将酸性土壤pH提高至某一数值或将活性铝含量降低至某一数值时，需要加入土壤中的石灰类物质的量。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最小读数",
+   "en": "least count",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最小深度",
+   "en": "least depth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "无效果-无报酬",
+   "en": "no cure-no pay",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空载",
+   "en": "no load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功需要量",
+   "en": "work requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风需求",
+   "en": "ventilation requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率需要量",
+   "en": "power requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "需水量",
+   "en": "water requirement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "额定保证金",
+   "en": "margin requirement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "需氧量",
+   "en": "oxygen requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "养分需要",
+   "en": "nutrient requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "营养需要",
+   "en": "nutritional requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间需求",
+   "en": "space requirement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "复原请求",
+   "en": "resume requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定需求",
+   "en": "qualification requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间需要[量]",
+   "en": "space requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不予共享",
+   "en": "no sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "废靶！",
+   "en": "No bird!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规定速度",
+   "en": "speed required",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化需求",
+   "en": "Data Standardization Requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏掉规定动作",
+   "en": "missing required element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反腐败无禁区、全覆盖、零容忍",
+   "en": "There are no no-go zones, no ground is left unturned, and no tolerance is shown for corruption.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试举失败",
+   "en": "no lift\",\"uncompleted attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "野无遗贤",
+   "en": "No Sagacious Person Ignored",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘方",
+   "en": "least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.86",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使得拟合所得的残差的平方和最小，并据此计算参数估计值和拟合数据的常用技术。"
+  },
+  {
+   "cn": "6",
+   "en": "solvent No.6",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "由石油直馏馏分经精制而得的无色透明液体，馏程在61℃至76℃之间，主要成分为己烷等脂肪属碳氢化合，在食用油脂的提取工艺中用作浸油溶剂"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "儿童能量需要量",
+   "en": "child energy requirement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童基础代谢、生长所需、食物的热力作用、活动和排泄损耗所需的能量总和。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "无菌生长",
+   "en": "no growth of bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.29.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "灭菌试验检测中，试验样品结果为阴性的现象。"
+  },
+  {
+   "cn": "社会主义不搞两极分化",
+   "en": "no socialism with polarization",
+   "source": "马克思主义",
+   "wordNumber": "03.0584",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义最大的优越性就是共同富裕。如果搞两极分化，阶级矛盾、民族矛盾、区域矛盾、都会发展，中央和地方的矛盾也会发展，就可能出乱子。如果导致两极分化，改革就算失败了；如果仅仅是少数人富有，那就落到资本主"
+  },
+  {
+   "cn": "无价格经济模式",
+   "en": "no price economic model",
+   "source": "马克思主义",
+   "wordNumber": "05.0185",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪下半叶比利时经济学家欧内斯特·曼德尔（Ernest Mandel）认为，丰裕指需求的饱和。当某一产品需求的边际弹性大约为零或在零以下，这时该产品是丰裕的。在这个水平上，对该产品实行免费分配（可"
+  },
+  {
+   "cn": "“三不两利”",
+   "en": "Three-Nos Two-Benefits",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0104",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "建国初期党和国家在少数民族牧区实行民主改革、发展生产的重要政策之一。“三不”指不分配牧主的牲畜，不斗争牧主，不公开划分阶级成分。“两利”指在废除牧主对广大贫苦牧民封建特权和封建剥削的基础上，实行合理的"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "中国不允许乱",
+   "en": "China will tolerate no disturbances",
+   "source": "马克思主义",
+   "wordNumber": "04.0151",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1989年3月4日在同中央负责同志谈话时提出的论断。“中国不允许乱”，是我党执政的重要历史经验，是中国人民的根本利益所在，是坚持人民民主专政的应有之义，对于我们治国理政具有重要的现实意义和深远的"
+  },
+  {
+   "cn": "非酶褐变产物",
+   "en": "no-enzyme browning reaction products",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.10",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "食品组分尤其是碳水化合物在一定温度、湿度和pH条件下发生焦糖化和（或）美拉德反应等非酶褐变反应而生成的产物，通常具有香味特性"
+  },
+  {
+   "cn": "最小均方评价法",
+   "en": "least mean square method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "基于最小二乘法来评估个体和群体儿童生长发育的方法。该方法有三个核心变量：实测数据转换为正态把握度、中位数和变异系数。"
+  },
+  {
+   "cn": "青春期女性营养需要",
+   "en": "nutritional requirement of adolescent girl",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在青春期为维持生命、生长发育和各种生理活动对营养素需求的生理状态。"
+  },
+  {
+   "cn": "哺乳期妇女营养需要",
+   "en": "nutritional requirement of lactating woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.6",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "哺乳期女性除了满足自身维持生命和各种生理活动对营养素的需求外，还要满足分泌乳汁的营养需求的生理状态。"
+  },
+  {
+   "cn": "老年女性营养需要",
+   "en": "nutritional requirement of aging woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.5.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "随着老年女性各方面能力的逐渐退化及老化，因基础代谢率下降和活动量减少导致营养素需求变化的生理状态，主要体现为能量需求下降，但微量营养素的需求并不减少。"
+  },
+  {
+   "cn": "军人营养需要",
+   "en": "nutritional requirement for military personnel",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "能保证军人健康，并充分发挥军事作业效能，完成各项生活、劳动、军事训练和特殊军事任务的军人能量和营养素的需要量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

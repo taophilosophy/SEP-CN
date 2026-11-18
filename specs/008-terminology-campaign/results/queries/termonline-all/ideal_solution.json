@@ -1,0 +1,712 @@
+{
+ "key": "ideal solution",
+ "term": "ideal solution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:33:58+00:00",
+ "status": "ok",
+ "note": "variant=ideal solution; 审定公布名词库=2147; 海峡两岸名词对照库=916; 其他来源数据库=76; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "溶液中的任一组分在全部浓度范围内都符合拉乌尔定律的溶液。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0143",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "各组成分子大小完全相同，分子间相互作用完全一样的溶液。从宏观上来看，在组分混合时没有体积效应和热效应，在全部浓度范围内，均符合拉乌尔定律。"
+  },
+  {
+   "cn": "理想解",
+   "en": "ideal solution",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "设想的最好的解，它的各个属性值都达到各备选方案中的最好值。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化学名词",
+   "wordNumber": "04.0173",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "任一组分在全部浓度范围内都遵守拉乌尔定律的溶液。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "计量学名词",
+   "wordNumber": "15.046",
+   "subjectFullName": "计量学_化学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "各组分分子大小完全相同，分子间相互作用完全一样的溶液。从性质上说，当由各纯组分混合形成溶液时，其热力学性质的变化，如混合体积、混合焓、混合熵等与理想气体混合形成同样组成的混合物时完全一样。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0175",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "任何组分在全浓度范围内都符合拉乌尔定律的溶液。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化学工程名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "化学工程_化工热力学_溶液热力学",
+   "subjectName": "溶液热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "非理想溶液",
+   "en": "non-ideal solution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "不具备理想溶液性质的溶液，即与理想溶液存有偏差的溶液。"
+  },
+  {
+   "cn": "非理想溶液",
+   "en": "non-ideal solution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0145",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "不符合理想溶液条件的溶液。"
+  },
+  {
+   "cn": "理想稀溶液",
+   "en": "ideal dilute solution",
+   "source": "化学名词",
+   "wordNumber": "04.0174",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "在一定浓度范围内溶剂遵守拉乌尔定律、溶质遵守亨利定律的溶液。"
+  },
+  {
+   "cn": "负理想解",
+   "en": "negative ideal solution",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0229",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "设想的最劣的解。其各个属性值都达到各备选方案中的最差值。"
+  },
+  {
+   "cn": "非理想溶液",
+   "en": "non-ideal solution",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0176",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "任一组分不能在全浓度范围内都符合拉乌尔定律的实际溶液。"
+  },
+  {
+   "cn": "半理想溶液",
+   "en": "semi-ideal solution",
+   "source": "化学工程名词",
+   "wordNumber": "02.148",
+   "subjectFullName": "化学工程_化工热力学_溶液热力学",
+   "subjectName": "溶液热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "理想吸附溶液理论",
+   "en": "ideal adsorption solution theory",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0870",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "在混合气体吸附时，若将吸附层内的混合物作为理想溶液处理，则可从热力学定律推导得出的吸附等温方程。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "行为医学名词",
+   "wordNumber": "1.083",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "（1）对未来事物有根据、合理的美好想象和希望。（2）对于某事物臻于最完善境界的观念。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0199",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定一个上半格 L =( L ,≤,∨)，称一个子集合 I<img src='/root/syzx/static/spz/jsjkx3.02.0167.002.png'/>L 形成 L 的一个理想，若"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "数学名词",
+   "wordNumber": "04.0935",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在科学研究中，往往忽略较难处理的变量，从而使得理论或模型可以更加简单地说明现象。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "地质学名词",
+   "wordNumber": "05.01.051",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由至少两种物质组成的均一、稳定的混合物。被分散的物质(溶质)以分子或更小的质点分散于另一物质(溶剂)中。根据溶液状态，可分为气体溶液、固体溶液和液体溶液，一般的溶液都专指液体溶液。"
+  },
+  {
+   "cn": "解决方案",
+   "en": "solution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.246",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "针对某些已经体现出的或者预期出现的问题、需求等，所提出的一个解决整体问题的方案，同时能够确保加以有效地执行。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution\",\"perfect solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非理想溶液",
+   "en": "non-ideal solution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "理想稀[薄]溶液",
+   "en": "ideal dilute solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "溶解",
+   "en": "solution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方案",
+   "en": "solution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解空间",
+   "en": "solution space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据场景方案",
+   "en": "data scenario solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒液",
+   "en": "disinfectant; antiseptic solution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区块链反腐",
+   "en": "blockchain-based integrity solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下一代网络安全解决方案（中国）",
+   "en": "Next-generation Cybersecurity Solution (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电商全链路解决方案",
+   "en": "e-commerce full-link solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德追求的最高境界。包括个人道德理想和社会道德理想两个方面。前者指基于一定道德要求的认识，自觉向往和追求的理想人格；后者指理想的社会道德状况。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0104",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《神圣家族》中使用的术语。马克思、恩格斯批判黑格尔颠倒了精神和物质、思维和存在之间的关系。马克思认为，这样一来，全部外化的历史和外化的整个复归，不过是抽象的、绝对的思维的生产史，即逻辑"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0199",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“主观唯心主义”相对。唯心主义哲学的基本形态之一。客观唯心主义认为不依赖于人类，不依赖于人的意识而独立存在着的“客观精神”，“理念”等是唯一的客观实在，是第一性的，是物质世界的本原；而客观世界则是客"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "储存溶液",
+   "en": "storage solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "比使用浓度高，使用前需要稀释的浓标准溶液。"
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能使生物体着色的化学物质。"
+  },
+  {
+   "cn": "脱色液",
+   "en": "destaining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能够除去染色后的细菌菌体上的染色剂，从而对细菌进行鉴别的试剂。"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "煤酚皂溶液",
+   "en": "saponated cresol solution",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由邻位甲酚、间位甲酚、对位甲酚三种甲酚异构体与皂液组成。为棕黄色或红色粘稠液体，有酚臭味，甲酚含量约50%（v/v)，溶于水和乙醇，呈碱性，性能稳定。"
+  },
+  {
+   "cn": "磷酸盐缓冲液",
+   "en": "phosphate buffer solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由无水磷酸氢二钠和磷酸二氢钾配制成的pH值为7.2，浓度为0.03mol/L的中性缓冲液。"
+  },
+  {
+   "cn": "胰蛋白胨生理盐水溶液",
+   "en": "tryptone saline solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "胰蛋白胨和氯化钠溶于蒸馏水制成的pH值为7.0±0.2的试验试剂。常用做试验菌的稀释用液。"
+  },
+  {
+   "cn": "放射性标准溶液",
+   "en": "radioactive standard solution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.32",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "已准确标定过放射性浓度的溶液。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0717",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即党的最终奋斗目标，是党的最高纲领的核心内容。中国共产党党章明确规定，党的最高理想和最终目标是实现共产主义。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  },
+  {
+   "cn": "观念",
+   "en": "idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0016",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物在人脑中的一种能动反映形式，同物质相区别，泛指人们对事物的印象、认识、看法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

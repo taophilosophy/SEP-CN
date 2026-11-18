@@ -1,0 +1,272 @@
+{
+ "key": "cladist",
+ "term": "cladist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:46:52+00:00",
+ "status": "ok",
+ "note": "variant=cladist; 审定公布名词库=14; 海峡两岸名词对照库=12; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "支序系统学",
+   "en": "cladistics;cladistic systematics",
+   "source": "动物学名词",
+   "wordNumber": "2.0002",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。主张通过对衍生性状相似性的分析，恢复和建立生物之间的分支进化关系，进而重建系统发生树，以形成严格的单系分类系统。"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "source": "植物学名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据共有衍生性状(共衍征)的状态及其变异式样，研究共同祖先后裔分类单元之间系统关系的学科。"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "source": "微生物学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "基于共有衍生特征而显示出来的自然类群(单系群)进行系统学研究的学科。"
+  },
+  {
+   "cn": "分支系统学",
+   "en": "cladistics",
+   "source": "古生物学名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "当今的三大分类学派之一，主张通过对衍生性状相似性的分析，恢复和建立生物之间的分支演化关系，进而重建系统发育树，以形成严格的单系分类系统。"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "source": "遗传学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "基于系统发生的分类学，按共同衍征的程度来分类。"
+  },
+  {
+   "cn": "进化枝",
+   "en": "cladistics",
+   "source": "地理学名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "通过同源性状分析确定变异的分支序列，用以重建一个分类群的进化史。"
+  },
+  {
+   "cn": "支序分类学",
+   "en": "cladistics",
+   "source": "昆虫学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "严格按照支序分析获得的结果来构建分类系统的分类学派。"
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "source": "生态学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "将两个线系的衍征的产生作为物种的识别标准，线系的两个分支点之间的全部生物个体称为支序种。"
+  },
+  {
+   "cn": "支序分析",
+   "en": "cladistic analysis",
+   "source": "昆虫学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "根据共有衍征确定分类单元的系统发育地位和关系的分析过程。"
+  },
+  {
+   "cn": "幼枝",
+   "en": "cladium",
+   "source": "古生物学名词",
+   "wordNumber": "02.1056",
+   "subjectFullName": "古生物学_古无脊椎动物学_半索动物门",
+   "subjectName": "半索动物门",
+   "publishYear": "2009",
+   "definition": "从笔石的胞管或胎管口部生出的笔石枝。自胞管口部生出的称为胞管幼枝(thecal cladium)，自笔石胎管口部生出的幼枝称为胎管幼枝(sicular cladium)。"
+  },
+  {
+   "cn": "碎屑",
+   "en": "clast",
+   "source": "地质学名词",
+   "wordNumber": "05.03.151",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "已存在的岩石(母岩)和其他固体物质机械破碎的产物。由母岩机械风化产生的碎屑可分为矿物碎屑和岩屑；由其他固体物质机械破碎产生的碎屑包括生物碎屑和火山碎屑。"
+  },
+  {
+   "cn": "碎屑",
+   "en": "clast",
+   "source": "地质学名词",
+   "wordNumber": "05.284",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "遗传决定论",
+   "en": "cladism-genetic determinism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.424",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "认为物种的性状是由先天的遗传因素所决定的理论。"
+  },
+  {
+   "cn": "包层泵浦",
+   "en": "clading pumping",
+   "source": "光学名词",
+   "wordNumber": "10.319",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "泵浦光在内包层中传输，在传输过程中与纤芯有效耦合，实现对纤芯中掺纤离子激发并建立布居反转的包层光纤激光器的一种泵浦方式。"
+  },
+  {
+   "cn": "分支系统学（=支序系统学）",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支序分类学（=支序系统学）",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支序系统学，分支系统学，支序分类学",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分支系统学,支序系统学,支序分类学",
+   "en": "cladistic systematics\",\"cladistics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "进化枝",
+   "en": "cladistics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "支序系统学,分支系统学",
+   "en": "cladistics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "支序分类学",
+   "en": "cladistics",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分支排列",
+   "en": "cladistic ranking",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "支序分类",
+   "en": "cladistic classification",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "分支理论",
+   "en": "cladism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "scope question",
+ "term": "scope question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:12+00:00",
+ "status": "ok",
+ "note": "variant=scope question; 审定公布名词库=582; 海峡两岸名词对照库=110; 其他来源数据库=69; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "显示器",
+   "en": "scope",
+   "source": "物理学名词",
+   "wordNumber": "03.0886",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "作用域",
+   "en": "scope",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0230",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "标识符在程序代码中的可用范围。"
+  },
+  {
+   "cn": "范围",
+   "en": "scope",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0200",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "为完成工程或项目的目标所应提供的产品、服务和成果的总和。"
+  },
+  {
+   "cn": "辖域",
+   "en": "scope",
+   "source": "语言学名词",
+   "wordNumber": "04.264",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "某一成分的意义所影响（或控制）的范围。例如，谓词前面的否定词所影响的范围一般是从否定词到句子末尾，如“她不喜欢孩子”。但也可能有所不同，如“不适当地施肥浇水”，否定范围可以到句尾，也可能只到“适当地”"
+  },
+  {
+   "cn": "辖域",
+   "en": "scope",
+   "source": "数学名词",
+   "wordNumber": "02.0012",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "视界",
+   "en": "horizon,scope",
+   "source": "物理学名词",
+   "wordNumber": "04.0470",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经营范围",
+   "en": "business scope",
+   "source": "风景园林名词",
+   "wordNumber": "03.0336",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "国家允许企业生产和经营的商品类别、品种及服务项目，反映企业业务活动的内容和生产经营方向，是企业业务活动范围的法律界限，体现企业民事权利能力和行为能力的核心内容。"
+  },
+  {
+   "cn": "归档范围",
+   "en": "archiving scope",
+   "source": "档案学名词",
+   "wordNumber": "02.05.003",
+   "subjectFullName": "档案学_文件管理_文件处置",
+   "subjectName": "文件处置",
+   "publishYear": "2024",
+   "definition": "应予归档保存的文件范围。依据国家档案局颁布的《机关文件材料归档范围和文书档案保管期限规定》的要求，归档范围主要包括：（1）反映本机关主要职能活动和基本历史面貌的，对本机关工作、国家建设和历史研究具有利"
+  },
+  {
+   "cn": "设定范围",
+   "en": "set scope",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.153",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "划分出界限以方便控制和管理的行为。"
+  },
+  {
+   "cn": "硫化范围",
+   "en": "vulcanization scope",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0573",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "进行硫化时的工艺条件范围。如硫化温度、硫化压力及硫化时间范围。"
+  },
+  {
+   "cn": "项目范围",
+   "en": "project scope",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "01.012",
+   "subjectFullName": "化工（五）_通类",
+   "subjectName": "通类",
+   "publishYear": "2021",
+   "definition": "项目的最终产品或者服务，以及实现该产品或者服务所需要执行的全部工作。主要是项目的界限，界限内是项目应该做的，从而明确项目的实施时间和主要的项目可交付成果。"
+  },
+  {
+   "cn": "范围注释",
+   "en": "scope note",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.341",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "为了确切指明叙词的含义或用法，对可能引起多义的叙词进行的解释说明。内容包括指明词义、说明用法或限定概念外延大小。注释不作为叙词的组成部分。"
+  },
+  {
+   "cn": "范围管理",
+   "en": "scope management",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0011",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "确保工程项目完成全部应当完成工作的过程。"
+  },
+  {
+   "cn": "范围规划",
+   "en": "scope planning",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0201",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "制订项目范围管理计划的过程。"
+  },
+  {
+   "cn": "范围分解",
+   "en": "scope breakdown",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0210",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "将项目应提供的产品、服务和成果分解为可估计、可实施的具体部分的过程。"
+  },
+  {
+   "cn": "产品范围",
+   "en": "product scope",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0203",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "表现产品、服务或成果的各项特征和功能。"
+  },
+  {
+   "cn": "范围定义",
+   "en": "scope definition",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0202",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "制定详细的项目范围说明书，供将来项目决策作为依据的过程。"
+  },
+  {
+   "cn": "项目范围",
+   "en": "project scope",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0204",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "为交付具有规定特性与功能的产品、服务或成果所必须完成的工作。"
+  },
+  {
+   "cn": "范围核实",
+   "en": "scope verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0219",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "正式验收已经完成项目的可交付成果的过程。"
+  },
+  {
+   "cn": "范围检查",
+   "en": "scope inspection",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0220",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "将范围计划实施的结果与范围基准进行比较的过程。"
+  },
+  {
+   "cn": "范围",
+   "en": "scope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "作用域",
+   "en": "scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出链长度",
+   "en": "chain scope",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "A型显示",
+   "en": "A-scope",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "范畴经济",
+   "en": "economy of scope",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "误差显示器",
+   "en": "error display\",\"F-scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雷达显示器",
+   "en": "radar indicator， radar scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方位-仰角显示器",
+   "en": "azimuth-elevation display，C-scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离-方位显示器",
+   "en": "range-azimuth display，B-scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离-仰角显示器",
+   "en": "range-elevation display，E-scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环境污染问题科学委员会",
+   "en": "Scientific Committee on Pollution of Environment\",\"SCOPE",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索常数",
+   "en": "quest constant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "花粉刷",
+   "en": "pollen brush\",\"scopa\",\"scopae(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "排遗",
+   "en": "egestion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排泄",
+   "en": "excretion\",\"egestion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "坡度",
+   "en": "slope\",\"degree slope",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花葶",
+   "en": "scape",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洗消范围",
+   "en": "scope of decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "根据流行病学调查、侦察和检验的结果明确洗消的重点和具体的处理对象，如污染严重并有军事意义或经济意义的地区、人员、装备与物品等。"
+  },
+  {
+   "cn": "范围经济",
+   "en": "economies of scope",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "机构通过扩大经营范围、增加服务产品种类和生产多种服务产品而引起单位成本降低的现象。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "食品添加剂使用范围",
+   "en": "use scope of food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.26.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂使用标准所允许的某种添加剂的应用范围，以食品分类号和食品名称表示"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "食品添加剂超范围使用",
+   "en": "food additive use exceeded allowed scope",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许使用的食品类别外的食品中添加食品添加剂"
+  },
+  {
+   "cn": "营养强化剂允许使用范围",
+   "en": "permitted use scope of food fortifier",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品营养强化剂",
+   "subjectName": "食品营养强化剂",
+   "publishYear": "2025",
+   "definition": "按照《食品安全国家标准食品营养强化剂使用标准》中规定可以添加某种营养强化剂的食品类别。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "党必须在宪法和法律的范围内活动",
+   "en": "Party must act within the scope prescribed by the constitution and laws",
+   "source": "马克思主义",
+   "wordNumber": "03.0725",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法是国家的最高权威，法律是我国一切个人和组织的行为准则。党是一种组织，要在宪法和法律的范围内活动。1982年党的十二大党章首次规定：“党必须在宪法和法律的范围内活动”。"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "斜率因子",
+   "en": "slope factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.18",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "终生暴露下每单位剂量的致癌风险增加值，即线性斜率。是定量描述致癌物强度的一个核心参数，常用于量化单位暴露剂量下无阈值遗传毒性化学物终生致癌风险概率。单位剂量常以mg/kg·d 表示。"
+  },
+  {
+   "cn": "危险分数",
+   "en": "risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "通常表示为具有某一危险因素水平的人群死亡概率与人群平均死亡概率的比值。是一种健康风险评估的量化结果，用于衡量特定对象的健康风险水平。"
+  },
+  {
+   "cn": "组合危险分数",
+   "en": "composite risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "当死亡原因存在多种危险因素时计算的危险分数的组合结果，可以反映危险因素之间对健康影响的综合效应。"
+  },
+  {
+   "cn": "角结膜染色评分",
+   "en": "ocular staining score, OSS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "角膜荧光素染色和结膜丽斯胺绿染色联合的染色方法，用于评估干燥综合征等疾病的眼表损伤。"
+  },
+  {
+   "cn": "改良罗德南皮肤评分",
+   "en": "modified Rodnan skin score, MRSS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于评估系统性硬化症皮肤硬化程度的评分系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

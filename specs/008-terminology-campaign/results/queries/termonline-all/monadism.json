@@ -1,0 +1,272 @@
+{
+ "key": "monadism",
+ "term": "monadism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:32:15+00:00",
+ "status": "ok",
+ "note": "variant=monadism; 审定公布名词库=19; 海峡两岸名词对照库=6; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "source": "植物学名词",
+   "wordNumber": "08.0111",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "成熟时，单粒存在并散发的花粉。"
+  },
+  {
+   "cn": "单子",
+   "en": "monad",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0904",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "范畴论里面的一种函子，可用来进行数据结构的抽象封装，还被用来表示抽象计算概念的范畴论语义。"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.137",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "性母细胞经异常减数分裂在四分体原位产生的一个细胞。"
+  },
+  {
+   "cn": "单孢体",
+   "en": "monad",
+   "source": "古生物学名词",
+   "wordNumber": "04.0215",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "分散的单体花粉或孢子。常用于与二分体、四分体和其他分散单元相区别。"
+  },
+  {
+   "cn": "一元逻辑",
+   "en": "monadic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0048",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "只含有一元谓词的逻辑系统。"
+  },
+  {
+   "cn": "单子语义",
+   "en": "monadic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0905",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用单子方法对程序语言系统进行语义解释。"
+  },
+  {
+   "cn": "单反演轴",
+   "en": "inversion monad",
+   "source": "物理学名词",
+   "wordNumber": "08.0139",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "单轴群",
+   "en": "monad group",
+   "source": "物理学名词",
+   "wordNumber": "08.0162",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "单子转换器",
+   "en": "monad transformer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0906",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一种组合单子的方法。可对一个给定的单子增加新的信息，从而可不断地构建更多的单子，并提升其相关的函数。"
+  },
+  {
+   "cn": "模块单子语义",
+   "en": "modular monadic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0948",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "通过使用单子和单子转换器来描述程序的语义性质。"
+  },
+  {
+   "cn": "无性腺症",
+   "en": "agonadism",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.676",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "无性腺症",
+   "en": "agonadism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.167",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "男性性腺功能减退[症]",
+   "en": "male hypo- gonadism",
+   "source": "男科及性医学名词",
+   "wordNumber": "13.012",
+   "subjectFullName": "男科及性医学_男性性腺疾病及功能异常",
+   "subjectName": "男性性腺疾病及功能异常",
+   "publishYear": "2023",
+   "definition": "由下丘脑、垂体、睾丸等各种原因导致的雄激素缺乏、减少，或雄激素作用不能发挥所致的一类临床综合征。临床表现取决于雄激素合成障碍及缺乏所发生的阶段，发生在胎儿早期，可导致46, XY性发育异常；发生在青春"
+  },
+  {
+   "cn": "男性性腺功能减退症",
+   "en": "male hypo-gonadism",
+   "source": "生殖医学名词",
+   "wordNumber": "4.206",
+   "subjectFullName": "生殖医学_生殖系统疾病_男性生殖系统疾病",
+   "subjectName": "男性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "一种与睾丸功能活性降低相关，伴有雄激素生成减少及生精功能受损的疾病。由于睾丸功能衰竭或下丘脑-垂体轴对睾丸的刺激不足而导致。"
+  },
+  {
+   "cn": "自由放牧",
+   "en": "pastoral nomadism",
+   "source": "畜牧学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "家畜在无控制或控制很少的情况下，任意采食饲用植物的行为。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "异常一元论",
+   "en": "anomalous monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.568",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由D. 戴维森（D. Davidson）提出。旨在调和三个全然不相容的原理（互为因果作用原理、因果性的规律性原理、精神现象的异常论），断言一切事件都是物理的，即心理事件与物理事件同一，心理事件不可还原"
+  },
+  {
+   "cn": "多制式联运",
+   "en": "inter-modism",
+   "source": "地理学名词",
+   "wordNumber": "18.187",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "两种或两种以上运输方式遵照统一的规章与协议联合完成某项运输任务。"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多制式联运",
+   "en": "inter-modism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

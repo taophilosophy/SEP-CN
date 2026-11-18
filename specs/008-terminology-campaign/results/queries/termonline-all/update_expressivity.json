@@ -1,0 +1,782 @@
+{
+ "key": "update expressivity",
+ "term": "update expressivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:31+00:00",
+ "status": "ok",
+ "note": "variant=update expressivity; 审定公布名词库=1559; 海峡两岸名词对照库=677; 其他来源数据库=50; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "更新",
+   "en": "update",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0125",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "更新记录或元组的部分属性值。"
+  },
+  {
+   "cn": "更新",
+   "en": "update",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.182",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "新增或修改已存在的发生改变的信息的过程，通常是用于数据库管理系统中。"
+  },
+  {
+   "cn": "更新传播",
+   "en": "update propagation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0186",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "事务提交后才把该事务对数据的更新传播到该数据的其他副本。"
+  },
+  {
+   "cn": "批量更新",
+   "en": "bulk update",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.332",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在计算机系统中通过一次操作实现多个数据的更新。"
+  },
+  {
+   "cn": "位置更新",
+   "en": "location update",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.182",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "公众陆地移动网(PLMN)将移动台在系统区内位置信息进行更新的功能。"
+  },
+  {
+   "cn": "数据更新",
+   "en": "data update",
+   "source": "地理学名词",
+   "wordNumber": "30.123",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "以新数据项或记录，替换数据文件或数据库中与之相对应的旧数据项或记录。"
+  },
+  {
+   "cn": "图层更新",
+   "en": "coverage update",
+   "source": "地理学名词",
+   "wordNumber": "30.007",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "以新的数据项或记录，替换图层文件中与之相对应的旧数据项或记录的过程。"
+  },
+  {
+   "cn": "修正率",
+   "en": "update rate",
+   "source": "石油名词",
+   "wordNumber": "08.0154",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "增订本",
+   "en": "updated version",
+   "source": "档案学名词",
+   "wordNumber": "04.03.027",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，指将初编的档案材料与初编出版后发现的遗漏材料和新材料沿用原编纂体例统一编排而成的档案文献出版物。"
+  },
+  {
+   "cn": "状态更新",
+   "en": "status updating",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.154",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "通过独立应用向好友网络发送短信息更新个人生活状态的社交网络行为。由推特首创，所发短信息称为“推”(tweet)。"
+  },
+  {
+   "cn": "地图更新",
+   "en": "map updating",
+   "source": "测绘学名词",
+   "wordNumber": "04.319",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "依据地图所示区域变化的现实状态，修正地图内容以提高其精度和保持地图现势性的工作。"
+  },
+  {
+   "cn": "更新培训",
+   "en": "updating training",
+   "source": "教育学名词",
+   "wordNumber": "11.024",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "为适应由于科技进步与组织变革所产生的工作要求变化，对已就业的工作人员进行的知识和技能培训。"
+  },
+  {
+   "cn": "数据更新",
+   "en": "data updating",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.408",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "以新数据项或记录，替换数据文件或数据库中与之相对应的旧数据项或记录的过程。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.35",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同基因型的不同个体间性状或遗传病表现的程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "遗传学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "具相同基因型的个体间基因表达的变化程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.053",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "运用语言符号或非语言符号进行的意义呈现。"
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.163",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "善于运用语言和非语言讯息，通过让他人容易理解与倾听的方式，展示出来的沟通表现力。"
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪情感产生时身体各部分的动作量化形式。包括面部表情、姿态表情和语调表情等。"
+  },
+  {
+   "cn": "内容表达",
+   "en": "expression",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.362",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "通过数字、文字、音乐、声音、图像、动作等或这些形式的组合对智慧或艺术作品的展现。例如用文字方式体现一个作品时所用的那些词语、句子、段落等就是一种内容表达。"
+  },
+  {
+   "cn": "更新",
+   "en": "update",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "更新",
+   "en": "update",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新",
+   "en": "data update",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图层更新",
+   "en": "coverage update",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "批量更新",
+   "en": "bulk update",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新",
+   "en": "data update",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图层更新",
+   "en": "coverage update",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "更新传播",
+   "en": "update propagation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "更新事务处理",
+   "en": "update transaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "更新异常",
+   "en": "update anomaly",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件更新",
+   "en": "file updating",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表现度,表达度",
+   "en": "expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达度, 表现度",
+   "en": "expressivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新率",
+   "en": "data update rate",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新周期",
+   "en": "data update cycle",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新模式",
+   "en": "data update mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时发布",
+   "en": "real-time updates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邮政特快专递",
+   "en": "express mail service",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中欧班列",
+   "en": "China Railway Express",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用保障极速贷",
+   "en": "credit-guaranteed express loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清词丽句",
+   "en": "Refreshing Words and Exquisite Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假象见意",
+   "en": "Use Imagery to Express Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀景写乐",
+   "en": "Depict Sorrowful Scenery to Express Happiness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "医疗服务价格动态调整",
+   "en": "update of medical services pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据医疗服务成本和收入结构变化对医疗服务价格进行动态管理的机制。"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "党的信访工作",
+   "en": "Partys works of handling peoples complaints expressed in letters or visits",
+   "source": "马克思主义",
+   "wordNumber": "03.0732",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的信访工作是党的工作的重要组成部分，是指各级党组织及其部门依据党的路线、方针、政策和有关规定，受理和解决党员、干部、群众或者有关组织通过书信、走访、电话、电子邮件、传真等形式提出或反映的有关问题所进"
+  },
+  {
+   "cn": "摄取",
+   "en": "uptake",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经不同摄入途径进入到体液的过程。"
+  },
+  {
+   "cn": "摄取",
+   "en": "uptake",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物通过吸收屏障的过程"
+  },
+  {
+   "cn": "平板",
+   "en": "plate",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.19",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "装有固体培养基的平皿。"
+  },
+  {
+   "cn": "吸氧",
+   "en": "oxygen uptake",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "通过吸入氧浓度高于空气的气体，以提高血氧含量及动脉血氧饱和度，改善缺氧状态的过程。"
+  },
+  {
+   "cn": "抗菌板材",
+   "en": "antibacterial plate",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的板材。"
+  },
+  {
+   "cn": "血平板",
+   "en": "blood plate",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "加有去纤维蛋白动物血液培养基，用于培养葡萄球菌、链球菌等以及细菌溶血试验的平皿。"
+  },
+  {
+   "cn": "采样平板",
+   "en": "sampling plate",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，使用的含固体培养基的平皿，可用于自然沉降和六级筛孔撞击式采样器采样。"
+  },
+  {
+   "cn": "成像板",
+   "en": "imaging plate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.71",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "计算机X射线摄影中用于记录信息的载体，X射线照射时以潜影形式储存X射线摄影信息。"
+  },
+  {
+   "cn": "尿酸盐肾病",
+   "en": "urate nephropathy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "血尿酸水平持续或急剧升高，尿酸盐沉积在肾组织所引起的肾脏疾病。临床可分为慢性尿酸盐肾病和慢性尿酸盐肾病。"
+  },
+  {
+   "cn": "尿酸结石",
+   "en": "urate calculi",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "尿液中尿酸浓度增加呈过饱和状态，在泌尿系统沉积并形成的结石。10%—25%的高尿酸血症和痛风患者可发生尿酸性泌尿系结石，且可能出现于痛风性关节炎发生之前。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

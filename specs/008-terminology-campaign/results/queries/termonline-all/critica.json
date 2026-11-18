@@ -1,0 +1,722 @@
+{
+ "key": "critica",
+ "term": "Crítica",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:39:32+00:00",
+ "status": "ok",
+ "note": "variant=Crítica; 审定公布名词库=562; 海峡两岸名词对照库=183; 其他来源数据库=20; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "用烯丙基二甘醇碳酸酯(品名 CR-39)制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "CR-39中子剂量计",
+   "en": "CR-39 neutron dosimeter",
+   "source": "电力名词",
+   "wordNumber": "17.880",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "用烯丙基二甘醇碳酸脂(品名CR-39)制成的一种固体核径迹探测器。"
+  },
+  {
+   "cn": "临界状态",
+   "en": "critical state,critical condition",
+   "source": "建筑学名词",
+   "wordNumber": "14.1075",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "物质处于气态和液态平衡共存、液体密度与饱和蒸汽密度相同、气液界面消失时的边界状态。临界状态下的温度、压力、密度分别称为物质的临界温度、临界压力、临界密度。"
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region/critical section",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0421",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "并发程序中访问临界资源的代码段。不允许多个进程并发执行。"
+  },
+  {
+   "cn": "临界浓度",
+   "en": "critical concentration",
+   "source": "地质学名词",
+   "wordNumber": "18.04.042",
+   "subjectFullName": "地质学_环境地质学_环境污染",
+   "subjectName": "环境污染",
+   "publishYear": "2026",
+   "definition": "为保证环境安全，某种有害物质在环境中允许浓度的上限。"
+  },
+  {
+   "cn": "临界状态",
+   "en": "critical state",
+   "source": "地质学名词",
+   "wordNumber": "13.05.043",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "物质的液相与其饱和气两相之间的差别全部消失的状态。是物质的气态和液态平衡共存时的一个边缘状态。在此状态时，饱和液体与饱和蒸汽的热力状态参数相同，气液之间的分界面消失。"
+  },
+  {
+   "cn": "临界湿度",
+   "en": "critical humidity",
+   "source": "农学名词",
+   "wordNumber": "13.064",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "使农业植物、动物和微生物的生长发育或其初级农产品所处的状态发生显著变化的空气相对湿度阈值。"
+  },
+  {
+   "cn": "急危重患者",
+   "en": "critical patient",
+   "source": "急救医学名词",
+   "wordNumber": "01.054",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医疗安全",
+   "subjectName": "医疗安全",
+   "publishYear": "2025",
+   "definition": "符合国家卫生健康委《需要紧急救治的急危重伤病标准及诊疗规范》中规定的条件，伤病情况严重、需要紧急救治的人。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "批判实在论",
+   "en": "critical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.788",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一种研究世界、人类行为者以及二者之间相互作用的实在论学说。主张社会整体性存在的本体论地位，以实现人类自由解放作为社会科学的认识旨趣。"
+  },
+  {
+   "cn": "批判理论",
+   "en": "critical theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.789",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "国外马克思主义特别是法兰克福学派的学说。认为压迫性的意识形态产生于扭曲的因果关系，而实现从压迫下的解放意味着对权力关系作出因果解释，破除意识形态的合理性外观。主要代表人物有M. 霍克海默（M. Hor"
+  },
+  {
+   "cn": "临界倾角",
+   "en": "critical inclination",
+   "source": "天文学名词",
+   "wordNumber": "03.088",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "取值为 63°26' 或 116°34'的人造地球卫星轨道倾角，此时卫星拱线无长期运动。"
+  },
+  {
+   "cn": "临界质量",
+   "en": "critical mass",
+   "source": "天文学名词",
+   "wordNumber": "04.299",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "(1)使恒星内部发生热核聚变所需的最低质量。(2)使中等质量恒星晚年核心形成电子简并的白矮星所需的最低质量。(3)不至于使白矮星引力坍缩成中子星的质量上限1.4M⊙。(4)不至于使中子星引力坍缩成黑洞"
+  },
+  {
+   "cn": "临界现象",
+   "en": "critical phenomena",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.185",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质系统连续相变临界点邻域的行为。"
+  },
+  {
+   "cn": "临界密度",
+   "en": "critical density",
+   "source": "天文学名词",
+   "wordNumber": "07.445",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "当密度作为一个变量时对系统状态或演化产生决定性影响的取值。在宇宙学中，临界密度是指宇宙处于开闭临界状态时所对应的宇宙平均密度。"
+  },
+  {
+   "cn": "临界密度",
+   "en": "critical density",
+   "source": "核科学技术名词",
+   "wordNumber": "3.358",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "电磁波可以在其中传播的等离子体最高电子密度。高于此密度时，波将被反‍射。"
+  },
+  {
+   "cn": "临界温度",
+   "en": "critical temperature",
+   "source": "兽医学名词",
+   "wordNumber": "04.434",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "动物进行正常生命活动所需的环境温度的上限或下限。"
+  },
+  {
+   "cn": "批评性报道",
+   "en": "critical report",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.092",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "新闻报道者对现实生活、工作中出现的矛盾、问题、错误或不良现象进行的一种以揭露、抨击为主的报道。是媒体发挥监督作用的一个重要手段。"
+  },
+  {
+   "cn": "批判学派",
+   "en": "Critical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.168",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "与经验学派相对。倡导对传播过程中的不平等权力关系进行揭露，主张根本改变现有传播体制的学术共同体，包括政治经济学派、文化研究学派、女性主义者等。这一学派对新闻传播学各分支学科均有影响。例如，在组织传播学"
+  },
+  {
+   "cn": "批判性阅读",
+   "en": "critical reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.056",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "按推论论证的要素找出文本的关键部分并重建文本，然后借助一系列的“提问策略”对阅读内容进行客观公正的评估，最终理性地决定是否认同作者观点的阅读方式。"
+  },
+  {
+   "cn": "临界期",
+   "en": "critical phase\",\"critical period",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region\",\"critical section",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "临界光周期",
+   "en": "critical photoperiod",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical period",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界质壁分离",
+   "en": "critical plasmolysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界波长",
+   "en": "critical wavelength",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界层",
+   "en": "critical layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界高度",
+   "en": "critical height",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界流量",
+   "en": "critical discharge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界速度",
+   "en": "critical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界梯度",
+   "en": "critical gradient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界纬度",
+   "en": "critical latitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界温度",
+   "en": "critical temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界值",
+   "en": "critical value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界点",
+   "en": "critical point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界温度",
+   "en": "critical temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界压力",
+   "en": "critical pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界流",
+   "en": "critical flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界电位",
+   "en": "critical potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施",
+   "en": "critical information infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施安全",
+   "en": "critical information infrastructure security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网关键资源管理体系",
+   "en": "Internet critical resource management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施保护机制",
+   "en": "critical information infrastructure protection mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键基础设施专业靶场",
+   "en": "dedicated range for critical infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融业关键信息基础设施",
+   "en": "critical information infrastructure in the financial industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养兵千日，用兵一时",
+   "en": "Maintain an Army a Thousand Days for Use at a Critical Time",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对紧要关头当“逃兵”的干部要就地免职",
+   "en": "to remove from their posts officials who abandon the frontline at critical moments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非疫情防控重点地区",
+   "en": "non-key regions; regions that are not critical in the epidemic prevention and control effort",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20173587-T-469 信息安全技术 关键信息基础设施安全检查评估指南》",
+   "en": "20173587-T-469 Information security technology — Guide to security inspection and evaluation of critical information infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "用烯丙基二甘醇碳酸酯（品名CR-39）制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入人体无菌组织、器官、脉管系统，或有无菌体液从中流过的物品或接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "意外发生的自持或发散的中子链式反应所造成的能量和放射性释放事件。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "批判实务",
+   "en": "critical practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "在服务过程中重视语言、社会文化环境、意识形态、价值观念、宗教信仰和权力关系对实际工作开展的影响，并通过重构权力和话语以实现助人解放目标的社会工作实务。"
+  },
+  {
+   "cn": "批判主义方法论",
+   "en": "critical methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "起源于马克思主义的研究方法论。其主张明确的价值立场，站在受压迫或弱势群体的立场上进行研究，并将研究活动本身作为促成人们解放及社会公平进步的过程。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "含易裂变材料的系统由于某种意外原因引起的非预计的能量和放射性释放事件。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病各种临床表现明显出现并达到顶峰的阶段。治疗不力者多死亡于此期，主要死亡原因是造血功能衰竭引起的感染和出血。在此期，急性放射病的典型症状均可出现，如患者全身状况变差、严重的出血和感染，等。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "中度危险性物品",
+   "en": "semi-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整黏膜相接触，而不进入人体无菌组织、器官和血流，也不接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能够控制并使某一影响消毒产品质量的因素得到预防、消除或降低到可接受的水平的某一点、某一步骤或程序。"
+  },
+  {
+   "cn": "社会批判理论",
+   "en": "social critical theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0022",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "法兰克福学派发展出的一种致力于现代资本主义批判的理论。这种理论要求在总体上认识和理解社会生活、全面把握社会发展的泉源，力求在马克思主义的名义下实现对现代资本主义社会的全面批判。"
+  },
+  {
+   "cn": "批判性思维能力",
+   "en": "critical thinking skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "开拓思路，以批判的眼光分析信息和以往经验的能力。有助于个体全面、深入地考虑问题，作出合理决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "闪光临界频率",
+   "en": "critical flicker frequency",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "刚刚能够引起闪光融合感觉的刺激的最小频率。表现了视觉系统分辨时间能力的极限。"
+  },
+  {
+   "cn": "关键生命时机",
+   "en": "critical life timing",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生命历程变迁中所发生的某一生活事件何时发生比其是否发生更有意义的学说。"
+  },
+  {
+   "cn": "孕产妇危重症抢救",
+   "en": "maternal critical care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "成立危重症孕妇、新生儿救治领导小组，组建助产医疗机构、急救中心、中心血站联动机制，强化转运、救治、用血等重点环节的保障，落实专项救治经费的措施。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.5",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "食品加工过程中可以防止、消除食品安全危害或减少到可接受水平的某一步骤或工序。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

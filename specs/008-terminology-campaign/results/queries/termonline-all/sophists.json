@@ -1,0 +1,72 @@
+{
+ "key": "sophists",
+ "term": "sophists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:53:55+00:00",
+ "status": "ok",
+ "note": "variant=sophists; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "智者",
+   "en": "sophists",
+   "source": "教育学名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "原指荷马时代具有某种精神方面的能力和技巧的人。前5世纪中后期专指希腊城邦中以传授雄辩术和其他科学知识为职业的学者，是西方最早的职业教师。"
+  },
+  {
+   "cn": "诡辩性思维",
+   "en": "sophistic thinking",
+   "source": "行为医学名词",
+   "wordNumber": "16.056",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维形式障碍的一种。表面上受检者沉溺于思辨，但进行的思维活动既缺乏实际意义，又没有系统性，表现空洞、松散、似是而非，给人以诡辩印象。"
+  },
+  {
+   "cn": "诡辩性思维",
+   "en": "sophistic thinking",
+   "source": "精神医学名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "一种思维逻辑障碍。表面上受检者沉溺于思辨，但进行的思维活动既缺乏实际意义，又没有哲学思辨的系统性和力量，空洞、联系松散、似是而非，给人以诡辩印象。多见于精神分裂症受检者。"
+  },
+  {
+   "cn": "诡辩性思维",
+   "en": "sophistic thinking",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.060",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "精致的证伪主义",
+   "en": "sophisticated falsificationism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为只有当一个理论超过先前理论的多余经验内容得到确证，并能导致新事实的发现时，先前理论才被证伪。"
+  },
+  {
+   "cn": "精致的证伪主义",
+   "en": "sophisticated falsificationism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为只有当一个理论超过先前理论的多余经验内容得到确证，并能导致新事实的发现时，先前理论才被证伪。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "impression",
+ "term": "impression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:39:08+00:00",
+ "status": "ok",
+ "note": "variant=impression; 审定公布名词库=888; 海峡两岸名词对照库=295; 其他来源数据库=20; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "印次",
+   "en": "impression",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.067",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "同一版本的图书印刷的次序。"
+  },
+  {
+   "cn": "模膛",
+   "en": "impression",
+   "source": "冶金学名词",
+   "wordNumber": "09.1535",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在锻模上加工成的使锻件形成所需外形和尺寸的空腔。有制坯模腔、预锻模腔、终锻模腔。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "植物学名词",
+   "wordNumber": "14.0022",
+   "subjectFullName": "植物学_古植物学",
+   "subjectName": "古植物学",
+   "publishYear": "2019",
+   "definition": "沉积层中留下的植物印迹形成的化石。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "古生物学名词",
+   "wordNumber": "01.0129",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "生物遗体被完全埋葬前在沉积物中留下的印迹，由于埋葬时遗体业已消失，岩层中并未留下除印痕外的其他痕迹。"
+  },
+  {
+   "cn": "印模",
+   "en": "impression",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.202",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "肝压迹",
+   "en": "impression hepatica;hepatic impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.049",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "受周围脏器的挤压，肝表面形成的凹陷。"
+  },
+  {
+   "cn": "胃压迹",
+   "en": "impression gastrica;gastric impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.050",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝左叶脏面，胃底和胃体上部挤压肝形成的压迹。"
+  },
+  {
+   "cn": "结肠压迹",
+   "en": "impression colica;colic impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.051",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝右叶脏面，结肠肝曲和横结肠起始部挤压肝形成的压迹。"
+  },
+  {
+   "cn": "肾压迹",
+   "en": "impression renalis;renal impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.052",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝右叶脏面，右肾挤压肝形成的压迹。"
+  },
+  {
+   "cn": "食管压迹",
+   "en": "impression oesophagea;esophageal impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.053",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝左叶脏面，食管挤压肝形成的压迹。"
+  },
+  {
+   "cn": "初印模",
+   "en": "preliminary impression,primary impression",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.203",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.169",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "有意识通过观察自己与他人态度，有时也是潜意识地，判断和期待获得良好的自我与他人的形象感知，包括影响他人及其对事物看法的一种把握沟通效果的行为。一般通过调整与控制社会互动中的信息来实现。有时该词与“自我"
+  },
+  {
+   "cn": "压印滚筒",
+   "en": "impression cylinder",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.005",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "承印物的圆柱形支承体。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0266",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织结构与文化",
+   "subjectName": "组织结构与文化",
+   "publishYear": "2016",
+   "definition": "通过一定方式造成良好的印象以影响他人对自己看法的过程。"
+  },
+  {
+   "cn": "压陷式眼压计",
+   "en": "impression tonometer",
+   "source": "计量学名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "计量学_压力、真空_血压计、眼压计",
+   "subjectName": "血压计、眼压计",
+   "publishYear": "2015",
+   "definition": "以一定的砝码质量通过压针压陷眼球，依压陷深度而推算出眼压的眼压计。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "心理学名词",
+   "wordNumber": "07.137",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体采取一定方式，对自我表现进行控制和调节，以影响别人所形成的对自己的过程。"
+  },
+  {
+   "cn": "印模膏",
+   "en": "impression compound",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0258",
+   "subjectFullName": "材料科学技术_生物材料_口腔材料",
+   "subjectName": "口腔材料",
+   "publishYear": "2011",
+   "definition": "一种热软冷硬的热塑性非弹性可逆性印模材料。主要成分为萜二烯树脂或达玛树脂、虫胶、松脂、滑石粉填料、蜡、硬脂酸和颜料。"
+  },
+  {
+   "cn": "压陷眼压计",
+   "en": "impression tonometer",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.305",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "印模材料",
+   "en": "impression material",
+   "source": "医学名词 第二分册",
+   "wordNumber": "10.179",
+   "subjectFullName": "医学_口腔医学_器械、设备、材料、药剂",
+   "subjectName": "器械、设备、材料、药剂",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "印模糊剂",
+   "en": "impression paste",
+   "source": "医学名词 第二分册",
+   "wordNumber": "10.181",
+   "subjectFullName": "医学_口腔医学_器械、设备、材料、药剂",
+   "subjectName": "器械、设备、材料、药剂",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "食管压迹",
+   "en": "esophageal impression\",\"oesophageal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "印象管理,印象整饰",
+   "en": "impression management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印模膏",
+   "en": "impression compound",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "结肠压迹",
+   "en": "colic impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三叉神经压迹",
+   "en": "trigeminal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肾上腺压迹",
+   "en": "suprarenal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肾压迹",
+   "en": "renal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "十二指肠压迹",
+   "en": "duodenal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胃压迹",
+   "en": "gastric impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心压迹",
+   "en": "cardiac impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蜡版",
+   "en": "wax impression",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "腹痕",
+   "en": "ventral impression",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "外加电流",
+   "en": "impressed current",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单型腔模",
+   "en": "single impression mold",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "牙科印模材料",
+   "en": "dental impression materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "水胶体印模材料",
+   "en": "hydrocolloid impression materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弹性体印模材料",
+   "en": "elastomeric impression materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "但见性情，不睹文字",
+   "en": "To Impress Readers with True Feelings Oblivious of Its Wording",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据压缩",
+   "en": "data compression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "胸闷",
+   "en": "chest distress; chest oppression",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情发于声",
+   "en": "Feelings Find Expression in Musical Poetry.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独抒性灵，不拘格套",
+   "en": "Bold Expression of One’s True Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书者，舒也",
+   "en": "Writing Is a Way of Expression.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唯乐不可以为伪",
+   "en": "Music Allows No Expression of False Sentiment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情以物迁，辞以情发",
+   "en": "Feeling Varies with Scenery and Verbal Expression Arises from Feeling.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "压缩性骨折",
+   "en": "compression fracture",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "多由垂直压缩的间接暴力所致，骨松质因压缩而变形的骨折。常发生在下胸椎、上腰椎，椎体呈楔状。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  },
+  {
+   "cn": "心理卫生问题筛查",
+   "en": "depression screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "通过标准化的量表，早期发现少数有心理问题或心理障碍的学生的过程。旨在对被筛查出的学生给予科学有效的心理咨询和辅导，及时转介干预，使他们尽快摆脱障碍，调控自我，提高其心理健康水平。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postpartum depression, PPD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "产后出现的，以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁，伴有对婴儿及其父亲的漠不关心、敌意及睡眠紊乱等。"
+  },
+  {
+   "cn": "时空压缩",
+   "en": "time-space compression",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "因现代科技的进步以及资本积累追求减少周转时间和以时间消灭空间的历史发展。使得时间越来越具有加速的特征，空间上的各种障碍被克服，从而给人们带来的一种时间和空间显得被压缩了的感觉或体验。由戴维·哈维（D."
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "非剥削性的经济压迫",
+   "en": "non exploitative economic oppression",
+   "source": "马克思主义",
+   "wordNumber": "05.0110",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "赖特（Eric Olin Wright）认为，剥削有三个前提条件：第一，反向的相互依赖原则。第二，排除性原则。第三，占有原则。赖特认为如果只满足三个条件中的前两个条件，就是非剥削性经济压迫。在非剥削性"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "孕产期抑郁筛查",
+   "en": "depression screening during pregnant and postpartum period",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "采用症状自评量表测量孕产期妇女是否存在兴趣缺乏和心情低落等症状及其严重程度，以及时干预和减少不良健康后果为目的的措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "borderline contradictions",
+ "term": "borderline contradictions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:36:32+00:00",
+ "status": "ok",
+ "note": "variant=borderline contradictions; 审定公布名词库=248; 海峡两岸名词对照库=11; 其他来源数据库=12; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "矛盾",
+   "en": "contradiction",
+   "source": "数学名词",
+   "wordNumber": "01.0023",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "政策抵触",
+   "en": "policy contradiction",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0220",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "在一个特殊的政策计划方案内或在一些政策计划方案间存在目标冲突、手段冲突及目标与手段不匹配的矛盾现象。"
+  },
+  {
+   "cn": "交界性肿瘤",
+   "en": "borderline tumor",
+   "source": "急救医学名词",
+   "wordNumber": "03.588",
+   "subjectFullName": "急救医学_日常医学急救_外科学_肿瘤",
+   "subjectName": "肿瘤",
+   "publishYear": "2025",
+   "definition": "有良性肿瘤的形态学特征，但又具有一定的局部侵袭性和偶发转移特点的肿瘤。是介于良性、恶性之间的肿瘤。组织病理学表现为细胞具有轻中度异型性，但缺乏重度异型表现，并且没有明确的间质浸润。"
+  },
+  {
+   "cn": "交界瘤",
+   "en": "borderline tumor",
+   "source": "兽医学名词",
+   "wordNumber": "10.300",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "介于良性与恶性之间的肿瘤。"
+  },
+  {
+   "cn": "交界性肿瘤",
+   "en": "borderline tumor",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤病理学",
+   "subjectName": "妇科肿瘤病理学",
+   "publishYear": "2022",
+   "definition": "有良性肿瘤的形态学特征，但又具有一定的局部侵袭性和偶发转移特点的肿瘤。是介于良性、恶性肿瘤之间的肿瘤。组织病理学表现为细胞具有轻中度异型，但缺乏重度异型表现，并且没有明确的间质浸润。"
+  },
+  {
+   "cn": "交界瘤",
+   "en": "borderline tumor",
+   "source": "病理学名词",
+   "wordNumber": "01.211",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "组织学形态和生物学行为介于良恶性肿瘤之间的肿瘤。如卵巢交界性浆液性乳头状囊腺瘤。"
+  },
+  {
+   "cn": "[中间]界线类麻风",
+   "en": "borderline leprosy",
+   "source": "病理学名词",
+   "wordNumber": "01.282",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "兼有结核样型麻风和瘤型麻风两种病变，且比例均匀的麻风类型。"
+  },
+  {
+   "cn": "边界机理",
+   "en": "borderline mechanism",
+   "source": "化学名词",
+   "wordNumber": "02.0897",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "介于两种典型机理之间的中间机理。如介于<img src='/root/syzx/static/spz/huaxue2.02.0867.1.png'/>和<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "交界碱",
+   "en": "borderline base",
+   "source": "化学名词",
+   "wordNumber": "01.0116",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "碱性软、硬特征介于硬碱和软碱之间的路易斯碱。"
+  },
+  {
+   "cn": "交界酸",
+   "en": "borderline acid",
+   "source": "化学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "酸性软、硬特征介于硬酸与软酸之间的路易斯酸。"
+  },
+  {
+   "cn": "中间界线类麻风",
+   "en": "borderline leprosy",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.251",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "交界瘤",
+   "en": "borderline tumor",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.294",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "临界性高血压",
+   "en": "borderline hypertension",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.173",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "边缘状态",
+   "en": "borderline state",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.231",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "颅内交界性肿瘤",
+   "en": "cerebral borderline neoplasm",
+   "source": "神经外科学名词",
+   "wordNumber": "6.003",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "发生在颅内脑组织的一种生物学行为介于良性和恶性之间的肿瘤。"
+  },
+  {
+   "cn": "脑脊膜交界性肿瘤",
+   "en": "meninges borderline tumor",
+   "source": "神经外科学名词",
+   "wordNumber": "6.036",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "发生在脑脊膜的一种组织形态和生物学行为介于良性与恶性之间的肿瘤。"
+  },
+  {
+   "cn": "副神经节交界性肿瘤",
+   "en": "paraganglia borderline tumor",
+   "source": "神经外科学名词",
+   "wordNumber": "6.042",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "发生在副神经节的一种组织形态和生物学行为介于良性与恶性之间的肿瘤。"
+  },
+  {
+   "cn": "交界性脑膜瘤",
+   "en": "meningeal borderline tumor",
+   "source": "神经外科学名词",
+   "wordNumber": "6.141",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "一种组织形态和生物学行为介于良性和恶性脑膜瘤之间的脑膜瘤亚型。术后复发率高，术后定期随访和术后积极放疗是较为合理的治疗策略。"
+  },
+  {
+   "cn": "交界性血管肿瘤",
+   "en": "borderline vascular tumor",
+   "source": "整形外科名词",
+   "wordNumber": "11.057",
+   "subjectFullName": "整形外科_体表肿瘤_血管瘤与脉管畸形",
+   "subjectName": "血管瘤与脉管畸形",
+   "publishYear": "2026",
+   "definition": "一种组织形态和生物学行为介于良性与恶性之间的血管肿瘤。呈浸润性生长，切除后易复发，多次复发后可出现转移。肿瘤细胞的形态符合恶性特征，但没有明显的扩散转移等恶性表现。"
+  },
+  {
+   "cn": "边缘性行为",
+   "en": "borderline sex behavior",
+   "source": "生殖医学名词",
+   "wordNumber": "8.012",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "性伙伴间发生的非性交行为。方式多样，如相互抚摸（触摸）、亲吻、款款情话及其他亲昵的动作。是性行为的重要组成部分。"
+  },
+  {
+   "cn": "边界机理",
+   "en": "borderline mechanism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交界碱",
+   "en": "borderline base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交界酸",
+   "en": "borderline acid",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "边缘型人格障碍",
+   "en": "borderline personality disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大陆缘地",
+   "en": "continental borderland",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "Paradox of the Spear and the Shield / Contradiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人民日益增长的美好生活需要和不平衡 不充分的发展之间的矛盾",
+   "en": "the contradiction between unbalanced and inadequate development and the people's ever-growing needs for a better life",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字边疆",
+   "en": "data-based borderland",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0084",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在唯物辩证法中，对立面既对立又统一、既相互排斥又相互吸引的关系。黑格尔从唯心主义的角度阐释了矛盾即对立统一的思想。马克思、恩格斯批判地改造并吸收了黑格尔唯心辩证法合理内核，使矛盾即对立统一的思想具有了"
+  },
+  {
+   "cn": "社会矛盾",
+   "en": "social contradiction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会内部各个对立面之间既相互依赖又相互排斥的对立统一关系或状态。存在于一切社会形态之中，规定社会的性质和基本结构，贯穿于人类社会发展始终，推动着人类社会由低级向高级发展，如生产力和生产关系的矛盾、经济"
+  },
+  {
+   "cn": "阶级矛盾",
+   "en": "class contradiction",
+   "source": "马克思主义",
+   "wordNumber": "03.0095",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不同阶级之间因经济、政治及其他方面的利益和要求的差别而产生的矛盾，是阶级关系的基本内容之一。阶级矛盾依据矛盾的对立程度和解决方式不同，分为对抗性矛盾和非对抗性矛盾两种。"
+  },
+  {
+   "cn": "党内矛盾",
+   "en": "innerparty contradiction",
+   "source": "马克思主义",
+   "wordNumber": "03.0473",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党内部不同思想观点的分歧和对立。本质是无产阶级思想和各种非无产阶级思想的矛盾，其中最主要的是无产阶级思想与农民、小资产阶级思想的矛盾。有些是社会上的阶级斗争的反映，大量的是思想认识上的先进与落后、"
+  },
+  {
+   "cn": "民族矛盾",
+   "en": "ethnic contradiction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0042",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间因政治经济利益不同而产生的矛盾。阶级社会的民族矛盾包括多民族国家内部压迫民族的统治阶级与被压迫民族之间的矛盾，帝国主义与殖民地、半殖民地人民之间的矛盾，是对抗性的。社会主义社会消灭了民族压迫和"
+  },
+  {
+   "cn": "主要矛盾与次要矛盾",
+   "en": "principal contradiction and secondary contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0086",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法认为，在复杂事物之中，存在着许多矛盾，其中规定事物和发展阶段、过程的本质并决定着其他矛盾存在和发展的矛盾称为主要矛盾，而被决定的其他矛盾则被称为次要矛盾。次要矛盾为主要矛盾所支配,也反过来对"
+  },
+  {
+   "cn": "资本主义矛盾",
+   "en": "contradictions of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "02.0179",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义制度中存在的各种矛盾和冲突。其中起决定作用的为资本主义基本矛盾，即生产社会化与生产资料资本主义私有制之间的矛盾。"
+  },
+  {
+   "cn": "资本主义文化矛盾",
+   "en": "cultural contradictions of capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.64",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "现代资本主义社会中社会结构、政治与文化三个独立领域及其运行原则之间的对立。贝尔(Daniel Bell）认为掌管经济的是效益原则，决定政治运转的是平等原则，而引导文化的是自我实现或自我满足原则。这三个"
+  },
+  {
+   "cn": "对抗性矛盾和非对抗性矛盾",
+   "en": "antagonistic and nonantagonitic contradictions",
+   "source": "马克思主义",
+   "wordNumber": "01.0234",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对抗性矛盾是指矛盾双方在根本性质和根本利益上互相敌对、不可调和的矛盾，其斗争形式一般表现为剧烈的外部冲突。非对抗性矛盾是指矛盾双方在根本利益一致基础上的矛盾，一般不表现为剧烈的外部冲突，即不表现为对抗"
+  },
+  {
+   "cn": "人民内部矛盾",
+   "en": "contradictions among the people",
+   "source": "马克思主义",
+   "wordNumber": "01.0238",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在人民根本利益一致基础上的矛盾。它的范围随着“人民”这一概念内涵的变化而发生变化，因而在不同国家和各个国家不同的历史时期，人民内部矛盾的内容是不同的。中华人民共和国成立以后，人民内部矛盾包括工人阶级内"
+  },
+  {
+   "cn": "帝国主义的主要矛盾",
+   "en": "main contradictions of imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0266",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义时期，资本主义世界的主要矛盾有：帝国主义国家内部无产阶级和资产阶级的矛盾；殖民地、半殖民地和附属国与帝国主义国家之间的矛盾；帝国主义国家之间的矛盾。这些矛盾是由垄断这一帝国主义的经济基础决定的"
+  },
+  {
+   "cn": "资本主义文化矛盾",
+   "en": "cultural contradictions of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0100",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于丹尼尔·贝尔（Daniel Bell）《资本主义文化矛盾》。指资本主义的经济政治和文化各自拥有相互矛盾的轴心原则——分别是效益原则、平等原则与自我实现原则，它们之间的悖论，产生机制断裂，造成了资"
+  },
+  {
+   "cn": "主要矛盾和次要矛盾",
+   "en": "primary and the secondary contradictions",
+   "source": "马克思主义",
+   "wordNumber": "01.0231",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "矛盾特殊性的一种情形，表明诸种矛盾在矛盾体系中所处地位和作用的哲学范畴。主要矛盾是处于支配地位的、对事物的发展过程起决定作用的矛盾，规定或影响着事物复杂矛盾体系中其他矛盾的存在和发展；次要矛盾则是处于"
+  },
+  {
+   "cn": "社会主义社会的基本矛盾",
+   "en": "basic contradictions of socialist society",
+   "source": "马克思主义",
+   "wordNumber": "01.0235",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产力和生产关系之间、经济基础和上层建筑之间的矛盾，毛泽东1957年在《关于正确处理人民内部矛盾的问题》一文中首次提出。"
+  },
+  {
+   "cn": "矛盾的普遍性和特殊性",
+   "en": "universality and particularity of contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0229",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "矛盾的普遍性是指矛盾存在于一切事物的发展过程之中，矛盾存在于一切事物发展过程的始终。矛盾的特殊性是指具体事物的矛盾以及每一矛盾的各个方面都有其特点。矛盾的普遍性与特殊性的关系是共性和个性、一般和个别的"
+  },
+  {
+   "cn": "矛盾的同一性和斗争性",
+   "en": "identity and struggle of contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0230",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一切矛盾着的东西，互相联系着，不但在一定条件之下共处于一个统一体中，而且在一定条件之下互相转化，这就是矛盾的同一性的全部意义。矛盾的斗争性，是指矛盾着的对立面之间相互排斥、相互对立的性质。同一性和斗争"
+  },
+  {
+   "cn": "敌我矛盾",
+   "en": "contradictions between the enemies and ourselves",
+   "source": "马克思主义",
+   "wordNumber": "01.0237",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根本利益对立基础上的矛盾。在不同的国家和各个国家不同的历史时期有着不同的内容。"
+  },
+  {
+   "cn": "正确处理人民内部矛盾",
+   "en": "correctly handle contradictions among the people",
+   "source": "马克思主义",
+   "wordNumber": "01.0239",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1957年发表的《关于正确处理人民内部矛盾的问题》一文中系统阐述了正确处理人民内部矛盾的理论前提，人民内部矛盾的表现和性质，处理人民内部矛盾的方针和方法。"
+  },
+  {
+   "cn": "社会主义社会主要矛盾",
+   "en": "principal contradiction of the socialist society",
+   "source": "马克思主义",
+   "wordNumber": "03.0391",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共八大的政治报告曾表述为“人民对于经济迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾”。中共十一届六中全会通过的《关于建国以来党的若干历史问题的决议》把社会主义初级阶段的主要矛盾表述为"
+  },
+  {
+   "cn": "社会主义社会两类矛盾的学说",
+   "en": "two types of contradictions in socialist society",
+   "source": "马克思主义",
+   "wordNumber": "01.0236",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1957年毛泽东在《关于正确处理人民内部矛盾的问题》一文中对社会主义社会两类矛盾的学说进行了详细的阐述，认为社会主义社会存在着敌我矛盾和人民内部矛盾这两类性质完全不同的矛盾。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

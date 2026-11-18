@@ -1,0 +1,752 @@
+{
+ "key": "epistemic emergence",
+ "term": "epistemic emergence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:47:53+00:00",
+ "status": "ok",
+ "note": "variant=epistemic emergence; 审定公布名词库=694; 海峡两岸名词对照库=104; 其他来源数据库=81; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "突现",
+   "en": "emergence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.735",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在复杂系统演变与发展过程中，在宏观层次上突然出现的在结构和性能方面的质变的特性或现象。美国圣菲研究所提出，复杂性实际上就是一门关于“突现”的科学。"
+  },
+  {
+   "cn": "浮现",
+   "en": "emergence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.232",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "在哲学、系统论、科学和艺术中，更大的实体通过更小或更简单的实体之间的相互作用而生成的现象。更大的实体由此展现出更小或更简单的实体不具备的属性。"
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0051",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "因局部组成部分之间的交互而产生系统全局行为，或缘起于微观的宏观效应。"
+  },
+  {
+   "cn": "急救",
+   "en": "emergency",
+   "source": "急救医学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "对突发疾病或受到意外伤害的需要医疗干预的人员进行紧急医疗处置的过程。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "行为医学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "机体应对出乎意料的突发事件、迫切需要或紧急情况的反应。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "核医学名词",
+   "wordNumber": "02.0550",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "为避免事故发生或减轻事故后果而立即采取的某些超出正常工作程序的行动。"
+  },
+  {
+   "cn": "突发事件",
+   "en": "emergency",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0668",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "突然发生，造成或者可能造成严重社会危害，需要采取应急处置措施予以应对的自然灾害、事故灾难、公共卫生事件和社会安全事件。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.040",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "需要立即采取某些超出正常工作程序的行动以避免事故发生或减轻事故后果的状态；也泛指立即采取超出正常工作程序的行动。"
+  },
+  {
+   "cn": "紧急",
+   "en": "emergency",
+   "source": "航海科技名词",
+   "wordNumber": "14.0032",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "挺水植物",
+   "en": "emergent,emerged plant",
+   "source": "生态学名词",
+   "wordNumber": "16.343",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "根长在底泥中而茎叶伸出水面并在大气中开花的植物。"
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2217",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "将自相似思想引入大森 -宇津公式，假定任何一次地震均产生自己的高阶余震，利用条件强度函数建立的余震发生模型。 "
+  },
+  {
+   "cn": "厂房应急",
+   "en": "emergency alert,plant emergency",
+   "source": "电力名词",
+   "wordNumber": "17.789",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "放射性物质的释放已经或者可能即将发生,但实际的或者预期的辐射后果仅限于场区局部区域的状态。宣布厂房应急后,营运单位应迅速采取行动缓解事故后果和保护现场人员。"
+  },
+  {
+   "cn": "羽化",
+   "en": "emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出现，露出",
+   "en": "emergence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "eclosion\",\"emergence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "emergence\",\"eclosion",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成虫羽化",
+   "en": "adult emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "羽化诱器,羽化期捕捉器",
+   "en": "emergence trap",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "紧急",
+   "en": "emergency\",\"urgency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "紧急操作",
+   "en": "emergency operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "紧急贷款",
+   "en": "emergency loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急关税",
+   "en": "emergency tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急信贷",
+   "en": "emergency credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急准备金",
+   "en": "emergency reserve",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "临时兑换券",
+   "en": "emergency note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应急基金",
+   "en": "emergency fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急断电",
+   "en": "emergency-off",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧急呼叫",
+   "en": "emergency call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应急按钮",
+   "en": "emergency button",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应急维修",
+   "en": "emergency maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧急刹车",
+   "en": "emergency brake",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "紧急倒车",
+   "en": "back emergency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键时刻",
+   "en": "emergency",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出水",
+   "en": "emerge\",\"emersion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融突发事件应急预案",
+   "en": "financial emergency plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "紧急水道",
+   "en": "emergency lane\",\"lane 0",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能新兴产业",
+   "en": "emerging AI industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新兴网络靶场",
+   "en": "emerging cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险应急处置",
+   "en": "financial risk emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府应急管理平台",
+   "en": "government emergency management platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动应急指挥平台",
+   "en": "mobile emergency command platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字地震应急救灾",
+   "en": "digital earthquake emergency relief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全应急处置",
+   "en": "data security emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "需要立即采取某些超出正常工作程序的行动以避免核或辐射事故发生或减轻核或辐射事故后果的状态；也泛指立即采取超出正常工作程序的行动。"
+  },
+  {
+   "cn": "应急照射",
+   "en": "emergency exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在紧急情况下受到的照射。包括紧急情况直接导致的非计划照射以及为减轻紧急情况后果而采取行动的人员受到的有计划的照射。"
+  },
+  {
+   "cn": "应急准备",
+   "en": "emergency preparedness",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况而进行的准备工作。包括制定应急计划，建立应急组织，准备必要的应急设施、设备与物资，以及进行人员培训与演习等。"
+  },
+  {
+   "cn": "应急计划",
+   "en": "emergency plan",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况所制定并实施的一种经审批的文件或一组程序。它描述了该文件的编制与实施单位的应急响应功能、组织、设施和设备，以及和外部应急组织间的协调和相互支持关系。该文件还必须有专门的执行程序加"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "应急安排",
+   "en": "emergency arrangement",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在应急准备阶段落实的一组规则，以提供为执行响应核或辐射应急所要求的规定职能或任务的能力。可以包括管理机构和责任、组织、协调、人员、计划、程序、设施、设备或培训。"
+  },
+  {
+   "cn": "应急等级",
+   "en": "emergency class",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "有必要立即做出相似应急响应的一系列状态。用来向响应部门和公众通报所需的响应水平。针对每个应急等级，预先规定了响应部门的初始行动。"
+  },
+  {
+   "cn": "应急状态分级",
+   "en": "emergency classification",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对某种应急状态进行分级以便宣布适用的应急等级的过程。应急等级一经宣布，响应部门就要启动适合这一应急等级的预先规定的响应行动。"
+  },
+  {
+   "cn": "应急待命",
+   "en": "emergency standby",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "出现可能危及核设施安全的工况或事件时的应急状态。需要迅速采取应急措施和进行评价，加强运营单位的响应准备，并视情况加强地方政府的响应准备。"
+  },
+  {
+   "cn": "厂房应急",
+   "en": "plant emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性物质的释放已经或者可能即将发生，但实际的或者预期的辐射后果仅限于场区局部区域的状态。需要迅速采取行动缓解事故后果和保护现场人员。"
+  },
+  {
+   "cn": "应急演习",
+   "en": "emergency exercise",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.14",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为检验应急计划的有效性、应急准备的完善性、应急能力的适应性和应急人员的协同性所进行的一种模拟应急响应的实践活动。"
+  },
+  {
+   "cn": "应急培训",
+   "en": "emergency training",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.15",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "根据应急工作的需要，对管理人员或专业人员进行的教学与训练。"
+  },
+  {
+   "cn": "应急设施",
+   "en": "emergency facility",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "用于紧急处理事故的设施。对核电厂而言，一般包括备用控制室、技术支援中心、应急控制中心、事故后果评价设施、应急监测设施、医学救护设施、后勤支援设施以及应急新闻中心等。"
+  },
+  {
+   "cn": "应急响应",
+   "en": "emergency response",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "旨在缓解核或辐射紧急情况对人员健康和安全、生活质量、财产和环境的影响所采取的行动。它也可以为恢复正常的社会和经济活动提供基础。"
+  },
+  {
+   "cn": "应急服务",
+   "en": "emergency service",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在场外履行应急响应功能的当地响应部门提供的服务。这些服务包括派出警察、消防员和救援队、救护与监测人员和危险品管制小组等。"
+  },
+  {
+   "cn": "应急阶段",
+   "en": "emergency phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现有必要作出应急响应的情况直至完成预期的或对紧急情况头几个月内预期的放射学状况作出响应所采取的所有行动的这段时间。"
+  },
+  {
+   "cn": "应急工作人员",
+   "en": "emergency worker",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件时承担特定职责人员，并在应急响应行动中可能受到照射的任何工作人员。"
+  },
+  {
+   "cn": "跨国紧急情况",
+   "en": "transnational emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.24",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在一个以上国家发生的具有实际、可能或察觉到放射学意义的核或辐射紧急情况。"
+  },
+  {
+   "cn": "应急管理",
+   "en": "emergency management",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.10",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "避免事故发生或减轻事故后果，需要立即采取某些超出正常工作程序的行动。"
+  },
+  {
+   "cn": "应急演练",
+   "en": "emergency drill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在事先虚拟的学校突发公共卫生事件条件下，应急预案中各个组成部门、单位或群体的人员针对假设的特定情况，执行实际突发事件发生时各自职责和任务的排练活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

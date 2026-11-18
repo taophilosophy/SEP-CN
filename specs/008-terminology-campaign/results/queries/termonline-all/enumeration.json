@@ -1,0 +1,272 @@
+{
+ "key": "enumeration",
+ "term": "Enumeration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:52:24+00:00",
+ "status": "ok",
+ "note": "variant=Enumeration; 审定公布名词库=27; 海峡两岸名词对照库=5; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "source": "数学名词",
+   "wordNumber": "02.0264",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "枚举定理",
+   "en": "enumeration theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0162",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如下定理：存在一个部分可计算二元函数  ，使对一切 e,x ，有φ (e,x)=<img src='/root/syzx/static/spz/jsjkx3.02.0161.001.png'/>(x)"
+  },
+  {
+   "cn": "计数资料",
+   "en": "enumeration data",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "用定性的方法对观察单位进行测量得到的资料。"
+  },
+  {
+   "cn": "枚举法",
+   "en": "enumeration algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "计数问题",
+   "en": "enumeration problem",
+   "source": "数学名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐式枚举",
+   "en": "implicit enumeration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "整数规划问题的一种求解思想。根据求解过程中获得的可行性和目标函数的相关信息，不需要枚举所有的整数解即可得到最优解。通常认为该思想等同于分支定界，但与其早期版本有区别。"
+  },
+  {
+   "cn": "能行枚举",
+   "en": "effective enumeration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0178",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "枚举一个集合的算法执行过程。"
+  },
+  {
+   "cn": "重量枚举器",
+   "en": "weight enumerator",
+   "source": "电子学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相对化枚举定理",
+   "en": "relativized enumeration theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "全体一元谕示图灵机可以由一个谕示图灵机来枚举。即存在一个 z ，使得对一切自然数集 A 和自然数 x,y ，<img src='/root/syzx/static/spz/jsjkx3.02.0208"
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "化学工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "波利亚计数定理",
+   "en": "Polya enumeration theorem",
+   "source": "数学名词",
+   "wordNumber": "03.0192",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "数学名词",
+   "wordNumber": "011.0179",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归可枚举集合",
+   "en": "recursively enumerable set",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0158",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机接受的集合，即存在一个算法来枚举其成员的集合。"
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0157",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机接受的语言，即存在一个算法来枚举其成员的语言。"
+  },
+  {
+   "cn": "递归可枚举集",
+   "en": "recursively enumerable set",
+   "source": "数学名词",
+   "wordNumber": "02.0240",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "简单枚举归纳推理",
+   "en": "simple enumeration inductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0107",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "根据某类中的部分对象（分子或子类）具有或不具有某一属性，并且未遇反例之前提，推出该类对象全部具有或不具有该属性。"
+  },
+  {
+   "cn": "计算可枚举图灵度",
+   "en": "computably enumerable Turing degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个图灵度中包含有一个计算可枚举集合，则称它为一个计算可枚举图灵度。"
+  },
+  {
+   "cn": "计算可枚举集完全性准则",
+   "en": "completeness criterion for the computably enumerable sets",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0225",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个计算可枚举集 A 是完全的，当且仅当存在函数 f<img src='/root/syzx/static/spz/jsjkx3.02.0224.001.png'/>A 使得对一切 x ，<img s"
+  },
+  {
+   "cn": "计算可枚举集的归约原理",
+   "en": "reduction principle for the computably enumerable sets",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0191",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "任给两个计算可枚举集 X,Y ，存在计算可枚举集<img src='/root/syzx/static/spz/jsjkx3.02.0191.001.png'/>X ∪ Y 。这里<img src='"
+  },
+  {
+   "cn": "计算可枚举度的并定理",
+   "en": "join theorem for the computably enumerable Turing degrees",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对任意的非零计算可枚举图灵度 x ，存在计算可枚举图灵度 a 使得 a ″=( a ∨ x )′=0″，这里 y′ 是 y 的图灵跃变。 "
+  },
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枚举法",
+   "en": "enumeration method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重量枚举器",
+   "en": "weight enumerator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穷举法",
+   "en": "enumeration method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

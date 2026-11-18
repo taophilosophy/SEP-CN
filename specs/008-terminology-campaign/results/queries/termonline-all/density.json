@@ -1,0 +1,732 @@
+{
+ "key": "density",
+ "term": "density",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:36:17+00:00",
+ "status": "ok",
+ "note": "variant=density; 审定公布名词库=1190; 海峡两岸名词对照库=406; 其他来源数据库=34; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.063",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "以10为底的透或反射系数倒数的对数值。"
+  },
+  {
+   "cn": "密度",
+   "en": "density ",
+   "source": "草学名词",
+   "wordNumber": "3.0126",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0483",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "(1)单位测度 (如单位长度、面积或频次)某物质的数量。 (2)单位体积中所含物质的质量。 "
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划制度",
+   "subjectName": "城乡规划制度",
+   "publishYear": "2021",
+   "definition": "通常是指一定范围内，某一要素的量占该范围总面积的比例。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "电力名词",
+   "wordNumber": "01.476",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "单位体积物质的质量。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "物理学名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "植物学名词",
+   "wordNumber": "13.0270",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "单位面积上植物个体的数目。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1211",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定温度下，单位体积内所含物质的质量。以g/cm³或kg/m³表示。油品的密度与化学组成和结构有关。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "林学名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "单位面积或单位空间内的植物种的个体数量。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "计量学名词",
+   "wordNumber": "03.044",
+   "subjectFullName": "计量学_质量、密度、衡器_密度",
+   "subjectName": "密度",
+   "publishYear": "2015",
+   "definition": "单位体积中所含物质的质量。单位为 kg/m³。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "建筑学名词",
+   "wordNumber": "10.0369",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "单位体积材料的质量。符号为ρ，单位为kg/m³。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.363",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地理对象在某一地理区域的疏密程度。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.131",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "单位面积草地上的植物个体数。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "生态学名词",
+   "wordNumber": "06.023",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "单位面积或单位空间内的个体数。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.367",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.085",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）",
+   "subjectName": "土力学（水利）",
+   "publishYear": "1997",
+   "definition": "单位体积土体的质量。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "紧度",
+   "en": "density,closeness",
+   "source": "林学名词",
+   "wordNumber": "12.273",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "单位体积纸或纸板的质量。以g/cm³表示。"
+  },
+  {
+   "cn": "密度修正",
+   "en": "density modification,density improvement",
+   "source": "生物物理学名词",
+   "wordNumber": "02.286",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "在得到初始相位的基础上，根据多种蛋白质晶体中电子密度分布的固有性质在实空间对初始相位进行修正的方法。"
+  },
+  {
+   "cn": "密度分割",
+   "en": "density slicing,density splitting",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.305",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将图像密度或亮度值分成若干间隔或等级，每级赋予指定编码的处理方法。"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浓度",
+   "en": "density",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density\",\"shade density",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度流",
+   "en": "density current\",\"density flow",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "密度分割",
+   "en": "density slicing\",\"density splitting",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "填充密度",
+   "en": "packed density\",\"packing density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理论密度",
+   "en": "theoretical density\",\"solid density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "面密度",
+   "en": "area density\",\"areal density",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度制约",
+   "en": "density dependence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度流",
+   "en": "density current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密度指数",
+   "en": "density index",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密度图",
+   "en": "density plot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密度聚类",
+   "en": "density-based clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疏密",
+   "en": "Sparsity and Density",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值密度",
+   "en": "data value density",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浓淡",
+   "en": "Denseness and Lightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密集编码",
+   "en": "quantum dense coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稠密市场效应",
+   "en": "dense market effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超密编码协议",
+   "en": "super-dense coding protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份",
+   "en": "digital identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份盗窃",
+   "en": "identity theft",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等离子体密度",
+   "en": "plasma density",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "等离子腔体内施加的交变电场引发粒子正负电荷分离，使带电粒子发生集体震荡的粒子密度称为等离子体密度，相应的交变电场即是等离子体频率。"
+  },
+  {
+   "cn": "人口密度",
+   "en": "population density",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "单位面积土地上的人口数。例如，每平方英里土地上的人口数，又比如每平方公里耕地上的人口数。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "染毒密度",
+   "en": "exposure density",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.13.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "单位面积地面、物体或人体表面污染毒剂的平均质量，表示这些部位染毒严重程度，常用单位有微克/平方厘米（μg/cm²）、毫克/平方厘米（mg/cm²）、毫克/平方米（mg/m²）、克/平方米（g/m²）。"
+  },
+  {
+   "cn": "光密度",
+   "en": "optical density",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.3",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "入射光与透射光比值的对数。"
+  },
+  {
+   "cn": "光密度值",
+   "en": "optical density value",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.4.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "物质在溶液中吸收特定波长光线强弱的数值。与光吸收物质在溶液中的浓度成正比，是透光率对数的倒数。"
+  },
+  {
+   "cn": "骨密度",
+   "en": "bone mineral density",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.37",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "全称 “骨骼矿物质密度”。评价骨骼强度的 主要指标之一，即单位面积矿物质含量。 人体在 20~29 岁时达到最高值，以后随衰 老进程而下降。诊断骨质疏松的最基本依 据，通常选择腰椎和Ward三角作为骨"
+  },
+  {
+   "cn": "最大种群密度",
+   "en": "maximum population density",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.112",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "种群在一个有限的环境中所能稳定达到的最大数量或最大密度。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "卫生资源密度指数",
+   "en": "health resources density index，HDRI",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.12",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "衡量卫生资源地理分布和人口分布综合水平的指数。"
+  },
+  {
+   "cn": "同一性",
+   "en": "identity",
+   "source": "马克思主义",
+   "wordNumber": "01.0079",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证法中，指“辩证同一性”，与“形而上学同一性”相对。矛盾的同一性是指矛盾双方相互依存、相互贯通、相互转化的一种联系和趋势。具体表现为：矛盾对立面之间的相互依赖，各自以对方为自己存在和发展的条件，任"
+  },
+  {
+   "cn": "身份鉴定",
+   "en": "identity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.9",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品固有本质特征等同程度的检验，确保食品和食品组分的身份和纯度符合安全标准。"
+  },
+  {
+   "cn": "民俗认同",
+   "en": "folkloric identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0026",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以民俗为核心来构建与维系认同和传承传统的意识与行为，尤其强调一个民俗传统的传承是基于所有认同和实践该传统的不同群体的成员来维系的。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "对一种文化具有某种亲近感或归属感，或者是对一种文化表示基本的赞同。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "阶级认同",
+   "en": "class identity",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员通过身份标签、价值认同或行为模式等方式承认他们是同一类人。非马克思主义理论家采用这一概念取代马克思所说的“阶级意识”概念。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "dual direction",
+ "term": "dual direction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:52:50+00:00",
+ "status": "ok",
+ "note": "variant=dual direction; 审定公布名词库=2447; 海峡两岸名词对照库=655; 其他来源数据库=108; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "对偶",
+   "en": "dual",
+   "source": "数学名词",
+   "wordNumber": "07.0046",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "双源双能量CT成像",
+   "en": "dual-source dual-energy CT imaging",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像特殊技术",
+   "subjectName": "计算机体层成像特殊技术",
+   "publishYear": "2020",
+   "definition": "在计算机体层成像装置机架中设置两套X射线管和探测器，成一定角度排列，一个X射线管产生高管电压的X射线，一个X 射线管产生低管电压的X射线。两套系统分别独立采集数据信息，在影像数据空间匹配，进行双能减影"
+  },
+  {
+   "cn": "二元经济",
+   "en": "dual economy",
+   "source": "农学名词",
+   "wordNumber": "19.203",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "发展中国家中现代工业部门和传统农业部门并存的经济形态。"
+  },
+  {
+   "cn": "对偶问题",
+   "en": "dual problem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "每一个优化问题都有一个对偶问题，其目标函数值是原问题目标函数最优值的下界（原问题为最小化问题）或上界（原问题为最大化问题）。"
+  },
+  {
+   "cn": "双轨发行",
+   "en": "dual distribution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.016",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "同一种出版物经两条渠道平行地向同一地方的读者销售的发行方式。"
+  },
+  {
+   "cn": "双侧向测井",
+   "en": "dual laterolog",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0652",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "探测深度不同的两种侧向测井的组合。测量时，使用同一个电极系。测量深侧向测井曲线时使用较长的屏蔽电极，测量浅侧向测井曲线时只用深侧向屏蔽电极的一部分作为屏蔽电极，而另一部分作为回路电极。 "
+  },
+  {
+   "cn": "双作用离合器",
+   "en": "dual clutch",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0314",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_各种离合器",
+   "subjectName": "各种离合器",
+   "publishYear": "2021",
+   "definition": "具有一个主动部分、两个从动部分的离合器。"
+  },
+  {
+   "cn": "对偶夹",
+   "en": "dual clamp",
+   "source": "手外科学名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "在进行显微外科操作时用于术中可同时夹闭需吻合血管的两断端以阻断血流，并固定血管，从而辅助术者缝合血管的无创性精细手术器械。"
+  },
+  {
+   "cn": "混合加热循环",
+   "en": "dual cycle",
+   "source": "电力名词",
+   "wordNumber": "01.529",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "机械喷射式柴油机的工作原理,由等熵压缩、等体积加热和等压加热、等熵膨胀以及等体积排热4个可逆过程组成的理想热力循环。"
+  },
+  {
+   "cn": "双关共振",
+   "en": "dual resonance",
+   "source": "物理学名词",
+   "wordNumber": "09.1142",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶图",
+   "en": "dual graph",
+   "source": "物理学名词",
+   "wordNumber": "08.0619",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶张量",
+   "en": "dual tensor",
+   "source": "物理学名词",
+   "wordNumber": "09.1329",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶空间",
+   "en": "dual space",
+   "source": "物理学名词",
+   "wordNumber": "09.1328",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "双重作用",
+   "en": "dual effect",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "临床用药因药物自身的调节作用、用药时机与剂量大小、机体的病理状态或病种不同等因素所产生的两种效果。"
+  },
+  {
+   "cn": "对偶场",
+   "en": "dual field",
+   "source": "物理学名词",
+   "wordNumber": "09.1327",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶格[点]",
+   "en": "dual lattice",
+   "source": "物理学名词",
+   "wordNumber": "11.0717",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶模型",
+   "en": "dual model",
+   "source": "物理学名词",
+   "wordNumber": "09.1244",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "双任务",
+   "en": "dual tasks",
+   "source": "生物物理学名词",
+   "wordNumber": "04.262",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "评估同时执行的两个任务间相互影响程度的实验模式中的同时执行的两个明显不同的任务。"
+  },
+  {
+   "cn": "双任务范式",
+   "en": "dual-taskparadigm",
+   "source": "生物物理学名词",
+   "wordNumber": "04.263",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "实验神经心理学中的一种实验范式。要求受试者同时执行两项任务，并将其表现和仅执行单任务时的表现做对比。"
+  },
+  {
+   "cn": "对偶操作",
+   "en": "dual operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0193",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "一种布尔运算。第一布尔运算的结果是第二布尔运算结果的“非”，而第二布尔运算中的操作数为第一布尔运算中布尔操作数的“非”。"
+  },
+  {
+   "cn": "双重循环",
+   "en": "dual recirculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双重人格",
+   "en": "dual personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重态度",
+   "en": "dual attitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重关系",
+   "en": "dual relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[海运保险中的]船舶双重估值",
+   "en": "dual valuation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双轨银行业务",
+   "en": "dual banking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双重关税",
+   "en": "dual duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "二元结构",
+   "en": "dual-texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "双识别",
+   "en": "dual recognition",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对偶码",
+   "en": "dual code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶网络",
+   "en": "dual network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶运算",
+   "en": "dual operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双处理器",
+   "en": "dual processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双份编码",
+   "en": "dual coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双极化",
+   "en": "dual polarization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双方责任",
+   "en": "dual responsibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "双机系统",
+   "en": "dual system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双目标",
+   "en": "dual objectives",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "双重产权",
+   "en": "dual property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重测度",
+   "en": "dual scaling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.52",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "按照相关比最大的原则，对原始类别数据运用方差分析方法计算变量权重的分析方法。"
+  },
+  {
+   "cn": "双向转诊",
+   "en": "dual referral",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "一种为优化医疗资源配置规范基层医疗机构与大中型医疗机构、专科医院之间患者有序流动的政策。"
+  },
+  {
+   "cn": "对偶婚",
+   "en": "dual marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0351",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "原始社会时期，不同氏族的成年男女双方，在或长或短的时间内实行由一男一女组成配偶，以女子或男子为中心，婚姻关系不稳固的一种婚姻形式。对偶婚为一种两厢情愿、不受约束而稍有固定的成对同居形式，其形式有走婚，"
+  },
+  {
+   "cn": "双向转诊",
+   "en": "dual referral service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.9",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "在基层医疗机构与上级医疗机构之间，基于患者病情需要和医疗资源优化配置原则，建立的 “基层首诊、上级医疗机构转诊、康复回基层”的有序医疗服务衔接模式。其核心目标是实现“小病在基层、大病到医院、康复回社区"
+  },
+  {
+   "cn": "双轨政治",
+   "en": "dual-track politics",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统政治结构中连接中央和地方政治的两条轨道。，一条是中央依靠行政、司法等手段，将政令下达到地方；另一条是从县以下，政令与人民的接触转入了自下而上的轨道，即由地方的绅士通过他的社会关系网，把民间的政"
+  },
+  {
+   "cn": "分质供水",
+   "en": "dual water supply",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督",
+   "subjectName": "学校饮用水卫生监督",
+   "publishYear": "2025",
+   "definition": "利用过滤、吸附、氧化、消毒等装置对需要改善水质的集中式供水（或其他水源水）作进一步的净化处理，通过独立封闭的循环管道输送，供直接饮用的水。"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "双城市假设",
+   "en": "the dual-city hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "后工业时代社会两极化在城市的空间体现。一方面是高速的经济发展和迅速增长的金融业、高科技行业及公司服务业。另一方面是传统工业以及受工会保护的技术工作的减少，在产业转型的过程中越发加深了社会的贫富差距。"
+  },
+  {
+   "cn": "城乡二元结构",
+   "en": "urban-rural dual system",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "以社会化生产为主要特点的城市经济和以小生产为主要特点的农村经济并存的经济结构。在我国特指在计划经济时期，为集中力量优先发展城市，实现工业现代化，在城市和农村实行两种不同的社会经济制度。"
+  },
+  {
+   "cn": "避孕方法双重保护作用",
+   "en": "dual protection of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.8",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "避孕措施既具有避免妊娠的作用，还具有预防性传播感染或疾病的作用。最常见的方法是男用避孕套和女用避孕套。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

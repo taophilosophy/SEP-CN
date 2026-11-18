@@ -1,0 +1,772 @@
+{
+ "key": "economy and society",
+ "term": "Economy and Society",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:34:57+00:00",
+ "status": "ok",
+ "note": "variant=Economy and Society; 审定公布名词库=10000; 海峡两岸名词对照库=2059; 其他来源数据库=1382; 预公布名词数据库=1312; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "科学、技术、经济与社会",
+   "en": "science, technology, economy, and society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.003",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "科学、技术与经济学和社会学的跨学科研究领域。它们互动整合为协调发展的自组织大系统，来研究科学技术对经济发展、社会进步的影响，以及社会和经济对科学技术的塑造作用。"
+  },
+  {
+   "cn": "工程与社会",
+   "en": "engineering and society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.016",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "聚焦工程与社会之间关系的交叉研究。工程离不开社会，是社会中的工程，因此工程具有社会性，任何工程不仅要从人们的社会需要出发，而且也需要社会进行选择、实现和评估。同时，作为现实的生产力，工程发展的质与量、"
+  },
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "经济学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会物质资料的生产和再生产过程。包括物质资料的直接生产过程以及由它决定的交换、分配和消费过程，其内容包括生产力和生产关系两个方面。"
+  },
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "计划生育名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "以共同的物质生产活动为基础而相互联系的人的总体。是人交互作用的产物。"
+  },
+  {
+   "cn": "社群",
+   "en": "society",
+   "source": "生态学名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "同种动物个体共同生活在一起，通过社会等级、领域行为和社会分工而相互作用形成的群体组织。"
+  },
+  {
+   "cn": "科学、技术与经济",
+   "en": "science, technology, and economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "聚焦于科学、技术与经济之间相互影响和作用的交叉领域。研究其内在联系、作用机制及在运动中不断更新的动态过程和发展规律。一方面，科学技术融入生产力诸要素，并入经济过程各环节，制约或决定着经济的发展；另一方"
+  },
+  {
+   "cn": "科学、技术与社会",
+   "en": "science, technology, and society; STS",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "20世纪60年代末70年代初开始在欧美发展起来的一门研究科学、技术与社会相互关系的规律及其应用的学科。是探求科学、技术与社会之间的相互影响及互动机制的跨学科研究领域的超学科和学科群。"
+  },
+  {
+   "cn": "价值、技术、科学与社会",
+   "en": "value, technology, science, and society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.011",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "研究社会中科学、技术与有形价值的相互关系，特别是将科学技术看作蕴含价值的社会事业的交叉领域。首先，认为科学技术活动本身是蕴含价值取向的；其次，认为科学、技术及其产品都是围绕价值展开的；最后，认为社会的"
+  },
+  {
+   "cn": "科学、技术、医疗与社会",
+   "en": "science, technology, medicine, and society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.042",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "在社会的背景下研究科学、技术与医疗关系的交叉领域。科学技术的进步，不仅改善了医疗设备、医疗条件、研发新的药物等，而且也产生了一些新的医疗伦理问题；同时，医疗的变化和需求对科学研究和技术发明具有导向的作"
+  },
+  {
+   "cn": "林业经济",
+   "en": "forestry economy",
+   "source": "风景园林名词",
+   "wordNumber": "13.0040",
+   "subjectFullName": "风景园林_其他_林学",
+   "subjectName": "林学",
+   "publishYear": "2025",
+   "definition": "以森林资源为基础，从事森林资源保护、开发与利用的一种经济活动体系。是国民经济体系中的一个重要组成部分。"
+  },
+  {
+   "cn": "原子经济性",
+   "en": "atom economy",
+   "source": "精细化工名词",
+   "wordNumber": "07.0169",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "在化学合成设计中，设法使原料分子中的所有原子全部变成最终目标产物中的原子，不伴随副产物及废料的生成，实现化学反应过程废料的零排放。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "农学名词",
+   "wordNumber": "19.202",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产目的主要是以商品交换为目的的经济形态。"
+  },
+  {
+   "cn": "二元经济",
+   "en": "dual economy",
+   "source": "农学名词",
+   "wordNumber": "19.203",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "发展中国家中现代工业部门和传统农业部门并存的经济形态。"
+  },
+  {
+   "cn": "混合经济",
+   "en": "mixed economy",
+   "source": "农学名词",
+   "wordNumber": "19.204",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "明显包含不同经济运行体制的经济形态。"
+  },
+  {
+   "cn": "合作经济",
+   "en": "cooperative economy",
+   "source": "农学名词",
+   "wordNumber": "19.209",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "劳动者通过自愿联合、民主管理及共同经营来获得服务和利益的经济形式。"
+  },
+  {
+   "cn": "集体经济",
+   "en": "collective economy",
+   "source": "农学名词",
+   "wordNumber": "19.210",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产资料和劳动产品归组织内劳动群众集体共同所有的公有制经济形式。"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）于1996年正式提出。指以知识和信息资源的拥有、配置、产出和"
+  },
+  {
+   "cn": "非物质经济",
+   "en": "immaterial economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "在20世纪末生态文明建设进入新的历史阶段对物质主义之观念系统反思的产物。强调非物质在社会经济生活中的重要性及作用，在现代社会经济运行进程中合理协调物质文明与精神文明的关系，满足全社会对精神价值的生产和"
+  },
+  {
+   "cn": "绿色经济",
+   "en": "green economy",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "以市场为导向、以传统产业经济为基础、以经济与环境的和谐为目的而发展起来的一种新的经济形式。是产业经济为适应人类环保与健康需要而产生并表现出来的一种发展状态。"
+  },
+  {
+   "cn": "循环经济",
+   "en": "circular economy",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.018",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在生产、流通和消费等过程中进行的减量化、再利用、资源化活动的总称。"
+  },
+  {
+   "cn": "社群",
+   "en": "society",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蒸汽经济",
+   "en": "steam economy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "循环经济",
+   "en": "circular economy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋经济",
+   "en": "marine economy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集聚经济",
+   "en": "agglomeration economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间经济",
+   "en": "spatial economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性经济体制",
+   "en": "destructive economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "学习[型]经济",
+   "en": "learning economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "种内社会",
+   "en": "intraspecific society",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地方社会",
+   "en": "local society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "氏族社会",
+   "en": "clan society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "偶见群",
+   "en": "casual society",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[动物]社群",
+   "en": "[animal] society",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "本地化经济",
+   "en": "localization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化经济",
+   "en": "urbanization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节用",
+   "en": "Economy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络经济",
+   "en": "network economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能经济",
+   "en": "smart economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零工经济",
+   "en": "gig economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济",
+   "en": "Digital Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云经济",
+   "en": "cloud economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型经济",
+   "en": "Sharing Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用经济",
+   "en": "credit economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济",
+   "en": "Platform Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享经济",
+   "en": "sharing economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群经济",
+   "en": "community economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息社会",
+   "en": "Information Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用社会",
+   "en": "Credit Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可编程社会",
+   "en": "programmable society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社会",
+   "en": "blockchain society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0152",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们生产、流通、分配、消费一切物质精神资料的总称，人类经济活动就是创造、转化、实现价值，满足人类物质文化生活需要的活动。"
+  },
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "马克思主义",
+   "wordNumber": "03.0152",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由人与人形成的关系总和。其中生产关系是社会关系的基础。广义的社会包括人类的经济、政治、文化、社会等各种关系和结构。狭义的社会是单指经济、政治、文化以外的社区、家庭等社会学意义上的关系和结构。"
+  },
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.008",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由自我繁殖的个体构建而成的、占据一定的空间且具有其独特的文化和风俗习惯的群体。"
+  },
+  {
+   "cn": "土地与自由社",
+   "en": "land and freedom society",
+   "source": "马克思主义",
+   "wordNumber": "04.0405",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国近代史上的革命民粹派组织，成立于1876年。成员主要有亚历山大·德米特里耶维奇·米哈伊洛夫（Alexander Dmitrijevic Mikhailov）、格奥尔吉·瓦连廷诺维奇·普列汉诺夫（G"
+  },
+  {
+   "cn": "半殖民地半封建社会",
+   "en": "semicolonial and semifeudal society",
+   "source": "马克思主义",
+   "wordNumber": "03.0326",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "形式上保持着国家独立和主权，实际上政治、经济受帝国主义支配，封建经济逐步解体、资本主义因素得到一定发展的社会。它不是一种独立的社会经济形态。中国从1840年鸦片战争到1949年中华人民共和国成立是半殖"
+  },
+  {
+   "cn": "礼俗社会",
+   "en": "society of etiquette and custom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0035",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以传统礼制社会中形成的俗规民约作为维持秩序的力量和所依据的规范而形成的传统社会。礼俗社会的特征是：规模小，分工与角色分化较少，家庭为社会的核心单元，人的行为主要受习俗、传统的约束，具有很强的同质性。"
+  },
+  {
+   "cn": "民族经济",
+   "en": "ethnic economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "狭义上指多民族国家少数民族的经济；广义上主要是指一国家或地区为单位的民族经济。"
+  },
+  {
+   "cn": "殖民地经济",
+   "en": "colonial economy",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "受宗主国控制的附属国家或地区在经济发展上服从于宗主国的利益，工商业发展受到宗主国限制，经济结构单一，和宗主国存在着能源、原材料、劳动力和资本、工业制成品之间的不平等贸易的经济发展模式。"
+  },
+  {
+   "cn": "全球化经济",
+   "en": "global economy",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "主要的生产要素打破国界限制，形成了全球范围内的经济体系。20世纪80年代以来，主要由于贸易自由化和信息技术的迅猛发展，资本和劳动力都越来越打破国界限制，形成了全球性的生产、运输、贸易、消费网络。"
+  },
+  {
+   "cn": "实质经济学",
+   "en": "substantive economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "基于人类生存活动的实在主义范畴，即维持人的活动或者社会的存续而调用物质资源的过程，进行的经济学研究。这些范畴包括人类与自然之间以物质资源为媒介的互动，以及这些物质资源在人类社会内部的流动。在卡尔·波兰"
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.46",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "自20世纪末期以来围绕或源自特定产业（主要是信息技术、金融业，及生物科技）的经济形态。新经济的主要特征是信息主义、网络化和全球化。卡斯特尔(Manuel Castells)提出的概念。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "采集经济",
+   "en": "gathering economy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.29",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "以采集大自然中天然生长的动植物为生存条件的经济，是农耕和畜牧的生产手段出现之前人类获得食物的最基本手段。"
+  },
+  {
+   "cn": "政治经济学",
+   "en": "political economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0001",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以人类社会的生产关系或经济制度为研究对象的科学，主要阐明人类社会各个发展阶段上支配物质资料的生产、交换、分配和消费等经济活动的规律。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0031",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "直接以市场交换为目的的经济形式，包括商品生产和商品流通，是同生产发展的一定历史阶段相联系的经济形式。原始社会物物交换还未形成商品经济，商品经济是在自然经济的缝隙中生长的。而在资本主义社会，商品经济成为"
+  },
+  {
+   "cn": "货币经济",
+   "en": "money economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0184",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以与货币交换为特征的经济形式。它属于商品经济的范畴。货币经济是一切商品生产所共有的，随着商品经济的发展而产生和发展。"
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0315",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界各国的经济相互联系和相互依存而构成的世界范围的经济整体。它是在国际分工和世界市场的基础上，把各国的生产、流通和其他经济方面联系在一起。"
+  },
+  {
+   "cn": "自然经济",
+   "en": "natural economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0322",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以自给自足为特征的经济形式。生产是为了直接满足生产者个人或经济单位的需要，而不是为了交换的经济形式。它没有社会分工，每一个生产者或经济单位，不但生产自己需要的农产品，而且直接生产自己需要的大部分的手工"
+  },
+  {
+   "cn": "国营经济",
+   "en": "state economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0342",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产资料归国家所有并由国家经营的经济形式，包括大银行、大工业、大的交通运输业和大商业等。新民主主义国家拥有这些企业，就掌握了国家的经济命脉。国营经济是社会主义性质的，是整个国民经济的领导成份。"
+  },
+  {
+   "cn": "合作社经济",
+   "en": "cooperative economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0343",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "部分个体农民和手工业者按照自愿互利原则组织起来的经济形式，是劳动群众的集体经济组织。根据其公有化程度，分别属于半社会主义性质或社会主义性质。是无产阶级领导下的新民主主义国家用以帮助、领导和逐步改造广大"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,22 @@
+{
+ "key": "reve",
+ "term": "rêve",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:31:13+00:00",
+ "status": "ok",
+ "note": "variant=rêve; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "备用尖峰负荷额定输出功率",
+   "en": "rese- rve peak load output",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0581",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "燃气轮机在规定的条件和在透平备用尖峰负荷额定温度下，且处在新的和清洁状态运行时的标称或保证的输出功率。ISO标准备用尖峰负荷额定值指在透平备用尖峰负荷温度下每年安全运行可达到500h。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

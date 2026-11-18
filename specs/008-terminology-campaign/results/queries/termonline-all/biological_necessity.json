@@ -1,0 +1,682 @@
+{
+ "key": "biological necessity",
+ "term": "biological necessity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:35:56+00:00",
+ "status": "ok",
+ "note": "variant=biological necessity; 审定公布名词库=1056; 海峡两岸名词对照库=384; 其他来源数据库=50; 预公布名词数据库=125; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物存在和变化的因果关系具有确定性与唯一性。是事物发展、变化中合乎规律的、确定不移的趋向，由事物的本质决定，居于支配地位。是人类对事物及其变化建立确定性描述的前提条件。与“偶然性”相对。"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "其发生的必然性有科学定律的支撑，否则就可能违反科学定律。"
+  },
+  {
+   "cn": "必然性测度",
+   "en": "necessity measure",
+   "source": "自动化名词",
+   "wordNumber": "03.360",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "战略必要性假说",
+   "en": "strategic necessity hypothesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种关于信息技术战略优势的假说。其基本思想是认为信息技术可以通过提高组织内外资源整合效率为企业创造价值，但由于信息技术在竞争市场中的快速扩散性，它并不能为组织提供长久的竞争优势。"
+  },
+  {
+   "cn": "生物主义",
+   "en": "biologism",
+   "source": "心理学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "忽视或否定社会文化历史因素，主张用生物学原理来解释人类心理发生发展的理论观点。"
+  },
+  {
+   "cn": "项目建设必要性",
+   "en": "necessity of project construction",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.192",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_规划及项目的评估",
+   "subjectName": "规划及项目的评估",
+   "publishYear": "2021",
+   "definition": "项目提出实施的理由和必要性，以及实施以后能够带来的作用和意义。"
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "source": "地质学名词",
+   "wordNumber": "18.01.028",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "通过生物的新陈代谢作用，使污染的环境得到净化，提高环境对污染物的承载负荷，增加环境容量的作用。"
+  },
+  {
+   "cn": "生物景观",
+   "en": "biological landscape",
+   "source": "风景园林名词",
+   "wordNumber": "05.0215",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "以生物群体和个别的具有珍稀品种和奇异形态个体构成的总体景观。"
+  },
+  {
+   "cn": "生物入侵",
+   "en": "biological invasion",
+   "source": "农学名词",
+   "wordNumber": "10.307",
+   "subjectFullName": "植物保护_外来入侵生物",
+   "subjectName": "外来入侵生物",
+   "publishYear": "2025",
+   "definition": "外来物种传入到新的生态系统中，建立自我繁殖和维持的种群，并对当地生态、经济或社会造成危害的过程。"
+  },
+  {
+   "cn": "生物富集",
+   "en": "biological enrichment",
+   "source": "风景园林名词",
+   "wordNumber": "12.0093",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "通过生态系统中食物链或食物网的各营养级的传递，某些污染物，如放射性化学物质和合成农药等，在生物体内逐步浓集增大的趋势。"
+  },
+  {
+   "cn": "生物排水",
+   "en": "biological drainage",
+   "source": "农学名词",
+   "wordNumber": "12.163",
+   "subjectFullName": "农业水利_农田排水",
+   "subjectName": "农田排水",
+   "publishYear": "2025",
+   "definition": "通过植物蒸腾作用排除地下水的措施。"
+  },
+  {
+   "cn": "生物农药",
+   "en": "biological pesticide",
+   "source": "精细化工名词",
+   "wordNumber": "03.0005",
+   "subjectFullName": "精细化工_农药_通用",
+   "subjectName": "通用",
+   "publishYear": "2025",
+   "definition": "利用生物活体（真菌、细菌、昆虫病毒、转基因生物、天敌等）或其代谢产物（信息素、生长素、萘乙酸、2,4-二氯苯氧乙酸等），针对农业有害生物进行杀灭或抑制的制剂。"
+  },
+  {
+   "cn": "生物降解",
+   "en": "biological degradation",
+   "source": "精细化工名词",
+   "wordNumber": "03.0230",
+   "subjectFullName": "精细化工_农药_生态环境",
+   "subjectName": "生态环境",
+   "publishYear": "2025",
+   "definition": "农药在细菌、霉菌等生物有机体作用下分解成小分子化合物的过程。"
+  },
+  {
+   "cn": "生物防治",
+   "en": "biological control",
+   "source": "精细化工名词",
+   "wordNumber": "03.0232",
+   "subjectFullName": "精细化工_农药_生态环境",
+   "subjectName": "生态环境",
+   "publishYear": "2025",
+   "definition": "利用有益生物或其他生物来抑制或消灭有害生物的一种防治方法。"
+  },
+  {
+   "cn": "生物滤池",
+   "en": "biological filter",
+   "source": "风景园林名词",
+   "wordNumber": "08.1000",
+   "subjectFullName": "风景园林_风景园林工程_环境工程",
+   "subjectName": "环境工程",
+   "publishYear": "2025",
+   "definition": "由碎石或塑料制品填料构成的生物处理构筑物。污水与填料表面上生长的微生物膜间隙接触，使污水得到净化。"
+  },
+  {
+   "cn": "生物元件",
+   "en": "biological part",
+   "source": "农学名词",
+   "wordNumber": "15.086",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "有一定功能的，经过标准化处理后具有标准酶切位点的DNA元件。包括小型的遗传组件、几个组件组成的基因调控线路、由调控线路组成的级联线路、调控网络，甚至调控系统等。"
+  },
+  {
+   "cn": "生物生态",
+   "en": "biological ecology",
+   "source": "风景园林名词",
+   "wordNumber": "10.0054",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括生态因子认知、种群与群落、生态系统与栖息地等。"
+  },
+  {
+   "cn": "生物学年龄",
+   "en": "biological age",
+   "source": "急救医学名词",
+   "wordNumber": "03.835",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "反应器官功能状况的一个指标。取决于组织器官的结构与功能老化程度。"
+  },
+  {
+   "cn": "生物产量",
+   "en": "biological yield",
+   "source": "农学名词",
+   "wordNumber": "07.067",
+   "subjectFullName": "作物生理生态_产量与品质生理",
+   "subjectName": "产量与品质生理",
+   "publishYear": "2025",
+   "definition": "作物一生中通过光合作用和养分吸收过程积累的总干物质量。"
+  },
+  {
+   "cn": "生物活性",
+   "en": "biological activity",
+   "source": "农学名词",
+   "wordNumber": "18.070",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "某物质能引起活体、活组织、活细胞或活性分子发生改变的能力。"
+  },
+  {
+   "cn": "生物膜",
+   "en": "biological film\",\"biological membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固持作用",
+   "en": "biological immobilization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物学种",
+   "en": "biological species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物演替",
+   "en": "biological succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物自由基",
+   "en": "biological radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物去污染",
+   "en": "biological depollution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物处理",
+   "en": "biological treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固体",
+   "en": "biological solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物过滤器",
+   "en": "biological filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物腐蚀",
+   "en": "biological corrosion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物塔",
+   "en": "biological tower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物絮凝［作用］",
+   "en": "biological flocculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物基聚合物",
+   "en": "biological polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物分散",
+   "en": "biological dispersion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物模式",
+   "en": "biological model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物因素",
+   "en": "biological factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "日常基本生活物资",
+   "en": "daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解决好生活必需品供应的“最后一公里”问题",
+   "en": "to ensure the “last kilometer” delivery of daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保障全国生活必需品市场总体稳定",
+   "en": "to maintain an overall balance in the market for daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "马克思主义",
+   "wordNumber": "01.0051",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“偶然性”相对的哲学范畴。由事物内部的根本矛盾决定的，客观事物联系和发展中不可避免的、确定不移的状态和趋势。它在事物发展过程中居于支配地位，决定着事物发展的前途和方向。"
+  },
+  {
+   "cn": "社会必然性",
+   "en": "social necessity",
+   "source": "马克思主义",
+   "wordNumber": "03.0153",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由特定社会形态、社会结构和具体的社会历史条件所决定的客观规律，它是一定社会条件下不以人的意志为转移的、必然会发生的事件或行为。社会必然性归根结底是由生产力的发展水平状况所决定的。如而因为社会化大生产和"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "日用饰品",
+   "en": "daily necessities and decorative clothing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们日常生活中既有装饰作用又具有实用价值的物品，包括各种佩刀、手杖、雨伞、背兜、挎包、手提袋、钱包、香包、荷包、手绢、折扇、烟袋、眼镜等。"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "利用致病性微生物（如细菌、病毒、真菌）或其代谢产物（如毒素）作为武器，通过故意释放、散布等方式，造成人群、动植物感染或死亡，从而达到军事、政治或恐怖主义目的的攻击行为。"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.3",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用生物产生的物质通过化学机制杀灭有害微生物的消毒处理。"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对特定灭菌处理有确定的抗力，并装在内层包装中可供使用的染菌载体。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "source": "消毒学",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "生物体及其所生活的生态系统的多种变化。包括不同物种的多样性（物种多样性），物种内部基因的多样性（基因多样性），生态系统内和生态系统间相互作用的多样性（生态系统多样性）。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "消毒学",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "战争中以病原微生物或生物因子为主要成分，用来伤害人、畜或毁坏农作物的特殊武器。由生物战剂装料和施放装置组成，一般包括战剂、弹体、施放装置、推进装置、定时装置和爆破装置等部件。"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "根据生物监测需要采集的、具有代表性的、作为检测样品的生物材料。"
+  },
+  {
+   "cn": "生物去污",
+   "en": "biological decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "用微生物进行去污的过程。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.10",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "用微生物(细菌、立克次体、病毒等)及其代谢产物有效抗原成分、动物毒素、人或动物的血液或组织等加工而成作为预防、治疗、诊断传染病或其他相关疾病的生物制品。医药行业通常指免疫生物制剂。"
+  },
+  {
+   "cn": "生物性污染",
+   "en": "biological pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中有害微生物、寄生虫、昆虫等生物引起的食品污染。"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.57",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过计算机与光学、声学、生物传感器和生物统计学原理等高科技手段密切结合，利用动物固有的生理特性（如指纹、脸像、虹膜等）和行为特征（如笔迹、声音、步态等）来进行食品身份鉴定的技术。"
+  },
+  {
+   "cn": "生物弹药",
+   "en": "biological ammunition",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "用来装载生物战剂的弹药，主要有爆炸型和喷撒型。"
+  },
+  {
+   "cn": "生物防治",
+   "en": "biological control",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.21",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "利用有益生物或其他生物及其产物来抑制或消灭另一种有害生物的一种控制方法"
+  },
+  {
+   "cn": "生物侦检法",
+   "en": "biological detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "通过观察染毒区内各种动物和植物的异常表现，或用可疑染毒样品使动物中毒，观察动物中毒后症状，作出是否染毒及毒剂类别的初步判断。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

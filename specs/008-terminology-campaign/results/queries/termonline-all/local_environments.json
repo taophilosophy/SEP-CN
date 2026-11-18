@@ -1,0 +1,732 @@
+{
+ "key": "local environments",
+ "term": "local environments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:34:28+00:00",
+ "status": "ok",
+ "note": "variant=local environments; 审定公布名词库=2212; 海峡两岸名词对照库=607; 其他来源数据库=66; 预公布名词数据库=169; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.008",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以人类为主体的外部世界，即人类赖以生存和发展的外部条件的总和。是人类生存发展的基础，也是人类开发利用的对象。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0017",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素总体。包括大气、水、海洋、土地、矿藏、森林、草原、野生动物、自然古迹、人文遗迹、自然保护区、风景名胜区、城市和乡村等。 "
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "动物学名词",
+   "wordNumber": "7.0018",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物生存的空间以及空间中直接或间接影响生物生活和发展的外部条件的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电力名词",
+   "wordNumber": "24.124",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "植物学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物周围所有要素的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0648",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "组织运行的外部存在。包括空气、水、土地、自然资源、植物、动物、人，以及它们之间的相互关系。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "人群周围的境况及其中可以直接、间接影响人类生活和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.251",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电气工程名词",
+   "wordNumber": "27.001",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "局部[的]",
+   "en": "local",
+   "source": "数学名词",
+   "wordNumber": "01.0064",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "场所",
+   "en": "locale",
+   "source": "地理学名词",
+   "wordNumber": "17.091",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "社会相互作用的环境或背景。"
+  },
+  {
+   "cn": "局域性",
+   "en": "locality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.381",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "相对论力学成立的前提之一。包括两个假设：一个是分离性假设，意指空间中彼此分开的两个系统是各自独立存在的；另一个是定域作用假设，意指一个系统对另一个远离的系统产生的影响，不能超光速传播。"
+  },
+  {
+   "cn": "局限化",
+   "en": "localization",
+   "source": "兽医学名词",
+   "wordNumber": "04.495",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "感受器在接受一个适宜的阈刺激后，仅引起较局限的神经反射，而不产生广泛的活动的现象。"
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0502",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在环境地图上识别或分辨移动机器人的位姿。"
+  },
+  {
+   "cn": "局限化",
+   "en": "localization",
+   "source": "病理学名词",
+   "wordNumber": "01.319",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "病变由周围组织反应而局限于某个局部的现象。"
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "确定某一结构在环境中位置的过程。"
+  },
+  {
+   "cn": "局域性",
+   "en": "locality",
+   "source": "物理学名词",
+   "wordNumber": "09.1378",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "局域化",
+   "en": "localization",
+   "source": "物理学名词",
+   "wordNumber": "08.0677",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "地方性",
+   "en": "locality",
+   "source": "地理学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "地理学_自然地理学",
+   "subjectName": "自然地理学",
+   "publishYear": "2006",
+   "definition": "在局部地形、地面组成物质及地下水埋深的影响下，自然地理环境各组成成分之地带性特征产生变异的现象。"
+  },
+  {
+   "cn": "本地化",
+   "en": "localization",
+   "source": "地理学名词",
+   "wordNumber": "18.029",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "通常指外资企业在进入国(地区)生产或采购零部件和原材料的活动。本地化与进入国(地区)零部件生产水平和成本以及制度约束等因素相关。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地方,场所",
+   "en": "locale",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本地化",
+   "en": "localization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方性",
+   "en": "locality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方主义",
+   "en": "localism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "航向信标",
+   "en": "localizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局部性",
+   "en": "locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "natural environments",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "半深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环境",
+   "en": "atmospheric environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候",
+   "en": "environment climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候学",
+   "en": "environment climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environment capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化环境",
+   "en": "unstructured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局部事务",
+   "en": "local transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地方性风",
+   "en": "local wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据本地化",
+   "en": "data localization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文明",
+   "en": "sound cyberspace environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水环境改善",
+   "en": "water environment improvement",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生态修复",
+   "en": "water environment restoration",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本地容灾",
+   "en": "local disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域主任",
+   "en": "local competition director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境大数据",
+   "en": "big data of environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寒区",
+   "en": "cold environments",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "从南极圈（南纬66º34'）至南极和北极圈（北纬66º34'）至北极的区域内，无太阳直射，导致地面获得的太阳辐射量极少、气候非常寒冷的地区。其特点为冬季漫长，寒潮侵袭频繁、降雪期长、积雪深、结冰期长、"
+  },
+  {
+   "cn": "组织环境",
+   "en": "organization environment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "存在于组织界限以外的能够影响组织及其成员行为的所有因素的总和，包括自然环境与社会环境两大类。其中社会环境包括组织所必须应对的各种社会力量和制度设施。"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "家庭环境",
+   "en": "family environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "家庭为其成员的成长和发展所提供的物质和精神条件。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "高山环境",
+   "en": "alpine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海拔3000m 以上的高原和高山自然环境形态，具有缺氧、寒冷、干燥、温差大、辐射强和气候多变等特点。"
+  },
+  {
+   "cn": "高气压环境",
+   "en": "hyperbaric environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "压力高于海平面大气压力的特殊环境，人体暴露时会引起机体一系列复杂的功能改变。"
+  },
+  {
+   "cn": "健康环境",
+   "en": "healthy environment",
+   "source": "社会医学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "有助于维护和促进人体健康的自然和社会环境。"
+  },
+  {
+   "cn": "阵地环境",
+   "en": "battlefield environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "军队在战斗中的兵力兵器部署、工事构筑区域的自然地理条件，以及由人工活动、战斗等影响而形成的所有物理、化学、生物因素的总和。"
+  },
+  {
+   "cn": "航海环境",
+   "en": "navigational environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船在海上航行时所处的内部和外部环境，包括舰船内的物理、化学及生物学因素，以及海洋气象条件和海上风浪等外部环境。"
+  },
+  {
+   "cn": "海上环境",
+   "en": "marine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海水淹没的地球海洋水域自然环境形态，具有低温、高盐、温差小、湿度大等特点。"
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "水下环境",
+   "en": "underwater environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "水面以下作用于人体的各种客观条件的总称。"
+  },
+  {
+   "cn": "热环境",
+   "en": "thermal environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "由太阳辐射、气温、周围物体表面温度、相对湿度与气流速度等物理因素组成的作用于人、影响人的冷热感和健康的环境。"
+  },
+  {
+   "cn": "地方政府",
+   "en": "local authorities",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在省、市、县、区等地方行政区域内依法设立，负责区域公共事务管理和公共服务提供的行政机构，是连接国家政策与地方执行的关键中介力量。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "地方标准",
+   "en": "local standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为满足地方自然条件、风俗习惯等特殊技术要求，由省级标准化行政主管部门和经其批准的设区的市级标准化行政主管部门在农业、工业、服务业以及社会事业等领域制定的在本行政区域内适用的标准。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

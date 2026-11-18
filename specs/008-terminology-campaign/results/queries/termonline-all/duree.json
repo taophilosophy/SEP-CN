@@ -1,0 +1,52 @@
+{
+ "key": "duree",
+ "term": "durée",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:35:47+00:00",
+ "status": "ok",
+ "note": "variant=durée; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "诺丽果浆",
+   "en": "noni purée",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0219",
+   "subjectFullName": "食品科学技术_食品营养_食物营养价值、营养强化食品_新食品原料、植物化学物与保健食品",
+   "subjectName": "新食品原料、植物化学物与保健食品",
+   "publishYear": "2020",
+   "definition": "由遍布东南亚和澳大利亚的海滨木巴戟（Morinda citrifolia）的果实制成的果泥。富含抗氧化成分、保护心肌细胞的活性成分。"
+  },
+  {
+   "cn": "迪里-萨蒙分期系统",
+   "en": "Durie-Salmon staging system",
+   "source": "血液学名词",
+   "wordNumber": "8.073",
+   "subjectFullName": "血液学_淋系肿瘤_浆细胞肿瘤",
+   "subjectName": "浆细胞肿瘤",
+   "publishYear": "2022",
+   "definition": "多发性骨髓瘤的临床分期系统。根据终末器官损害（肾功能不全、贫血、高钙血症和溶骨性病变）和免疫球蛋白负荷的测量分为预后不同的三期。"
+  },
+  {
+   "cn": "尿道膀胱悬吊术",
+   "en": "Marshall-Marchetti-Kranz proce- dure,urethrovesicopexy",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.423",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "长时段",
+   "en": "longue durée",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.021",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "1949 年，法国年鉴学派的代表人物布罗代尔（Fernand Braudel）提出了历史发展的“长时段”理论，奠定了历史人类学的理论基础，即指非常漫长、需以世纪进行度量的历史时间，也意味着研究历史的一"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

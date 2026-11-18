@@ -1,0 +1,742 @@
+{
+ "key": "random mutation",
+ "term": "random mutation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:36:48+00:00",
+ "status": "ok",
+ "note": "variant=random mutation; 审定公布名词库=2445; 海峡两岸名词对照库=883; 其他来源数据库=60; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0146",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "遗传性状飞跃式的间断的变异现象。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "农学名词",
+   "wordNumber": "15.143",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "基因的序列发生改变导致生物体基因型发生稳定可遗传变化的过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0186",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "基因的结构发生改变而导致细胞、病毒或微生物的基因型发生稳定的、可遗传的变化过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "兽医学名词",
+   "wordNumber": "11.066",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "可以通过复制而遗传的DNA结构的任何永久性改变。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "行为医学名词",
+   "wordNumber": "3.165",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "生物体（细胞生物和非细胞生物）中基因或染色体发生稳定的、可遗传的结构变异的过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.202",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "生物体（细胞生物和非细胞生物）中基因或染色体发生稳定的、可遗传的结构变异的过 程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "动物学名词",
+   "wordNumber": "2.0317",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "基因的结构发生改变导致生物的性状发生改变的现象。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "基因的结构发生改变而导致细胞、病毒或微生物的基因型发生稳定、可遗传的变化的过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "核医学名词",
+   "wordNumber": "06.0079",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "由于DNA碱基对的置换、增添或缺失等而引起的基因结构的变化。"
+  },
+  {
+   "cn": "变异",
+   "en": "mutation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0287",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "对染色体群体中的个体的某些基因位上的基因值作变动。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "药学名词",
+   "wordNumber": "05.332",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "基因的结构发生改变而导致细胞、病毒或微生物的基因型发生稳定的、可遗传的变化的过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "微生物学名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "生物体DNA中碱基序列或结构的任何改变而导致其基因型发生稳定而可遗传的变化过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "免疫学名词",
+   "wordNumber": "3.239",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_肿瘤免疫",
+   "subjectName": "肿瘤免疫",
+   "publishYear": "2007",
+   "definition": "基因的结构发生改变而导致细胞、病毒或微生物的基因型发生稳定的、可遗传的变化过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "遗传学名词",
+   "wordNumber": "02.283",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "基因的结构发生改变而导致细胞、病毒或微生物的基因型发生稳定的、可遗传的变化的过程。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "水产名词",
+   "wordNumber": "05.152",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "遗传物质的结构或成分发生突然变化的现象。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.646",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "增变体",
+   "en": "mutator",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.266",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "会导致基因组突变增加的突变基因。通常编码与DNA损伤修复有关的蛋白质。"
+  },
+  {
+   "cn": "散发",
+   "en": "random",
+   "source": "神经病学名词",
+   "wordNumber": "05.321",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "用于描述脑波的出现方式。单个脑波以不规则的间隔时间出现在某些相同或不同导联中的现象。"
+  },
+  {
+   "cn": "无规",
+   "en": "random",
+   "source": "物理学名词",
+   "wordNumber": "05.0480",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无规性",
+   "en": "randomness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.394",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "偶然性的一种形式。是复杂现象在演变过程中所表现出来的不确定性、无规则性和多种可能性等。在某些条件下可表现出一定的统计规律性。"
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "mutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "随机性",
+   "en": "randomness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机性",
+   "en": "randomness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回复突变",
+   "en": "back mutation\",\"reverse mutation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "病毒突变",
+   "en": "virus mutation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机森林",
+   "en": "random forest",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机访问存储器",
+   "en": "random access memory (RAM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人自行车",
+   "en": "tandem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉板",
+   "en": "transom",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳式转动",
+   "en": "catalina rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因组突变",
+   "en": "genomic mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因组中染色体数目的改变。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "随机效应模型",
+   "en": "random-effects model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.152",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在方差分析中，每一个自变量上的类别效应被模型作随机变量的模型。"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  },
+  {
+   "cn": "抗突变型瓜氨酸波型蛋白抗体",
+   "en": "anti-mutated citrullinated vimentin antibody, anti-MCV antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.23",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "类风湿关节炎患者血清中的自身抗体，所针对的抗原决定簇是波形蛋白的瓜氨酸修饰残基。在类风湿关节炎患者血清中的特异性约为87%，敏感性约为84%，且其滴度与疾病活动性相关，有利于疾病的诊断和预后评估。"
+  },
+  {
+   "cn": "基于随机对照临床试验的经济学评价",
+   "en": "economic evaluation based on randomized controlled clinical trial",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.1.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "将基于随机、盲法和对照原则的药物临床试验与药物经济学研究相结合的经济学评价方法。"
+  },
+  {
+   "cn": "割体",
+   "en": "mutilation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.20",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "对人体某些部位的割损和变形，常用于装饰和宗教仪式的目的。从生殖器的割损到纹身，改变身体某些部分的外表有各种各样的形式，其表征有的是生命礼仪的组成部分，有的是显示社会地位的变化，还有的则是作为赎罪的标志"
+  },
+  {
+   "cn": "运动持续时间",
+   "en": "duration",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "每次运动所持续的时间。即达到运动处方所要求强度的持续时间。"
+  },
+  {
+   "cn": "睡眠时间",
+   "en": "sleep duration",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "实际入睡的总时间。正常情况下，因人、年龄和生活环境而异。"
+  },
+  {
+   "cn": "先天性截肢",
+   "en": "congenital amputation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各种原因导致的胎儿出生时存在肢体缺失。"
+  },
+  {
+   "cn": "暴露时长",
+   "en": "exposure duration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种因素或状况与生物、系统或（亚）人群接触的时间长度。"
+  },
+  {
+   "cn": "男用避孕套",
+   "en": "male condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由乳胶或聚氨酯等制成的、在性交时佩戴于男性阴茎上的套状隔膜，具有阻断精子和卵子结合，达到避孕和预防感染性传播疾病的双重保护作用。"
+  },
+  {
+   "cn": "女用避孕套",
+   "en": "female condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由聚氨酯或乳胶制成的柔软、宽松袋状物。性交前置于女性阴道内，覆盖整个阴道内壁和外阴，阻隔精子进入阴道，具有避孕和预防性传播疾病和艾滋病的双重保护作用。"
+  },
+  {
+   "cn": "氡子体",
+   "en": "radon daughter，radon progeny",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "氡-222的短寿命放射性衰变产物，主要包括218Po、214Pb、214Bi和214Po，以及痕量元素218At和210Tl。"
+  },
+  {
+   "cn": "洗消站",
+   "en": "decontamination station",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.8",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "对受到污染的人员、车辆、装备、服装等进行彻底洗消的场所。"
+  },
+  {
+   "cn": "氡-222",
+   "en": "radon-222",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为222的天然放射性元素，是铀系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡-220",
+   "en": "radon-220",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为220的天然放射性元素，是钍系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡-219",
+   "en": "radon-219",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.4",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为219的天然放射性元素，是锕系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡室",
+   "en": "radon chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "一种用于刻度氡及其短寿命子体探测器的标准装置。由氡发生器、温湿度控制仪和氡及其子体监测仪等组成。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

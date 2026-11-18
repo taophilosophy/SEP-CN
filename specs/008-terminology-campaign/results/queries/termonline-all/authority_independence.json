@@ -1,0 +1,762 @@
+{
+ "key": "authority independence",
+ "term": "authority independence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:46:08+00:00",
+ "status": "ok",
+ "note": "variant=authority independence; 审定公布名词库=474; 海峡两岸名词对照库=180; 其他来源数据库=39; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.11",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "受到他人尊敬和承认的合法支配力的一种表现形式。当人们认为一个人在组织活动的某一领域拥有掌控权并且他们有服从义务时，这个权威就是合法的。一般可分为法理型权威、传统型权威、魅力型权威。"
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "经济学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "权力的一种形式，它通过命令来安排或联合其他各个行动者的行动。这些命令之所以有效，是因为被命令者认为这些命令是合法的。权威不同于强迫性控制，因为后者借助其赏罚能力而使人们遵从其命令和规定。通过权威的运用"
+  },
+  {
+   "cn": "权限",
+   "en": "authority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0374",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "一个主体具有的访问数据客体的权利。如读、写、增、删等。"
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0062",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "包含自愿服从和存在一套支持统治正当性的信仰体系的一种特殊权力形态。"
+  },
+  {
+   "cn": "编著",
+   "en": "authoring ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.132",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "对光盘节目进行信源编码、交互界面设计、数据集成、数字版权保护等的过程。"
+  },
+  {
+   "cn": "责任者项",
+   "en": "author",
+   "source": "档案学名词",
+   "wordNumber": "03.04.007",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。责任者是对档案内容进行创造或负有责任的组织机构或个人。"
+  },
+  {
+   "cn": "权限",
+   "en": "authorization",
+   "source": "档案学名词",
+   "wordNumber": "06.02.017",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "按操作者身份所确定的系统资源使用权利。用于保证对电子档案的合法操作。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.104",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "给予权利。一个权利实体赋予另一个权利实体某种权利的过程。"
+  },
+  {
+   "cn": "作者",
+   "en": "author",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.001",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "创作文学、艺术或科学作品的自然人、法人或组织。"
+  },
+  {
+   "cn": "授权经销",
+   "en": "authorization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.133",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "授予某一区域的单位或个人拥有商品销售的权利。"
+  },
+  {
+   "cn": "著者",
+   "en": "author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.531",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对一部文献的知识或艺术内容负有责任的创作者。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0541",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "允许某一主体（如用户进程或任务）访问某项硬件或软件资源的过程。"
+  },
+  {
+   "cn": "核准",
+   "en": "authorization",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0090",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "政府权力机关对于送交审查的投资项目进行的审核及批准。"
+  },
+  {
+   "cn": "批准",
+   "en": "authorization",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "监管部门以书面文件形式，准许已提出申请的法人进行某项实践。分注册和许可两种方式；其中，许可又分为发放许可证和给予批复文件两种形式。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "授予或拒绝授予客户端访问权限的过程。"
+  },
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立派",
+   "en": "Independents",
+   "source": "世界历史名词",
+   "wordNumber": "03.0325",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国资产阶级革命中的一个清教派别，主要代表中等贵族和中等资产阶级利益。"
+  },
+  {
+   "cn": "独立[的]",
+   "en": "independent",
+   "source": "数学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合著者",
+   "en": "joint author,co-author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.536",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "共同创作同一作品、共同对文献的知识内容或艺术内容负责的两个或两个以上的责任者。 "
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "著作",
+   "en": "authoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "魅力型权威",
+   "en": "charismatic authority",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理权",
+   "en": "vicarious authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "港务局",
+   "en": "port authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合同授权",
+   "en": "contract authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁机构",
+   "en": "arbitral authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "权威制约",
+   "en": "authority constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "命名机构",
+   "en": "naming authority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心机构",
+   "en": "central authority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "账务机构",
+   "en": "accounting authority",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "权限",
+   "en": "○1authority○2right",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创作语言",
+   "en": "authoring language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同著作",
+   "en": "collaborative authoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "著作工具",
+   "en": "authoring tool",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独家授权",
+   "en": "exclusive authorization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "授权投资",
+   "en": "authorized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许经销商",
+   "en": "authorized dealer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "永久性授权",
+   "en": "permanent authorization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指定代理人",
+   "en": "authorized agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "授权侵犯",
+   "en": "authorization infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权开放",
+   "en": "authorized access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "允许的跟随者",
+   "en": "authorized follower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的辅助行为",
+   "en": "authorized assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子认证服务",
+   "en": "certificate authority (CA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证书认证中心",
+   "en": "certificate authority center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CA认证",
+   "en": "certificate authority (CA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权发球",
+   "en": "authorize the service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法国数据保护局",
+   "en": "Data Protection Authority (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德国数据保护局",
+   "en": "Data Protection Authority (Germany)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥地利数据保护局",
+   "en": "Austrian Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "希腊数据保护局",
+   "en": "Hellenic Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证授权技术",
+   "en": "authentication and authorization technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.2",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力的一种特殊形式，即通过命令来安排或联合其他各个行动者的行动。这些命令之所以有效，是因为被命令者认为这些命令是合法的。马克斯•韦伯把权威获得合法性的方式分为传统的、合理的和卡里斯马的三种类型。"
+  },
+  {
+   "cn": "主管部门",
+   "en": "competent authority",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "法律授权的官方政府机构，通常指负责食品安全的主管部门"
+  },
+  {
+   "cn": "响应部门",
+   "en": "response authority",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由政府指定或认可的、负责管理或实施有关应急响应的一个或几个机构。"
+  },
+  {
+   "cn": "行政机关",
+   "en": "administrative authority",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "依宪法和组织法的规定设定，行使国家行政权力，管理国家行政事务的机关。"
+  },
+  {
+   "cn": "亲权",
+   "en": "parental authority",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "法律上基于亲子关系而确立的人身和财产关系。这是近现代民法的重要内容。民国时期学者陶希圣提出与家长权相对立，意在塑造没有人格依附的父母子女关系。"
+  },
+  {
+   "cn": "社会权威",
+   "en": "social authority",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会中得到广泛认同和支持、具有正当性、合法性、威慑性和巨大影响力的、使人信从的种种力量和威望。具有自愿接受自觉服从而非强制性的特征。"
+  },
+  {
+   "cn": "行政权",
+   "en": "administrative authority",
+   "source": "马克思主义",
+   "wordNumber": "03.0086",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府拥有的组织和管理公共事务以及提供公共服务的权力，是国家政权的组成部分之一。按照资产阶级权力制衡的原则和三权分立的政治架构，议会拥有立法权、政府拥有行政权、法院拥有司法权。行政权拥有合法性、强制性、"
+  },
+  {
+   "cn": "地方政府",
+   "en": "local authorities",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在省、市、县、区等地方行政区域内依法设立，负责区域公共事务管理和公共服务提供的行政机构，是连接国家政策与地方执行的关键中介力量。"
+  },
+  {
+   "cn": "管理限值",
+   "en": "authorized limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "由监管机构建立或正式接受的可测量的限值。"
+  },
+  {
+   "cn": "授权签字人",
+   "en": "authorized signatory",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "由放射卫生技术服务机构授权，按照授权范围和相关法律法规和标准规范要求对技术服务报告进行审核和签发的人员。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "信息发布权限",
+   "en": "information release authority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "负责向社会发布突发事件的信息的职能权力。国务院卫生行政主管部门负责向社会发布突发事件的信息，必要时，可以授权省、自治区、直辖市人民政府卫生行政主管部门向社会发布本行政区域内突发事件的信息。"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

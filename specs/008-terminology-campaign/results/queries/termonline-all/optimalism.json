@@ -1,0 +1,622 @@
+{
+ "key": "optimalism",
+ "term": "optimalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:45+00:00",
+ "status": "ok",
+ "note": "variant=optimalism; 审定公布名词库=370; 海峡两岸名词对照库=84; 其他来源数据库=12; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "数学名词",
+   "wordNumber": "011.0005",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在一定条件限制下，选取某种研究方案使目标达到最优的一种方法。"
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "经济学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "在满足某些特定的条件(称为约束)下,确定某些可控制的因素应该取何值,使得某一指标(称为目标函数)实现极大或极小,称为最优化。人们在生产、管理、分配等活动中,为了找出最好的方案(如使得路程最短、时间最省"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "物理学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "核医学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "通过客观指标比较，从众多方案中寻找和确认最优方案的过程与方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0011",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "为提高程序执行效率对程序源代码或中间代码进行等价变换的方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "化学工程名词",
+   "wordNumber": "05.129",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "数学名词",
+   "wordNumber": "011.0002",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[最]优化",
+   "en": "optimization",
+   "source": "自动化名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "最优化钻井",
+   "en": "optimized drilling,optimization drilling",
+   "source": "石油名词",
+   "wordNumber": "05.0042",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "帕累托最优性",
+   "en": "Pareto optimality",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "若多目标优化问题的一个解是帕累托最优解，则称该解具有帕累托最优性。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.809",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "指在没有使任何人境况变化的前提下，使得至少一个人变得更好。或者，不可能再改善某些人的境况，而不使任何其他人受损。"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "经济学名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "不存在任何一种可行的改进从而使得在不损害其他任何经济主体的福利的情况下提升某些经济主体福利的资源配置状态，即没有进行帕累托改进余地的资源配置状态。"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0268",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "社会资源的配置达到这样一种状态：在不使任何人境况变坏的情况下，不可能再使某些人的处境变得更好。"
+  },
+  {
+   "cn": "最优性准则",
+   "en": "optimality criteria",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0144",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通常考虑所谓的正则目标，其满足两个条件：一是目标函数是求最小值；二是目标函数是完工时间的单调非降函数。"
+  },
+  {
+   "cn": "优选论",
+   "en": "optimality theory",
+   "source": "语言学名词",
+   "wordNumber": "03.245",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "一种生成音系学理论。由艾伦·普林斯（Alan Prince）、保罗·斯摩伦斯基（Paul Smolensky）和约翰·麦卡锡（John McCarthy）于20世纪90年代初提出。优选论代表了生成音系"
+  },
+  {
+   "cn": "最优化理论",
+   "en": "optimality theory",
+   "source": "生态学名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "自然选择总是倾向于使动物最有效地传递其基因，因而也是最有效地从事各种活动，包括使它们活动时的时间分配和能量利用达到最佳状态。"
+  },
+  {
+   "cn": "最适模型",
+   "en": "optimality model",
+   "source": "生态学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "依据最优化理论建立的数学模型，可用于预测在投入和收益之间做出何种权衡才能使个体获得最大净收益。"
+  },
+  {
+   "cn": "最优性条件",
+   "en": "optimality condition",
+   "source": "数学名词",
+   "wordNumber": "011.0006",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐观",
+   "en": "optimism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最优化，最佳化",
+   "en": "optimization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优化,最适化",
+   "en": "optimization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最适模型",
+   "en": "optimality model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最适供水量",
+   "en": "optimal yield",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最优解",
+   "en": "optimal solution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最优扰动",
+   "en": "optimal perturbation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "静态优化",
+   "en": "static optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最佳工况",
+   "en": "optimal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多变量最优化",
+   "en": "multivariable optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应器优化",
+   "en": "reactor optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优组成",
+   "en": "optimal composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最佳调谐",
+   "en": "optimal tuning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "系统优化",
+   "en": "system optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过程优化",
+   "en": "process optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合最优化",
+   "en": "combinatorial optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凸优化",
+   "en": "convex optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式优化",
+   "en": "heuristic optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渲染优化",
+   "en": "rendering optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图和网络优化",
+   "en": "graph and network optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群优化算法",
+   "en": "ant colony optimization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto Optimality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "不可能在不损害其他人利益的条件下改善某一方的利益时，各方利益达到的一种状态。"
+  },
+  {
+   "cn": "最佳测度",
+   "en": "optimal scaling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.53",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据数据本身的关联，寻找原始类别变量的最优评分方式的分析方法。数学上等同于双重测度。是由巴雷尔•博克于1960年提出的。"
+  },
+  {
+   "cn": "优抚安置",
+   "en": "optimal placement",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.103",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府对从事特殊工作者及其家属，如军人及其亲属予以优待、抚恤、安置的一项社会保障制度。其对象主要是烈军属、复员退伍军人、残疾军人及其家属；内容主要包括提供抚恤金、优待金、补助金，举办军人疗养院、光荣"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  },
+  {
+   "cn": "辐射防护最优化",
+   "en": "optimization of radiation protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在考虑了经济和社会因素之后，个人受照剂量的大小，受照的人数以及受照射的可能性均保持在可合理达到的尽量低的水平。在谋求最优化时，应以最小的防护代价，获取最佳的防护效果，而不能追求无限地降低剂量。"
+  },
+  {
+   "cn": "防护与安全最优化",
+   "en": "optimization of protection and safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "确定防护与安全的水平的过程，使得受照工作人员和公众的个人剂量的大小、受照人数及潜在照射的概率，在考虑了经济和社会因素之后，保持在可合理达到的尽量低水平。对患者的医疗照射，防护与安全最优化是指对患者辐射"
+  },
+  {
+   "cn": "卫生资源优化配置",
+   "en": "optimizing allocation of health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定时空范围内，区域内全部卫生资源在总量、结构与分布上，与居民的健康需要和卫生服务需求相适应的组合状态。"
+  },
+  {
+   "cn": "医疗照射防护最优化",
+   "en": "optimization of protection of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "进行医疗照射实践时，在考虑了经济和社会的因素之后，应保证将辐射照射保持在可合理达到的尽量低水平。"
+  },
+  {
+   "cn": "产业结构优化升级",
+   "en": "optimization and upgrading of the industrial structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0429",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "产业结构合理化和高度化的有机统一，促进各大产业间及其内部的健康协调发展。应通过市场调节与国家调节的共同作用来实现按比例、高质量和可持续的协调发展。"
+  },
+  {
+   "cn": "卫生服务生产要素最优组合",
+   "en": "optimal combination of production factors of health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "等成本线和等产量线相切的点的生产要素组合。根据生产理论，为了获取利润最大化，理性的生产者追寻以最小的成本来生产最大的产量。也就是产量既定时使成本最小，或者成本既定时产量最大。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

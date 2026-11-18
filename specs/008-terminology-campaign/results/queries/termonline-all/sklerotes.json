@@ -1,0 +1,32 @@
+{
+ "key": "sklerotes",
+ "term": "sklêrotês",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:46:56+00:00",
+ "status": "ok",
+ "note": "variant=sklêrotês; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Rot值",
+   "en": "Rot value",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0469",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分子杂交与印迹技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "RNA杂交动力学参数。Ro是反应中RNA的起始浓度，t是时间，两者间乘积即为Rot值。Rot1/2值的是RNA互补链之间50%结合的数值。"
+  },
+  {
+   "cn": "Rot值",
+   "en": "Rot value",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

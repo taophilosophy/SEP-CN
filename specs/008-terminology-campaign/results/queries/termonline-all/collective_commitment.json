@@ -1,0 +1,812 @@
+{
+ "key": "collective commitment",
+ "term": "collective commitment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:34:53+00:00",
+ "status": "ok",
+ "note": "variant=collective commitment; 审定公布名词库=761; 海峡两岸名词对照库=214; 其他来源数据库=41; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.151",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种通过文字或口头方式，同意相互约定的条件，以提升人际关系与互动质量与效率的沟通行为。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.222",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞或组织尽管在表型上与未限定细胞没有差别，但其发育命运已经受到限制的状态。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "遗传学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "限定细胞按某一特定命运发育的过程。包括特化和决定这两个阶段。"
+  },
+  {
+   "cn": "提交",
+   "en": "commit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0273",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "正常结束事务执行。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "定向复合物",
+   "en": "commitment complex",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "含有细胞核前体mRNA和U1 snRNP的复合物。协助U1 snRNP将其结合的内含子剪掉。"
+  },
+  {
+   "cn": "职业承诺",
+   "en": "occupational commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.092",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对组织制度和实践的知觉与组织契约之间的一种认同与接受。它包括情感承诺、留任承诺和规范承诺。情感承诺是组织成员对组织的情绪依恋、认同感和卷入程度；留任承诺是指基于相关组织成员离开组织带来损失的一"
+  },
+  {
+   "cn": "剂量负担",
+   "en": "dose commitment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.173",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "一个计算工具。用符号Ec表示。由于特定事件如一年计划排放的活度所致人均剂量率的无限时间积分。排放率在无限时间内为常数的情况下，特定人群将来人均所受最大年剂量率等于一年的实践剂量负担，不考虑居民人数的变"
+  },
+  {
+   "cn": "安全承诺",
+   "en": "safety commitment",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.032",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在关注安全和追求安全绩效方面，由企业代表全体员工公开做出的具有稳定意愿及实践行动的明确表示。"
+  },
+  {
+   "cn": "智能体的承诺",
+   "en": "agent commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0169",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在某个状态下，一个智能体从多个愿望中选择一个作为意图，称该智能体对所选择的愿望做出了承诺。"
+  },
+  {
+   "cn": "社会承诺",
+   "en": "social commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0170",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "某一智能体在第三方的见证下，对其他智能体保证实施某一特定动作的义务。"
+  },
+  {
+   "cn": "战略承诺",
+   "en": "strategic commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0711",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "企业做出的大规模的、有长期的影响且难以撤销的投资决策。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0120",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "员工在情感认同、持续留任和规范义务方面形成对组织的投入和归属感。"
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0653",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "银行在企业符合规定的条件时向企业提供确定金额及利率贷款的事先约定。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "心理学名词",
+   "wordNumber": "12.074",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对组织目标、规范和资格的情感认同和行为遵循的心态。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organization commitment",
+   "source": "教育学名词",
+   "wordNumber": "15.003",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "组织成员对组织的认同和投入程度。"
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0036",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "物质代谢的多酶体系依次连续催化反应中，能够决定反应速度和方向的步骤。"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "committed suicide",
+   "source": "行为医学名词",
+   "wordNumber": "13.026",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "核医学名词",
+   "wordNumber": "02.0496",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "待积有效剂量和待积当量剂量的统称。"
+  },
+  {
+   "cn": "提交单元",
+   "en": "commit unit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0238",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "在乱序执行的处理器中采用的一种部件。该部件缓存运算结果，直到确认运算结果有效之后才将它输出。"
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定型，限定",
+   "en": "commitment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资承诺，投资保证",
+   "en": "investment commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输出提交",
+   "en": "output commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位提交",
+   "en": "bit commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向细胞",
+   "en": "committed cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型细胞",
+   "en": "committed cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "提交单元",
+   "en": "commit unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收集",
+   "en": "collection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标本收藏",
+   "en": "collection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "勒马",
+   "en": "collect\",\"collection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体智慧",
+   "en": "collective wisdom",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体拦网",
+   "en": "collective block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集",
+   "en": "Data Collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字典藏",
+   "en": "digital collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短跑步",
+   "en": "collected canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费",
+   "en": "Electronic Toll Collection",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合规采集",
+   "en": "compliant data collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字合作承诺》",
+   "en": "Global Commitment for Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费系统",
+   "en": "electronic toll collection (ETC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据采集制度",
+   "en": "public data collection system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应汇尽汇原则",
+   "en": "principle of collecting all data that ought to be collected",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.09",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "就某事做出肯定性的应允，并保证尽力执行或表示一定努力使其实现的一种不可无故变更的道德允诺。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个体认同并参与某个组织的强度，包括三大要素一是高度信任与接受组织的目标与价值；二是愿意为组织付出努力；三是希望能继续留在组织中，可视为个人对组织的主动关系，即个人愿意努力付出，以协助组织成功，而不仅是"
+  },
+  {
+   "cn": "十四个坚持",
+   "en": "fourteen commitment",
+   "source": "马克思主义",
+   "wordNumber": "03.0809",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出，全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中全面准确贯彻落实，做到十四个坚持，即：一、坚持党对一切工作的领导；二、坚持以人民为中心；三、坚持全面深化改"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.24",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "待积有效剂量和待积当量剂量的统称。评价人体（包括辐照食品工作人员）所受内照射剂量的大小。"
+  },
+  {
+   "cn": "集体",
+   "en": "collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "许多人以共同价值、共同活动目的和任务为基础，高度组织起来的具有团结性、整合水平较高的群体。是群体发展的高级阶段。与“个体”相对。"
+  },
+  {
+   "cn": "有效剂量负担",
+   "en": "effective dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人受到的有效剂量率在无限长时间内的积分，单位是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积当量剂量",
+   "en": "committed equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻器官或组织的当量剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "集体行动",
+   "en": "collective action",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集体行为组织化的形式，指有少数或许多个体参加的、涉及群体利益、集团利益或共同利益的、具有很大自发性的非正式的群体行为或制度外的政治行为，后者属于社会运动范畴。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "群体自尊",
+   "en": "collective esteem",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体会对其所属的群体产生的价值判断和情感体验。克罗克(Jennifer Crocker)和卢赫塔宁(Riia Luttanen)在社会认同理论的基础上提出。"
+  },
+  {
+   "cn": "集体农庄",
+   "en": "collective farm",
+   "source": "马克思主义",
+   "wordNumber": "02.0302",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联农业集体经济组织的基本形式。苏联在农业集体化运动中曾出现三种集体经济的组织形式：共耕社、农业劳动组合和农业公社。1930年联共（布）中央确定农业劳动组合是集体农庄运动的基本形式，通常就把它称为“集"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "集体领导",
+   "en": "collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0261",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "集体领导是无产阶级政党和社会主义国家的领导原则。它的主要内容是：一切重大问题由各级党的委员会集体民主讨论决定；决定问题必须严格遵守少数服从多数的原则；集体领导和个人分工负责相结合；集体领导作出的决定要"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconsciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0046",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种非物质的集体动因。本雅明认为上层建筑受双重力量支配，除物质因素外，还受集体无意识的决定。他总是将集体无意识与史前的无阶级社会中被埋葬的性欲经验的特定形式关联起来。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "集体防护",
+   "en": "collective protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "集体为避免或减轻核武器的伤害而采取的措施。主要是在工事、帐篷、车辆、飞机和舰船中安装密闭、滤毒通风、洗消和报警等设施来进行防护。分为隔离式防护和过滤式防护。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

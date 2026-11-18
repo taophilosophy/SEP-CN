@@ -1,0 +1,722 @@
+{
+ "key": "building relations",
+ "term": "building relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:41:37+00:00",
+ "status": "ok",
+ "note": "variant=building relations; 审定公布名词库=1831; 海峡两岸名词对照库=420; 其他来源数据库=131; 预公布名词数据库=142; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "建筑物",
+   "en": "building",
+   "source": "建筑学名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "人工建造的，供人类居住、社会交往及生产活动等使用的空间的实体构成物。"
+  },
+  {
+   "cn": "厦",
+   "en": "building",
+   "source": "数学名词",
+   "wordNumber": "04.1970",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建筑间距",
+   "en": "building distance,building interval",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.167",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）详细规划",
+   "subjectName": "城市（镇）详细规划",
+   "publishYear": "2021",
+   "definition": "两栋建筑物或构筑物外墙之间的水平距离。"
+  },
+  {
+   "cn": "建筑密度",
+   "en": "building density,building coverage",
+   "source": "建筑学名词",
+   "wordNumber": "07.0204",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "规定的建设用地中所有建筑物的基底面积总和所占用地面积的比例(%)。"
+  },
+  {
+   "cn": "高层建筑",
+   "en": "tall building,highrise building",
+   "source": "土木工程名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "土木工程_建筑结构_建筑结构总论",
+   "subjectName": "建筑结构总论",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "建筑密度",
+   "en": "building density;building coverage",
+   "source": "风景园林名词",
+   "wordNumber": "07.0002",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "在规定的建设用地中，所有建筑物的基底面积总和与占用地面积的比例（%）。"
+  },
+  {
+   "cn": "增斜",
+   "en": "build up,building angle",
+   "source": "石油名词",
+   "wordNumber": "05.0337",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "同义关系",
+   "en": "synonymous relation,equivalent relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在特定领域内，具有相同的内涵和外延的两个概念之间的关系。包括同义词之间、学名与俗称之间、旧称与新称之间、简称与全称之间、同一产品的正式命名与绰号和型号之间、不同译名之间、不同拼写形式之间、倒置词序与自"
+  },
+  {
+   "cn": "河相关系",
+   "en": "hydrogeometric relation,hydromorphology relation",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.223",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_河流动力学（水利）",
+   "subjectName": "河流动力学（水利）",
+   "publishYear": "1997",
+   "definition": "处于动力平衡状态的河流河床形态特征与流域来水来沙条件和河床组成之间的定量关系。"
+  },
+  {
+   "cn": "围护结构",
+   "en": "building envelope",
+   "source": "风景园林名词",
+   "wordNumber": "07.0062",
+   "subjectFullName": "风景园林_风景园林建筑_类型与结构选型",
+   "subjectName": "类型与结构选型",
+   "publishYear": "2025",
+   "definition": "不起结构支撑作用，建筑空间四周用于围合空间的墙体、门、窗等围挡物。"
+  },
+  {
+   "cn": "建筑结构",
+   "en": "building structure",
+   "source": "风景园林名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "由各种构件（屋架、梁、板、柱等）组成的能够承受各种作用的体系。所谓作用是指能够引起体系产生内力和变形的各种因素，如荷载、地震、温度变化以及基础沉降等因素。"
+  },
+  {
+   "cn": "服务建筑",
+   "en": "service building",
+   "source": "风景园林名词",
+   "wordNumber": "07.0049",
+   "subjectFullName": "风景园林_风景园林建筑_类型与结构选型",
+   "subjectName": "类型与结构选型",
+   "publishYear": "2025",
+   "definition": "分布在风景园林环境中的小品类小型服务性建筑。"
+  },
+  {
+   "cn": "建筑流线",
+   "en": "building flow",
+   "source": "风景园林名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "把功能空间组织起来，不同的使用人群在建筑中活动的路线。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "建筑规范",
+   "en": "building code",
+   "source": "风景园林名词",
+   "wordNumber": "07.0018",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "由政府授权机构所提出的关于建筑物安全、质量、功能等方面的最低要求，这些要求以文件的方式存在就形成了建筑规范，如防火规范、建筑空间规范、建筑模数标准等。"
+  },
+  {
+   "cn": "建筑高度",
+   "en": "building height",
+   "source": "风景园林名词",
+   "wordNumber": "07.0001",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "建筑物屋面面层或檐口到室外地面的高度。建筑为坡度大于30%的坡屋顶建筑时，按坡顶高度一半处到室外地平面计算建筑高度；文物保护建设控制地带内的建筑高度，按建筑物和构筑物的最高点；中国传统大屋顶形式按檐口"
+  },
+  {
+   "cn": "楼",
+   "en": "storied building",
+   "source": "风景园林名词",
+   "wordNumber": "07.0147",
+   "subjectFullName": "风景园林_风景园林建筑_传统建筑类型",
+   "subjectName": "传统建筑类型",
+   "publishYear": "2025",
+   "definition": "两层以上的房屋。可以作为居住之用，亦可作为其他用途，如常见的城楼、钟楼、鼓楼等，以及供人们登临游览的名楼，如黄鹤楼、望江楼等。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "建筑气候",
+   "en": "building climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "建筑气候学",
+   "en": "building climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "建筑日照",
+   "en": "building sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模型建立",
+   "en": "model building",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "建筑钢",
+   "en": "building steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "合成砌块",
+   "en": "building block",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "建筑气候",
+   "en": "building climate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "建筑测量",
+   "en": "building surveying",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑红线",
+   "en": "building line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑物测量",
+   "en": "building survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑物复测",
+   "en": "building revision",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑物平面图",
+   "en": "building plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑用地",
+   "en": "building land",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "特别建筑物",
+   "en": "special building",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "船台",
+   "en": "building berth",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "建造，装配，拼装",
+   "en": "build-up",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部，内置，内装，固有",
+   "en": "build-in",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外附",
+   "en": "build-out",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "七情",
+   "en": "seven relations",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "智能建筑",
+   "en": "Intelligent Building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色建筑",
+   "en": "green building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧楼宇",
+   "en": "smart building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "建筑设备自动化",
+   "en": "building automation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语建站",
+   "en": "multilingual website building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "建筑信息模型",
+   "en": "building information modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图谱构建",
+   "en": "knowledge graph building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "社会建设",
+   "en": "social building",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "社会现代化过程中，为适应生产方式、生活方式和人际关系的变化，人们有组织、有计划、有目的地进行各种有利于改善和保障民生、建立新的社会秩序、优化社会结构、促进社会进步的社会行动；特指以保障和改善民生为重点"
+  },
+  {
+   "cn": "社区建设",
+   "en": "community building",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.12",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "促进社区政治、经济、文化、环境协调和健康发展，不断提高社区成员的生活水平和生活质量的过程。在执政党和政府的领导下，依靠社会力量，利用社会资源，强化社区功能，完善社区服务，解决社区问题的过程。"
+  },
+  {
+   "cn": "关系建立",
+   "en": "relationship building",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与服务对象之间为解决问题而进行的联结过程，其表现为双方之间达成一定的信任和默契，或正式签订服务契约。"
+  },
+  {
+   "cn": "党的建设",
+   "en": "party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0380",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1939年的《〈共产党人〉发刊词》等文章中对中国共产党的建设经验所做的理论概括。它包括党的思想建设、政治建设、组织建设和作风建设，政治建设是中心。"
+  },
+  {
+   "cn": "建立信赖",
+   "en": "trust building",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学生心理健康咨询者在与求咨者见面后，通过自己所展现的专业形象，赢得求咨者的信任、欣赏甚至崇拜，并使求咨者在求咨过程中处于轻松愉快的状态。"
+  },
+  {
+   "cn": "建筑用地",
+   "en": "building land",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "教学及教学辅助用房、行政办公和生活服务用房等全部建筑的用地。"
+  },
+  {
+   "cn": "番仔楼",
+   "en": "Fanzai Building",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0142",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中西合璧式的闽南（特别是泉州）民居建筑，始于清朝时期，闽南一带很多商人为生活所迫漂洋过海前往南洋谋生，衣锦还乡、荣归故里后，在老家建大宅，直接从南洋运来建筑材料，建起与闽南传统红砖大厝不同、带有南洋特"
+  },
+  {
+   "cn": "土楼",
+   "en": "earth building",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0141",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以生土为主要材料夯筑环状墙体、以生土与木构架结合，不同程度使用石材建造的大型集体住宅建筑；主要分布于中国的福建和广东两省。"
+  },
+  {
+   "cn": "建表",
+   "en": "build table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "新生入学时按照相关规范要求，进行健康检查，并将检查结果等信息以纸质表格形式记录的过程。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "商品住房",
+   "en": "commercial residential building",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "经政府有关部门批准，由房地产公司开发建造，建成后用于市场出售出租的房屋，包括住宅、商业用房以及其他建筑物。"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "partys ideological building",
+   "source": "马克思主义",
+   "wordNumber": "03.0471",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东建党思想的突出特点。强调着重从思想上建党；思想建党的关键是无产阶级思想的领导，这种思想领导要通过思想教育（包括思想斗争）来实现；思想建设既要纠正党内各种非无产阶级思想，又要端正党的思想路线；采用"
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "Partys systemic building",
+   "source": "马克思主义",
+   "wordNumber": "03.0536",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党根据政治任务对党的自身建设的要求，把长期以来党的领导工作中和党内生活中的经验教训加以总结和概括，形成全党必须遵守的党内法则、条例规则等党的制度的活动。是带有根本性、全局性、稳定性和长期性的执政党建设"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

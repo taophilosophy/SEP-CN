@@ -1,0 +1,772 @@
+{
+ "key": "basic substances",
+ "term": "basic substances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:33:55+00:00",
+ "status": "ok",
+ "note": "variant=basic substances; 审定公布名词库=899; 海峡两岸名词对照库=324; 其他来源数据库=77; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "碱度",
+   "en": "basicity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.120",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接与钎焊材料",
+   "subjectName": "焊接与钎焊材料",
+   "publishYear": "2021",
+   "definition": "表征熔渣碱性强弱程度的量。"
+  },
+  {
+   "cn": "基础研究",
+   "en": "basic study,basic research",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "为获得营养素关于现象和可观察事实的基本原理及新知识而进行的实验性和理论性工作。"
+  },
+  {
+   "cn": "主变速器",
+   "en": "basic gearbox,basic transmission",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.075",
+   "subjectFullName": "机械工程_汽车_底盘_手动变速器",
+   "subjectName": "手动变速器",
+   "publishYear": "2013",
+   "definition": "组合式变速器中对常用变速器的称谓。"
+  },
+  {
+   "cn": "腐殖物质",
+   "en": "humic substances",
+   "source": "土壤学名词",
+   "wordNumber": "05.151",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "土壤和沉积物等中，除有机体中已知的各类有机化合物(非腐殖物质)以外的各种淡棕色至暗褐色的天然高分子化合物的总称。它由胡敏酸、富啡酸和胡敏素等三类物质组成。"
+  },
+  {
+   "cn": "非生物物质",
+   "en": "xenobiotic substances",
+   "source": "土壤学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "人工合成难被生物降解的有机物质。"
+  },
+  {
+   "cn": "物质",
+   "en": "substance,matter",
+   "source": "物理学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "致甲状腺肿物质",
+   "en": "goitrogenic substance",
+   "source": "普通外科学名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "除碘以外的能够导致甲状腺肿大的其他物质。此类物质多存在于土壤、水、粮食、蔬菜、药物和烟草中，其主要作用为干扰甲状腺对碘的捕获，造成碘缺乏而发生甲状腺肿大。"
+  },
+  {
+   "cn": "结晶质",
+   "en": "crystalline substance",
+   "source": "地质学名词",
+   "wordNumber": "02.00.007",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "组成物质的内部质点(分子、原子、离子)在三维空间呈规律性、周期性重复排列，具有格子构造的固态物质。"
+  },
+  {
+   "cn": "变生非晶质",
+   "en": "metamict substance",
+   "source": "地质学名词",
+   "wordNumber": "02.00.013",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "含有强放射性元素(如铀、钍等)的晶质矿物，因放射性元素蜕变使其内部晶格遭受破坏，转变为非晶质。"
+  },
+  {
+   "cn": "P物质",
+   "en": "substance P",
+   "source": "消化病学名词",
+   "wordNumber": "3.106",
+   "subjectFullName": "消化病_胃十二指肠_胃十二指肠生理",
+   "subjectName": "胃十二指肠生理",
+   "publishYear": "2022",
+   "definition": "广泛分布于脑、脊髓、周围神经及肠神经系统中的神经肽。作为神经递质和神经调节剂发挥作用。有促使小肠及胆囊平滑肌收缩、促进小肠蠕动、抑制胆汁分泌、促进基础胰液及小肠的外分泌、抑制小肠吸收等作用。"
+  },
+  {
+   "cn": "物质成瘾",
+   "en": "substance addiction",
+   "source": "行为医学名词",
+   "wordNumber": "7.069",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "对物质强烈渴求，并反复应用，以取得快感或避免戒断后产生痛苦为特点的一种精神和躯体病理状态。"
+  },
+  {
+   "cn": "精神活性物质",
+   "en": "psychoactive substance",
+   "source": "行为医学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "来自体外，能够影响人类情绪、行为，改变意识状态，并有致依赖作用的一类化学物质。"
+  },
+  {
+   "cn": "物质使用",
+   "en": "substance use",
+   "source": "行为医学名词",
+   "wordNumber": "15.02",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "使用一种或多种特定精神活性物质的状况。特定物质包括阿片类、大麻类、可卡因、致幻剂、烟草和挥发性吸入剂等。"
+  },
+  {
+   "cn": "物质依赖",
+   "en": "substance dependence",
+   "source": "行为医学名词",
+   "wordNumber": "15.053",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾相关障碍",
+   "subjectName": "成瘾相关障碍",
+   "publishYear": "2022",
+   "definition": "反复或持续性使用物质所致的使用失控。对使用物质存在强烈的内在驱动力，导致控制使用的能力受损。常伴随主观上对使用物质强烈的渴望或渴求，也可出现躯体依赖。"
+  },
+  {
+   "cn": "物质中毒",
+   "en": "substance intoxication",
+   "source": "行为医学名词",
+   "wordNumber": "15.054",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾相关障碍",
+   "subjectName": "成瘾相关障碍",
+   "publishYear": "2022",
+   "definition": "由于过量使用某种物质（使用期间或使用后）而出现的中毒状态。表现为短暂性的意识、认知、感知觉、情感、行为或协调性紊乱。"
+  },
+  {
+   "cn": "物质戒断",
+   "en": "substance withdrawal",
+   "source": "行为医学名词",
+   "wordNumber": "15.055",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾相关障碍",
+   "subjectName": "成瘾相关障碍",
+   "publishYear": "2022",
+   "definition": "停止或减少使用物质后一组显著的临床症状、行为和生理特征异常的现象。发生于有物质依赖的个体、长期/大量使用物质的个体。"
+  },
+  {
+   "cn": "细胞间质",
+   "en": "intercellular substance",
+   "source": "动物学名词",
+   "wordNumber": "3.0075",
+   "subjectFullName": "动物学_动物组织学_结缔组织",
+   "subjectName": "结缔组织",
+   "publishYear": "2021",
+   "definition": "结缔组织中的细胞外基质。包括丝状的纤维、无定形基质和不断循环更新的组织液。"
+  },
+  {
+   "cn": "组合体",
+   "en": "combined substance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0262",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "由基本几何体经过叠加、切割、相交或相切等形式组合而成的立体。"
+  },
+  {
+   "cn": "营养物质",
+   "en": "nutrient substance",
+   "source": "畜牧学名词",
+   "wordNumber": "07.293",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "能在动物体内消化吸收、供给能量、构成体质及调节生理机能的物质。"
+  },
+  {
+   "cn": "顺磁性物质",
+   "en": "paramagnetic substance",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.280",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振磁敏感加权成像",
+   "subjectName": "磁共振磁敏感加权成像",
+   "publishYear": "2020",
+   "definition": "原子核外具有未成对的轨道电子，在外加磁场中自身产生的磁场与外加磁场的方向相同，具有正的磁化率（χ ＞0）的物质。外加磁场消失，磁性消失。"
+  },
+  {
+   "cn": "毒性药品",
+   "en": "poisonous substances",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精神药品",
+   "en": "psychotropic substances",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分泌物",
+   "en": "secretion substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "虎斑物质",
+   "en": "tigroid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间隙物质",
+   "en": "gap substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "黏液物质",
+   "en": "mucoid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经营养物质",
+   "en": "neurotrophic substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生甲质",
+   "en": "onychogenic substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞间质",
+   "en": "intercellular substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小梁质",
+   "en": "trabecular substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "釉柱间质",
+   "en": "interrod substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪质",
+   "en": "fatty substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "后含物",
+   "en": "ergastic substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生长物质",
+   "en": "growth substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞间质",
+   "en": "intercellular substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基准物",
+   "en": "standard substance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物质依赖",
+   "en": "substance dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纤维间质",
+   "en": "interfibrillary substance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "单质",
+   "en": "elementary substance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"basic stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化基础",
+   "en": "Standardization Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础理论",
+   "en": "basic AI theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础材料",
+   "en": "basic AI material",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全民基本收入",
+   "en": "universal basic income",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础网络系统",
+   "en": "basic network system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本公共服务",
+   "en": "basic public services",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "六义",
+   "en": "The Six Basic Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据基础",
+   "en": "Basics of Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "substance",
+   "source": "马克思主义",
+   "wordNumber": "01.0009",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）首创的范畴，指万物不变的本原，万物由它而生成，最后复归于它。马克思主义哲学吸取了以往哲学中关于实体的丰富思想，形成了物质范畴，以物质范畴扬弃了实体概念。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对物质持续性或间歇性过度使用的状况。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对烟草、酒精、毒品和其他违禁药物中任意一种的过度或不恰当使用的行为。"
+  },
+  {
+   "cn": "放射性物质",
+   "en": "radioactive substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "原子核能发生衰变，放出肉眼看不见也感觉不到，只能用专门的仪器才能探测到的射线的物质。如¹³¹I多见于奶制品的污染。"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "以相互理解为编制目的形成的具有广泛适用范围的标准。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "军用化学物质",
+   "en": "military chemical substances",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质",
+   "subjectName": "军用化学物质",
+   "publishYear": "2025",
+   "definition": "用于军事目的或军事活动的化学物质。通常包括化学战剂、军事工业毒物和军事活动中可能遇到的有毒化学物质（生物、物理和化学因素）。"
+  },
+  {
+   "cn": "食品用香精香料",
+   "en": "food flavoring substances",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "符合国家卫生标准的用于食品赋香的香料和香精的统称"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "可溶性抗菌物质",
+   "en": "soluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.17",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料非紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "非溶出性抗菌物质",
+   "en": "insoluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.18",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂不可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "有机干扰物",
+   "en": "organic interfering substance",
+   "source": "消毒学",
+   "wordNumber": "6.2.13",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于消毒学试验的试验试剂，人为加入试验中能够影响消毒剂消毒效果的有机物，常用的有牛血清白蛋白、小牛血清、腐殖酸等。"
+  },
+  {
+   "cn": "丙烯酰胺前体物质",
+   "en": "acrylamide precursor substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.7",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "在焙烤等高温加工条件下，食品中可通过美拉德反应生成两烯酰胺的成分，主要为还原糖和天门冬酰胺。"
+  },
+  {
+   "cn": "基础护理伦理",
+   "en": "basic nursing ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护理人员在为患者提供生活护理、病情观察、基本护理技术操作、提供基本的个人卫生护理、营造良好休养环境等过程中涉及的伦理问题及应遵循的护理道德规范。包括具有良好的职业道德和职业情感，掌握护理学基本理论和技"
+  },
+  {
+   "cn": "基本医疗保险",
+   "en": "basic medical insuranceance",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.092",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由政府主导、用人单位和个人共同参与的社会保险制度，旨在为参保人员提供基本医疗保障，覆盖门诊、急诊和住院费用。该制度结合了个人账户和统筹基金，具有广泛性、共济性和强制性等特点。"
+  },
+  {
+   "cn": "物质使用障碍",
+   "en": "substance use disorder, SUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "单次或重复使用一种或多种精神活性物质导致的精神或行为障碍。精神活性物质有酒精、阿片类、大麻类、镇静催眠药、可卡因、兴奋剂、致幻剂、烟草和挥发性溶剂等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

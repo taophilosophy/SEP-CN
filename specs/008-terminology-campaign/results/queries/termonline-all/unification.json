@@ -1,0 +1,502 @@
+{
+ "key": "unification",
+ "term": "unification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:41:11+00:00",
+ "status": "ok",
+ "note": "variant=unification; 审定公布名词库=171; 海峡两岸名词对照库=50; 其他来源数据库=2; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "合一",
+   "en": "unification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0472",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "（1）在符号运算中通过变量置换（称为合一子）将两个或两组逻辑原子表达式置换成相同的形式。（2）在合一文法中表征语言对象的特征结构间的一种运算，用来检查特征结构中属性是否匹配以及在属性匹配的前提下进行特"
+  },
+  {
+   "cn": "合一算法",
+   "en": "unification algorithm,unification",
+   "source": "语言学名词",
+   "wordNumber": "11.135",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "在语言单位的复杂特征集之间进行的一种运算。常用来检查复杂特征集中的属性是否匹配，或进行特征归并。"
+  },
+  {
+   "cn": "大统一",
+   "en": "grand unification",
+   "source": "物理学名词",
+   "wordNumber": "09.1224",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "意大利统一运动",
+   "en": "Italian Unification",
+   "source": "世界历史名词",
+   "wordNumber": "03.0681",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "19世纪，把意大利半岛上各个政权合并成一个统一的意大利国家的政治和社会运动。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "基于合一的文法",
+   "en": "unification-based grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0467",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一类以自然语言为描述对象的形式文法系统。以特征结构作为语言知识的描述手段，以合一作为语言知识的运算手段，如功能合一文法、词汇功能文法以及中心词驱动的短语结构文法等。"
+  },
+  {
+   "cn": "基于合一的语法",
+   "en": "unification based grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.182",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一类语法理论的合称。在语言描写、分析机制和操作原则上以合一的思想为基础，语句分析的过程是对递归定义的特征结构进行合一运算的过程。广泛应用于自然语言处理。包括功能合一语法、范畴合一语法等。"
+  },
+  {
+   "cn": "德国统一",
+   "en": "Unification of Germany",
+   "source": "世界历史名词",
+   "wordNumber": "01.0786",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1864-1871年，普鲁士经过三次王朝战争，最终将德意志诸邦联合成一个统一国家的过程。"
+  },
+  {
+   "cn": "功能合一语法",
+   "en": "functional unification grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.181",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种用于自然语言处理的语法理论。其中词项、句法规则、语义信息以及句子的结构和功能都采用复杂特征集来表示，使用合一的方法对复杂特征集进行运算。"
+  },
+  {
+   "cn": "区域联盟化模型",
+   "en": "regional unification model",
+   "source": "地理学名词",
+   "wordNumber": "25.168",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "阐述区域各专业化亚区形成一体化经济体系和政治体系的经济地理模型及学说。"
+  },
+  {
+   "cn": "说明的统一模型",
+   "en": "unification model of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "由M. 弗里德曼（M. Friedman）和P. 基切尔（P. Kitcher）提出。认为科学说明是通过科学理论把不同的现象统一起来的。"
+  },
+  {
+   "cn": "四种相互作用的统一",
+   "en": "unification of four interactions",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.350",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在电弱理论、量子色动力学以及包括希格斯子在内的探测的基础上，基于粒子物理标准模型的电弱统一与强、弱、电大统一取得了一定的进展，但以超对称性统一四种相互作用的超弦理论等万有理论的构建则任重道远。"
+  },
+  {
+   "cn": "功能合一文法",
+   "en": "functional unification grammar,FUG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0468",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "合一文法的一种。采用统一的特征描述机制描述不同粒度的语言对象，包括词法、句法、语义等信息及它们之间的组合规律。"
+  },
+  {
+   "cn": "统一体例格式",
+   "en": "unification of style and format",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.021",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的形式和格式进行整体性、一致性处理的编辑加工活动。"
+  },
+  {
+   "cn": "大一统",
+   "en": "da yi tong;great unification or the grand unity",
+   "source": "中国古代史名词",
+   "wordNumber": "1.348",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "春秋公羊家倡导的一元化政治理论和原则。《春秋公羊传》始明其义，秦汉始实际贯彻。至东汉公羊家何休集其大成，为历代王朝所奉行，主张从版图治理到思想法度无不统一于天子之下。"
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "农学名词",
+   "wordNumber": "09.117",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "动植物残体在微生物作用下，通过生物化学和化学作用，转化为腐殖质的过程。"
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "除去某种物质所含的杂质，使其纯度提高的过程。包括蒸发、结晶、萃取、离子交换、色谱分离等方法。"
+  },
+  {
+   "cn": "净化",
+   "en": "purification",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0007",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "对SO₂气体中重金属、砷、氟等有害杂质进行分离的过程。分为干法收尘和稀硫酸洗涤净化两个过程。"
+  },
+  {
+   "cn": "腐殖化",
+   "en": "humification ",
+   "source": "草学名词",
+   "wordNumber": "6.0005",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "冶金学名词",
+   "wordNumber": "06.0004",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "除去目标产物中杂质的过程。"
+  },
+  {
+   "cn": "合一",
+   "en": "unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合一部件",
+   "en": "unification unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛合一",
+   "en": "universal unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于合一[的]语法",
+   "en": "unification-based grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域联盟化模型",
+   "en": "regional unification model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系合一语法",
+   "en": "dependency unification grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一国有船舶豁免某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Concerning the Immunity of State-owned Ships",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一海船扣押某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Relating to the Arrest of Seagoing Ships",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一海难援助和救助某些法律规定公约",
+   "en": "Convention for Unification of Certain Rules of Law Relating to Assistance and Salvage at Sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一船舶碰撞某些法律规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules of Law with Respect to Collision between Vessels",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一对水上飞机的海难援助和救助及由水上飞机施救的某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Relating to Assistance and Salvage of Aircraft or by Aircraft at Sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一船舶碰撞或其他航行事故中刑事管辖权某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Relating to Penal Jurisdiction in Matters of Collision or Other Incidents of Navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "净化[作用]",
+   "en": "purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "卵形成",
+   "en": "ovification",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "成组",
+   "en": "unitization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "坚持“一国两制”和推进祖国统一",
+   "en": "upholding “One Country, Two Systems” and moving toward national reunification",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净化",
+   "en": "purification",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "采用吸附、过滤、除尘、凝聚沉淀、离子交换、蒸发、贮存衰变、去污等方式，降低空气、水中放射性物质浓度、降低物体表面放射性水平的过程。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "战时水质净化",
+   "en": "drinking water purification in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，采用一定的工艺、设备去除水中物理、化学和生物污染物，达到符合相关标准的要求的过程。"
+  },
+  {
+   "cn": "和平统一一国两制",
+   "en": "Peaceful reunification and one country two systems",
+   "source": "马克思主义",
+   "wordNumber": "03.0556",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中国政府解决台湾、香港、澳门问题的基本方针，即以和平方式实现祖国统一，在一个中国的前提下，大陆的社会主义制度和台湾、香港、澳门原先实行的资本主义制度长期共存，共同发展。“和平统一、一国两制"
+  },
+  {
+   "cn": "实现国家统一是民族的愿望",
+   "en": "achieve national reunification is the nations aspiration",
+   "source": "马克思主义",
+   "wordNumber": "03.0595",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1984年，邓小平在会见香港同胞时指出：实现国家统一是民族的愿望。他创造性地提出“一国两制”的构想，使香港、澳门相继回到祖国的怀抱。和平统一是中国政府的一贯立场，但绝不排除使用武力。"
+  },
+  {
+   "cn": "战时小分队水质净化",
+   "en": "drinking water purification for team in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，以小分队为基础单位，采用一定的工艺、设备，去除水中物理、化学和生物污染物，保障饮用水安全的过程。"
+  },
+  {
+   "cn": "战时单兵水质净化",
+   "en": "drinking water purification for single soldier in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，以单兵为基础单位，采用一定的工艺、设备，去除水中物理、化学和生物污染物，保障饮用水安全的过程。"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

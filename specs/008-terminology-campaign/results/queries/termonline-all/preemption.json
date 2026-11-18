@@ -1,0 +1,292 @@
+{
+ "key": "preemption",
+ "term": "preemption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:33:20+00:00",
+ "status": "ok",
+ "note": "variant=preemption; 审定公布名词库=14; 海峡两岸名词对照库=13; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "中断",
+   "en": "preemption",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "机器故障使得工件加工的停止。"
+  },
+  {
+   "cn": "生态位优先占领假说",
+   "en": "niche-preemption hypothesis",
+   "source": "生态学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "该假说认为第一位优势种首先占领生态位空间的大部，第二位的占领其余下的大部空间，依此类推，到末位的只能占留下的很少空间。这种分布多出现在群落生境严酷，种数相对较少的群落。"
+  },
+  {
+   "cn": "预先镇痛",
+   "en": "preemptive analgesia",
+   "source": "麻醉学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "麻醉学_疼痛诊疗_急性疼痛诊疗",
+   "subjectName": "急性疼痛诊疗",
+   "publishYear": "2024",
+   "definition": "在组织损伤发生前即给予镇痛治疗，阻断因组织损伤而引起的外周敏化和中枢敏化，减弱或减轻术后疼痛的治疗方法。"
+  },
+  {
+   "cn": "抢占多任务处理",
+   "en": "preemptive multitasking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0393",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种多任务处理方式。当等待条件满足的高优先级任务就绪时，就暂停当前低优先级任务的执行而调度执行高优先级的新任务。"
+  },
+  {
+   "cn": "抢占调度",
+   "en": "preemptive scheduling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0391",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种进程调度策略。当有更高优先级进程进入就绪队列时，就中止当前进程的执行，而调度该更高优先级进程执行。"
+  },
+  {
+   "cn": "优先认股权",
+   "en": "preemptive right",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0240",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "公司增发新股时赋予原有股东的一种权利。包括：当股东在转让股份时，其他股东有优先购买的权利；当公司增资发行新股票时，公司现有股东有优先根据其持有的股票在已发行股票中所占比例购买相应新股票的权利。"
+  },
+  {
+   "cn": "赎地手续",
+   "en": "Redemption Operation",
+   "source": "世界历史名词",
+   "wordNumber": "05.0165",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1861-1906年间，俄国农民从地主手里赎回1861年农民改革规定的份地，由政府付给地主赎地金总额，农民须在49年内偿还，年息6％。"
+  },
+  {
+   "cn": "强占型优先权",
+   "en": "preemptive priority",
+   "source": "数学名词",
+   "wordNumber": "011.0501",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "作者署名推定",
+   "en": "presumption of authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.006",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "推断判定作者的情形。在无相反证明的情况下，通常推定在作品上署名的自然人、法人或者其他组织为作者。"
+  },
+  {
+   "cn": "非抢占多任务处理",
+   "en": "non-preemptive multitasking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0394",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种多任务处理方式。当前任务主动放弃处理器时，才调度其他任务占用处理器执行。"
+  },
+  {
+   "cn": "非抢占调度",
+   "en": "non-preemptive scheduling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0392",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种进程调度策略。当正在执行的进程由于某种原因放弃处理器时，才调度另一个进程执行，不会因为有更高优先级进程就绪而立即切换出当前进程。"
+  },
+  {
+   "cn": "赠券抵用率",
+   "en": "coupon redemption rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0104",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "跟踪并评价赠券使用情况的一个指标。由抵用的赠券数量除以派发的赠券数量的百分比计算而得。"
+  },
+  {
+   "cn": "非强占型优先权",
+   "en": "non-preemptive priority",
+   "source": "数学名词",
+   "wordNumber": "011.0502",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "著作权侵权推定",
+   "en": "presumption of copyright infringement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.011",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "依法可以推定侵权的情形。"
+  },
+  {
+   "cn": "抢先",
+   "en": "preemption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态位优先占领假说",
+   "en": "niche-preemption hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偿债收益",
+   "en": "redemption yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份赎回",
+   "en": "stock redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算银行",
+   "en": "redemption agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[证券]偿还条款",
+   "en": "redemption provision",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿兑换",
+   "en": "voluntary redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抢先多任务处理",
+   "en": "preemptive multitasking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抢先调度",
+   "en": "preemptive scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "债券偿还",
+   "en": "redemption of bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票偿还盈余",
+   "en": "surplus from stock redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本偿还准备基金",
+   "en": "capital redemption reserve fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "事实推定过失",
+   "en": "factual presumption of fault",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "和平赎买",
+   "en": "peaceful redemption",
+   "source": "马克思主义",
+   "wordNumber": "02.0357",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取政权后,采取有偿办法把资产阶级的生产资料逐步收归国有的政策。马克思和列宁都提出过这一设想，以毛泽东为代表的中国共产党人创造性地实践了这一设想。通过国家资本主义方式，在相当一段时期内让资本家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

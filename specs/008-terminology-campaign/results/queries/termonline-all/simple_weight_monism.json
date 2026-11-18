@@ -1,0 +1,792 @@
+{
+ "key": "simple weight monism",
+ "term": "Simple Weight Monism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:49:06+00:00",
+ "status": "ok",
+ "note": "variant=Simple Weight Monism; 审定公布名词库=5981; 海峡两岸名词对照库=1794; 其他来源数据库=357; 预公布名词数据库=205; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "异常一元论",
+   "en": "anomalous monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.568",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由D. 戴维森（D. Davidson）提出。旨在调和三个全然不相容的原理（互为因果作用原理、因果性的规律性原理、精神现象的异常论），断言一切事件都是物理的，即心理事件与物理事件同一，心理事件不可还原"
+  },
+  {
+   "cn": "简单加性加权法",
+   "en": "weighted method of simple additivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0226",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "对加性加权形式的价值(或效用)函数求极大化的一种求解多属性决策问题的方法。"
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "source": "测绘学名词",
+   "wordNumber": "02.378",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "衡量测量值（或估值）及其导出量相对可靠程度的一种指标。"
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "source": "物理学名词",
+   "wordNumber": "01.0260",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "权[重]",
+   "en": "weight",
+   "source": "物理学名词",
+   "wordNumber": "01.0259",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "权［重］",
+   "en": "weight",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0030",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "表征某一指标在整体评价中的相对重要程度。"
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "source": "化学名词",
+   "wordNumber": "03.0095",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "质量量值传递的标准量具。质量量值以保存在法国国际计量局的铂铱合金千克原器实物为唯一基准器。各国均将砝码分为国家千克基准、国家千克副基准、千克工作基准以及由千克的倍量和分量构成的工作基准组和各等工作标准"
+  },
+  {
+   "cn": "权值",
+   "en": "weight",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0151",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "表示工件重要性的无量纲数值。"
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "source": "计量学名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "计量学_质量、密度、衡器_质量",
+   "subjectName": "质量",
+   "publishYear": "2015",
+   "definition": "复现给定质量值的实物量具。"
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "source": "计量学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "计量学_质量、密度、衡器_质量",
+   "subjectName": "质量",
+   "publishYear": "2015",
+   "definition": "物体由于地球的吸引所受到的重力的大小，为物体质量与当地重力加速度的乘积。"
+  },
+  {
+   "cn": "权[重]",
+   "en": "weight",
+   "source": "化学工程名词",
+   "wordNumber": "07.030",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.204",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "“权”即“权重”，通俗理解就是“系数”的意思。“加权”指“乘以权重”，即“乘以系数”。"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "source": "植物学名词",
+   "wordNumber": "02.0121",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在表征分类或分支分析中所指定性状具有不同的重要性。"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "source": "核医学名词",
+   "wordNumber": "03.0266",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "用各分量与其权重因数之积来计算总量的方法。"
+  },
+  {
+   "cn": "计权",
+   "en": "weighting",
+   "source": "建筑学名词",
+   "wordNumber": "10.0208",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "对信号进行变换的一种方法。其基本点是突出信号中的某些成分，抑制信号中的另一些成分。"
+  },
+  {
+   "cn": "空重",
+   "en": "empty weight,bare weight,tare weight",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自重",
+   "en": "light weight,tare weight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0861",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "簧上重量",
+   "en": "suspended weight,sprung weight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0865",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权重",
+   "en": "weight",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "权重",
+   "en": "weight",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加权，权重",
+   "en": "weighting",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重均分子量",
+   "en": "weight average molecular weight",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重均分子量",
+   "en": "weight-average molecular weight",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加权平均值",
+   "en": "weighted mean\",\"weighted average",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单关节",
+   "en": "simple joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单腺",
+   "en": "simple gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单小叶",
+   "en": "simple lobule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单瓣花",
+   "en": "simple flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单穿孔",
+   "en": "simple perforation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单雌蕊",
+   "en": "simple pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花被",
+   "en": "simple perianth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗拉力",
+   "en": "weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单瑞士式",
+   "en": "simple Swiss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单荷兰式",
+   "en": "simple Hollander",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单动作",
+   "en": "simple action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单防守",
+   "en": "simple parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单进攻",
+   "en": "simple attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加重",
+   "en": "load\",\"weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最轻量级",
+   "en": "bantam weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉力",
+   "en": "draw weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "简单劳动",
+   "en": "simple labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0054",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "没有任何专长的普通人的机体平均具有的简单劳动力的耗费，即在一定的社会条件下一般劳动者都能胜任，无需特别的技术专长、知识和技能训练的劳动。简单劳动在教育和科技不断发展的社会中会有变化，它与复杂劳动相对应"
+  },
+  {
+   "cn": "简单再生产",
+   "en": "simple reproductoin",
+   "source": "马克思主义",
+   "wordNumber": "02.0153",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产过程在原有规模上的重复进行。在资本主义生产方式下，如果资本家把榨取的剩余价值完全用于他们的个人消费，没有资本积累，生产规模不扩大，那么，在其他条件不变的情况下，这就是资本主义的简单再生产。"
+  },
+  {
+   "cn": "单纯性近视",
+   "en": "simple myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼球在发育期发展形成的近视，发育停止后近视也趋于稳定，屈光度数一般在﹣6.00D之内。其中绝大多数眼底无病理变化，用适当光学镜片即可将视力矫正至正常。"
+  },
+  {
+   "cn": "简单社会",
+   "en": "simple society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工简单，人口规模较小的社会组织形态，与复杂社会相对。简单社会的规模相对较小，其人数由相应狭小地域内的各社会政治单位组合在一起，一般以血缘为基础、以家庭为纽带、以个人为中心。"
+  },
+  {
+   "cn": "固形物重",
+   "en": "drained weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头经杀菌处理后，去除液体介质后所剩余的全部固体内容物的质量。"
+  },
+  {
+   "cn": "片重",
+   "en": "tablet weight",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "每片消毒剂片剂的质量。"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过比较清洗前后污染物重量来评价清洗效果的方法。"
+  },
+  {
+   "cn": "胎儿体重",
+   "en": "fetal weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎儿的重量。通常通过测量孕妇子宫底高度和超声测量胎儿顶臀长度、双顶径、头围、腹围、股骨长度、肱骨长度等进行估算。"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "称量得到的身体重量。是营养状况评定中最简单又重要的指标。"
+  },
+  {
+   "cn": "出生体重",
+   "en": "birth weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "新生儿出生后1小时内的体重。"
+  },
+  {
+   "cn": "伤残权重",
+   "en": "disability weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据短暂性失能到永久残疾的不同程度将残疾/失能赋予不同的权重值，范围在0-1 之间，0 代表完全健康，1 代表死亡。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "单一型香辛料调味品",
+   "en": "simple spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.11",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由单一香辛料制成的调味品。"
+  },
+  {
+   "cn": "简易厕坑",
+   "en": "simple pit latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在一般应超过1.5 米的较大深度厕沟基础上，沿沟缘地面修筑一定高度的完全或不完全围护及开孔顶覆结构，形成的坐式或蹲式厕所。可供较长时间连续使用。"
+  },
+  {
+   "cn": "反应时",
+   "en": "simple reaction time",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "机体从接受刺激到做出反应动作所需的时间，即从刺激到反应的时距。主要反映人体神经于肌肉系统的协调性和快速反应能力。"
+  },
+  {
+   "cn": "简易防护器材",
+   "en": "simple protective equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "利用就便材料制作的一类个人防护器材，包括简易呼吸道和皮肤防护器材两类，如泳镜、雨衣和雨靴等。"
+  },
+  {
+   "cn": "失重率",
+   "en": "weight loss rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "金属样片除去腐蚀产物并清洗干燥后损失的重量与对照样片的比率。"
+  },
+  {
+   "cn": "孕期增重",
+   "en": "gestational weight gain",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕妇体重在孕前体重基础上的增加值。"
+  },
+  {
+   "cn": "孕期体重管理",
+   "en": "pregnancy weight management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "整个怀孕期间根据每位孕妇的身高、体重、职业及孕期产检的状况，通过医师进行营养评估、饮食和运动等生活方式指导、定期孕期检查及心理干预等各种方法来制定孕妇个体化体重增长曲线的服务过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

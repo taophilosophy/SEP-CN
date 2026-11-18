@@ -1,0 +1,662 @@
+{
+ "key": "existential modality",
+ "term": "existential modality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:20+00:00",
+ "status": "ok",
+ "note": "variant=existential modality; 审定公布名词库=358; 海峡两岸名词对照库=147; 其他来源数据库=9; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "存在心理学",
+   "en": "existential psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "美国罗洛·梅(Rollo May)创立的学派。关注人存在的意义、以存在主义哲学为理论基础的心理学研究取向。"
+  },
+  {
+   "cn": "存在心理治疗",
+   "en": "existential counseling",
+   "source": "心理学名词",
+   "wordNumber": "15.040",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "强调选择与焦虑、价值、自由，以及生活责任、寻求意义等存在主义理念的心理治疗取向。"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "存现宾语",
+   "en": "existential object",
+   "source": "语言学名词",
+   "wordNumber": "04.198",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "宾语的一种。由名词性成分充当，在语义上表示存在、出现或消失的人或事物。例如，“长着一棵大树”“来了一位客人”“跑了一只猫”。"
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0056",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "现实人体美",
+   "en": "existential body beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "存在于现实生活中具有生命活力的生机勃勃的人体美。进入人类社会以来，按照美的规律而自然形成的一种最高层次之精美，是自然进化与劳动实践相结合的产物。是现实的、客观的，不随人们主观意志为转移的，是医学人体美"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "存在主义",
+   "en": "existentialism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在心理学",
+   "en": "existential psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在性焦虑",
+   "en": "existential anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义疗法",
+   "en": "existential therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在虚无",
+   "en": "existential vacuum",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义研究",
+   "en": "existential study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重量摩尔浓度",
+   "en": "molality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "质量摩尔浓度",
+   "en": "molality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享出行",
+   "en": "shared mobility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧出行",
+   "en": "smart mobility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义的人道主义",
+   "en": "humanitarianism of existentialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0059",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特（Jean-Paul Sartre）在《存在主义是一种人道主义》中立足于存在主义哲学所提出的概念。他认为，除了人类的宇宙，即人类主观性的宇宙外，无其他宇宙；综合超越性和主观性，就是我们所谓的存在主"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "source": "马克思主义",
+   "wordNumber": "05.0003",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "卢卡奇《历史和阶级意识》中的核心范畴。总体性是历史的总体，是客体与主体的统一；具体的总体，是直接性与中介性的统一；辩证的总体，是理论与实践的统一；革命的总体，是过程与目标的统一。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某人群在某个限定的时间内死于某病的概率，分子为该时期内死亡人数，分母为该人群的人数。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.17",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，某人群中总死亡人数在该人群中所占的比例。"
+  },
+  {
+   "cn": "体育品德",
+   "en": "sports morality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在体育运动中应当遵循的行为规范以及形成的价值追求和精神风貌，对维护社会规范、树立良好的社会风尚具有积极作用。"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0090000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在私人生活和私人交往中所应当遵循的道德行为准则和规范及所表现的道德品质。"
+  },
+  {
+   "cn": "底线道德",
+   "en": "bottomline morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人类最基本的道德准则和道德要求，是人类必须遵守的最低道德标准和道德评判的最低要求。"
+  },
+  {
+   "cn": "公德",
+   "en": "public morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.008",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在履行社会整体的义务中应当普遍遵守的道德行为准则和规范。其作用在于维护社会正常秩序。"
+  },
+  {
+   "cn": "性道德教育",
+   "en": "sex morality education",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对社会道德渗透在两性方面的行为规范教育，健康文明的性道德观有四个要点，包括专一性、诚实性、非占有性和原则性。"
+  },
+  {
+   "cn": "流动表",
+   "en": "mobility table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.114",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据相同变量的两种情形将个体予以分配的两维列联表。用以区分发生了变化的个体和未发生变化的个体。"
+  },
+  {
+   "cn": "社会流动",
+   "en": "social mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "在某一社会分层系统中，个人或群体（阶级或阶层）在不同（通常是纵向的）社会位置之间的流动。社会学家通过这些流动分析、观察社会分层的规则和特征。"
+  },
+  {
+   "cn": "上升流动",
+   "en": "upward mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "人们从较低地位等级的职业、阶级或阶层流动到较高地位等级的职业、阶级或阶层。也指人们从较低收入群体跃升为较高收入群体。"
+  },
+  {
+   "cn": "下降流动",
+   "en": "downward mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "人们从较高地位等级的职业、阶级或阶层流动到较高地位等级的职业、阶级或阶层。"
+  },
+  {
+   "cn": "代际流动",
+   "en": "generation mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "上一代人（通常是父亲）的阶级或阶层地位相较下一代人（子女）的阶级或阶层地位发生了改变。社会学家通过其判断某一社会的阶级阶层结构变化和社会的开放程度。"
+  },
+  {
+   "cn": "代内流动",
+   "en": "intrageneration mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "一个人的职业、阶级或阶层地位发生的变化。通常通过职业变动来实现。"
+  },
+  {
+   "cn": "竞争性流动",
+   "en": "contest mobility",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.13",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "描述科学界地位流动的概念。科学界的精英地位是由有抱负的科学研究者通过自身努力、公开竞争获得的；竞争者之间是一种公平竞争的关系，并且竞争获得的精英地位也不是由原来精英所能够决定的。"
+  },
+  {
+   "cn": "赞助性流动",
+   "en": "sponsored mobility",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.14",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "描述科学界地位流动的概念。科学家向上流动是通过招募的形式由科学精英或他们的代理人挑选而获得精英地位，这种挑选通常都有一定的标准，这种精英地位无法通过个人努力或策略来获得。科学家向上流动犹如作为受赞助的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

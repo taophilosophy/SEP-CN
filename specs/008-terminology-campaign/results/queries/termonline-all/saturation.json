@@ -1,0 +1,702 @@
+{
+ "key": "saturation",
+ "term": "saturation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:37:13+00:00",
+ "status": "ok",
+ "note": "variant=saturation; 审定公布名词库=482; 海峡两岸名词对照库=152; 其他来源数据库=12; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "地质学名词",
+   "wordNumber": "16.01.058",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩土孔隙中水的体积与孔隙体积之比。以百分数表示。反映岩土中孔隙的充水程度。"
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.014",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "用以估价纯彩色在整个视觉中的成分的视觉属性。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0282",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "在给定温压条件下，溶液所含溶质的量达到最大限度，或空气中所含水蒸气达到最大限度的情况。 "
+  },
+  {
+   "cn": "色饱和度",
+   "en": "saturation",
+   "source": "光学名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "描述一种颜色与白色混合程度的一个参量。它是颜色的三属性之一，用以表示纯彩色在整个视觉中的成分的视觉属性，是视知觉的相对量。纯光谱色是完全饱和的，加入白光会稀释饱和度。饱和度越大，颜色看起来就会越鲜艳，"
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "测绘学名词",
+   "wordNumber": "04.268",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "物体颜色的包含量或纯度。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "生理学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱充",
+   "en": "saturation",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1139",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "糖汁清净技术中，采用含有二氧化碳的气体处理糖汁的过程。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0429",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "在一定温度和压力下,溶液所含溶质的量达到最大限度,不能再溶解的状态。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "物理学名词",
+   "wordNumber": "05.0371",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "彰度",
+   "en": "saturation",
+   "source": "物理学名词",
+   "wordNumber": "05.0372",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "生物物理学名词",
+   "wordNumber": "02.129",
+   "subjectFullName": "生物物理学_分子与结构生物学_生物大分子相互作用",
+   "subjectName": "生物大分子相互作用",
+   "publishYear": "2018",
+   "definition": "酶的活性部位或受体的结合位点均被占用的一种状态。"
+  },
+  {
+   "cn": "[磁]饱和",
+   "en": "saturation",
+   "source": "化学名词",
+   "wordNumber": "03.2190",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "由于高低能级间粒子的快速跃迁达到动态平衡，而使共振信号消失的现象。"
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "计量学名词",
+   "wordNumber": "13.213",
+   "subjectFullName": "计量学_光学_色度",
+   "subjectName": "色度",
+   "publishYear": "2015",
+   "definition": "按视亮度比例来判定的所观察区域的视彩度。在给定的观察条件下，除非视亮度很高，色品一定的色刺激在产生明视觉的光亮度范围内呈现大体不变的饱和度。"
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "建筑学名词",
+   "wordNumber": "09.0452",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色的鲜艳纯度。色的纯度越高，饱和度就越高；色的纯度越低，饱和度就越低。在可见光谱中，各种单色光的饱和度比复合光的饱和度高。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "药学名词",
+   "wordNumber": "03.185",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在一定温度和压力下，溶液所含溶质的量达到最大限度，不能再溶解的状态。"
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "物体颜色的包含量或纯净程度。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0704",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋水下技术",
+   "subjectName": "海洋水下技术",
+   "publishYear": "2007",
+   "definition": "吸入气中的某种气体分压高于体内该气体的张力时，气体按压差梯度扩散入机体。当该气体溶入体液和组织中的张力达到最大值时的状态。"
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "电气工程名词",
+   "wordNumber": "16.186",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "化学工程名词",
+   "wordNumber": "03.328",
+   "subjectFullName": "化学工程_传递过程与单元操作_传热过程_蒸发与结晶",
+   "subjectName": "蒸发与结晶",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "地质学名词",
+   "wordNumber": "08.187",
+   "subjectFullName": "地质学_水文地质学",
+   "subjectName": "水文地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[磁]饱和",
+   "en": "saturation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "饱和度",
+   "en": "saturation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "饱和",
+   "en": "saturation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "饱和器",
+   "en": "saturator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和差",
+   "en": "saturation deficit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和点",
+   "en": "saturation point",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和温度",
+   "en": "saturation temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和曲线",
+   "en": "saturation curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和压力",
+   "en": "saturation pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和极限",
+   "en": "saturation limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和温度",
+   "en": "saturation temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和磁化强度",
+   "en": "saturation magnetization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "饱和点",
+   "en": "saturation point",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "饱和密度",
+   "en": "saturation density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "饱和转移",
+   "en": "saturation transfer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "Situation / Trend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "态势感知",
+   "en": "situation awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全态势分析",
+   "en": "cybersecurity situation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全态势监管",
+   "en": "security situation supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融网络安全态势感知平台",
+   "en": "financial network security situation awareness platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确大局观",
+   "en": "the correct perspective of overall situation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形势积极向好",
+   "en": "The situation is witnessing positive changes.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆行者",
+   "en": "people who brave a dangerous situation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "素位而行",
+   "en": "Do What Is Proper for Your Situation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因势利导",
+   "en": "Exploit Favorable Situation to Pursue the Goal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "掌握情况，不漏一人",
+   "en": "to have full knowledge of the situation (of the community) and leave no one unchecked",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和蒸汽",
+   "en": "saturated steam",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "单位时间内进入蒸汽空间分子数目与返回液体中的分子数目相等，蒸发与液化处于动态平衡的蒸汽。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "血氧饱和度",
+   "en": "blood oxygen saturation, SaO₂",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.8",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "血液中被氧结合的氧合血红蛋白的容量占全部可结合的血红蛋白容量的百分比，即血液中血氧的浓度，是呼吸循环的重要生理参数。"
+  },
+  {
+   "cn": "电离室饱和曲线",
+   "en": "saturation curve of ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "在给定的电离辐射照射条件下，电离室的输出电流随外加电压变化的特性曲线。由此曲线可求出饱和电流、饱和电压。"
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "生长和发育达到一个相对完备的阶段，标志着个体在形态、生理功能、心理素质等方面都已达到成人水平，具备独立生活和生殖养育下一代的能力。"
+  },
+  {
+   "cn": "情境中心",
+   "en": "situation-centered",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0562",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美籍华裔人类学家许烺光（Francis L. K. Hsu）在论及中西文化及人际关系时提出的概念，与西方文化的“个人中心”相对，指中国人在人际关系中因相互依赖性而表现出的个体在群体中恰当的地位及行为模"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取就业机会和有价物品的能力。最初由马克斯•韦伯提出，后经洛克伍德(David Lockwood）和戈德索普(John Goldthorpe）等人的细化和操作化，成为韦伯派阶级分析理论划分阶级位置"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "镶嵌式活动",
+   "en": "mosaic situation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "学习时大脑皮层部分区域为兴奋（工作）状态，另一部分为抑制（休息）状态的劳逸结合工作原则。随着学习性质的改变，皮层上的兴奋区与抑制区，工作区与休息区发生相互轮换。"
+  },
+  {
+   "cn": "粮情",
+   "en": "grain situation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.20",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮食在储藏时的状态以及影响其变化的各种因素。主要包括粮温、水分含量、储粮有害生物的种类及数量、粮堆气体成分及浓度等"
+  },
+  {
+   "cn": "计划照射情况",
+   "en": "planned exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "源的有计划操作或能造成源照射的有计划活动所导致的照射情况。由于在开始实施欲进行的活动前能够做好防护与安全预防措施，因此从一开始就能够限制相关照射和出现概率。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "应急照射情况",
+   "en": "emergency exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "作为事故、恶意行动或任何其他未预期事件的结果，并需要立即采取行动以避免或减轻其有害后果而发生的照射情况。"
+  },
+  {
+   "cn": "人在情境中",
+   "en": "person in situation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作专业的基本观念之一，最先在个案工作理论中提出来作为理解和认识个人及其行为的一个重要原则。认为个人与其所处的环境处在多重的互动中，个案工作的目的就是要优化个人与其环境的互动，降低和解决个人和环境"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "社会卫生状况",
+   "en": "social health situation",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.081",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在一定时期和地域范围内，反映人群整体健康水平及其社会影响因素的综合状态。"
+  },
+  {
+   "cn": "特殊处境儿童",
+   "en": "children in special situation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "生活或居住环境比较特殊、在家庭或其他社会机构中需求未能得到满足的儿童。一般为遭遇各种不幸情境的儿童，如孤儿、弃儿、残疾儿童、流浪儿、被虐待或被忽视的儿童、家庭破碎的儿童、行为偏差的或受情绪困扰的儿童等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

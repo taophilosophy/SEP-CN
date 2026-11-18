@@ -1,0 +1,732 @@
+{
+ "key": "convergence",
+ "term": "convergence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:30:54+00:00",
+ "status": "ok",
+ "note": "variant=convergence; 审定公布名词库=355; 海峡两岸名词对照库=100; 其他来源数据库=25; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "收敛",
+   "en": "convergence",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "利用迭代法进行数值求解时，随着一轮轮迭代的进行，待解变量的取值逐渐向真实解逼近，使求解成功的过程。"
+  },
+  {
+   "cn": "汇聚度",
+   "en": "convergence",
+   "source": "天文学名词",
+   "wordNumber": "07.344",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在引力透镜理论中，描述像相对于源的形变中的各向同性部分(即变大或变小)的量。"
+  },
+  {
+   "cn": "汇聚",
+   "en": "convergence",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0095",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "相邻板块因发生相互挤压、碰撞及俯冲的一种构造运动。 "
+  },
+  {
+   "cn": "两眼集合",
+   "en": "convergence",
+   "source": "光学名词",
+   "wordNumber": "16.079",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "当人在注视某个物体时，左右眼视线往注视点上交会而产生的眼球动作。"
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "动物学名词",
+   "wordNumber": "2.0241",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "两个或多个没有最近共同祖先的类群在相同或相似的进化压力作用下而进化出具有相似特征的现象。"
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "经济学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "不同国家的人均产出增长率将“收敛”于稳定的平衡增长路径，穷国最终能够赶上富国。"
+  },
+  {
+   "cn": "会聚",
+   "en": "convergence",
+   "source": "生理学名词",
+   "wordNumber": "03.141",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "植物学名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "两个或多个没有最近共同祖先的类群在相同或相似的进化压力作用下而进化出具有相似特征的现象。"
+  },
+  {
+   "cn": "收敛",
+   "en": "convergence",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0028",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "数列的值逐渐趋向于一个极限值。"
+  },
+  {
+   "cn": "收敛",
+   "en": "convergence",
+   "source": "药学名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "与某个实数a无限接近的数列{<img src='/root/syzx/static/spz/yaoxue2.06.157.01.png'/>}，即当<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "古生物学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "由于生活习性或环境相似，导致亲缘关系较远的生物获得形态相似或功能相同的特征的演化现象。如翼龙、鸟类和蝙蝠的翅膀。"
+  },
+  {
+   "cn": "辐合",
+   "en": "convergence",
+   "source": "大气科学名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "负的矢量场散度。"
+  },
+  {
+   "cn": "趋同性",
+   "en": "convergence",
+   "source": "昆虫学名词",
+   "wordNumber": "06.210",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "不同种昆虫生活环境相似而逐渐形成相似特征的现象。"
+  },
+  {
+   "cn": "会聚",
+   "en": "convergence",
+   "source": "电气工程名词",
+   "wordNumber": "21.049",
+   "subjectFullName": "电气工程_工业加速器",
+   "subjectName": "工业加速器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "辐合",
+   "en": "convergence",
+   "source": "航海科技名词",
+   "wordNumber": "07.0034",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "收敛",
+   "en": "convergence",
+   "source": "化学工程名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "收敛[性]",
+   "en": "convergence",
+   "source": "数学名词",
+   "wordNumber": "05.0234",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "会聚",
+   "en": "convergence",
+   "source": "电子学名词",
+   "wordNumber": "11.068",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "集合",
+   "en": "convergence,Con",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.103",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "渐近分数",
+   "en": "convergents",
+   "source": "数学名词",
+   "wordNumber": "04.0145",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐合",
+   "en": "convergence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集合［作用］，辐辏作用",
+   "en": "convergence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐合",
+   "en": "convergence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "会聚",
+   "en": "convergence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会聚",
+   "en": "convergence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "趋同",
+   "en": "convergence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辐合",
+   "en": "convergence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "收敛",
+   "en": "convergence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "趋同性",
+   "en": "convergence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "交向摄影",
+   "en": "convergent photography\",\"convergent photographs",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辐合槽",
+   "en": "convergence trough",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐合带",
+   "en": "convergence band",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐合线",
+   "en": "convergence line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "收敛加速",
+   "en": "convergence acceleration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "收敛判据",
+   "en": "convergence criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辐合带",
+   "en": "convergence zone",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "收敛条件",
+   "en": "convergence condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "融媒体",
+   "en": "media convergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三网融合",
+   "en": "triple-network convergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指数平滑移动平均线",
+   "en": "Moving Average Convergence and Divergence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会",
+   "en": "World Internet Conference",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会（中国）",
+   "en": "World Internet Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化会议基地",
+   "en": "International Standardization Conference Base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界人工智能大会（中国）",
+   "en": "World Artificial Intelligence Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗量子计算密码学国际会议",
+   "en": "International Conference on Post Quantum Cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化趋同",
+   "en": "cultural convergence",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.12",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "经过一段时间的文化变迁过程，不同类型的文化产生某种程度的类似或一致，甚至有可能达成某种程度的融合的过程。"
+  },
+  {
+   "cn": "组织趋同",
+   "en": "organizational convergence",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.12",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不同组织采取相同或相似的内部结构的一种组织现象，比较典型的如采取科层制的等级结构和功能性的组织形式等。"
+  },
+  {
+   "cn": "聚敛式设计",
+   "en": "convergent design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "同时收集和分析定量数据及定性数据，并比较两种结果，对两种数据进行聚合分析（或用两种数据结果相互验证）的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "方便抽样",
+   "en": "convenience sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "研究者根据实际情况选择那些最容易接近的人作为研究对象的抽样方法。"
+  },
+  {
+   "cn": "方便食品",
+   "en": "convenience food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "经过加工、包装, 并通过适当杀菌, 在一定时间内保质、保鲜、保持营养不变, 便于贮存、运输、携带, 不需处理或只需简单处理即可食用的食品"
+  },
+  {
+   "cn": "庐山会议",
+   "en": "Lushan Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0539",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "庐山会议包括两次重要会议：1959年７月２日至８月１日党中央在江西庐山召开的政治局扩大会议和８月２日至1６日举行的党的八届八中全会。第一次会议的原定议题是总结1958年以来工作中的经验教训，纠正“大跃"
+  },
+  {
+   "cn": "德黑兰会议",
+   "en": "Tehran Conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0202",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1943年11月28日—12月1日，苏、美、英三国政府首脑斯大林、罗斯福、丘吉尔在伊朗首都德黑兰举行的会议。会议讨论了盟军消灭德国武装力量的各项计划以及安排战后和平与合作等问题。三方达成协议，建立欧洲"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0528",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1927年8月7日中共中央在湖北汉口召开的紧急会议。会议总结了大革命失败的经验教训，着重批判了大革命后期陈独秀为代表的右倾机会主义错误，确立了实行土地革命和武装起义的方针，开始了从大革命失败到土地革命"
+  },
+  {
+   "cn": "速冻方便食品",
+   "en": "quick frozen convenience food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.2",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以粮谷、果蔬、畜禽肉、水产品等为原料，经调制、加热（或未经加热）、速冻和包装等加工工艺生产，并在-18℃或以下的温度下储存，简单处理后即可食用的食品。"
+  },
+  {
+   "cn": "世界社会主义学者大会",
+   "en": "world socialist scholars conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0278",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由美国左派人士发起、“美国民主社会主义者”主办、全球任何左翼团体都可参加的会议，是左翼学者最大规模的年度集会。从20世纪80年代到2004年，每年春天都在美国纽约召开，是激进主义者、社会主义者、女权主"
+  },
+  {
+   "cn": "全国边防工作会议",
+   "en": "National Border Defense Work Conference",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0056",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央1979 年4 月25 至5 月10 日于北京召开的讨论改革开放时期民族工作任务的重要会议。会议讨论了这一时期边防和民族工作任务、认真落实党的民族政策、加速边疆民族地区的社会主义建设等内容。会"
+  },
+  {
+   "cn": "全国城市民族工作会议（2016）",
+   "en": "National Conference on Urban Ethnic Work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0058",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "（2016）党的民族工作史中第一次全国城市民族工作会议，2016 年1 月5 至6 日在北京召开。会议确立了贯彻中央民族工作会议关于城市民族工作的精神，着重对以少数民族流动人口服务管理重点的城市民族工"
+  },
+  {
+   "cn": "中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央从战略和全局高度部署民族工作的重要会议。改革开放以来，每当民族工作出现新情况新问题时，中央总会及时召开会议，统一全党思想，对民族工作进行研究部署。迄今为止，分别于1992、1999、2005、"
+  },
+  {
+   "cn": "2014年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2014",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0061",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2014年9月27至28日召开的、旨在准确把握新形势下民族问题、民族工作的特点和规律的重要会议。习近平总书记指出，党的民族工作取得的最大成就，就是走出了一条解决民族问题的正确道路，其内涵可概括"
+  },
+  {
+   "cn": "中央（全国）统战工作会议",
+   "en": "Central （National） Work Conference on United Front",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党的各个时期对包括民族工作在内的统战工作做全面部署的会议统称，1950年3月至2006年7月先后召开20次全国统战工作会议，2015年、2022年先后召开两次中央统战工作会议。其中对民族工作有重要影响"
+  },
+  {
+   "cn": "2021年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2021",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0062",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2021年8月27至28日召开的、全面回顾党的民族工作百年历程和历史成就、深入分析民族工作新形势的重要会议。会议取得的最大成就是习近平总书记提出了党关于加强和改进民族工作的重要思想，其内容可概"
+  },
+  {
+   "cn": "全德工人联合会成立大会",
+   "en": "Founding Conference of the All German Workers Federation",
+   "source": "马克思主义",
+   "wordNumber": "04.0479",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1863年5月23日，全德工人联合会成立大会在莱比锡成立。来自德国11个城市的12名代表以 及200多名莱比锡工人参加大会。会上斐迪南 ·拉萨尔(1825—1864)被选为联合会主席，瓦希泰尔为联合会"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  },
+  {
+   "cn": "中国人民政治协商会议第一届全体会议",
+   "en": "First Plenary Session of the Chinese Peoples Political Consultative Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0536",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月21日至9月30日在北京举行。中国共产党及各民主党派、人民团体和无党派民主人士等单位的代表（含候补代表）共662人参加了会议。中国人民政协筹备会主任、中国共产党中央委员会主席毛泽东向大会"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

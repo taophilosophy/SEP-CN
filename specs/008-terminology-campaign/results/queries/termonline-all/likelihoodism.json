@@ -1,0 +1,372 @@
+{
+ "key": "likelihoodism",
+ "term": "likelihoodism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:31:01+00:00",
+ "status": "ok",
+ "note": "variant=likelihoodism; 审定公布名词库=51; 海峡两岸名词对照库=15; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "似然度",
+   "en": "likelihood",
+   "source": "天文学名词",
+   "wordNumber": "07.393",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "给定某一理论，获得某个实验结果的概率。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "放射医学与防护_放射流行病学_统计分析",
+   "subjectName": "统计分析",
+   "publishYear": "2014",
+   "definition": "可作为衡量总体概率模型的未知参数被观察样本数据支持程度的一种表述方法。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "数学名词",
+   "wordNumber": "09.0569",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0017",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "在给定腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0460",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "在给定的腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "经济学名词",
+   "wordNumber": "10.065",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "任一随机样本能够被观察到的联合概率。对一个容量为 n 的随机样本<img src='/root/syzx/static/spz/jingjixue1.10.065.01.png'/>，似然函数的一般形"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "核医学名词",
+   "wordNumber": "03.0564",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "一个含有未知参数的联合概率分布函数。设总体P的概率分布g( p, x )已知，含有未知参数x，在1次试验中，抽到i个样本<img src='/root/syzx/static/spz/heyixue1"
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "心理学名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "某心理感受水平所对应的信号分布纵坐标值与噪声分布纵坐标值之比。"
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood",
+   "source": "微生物学名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "一种用于系统发育学分析的统计学构树方法，基于使每一位点上的核苷酸都具有最大可能性的原则，分析构建系统树的方法。"
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "数学名词",
+   "wordNumber": "09.0571",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "数学名词",
+   "wordNumber": "09.0570",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "数学名词",
+   "wordNumber": "09.0623",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "电子学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然法",
+   "en": "maximum likelihood method; maximal likelihood method",
+   "source": "天文学名词",
+   "wordNumber": "07.394",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种根据观测数据给出参数估计的统计方法。对给定的观测数据，通过改变模型参数使似然度函数取最大值而获得对模型参数的估计。"
+  },
+  {
+   "cn": "最大似然估计",
+   "en": "maximum likelihood estimation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "一种概率型的参数估计法，以似然函数的概念为基础，使似然函数极大化的参数估计。似然函数是一种关于统计模型中的参数的函数，表示模型参数中的似然性。"
+  },
+  {
+   "cn": "等似然准则",
+   "en": "equal likelihood criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.108",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中，当无法确定某种自然状态发生的可能性大小及其顺序时，可以假定每一自然状态有相等的概率，通过比较各个方案损益值的平均值来进行方案的选择。"
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "动物学名词",
+   "wordNumber": "2.0198",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "构建系统发生树的一种方法。选取一个特定的替代模型来分析给定的一组序列数据，使得获得的每一个拓扑结构的概率都为最大值，然后再挑出其中概率最大的拓扑结构作为最优树。"
+  },
+  {
+   "cn": "最大似然分类",
+   "en": "maximum likelihood classification",
+   "source": "测绘学名词",
+   "wordNumber": "03.598",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "在两类或多类判决中，用统计方法根据最大似然比贝叶斯判决准则法建立非线性判别函数集而进行分类的一种图像分类方法。"
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "畜牧学名词",
+   "wordNumber": "04.679",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一种参数估计方法。用使样本观测值的似然函数达到最大的统计量作为总体参数的估计量。"
+  },
+  {
+   "cn": "似然比检验",
+   "en": "likelihood ratio test",
+   "source": "畜牧学名词",
+   "wordNumber": "04.682",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一种假设检验方法。利用似然比，即在原假设和备择假设下观察值的最大似然函数的比值来进行假设检验。"
+  },
+  {
+   "cn": "似然比,或然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然原理",
+   "en": "likelihood principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然原理",
+   "en": "maximum likelihood principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然估计量",
+   "en": "maximum likelihood estimator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "约束最大似然法",
+   "en": "restricted maximum likelihood",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然分类",
+   "en": "maximum likelihood classification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对数似然函数",
+   "en": "log-likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然树",
+   "en": "maximum-likelihood tree",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "似然查找模型",
+   "en": "query likelihood model (QLM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

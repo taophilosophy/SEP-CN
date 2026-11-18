@@ -1,0 +1,682 @@
+{
+ "key": "dna-based device construction",
+ "term": "DNA-based device construction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:18+00:00",
+ "status": "ok",
+ "note": "variant=DNA-based device construction; 审定公布名词库=6481; 海峡两岸名词对照库=1981; 其他来源数据库=582; 预公布名词数据库=437; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "平底形结构",
+   "en": "flat base construction",
+   "source": "电气工程名词",
+   "wordNumber": "15.073",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "荧光法DNA测序",
+   "en": "fluorescence-based DNA sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0596",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "利用4种不同荧光试剂分别标记4种双脱氧核苷酸进行DNA测序的方法。"
+  },
+  {
+   "cn": "仿脑机",
+   "en": "brain-based device,BBD",
+   "source": "生物物理学名词",
+   "wordNumber": "07.200",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "美国生物学家诺贝尔奖得主埃德尔曼(G. Edelman)提出的一种人工脑模型。是通过从许多不同的仿真神经回路中进行选择来学习的，而不是按照事先编制好的程序指令来工作。 "
+  },
+  {
+   "cn": "建构",
+   "en": "construction",
+   "source": "风景园林名词",
+   "wordNumber": "07.0100",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "系统性的建立、构造，强调建造过程体现建筑本质及意义的作用，是结构和细部的诗意表达，使建筑获得意义和存在感。"
+  },
+  {
+   "cn": "构筑物",
+   "en": "construction",
+   "source": "建筑学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "特种工程结构的通称，指一般不直接在内部进行生产和生活活动的工程实体或附属建筑设施。"
+  },
+  {
+   "cn": "建造",
+   "en": "construction",
+   "source": "建筑学名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "把预想的建筑物付诸实施的过程。"
+  },
+  {
+   "cn": "句式",
+   "en": "construction",
+   "source": "语言学名词",
+   "wordNumber": "04.151",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "按照句子的局部特点划分的句子类型，即某些具有特定语义的固定格式。例如把字句、被字句等。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA,T-DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0287",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "整合到土壤农杆菌Ti质粒中的一段DNA。有助于将外源DNA插入植物基因组中。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA,T-DNA",
+   "source": "遗传学名词",
+   "wordNumber": "03.650",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "转入植物基因组的Ti质粒片段。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA;T-DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0773",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "植物基因工程实验中广泛应用的一种导入外源基因的载体。源于农杆菌Ri质粒中的一段DNA序列，可以从农杆菌中转移并稳定整合到植物核基因组中。"
+  },
+  {
+   "cn": "DNA解链",
+   "en": "DNA melting;DNA unwinding",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0304",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸性质_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "双链DNA在受热或相关酶的催化下，维系其双键结构的氢键发生断裂，致使一条双链DNA解离为两条单链DNA的过程。"
+  },
+  {
+   "cn": "构思",
+   "en": "construct",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0025",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织行为研究",
+   "subjectName": "组织行为研究",
+   "publishYear": "2016",
+   "definition": "用以描述和抽象管理学概念的内涵构建。"
+  },
+  {
+   "cn": "可构成性",
+   "en": "constructibility",
+   "source": "数学名词",
+   "wordNumber": "02.0196",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造性",
+   "en": "constructivity",
+   "source": "数学名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可构成[的]",
+   "en": "constructible",
+   "source": "数学名词",
+   "wordNumber": "02.0198",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "四链体DNA",
+   "en": "tetraplex DNA;quadruplex DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0162",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "具有4条富含鸟嘌呤链的DNA。"
+  },
+  {
+   "cn": "DNA超螺旋",
+   "en": "DNA superhelix;DNA supercoil",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由于双螺旋DNA的过旋和欠旋所形成的一种双螺旋DNA的高级结构。当DNA分子逆着螺旋轴的方向进行扭转时，导致双螺旋的欠旋而形成负超螺旋；而当DNA分子沿着螺旋轴的方向进行扭转时，导致双螺旋的过旋而形成"
+  },
+  {
+   "cn": "超螺旋DNA",
+   "en": "supercoiled DNA;superhelical DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0168",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "具有超螺旋结构的DNA分子。有正超螺旋和负超螺旋DNA两种。在机体内存在的DNA一般都是负超螺旋DNA。"
+  },
+  {
+   "cn": "外源DNA",
+   "en": "exogenous DNA,foreign DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0158",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "从一生物体中克隆并被转入另一生物体内或细胞中的DNA片段。"
+  },
+  {
+   "cn": "着丝粒DNA",
+   "en": "centromeric DNA,CEN DNA",
+   "source": "遗传学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "构成着丝粒的DNA序列，富含AT重复序列。"
+  },
+  {
+   "cn": "荧光法DNA测序",
+   "en": "fluorescence-based DNA sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建筑基地面积",
+   "en": "area of construction base",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "α样DNA(=α卫星DNA)",
+   "en": "α-DNA(=α-satellite DNA)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA环",
+   "en": "DNA loop\",\"DNA circle",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复DNA",
+   "en": "repetitive DNA\",\"repeated DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建构，构念",
+   "en": "construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "超螺旋DNA",
+   "en": "supercoiled DNA\",\"superhelical DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "四链体DNA",
+   "en": "tetraplex DNA\",\"quadruplex DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "着丝粒DNA",
+   "en": "centromeric DNA\",\"CEN DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA微阵列（=DNA芯片）",
+   "en": "DNA microarray (=DNA chip)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA微阵列(=DNA芯片)",
+   "en": "DNA microarray(=DNA chip)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA指导的DNA聚合酶",
+   "en": "DNA-directed DNA polymerase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA指导的DNA聚合酶",
+   "en": "DNA-directed DNA polymerase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA甲基转移酶(=DNA甲基化酶)",
+   "en": "DNA methyltransferase(=DNA methylase)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中场组织者",
+   "en": "constructive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "DNA密码",
+   "en": "DNA cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辐条构造",
+   "en": "spoke construction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信用数据DNA",
+   "en": "credit data DNA",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA barcode",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.59",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "生物体内能够代表该物种的、标准的、有足够变异的、易扩增且相对较短的DNA 片段。"
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA fingerprinting",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将病原体的染色体DNA 用限制性内切酶消化，分离得到不同大小的DNA 片段，再以重复序列中的共有序列作为核酸探针进行杂交，对得到的不同病原体DNA 片段的带型图谱(即DNA 指纹图谱，对每一个体都是独"
+  },
+  {
+   "cn": "DNA损伤",
+   "en": "DNA damage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "辐射等外源因素导致DNA分子结构的异常改变。包括链断裂、碱基破坏、交联等。"
+  },
+  {
+   "cn": "DNA交联",
+   "en": "DNA crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "不同DNA链的交错连接，是细胞内发生严重损伤的表现。可影响DNA的正常复制功能，导致突变或肿瘤。"
+  },
+  {
+   "cn": "DNA修复",
+   "en": "DNA repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA受损后细胞恢复DNA原始碱基序列或结构完整性的生物化学过程。"
+  },
+  {
+   "cn": "数字化DNA",
+   "en": "digital DNA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.58",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "利用数字化技术记录、存储、追踪和查询食品中具有物种、种群、个体等DNA 信息，实现食品从原料采购、加工制作、仓储运输、销售等环节的透明化管理和记录，应用于食品溯源和安全监管。"
+  },
+  {
+   "cn": "乡村建设",
+   "en": "rural construction",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "20世纪30年代由知识分子和政界人士共同参与的中国乡村现代化改造运动。1931年，梁漱溟在山东邹平从事乡治实践时首次使用该词，但此前类似的改造运动已经展开。20世纪20年代，在国民党地方政权和军阀势力"
+  },
+  {
+   "cn": "社会建构",
+   "en": "social construction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "一种认为社会实在或社会事物并非自然形成或被发现的，而是人为建构和界定的后现代建构论概念。与自然主义、实证主义的立场相反，它强调相关人群的互动和协商在建构中的决定性意义，从而认为被建构的社会或社会事物会"
+  },
+  {
+   "cn": "社会主义建设",
+   "en": "socialist construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0288",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "比较落后国家的无产阶级掌握政权之后，领导人民建设社会主义新型制度和发展生产力的实践。社会主义建设包括社会主义经济、政治和思想文化建设，有时也专指经济建设。列宁在《怎样组织竞赛》一文中，第一次使用“社会"
+  },
+  {
+   "cn": "制度体系建设",
+   "en": "system construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0782",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党为了提高党建科学化水平、加强党的自身建设，实现依法治国、依法执政，对党内生活的各个方面的行为准则加以制度化、规范化、体系化的活动。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用某个量度对理论概念或特质的测量程度来衡量其效度的方法。"
+  },
+  {
+   "cn": "建构性叙述",
+   "en": "constructed narrative",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "复述“记忆社区”里由过去历史所建构出来的故事，这种“记忆社区”是由过去的历史所构建出来的现实的社区。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "根据量表实际测量结果与所要测量的理论结构的一致性，即测量结果是否符合假设的理论来评价量表有效性。是采用统计方法对收集数据客观评价测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "DNA链内交联",
+   "en": "DNA intrastrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA分子同一条链中的两个碱基相互共价结合。"
+  },
+  {
+   "cn": "DNA链间交联",
+   "en": "DNA interstrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA双螺旋结构中的一条链上的碱基与同一分子另一条链上的碱基以共价键结合。"
+  },
+  {
+   "cn": "DNA蛋白质交联",
+   "en": "DNA protein crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA与蛋白质以共价键结合。"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有管腔，其直径≥2mm，且其腔体中的任何一点距其与外界相通的开口处的距离不大于其内直径的1500倍的器械。一般指由软管、硬管（单管或同轴组合）组成的器械，清洗时需使用专用的连接器与清洗消毒器连接。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "可穿戴设备",
+   "en": "wearable devices",
+   "source": "社会医学名词",
+   "wordNumber": "7.12.2",
+   "subjectFullName": "健康管理",
+   "subjectName": "电子健康",
+   "publishYear": "2025",
+   "definition": "能够直接穿戴在人体上或整合进衣物、配件中，用于记录人体数据的移动智能设备。可实时收集和分析用户的生理数据、行为数据等，这类设备通常具有轻便、便携、智能化等特点，可以为用户提供个性化的信息反馈和服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

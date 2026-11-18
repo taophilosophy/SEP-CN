@@ -1,0 +1,652 @@
+{
+ "key": "precise credence",
+ "term": "precise credence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:39:22+00:00",
+ "status": "ok",
+ "note": "variant=precise credence; 审定公布名词库=249; 海峡两岸名词对照库=87; 其他来源数据库=28; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "农学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在规定条件下，对同一或类似被测对象重复测量所得示值或测得值间的一致程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "兽医学名词",
+   "wordNumber": "11.096",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "在限定条件下，用某种分析方法重复测定同一均质样品所得测定值的彼此接近程度。通常以变异系数表示。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2676",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "被测量的测得值之间的一致程度。 "
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "测绘学名词",
+   "wordNumber": "01.033",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在相同观测条件下，对某一量的重复测量中各观测值间的接近程度。"
+  },
+  {
+   "cn": "精确性",
+   "en": "precision",
+   "source": "畜牧学名词",
+   "wordNumber": "04.635",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "同一物体的重复观察值或对某参数的重复估计值彼此之间的接近程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.587",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "在规定条件下，独立测试结果间的一致程度。"
+  },
+  {
+   "cn": "精确度",
+   "en": "precision",
+   "source": "冶金学名词",
+   "wordNumber": "04.0679",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "使用同种备用样品进行重复测定所得到的结果之间重现性高低的程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "物理学名词",
+   "wordNumber": "01.0271",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "精［密］度",
+   "en": "precision",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0023",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "多次测量同一物理量所得数据可重现性的量度。"
+  },
+  {
+   "cn": "精确率",
+   "en": "precision",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0609",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "语言信息处理系统性能评价指标之一。是机器正确发现的实体数量占机器发现的所有实体数量的百分比，用来衡量机器自动处理的准确性。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "核医学名词",
+   "wordNumber": "03.0175",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "在一定测量条件下，对某一量的多次测量中各观测值间的离散程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "地方病学名词",
+   "wordNumber": "01.105",
+   "subjectFullName": "地方病学_总论_实验室检测",
+   "subjectName": "实验室检测",
+   "publishYear": "2016",
+   "definition": "用一特定的分析程序，在受控条件下重复分析均一样品所得测量值的一致程度。反映了分析方法或测量系统存在的随机误差的大小。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "化学名词",
+   "wordNumber": "03.0368",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在规定条件下多次重复测量同一量时各测量值彼此相符合的程度。可用标准偏差或相对标准偏差、极差、算术平均差表示。"
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.298",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在一定测量条件下，对某一量的多次测量中，各测量值间的离散程度。"
+  },
+  {
+   "cn": "精〔密〕度",
+   "en": "precision",
+   "source": "大气科学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "在规定的条件下，采用特定的测量程序对一个量进行若干次的独立测量时所得到的测量结果相一致的程度。"
+  },
+  {
+   "cn": "精确性",
+   "en": "precision",
+   "source": "遗传学名词",
+   "wordNumber": "06.220",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "对同一物体的某特征重复观察值或对某参数的重复估计值彼此之间的接近程度。"
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "电气工程名词",
+   "wordNumber": "26.128",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "化学工程名词",
+   "wordNumber": "07.023",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "电子学名词",
+   "wordNumber": "17.032",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精确率",
+   "en": "precision,labeled precision",
+   "source": "语言学名词",
+   "wordNumber": "11.241",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "在信息检索、模式识别等领域中用于测试系统性能的指标。是识别或检索结果中的相关样例数与结果中样例总数的比值，其值越高则精确率越高，系统性能越好。与之相关的是召回率。"
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精［密］度",
+   "en": "precision",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精度",
+   "en": "precision",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精度",
+   "en": "precision",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精确性",
+   "en": "precision",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精密分馏",
+   "en": "precise fractionation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精确切离",
+   "en": "precise excision",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精密测距",
+   "en": "precise ranging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密垂准",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密导线测量",
+   "en": "precise traversing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密水准测量",
+   "en": "precise leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密水准仪",
+   "en": "precise level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密星历",
+   "en": "precise ephemeris",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密准直",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密星历",
+   "en": "precise ephemeris",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测光精度",
+   "en": "photometric precision",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精密聚合",
+   "en": "precision polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精准农业",
+   "en": "precision agriculture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准营销",
+   "en": "precision marketing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准治理",
+   "en": "precision governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准化服务",
+   "en": "precision services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准监督",
+   "en": "precision supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准医疗",
+   "en": "precision medicine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慢射",
+   "en": "precision shooting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慢射比赛",
+   "en": "precision stage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准度",
+   "en": "sighting\",\"precision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准招商",
+   "en": "precision investment attraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能精准执行",
+   "en": "intelligent precision execution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“六个精准”",
+   "en": "the “Six Precisions” in poverty alleviation (precision of target, measures to the household, use of funds, stationing of first village secretary, and effect of poverty alleviation)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节奏",
+   "en": "cadence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节奏",
+   "en": "cadence\",\"rhythm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在索引",
+   "en": "presence index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟在场",
+   "en": "virtual presence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续进攻",
+   "en": "remise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步频",
+   "en": "cadence\",\"stride rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准医学",
+   "en": "precision medicine",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "一种将个人基因组成、环境与生活习惯差异考虑在内的疾病预防和治疗的模式。"
+  },
+  {
+   "cn": "精准发酵",
+   "en": "precision fermentation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.20",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "利用细菌、酵母或真菌等微生物通过控制生产系统生产特定目标产品的技术，包括精准工业（微生物）发酵生产的蛋白质和氨基酸、酶、维生素、色素、具有生物活性的物质（如功能多糖、脂肪等）。"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "通过对围绕目标人群的社会、流行病学、教育生态学以及政策等因素进行综合评价后，找出相关影响项目成败的促进与制约因素，规划与评价项目的启动、实施和完成项目的具有灵活性、可扩展性的循证模式。"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.2.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "美国学者劳伦斯·格林提出的健康教育模式，是从“结果入手”，用演绎的方法进行思考，即从最终的结果追溯到最初的起因的模式，包括了两个组成部分：诊断阶段和执行阶段。"
+  },
+  {
+   "cn": "消毒产品配方",
+   "en": "recipe of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.7",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品中各种原料的组成和比例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

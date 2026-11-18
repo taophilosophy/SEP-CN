@@ -1,0 +1,702 @@
+{
+ "key": "genetic assimilation",
+ "term": "genetic assimilation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:43:19+00:00",
+ "status": "ok",
+ "note": "variant=genetic assimilation; 审定公布名词库=932; 海峡两岸名词对照库=480; 其他来源数据库=22; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "同化混染作用",
+   "en": "assimilation",
+   "source": "地质学名词",
+   "wordNumber": "04.01.056",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩浆在岩浆房内或上升过程中，熔化围岩及其捕虏体(同化)，或与其发生反应，导致岩浆成分发生变化(混染)的过程。包括熔化、结晶或重结晶、反应作用、交代叠加作用等。其产物称为“混染岩(hybrid)”。"
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0009",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "生物体吸收外界成分并转化成为自身成分的过程。如摄取营养物转变成细胞内有功能的成分。"
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation",
+   "source": "兽医学名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "机体从外界环境中摄取各种营养物质，经过改造或转化成大分子细胞组分，以提供建造自身结构所需要的原料和能量的过程。"
+  },
+  {
+   "cn": "文化同化",
+   "en": "assimilation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "个体或群体被完全融入并适应另一群体的社会主流文化、掌握其语言、接受其主流价值和态度，甚至调整其行为习惯以与社会相适应的过程。这个词常用于形容移民进入一个宿主文化之后被迫对全新文化进行适应的过程。有观点"
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation ",
+   "source": "草学名词",
+   "wordNumber": "2.0304",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "行为医学名词",
+   "wordNumber": "13.045",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "个体运用已有图式解释外部世界的过程。"
+  },
+  {
+   "cn": "同化量",
+   "en": "assimilation",
+   "source": "动物学名词",
+   "wordNumber": "7.0546",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "某一营养级从外环境中得到的全部化学能。对生产者（一般为绿色植物）来说是指在光合作用中所固定的日光能，即总初级生产量；对于消费者（一般为动物）来说，表示消化管吸收的能量及呼吸消耗的能量；对分解者（一般为"
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "动物学名词",
+   "wordNumber": "1.0181",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "动物体吸收外界物质并转化成为自身成分的过程。如摄取营养物转变成细胞内有功能的成分。"
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation",
+   "source": "畜牧学名词",
+   "wordNumber": "07.416",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_营养生化",
+   "subjectName": "营养生化",
+   "publishYear": "2020",
+   "definition": "生物机体利用消化吸收获得的简单营养物质重新合成有机物和贮存能量的过程。是新陈代谢的一个重要过程。"
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "生理学名词",
+   "wordNumber": "09.015",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "植物学名词",
+   "wordNumber": "11.0243",
+   "subjectFullName": "植物学_植物生理学_植物光合作用",
+   "subjectName": "植物光合作用",
+   "publishYear": "2019",
+   "definition": "生物体吸收环境中的物质，并转化加工成为自身成分的过程。如摄取营养物转变成细胞内有功能的成分。"
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "心理学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为同化是指个体运用已有的图式解释外部世界的过程。"
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation",
+   "source": "微生物学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "生物体把从外界环境中获取的营养物质转变成自身的组成物质，并且储存能量的过程。"
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "语言学名词",
+   "wordNumber": "03.059",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "一种语流音变现象。语流中两个原本不相同或不相近的音在发音时相互影响，导致这两个音变得相同或相似。例如普通话的“羡慕”［{￥ 03.059-1Iεn mu］连读时变为［{￥03.059-2Iεm mu］"
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "化学工程名词",
+   "wordNumber": "06.047",
+   "subjectFullName": "化学工程_生物化学工程_生物化学工程",
+   "subjectName": "生物化学工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "同化作用",
+   "en": "assimilation",
+   "source": "地质学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同化[产]物",
+   "en": "assimilate",
+   "source": "植物学名词",
+   "wordNumber": "11.0347",
+   "subjectFullName": "植物学_植物生理学_植物同化物运输与分配",
+   "subjectName": "植物同化物运输与分配",
+   "publishYear": "2019",
+   "definition": "植物通过同化作用形成的产物。"
+  },
+  {
+   "cn": "类化",
+   "en": "nalogization,assimilation",
+   "source": "语言学名词",
+   "wordNumber": "02.053",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "汉字在发展演变过程中，形体的某一部分与其自身另一部分或与其他汉字的某一部分产生类同形变的演变现象。"
+  },
+  {
+   "cn": "碳同化[作用]",
+   "en": "carbon assimilation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0165",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_糖代谢_糖无氧和有氧氧化",
+   "subjectName": "糖无氧和有氧氧化",
+   "publishYear": "2024",
+   "definition": "生物体利用二氧化碳固定到细胞内形成各种含碳化合物的过程。"
+  },
+  {
+   "cn": "技术消化",
+   "en": "technology assimilation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.128",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "应用于引进技术方面，是指技术由一方向另一方转移中，接受方对技术的学习、掌握和创新的过程。"
+  },
+  {
+   "cn": "遗传同化",
+   "en": "genetic assimilation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "assimilation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同化[作用]",
+   "en": "assimilation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同化［作用］",
+   "en": "assimilation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同化[产]物",
+   "en": "assimilate\",\"assimilation product",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "氨同化[作用]",
+   "en": "ammonium assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "氮同化",
+   "en": "nitrogen assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光同化作用",
+   "en": "photo-assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "磷酸盐同化作用",
+   "en": "phosphate assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "磷同化",
+   "en": "phosphorus assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硫酸盐同化",
+   "en": "sulfate assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硫同化",
+   "en": "sulfur assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "碳同化",
+   "en": "carbon assimilation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法律趋同化",
+   "en": "legal assimilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因检测大数据",
+   "en": "genetic testing big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创世区块",
+   "en": "genesis block",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动能",
+   "en": "kinetic energy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同化",
+   "en": "assimilation",
+   "source": "马克思主义",
+   "wordNumber": "01.0096",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原为生物学名词，指生物体把从外界环境中获取的营养物质转变成自身的组成物质,并且储存能量的变化过程。在马克思主义哲学中，同化是指事物的肯定方面的一种表现，同化就是把非己变成自己的过程从而保持事物的存在。"
+  },
+  {
+   "cn": "社会同化",
+   "en": "social assimilation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "不同文化在碰撞、接触和互动中逐渐融合为一个同质文化的过程。亦指不同社会成员在接触、交往和共同生活中相互影响或受到强势一方的影响，在文化和风俗习惯上逐渐变得相近或相同的社会现象。一般经历一个由表及里、由"
+  },
+  {
+   "cn": "文化同化",
+   "en": "cultural assimilation",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不同文化相互接触的过程中，一种（或一类）文化把另一种（或另一类）文化全部或部分吸收，从而使其融合为同质文化的过程。文化同化的一般规律是先进文化同化落后文化，本土文化同化外来文化，多数人的文化同化少数人"
+  },
+  {
+   "cn": "文化同化",
+   "en": "cultural assimilation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0038",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同文化特质的个体、群体经长时期的接触，其中一方单方面地朝另一方接近融为同质文化的一种文化调整方式。文化同化可分为两类：一类是依靠强制性手段甚至武力而实现的文化同化，属强制性的；另一类是指通过自然的接"
+  },
+  {
+   "cn": "语言同化",
+   "en": "language assimilation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0154",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一种语言排挤或代替其他语言，从而使被排挤、被代替的语言趋于消亡的现象。"
+  },
+  {
+   "cn": "民族同化",
+   "en": "ethnic assimilation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0015",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "一个民族或其一部分丧失本民族特征而变成另一个民族的现象。根据期间有无强制行为或使用暴力，民族同化可分为强制同化和自然同化。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射对受照者后代产生的随机效应。电离辐射通过损伤亲代生殖细胞的遗传物质，使其遗传性状的表型改变在子代中显现出来。"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "由医学遗传学专业人员或咨询师就咨询者提出的家庭中遗传性疾病的发病原因、遗传方式、诊断、预后、复发风险、防治等问题予以解答，并就咨询者提出的婚育问题提出建议和具体指导的服务。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "受照射个体生殖细胞遗传物质发生突变，对胚胎或子代产生的效应。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "人类古老的遗传基因无法适应因当代社会生存环境变化而迅速改变的生活方式及饮食习惯，产生的错位现象。"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "利用现代分子生物学技术与显微操作技术，在受精卵分裂为8细胞时取出1-2个细胞，或在囊胚形成时取3-10个滋养层细胞进行活检，进行特定遗传学性状检测的辅助生殖技术。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "胚胎植入前遗传学诊断",
+   "en": "pre-implantation genetic diagnosis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在体外受精的胚胎发育到4-8细胞期，通过显微技术取出单个卵裂球细胞，进行遗传学分析，以明确是否有遗传缺陷的方法。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  },
+  {
+   "cn": "转基因食品",
+   "en": "genetically modified food, GMO food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.15",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "利用基因工程技术改变基因组构成，用于农业生产和农产品加工的动物、植物和微生物及其产品，此处的食品为食品及其原料（食用农产品）与食品添加剂（含营养强化剂）。"
+  },
+  {
+   "cn": "出生缺陷遗传咨询",
+   "en": "genetic counseling for birth defect prevention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.2.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "咨询师和咨询对象就某遗传病在家庭中的发生情况、再生风险、诊断和防治等问题交谈，给予咨询对象婚姻和生育指导的保健措施。咨询服务适用于具有遗传病史或风险因素的对象，也适用于广大健康生育年龄的男女。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

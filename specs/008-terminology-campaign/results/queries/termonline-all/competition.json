@@ -1,0 +1,812 @@
+{
+ "key": "competition",
+ "term": "competition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:48+00:00",
+ "status": "ok",
+ "note": "variant=competition; 审定公布名词库=488; 海峡两岸名词对照库=234; 其他来源数据库=128; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "竞争",
+   "en": "competition ",
+   "source": "草学名词",
+   "wordNumber": "2.0095",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "动物学名词",
+   "wordNumber": "7.0421",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "同种或不同种生物因争夺食物、空间等资源而发生的负面影响。分为种内竞争和种间竞争两种。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "植物学名词",
+   "wordNumber": "13.0177",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "同种或异种生物之间对包括生存空间在内的资源的争夺现象。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "核医学名词",
+   "wordNumber": "02.0357",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "一种物质的存在影响或抑制另一种具有相似亲和力物质特异结合的现象。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "林学名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "同种或不同种生物因争夺食物、空间等资源而发生的负面影响。分为种内竞争和种间竞争两种。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "心理学名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "不同个体或群体为同一个目标展开争夺，以实现只有利于自己的结果的行为或意向。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.367",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "能使薪酬管理充满活力，提高激励效应的推动力。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "生态学名词",
+   "wordNumber": "05.160",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "同种或不同种生物因争夺食物、空间等资源而发生的负面影响。分为种内竞争和种间竞争两种。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "昆虫学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "同种或不同种昆虫个体因争夺空间、食物等环境资源而发生的生存斗争。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "数学名词",
+   "wordNumber": "011.0411",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "竞争力",
+   "en": "competitiveness",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.076",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "与竞争对手之间在包括国家政策、市场供求、工艺技术、系统配套、环境、人力资源以及投资、成本、价格等方面的优劣势进行对比分析，是项目综合实力的体现。"
+  },
+  {
+   "cn": "公开招标",
+   "en": "competitive tendering,competitive bidding",
+   "source": "土木工程名词",
+   "wordNumber": "13.006",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "竞争平衡",
+   "en": "competition equilibrium ",
+   "source": "草学名词",
+   "wordNumber": "2.0099",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "竞争系数",
+   "en": "competition coefficient ",
+   "source": "草学名词",
+   "wordNumber": "2.0101",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "竞争学说",
+   "en": "competition theory ",
+   "source": "草学名词",
+   "wordNumber": "2.0102",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥",
+   "en": "competition exclusion",
+   "source": "动物学名词",
+   "wordNumber": "7.0424",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "生态位上相同的两个物种不可能在同一地区内长期共存，如果生活在同一地区内，由于激烈竞争，它们之间必然出现栖息地、食性、活动时间或其他特征上的生态位分化。"
+  },
+  {
+   "cn": "竞争环境",
+   "en": "competition environment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.195",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_规划及项目的评估",
+   "subjectName": "规划及项目的评估",
+   "publishYear": "2021",
+   "definition": "企业所在行业及其竞争者的参与、竞争程度，以及竞争优劣势。"
+  },
+  {
+   "cn": "竞争性抑制",
+   "en": "competition inhibition",
+   "source": "生理学名词",
+   "wordNumber": "02.090",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争电量",
+   "en": "competition energy",
+   "source": "电力名词",
+   "wordNumber": "06.275",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "需要通过协商、撮合、竞价、拍卖等交易方式确定的交易电量。"
+  },
+  {
+   "cn": "竞争模拟",
+   "en": "competition simulation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.147",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种计算机仿真模拟培训工具。根据所模拟的企业生产经营活动的内在和外在条件，综合运用所掌握的知识进行决策，参与市场竞争，以培养与提高人们的决策能力。"
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "竞争性",
+   "en": "competitiveness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "竞争力",
+   "en": "competitiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "种间竞争",
+   "en": "interspecific competition\",\"interspecies competition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争[能]力",
+   "en": "competitive ability\",\"competitive capacity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争优势",
+   "en": "competitive dominance\",\"competitive advantage",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争假说",
+   "en": "competition hypothesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争平衡",
+   "en": "competition equilibrium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争曲线",
+   "en": "competition curve",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争压力",
+   "en": "competition pressure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争学说",
+   "en": "competition theory",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争假说",
+   "en": "competition hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争压力",
+   "en": "competition pressure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争平衡",
+   "en": "competition equilibrium",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "竞争曲线",
+   "en": "competition curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单套比赛",
+   "en": "competition III\",\"pattern competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体比赛",
+   "en": "competition I\",\"group competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛日程表",
+   "en": "competition calendar\",\"competition program",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场",
+   "en": "competition field\",\"competition hall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"meet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场地",
+   "en": "competition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛台",
+   "en": "competition ring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场地",
+   "en": "competition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛馆",
+   "en": "competition hall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛区",
+   "en": "competition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场地",
+   "en": "competition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞赛主任",
+   "en": "competition director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞争",
+   "en": "competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0219",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经营生产者之间的一种关系。有商品经济就必然存在着竞争。竞争的客观基础是商品生产经验者之间的经济利益上的争夺。"
+  },
+  {
+   "cn": "社会竞争",
+   "en": "social competition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或社会群体之间为了各自的利益或目的展开角逐。分良性与恶性两类。前者对社会发展有益，后者则起阻碍作用。"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0182",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“垄断”相对。没有任何垄断成分，企业经营者可以自由投资、转移和商品买卖的竞争。它是垄断前资本主义经济的主要特征。自由竞争加速了资本的积聚和集中，引起生产集中，发展到一定阶段就产生垄断。"
+  },
+  {
+   "cn": "资本主义竞争",
+   "en": "capitalist competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0320",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一般情况下指的是资本主义自由竞争，和垄断相对应。从16世纪到19世纪70年代，是资本主义自由竞争阶段，部门内部的竞争使个别资本家获得超额剩余价值。部门之间的竞争，资本在各部门之间自由转移，形成平均利润"
+  },
+  {
+   "cn": "社会主义竞赛",
+   "en": "socialist competition",
+   "source": "马克思主义",
+   "wordNumber": "03.0289",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家的群众运动。通过激发工人的理想信念和情操、社会荣誉感、职业自豪感、爱国主义、赶超资本主义国家愿望等精神动力，运用奖状、工厂奖旗、光荣榜、各种称号、奖章和勋章等奖励，激励工人更好地劳动。社会"
+  },
+  {
+   "cn": "生命竞赛",
+   "en": "competition of life",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.3",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "人类不仅要和其他物种在自然界中竞争，还要和其他人类在社会中竞争。这一观点将那些不择手段发家致富的美国19世纪的产业大亨们成功地合理化，他们是“自然选择的结果”，他们会推动社会进步。"
+  },
+  {
+   "cn": "竞争机制",
+   "en": "mechanism of competition",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.2",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "通过竞争实现优胜劣汰的一种市场经济内在功能机制。在市场机制中，各个市场主体为自身利益而相互间开展竞争，由此形成的内部必然联系和影响。"
+  },
+  {
+   "cn": "垄断竞争市场",
+   "en": "monopolistic competition market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2.3",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "许多厂商生产出售相近但具有质量差别的商品市场结构，介于完全竞争和完全垄断两个极端市场结构的中间状态。"
+  },
+  {
+   "cn": "民间竞技",
+   "en": "folk competitive games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种以竞赛体力、技巧、技艺为内容的娱乐活动。争强斗胜是民间竞技的根本特性。民间竞技从性质表现和形态划分，分力量型、技巧型、技艺型三类。"
+  },
+  {
+   "cn": "完全竞争市场",
+   "en": "perfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "竞争不受任何阻碍、干扰和控制的市场结构。市场价格由市场供给和需求共同决定，每一个供给者和需求者都是价格的接受者。市场供给与需求趋于平衡，资源配置达到有效率状态。"
+  },
+  {
+   "cn": "不完全竞争市场",
+   "en": "imperfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "完全竞争市场以外的所有的或多或少带有一定垄断因素的市场。包括完全垄断市场、寡头垄断市场和垄断竞争市场三种类型。卫生服市场不能保持充分竞争，市场作用离开最优状态，因此发生市场失灵。"
+  },
+  {
+   "cn": "医际竞争关系",
+   "en": "competition relationship between medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.104",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员基于公开、公平、公正的原则，在工作中形成的比、学、赶、超的职业关系。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体成分发育",
+   "en": "body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "身体成分在儿童青少年时期随时间不断变化和完善的过程。"
+  },
+  {
+   "cn": "乳成分标准化",
+   "en": "milk composition standardization",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.25",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "通过调整原料乳中脂肪、蛋白和非脂肪乳固体之间的比例关系，使其符合产品的要求，之后进行加工的方法。"
+  },
+  {
+   "cn": "资本价值构成",
+   "en": "value composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0160",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不变资本同可变资本之间的比例，即资本中用于生产资料的价值和用于劳动力的价值的比例。资本的价值构成的高低主要取决于资本的技术构成。"
+  },
+  {
+   "cn": "资本技术构成",
+   "en": "technical composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0161",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本总量中生产资料数量同劳动力数量之间的比例，这种比例的大小，取决于生产技术的发展水平，故称为资本技术构成。资本技术构成反映劳动生产率的水平，表现为与资本价值构成。"
+  },
+  {
+   "cn": "资本有机构成",
+   "en": "organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0162",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由资本技术构成决定并反映资本技术构成变化的资本价值构成，用不变资本同可变资本的百分比来表示。资本有机构成随着资本积累的增加和生产技术的发展而不断提高。"
+  },
+  {
+   "cn": "体成分模型",
+   "en": "model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "反映人体内在结构成分特征的形式化表达。"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

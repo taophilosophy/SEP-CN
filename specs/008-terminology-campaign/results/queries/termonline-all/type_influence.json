@@ -1,0 +1,732 @@
+{
+ "key": "type influence",
+ "term": "type influence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:33:33+00:00",
+ "status": "ok",
+ "note": "variant=type influence; 审定公布名词库=3543; 海峡两岸名词对照库=726; 其他来源数据库=52; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "影响者",
+   "en": "influencer",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0237",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "组织购买中心中的那些影响购买决策的人，他们通常帮助确定产品规格并为评价备选项提供信息。"
+  },
+  {
+   "cn": "感化",
+   "en": "influencing",
+   "source": "教育学名词",
+   "wordNumber": "01.237",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "用言行的影响，使受教育者受到触动，并在立场观点、思想情感和行为表现上发生转化的一种德育方法。"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "source": "动物学名词",
+   "wordNumber": "2.0118",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "一个科级、属级或种级分类单元的定义特征及正确命名的实物参照标准。是一个分类单元的核心和命名的基础。种的模式是一个或一组标本，属的模式是一个种，科的模式是一个属。"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0299",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "由具有共同特征的事物所形成的集合，其名称反映了这些事物的种类。在计算机语言及程序中最常见的是数据类型，并常常作为其简称。但除此之外还可以包括模块、构件、作业、过程等其他事物的类型。"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "source": "微生物学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "分类单元的名称所永久依附的实物要素，包括标本、图或在代谢不活跃状态下保存的培养物等。"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "source": "语言学名词",
+   "wordNumber": "01.162",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在数理语言学中，语言单位的类别称为“型”，而这些类别的实例或个别单位则称为“例”(token)。型—例比率（type token ratio）是在一个语篇样品中不同词（型）的全部数目与实际出现的词（例"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "source": "数学名词",
+   "wordNumber": "02.0097",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.097",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "一种通过沟通达成彼此目标的，对交往行为与关系产生相互作用的复杂过程。有能力的沟通者可以使用诸如劝说、奖赏、威胁、榜样、专业性、投其所好、恳求等方式影响他人的态度、行为与观念。"
+  },
+  {
+   "cn": "影响力经济",
+   "en": "influence economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.068",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "将影响力这种无形资产转化为商业价值的一种经济形态。体现为传媒的产品受众的价值转换为广告价值。"
+  },
+  {
+   "cn": "温度影响",
+   "en": "temperature influence",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0313",
+   "subjectFullName": "地球物理学_地热学_应用地热",
+   "subjectName": "应用地热",
+   "publishYear": "2022",
+   "definition": "因温度变化所产生的影响。 "
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.371",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由于雌性亲本中核基因的某些产物积累在卵细胞质中，使子代表型不由自身基因型决定，而出现与母体表型相同的现象。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "电力名词",
+   "wordNumber": "02.157",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "测量主体之外的值,其变化会影响标示值与测量结果之间的关系。"
+  },
+  {
+   "cn": "影响系数",
+   "en": "influence coefficient",
+   "source": "电力名词",
+   "wordNumber": "02.170",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "由影响量引起的改变量与影响量变化的比。"
+  },
+  {
+   "cn": "学术影响力",
+   "en": "academic influence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "某一段时期内期刊、著者等对相关学术研究领域内科研活动的影响范围和影响深度。"
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "植物学名词",
+   "wordNumber": "10.0139",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "子代表型不是由子代自身基因型所决定，而是受到来自母体的核基因编码的产物影响，表现出与母体相同性状的现象。"
+  },
+  {
+   "cn": "反式影响",
+   "en": "trans influence",
+   "source": "化学名词",
+   "wordNumber": "02.1539",
+   "subjectFullName": "化学_有机化学_金属有机化学",
+   "subjectName": "金属有机化学",
+   "publishYear": "2016",
+   "definition": "1个配体对其反位上的另一个配体与中心金属原子之间化学键性质的影响。例如，在以下三种铂(II)的配合物中，Cl、<img src='/root/syzx/static/spz/huaxue2.02.15"
+  },
+  {
+   "cn": "影响图",
+   "en": "influence diagram",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0400",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "表示因果关系及其影响、事件的时间顺序，以及各种可变因素和结果之间其他关系的形势图。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "在直接测量中不影响实际被测的量，但会影响示值与测量结果关系的量。"
+  },
+  {
+   "cn": "少数人影响",
+   "en": "minority influence",
+   "source": "心理学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "群体中少数成员影响多数成员的态度、立场、观念的现象。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.437",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "不是被测量但对被测量的测量结果有影响的量。例如，使用非密封型电离室测量由电离辐射产生的电离电荷时电离室空腔内空气的温度和气压。"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感应理论",
+   "en": "influence theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴影响",
+   "en": "peer influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "少数人影响",
+   "en": "minority influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反式影响",
+   "en": "trans influence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "森林影响",
+   "en": "forest influence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外在影响",
+   "en": "exogenic influences",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "O-type device型器件",
+   "en": "O-type device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type\",\"orthognathous type",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "行为影响观点",
+   "en": "behavioral influence perspective",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "从性遗传",
+   "en": "sex-influenced inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "极型",
+   "en": "polar type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "局浆分泌型",
+   "en": "merocrine type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前毛细血管型",
+   "en": "precapillary type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型",
+   "en": "data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种类法定",
+   "en": "statutory types",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂数据类型",
+   "en": "complex data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型标准",
+   "en": "data type standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "L型冠状病毒",
+   "en": "L-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S型冠状病毒",
+   "en": "S-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "B分",
+   "en": "‘B’ type mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "A分",
+   "en": "‘A’ type mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "S类影响量",
+   "en": "influence quantity of type S",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "使指示值产生偏差的影响量，该偏差与指示值无关。"
+  },
+  {
+   "cn": "F类影响量",
+   "en": "influence quantity of type F",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在响应中影响指示值变化的影响量。"
+  },
+  {
+   "cn": "体型发育种族影响",
+   "en": "racial influence on body type development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族存在鲜明外形特征差异的现象。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "4.1.16.1  权威人格  authoritarian personality"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "表观遗传影响",
+   "en": "epigenetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "环境因素和细胞内的遗传物质之间发生交互作用，使生物在环境不断变化的情况下，能够维持遗传序列稳定特征的过程。"
+  },
+  {
+   "cn": "有机物影响试验",
+   "en": "organic influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同种类和浓度的有机物对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "pH值影响试验",
+   "en": "pH influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价pH值对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "温度影响试验",
+   "en": "temperature influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同温度对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "社会影响理论",
+   "en": "social influence theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "埃文斯（Evans）提出的通过提升儿童青少年对不良社会影响（如同伴压力、家庭或媒体的不良影响）的应对能力，以预防健康危险行为的干预理论。"
+  },
+  {
+   "cn": "型式检验",
+   "en": "type inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品各项指标的全面检验，以评定产品质量是否全部符合标准和达到安全性、有效性要求。"
+  },
+  {
+   "cn": "文化类型",
+   "en": "culture type",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "在文化分类中，一种由经过选择的、相同整合程度的各文化核心特征丛(constellations of core features）所合成的文化结构或文化系统形式。美国人类学家林顿(R.Linton）等人"
+  },
+  {
+   "cn": "组织类型",
+   "en": "organizational type",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.7.1  营利组织  for-profit organization"
+  },
+  {
+   "cn": "Ⅰ型超敏反应",
+   "en": "type Ⅰhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "已致敏的机体再次接触相同抗原后在数分钟内所发生的超敏反应。"
+  },
+  {
+   "cn": "II型超敏反应",
+   "en": "type Ⅱhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "IgG或IgM类抗体与细胞表面相应抗原或基质抗原结合，激活补体系统并在巨噬细胞和中性粒细胞参与下，造成组织损伤的超敏反应。"
+  },
+  {
+   "cn": "气质类型",
+   "en": "temperament type",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对气质按照体液、体型、血型、神经活动类型等来进行的分类。"
+  },
+  {
+   "cn": "模式株",
+   "en": "type strain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.52",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "至少定义到属或种水平的菌株。按期特征进行分类和描述，有明确的的来源"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

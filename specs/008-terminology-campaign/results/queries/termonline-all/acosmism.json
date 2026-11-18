@@ -1,0 +1,62 @@
+{
+ "key": "acosmism",
+ "term": "acosmism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:42:25+00:00",
+ "status": "ok",
+ "note": "variant=acosmism; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "宇宙[演化]论",
+   "en": "cosmism",
+   "source": "物理学名词",
+   "wordNumber": "11.0010",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原子论",
+   "en": "atomism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "古希腊和古罗马时期形成并发展起来的、关于物质的间断性和离散性结构的，观照和理解世界本体的哲学学说。认为原子是一种不可解构的具有客观实在性的微粒。原子间机械并列，结合形式无限多样。"
+  },
+  {
+   "cn": "原子论",
+   "en": "atomism",
+   "source": "心理学名词",
+   "wordNumber": "04.074",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种哲学理论。主张将复杂现象分析为固定不变的粒子(或单元)的组合。"
+  },
+  {
+   "cn": "原子论",
+   "en": "atomic theory,atomism",
+   "source": "物理学名词",
+   "wordNumber": "07.0005",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑原子论",
+   "en": "logical atomism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.080",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由罗素、维特根斯坦提出的哲学体系。认为世界由大量原子事实以及其关系组成；复杂命题可由原子命题和逻辑连词组成。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

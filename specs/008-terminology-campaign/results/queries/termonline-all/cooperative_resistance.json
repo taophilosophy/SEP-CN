@@ -1,0 +1,772 @@
+{
+ "key": "cooperative resistance",
+ "term": "cooperative resistance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:44:07+00:00",
+ "status": "ok",
+ "note": "variant=cooperative resistance; 审定公布名词库=1807; 海峡两岸名词对照库=534; 其他来源数据库=120; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "动物学名词",
+   "wordNumber": "7.0427",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "动物因某些共同、相互或潜在的利益而协同工作或共同行动的过程。"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "心理学名词",
+   "wordNumber": "07.113",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "不同个体或团体之间为了共同目标而协同活动。"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "大分子上相同的或不同的配体结合部位之间的相互作用，致使一个配体结合于分子上的一个部位能影响下一个配体与同一分子上其他部位结合的特性。如血红蛋白亚基与氧结合致使构象改变影响其他亚基与氧结合。"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "生理学名词",
+   "wordNumber": "03.697",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合作性",
+   "en": "cooperativity",
+   "source": "生物物理学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "相对于彼此无关且独立作用的元素对系统的作用而言，彼此有关且并非独立的多个完全相同或近乎相同元素对系统的作用表现出作用增强和相互合作的现象。"
+  },
+  {
+   "cn": "合作采访",
+   "en": "cooperative acquisition,cooperative purchase",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.333",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "在一定地区范围内，由两个或两个以上图书馆在自愿或约定的基础上组织起来，通过分工合作，协调采访工作，以保障文献资源收藏的完整性，避免重复或缺藏，为资源共享创造条件的一种文献资源采购方式。"
+  },
+  {
+   "cn": "合作经济",
+   "en": "cooperative economy",
+   "source": "农学名词",
+   "wordNumber": "19.209",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "劳动者通过自愿联合、民主管理及共同经营来获得服务和利益的经济形式。"
+  },
+  {
+   "cn": "合作金融",
+   "en": "cooperative finance",
+   "source": "农学名词",
+   "wordNumber": "19.252",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "按照合作制原则形成的互助互利的信用活动形式。"
+  },
+  {
+   "cn": "协同部位",
+   "en": "cooperative site",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0244",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "大分子中参与协同作用的部位。如别构酶与底物或调节物相结合的部位。"
+  },
+  {
+   "cn": "合作出版",
+   "en": "cooperative publishing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.040",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "其他机构出资，同出版机构合作推出出版物的出版方式。"
+  },
+  {
+   "cn": "农业合作社",
+   "en": "agricultural cooperative",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "新中国成立初期，在土地私有制的条件下，农民自发组建的小型合作、互帮互助的协作组织。"
+  },
+  {
+   "cn": "合作博弈",
+   "en": "cooperative game",
+   "source": "经济学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人之间能够达成有约束力协议的博弈。在合作博弈中，通常引入特征函数进行分析，特征函数是关于参与人之间组成的联盟的函数，表明联盟作为一个参与人在博弈中所能获得的最高支付。"
+  },
+  {
+   "cn": "信用合作社",
+   "en": "credit cooperative",
+   "source": "经济学名词",
+   "wordNumber": "12.090",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "由个人集资联合组成，具有互助性质的合作金融组织。"
+  },
+  {
+   "cn": "合作效应",
+   "en": "cooperative effect",
+   "source": "物理学名词",
+   "wordNumber": "08.1510",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作参考咨询",
+   "en": "cooperative reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.196",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "多家参考咨询服务机构通过一定的规范和协议联合起来进行的参考咨询服务。在这种咨询模式下，当本地图书馆无法解答用户咨询问题时，可以依据咨询问题的学科、专题将咨询问题转交给其他具有固定协议关系的参考咨询服务"
+  },
+  {
+   "cn": "合作竞争",
+   "en": "cooperative competition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "多家企业在市场竞争中为达到双赢、非零和博弈的结果，企业之间既存在合作，又存在竞争的一种战略形态。是企业联盟、网络组织发展的重要基础。它描述了商场博弈者之间的竞争合作关系，是全球经济环境和企业竞争态势深"
+  },
+  {
+   "cn": "合作发光",
+   "en": "cooperative luminescence",
+   "source": "物理学名词",
+   "wordNumber": "08.2245",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作扩散",
+   "en": "cooperative diffusion",
+   "source": "物理学名词",
+   "wordNumber": "08.1511",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作取向",
+   "en": "cooperative orientation",
+   "source": "物理学名词",
+   "wordNumber": "08.1512",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作现象",
+   "en": "cooperative phenomenon",
+   "source": "物理学名词",
+   "wordNumber": "05.0994",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作,协作",
+   "en": "cooperation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "合作观测者",
+   "en": "cooperative observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合作吸附",
+   "en": "cooperative adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合作游戏",
+   "en": "cooperative play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作学习",
+   "en": "cooperative learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作取向",
+   "en": "cooperative orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作动机",
+   "en": "cooperative motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作狩猎",
+   "en": "cooperative hunting",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同相互作用",
+   "en": "cooperative interaction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同结合",
+   "en": "cooperative binding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同部位",
+   "en": "cooperative site",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同转座",
+   "en": "cooperative transposition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同多任务处理",
+   "en": "cooperative multitasking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同计算",
+   "en": "cooperative computing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同检查点",
+   "en": "cooperative checkpoint",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协作处理",
+   "en": "cooperative processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字合作",
+   "en": "Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约合作",
+   "en": "contractual cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人合作",
+   "en": "robot cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合作制度论",
+   "en": "cooperative systems theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作组织论",
+   "en": "cooperative organization theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农村合作金融",
+   "en": "rural cooperative finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化合作",
+   "en": "international standardization cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务合作",
+   "en": "e-commerce cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作主义",
+   "en": "spirit of cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "南南合作",
+   "en": "South-South cooperation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上海合作组织",
+   "en": "Shanghai Cooperation Organization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "人与人、群体与群体之间为达到共同的目标而采取的相互配合、相互协同的行动方式。社会互动的基本类型之一。"
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "source": "马克思主义",
+   "wordNumber": "02.0129",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "许多人在同一生产过程中，或在不同的但互相联系的生产过程中，有计划地一起协同劳动。有不实行分工的简单协作和实行分工的复杂协作两种形式。这是资本主义生产的起点。"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "广义指个人或企业在自愿互利的基础上进行各种生产要素的联合的一种成员共有的集体所有制产权或组织管理形式。狭义指按合作社基本原则建立的经济组织制度，其典型形态是现代合作社，它既是集体所有、实行民主管理的经"
+  },
+  {
+   "cn": "合作工厂",
+   "en": "cooperative plant",
+   "source": "马克思主义",
+   "wordNumber": "02.0246",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "十九世纪英国工人在空想社会主义者欧文的思想影响下创办起来的。合作工厂中，生产资料归联合起来的工人集体占有，工人在统一的指挥和管理下从事社会化的大生产。合作工厂内部“积极扬弃”了资本和劳动之间的对立，但"
+  },
+  {
+   "cn": "合作社经济",
+   "en": "cooperative economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0343",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "部分个体农民和手工业者按照自愿互利原则组织起来的经济形式，是劳动群众的集体经济组织。根据其公有化程度，分别属于半社会主义性质或社会主义性质。是无产阶级领导下的新民主主义国家用以帮助、领导和逐步改造广大"
+  },
+  {
+   "cn": "合作社",
+   "en": "cooperative society",
+   "source": "马克思主义",
+   "wordNumber": "03.0087",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者根据自愿互助的原则联合起来进行个人出资、合作生产经营、按劳分配为主、民主管理的一种经济组织。"
+  },
+  {
+   "cn": "合作劳动",
+   "en": "cooperative movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0088",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动群众根据自愿互助的原则联合起来创建合作社的探索实践。"
+  },
+  {
+   "cn": "合作医疗",
+   "en": "cooperative medicine",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.078",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以群众自愿互助为基础，依靠集体经济，实行互济互助的一种福利性质的医疗保障制度。"
+  },
+  {
+   "cn": "社会合作",
+   "en": "social cooperation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "个人与个人、个人与群体、群体与群体之间为了共同目的或出于共同利益，按某种互助协同原则进行的配合协调的共同行动方式。社会和谐的形式之一。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对某种外源化学物产生的抵抗性，即使高剂量暴露也不会产生明显毒作用的现象。"
+  },
+  {
+   "cn": "农业生产合作社",
+   "en": "agricultural producers cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0328",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在无产阶级专政建立以后，劳动农民在共产党的领导下，按照自愿互利原则组织的集体经济组织。十月革命之后，为了与以粮食税代替余粮收集制相适应，列宁提出恢复和发展农业合作社的问题。在中国，按照生产资科公有化的"
+  },
+  {
+   "cn": "手工业供销生产合作社",
+   "en": "handicraft supplymarketingproduction cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0368",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国在手工业社会主义改造过程中，由若干个体手工业劳动者或几个手工业供销合作小组，为解决原料采购和产品推销的共同困难而组织起来的半社会主义性质的经济组织形式。"
+  },
+  {
+   "cn": "列宁合作社计划",
+   "en": "Lenin cooperative plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0273",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "十月革命胜利以后，列宁依据马克思和恩格斯关于“不能剥夺小农，必须通过示范和提供社会帮助把个体农民的私人生产和私人占有变为合作生产和占有”的思想，制订了农村社会主义改造和通过合作社吸引农民参加社会主义建"
+  },
+  {
+   "cn": "合作制的市场社会主义",
+   "en": "cooperative market socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0179",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "英国政治哲学家戴维·米勒（David Miller） 在《市场、国家和社会》中提出。主张：企业实行工人合作社，一人一票民主管理；生产资本社会所有制，企业以固定利率从投资机构借贷资金，对借贷资金有使用权"
+  },
+  {
+   "cn": "合作医疗",
+   "en": "cooperative medical system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "在各级政府的支持下，按照“风险分担，互助共济”的原则在农村社区范围内农村居民自愿筹集资金，用来补偿参与者的医疗服务费用的医疗保障措施"
+  },
+  {
+   "cn": "手工业生产合作社",
+   "en": "handicraft producers cooperatives",
+   "source": "马克思主义",
+   "wordNumber": "02.0369",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国手工业合作化的高级形式，社会主义性质的集体经济组织。合作社一般实行集中生产、统一经营、统一计算盈亏；所盈利润，除向国家纳税、提取公积金、公益金外，社员实行按劳分配。"
+  },
+  {
+   "cn": "经济协作区",
+   "en": "economic cooperation area",
+   "source": "马克思主义",
+   "wordNumber": "02.0399",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了促进有关省、自治区、直辖市之间经济协作的经济区域形式。其设计初衷是，在全国一盘棋方针指导下，尽快把协作区建成各具特色而又分工协作、互相联系的经济体系，成为中国国民经济结构中相对完整而又独立的一环。"
+  },
+  {
+   "cn": "上海合作组织",
+   "en": "Shanghai Cooperation Organization",
+   "source": "马克思主义",
+   "wordNumber": "04.0464",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前身是“上海五国”会晤机制。由中国、俄罗斯、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、乌兹别克斯坦六个成员国组成，于2001年在上海宣布成立。上海合作组织加强各成员国之间的相互信任与睦邻友好，对内遵循“互"
+  },
+  {
+   "cn": "合作机制保障",
+   "en": "cooperation mechanism assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门加强战略合作，共同完善信息共享、应急响应联动、应急资源共享、开展共训共练等方面的合作与交流，切实提高合作协同应急处置能力的工作机制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

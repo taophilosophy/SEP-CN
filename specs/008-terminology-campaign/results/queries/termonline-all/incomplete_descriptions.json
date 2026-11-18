@@ -1,0 +1,782 @@
+{
+ "key": "incomplete descriptions",
+ "term": "incomplete descriptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:37:43+00:00",
+ "status": "ok",
+ "note": "variant=incomplete descriptions; 审定公布名词库=660; 海峡两岸名词对照库=151; 其他来源数据库=32; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "摹状[词]",
+   "en": "description",
+   "source": "数学名词",
+   "wordNumber": "02.0020",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不完全性再生",
+   "en": "incomplete regeneration",
+   "source": "普通外科学名词",
+   "wordNumber": "10.028",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "组织缺损后，不能通过原组织的再生恢复原来的结构与功能，而由纤维结缔组织代替的过程。"
+  },
+  {
+   "cn": "不完全性截瘫",
+   "en": "incomplete paraplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.018",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "脊髓损伤平面以下感觉、运动或括约肌功能不完全丧失的瘫痪。脊髓最低位即骶段脊髓支配区感觉和运动功能部分保留。"
+  },
+  {
+   "cn": "不完全性四肢瘫",
+   "en": "incomplete quadriplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.019",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "创伤或疾病引起椎管内的颈段脊髓神经组织受损导致的四肢瘫痪。造成运动、感觉及大小便功能障碍，但在创伤神经平面以下仍有部分神经功能保留。"
+  },
+  {
+   "cn": "不完全性偏瘫",
+   "en": "incomplete hemiplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.024",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "同侧半身，包括面部肌肉、舌肌、上下肢的不全性瘫痪。"
+  },
+  {
+   "cn": "睾丸下降不全",
+   "en": "incomplete orchiocatabasis",
+   "source": "普通外科学名词",
+   "wordNumber": "16.088",
+   "subjectFullName": "医学_普通外科学_疝与腹壁外科",
+   "subjectName": "疝与腹壁外科",
+   "publishYear": "2026",
+   "definition": "睾丸停留在下降过程的途中而未能进入阴囊的疾病。下降不全的睾丸常位于腹股沟管内，易被误诊为腹股沟斜疝。"
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "农学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂合子中显性基因在表型中不能完全表现，杂合子的表型通常介于显性基因纯合子和隐性基因纯合子之间的现象。"
+  },
+  {
+   "cn": "不完全骨折",
+   "en": "incomplete fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.476",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨的完整性或连续性仅有部分破坏或中断的一类骨折。按照其形态可分为裂纹骨折、青枝骨折。"
+  },
+  {
+   "cn": "不全流产",
+   "en": "incomplete abortion",
+   "source": "急救医学名词",
+   "wordNumber": "03.631",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_流产",
+   "subjectName": "流产",
+   "publishYear": "2025",
+   "definition": "发生流产后，孕囊没有完全排出宫腔或者宫腔内有残留物质没有完全排出的临床表现。"
+  },
+  {
+   "cn": "不全流产",
+   "en": "incomplete abortion",
+   "source": "妇产科学名词",
+   "wordNumber": "13.015",
+   "subjectFullName": "妊娠并发症_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "妊娠物未能全部排出的流产。妊娠物部分排出宫腔，但还有部分残留于宫腔或嵌顿于宫颈口，或胎儿排出后胎盘滞留。"
+  },
+  {
+   "cn": "不完全归纳",
+   "en": "incomplete induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.140",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "以关于某类事物中的部分对象具有某种属性的判断为前提，而作出该类事物都具有某种属性的一般性结论的归纳推理。与“枚举归纳”相近。"
+  },
+  {
+   "cn": "不完全强直收缩",
+   "en": "incomplete tetanus",
+   "source": "兽医学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "给神经或肌肉两次单个或两次以上的阈上刺激，若后一次刺激落在了前一次刺激的舒张期时，出现的新收缩。表现为一条锯齿状 曲线。"
+  },
+  {
+   "cn": "不完全性",
+   "en": "incompleteness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全再生",
+   "en": "incomplete regeneration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全合同",
+   "en": "incomplete contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全票据",
+   "en": "incomplete bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全外显率",
+   "en": "incomplete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗体",
+   "en": "incomplete antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全吞噬",
+   "en": "incomplete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全冗余",
+   "en": "incomplete redundancy",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全连锁",
+   "en": "incomplete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全解码",
+   "en": "incomplete decoding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全数据",
+   "en": "incomplete data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全信息",
+   "en": "incomplete information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "燃烧不完全",
+   "en": "incomplete combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容不完整球队",
+   "en": "incomplete team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源描述框架",
+   "en": "Data Resource Description Framework (RDF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34945-2017 信息技术 数据溯源描述模型》",
+   "en": "GB/T 34945-2017 Information technology — Data provenance descriptive model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 32627-2016 信息技术 地址数据描述要求》",
+   "en": "GB/T 32627-2016 Information technology — Description requirement for address data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190910-T-469 信息安全技术 网络安全漏洞标识与描述规范》",
+   "en": "20190910-T-469 Information security technology — Vulnerability identification and description specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 28517-2012 网络安全事件描述和交换格式》",
+   "en": "GB/T 28517-2012 Network incident object description and exchange format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/IEEE 1016-2009 信息技术标准 系统设计 软件设计说明》",
+   "en": "ANSI/IEEE 1016-2009 Standard for information technology — Systems design — Software design descriptions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36343-2018 信息技术 数据交易服务平台 交易数据描述》",
+   "en": "GB/T 36343-2018 Information technology — Data transaction service platform — Transaction data description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GM/T 0001.1-2012 祖冲之序列密码算法 第1部分：算法描述》",
+   "en": "GM/T 0001.1-2012 ZUC stream cipher algorithm — Part 1: Description of the algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38619-2020 工业物联网 数据采集结构化描述规范》",
+   "en": "GB/T 38619-2020  Industrial Internet of Things — Specification of structured description for data acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 16684-1996 信息技术 信息交换用数据描述文卷规范》",
+   "en": "GB/T 16684-1996 Information technology — Specification for a data descriptive file for information interchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 29500-1-2009 信息技术 文档描述和处理语言 办公开放XML文档格式 第1部分：基本知识和标记语言参照》",
+   "en": "ANSI/INCITS/ISO/IEC 29500-1:2009 Information technology — Document description and processing languages — Office open XML file formats — Part 1: Fundamentals and markup language reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "残缺家庭",
+   "en": "incomplete family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.18",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "核心家庭中配偶一方因离婚、死亡、出走、分居等原因致使家庭成员不全的家庭。相对于完整家庭而言。"
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "花山岩画",
+   "en": "Yuanzi cliff Inscriptions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0316",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古人在天然崖壁上直接刷绘的壁画，位于广西崇左市左江及其支流明江流域，为2000 余年前壮族先民骆越人之遗迹。绘制年代，可追溯到战国至东汉时期。已入选《世界文化遗产名录》。"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "肿瘤全营养配方食品",
+   "en": "nutritionally complete formula foods for cancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.21",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应肿瘤患者代谢特点及肿瘤细胞分化特性，适当提高脂肪和蛋白质的供能比以及其他免疫功能相关营养素含量，使其可作为单一营养来源满足肿瘤患者营养需求的配方食品。"
+  },
+  {
+   "cn": "糖尿病全营养配方食品",
+   "en": "nutritionally complete formula food for diabetes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.18",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为满足糖尿病患者的特殊需求，调整其营养素构成后加工配制而成，以改善糖尿病患者血糖及营养代谢相关指标的能够作为单一营养来源满足患者营养需求的配方食品。"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "肌肉衰减综合征全营养配方食品",
+   "en": "nutritionally complete formula foods for sarcopenia",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.23",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应患者肌肉流失、运动能力下降的生理特点，使用更易消化吸收的蛋白质并提高其供能比，适当调整氨基酸模式及微量营养素成分，使其可作为单一营养来源满足肌肉衰减综合征患者"
+  },
+  {
+   "cn": "肾病全营养配方食品",
+   "en": "nutritionally complete formula foods for renal diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.20",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据肾病患者的病理生理特点，分别调整其营养素构成后加工配制而成的能够作为单一营养来源满足肾病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "肝病全营养配方食品",
+   "en": "nutritionally complete formula foods for liver diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据不同类型肝病患者的病理状况与生理代谢特点，调整营养素含量与相互之间的比例，使其可作为单一营养来源满足肝病患者营养需求的配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

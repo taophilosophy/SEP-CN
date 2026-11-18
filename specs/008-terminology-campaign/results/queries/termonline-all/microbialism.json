@@ -1,0 +1,492 @@
+{
+ "key": "microbialism",
+ "term": "Microbialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:31:45+00:00",
+ "status": "ok",
+ "note": "variant=Microbialism; 审定公布名词库=114; 海峡两岸名词对照库=34; 其他来源数据库=1; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "微生物菌剂",
+   "en": "microbial inoculant,microbial agent",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "01.035",
+   "subjectFullName": "化工（六）_通类_生物化工",
+   "subjectName": "生物化工",
+   "publishYear": "2021",
+   "definition": "具有互生或共生关系的微生物以适当的比例进行组合或混合培养得到的微生物混合菌剂。采用微生物菌剂可以优化微生态结构，提高有效氮养分的持续供给，加速污染物的降解等。目前已经广泛应用于种植业、养殖业、土壤改良"
+  },
+  {
+   "cn": "微生物传感器",
+   "en": "microbial sensor,microbial biosensor",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0054",
+   "subjectFullName": "材料科学技术_生物材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "由固定化微生物、换能器和信号输出装置组成，以微生物活体作为分子识别敏感材料固定于电极表面构成的一种生物传感器。"
+  },
+  {
+   "cn": "微生物杀虫剂",
+   "en": "microbial insecticide,microbial pesticide",
+   "source": "昆虫学名词",
+   "wordNumber": "10.195",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "用于控制或杀死害虫的病原微生物或其代谢产物（如毒素）制剂。"
+  },
+  {
+   "cn": "微生物成矿作用",
+   "en": "microbial metallogenesis",
+   "source": "地质学名词",
+   "wordNumber": "14.02.014",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "由微生物(主要指细菌、藻类、原生动物等)活动引起的地球化学作用，使成矿元素发生迁移、富集和沉淀的作用。"
+  },
+  {
+   "cn": "微生物修复",
+   "en": "microbial remediation",
+   "source": "农学名词",
+   "wordNumber": "11.053",
+   "subjectFullName": "农业环境保护_产地环境保护",
+   "subjectName": "产地环境保护",
+   "publishYear": "2025",
+   "definition": "通过微生物的代谢作用，将环境中的污染物降解或转化为其他无害物质的修复方式。"
+  },
+  {
+   "cn": "微生物农药",
+   "en": "microbial pesticide",
+   "source": "精细化工名词",
+   "wordNumber": "03.0006",
+   "subjectFullName": "精细化工_农药_通用",
+   "subjectName": "通用",
+   "publishYear": "2025",
+   "definition": "（1）广义指利用微生物或其代谢产物来防治危害农作物的病、虫、草、鼠害以及促进作物生长的活体微生物和农用抗生素。（2）狭义专指活体微生物农药。包括细菌、真菌、病毒等微生物。根据用途和防治对象的不同，可分"
+  },
+  {
+   "cn": "微生物杀虫剂",
+   "en": "microbial insecticide",
+   "source": "精细化工名词",
+   "wordNumber": "03.0036",
+   "subjectFullName": "精细化工_农药_专用产品",
+   "subjectName": "专用产品",
+   "publishYear": "2025",
+   "definition": "利用微生物活体制成的杀虫剂。用于防治害虫的微生物杀虫剂一般具有安全、选择性较强的特点。有的品种虽然原药毒性高，但由于每亩（1亩≈666.7m2）有效成分用量很低，加工成制剂使用也是安全的。微生物杀虫剂"
+  },
+  {
+   "cn": "微生物油脂",
+   "en": "microbial oil",
+   "source": "精细化工名词",
+   "wordNumber": "06.0101",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "由酵母菌、霉菌、细菌和藻类等微生物在一定条件下，以碳水化合物、碳氢化合物和普通油脂为碳源，所转化的在微生物体内大量储存的油脂。"
+  },
+  {
+   "cn": "微生物发酵",
+   "en": "microbial fermentation",
+   "source": "农学名词",
+   "wordNumber": "15.239",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "微生物在特定条件下，将原料经过特定的代谢途径转化为可利用的产物或能量的过程。"
+  },
+  {
+   "cn": "微生物净化",
+   "en": "microbial purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0658",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "利用土壤和水体中的细菌和真菌，将有机污染物逐渐分解成无机物，从而起到生物净化作用的方法。"
+  },
+  {
+   "cn": "微生物菌剂",
+   "en": "microbial inoculant",
+   "source": "农学名词",
+   "wordNumber": "09.296",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "全称“农用微生物菌剂（microbial inoculant for agriculture）”。目标微生物（有效菌）经工业化生产扩繁后加工制成的活菌制剂。"
+  },
+  {
+   "cn": "微生物农药",
+   "en": "microbial pesticide",
+   "source": "农学名词",
+   "wordNumber": "10.257",
+   "subjectFullName": "植物保护_生物防治",
+   "subjectName": "生物防治",
+   "publishYear": "2025",
+   "definition": "以细菌、真菌、卵菌、病毒、原生动物或基因修饰的微生物等活体为有效成分的农药。"
+  },
+  {
+   "cn": "微生物基因组学",
+   "en": "microbial genomics",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "研究微生物基因组的组成，组内各基因的精确结构、相互关系及表达调控的学科领域。"
+  },
+  {
+   "cn": "微生物消化",
+   "en": "microbial digestion",
+   "source": "兽医学名词",
+   "wordNumber": "04.307",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "食物中的营养物质特别是纤维素和半纤维素类多糖，在栖居于畜、禽消化道内的厌氧微生物的作用下，生成低级脂肪酸和其他营养物质的过程。"
+  },
+  {
+   "cn": "微生物发酵",
+   "en": "microbial fermentation",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0258",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "利用微生物，在适宜的条件下，将原料经过特定的代谢途径转化为人类所需要的产物的过程。"
+  },
+  {
+   "cn": "微生物生态学",
+   "en": "microbial ecology",
+   "source": "兽医学名词",
+   "wordNumber": "16.058",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "研究微生物群体（微生物区系或正常菌群）与其周围的生物和非生物环境条件间相互作用规律的学科。"
+  },
+  {
+   "cn": "微贮",
+   "en": "microbial silage ",
+   "source": "草学名词",
+   "wordNumber": "6.025",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "微生物反应器",
+   "en": "microbial reactor",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0554",
+   "subjectFullName": "化工（八）_化工设备_反应设备",
+   "subjectName": "反应设备",
+   "publishYear": "2021",
+   "definition": "利用微生物所具有的生物功能，在体外进行生化反应的装置系统。"
+  },
+  {
+   "cn": "微生物工程",
+   "en": "microbial engineering",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "01.023",
+   "subjectFullName": "化工（六）_通类_生物化工",
+   "subjectName": "生物化工",
+   "publishYear": "2021",
+   "definition": "研究利用微生物来生产各类产品所涉及的技术、工艺和装备。内容包括菌种选育、工业发酵及产品分离等。"
+  },
+  {
+   "cn": "微生物计算机",
+   "en": "microbial computer",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.039",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "利用系统遗传学原理和合成生物学技术合成外源基因，利用它们之间的转录调控关系，人工设计其在微生物细胞内的信号转导过程，将逻辑路径图转入微生物细胞内，将微生物细胞变成一台可用于求解相关数学问题的计算机。"
+  },
+  {
+   "cn": "微生物动力学",
+   "en": "microbial dynamics\",\"microbial kinetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物杀虫剂",
+   "en": "microbial insecticide\",\"microbial pesticide",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "微生物结垢",
+   "en": "microbial fouling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物膜",
+   "en": "microbial film",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物腐蚀",
+   "en": "microbial corrosion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物发酵",
+   "en": "microbial fermentation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物反应器",
+   "en": "microbial reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杂菌污染",
+   "en": "microbial contamination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物法",
+   "en": "microbial process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物反应",
+   "en": "microbial reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物传感器",
+   "en": "microbial sensor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "微生物环",
+   "en": "microbial loop",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微生物农药",
+   "en": "microbial pesticide",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微生物絮凝剂",
+   "en": "microbial flocculant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微生物成因甲烷",
+   "en": "microbial methane",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "微生物污染",
+   "en": "microbial contamination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "微生物作用",
+   "en": "microbial action",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "微生物遗传学",
+   "en": "microbial genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微生物敏感器",
+   "en": "microbial sensor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微生物药物",
+   "en": "microbial medicine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微生物异质性",
+   "en": "microbial heterogeneity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.63",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在微生物群体或者系统中,不同个体之间存在差别和变化的现象"
+  },
+  {
+   "cn": "微生物抵抗力",
+   "en": "microbial resistibility",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在特定条件下，微生物对理化因子表现出的抵抗能力，常用D值表示。"
+  },
+  {
+   "cn": "微生物限量",
+   "en": "microbial limit",
+   "source": "消毒学",
+   "wordNumber": "4.2.2.7",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "产品中不允许超过某一标准范围的微生物数。"
+  },
+  {
+   "cn": "微生物繁殖",
+   "en": "microbial reproduction",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "微生物分裂、复制增加个体数目的过程。"
+  },
+  {
+   "cn": "微生物复苏",
+   "en": "microbial recovery",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将冷冻保存的微生物去除冷冻保护剂，恢复微生物生物活性的实验室操作过程。"
+  },
+  {
+   "cn": "微生物屏障试验",
+   "en": "microbial barrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.36.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价透气性灭菌医疗用品包装材料对指示微生物穿过的阻挡性能的试验。包括湿性条件下微生物屏障试验和干性条件下微生物屏障试验等。"
+  },
+  {
+   "cn": "代次",
+   "en": "number of microbial passage",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "微生物繁殖传代的次数。"
+  },
+  {
+   "cn": "空气含菌量",
+   "en": "microbial amount of air",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "每立方米空气中所含有的空气自然菌的菌落数，单位以菌落形成单位每立方米（CFU/m3）表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,522 @@
+{
+ "key": "availability",
+ "term": "availability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:32:00+00:00",
+ "status": "ok",
+ "note": "variant=availability; 审定公布名词库=155; 海峡两岸名词对照库=49; 其他来源数据库=5; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "有效性",
+   "en": "availability",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0071",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "肥料中养分被作物吸收的程度。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0248",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在任一时刻需要和开始执行任务时，处于可工作或可使用状态的程度。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "电力名词",
+   "wordNumber": "25.002",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "在要求的外部资源得到保证的前提下,元件或系统在规定的条件下和规定的时刻或时间内处于可执行规定功能状态的能力。"
+  },
+  {
+   "cn": "可获得性",
+   "en": "availability",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.042",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "信息基础设施、信息系统或网站建设的一个原则。指不具备专业能力的普通用户不需要通过培训和专业指导即可方便地通过信息基础设施、信息系统或网站获得有用的信息。"
+  },
+  {
+   "cn": "可利用率",
+   "en": "availability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "某营养素或物质经过消化吸收后，实际被人体利用的部分占摄入总量的百分比。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0472",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在某个考察时间，系统能够正常运行的概率或时间占有率期望值。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0802",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "燃气轮机动力装置处于备用状态及使用状态的时间之和占总的消逝时间的百分比。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.307",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在要求的外部资源得到保证的前提下，产品(装备)在规定的条件下，在给定的瞬时或在给定的时间间隔内，处于执行所需功能状态的能力。"
+  },
+  {
+   "cn": "可获性",
+   "en": "availability",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.075",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "普遍服务的原则。无论何时何地需要，实现全国范围内的电话服务覆盖。"
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.009",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "电气工程名词",
+   "wordNumber": "28.068",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可用度",
+   "en": "availability",
+   "source": "电气工程名词",
+   "wordNumber": "28.132",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可用度",
+   "en": "availability",
+   "source": "数学名词",
+   "wordNumber": "011.0607",
+   "subjectFullName": "数学_运筹学_可靠性理论·更新论",
+   "subjectName": "可靠性理论?更新论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "电子学名词",
+   "wordNumber": "18.062",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可用性模型",
+   "en": "availability model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0481",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种预测系统提供正常服务的时间占系统总的运行时间的比例的模型，用于衡量系统为用户提供可接受的服务质量的能力。"
+  },
+  {
+   "cn": "可得性启发法",
+   "en": "availability heuristics",
+   "source": "心理学名词",
+   "wordNumber": "02.159",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体在做出判断时更多地利用记忆中易于使用的信息的倾向。"
+  },
+  {
+   "cn": "养分有效化",
+   "en": "nutrient availability",
+   "source": "农学名词",
+   "wordNumber": "09.241",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "在水分、温度、pH等环境条件改变的情况下，土壤中某些养分由难溶性或固定态转化为可被植物根系吸收利用状态的现象。"
+  },
+  {
+   "cn": "草地可利用性",
+   "en": "grassland availability ",
+   "source": "草学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "草学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "导航可用性",
+   "en": "navigation availability",
+   "source": "测绘学名词",
+   "wordNumber": "02.552",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "导航卫星系统在规定服务区内满足用户规定服务要求的能力。"
+  },
+  {
+   "cn": "数据可用性",
+   "en": "data availability",
+   "source": "测绘学名词",
+   "wordNumber": "05.117",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "反映空间数据能够满足用户需求的程度。包括数据质量、规范性、完整性、可靠性、熟悉性、易用性等。"
+  },
+  {
+   "cn": "可用度",
+   "en": "availability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可用性",
+   "en": "availability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有效能",
+   "en": "availability\",\"exergy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可用性，易用性",
+   "en": "availability\",\"usability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效能分析",
+   "en": "availability analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可得性启发法",
+   "en": "availability heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可用性模型",
+   "en": "availability model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "养分有效性",
+   "en": "nutrient availability",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可出口量",
+   "en": "export availability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "到场有效性",
+   "en": "presence availability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "系统可用性",
+   "en": "system availability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栖地状况",
+   "en": "habitat availability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可用名",
+   "en": "available name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效水",
+   "en": "available water",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效养分",
+   "en": "available nutrient",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可用能量",
+   "en": "available energy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可用水[分]",
+   "en": "available water",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可用水头",
+   "en": "available head",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效氯",
+   "en": "available chlorine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可得信用",
+   "en": "available credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标准可用性",
+   "en": "availability of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保持基本民生服务不断档",
+   "en": "to ensure the availability of basic public services",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "BASE理论",
+   "en": "BASE (basically available, soft state, eventual consistency) theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有效氯",
+   "en": "available chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "与含氯消毒剂氧化能力相当的氯量，是衡量含氯消毒剂氧化能力的标志。其含量常用质量浓度（mg/L）或质量分数（％）表示。"
+  },
+  {
+   "cn": "有效碘",
+   "en": "available iodine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.10",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "与含碘消毒剂的氧化能力相当的碘量，是衡量含碘消毒剂氧化能力的标志。其含量常用质量浓度（mg/L）或质量分数（％）表示。"
+  },
+  {
+   "cn": "有效溴",
+   "en": "available bromine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.11",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "与含溴消毒剂氧化能力相当的溴量，是衡量含溴消毒剂氧化能力的标志。其含量常用质量浓度（mg/L）或质量分数（％）表示。"
+  },
+  {
+   "cn": "有效卤素",
+   "en": "available halogen",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.12",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "与含卤素消毒剂氧化能力相当的总卤素量，是衡量含卤素消毒剂氧化能力的标志。其含量常用质量浓度（mg/L）或质量分数（％）表示。如溴氯海因类消毒剂因其含有效氯和有效溴，故采用有效卤素表示其有效成分。"
+  },
+  {
+   "cn": "卫生服务可得性",
+   "en": "health service availability",
+   "source": "社会医学名词",
+   "wordNumber": "8.8",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可得性",
+   "publishYear": "2025",
+   "definition": "能够满足人们需求的卫生服务提供能力或过程，包括医疗卫生机构的设立地点、规模、所提供的服务类型、数量和质量。"
+  },
+  {
+   "cn": "卫生服务可获得性",
+   "en": "availability of health services",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.3.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，都能获得应有的基本的医疗卫生服务的特性。"
+  },
+  {
+   "cn": "有效氯产率",
+   "en": "productivity of available chlorine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.3.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "次氯酸钠发生器单位时间的产量，其数值等于设备在额定状态下工作时，每小时生成有效氯的质量，单位以克每小时（g/h）表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

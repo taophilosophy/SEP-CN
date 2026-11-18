@@ -1,0 +1,692 @@
+{
+ "key": "intensions",
+ "term": "intensions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:34:09+00:00",
+ "status": "ok",
+ "note": "variant=intensions; 审定公布名词库=518; 海峡两岸名词对照库=126; 其他来源数据库=15; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "集约度",
+   "en": "intensity",
+   "source": "农学名词",
+   "wordNumber": "19.214",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "单位生产面积上所投入的生产要素数量。该值越高，则集约度越高；反之越低。"
+  },
+  {
+   "cn": "光强",
+   "en": "intensity",
+   "source": "光学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述发光体(或反射体)/接收体的发射(或反射)/接收光能量特性的物理量。数值为在给定方向上单位面积、单位立体角内所发射(或反射)/接收的光能量，单位是坎德拉/米²(cd/m²)或尼特(nit)。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0030",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "(1)零件承受载荷后抵抗发生断裂或超过容许限度的残余变形的能力。(2)阻止失效发生的任何因素。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "心理学名词",
+   "wordNumber": "02.178",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "光、声、电流等的强弱。"
+  },
+  {
+   "cn": "亮度",
+   "en": "intensity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.349",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "色彩的明亮程度，即色彩对光照的反射程度。"
+  },
+  {
+   "cn": "音强",
+   "en": "intensity",
+   "source": "语言学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "语音的强弱。主要取决于发音时声门下压力的大小，也跟声腔共鸣特性有关。"
+  },
+  {
+   "cn": "地震烈度",
+   "en": "intensity;earthquake intensity;seismic intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.036",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "地震时某一地区的地面遭受影响的强弱程度。是地震破坏作用大小的一种量度，受地震破坏越大的地区，地震烈度越高。一个地区地震烈度的大小与震源深度、震中距、方位角、地质构造以及土壤性质等许多因素有关。"
+  },
+  {
+   "cn": "发光强度",
+   "en": "luminescence intensity,luminous intensity",
+   "source": "光学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "表示光源在一定方向范围内发出的可见光辐射强度的物理量。单位为坎德拉(cd)。"
+  },
+  {
+   "cn": "火[线]强度",
+   "en": "fire intensity,fireline intensity",
+   "source": "林学名词",
+   "wordNumber": "07.299",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "在单位时间内、单位火线长度释放的热量。目前一般采用美国人拜拉姆(Byram)提出的火线强度，计算公式：<img src='/root/syzx/static/spz/linxue2.07.299.1."
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity,radiant intensity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0381",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋物理学",
+   "subjectName": "海洋物理学",
+   "publishYear": "2007",
+   "definition": "在给定方向的立体角元内，单位立体角离开点辐射源的辐射功率。"
+  },
+  {
+   "cn": "基本烈度",
+   "en": "basic intensity,zoning intensity",
+   "source": "土木工程名词",
+   "wordNumber": "16.011",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地震烈度",
+   "en": "earthquake intensity,seismic intensity",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "震中烈度",
+   "en": "epicenter intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.037",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "震中区的烈度。通常是一次地震中的最高烈度。"
+  },
+  {
+   "cn": "火山烈度",
+   "en": "volcanic intensity",
+   "source": "地质学名词",
+   "wordNumber": "12.01.016",
+   "subjectFullName": "地质学_火山地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "火山活动的强烈程度。目前尚无成熟的火山烈度表。津屋弘达(H.Tsuya)于1955年根据火山喷出物的体积(以立方千米为单位，不含火山气体)，将火山烈度分为10个等级。仅有喷气孔活动的为0级；喷出物体积"
+  },
+  {
+   "cn": "异常强度",
+   "en": "anomaly intensity",
+   "source": "地质学名词",
+   "wordNumber": "13.08.041",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "地球化学异常元素含量的高低或超过背景值的程度。通常用异常的峰值、平均值、衬度等表示。是评价异常的一个重要指标，它受诸多因素制约，主要是异常源或形体中元素含量的高低和规模大小的影响；此外，还受到矿体异常"
+  },
+  {
+   "cn": "基本烈度",
+   "en": "basic intensity",
+   "source": "地质学名词",
+   "wordNumber": "17.04.181",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "在一定地点的一般场地条件下，在今后一段时期内(一般取100a)，可能遭遇的最高地震烈度。"
+  },
+  {
+   "cn": "设计烈度",
+   "en": "design intensity",
+   "source": "地质学名词",
+   "wordNumber": "17.04.182",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "在工程设计中，根据安全和经济需要加以调整的地震基本烈度。一般建筑物可采用基本烈度作为设计烈度。如遇场地条件不良或重要建筑物(如水库大坝、原子能发电站)，可以将场地基本烈度适当地提高作为设计烈度。"
+  },
+  {
+   "cn": "喷灌强度",
+   "en": "spraying intensity",
+   "source": "农学名词",
+   "wordNumber": "12.071",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "单位时间内的喷洒水深。"
+  },
+  {
+   "cn": "降水强度",
+   "en": "precipitation intensity",
+   "source": "农学名词",
+   "wordNumber": "13.052",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "单位时间或某一段时间内的降水量。通常用每小时降水量或6h、12h、24h降水量表示。"
+  },
+  {
+   "cn": "暴雨强度",
+   "en": "rainstorm intensity",
+   "source": "风景园林名词",
+   "wordNumber": "08.0923",
+   "subjectFullName": "风景园林_风景园林工程_风景园林排水",
+   "subjectName": "风景园林排水",
+   "publishYear": "2025",
+   "definition": "单位时间内的降雨量。工程上常用单位时间内单位面积上的降雨体积计，其计量单位通常以[L/（s·hm2）]表示。"
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集约的",
+   "en": "intensive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity\",\"luminous intensity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity\",\"radiant intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分枝强度",
+   "en": "branching intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群强度",
+   "en": "population intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照强度",
+   "en": "light intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降水强度",
+   "en": "precipitation intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降雨强度",
+   "en": "rainfall intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内在量",
+   "en": "intensive quantity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度等级",
+   "en": "intensity level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "声强",
+   "en": "acoustic intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湍流强度",
+   "en": "turbulence intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体强度",
+   "en": "bulk intensity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强度性质",
+   "en": "intensive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合强度",
+   "en": "mixing intensity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "集约文化",
+   "en": "intensive culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贸易服务集约",
+   "en": "intensive trade service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护病房/重症监护病区",
+   "en": "intensive care unit (ICU)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发纤秾于简古，寄至味于淡泊",
+   "en": "Intricacy Within Plainness, and Intensity Beneath Quietude",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紫外线强度",
+   "en": "ultraviolet intensity",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内与紫外线传播方向垂直的单位面积上接收到的紫外线能量。单位以微瓦每平方厘米（μW/cm2）、瓦每平方米（W/m2）表示。"
+  },
+  {
+   "cn": "劳动强度",
+   "en": "labor intensity",
+   "source": "马克思主义",
+   "wordNumber": "02.0138",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的长度表示劳动力支出的外延的量，而劳动强度则表示其内含的量。它是一定时间内所进行的劳动的密度，反映单位劳动时间内实际耗费的劳动的数量指标。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "危险强度",
+   "en": "risk intensity",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "计算某一单项危险因素去除后，人群增长年龄与评价年龄之差的平均数，反映了某一危险因素对人群健康影响的严重程度。"
+  },
+  {
+   "cn": "文化强度",
+   "en": "culture intensity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0549",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。它指的是文化达到并维持文化水平的程度，强度较大的文化是那些文化特征清楚、制度和关系明确的文化。一种文化的高峰是该文化区内的中心，这个"
+  },
+  {
+   "cn": "精耕农业",
+   "en": "intensive farming",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定面积的土地上，投入较多的生产资料、劳动和技术，进行细致的土地耕作方式，最大限度提高单位面积产量，充分发挥土地潜力的农业经营方式。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "紫外线强度指示卡",
+   "en": "ultraviolet intensity indicator card",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "现场监测紫外线强度的由卡片纸、紫外线感光色块和标准色组成的化学指示物。在紫外线照射下，指示卡上的特殊材料会发生化学反应，产生颜色变化，颜色的深浅程度与紫外线辐照的总剂量具有强相关性。"
+  },
+  {
+   "cn": "低强度身体活动",
+   "en": "low-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "相当于1.5～4个代谢当量，即能量消耗为个体静态能量消耗1.5～4倍的活动，包括步行、洗澡、洗碗、熨衣服、做饭等和伏案工作等。"
+  },
+  {
+   "cn": "中等强度身体活动",
+   "en": "moderate-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3～6左右的体力活动，包括快速健步走、骑自行车、打球、游泳、跳舞、扫地、拖地、搬运和割草等。"
+  },
+  {
+   "cn": "高强度身体活动",
+   "en": "vigorous-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量大于等于6的体力活动，包括非常快速的健步走、在陡峭的路上徒步旅行、慢跑、铲沙、搬重物、做农活、铲土、挖沟等。"
+  },
+  {
+   "cn": "高强度间歇运动",
+   "en": "high intensity interval training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种多次短时间的高强度运动与以低强度运动或休息形式形成的间歇期交替进行的运动训练方式。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "军事体力劳动强度",
+   "en": "military physical labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在军事活动中的体力消耗及体力劳动紧张的程度。能量消耗、最大耗氧量、心率、肺通气量是评价体力劳动强度的重要指标。"
+  },
+  {
+   "cn": "劳动强度分级",
+   "en": "grading of labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.5.6",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "根据劳动时间、耗能值等情况对劳动强度进行区分的过程。可以认定为轻劳动、中等强度、重强度等劳动强度。"
+  },
+  {
+   "cn": "调强放射治疗",
+   "en": "intensity-modulated radiation therapy，IMRT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "三维适形放射治疗的一种特殊形式，在照射野与靶区轮廓一致的情况下，通过优化算法对射野内诸点的输出剂量率进行了调整，其剂量分布与靶区的适形度较常规三维适形放射治疗更优。"
+  },
+  {
+   "cn": "中高强度身体活动",
+   "en": "moderate- to vigorous-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3以上的体力活动。"
+  },
+  {
+   "cn": "危重孕产妇救治中心",
+   "en": "intensive care center for maternal near miss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经区域化和标准化建设及运营的危重孕产妇救治的场所。建立区域母婴安全保障协调工作机制，助产机构、急救中心和血站联动，强化转运、救治、用血等重点环节保障，实现分级负责、上下联动、应对有序、运转高效的急救、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

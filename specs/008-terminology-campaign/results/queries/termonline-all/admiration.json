@@ -1,0 +1,362 @@
+{
+ "key": "admiration",
+ "term": "admiration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:37:36+00:00",
+ "status": "ok",
+ "note": "variant=admiration; 审定公布名词库=100; 海峡两岸名词对照库=8; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "误吸",
+   "en": "aspiration",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.14",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "口咽部的食物、水、分泌物或反流的胃内容物经声门进入声门下、气管内的现象。"
+  },
+  {
+   "cn": "误吸",
+   "en": "aspiration",
+   "source": "麻醉学名词",
+   "wordNumber": "03.742",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉及麻醉恢复期间严重并发症",
+   "subjectName": "麻醉及麻醉恢复期间严重并发症",
+   "publishYear": "2024",
+   "definition": "由于人体意识不清和（或）咽喉反射迟钝或消失，胃内容物反流进入气道的现象。可造成气道阻塞或吸入性肺炎。"
+  },
+  {
+   "cn": "误吸",
+   "en": "aspiration",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.036",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉并发症",
+   "subjectName": "麻醉并发症",
+   "publishYear": "2021",
+   "definition": "口咽部的食物、水、分泌物或反流的胃内容物进入喉前庭，并越过声门水平，进入声门下、气管内的现象。"
+  },
+  {
+   "cn": "误吸",
+   "en": "aspiration",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.109",
+   "subjectFullName": "物理医学与康复_康复功能评定_吞咽困难评定",
+   "subjectName": "吞咽困难评定",
+   "publishYear": "2014",
+   "definition": "食物、水、口咽分泌物或反流的胃内容物，进入喉前庭，并越过声门水平，进入声门下、气管内的现象。"
+  },
+  {
+   "cn": "误吸",
+   "en": "aspiration",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.134",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0228",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_蛋白质降解与氨基酸代谢_磷脂代谢",
+   "subjectName": "磷脂代谢",
+   "publishYear": "2024",
+   "definition": "在反应底物分子中加入氨基的反应。"
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "化学名词",
+   "wordNumber": "02.1036",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "在反应底物分子中引入1个氨基(<img src='/root/syzx/static/spz/huaxue2.02.1036.1.png'/>,R可为H)的反应。"
+  },
+  {
+   "cn": "送气",
+   "en": "aspiration,aspirate",
+   "source": "语言学名词",
+   "wordNumber": "03.066",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "辅音的一种发音方法。一般指塞音和塞擦音在除阻之后有股较强气流呼出。在宽带语图上表现为乱纹。"
+  },
+  {
+   "cn": "吸引[术]",
+   "en": "suction,aspiration",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.551",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "无症状误吸",
+   "en": "asymptomatic aspiration",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.14.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "食物、水、分泌物或反流的胃内容物误吸入声门下，但患者并无自发反应的现象。"
+  },
+  {
+   "cn": "鞘膜积液抽吸术",
+   "en": "hydrocele aspiration",
+   "source": "男科及性医学名词",
+   "wordNumber": "23.046",
+   "subjectFullName": "男科及性医学_男科及性医学相关手术",
+   "subjectName": "男科及性医学相关手术",
+   "publishYear": "2023",
+   "definition": "用细针逐层穿刺并突破鞘膜壁层，吸出鞘膜腔内积液的手术方法。多用于婴幼儿鞘膜积液张力较大且不能自行吸收者。"
+  },
+  {
+   "cn": "吸入性肺炎",
+   "en": "aspiration pneumonia",
+   "source": "兽医学名词",
+   "wordNumber": "15.126",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "因误咽异物（食物、呕吐物或药物）进入肺而引起的以肺坏死为特征的一种肺炎。"
+  },
+  {
+   "cn": "负压吸引术",
+   "en": "vacuum aspiration",
+   "source": "生殖医学名词",
+   "wordNumber": "7.033",
+   "subjectFullName": "生殖医学_生殖调控",
+   "subjectName": "生殖调控",
+   "publishYear": "2022",
+   "definition": "利用负压，通过吸管将早期妊娠产物自宫腔吸出，以达到终止妊娠的手术方式。用于终止10周以内的妊娠。是我国自主发明的人工流产手术。"
+  },
+  {
+   "cn": "人工流产漏吸",
+   "en": "missed aspiration",
+   "source": "生殖医学名词",
+   "wordNumber": "7.037",
+   "subjectFullName": "生殖医学_生殖调控",
+   "subjectName": "生殖调控",
+   "publishYear": "2022",
+   "definition": "确定为宫内妊娠，但负压吸引时未能吸到胚胎或绒毛组织，或只吸到部分蜕膜组织及少许绒毛组织，导致胚胎停止发育或继续发育，需再次手术终止妊娠的现象。通常由胎囊过小、子宫过度屈曲或子宫畸形造成。"
+  },
+  {
+   "cn": "吸入性肺炎",
+   "en": "aspiration pneumonia",
+   "source": "消化内镜学名词",
+   "wordNumber": "9.024",
+   "subjectFullName": "消化内镜学_消化内镜诊疗并发症_全身并发症",
+   "subjectName": "全身并发症",
+   "publishYear": "2021",
+   "definition": "消化内镜诊疗过程中口腔分泌物、消化道内容物（食物、胃液、胆汁等）、血液等误入气管内引起的肺炎。"
+  },
+  {
+   "cn": "吸入危害",
+   "en": "aspiration hazard",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.058",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "液态或固态化学品通过口腔或鼻腔直接进入或者因呕吐间接进入气管和下呼吸系统而造成的危害。"
+  },
+  {
+   "cn": "反流性误吸",
+   "en": "regurgitating aspiration",
+   "source": "烧伤学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "胃液反流直接灌入气道所致吸入性化学性损伤。易引发肺部感染。"
+  },
+  {
+   "cn": "吸入性肺炎",
+   "en": "aspiration pneumonia",
+   "source": "烧伤学名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤后肺损伤",
+   "subjectName": "烧伤后肺损伤",
+   "publishYear": "2019",
+   "definition": "吸入酸性物质、动物脂肪，如食物、胃容物以及其他刺激性液体和挥发性的碳氢化合物后，引起的化学性肺炎。患者常有吸入诱因史，迅速发病，多于1~3h及之后出现症状，临床表现与诱发病因有关，严重者可发生呼吸衰竭"
+  },
+  {
+   "cn": "负压吸引术",
+   "en": "vacuum aspiration",
+   "source": "计划生育名词",
+   "wordNumber": "03.272",
+   "subjectFullName": "计划生育_计划生育临床_手术",
+   "subjectName": "手术",
+   "publishYear": "2019",
+   "definition": "利用负压通过吸管将早期妊娠产物自宫腔吸出，以达到终止妊娠的手术方式。用于终止10周以内的妊娠。是我国自主发明的人工流产手术。"
+  },
+  {
+   "cn": "人工流产漏吸",
+   "en": "missed aspiration",
+   "source": "计划生育名词",
+   "wordNumber": "03.365",
+   "subjectFullName": "计划生育_计划生育临床_手术并发症、避孕药具不良反应及相关疾病",
+   "subjectName": "手术并发症、避孕药具不良反应及相关疾病",
+   "publishYear": "2019",
+   "definition": "确定为宫内妊娠，但术时未能负压吸引到胚胎或绒毛组织，或只吸到部分蜕膜组织及少许绒毛组织，导致胚胎停止发育或继续发育，需再次手术终止妊娠。往往由胎囊过小、子宫过度屈曲或子宫畸形造成。"
+  },
+  {
+   "cn": "胺化［作用］",
+   "en": "amination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化, 胺化",
+   "en": "amination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抱负水平",
+   "en": "aspiration level\",\"level of aspiration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "通风气象计",
+   "en": "aspiration meteorograph",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通风温度计",
+   "en": "aspiration thermograph",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "志趣群体",
+   "en": "aspiration group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "羧胺胶乳",
+   "en": "carboxylation and amination latex",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "新时代最可爱的人",
+   "en": "the most admirable people in the new era",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "陈诗展义",
+   "en": "Write Poetry to Express Feeling and Aspiration",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国共产党人的初心和使命",
+   "en": "the original aspiration and the mission of the CPC",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风选",
+   "en": "aspiration",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.17",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据食物和杂质空气动力学性质的差别，利用气流进行分离的方法。常用于除去谷物中的泥灰、瘪谷等杂质。"
+  },
+  {
+   "cn": "负压吸引术",
+   "en": "vacuum aspiration",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "利用负压通过吸管将早期妊娠组织自宫腔吸出，以达到终止妊娠的手术方式。用于终止10周以内的妊娠。是我国自主发明的人工流产手术。"
+  },
+  {
+   "cn": "手动负压吸引术",
+   "en": "manual vacuum aspiration, MVA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "使用一次性手动负压吸引器和双窗吸管终止10周以内早孕的人工流产方法。使用本方法在手术中不需要常规扩张宫颈及吸宫后不需要常规刮匙搔刮宫腔，从而提高手术的安全性，减少手术的风险和痛苦。"
+  },
+  {
+   "cn": "实现国家统一是民族的愿望",
+   "en": "achieve national reunification is the nations aspiration",
+   "source": "马克思主义",
+   "wordNumber": "03.0595",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1984年，邓小平在会见香港同胞时指出：实现国家统一是民族的愿望。他创造性地提出“一国两制”的构想，使香港、澳门相继回到祖国的怀抱。和平统一是中国政府的一贯立场，但绝不排除使用武力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

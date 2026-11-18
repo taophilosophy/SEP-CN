@@ -1,0 +1,52 @@
+{
+ "key": "historicist",
+ "term": "historicist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:54:17+00:00",
+ "status": "ok",
+ "note": "variant=historicist; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "历史主义",
+   "en": "historicism",
+   "source": "心理学名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "从历史的联系和变化发展中考察对象的原则和方法。维戈茨基(L. Vygotsky)最早将这一原则应用到心理学中。"
+  },
+  {
+   "cn": "历史主义方法论",
+   "en": "historicism methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "自然辩证法_总论_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2024",
+   "definition": "20世纪50年代末产生的一种科学哲学思潮，60年代后逐渐开始流行。历史主义以描述与解释科学实际如何、科学家如何为目的，产生使科学哲学失去规范意义的影响。S. E. 图尔明（S. E. Toulmin）"
+  },
+  {
+   "cn": "历史主义",
+   "en": "historicism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "史实性",
+   "en": "historicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

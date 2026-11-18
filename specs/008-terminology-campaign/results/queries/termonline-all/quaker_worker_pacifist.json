@@ -1,0 +1,782 @@
+{
+ "key": "quaker worker pacifist",
+ "term": "Quaker worker Pacifist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:44:58+00:00",
+ "status": "ok",
+ "note": "variant=Quaker worker Pacifist; 审定公布名词库=2041; 海峡两岸名词对照库=639; 其他来源数据库=217; 预公布名词数据库=242; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "工人",
+   "en": "worker",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.179",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "工程活动共同体的重要组成部分之一。工程施工环节的行动者和执行操作者。"
+  },
+  {
+   "cn": "工蜂",
+   "en": "worker",
+   "source": "畜牧学名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂生物学",
+   "subjectName": "蜜蜂生物学",
+   "publishYear": "2020",
+   "definition": "由受精卵发育而成的生殖器官发育不完全的雌蜂。主要从事采集花蜜和花粉，哺饲蜂王、幼虫，分泌王浆、蜡质，以及建造、清洁蜂房及守卫御敌等，寿命5～8周到6～7个月。"
+  },
+  {
+   "cn": "劳动者",
+   "en": "worker,laborer",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.138",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "是指劳动要素的供给者和劳动的承担者。"
+  },
+  {
+   "cn": "盆景工",
+   "en": "miniascape worker",
+   "source": "风景园林名词",
+   "wordNumber": "03.0255",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "使用植物的根、桩以及山石和花卉等材料，制作具有观赏价值的盆景并进行管护的人员。包括树桩盆景工、山石盆景工等。"
+  },
+  {
+   "cn": "施工员",
+   "en": "construction worker",
+   "source": "风景园林名词",
+   "wordNumber": "03.0246",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "工程项目的基层技术管理人员之一。在项目经理领导下，在施工现场具体解决施工组织设计和现场的关系，负责现场监督、测量、编写施工日志、上报施工进度、质量、处理现场问题等工作的技能人员，是工程指挥部和施工队的"
+  },
+  {
+   "cn": "农民工",
+   "en": "migrant worker",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.212",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "一般指在本地乡镇企业或者进入城镇务工的农业户口人员。有广义和狭义之分：广义的农民工包括两部分人，一部分是在本地乡镇企业就业的离土不离乡的农村劳动力，另一部分是外出进入城镇从事二、三产业的离土又离乡的农"
+  },
+  {
+   "cn": "知识劳工",
+   "en": "knowledge worker",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.1",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "参与知识产品生产、加工与流通各个环节的劳动者。是与体力劳动者相对应的一个概念。包括医生、药剂师、建筑师、工程师、软件工程师、设计师、会计师、律师、学者、科研人员等等。莫斯可(Vincent Mosco"
+  },
+  {
+   "cn": "放射工作人员",
+   "en": "radiation worker",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "受聘的全日、兼职或临时从事放射工作并已了解与职业放射防护有关的权利和任务的任何人员。"
+  },
+  {
+   "cn": "沮丧劳动者",
+   "en": "discouraged worker",
+   "source": "经济学名词",
+   "wordNumber": "06.044",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "愿意重新工作、也曾数度努力寻找工作，但因为努力都归于失败而放弃继续寻找努力的失业者。"
+  },
+  {
+   "cn": "农民工",
+   "en": "migrant worker",
+   "source": "经济学名词",
+   "wordNumber": "15.056",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "改革开放后，从农业部门转移出来，仍保留农村户籍的进城务工人员。"
+  },
+  {
+   "cn": "信息工作者",
+   "en": "information worker",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.218",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "掌握信息技术和信息管理技能，从事信息采集、整理、传播与利用等工作的专业人员。"
+  },
+  {
+   "cn": "合格工人",
+   "en": "qualified worker",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1109",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "具备必要的素质、技能和知识，接受过某工作方法的完整训练，能独立完成所从事的工作，并在安全、质量和数量方面达到令人满意水平的操作工人。"
+  },
+  {
+   "cn": "知识工作者",
+   "en": "knowledge worker",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0803",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "在知识产业或知识管理中从事知识和信息的收集、处理、加工和传递的工作人员。"
+  },
+  {
+   "cn": "知识型员工",
+   "en": "knowledge worker",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0335",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源战略与规划",
+   "subjectName": "人力资源战略与规划",
+   "publishYear": "2016",
+   "definition": "具有知识背景并从事知识型工作的员工。"
+  },
+  {
+   "cn": "社会工作者",
+   "en": "social worker",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "遵循助人自助的价值理念，运用个案、小组、社区、行政等专业方法，以帮助机构和他人发挥自身潜能，协调社会关系，解决和预防社会问题，促进社会公正为职业的专业工作者。其使命是对患者生活环境进行评估，谋求患者的"
+  },
+  {
+   "cn": "应急工作人员",
+   "en": "emergency worker",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.050",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "在发生核或辐射紧急情况时有明确的任务，并在应急响应行动中可能受到照射的任何工作人员。"
+  },
+  {
+   "cn": "放射工作人员",
+   "en": "radiation worker",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.189",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2014",
+   "definition": "受聘用全日、兼职或临时从事放射工作并已了解与职业放射防护有关的权利和任务的任何人员。"
+  },
+  {
+   "cn": "技术工人",
+   "en": "skilled worker",
+   "source": "教育学名词",
+   "wordNumber": "11.089",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在生产一线、掌握某一工种熟练操作技能和有关知识的工人。"
+  },
+  {
+   "cn": "奴工蚁",
+   "en": "auxiliary worker",
+   "source": "昆虫学名词",
+   "wordNumber": "07.166",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "蚁类中专司劳役的工蚁。"
+  },
+  {
+   "cn": "弹性工人",
+   "en": "flexible workers",
+   "source": "经济学名词",
+   "wordNumber": "07.133",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "20世纪末期以来在劳动力市场上出现的劳动用工关系比较灵活、能够随时满足厂商劳动需求的工人的总称。包括各种临时工、独立承包人、随叫随到的工人等。弹性工人的出现增强了厂商生产经营的灵活性，并降低了生产经营"
+  },
+  {
+   "cn": "工蜂",
+   "en": "worker",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "奴工蚁",
+   "en": "auxiliary worker",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "外来劳工",
+   "en": "guest workers",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工作顺序",
+   "en": "work order",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "震动器",
+   "en": "shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夸奥尔",
+   "en": "Quaoar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "峰化器",
+   "en": "peaker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "燃料舱",
+   "en": "bunker",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艉舷",
+   "en": "quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下弦",
+   "en": "last quarter\",\"third quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋231号",
+   "en": "Pacific 231",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Honegger, Arthur"
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋边缘",
+   "en": "Pacific margin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋卫星",
+   "en": "Pacific Satellite",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摇筛器",
+   "en": "sieve shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "旋转摇床",
+   "en": "rotary shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "四分之一音",
+   "en": "quarter-tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识雇员",
+   "en": "knowledge worker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一线医护人员",
+   "en": "frontline health workers",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗人员",
+   "en": "medical personnel/workers; health workforce; health workers",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "劳模精神",
+   "en": "the spirit of model workers",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复工人员专列",
+   "en": "special train for returning workers ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医务人员科学防护和培训",
+   "en": "scientific prevention and proper training for medical workers",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "务工人员安全返岗",
+   "en": "Migrant workers return to their posts in security.    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": " 优先吸纳贫困劳动力务工就业",
+   "en": "to prioritize the employment of poor migrant workers        ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对抗疫医务人员保护、关心、爱护",
+   "en": "to provide full protection and care to medical workers fighting the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "白衣执甲、逆行出征",
+   "en": "Heedless of their own safety, medical workers headed for the frontline against the virus. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医务工作者是光明的使者、希望的使者，是最美的天使，是真正的英雄。",
+   "en": "Medical workers are symbols of brightness and hope, the most beautiful angels and real heroes.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫龙头企业、扶贫车间",
+   "en": "enterprises and workshops that employ local workers and play a major role in poverty alleviation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "箭筒",
+   "en": "quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船侧后半部",
+   "en": "quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四分之一决赛",
+   "en": "quarter finals\",\"quarter-final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员通道",
+   "en": "worker passageway",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在医疗机构和集中隔离场所等为工作人员出入设置的专用通道。"
+  },
+  {
+   "cn": "放射工作人员",
+   "en": "radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "受聘用全日、兼职或临时从事放射工作并了解放射防护有关的权利和任务的任何人员。"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "应急工作人员",
+   "en": "emergency worker",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件时承担特定职责人员，并在应急响应行动中可能受到照射的任何工作人员。"
+  },
+  {
+   "cn": "性工作者",
+   "en": "sex worker",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依靠出卖肉体和色相挣钱的人。以女性为主，亦有男性。女性主义认为这个职业不该受到人们的歧视，但在对这个职业应该最终消灭或取缔、应逐步实行非罪化还是完全合法化的问题上，女性主义者之间一直存在分歧和争论。"
+  },
+  {
+   "cn": "社会工作者",
+   "en": "social worker",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "遵循社会工作的价值准则，运用社会工作专业方法从事职业性社会服务的人员。"
+  },
+  {
+   "cn": "雇佣工人",
+   "en": "hired worker",
+   "source": "马克思主义",
+   "wordNumber": "02.0099",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "因丧失生产资料而被迫把劳动力作为商品出卖给资本家的雇佣劳动者。雇佣工人是资本主义生产体系中的劳动者即剩余价值的生产者和实现者。"
+  },
+  {
+   "cn": "农民工",
+   "en": "migrant worker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.01",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "为了工作从农村移民到城市，仍保留农村户籍的进城务工人员。"
+  },
+  {
+   "cn": "农民工",
+   "en": "peasant workers",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.8",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "有农村户口及承包土地，但离开户籍所在地，主要从事非农产业的人员（其中也有相当一部分在异地从事农业代耕，视为代耕户，代耕城市发展中被丢荒的闲置农田）。"
+  },
+  {
+   "cn": "进城务工人员",
+   "en": "migrant workers",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "在城镇从事非农业工作，在务工所在城镇有稳定工作、住所、收入，但不具备非农业户口的社会群体。"
+  },
+  {
+   "cn": "总体工人",
+   "en": "aggregate workers",
+   "source": "马克思主义",
+   "wordNumber": "02.0124",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为生产共同产品直接生产工人，以及非直接生产工人（科技人员、管理人员）的总体。有两个含义：一是指工场手工业时期所特有的局部工人组成的全体生产者。二是包括物质生产领域中直接和间接参加生产某种商品的全体劳动"
+  },
+  {
+   "cn": "工人监督",
+   "en": "workers supervision",
+   "source": "马克思主义",
+   "wordNumber": "04.0072",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "十月革命胜利后，为反击被推翻的资产阶级在政治、军事上的反抗，以及采用怠工、停产、隐瞒和转移财产等办法进行破坏，列宁于1917年10月26日或27日起草了《工人监督条例》草案，规定了工人监督的范围、监督"
+  },
+  {
+   "cn": "工人反对派",
+   "en": "workers opposition",
+   "source": "马克思主义",
+   "wordNumber": "04.0368",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1920—1922年间俄国共产党内由工联主义者组成的工团主义派别。工人反对派反对列宁关于国家在民主集中制原则基础上控制经济的主张，而主张将经济管理交给专门为此成立的全俄生产者代表大会。"
+  },
+  {
+   "cn": "工人兄弟会",
+   "en": "Workers Brotherhood",
+   "source": "马克思主义",
+   "wordNumber": "04.0395",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年由德国改良主义代表波尔恩·斯蒂凡（Born Stephen）创立的工人组织，由于受小资产阶级思想影响，主张通过改良实现工人阶级解放。马克思和恩格斯当时曾希望把它改造成工人阶级的政党。1850"
+  },
+  {
+   "cn": "白领工人",
+   "en": "white-collar worker",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "从事非体力性工作的受雇者，工业化社会职业分层的一个基本类别，与“蓝领工人”相对。"
+  },
+  {
+   "cn": "蓝领工人",
+   "en": "blue-collar worker",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "从事体力性劳动的受雇者，工业化社会职业分层的一个基本类别，与“白领工人”相对。"
+  },
+  {
+   "cn": "保育师",
+   "en": "child-care worker",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.3.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康促进",
+   "subjectName": "妇幼健康促进",
+   "publishYear": "2025",
+   "definition": "在托育机构及其他保育场所中，从事婴幼儿生活照料、安全看护、营养喂养和早期发展工作的人员。"
+  },
+  {
+   "cn": "社区卫生工作者",
+   "en": "community health worker",
+   "source": "社会医学名词",
+   "wordNumber": "11.5.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务人员",
+   "publishYear": "2025",
+   "definition": "以社区常住居民为服务对象，通过健康宣教、疾病预防、医疗协助、健康管理等综合性服务，协助基层医疗卫生机构提升服务效率，促进居民健康公平与社区和谐发展，通常指接受过基础医疗培训的非专业人员。"
+  },
+  {
+   "cn": "放射工作单位",
+   "en": "employer of radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "开展下列活动的企业、事业单位和个体经济组织：①放射性同位素（非密封放射性物质和放射源）的生产、使用、销售、运输、贮存和废弃处理；②射线装置的生产、使用和维修；③核燃料循环中的铀矿开采、水冶、铀的浓缩和"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

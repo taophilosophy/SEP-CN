@@ -1,0 +1,802 @@
+{
+ "key": "identification component",
+ "term": "identification component",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:04+00:00",
+ "status": "ok",
+ "note": "variant=identification component; 审定公布名词库=666; 海峡两岸名词对照库=252; 其他来源数据库=77; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "营养成分鉴定",
+   "en": "identification of nutritional component ",
+   "source": "草学名词",
+   "wordNumber": "6.0208",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "证认",
+   "en": "identification",
+   "source": "天文学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "将新发现天体或天象与已知天体或天象认同为同一个或同一类的过程。"
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification ",
+   "source": "草学名词",
+   "wordNumber": "4.0656",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "判别",
+   "en": "identification",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2334",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "识别不同类型的事件，特别是区别地震与地下核爆和区别地下核爆与化学爆炸的工作。 "
+  },
+  {
+   "cn": "认清",
+   "en": "identification",
+   "source": "光学名词",
+   "wordNumber": "17.116",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "可辨别出目标的型号及其他特征的一种图像信息提取技术。按照约翰逊准则，50%认清概率时目标临界尺寸需要有(6.4±1.5)线对。认清概率越高，目标临界尺寸内需要对应更多的线对数。"
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "动物学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "从已知的分类单元中辨认出未知的标本，并确定它在现存分类等级中正确位置的过程。"
+  },
+  {
+   "cn": "认证",
+   "en": "identification",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0435",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_溯源与预警",
+   "subjectName": "溯源与预警",
+   "publishYear": "2020",
+   "definition": "由国家认可的认证机构证明一个组织的产品、服务、管理体系符合相关标准、技术规范或其强制性要求的合格评定活动。"
+  },
+  {
+   "cn": "识别",
+   "en": "identification",
+   "source": "物理学名词",
+   "wordNumber": "01.0129",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "植物学名词",
+   "wordNumber": "02.0122",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "从已知的分类单位中辨认出未知的标本，并确定它在现存分类等级中正确位置的过程。"
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "化学名词",
+   "wordNumber": "03.0042",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "对试样中某种组分的鉴别和确定的过程。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "identification",
+   "source": "药学名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "未知物通过比较试验或用其他方法试验后，确认某种特定物质的操作；药品标准中通过化学或物理方法对待测物质进行真伪鉴定的试验。"
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "微生物学名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "确定待定微生物菌株是否可归入已知分类单元的过程。"
+  },
+  {
+   "cn": "辨识",
+   "en": "identification",
+   "source": "数学名词",
+   "wordNumber": "012.0474",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "辨识",
+   "en": "identification",
+   "source": "电子学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "组件",
+   "en": "component",
+   "source": "档案学名词",
+   "wordNumber": "06.01.011",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "作为一个或多个数字文件的一部分，含排序、构建或呈现其内容及形式的必备元数据，且需要特定保存措施的一个数字体。如一个网页的多媒体组件。"
+  },
+  {
+   "cn": "组元",
+   "en": "component",
+   "source": "冶金学名词",
+   "wordNumber": "04.0067",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "在一定的温度和压力下，溶液、固溶体或气体体系中存在的化学成分有一定比例且此比例可以在某个范围内连续变化的物质。"
+  },
+  {
+   "cn": "分量",
+   "en": "component",
+   "source": "物理学名词",
+   "wordNumber": "02.0330",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "构件",
+   "en": "component",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0343",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）在一般语境中，泛指软件、硬件或任何其他系统的组成部分。（2）在软件复用和基于构件的软件工程中，特指按某种构件标准设计，并可在多个系统中重复使用的软件构造块。（3）在体系结构设计中，特指体系结构的"
+  },
+  {
+   "cn": "元件",
+   "en": "component",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0006",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "电路中不能进一步分拆的基本单元。"
+  },
+  {
+   "cn": "元件",
+   "en": "component",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0006",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "可构成更高层次组装件的原材料、零件或子装配件。"
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "证认",
+   "en": "identification",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辨识",
+   "en": "identification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定",
+   "en": "identification",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辨识",
+   "en": "identification",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别，鉴定",
+   "en": "identification",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "组元",
+   "en": "component",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "子源",
+   "en": "component",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组件",
+   "en": "component",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分量",
+   "en": "component",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组分",
+   "en": "component",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "τ分量",
+   "en": "τ-component",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "υ分量",
+   "en": "υ-component",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子星",
+   "en": "component star\",\"component",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合成部件",
+   "en": "compound component\",\"synthetic component",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程辨识",
+   "en": "process identification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模型辨识",
+   "en": "model identification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防御认同",
+   "en": "defensive identification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险识别",
+   "en": "Risk Identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "威胁识别",
+   "en": "threat identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "站点鉴别",
+   "en": "site identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信贷风险识别",
+   "en": "credit risk identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份证明系统",
+   "en": "digital identification system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技风险识别",
+   "en": "Fintech Risk Identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份识别",
+   "en": "electronic identification (eID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去标识化技术",
+   "en": "de-identification technique",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景分割识别",
+   "en": "scenario segmentation and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射频识别",
+   "en": "radio frequency identification (RFID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主成分分析",
+   "en": "principal component analysis (PCA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "章句",
+   "en": "Textual Components / Annotation Work",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛智能化城市部件",
+   "en": "ubiquitous intelligent urban components",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动互联消费者群组识别",
+   "en": "mobile Internet consumer group identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "验明身份发展计划",
+   "en": "Identification for Development (ID4D) Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫开发识别",
+   "en": "identification of development-oriented poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动产质押品识别跟踪系统",
+   "en": "movable property pledge identification and tracking system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织认同",
+   "en": "organizational identification",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体与组织具有一致性或从属于组织的知觉。当个体认同于组织时， 就倾向于把自己与组织联系起来，认为组织的命运就是他的命运，组织的成功或失败就是他的成功或失败。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "危害识别",
+   "en": "hazard identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据流行病学、动物实验、体外试验、结构-活性关系等科学数据和文献信息，确定生物、系统或（亚）人群暴露于某一因素或状况后发生有害作用的类型和属性的过程。"
+  },
+  {
+   "cn": "民族识别",
+   "en": "ethnic identification",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0053",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "对民族名称和民族成分的辨别和认定。在中国，遵循马克思主义民族理论和民族政策，在文献研究和实地调查研究基础上，并且尊重待识别人口的意愿，最终作出识别结论。通过民族识别工作，中国正式确定公布的共有56 个"
+  },
+  {
+   "cn": "语言识别",
+   "en": "language identification",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0178",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "根据一定的标准分辨和确定民族语言身份的过程。1950 年代，中国政府对全国少数民族语言开展过普查和识别。"
+  },
+  {
+   "cn": "血清学鉴定",
+   "en": "serological identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.56",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "用已知抗体（或抗原）鉴定对应抗原（或抗体）的试验。"
+  },
+  {
+   "cn": "危害识别",
+   "en": "hazard identification",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "对食品中可能产生不良健康影响的生物、化学、物理因素进行的确定。"
+  },
+  {
+   "cn": "电解质配方",
+   "en": "electrolyte component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.34",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以碳水化合物为基础，添加适量电解质的非全营养配方食品。"
+  },
+  {
+   "cn": "阶级成份",
+   "en": "class component",
+   "source": "马克思主义",
+   "wordNumber": "03.0091",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "依照生产资料所有制、与劳动的关系和生活资料获取情况等标准，对社会人群的阶级性质和阶级地位进行的分类。"
+  },
+  {
+   "cn": "增稠组件",
+   "en": "thickening component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.35",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以碳水化合物为基础，添加一种或多种增稠剂，可以添加膳食纤维的非全营养配方食品。用于增加液体食品的粘稠度。"
+  },
+  {
+   "cn": "脂肪组件",
+   "en": "fat component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.32",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由脂肪和/或脂肪酸构成，可选用长链甘油三酯、中链甘油三酯或其他允许使用的脂肪（酸）作为脂肪来源的非全营养配方食品。"
+  },
+  {
+   "cn": "蛋白质组件",
+   "en": "protein component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.31",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由蛋白质和/或氨基酸构成，选择一种或多种氨基酸、蛋白质水解物、肽类或优质的整蛋白作为蛋白质来源的非全营养配方食品。"
+  },
+  {
+   "cn": "营养素组件",
+   "en": "Nutrients component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.30",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "仅以某种或某类营养素为主的非全营养配方食品。可分为蛋白质组件、脂肪组件和碳水化合物组件等。"
+  },
+  {
+   "cn": "碳水化合物组件",
+   "en": "carbohydrate component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.33",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由碳水化合物构成，可选用单糖、双糖、低聚糖或多糖、麦芽糊精、葡萄糖聚合物或其他允许使用的原料作为碳水化合物来源的非全营养配方食品。"
+  },
+  {
+   "cn": "非能动部件",
+   "en": "passive components",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.26",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "无须依靠触发、机械运动或动力源等外部输入即能执行功能的部件。"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "可选择性成分",
+   "en": "optional components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.6",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可添加或不添加的成分。能够满足适用人群特殊生理阶段或特殊机体状态下不同营养需求的营养成分，添加时其添加量应当符合相关标准限定的范围。"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.5",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在产品中必须添加、且添加量应当达到标准限定量的营养成分，能够满足特定适用人群的基本营养需求。"
+  },
+  {
+   "cn": "鉴定培养基",
+   "en": "identification culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "根据微生物的代谢特点，在培养基中加入某种指示剂，通过显色反应以鉴别不同微生物的培养基。"
+  },
+  {
+   "cn": "细菌鉴定试验",
+   "en": "bacterial identification test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "对细菌进行形态鉴定、生化鉴定、核酸检测、血清学鉴定及质谱鉴定等生物学特征鉴别以及种属分类的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

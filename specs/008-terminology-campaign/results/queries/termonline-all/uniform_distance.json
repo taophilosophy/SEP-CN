@@ -1,0 +1,742 @@
+{
+ "key": "uniform distance",
+ "term": "uniform distance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:42+00:00",
+ "status": "ok",
+ "note": "variant=uniform distance; 审定公布名词库=907; 海峡两岸名词对照库=315; 其他来源数据库=91; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "标志服装",
+   "en": "uniform",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0439",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "反映成像系统在视野内各点性能一致性的指标。受计数统计涨落和探头非均匀性影响。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.359",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "在静态和动态条件下，轮胎圆周特性恒定不变的性能。它包括轮胎的不平衡、尺寸偏差和力的波动。"
+  },
+  {
+   "cn": "单值化",
+   "en": "uniformization",
+   "source": "数学名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致结构",
+   "en": "uniformity",
+   "source": "数学名词",
+   "wordNumber": "08.0552",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均布载荷",
+   "en": "uniform load",
+   "source": "地质学名词",
+   "wordNumber": "05.01.040",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "均匀分布在结构上的力(载荷)。均布载荷作用下各点受到的载荷都相等。一般用q表示，单位是N/m。"
+  },
+  {
+   "cn": "均匀流动",
+   "en": "uniform flow",
+   "source": "地质学名词",
+   "wordNumber": "09.02.122",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "变形岩石中各点的流动变形速度和方向都相同，整体上既无集中又无分散的流动。"
+  },
+  {
+   "cn": "均匀型催化剂",
+   "en": "uniform catalyst",
+   "source": "精细化工名词",
+   "wordNumber": "08.0318",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "活性组分的浓度不随载体中心到载体表面距离的变化而变化，即浓度近似保持一致，呈现均匀分布状态的催化剂。"
+  },
+  {
+   "cn": "均匀腐蚀",
+   "en": "uniform corrosion",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0259",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "腐蚀的一种形式，腐蚀位置均匀分布在金属表面。"
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution ",
+   "source": "草学名词",
+   "wordNumber": "7.0241",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "均匀腐蚀",
+   "en": "uniform corrosion",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0057",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "在与腐蚀环境接触的整个材料表面上几乎以相同速率进行的全面腐蚀。"
+  },
+  {
+   "cn": "一致前馈",
+   "en": "uniform feedforward",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.047",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "模块中直接和间接调控途径对输出模块的作用相同的现象。"
+  },
+  {
+   "cn": "均匀腐蚀",
+   "en": "uniform corrosion",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0483",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "在与腐蚀环境接触的整个金属表面上几乎以相同速度进行的腐蚀。"
+  },
+  {
+   "cn": "均匀腐蚀",
+   "en": "uniform corrosion",
+   "source": "冶金学名词",
+   "wordNumber": "08.0076",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "在腐蚀性环境中材料产生的在整个表面各处程度基本相同的腐蚀。"
+  },
+  {
+   "cn": "统一题名",
+   "en": "uniform title",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.492",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "同一著作由于有不同的版本和译本而具有多个不同的题名或题名形式时，为了在目录中集中同一著作的不同版本和译本而在编目时选定的一个特定的题名。"
+  },
+  {
+   "cn": "统一标目",
+   "en": "uniform heading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.621",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "著者（个人或集体）姓名及题名等常有详简、结构以及拼法上的不同，为了避免款目分散，在取标目时一并采用的标准形式。"
+  },
+  {
+   "cn": "均匀照明",
+   "en": "uniform illumination",
+   "source": "物理学名词",
+   "wordNumber": "04.0668",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "匀加速度",
+   "en": "uniform acceleration",
+   "source": "物理学名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "均匀电介质",
+   "en": "uniform dielectric",
+   "source": "物理学名词",
+   "wordNumber": "03.0179",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一致共振",
+   "en": "uniform resonance",
+   "source": "物理学名词",
+   "wordNumber": "02.0375",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "均匀的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同一的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均匀层",
+   "en": "uniform layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀转化",
+   "en": "uniform conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀结焦",
+   "en": "uniform coking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流动",
+   "en": "uniform stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀晶体",
+   "en": "uniform crystal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀载荷",
+   "en": "uniform loading",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀中毒",
+   "en": "uniform poisoning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均匀伸长率",
+   "en": "uniform elongation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不均匀",
+   "en": "non-uniform",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同质区域",
+   "en": "uniform region",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色摔跤服",
+   "en": "blue uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色摔跤服",
+   "en": "red uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "team uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹起高度",
+   "en": "uniform bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "和而不同",
+   "en": "Harmony but Not Uniformity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤服",
+   "en": "jersey\",\"wrestling tricot\",\"wrestling uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "剂量均匀度比值",
+   "en": "dose uniformity ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.5",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "同一批量产品中最高吸收剂量和最低吸收剂量的比值。"
+  },
+  {
+   "cn": "长期均匀摄入",
+   "en": "uniform intake in long term",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.15",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "每年绝大多数时间内，以相对恒定的速率摄入放射性核素。此时放射性核素吸收率保持恒定状态，而组织内放射性核素则与日俱增。经过一段时间以后（此核素在给定器官内有效半减期的6倍～7倍），在此器官内活度达到平衡"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  },
+  {
+   "cn": "焦点-皮肤距离",
+   "en": "focus-skin distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.33",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至受检者皮肤表面的最近距离。"
+  },
+  {
+   "cn": "应急计划距离",
+   "en": "emergency planning distance",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好有效采取预防性紧急防护行动、紧急防护行动和早期防护行动和其他响应行动的安排，以实现应急响应目标的区域。"
+  },
+  {
+   "cn": "焦点-影像接收器距离",
+   "en": "focus-image receptor distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至影像接收器表面的距离。"
+  },
+  {
+   "cn": "正常治疗距离",
+   "en": "normal treatment distance，NTD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "采用电子线治疗时，为沿着有用线束轴，从电子线窗沿辐射束轴至限束器末端或规定平面所测量的距离；采用X射线治疗时，为从靶的前表面沿辐射束轴至等中心所测量的距离；采用非等中心设备治疗时，则为至规定平面的距离"
+  },
+  {
+   "cn": "源轴距",
+   "en": "source-axis distance，SAD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.42",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "沿着辐射束轴测量的辐射源与机架旋转轴之间的距离。"
+  },
+  {
+   "cn": "源皮距",
+   "en": "source-surface distance，SSD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.43",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "沿着辐射束轴测量的辐射源与受照体表之间的距离。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  },
+  {
+   "cn": "枕墙距",
+   "en": "occiput-to-wall distance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查颈椎的活动度的指标。患者足跟和背部靠墙；下巴平直；尽可能使头靠向墙壁；测量枕部至墙壁的距离。取两次测量的均值，以cm为单位。"
+  },
+  {
+   "cn": "耳墙距",
+   "en": "ear-to-wall distance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查颈椎的活动度的指标。患者足跟和背部靠墙；下巴平直；尽可能使头靠向墙壁；测量耳屏至墙壁的距离(耳樯距)。取两次测量的均值，以cm为单位。"
+  },
+  {
+   "cn": "指地距",
+   "en": "finger-to-ground distance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "受试者直立, 然后向前弯腰、伸臂, 测量指尖与地面的距离。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,662 @@
+{
+ "key": "k-reliabilism",
+ "term": "K-Reliabilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:43:57+00:00",
+ "status": "ok",
+ "note": "variant=K-Reliabilism; 审定公布名词库=374; 海峡两岸名词对照库=120; 其他来源数据库=23; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "K-K关系",
+   "en": "K-K relation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0965",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "由脉冲响应的因果性得出的、振幅与相位的频率响应关系式。 "
+  },
+  {
+   "cn": "K1分潮",
+   "en": "K1-component,K1-constituent",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "太阴-太阳赤纬全日分潮，其周期为23.934平太阳时。"
+  },
+  {
+   "cn": "K2分潮",
+   "en": "K2-component,K2-constituent",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0275",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "太阴-太阳半日分潮，其周期为11.967平太阳时。"
+  },
+  {
+   "cn": "钾",
+   "en": "potassium,K",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.241",
+   "subjectFullName": "肠外肠内营养学_基础营养_无机盐",
+   "subjectName": "无机盐",
+   "publishYear": "2019",
+   "definition": "人体内的一种常量元素。细胞内液最主要的阳离子。具有维持神经肌肉及心肌正常功能、糖和蛋白质正常代谢、细胞内外液的渗透压和酸碱平衡等多种生理功能。"
+  },
+  {
+   "cn": "开[尔文]",
+   "en": "kelvin,K",
+   "source": "电气工程名词",
+   "wordNumber": "01.894",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "K细胞",
+   "en": "K cell",
+   "source": "普通外科学名词",
+   "wordNumber": "18.017",
+   "subjectFullName": "医学_普通外科学_小肠外科",
+   "subjectName": "小肠外科",
+   "publishYear": "2026",
+   "definition": "分布于十二指肠和空肠，具有分泌葡萄糖依赖性促胰岛素多肽，促进胰岛素分泌和抑制胃酸分泌功能的小肠内分泌细胞。"
+  },
+  {
+   "cn": "维生素K₃",
+   "en": "vitamin K₃",
+   "source": "精细化工名词",
+   "wordNumber": "08.0853",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₁₁H₈O₂·NaHSO₃·3H₂O，白色或灰黄褐色结晶性粉末。稳定性较差，含量≥51%（以甲萘醌计），化学合成法制备。用于补充维生素K。"
+  },
+  {
+   "cn": "K复合波",
+   "en": "K complex",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.34",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "在非快速眼动睡眠Ⅱ期出现于顶部或中央区的一种脑电波。波形宽钝，可有切迹，为双相或三相，但常仅有双相成分可以辨认，负尖波起始，后有一时限长的正尖波。在婴儿期波幅最高，可以超过200μV，随年龄增长逐渐下"
+  },
+  {
+   "cn": "K效应",
+   "en": "K effect",
+   "source": "天文学名词",
+   "wordNumber": "08.744",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "太阳附近B型亮星相对于太阳的系统性向外扩张运动对视向速度观测值的影响。因该项影响通常以K表示而得名。"
+  },
+  {
+   "cn": "K冕",
+   "en": "K corona",
+   "source": "天文学名词",
+   "wordNumber": "09.077",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "由自由电子散射太阳光球辐射形成的日冕成分。"
+  },
+  {
+   "cn": "维生素K",
+   "en": "vitamin K",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "9.0355",
+   "subjectFullName": "生物化学与分子生物学_激素与维生素_维生素_脂溶性维生素",
+   "subjectName": "脂溶性维生素",
+   "publishYear": "2024",
+   "definition": "具有促进凝血功能的一组脂溶性维生素。为2-甲基-1,4-萘醌及其衍生物的总称。存在于自然界的有叶绿醌（即维生素K1）和甲基萘醌（即维生素K2）。人工合成的有维生素K3和维生素K4。为肝脏合成活性凝血因"
+  },
+  {
+   "cn": "K改正",
+   "en": "K-correction",
+   "source": "天文学名词",
+   "wordNumber": "07.273",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "比较红移不同的河外天体在相同观测波段的连续谱性质所需进行的光度改正。"
+  },
+  {
+   "cn": "K俘获",
+   "en": "K-capture",
+   "source": "核科学技术名词",
+   "wordNumber": "2.131",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "原子核俘获一个轨道电子使核内一个质子转变为中子，同时放出一个中微子的核衰变过程。由于K电子层距原子核最近，K层电子被俘获的概率最大，因此常称为K俘‍获。"
+  },
+  {
+   "cn": "k质",
+   "en": "k-essence",
+   "source": "天文学名词",
+   "wordNumber": "07.532",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "基于非平凡动能项的标量场暗能量模型。"
+  },
+  {
+   "cn": "K型星",
+   "en": "K star",
+   "source": "天文学名词",
+   "wordNumber": "08.282",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱型为K型的恒星。光谱中电离和中性钙线强，中性金属线十分突出，分子带比G型星更显著。"
+  },
+  {
+   "cn": "维生素K缺乏症",
+   "en": "hypovitaminosis K",
+   "source": "兽医学名词",
+   "wordNumber": "15.228",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "动物体内维生素K缺乏或不足而引起的一种疾病。以凝血酶原和凝血因子减少、血液凝固过程发生障碍、凝血时间延长、易于出血为主要特征。"
+  },
+  {
+   "cn": "K复合波",
+   "en": "K complex",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.204",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "多导睡眠监测中，清晰负相尖波之后紧随正相波的一组波形。突现于背景脑电波上，持续时间≥0.5秒，通常额区导联波幅最高。"
+  },
+  {
+   "cn": "K指数",
+   "en": "K index",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0204",
+   "subjectFullName": "地球物理学_空间物理学_电离层",
+   "subjectName": "电离层",
+   "publishYear": "2022",
+   "definition": "描述单个地磁台每 3h间隔内地磁扰动强度的数字指标。 "
+  },
+  {
+   "cn": "K滤波",
+   "en": "K-filtering",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0296",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "利用频率 -波数矢量域波场能量分布表征稳态波动的方法，基于波场分量的多点同时测量，利用一组滤波器族增强空间分辨率，区分同样频率下不同类型的一种波。 "
+  },
+  {
+   "cn": "K选择",
+   "en": "K-selection",
+   "source": "动物学名词",
+   "wordNumber": "7.0404",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "在相对稳定环境中生活的生物，通过自然选择，向着降低繁殖力和母体哺育后代的方向发展的选择。K指环境容纳量。"
+  },
+  {
+   "cn": "K效应",
+   "en": "K-effect\",\"K-term",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K1分潮",
+   "en": "K1-component\",\"K1-constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "K2分潮",
+   "en": "K2-component\",\"K2-constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "K值",
+   "en": "K value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "K选择",
+   "en": "K-selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K波段",
+   "en": "K band",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K成分",
+   "en": "K component",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K对策者",
+   "en": "K-strategist",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K改正",
+   "en": "K-correction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K冕",
+   "en": "K corona",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K线",
+   "en": "K line",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K星等",
+   "en": "K-magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K型矮星",
+   "en": "K dwarf",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K型巨星",
+   "en": "K giant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K型星",
+   "en": "K star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K俘获",
+   "en": "K-capture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K对策",
+   "en": "K-strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K策略， K对策",
+   "en": "K-strategy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "K型结点",
+   "en": "K joint",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "K选择",
+   "en": "K-selection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "4K电视",
+   "en": "4K TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋单人皮艇",
+   "en": "slalom K1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "K均值聚类",
+   "en": "K-means clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漂流竞速单人皮艇",
+   "en": "wildwater racing K1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静水单人皮艇比赛",
+   "en": "flatwater race K1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人皮艇",
+   "en": "kayak four\",\"K4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单人皮艇",
+   "en": "kayak single\",\"K1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "k–近邻法",
+   "en": "k-nearest neighbor (KNN) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静水四人皮艇比赛",
+   "en": "Kayak four\",\"flatwater race K4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静水双人皮艇比赛",
+   "en": "Kayak double\",\"flatwater race K2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人皮艇",
+   "en": "kayak doubles\",\"kayak pair\",\"tandem\",\"K2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统可靠性",
+   "en": "computer system reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "钾-40",
+   "en": "potassium-40，K-40",
+   "source": "放射卫生学",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "一种原生放射性核素，元素符号为K，原子序数为19，原子量为40，半衰期为1.248×109年，衰变时发生β射线的最大能量为1.31MeV。"
+  },
+  {
+   "cn": "基切人",
+   "en": "K’iche",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0358",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲危地马拉境内最大的土著人民，主要分布在危地马拉的西部，人口大约62.3 万。基切人也是美洲最大的玛雅人族群之一。在与其他玛雅族群和西班牙殖民者融合的过程中，基切人文化也逐步体现了多元性。一些基切"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一种评估测量程序的可重复性、稳定性的量度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "研究所得结果的可靠程度。通过测量结果的稳定性及一致性来判断，通常用信度系数来评价。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由多位不同评分者分别独立评阅同一份测验问卷，再估计所给分数的一致性的量度。"
+  },
+  {
+   "cn": "再测信度",
+   "en": "test-retest reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估回答人在不同时点上对同一个测量的反应的稳定或不稳定程度的量度。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "将所有问题按性质、难度排队，编好单双数，在单数题目的回答结果与双数题目的回答之间求相关性的量度。"
+  },
+  {
+   "cn": "评价者间信度",
+   "en": "inter-rater reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "由多位不同的评定者分别采用同一问卷对相同研究对象进行评定，判断评定结果的一致程度。"
+  },
+  {
+   "cn": "复测信度",
+   "en": "test-retest reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用同一问卷在不同时间对同一研究对象进行重复测量，分析两次测量结果之间的一致性程度判断调查结果的可信度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "将一个问卷按照奇数条目和偶数条目分拆为两半，根据奇数条目项与偶数条目项回答的一致性程度判断的信度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

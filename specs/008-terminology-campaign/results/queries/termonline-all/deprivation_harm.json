@@ -1,0 +1,782 @@
+{
+ "key": "deprivation harm",
+ "term": "deprivation harm",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:36:58+00:00",
+ "status": "ok",
+ "note": "variant=deprivation harm; 审定公布名词库=929; 海峡两岸名词对照库=305; 其他来源数据库=76; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "心理学名词",
+   "wordNumber": "05.213",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "限制个体某些必需的生存条件(如食物或水) 的获得。"
+  },
+  {
+   "cn": "损害",
+   "en": "harm",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.016",
+   "subjectFullName": "放射医学与防护_放射生物学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "辐射照射引起的临床上可观察到的有害效 应。"
+  },
+  {
+   "cn": "伤害",
+   "en": "harm",
+   "source": "电气工程名词",
+   "wordNumber": "29.043",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.54",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "各种原因导致的睡眠减少或缺失。能够干扰人体的正常生理功能，甚至诱发疾病状态。多指由于被动原因强迫不能完成足够的睡眠时长。"
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.023",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "各种原因导致的睡眠减少或缺失。能够干扰人体的正常生理功能，甚至诱发疾病状态。多指由于被动原因强迫不能完成足够的睡眠时长。"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.212",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人感觉对被剥夺了自己认为有权享受的东西的不满体验，或是个人合理的期待与实际得到的价值之间存在差距的感受。缘于个人根据自己的教育水平、知识能力、工作努力、家世条件等，期望得到一定的社会地位及收入，如果"
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "行为医学名词",
+   "wordNumber": "3.086",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "因环境或自身的原因丧失所需要睡眠的过程和状态。可引起情绪变化、疲劳等一系列生理、心理和行为变化。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought deprivation",
+   "source": "行为医学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维被某种外力抽走的感觉。常与客观观察到的思维中断同时发生。"
+  },
+  {
+   "cn": "禁水",
+   "en": "water deprivation",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.031",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "在规定时间内不能饮水的饮食限制。"
+  },
+  {
+   "cn": "视觉剥夺",
+   "en": "visual deprivation",
+   "source": "生理学名词",
+   "wordNumber": "03.300",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "生理学名词",
+   "wordNumber": "03.830",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激素剥夺",
+   "en": "hormone deprivation",
+   "source": "生理学名词",
+   "wordNumber": "10.212",
+   "subjectFullName": "生理学_内分泌生理学",
+   "subjectName": "内分泌生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "神经病学名词",
+   "wordNumber": "17.001",
+   "subjectFullName": "神经病学_睡眠障碍",
+   "subjectName": "睡眠障碍",
+   "publishYear": "2020",
+   "definition": "各种原因导致的睡眠减少或缺失。能够干扰人体的正常生理功能，甚至诱发疾病状态。"
+  },
+  {
+   "cn": "环境剥夺",
+   "en": "environmental deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "03.448",
+   "subjectFullName": "精神医学_诊断分类_儿童情绪与行为障碍",
+   "subjectName": "儿童情绪与行为障碍",
+   "publishYear": "2019",
+   "definition": "环境不能满足基本需求的现象。如情绪的交互作用、认知刺激、安全感和从属关系等。"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0305",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "人们把自己所处的情境与其他参照群体比较后产生的差距、弱势与不公平感。"
+  },
+  {
+   "cn": "心理社会剥夺",
+   "en": "psychosocial deprivation",
+   "source": "心理学名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体情感、智力、生理发展所必需的心理社会动力条件缺失。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "心理学名词",
+   "wordNumber": "07.118",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "社会地位相对劣势与社会地位相对优势的人比较产生的失落感。"
+  },
+  {
+   "cn": "剥夺研究",
+   "en": "deprivation study",
+   "source": "心理学名词",
+   "wordNumber": "06.125",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "以成长于刺激贫乏环境条件下的儿童为对象，探讨环境经验对个体身心发展的影响。"
+  },
+  {
+   "cn": "感觉剥夺",
+   "en": "sensory deprivation",
+   "source": "心理学名词",
+   "wordNumber": "05.214",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "在动物个体发育初期，使之不能获得某种或某几种感觉刺激的特殊状态。"
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.339",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉剥夺",
+   "en": "sensory deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "母爱剥夺",
+   "en": "maternal deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剥夺研究",
+   "en": "deprivation study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理社会剥夺",
+   "en": "psychosocial deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有害干扰",
+   "en": "harmful interference",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有害物质",
+   "en": "harmful substance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有害昆虫",
+   "en": "harmful insect",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation\",\"SD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有害藻华",
+   "en": "harmful algal bloom\",\"HAB\",\"harmful algal red tide",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有害货",
+   "en": "harmful cargo\",\"noxious cargo",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有害物质报告",
+   "en": "harmful substance report\",\"HS",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "脱嘌呤作用",
+   "en": "depurination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脱嘌呤作用",
+   "en": "depurination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最右派生",
+   "en": "rightmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最左派生",
+   "en": "leftmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推导树",
+   "en": "derivation tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竖琴",
+   "en": "harp",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "眷群,妻妾群",
+   "en": "harem",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人怨伤国",
+   "en": "People’s Grievances Harm the Country.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴利除害",
+   "en": "Promote the Beneficial; Eliminate the Harmful",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最美逆行者",
+   "en": "heroes who put themselves in harm’s way",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防民之口，甚于防川",
+   "en": "To Silence the People Is More Harmful than Blocking a River.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "腹固",
+   "en": "hara-gatame\",\"stomach arm-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前肢",
+   "en": "arm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非持剑臂",
+   "en": "trailing arm\",\"unarmed arm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持枪臂",
+   "en": "leading arm\",\"weapon arm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非持剑臂",
+   "en": "trailing arm\",\"unarmed arm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持剑臂",
+   "en": "leading arm\",\"weapon arm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣",
+   "en": "Xingqu (Charm)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丽",
+   "en": "Enthralling Charm",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "韵",
+   "en": "Rhyme / Charm",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重拳",
+   "en": "hard blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备活动",
+   "en": "warm-up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备活动",
+   "en": "warm-up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备活动",
+   "en": "warm-up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "人们感觉应该拥有某种事物却没能拥有（不论之前是否拥有）的一种状态。所针对的事物范围很广，主要指最基本的福利需求，如食物、住房、教育和情感依托等。"
+  },
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "马克思主义",
+   "wordNumber": "03.0039",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于政治统治地位的剥削阶级以强制等方法夺去其他阶级所占有的生产资料、劳动成果和政治权利。它存在于在奴隶社会、封建社会和资本主义社会。"
+  },
+  {
+   "cn": "伤害",
+   "en": "harm",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0180000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "因某种行为而导致损害。医学活动中因各类主客观原因，给患者或研究参与者造成的身心或经济损害和损失。"
+  },
+  {
+   "cn": "绝对剥夺",
+   "en": "absolute deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "失去或缺乏满足基本生存需求（如食物、衣物或栖身之所）的手段。与“相对剥夺”相对。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "宗教剥夺理论",
+   "en": "deprivation theory",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.13",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "认为绝对的或相对的被剥夺使得个人比较容易响应特定的宗教召唤，其最广为人知的观点即马克思的宗教鸦片说。"
+  },
+  {
+   "cn": "社会剥夺",
+   "en": "social deprivation",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "法律取消或不允许个人或群体拥有参与社会活动、运用公共与私人资源的权利和机会。包括经济、政治、社会关系、文化、福利制度等的排斥，强调个体与社会整体之间的断裂。"
+  },
+  {
+   "cn": "睡眠剥夺",
+   "en": "sleep deprivation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.3.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "作业人员在战斗期间或进行军事作业活动过程中，维持长时间的觉醒状态，使人的生理和认知能力受损的现象，可影响认知思维和指挥决策能力。"
+  },
+  {
+   "cn": "环境危害",
+   "en": "environmental harm",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.1",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于对“自然环境”的使用、误用和拙劣管理造成的各种各样的损害和退化，包括污染、有毒废物和植物、土壤和动物的死亡等问题。"
+  },
+  {
+   "cn": "自我伤害",
+   "en": "self-harm",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "由儿童自己有意实施并对自身机体造成伤害或导致精神痛苦的行为，常见的自伤行为有刀割/切、烧烫、抠抓等。"
+  },
+  {
+   "cn": "非技术性伤害",
+   "en": "nontechnical harm",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.02",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "医学活动中因医学人员语言、态度、责任心等非技术因素而给患者造成的精神性损害。"
+  },
+  {
+   "cn": "经济性伤害",
+   "en": "economic harm",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0210000000000004",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "医务人员因实施不当的医疗行为而给患者或研究参与者造成的经济利益损失。"
+  },
+  {
+   "cn": "技术性伤害",
+   "en": "technical harm",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0189999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "因医学技术发展水平的限制或使用不当而给患者或研究参与者造成的身心损害。"
+  },
+  {
+   "cn": "自我伤害",
+   "en": "self-harm",
+   "source": "社会医学名词",
+   "wordNumber": "13.3",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "个体出于非自杀意图，故意、直接对自身身体组织造成即时损伤的行为，且该行为不符合社会或文化规范。"
+  },
+  {
+   "cn": "[有害的]组织反应",
+   "en": "[harmful] tissue reaction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应，通常存在阈剂量，超过该阈剂量水平，效应的严重程度随辐射剂量的增加而增加。例如红斑和急性放射病等。"
+  },
+  {
+   "cn": "组织反应",
+   "en": "harmful tissue reaction",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.13",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应。通常存在阈剂量水平，超过该阈剂量水平，效应的严重程度随辐射剂量的增加而加重。"
+  },
+  {
+   "cn": "文化剥夺理论",
+   "en": "cul­tural deprivation theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0142",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "这一理论认为少数民族和底层阶级的儿童因社区和家庭环境缺乏主流学校所需要的文化氛围，如良好的学习环境、父母对孩子学业成绩的期望以及儿童期养成的学习态度等，他们缺乏在主流学校获得学业成功必备的学业动机、语"
+  },
+  {
+   "cn": "避免环境有害行为",
+   "en": "avoid environmentally harmful behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对有害环境(包括自然环境和生活环境)采用调试、主动回避、积极应对等维护自身健康的行为。"
+  },
+  {
+   "cn": "食品中有害因素监测",
+   "en": "monitoring of harmful substances in food",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对食品生产、流通、餐饮服务等环节，除了食品污染以外的其他可能途径进入食品的有害因素进行监测，包括自然存在的有害物、违法添加的非食用物质以及没作为食品添加剂使用的对人体健康有害的物质"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

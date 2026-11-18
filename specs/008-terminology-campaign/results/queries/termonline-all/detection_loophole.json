@@ -1,0 +1,782 @@
+{
+ "key": "detection loophole",
+ "term": "detection loophole",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:31:09+00:00",
+ "status": "ok",
+ "note": "variant=detection loophole; 审定公布名词库=2941; 海峡两岸名词对照库=757; 其他来源数据库=70; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "漏洞",
+   "en": "loophole,vulnerability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0270",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "一种在信息系统设计、实现、配置中因疏忽形成的、可导致系统安全策略遭受破坏的缺陷。"
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "农学名词",
+   "wordNumber": "18.005",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "用特殊装置和特定方法对不能直接观测的目标或现象进行观察和评价的过程。"
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0908",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "根据振幅高于环境噪声，以及波形与频率不同于环境噪声以识别某一地震信号波至的工作。 "
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "物理学名词",
+   "wordNumber": "01.0108",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "核医学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "用特殊装置特定的方法对不能直接观测的目标或现象进行观察和评价的方法。核医学中特指用仪器对放射性进行的测量。"
+  },
+  {
+   "cn": "检出",
+   "en": "detection",
+   "source": "化学名词",
+   "wordNumber": "03.0043",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "定性分析中确定试样中某种成分有或无的过程。"
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.251",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "对电路或系统的工作参数的感测。"
+  },
+  {
+   "cn": "检波",
+   "en": "detection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0020",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "探测",
+   "en": "detection",
+   "source": "航海科技名词",
+   "wordNumber": "06.0314",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "检测",
+   "en": "detection",
+   "source": "电子学名词",
+   "wordNumber": "03.241",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "探测率",
+   "en": "detectivity",
+   "source": "光学名词",
+   "wordNumber": "11.068",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "光电探测器噪声等效功率的倒数。单位是<img src='/root/syzx/static/spz/guangxue1.11.068.01.png'/>。"
+  },
+  {
+   "cn": "可检测性",
+   "en": "detectability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1050",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程制造",
+   "subjectName": "计算机工程制造",
+   "publishYear": "2018",
+   "definition": "电子设备或计算机系统具有的能够检测其功能完整性的性质。"
+  },
+  {
+   "cn": "检测限",
+   "en": "detectability",
+   "source": "药学名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "试样中被测物能被检测出的最低量。常用百分数、ppm或ppb表示。"
+  },
+  {
+   "cn": "探测率",
+   "en": "detectivity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.402",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": "符号为D"
+  },
+  {
+   "cn": "可探测性",
+   "en": "detectability",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.242",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "检波器",
+   "en": "detecter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0056",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可检测性",
+   "en": "detectability",
+   "source": "数学名词",
+   "wordNumber": "012.0471",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "探测率",
+   "en": "detectivity",
+   "source": "电子学名词",
+   "wordNumber": "23.215",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可检测性",
+   "en": "detectability",
+   "source": "自动化名词",
+   "wordNumber": "02.261",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "检测",
+   "en": "measurement,detection",
+   "source": "电力名词",
+   "wordNumber": "12.015",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "以确定生产过程有关参数量值为目的的操作。参数通常是指温度、压力(差压)、流量、物位(液位及料位)、化学成分(包括烟气成分)以及热力设备必须检测的机械量等。"
+  },
+  {
+   "cn": "漏洞",
+   "en": "loophole",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检波",
+   "en": "detection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "检出",
+   "en": "detection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "检测，检波",
+   "en": "detection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探测",
+   "en": "detection",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "检测能力",
+   "en": "detectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可检测性",
+   "en": "detectability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探测率",
+   "en": "detectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检测限",
+   "en": "detectability",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "检错，差错检测",
+   "en": "error detection\",\"error detecting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干检测",
+   "en": "coherent detection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "测谎",
+   "en": "lie detection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信号检测",
+   "en": "signal detection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "检测期",
+   "en": "detection period",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "检出限，检测限",
+   "en": "detection limit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "间接检测",
+   "en": "indirect detection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "边缘检测",
+   "en": "edge detection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫检测",
+   "en": "immunological detection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "边缘检测",
+   "en": "edge detection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变化检测",
+   "en": "change detection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运动检测",
+   "en": "motion detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欺诈识别",
+   "en": "fraud detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为检测",
+   "en": "behavior detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图团体检测",
+   "en": "graph community detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单光子探测",
+   "en": "single photon detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "灾难检测技术",
+   "en": "disaster detection technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "入侵检测系统",
+   "en": "intrusion detection system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "入侵检测控制器",
+   "en": "intrusion detection controller",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "状态检测技术",
+   "en": "state detection technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能人体区位判断",
+   "en": "intelligent human position detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迹象发现和预警",
+   "en": "sign detection and warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞探测扫描工具",
+   "en": "vulnerability detection and scanning tool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故障检测及信息编码技术",
+   "en": "fault detection and information coding technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主机入侵侦测系统",
+   "en": "host-based intrusion detection system (HIDS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子重力探测灵敏度世界纪录",
+   "en": "world record for quantum gravity detection sensitivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据检测与评估技术标准",
+   "en": "technical standard for data detection and evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "探测效率",
+   "en": "detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在一定的探测条件下，探测器探测到的某种辐射的粒子数与在同一时间间隔内放射源所发射出的该种辐射粒子数的比值。"
+  },
+  {
+   "cn": "探测限",
+   "en": "detection limit",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "使某一测量装置所测样品中有感兴趣的事件存在时所对应的一个最小值。"
+  },
+  {
+   "cn": "早期发现",
+   "en": "early detection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "在尽可能早的阶段将出现症状的病例进行确诊的诊疗技术。"
+  },
+  {
+   "cn": "化学侦检法",
+   "en": "chemical detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "根据毒剂与化学试剂反应后生成的不同颜色、沉淀或荧光等判断有无毒剂存在、鉴别毒剂种类及染毒程度的方法。"
+  },
+  {
+   "cn": "生物侦检法",
+   "en": "biological detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "通过观察染毒区内各种动物和植物的异常表现，或用可疑染毒样品使动物中毒，观察动物中毒后症状，作出是否染毒及毒剂类别的初步判断。"
+  },
+  {
+   "cn": "检出率",
+   "en": "detection rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在风险监测工作中，被检样品总数中阳性出现的百分率。是评价污染物和污染源的强度指标之一。"
+  },
+  {
+   "cn": "物理侦检法",
+   "en": "physical detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "根据毒剂的沸点、熔点、比重、溶解度、紫外吸收、荧光、分子量、电离特点等物理性质的不同，采用声表面波传感、离子迁移谱、被动式红外遥感、气相色谱质谱联用、火焰光度检测技术等判断毒剂的类别和含量的方法。"
+  },
+  {
+   "cn": "生化侦检法",
+   "en": "biochemical detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "根据毒剂对某些生物系统的作用原理来侦检毒剂的方法，如通过胆碱酯酶测定法判断是否为神经性毒剂中毒及中毒程度。"
+  },
+  {
+   "cn": "相对探测效率",
+   "en": "relative detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "在探测器探头前表面距离为25cm处，HPGe探测器与标准的圆柱形NaI（Tl）闪烁晶体（Φ×h：7.62cm×7.62cm）探测器测量60Co源1332.49keVγ射线的全能峰峰面积的比值。"
+  },
+  {
+   "cn": "本征探测效率",
+   "en": "intrinsic detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "用以表示探测器本身性能的参数。它等于记录的脉冲数与入射到探测器灵敏体积内的γ光子数的比值。"
+  },
+  {
+   "cn": "核辐射侦检",
+   "en": "nuclear radiation detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "利用专门的仪器和技术，对环境（如空气、水、土壤）、人体、物体表面等是否存在核辐射，以及核辐射的类型（α、β、γ射线等）、强度、能量等诸多特性进行监测和检测的过程。"
+  },
+  {
+   "cn": "快速检测方法",
+   "en": "rapid detection method",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.39",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "利用快速检测设施、设备（包括快检车、室、仪、箱等），可在检测现场相对较短时间内对食品进行检测并出具结果的行为。"
+  },
+  {
+   "cn": "检测能力指导值",
+   "en": "detection capability guideline value",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "与科学、法律或其他要求相对应的有关检测能力的值，计划通过比较测量程序的检测限来评估。这个值可能基于实验室的历史数据、经验或行业标准确定，并用于指导实验室在特定条件下的测量工作。‌"
+  },
+  {
+   "cn": "核燃料泄漏检查",
+   "en": "leakage detection fuel rod",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "为判断核燃料包壳有无破损和破损程度而进行的检测活动。"
+  },
+  {
+   "cn": "现场快速检测",
+   "en": "on-site rapid detection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "放射卫生监督人员在卫生监督工作现场，对场所、设施、人员等进行检测，并在短时间内获得检测数据和结果的活动。"
+  },
+  {
+   "cn": "管道爬行探伤",
+   "en": "pipe crawl defect detecting",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "使用管道爬行器产生的射线对管道焊缝进行照射成像，以检查其内部缺陷的方法。"
+  },
+  {
+   "cn": "最低探测水平",
+   "en": "minimum detectable level，MDL",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "一个用于评价测量仪器探测能力的一个统计量值，指在给定的置信度下，测量仪器能够探测出的区别于本底值的最小量值。"
+  },
+  {
+   "cn": "最小可探测活度",
+   "en": "minimum detectable activity，MDA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平（一般取95%）能探测到的被测量样品或介质中放射性的最小活度（通常高于本底）。有时被称作活度的探测限或探测下限。"
+  },
+  {
+   "cn": "最小可测变化",
+   "en": "smallest detectable change, SDC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具能够可靠检测到的最小变化量。需大于测量随机误差。"
+  },
+  {
+   "cn": "固体核径迹探测",
+   "en": "solid state nuclear track detection",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "利用带电粒子穿过绝缘介质时，沿其轨迹会造成原子尺度辐射损伤这一现象而建立的带电粒子探测方法。如果损伤密度足够高，则经过化学蚀刻等方法处理，可用普通显微镜加以观察。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

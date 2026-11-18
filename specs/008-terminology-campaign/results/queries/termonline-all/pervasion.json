@@ -1,0 +1,422 @@
+{
+ "key": "pervasion",
+ "term": "pervasion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:32:29+00:00",
+ "status": "ok",
+ "note": "variant=pervasion; 审定公布名词库=136; 海峡两岸名词对照库=14; 其他来源数据库=6; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "普适数据管理",
+   "en": "pervasive data management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0348",
+   "subjectFullName": "计算机科学技术_数据库_特种数据库",
+   "subjectName": "特种数据库",
+   "publishYear": "2018",
+   "definition": "针对日常环境和用户行为数据的管理。包括来自移动设备和嵌入式设备数据的管理。"
+  },
+  {
+   "cn": "广泛性发育障碍",
+   "en": "pervasive developmental disorder,PDD",
+   "source": "精神医学名词",
+   "wordNumber": "03.387",
+   "subjectFullName": "精神医学_诊断分类_心理发育障碍",
+   "subjectName": "心理发育障碍",
+   "publishYear": "2019",
+   "definition": "在社会相互作用和交流方式方面有本质异常的发育障碍。这种异常是个体功能在各种场合下的一种弥漫性特征。与本障碍有关的病态包括婴儿痉挛、先天性风疹、结节性硬化、脑内脂肪沉积症，以及伴有精神发育迟缓的脆性X染"
+  },
+  {
+   "cn": "普适计算",
+   "en": "ubiquitous computing,pervasive computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0064",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "由计算机提供的计算功能无处不在并与环境融为一体，使人们可在任何时间、任何地点、以任何方式进行信息的获取与处理的方法和技术。"
+  },
+  {
+   "cn": "烂喉丹痧・毒燔气营证",
+   "en": "scarlet fever with syndrome of toxin pervading both qi and nutrient phases",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0255",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "疫毒燔灼气营，以咽喉红肿糜烂，甚则气道阻塞，声哑气急，丹痧密布，红晕如斑，赤紫成片，壮热，汗多，口渴，烦躁，舌绛干燥，遍起芒刺，状如杨梅，脉细数等为常见症的烂喉丹痧证候。"
+  },
+  {
+   "cn": "灌注",
+   "en": "perfusion",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.246",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振灌注加权成像",
+   "subjectName": "磁共振灌注加权成像",
+   "publishYear": "2020",
+   "definition": "血液由动脉进入毛细血管到达静脉之前的一段时间内，在单位时间流入器官内的血液量。"
+  },
+  {
+   "cn": "说服",
+   "en": "persuasion",
+   "source": "心理学名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "经由劝说、诱导，最后使他人改变观点、态度或价值观的过程。"
+  },
+  {
+   "cn": "灌注",
+   "en": "inflow,perfusion",
+   "source": "手外科学名词",
+   "wordNumber": "05.0079",
+   "subjectFullName": "手外科学_手外科学分论_肢体再植再造",
+   "subjectName": "肢体再植再造",
+   "publishYear": "2020",
+   "definition": "再植或移植的组织或器官通过手术动脉吻合后通血，恢复对再植或移植的组织或器官的血液供应的技术。"
+  },
+  {
+   "cn": "脉序",
+   "en": "venation,nervation",
+   "source": "植物学名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "叶片中维管束或叶脉分布的形式。一般分为网状脉序和平行脉序两大类。"
+  },
+  {
+   "cn": "血管灌洗",
+   "en": "vessel perfusion",
+   "source": "整形外科名词",
+   "wordNumber": "5.023",
+   "subjectFullName": "整形外科_显微外科_显微外科基本技术",
+   "subjectName": "显微外科基本技术",
+   "publishYear": "2026",
+   "definition": "血管吻合时，用灌洗液通过动脉灌洗血管床的方法。"
+  },
+  {
+   "cn": "灌流系统",
+   "en": "perfusion system",
+   "source": "妇产科学名词",
+   "wordNumber": "2.07",
+   "subjectFullName": "妇科症状、体征及检查_妇科内镜",
+   "subjectName": "妇科内镜",
+   "publishYear": "2025",
+   "definition": "宫腔镜手术中，控制膨宫介质的入量和出量，保持膨宫压力，保证子宫腔在手术中的最佳膨胀状态的机械系统。"
+  },
+  {
+   "cn": "血浆灌流",
+   "en": "plasma perfusion",
+   "source": "肝病学名词",
+   "wordNumber": "9.6.1.2",
+   "subjectFullName": "肝病学_肝衰竭_人工肝支持系统",
+   "subjectName": "人工肝支持系统",
+   "publishYear": "2024",
+   "definition": "通过离心或者利用不同孔径的中空纤维膜，将血液中含有毒素的血浆成分和血液有形成分进行分离，分离出的血浆再流经填充吸附剂的灌流器，以清除体内毒素或者某些致病因子的人工肝支持系统。"
+  },
+  {
+   "cn": "顺行灌注",
+   "en": "antegrade perfusion",
+   "source": "麻醉学名词",
+   "wordNumber": "04.094",
+   "subjectFullName": "麻醉学_专科麻醉_体外循环相关",
+   "subjectName": "体外循环相关",
+   "publishYear": "2024",
+   "definition": "顺行性通过放置于主动脉插管和主动脉瓣之间的灌注针经主动脉根部进入冠状动脉，或经冠状动脉开口直接灌注的方法。其中前者是最常用的心肌保护灌注方法，对于不切开升主动脉的所有心脏手术均可使用此方法灌注。后者适"
+  },
+  {
+   "cn": "逆行灌注",
+   "en": "retrograde perfusion",
+   "source": "麻醉学名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "麻醉学_专科麻醉_体外循环相关",
+   "subjectName": "体外循环相关",
+   "publishYear": "2024",
+   "definition": "逆行性经冠状静脉窦内的头端有套囊的导管进入冠状静脉并进行灌注的心肌保护方法。适用于需切开主动脉根部的心脏手术，对于冠状动脉阻塞或严重狭窄、主动脉瓣功能不全致冠状动脉灌流减少，二次冠脉搭桥术期间发生冠脉"
+  },
+  {
+   "cn": "灌注流量",
+   "en": "perfusion flow",
+   "source": "麻醉学名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "麻醉学_专科麻醉_灌注指标",
+   "subjectName": "灌注指标",
+   "publishYear": "2024",
+   "definition": "体外循环灌流组织的总血流量。是体外循环中重要的灌注指标和监测项目之一，常按照体表面积[L/（min·m2）]或单位体重[ml/（kg·min）]计算。"
+  },
+  {
+   "cn": "自我说服",
+   "en": "self persuasion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.093",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "交往者个人选择改变自身态度或行为的一种内心活动。一般情况下，自我说服没有明显的外显行为。"
+  },
+  {
+   "cn": "政治说服",
+   "en": "political persuasion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "以语言、文字、影像等方式改变人的态度与行为，使之从事某种形式的政治活动，或者作出某种方式的政治反应，以达到特定的政治意图。政治说服的形式主要有：宣传、广告与辞辩。"
+  },
+  {
+   "cn": "说服模式",
+   "en": "persuasion mode",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.035",
+   "subjectFullName": "新闻学与传播学_公共关系_理论与学派",
+   "subjectName": "理论与学派",
+   "publishYear": "2022",
+   "definition": "由美国耶鲁大学卡尔·霍夫兰(Carl Hovland)创立。说服者、说服对象、说服信息和说服情境构成态度改变所关联的四个基本要素。说服有态度改变和态度未变两种后果，而说服对象态度的改变与否与说服对象态"
+  },
+  {
+   "cn": "灌注培养",
+   "en": "perfusion culture",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.153",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "把细胞接入反应器中，连续注入新鲜培养基，同时连续等量排出用过的培养基但不排出细胞的培养过程。"
+  },
+  {
+   "cn": "灌注术",
+   "en": "perfusion technology",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "医学影像技术学_介入放射学技术_介入放射学",
+   "subjectName": "介入放射学",
+   "publishYear": "2020",
+   "definition": "在医学影像设备引导下，经皮穿刺血管，将导管直接插到靶血管，通过该导管注入相应药物，从而达到局部治疗的一种方法。"
+  },
+  {
+   "cn": "机械灌注",
+   "en": "machine perfusion",
+   "source": "器官移植学名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "一种器官保存的方法。在保存过程中持续向移植器官泵入灌注液直至移植。效果优于冷保存。"
+  },
+  {
+   "cn": "广泛发展障碍",
+   "en": "pervasive developmental disorder\",\"PDD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "说服",
+   "en": "persuasion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灌注",
+   "en": "perfusion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "脉序",
+   "en": "venation\",\"nervation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灌注法",
+   "en": "perfusion method",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "灌注培养",
+   "en": "perfusion culture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我说服",
+   "en": "self persuasion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贯流色谱法",
+   "en": "perfusion chromatography",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灌注显像",
+   "en": "perfusion imaging",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逃税",
+   "en": "tax evasion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫逃逸  ",
+   "en": "immune evasion  ",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "规避机动",
+   "en": "evasion maneuvre",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "灌流培养系统",
+   "en": "perfusion culture system",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国际偷税，国际避税，国际逃税",
+   "en": "international tax evasion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普适计算",
+   "en": "pervasive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "躲闪",
+   "en": "slip\",\"evasion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪躲",
+   "en": "evasion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒受衔",
+   "en": "evasion of the hand\",\"resistance to the hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说服",
+   "en": "persuasion",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "为了引导他人改变信念、态度和行为，通过各种方式和途径提供信息进行劝导的过程。"
+  },
+  {
+   "cn": "灌流清洗",
+   "en": "perfusion cleaning",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.3.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用水流压力对管腔内表面进行冲洗的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "division of labor",
+ "term": "division of labor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:38:04+00:00",
+ "status": "ok",
+ "note": "variant=division of labor; 审定公布名词库=10000; 海峡两岸名词对照库=7633; 其他来源数据库=1867; 预公布名词数据库=2792; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "劳动分工",
+   "en": "labor division",
+   "source": "畜牧学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂生物学",
+   "subjectName": "蜜蜂生物学",
+   "publishYear": "2020",
+   "definition": "蜂群中个体的社会分工。蜂王和雄蜂专司生殖，蜂巢内外一切其他工作均由工蜂承担。蜜蜂个体间的合作和相互依赖，可以保证蜜蜂群体在自然界中长期生存和种群繁荣。"
+  },
+  {
+   "cn": "劳动地域分工",
+   "en": "regional division of labor",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.045",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "为了获得较高的劳动生产率和经济效益，一定地域范围内各主体按照各自条件和比较优势，着重发展某一专业化部门的过程。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "经济学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "人类从事各种劳动的社会划分及其独立化、专业化。社会分工是人类文明的标志之一，也是商品经济发展的基础。社会分工使平均社会劳动时间大大缩短，生产效率显著提高。"
+  },
+  {
+   "cn": "区域分工",
+   "en": "regional division of labor",
+   "source": "经济学名词",
+   "wordNumber": "08.132",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "在资源和要素不能完全、自由流动的情况下，为满足各自生产、生活方面的多种需求，提高经济效益，各个区域在经济交往中就必然要按照比较利益的原则，选择和发展具有优势的产业的现象。"
+  },
+  {
+   "cn": "国际分工",
+   "en": "international division of labor",
+   "source": "经济学名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "跨越国界的社会分工，是各国之间具体劳动的分工。国际分工与各国自然、历史、社会经济技术条件有关，也受国际经济秩序影响。国际分工体现为产业间或产业内的分工，包括垂直型、水平型和混合型分工等类型。"
+  },
+  {
+   "cn": "克隆内分工",
+   "en": "intraclonal division of labor",
+   "source": "植物学名词",
+   "wordNumber": "13.0108",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "相互合作的分株为了更有效地获取不同资源，伴随着克隆整合产生的形态与生理功能的协调特化。"
+  },
+  {
+   "cn": "国际劳动地域分工",
+   "en": "international division of labor",
+   "source": "地理学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "一个国家依据其优势实行某一社会物质生产部门的专业化生产，它是社会劳动分工在地域上的表现形式。"
+  },
+  {
+   "cn": "劳动地域分工",
+   "en": "spatial division of labor",
+   "source": "地理学名词",
+   "wordNumber": "18.042",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "社会劳动分工的空间形式。指一国或一地区按照各自条件和比较优势，着重发展有竞争优势的专业化部门和在产品交换基础上的相互协作，以取得较高的劳动生产率和经济效益。"
+  },
+  {
+   "cn": "文化劳动的国际分工",
+   "en": "international division of cultural labor",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.028",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "跨国媒体集团所主导的文化劳动的全球化以及这一过程中产生的新的矛盾与不平等。托比·米勒(Toby Miller)等学者在《全球好莱坞》(Global Hollywood)中提出这一概念，通过阐释好莱坞重"
+  },
+  {
+   "cn": "垂直型国际分工",
+   "en": "vertical international division of labor",
+   "source": "经济学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "按产业发展的纵深度展开的国际分工。如加工制造业与初级产品生产之间，研发、制造与营销环节之间，高科技产业与一般加工制造业之间的分工等。垂直型国际分工多表现为经济发展水平不同的国家之间的纵向分工。"
+  },
+  {
+   "cn": "水平型国际分工",
+   "en": "horizontal international division of labor",
+   "source": "经济学名词",
+   "wordNumber": "13.004",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "按产业的横向联系或对产品组合、产品项目进行分解后形成的国际分工。多表现为经济发展水平相近的国家之间在产业部门内部的横向分工。"
+  },
+  {
+   "cn": "混合型国际分工",
+   "en": "mixed international division of labor",
+   "source": "经济学名词",
+   "wordNumber": "13.005",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "垂直型分工与水平型分工交叉混合的国际分工。"
+  },
+  {
+   "cn": "新国际劳动分工理论",
+   "en": "new international division of labor",
+   "source": "地理学名词",
+   "wordNumber": "18.134",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "跨国公司在全球范围内合理配置资源，寻找满意的生产地，尤其是将一些常规的、技术含量低的生产过程转移到欠发达国家，改变了以往只在这些国家进行原料生产或初级加工、而在发达国家进行最终产品生产的国际劳动分工格"
+  },
+  {
+   "cn": "决策分工",
+   "en": "division of labor in policy making",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0205",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "根据有关领域的专门需求和组织权力运用原则，安排相关组织与个人负责不同的决策工作，并相互配合，共同完成组织使命的决策工作模式。"
+  },
+  {
+   "cn": "分割",
+   "en": "division",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0427",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "根据制品要求，通过称量将面团分割成一定质量的小面团或用模具、刀具切割成型的过程。分割质量通常为成品质量的110%。"
+  },
+  {
+   "cn": "关系除法",
+   "en": "division",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0127",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "设关系 R除以关系S的结果为关系T，则T包含所有在R中但不在S中的属性及其值，且T的元组与S的元组的所有组合都在R 中。"
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "数学名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分性",
+   "en": "divisibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物本身具有内在结构可以区分为组成部分或子系统的属性。是事物的结构性与结构层次性的基础。其侧重于能被区分，而“可分离性”侧重于能被分离。"
+  },
+  {
+   "cn": "整除性",
+   "en": "divisibility",
+   "source": "数学名词",
+   "wordNumber": "04.0948",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整除",
+   "en": "divisible",
+   "source": "数学名词",
+   "wordNumber": "04.0949",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分工",
+   "en": "division of labor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "克隆内分工",
+   "en": "intraclonal division of labor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水平分工",
+   "en": "horizontal division of labor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳动地域分工",
+   "en": "international division of labor",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "劳动地域分工",
+   "en": "spatial division of labor",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新国际劳动分工",
+   "en": "new international division of labor",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分裂",
+   "en": "division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部",
+   "en": "division",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "空域划分",
+   "en": "division of airspace",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "径向分裂（=垂周分裂）",
+   "en": "radial division (=anticlinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "切向分裂（=平周分裂）",
+   "en": "tangential division (=periclinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弦向分裂，切向分裂（=平周分裂）",
+   "en": "tangential division (=periclinal division)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际分工",
+   "en": "international division of labour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "臂丛分支",
+   "en": "division of brachial plexus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂中期",
+   "en": "metaphase of cell division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分裂后期",
+   "en": "anaphase of cell division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "门",
+   "en": "division\",\"phylum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背侧股",
+   "en": "dorsal division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟分裂",
+   "en": "maturation division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劳动价值论",
+   "en": "labor theory of value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劳动保障智能监察",
+   "en": "smart supervision of labor protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据劳动",
+   "en": "data labor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨行政区域排污权交易",
+   "en": "emission trading across administrative divisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "劳务分享模式",
+   "en": "labor-sharing model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"division line\",\"midcourt line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分工",
+   "en": "division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0050",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于自然或社会原因导致的劳动的划分及独立化，表现为生产不同种类产品的不同种类的劳动的并存。分工可以区分为社会分工、不同部门的分工、企业内部的分工等。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "人类从事各种劳动的社会划分及其独立化和专业化。人类文明的标志之一。社会发展，尤其是商品经济发展和社会形式差别的基础。平均社会劳动时间大为缩短、生产效率显著提高的体现。"
+  },
+  {
+   "cn": "劳动的性别分工",
+   "en": "gender division of labor",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依据性别进行的劳动分工，是一种强制性的分工规则。在男性中心主导的社会中，这一分工基本为男外女内、男主女从的模式。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0051",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“自然分工”不同，社会劳动超越一个经济单位在整个社会范围内的独立划分和专业化过程，包括部门分工和部门内部分工。"
+  },
+  {
+   "cn": "国际分工",
+   "en": "international division of labour",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "世界各国间的劳动分工。劳动分工从一国之内向世界范围延伸的结果。国际生产关系决定了国际分工的性质，各国生产力的水平决定了其在国际分工中的地位。"
+  },
+  {
+   "cn": "职业分立",
+   "en": "division ofoccupation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于描述中国传统社会中，分工与身份的结合主要基于经济和伦理特点，而非基于血统和种姓的概念。梁漱溟指出，其表现为生产者自有其生产工具，可以自行生产。各行各业的从业者之间主要是职业差别，没有形成西方社会中"
+  },
+  {
+   "cn": "社会划分",
+   "en": "social division",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员的阶级、阶层或代际区分。人们依据一定的标准被分为不同的阶级阶层或不同年龄段的群体。"
+  },
+  {
+   "cn": "分家",
+   "en": "household division",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "因家庭内部的人口增加所引发的家庭生活空间的重新组合，往往伴随家庭成员的财产和责权的移动。"
+  },
+  {
+   "cn": "劳动二重性",
+   "en": "duality of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0043",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产商品的同一劳动同时具有的具体劳动和抽象劳动的属性或规定性。具体劳动生产商品的使用价值，抽象劳动生产商品的价值，是同一劳动过程形成的相互联系又对立的两个方面。马克思创立的劳动二重性学说，批判地继承了"
+  },
+  {
+   "cn": "劳动生产率",
+   "en": "productivity of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0045",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者的生产效率，是劳动者在一定时期内创造的劳动成果与其相适应的劳动消耗量的比值，一般用同一劳动在单位时间内生产某种产品的数量或价值量来表示。"
+  },
+  {
+   "cn": "劳动对象",
+   "en": "subject of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0100",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动过程的要素之一，人们在劳动工程中将自己的劳动加于其上的一切物质资料。劳动的对象分为两类：一类是没有经过人类劳动加工过的自然物；另一类是经过人类劳动加工过的物质资料。"
+  },
+  {
+   "cn": "劳动资料",
+   "en": "means of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0102",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者在生产过程中用于改造或影响劳动对象的一切物质资料和物质条件。生产工具（特别是机械性的生产工具，比那些只是充当劳动对象容器的劳动资料例如管、桶、篮、罐等，更能显示一个社会生产时代具有决定意义的特征"
+  },
+  {
+   "cn": "劳动产品",
+   "en": "products of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0106",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类劳动创造出来的用于生产消费和生活消费的社会产品，包括物质产品与意识形态产品，构成了社会财富的物质内容。它是人类社会存在和发展的基础。劳动产品如果采取市场交换形式去满足人们的需要就成为了商品。"
+  },
+  {
+   "cn": "劳动解放",
+   "en": "emancipation of labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0101",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一般意义上的劳动解放包括两个方面的涵义：一是劳动从自然的束缚中解放出来，二是劳动从特定社会制度的束缚中解放出来。马克思主义主要是在后一意义上使用这一概念。它特别强调通过无产阶级革命，消灭资本主义剥削制"
+  },
+  {
+   "cn": "阿尔巴尼亚劳动党",
+   "en": "AlbanianParty of Labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0312",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "阿尔巴尼亚社会主义时期执政党，成立于1941年，当时称为阿尔巴尼亚共产党，1948年更名为劳动党。该党领导阿人民进行社会主义建设。1990年12月分裂为社会党和共产党两个党。"
+  },
+  {
+   "cn": "产程",
+   "en": "stages of labor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.8",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "女性分娩的过程，从规律宫缩开始至胎儿、胎盘娩出的全过程，通常包括宫颈扩张期、胎儿娩出期和胎盘娩出期三个阶段。"
+  },
+  {
+   "cn": "产力",
+   "en": "force of labor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.9",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "将胎儿及其附属物从子宫内逼出的力量，包括子宫收缩力、腹壁肌及膈肌收缩力和肛提肌收缩力。"
+  },
+  {
+   "cn": "劳动过程",
+   "en": "process of laboring",
+   "source": "马克思主义",
+   "wordNumber": "02.0096",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者创造产品或商品使用价值的过程，是生产过程的一个方面。它包括三个实体性因素：劳动力、劳动对象和以劳动工具为主的劳动资料。科技渗透在劳动过程的实体性要素中。管理是组织实体性要素。"
+  },
+  {
+   "cn": "劳动",
+   "en": "labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0042",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动力的使用或消费，包括劳动者的脑、肌肉、神经、手等等的生产耗费，是人们以自身的活动来引起、调整和控制人和自然之间物质变换的过程。广义的劳动包括物质劳动、文化劳动、科学劳动、管理劳动等。"
+  },
+  {
+   "cn": "物理去除法",
+   "en": "physical division method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过稀释、过滤、吸附或离心沉淀等物理方式去除消毒体系中残余消毒剂的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

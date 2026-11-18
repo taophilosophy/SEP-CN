@@ -1,0 +1,732 @@
+{
+ "key": "barren tautology argument",
+ "term": "Barren Tautology Argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:47:45+00:00",
+ "status": "ok",
+ "note": "variant=Barren Tautology Argument; 审定公布名词库=839; 海峡两岸名词对照库=204; 其他来源数据库=25; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "重言式",
+   "en": "tautology",
+   "source": "数学名词",
+   "wordNumber": "02.0046",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "空怀",
+   "en": "barren",
+   "source": "兽医学名词",
+   "wordNumber": "01.032",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "母畜处于未孕的繁殖状态。生产实际当中,已列入繁殖计划而未妊娠的母畜,和未列入繁殖计划者都不在其列。"
+  },
+  {
+   "cn": "重言式规则",
+   "en": "tautology rule",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0090",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从子句集中删除恒真子句（重言式），不影响子句集的不可满足性。"
+  },
+  {
+   "cn": "哑层",
+   "en": "barren bed",
+   "source": "地质学名词",
+   "wordNumber": "07.01.050",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "不含任何化石的层段。"
+  },
+  {
+   "cn": "耐瘠薄",
+   "en": "barren tolerance ",
+   "source": "草学名词",
+   "wordNumber": "4.0477",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "贫液",
+   "en": "barren solution",
+   "source": "冶金学名词",
+   "wordNumber": "06.0206",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "含有价值物质较少的溶液。"
+  },
+  {
+   "cn": "次生裸地",
+   "en": "secondary barren",
+   "source": "生态学名词",
+   "wordNumber": "06.234",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "原有植被被破坏，但原有植被影响下的土壤条件仍然存在或受到很少破坏，甚至还残留原有植被的种子或繁殖体的裸地。"
+  },
+  {
+   "cn": "芜原",
+   "en": "barren area",
+   "source": "生态学名词",
+   "wordNumber": "13.100",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "由于土壤的某些物理或化学性质植物生长稀疏的区域。"
+  },
+  {
+   "cn": "空怀率",
+   "en": "barrenness rate",
+   "source": "畜牧学名词",
+   "wordNumber": "05.205",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "未妊娠母畜数占有繁殖能力母畜总数的百分率。"
+  },
+  {
+   "cn": "次生裸地",
+   "en": "secondary barren land",
+   "source": "林学名词",
+   "wordNumber": "03.159",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "原有植被被破坏，但原有植被影响下的土壤条件仍然存在或受到很少破坏，甚至还残留原有植被的种子或繁殖体的裸地。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "空怀母猪",
+   "en": "barren sow,empty sow",
+   "source": "畜牧学名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "畜牧学_饲养管理_猪饲养",
+   "subjectName": "猪饲养",
+   "publishYear": "2020",
+   "definition": "仔猪断乳后至再次妊娠前的母猪。"
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "重言式",
+   "en": "tautology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "荒地",
+   "en": "barrens",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重言式规则",
+   "en": "tautology rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "溶痕",
+   "en": "karren",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪管",
+   "en": "barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪管",
+   "en": "barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "躯干",
+   "en": "barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可更换枪管",
+   "en": "changeable barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑膛枪管",
+   "en": "smooth barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帆插条",
+   "en": "batten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清洁枪管",
+   "en": "clean the barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膛线枪管",
+   "en": "rifled bore\",\"rifled barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信贷障碍",
+   "en": "credit barrier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帆骨撑袋",
+   "en": "batten pocket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0161",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种没有货币介入的物品交易方式，特点是买和卖的行为同时发生，许多现代复杂社会的早期阶段存在着这种现象。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.24",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "不以货币为媒介而直接用一种物品换取另一种物品的互换行为。最简单的经济制度里唯一的交换方式。"
+  },
+  {
+   "cn": "物物交换",
+   "en": "barter",
+   "source": "马克思主义",
+   "wordNumber": "02.0060",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换的原始形式，出现在原始社会后期、第一次社会大分工以前的产品的直接交换。物物交换的特点是没有买与卖的区别。物物交换从价值形式的发展来看，包括简单的价值形式和扩大的价值形式。"
+  },
+  {
+   "cn": "大麦",
+   "en": "barley",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.7",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "禾本科大麦属作物的总称,学名Hordeum L.，一年生或越年生草本植物。大麦通常指皮大麦。"
+  },
+  {
+   "cn": "周转箱",
+   "en": "transfer container/barrel",
+   "source": "消毒学",
+   "wordNumber": "7.2.14",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "医疗废物运送过程中用于盛装已初级包装的医疗废物的专用硬质容器。"
+  },
+  {
+   "cn": "格林巴利综合征",
+   "en": "Guillain-Barre syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.1.1.8",
+   "subjectFullName": "食品卫生学_食源性疾病_感染型食源性疾病",
+   "subjectName": "感染型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由空肠弯曲菌感染引起、以神经根和外周神经损害为主、伴有脑脊液中蛋白-细胞分离、脊神经和周围神经脱髓鞘的自身免疫性神经系统疾病。"
+  },
+  {
+   "cn": "密闭屏障",
+   "en": "confinement barrier",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.5",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "由一道或多道实体屏障连同相应的辅助设备（包括通风设备）所构成的系统，能有效限制或防止正常和异常条件下放射性物质向外界的释放。"
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "花园城市",
+   "en": "garden cities",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "在一个大的中心城市周围建立的若干卫星城，其中工业、农业、住宅功能分区而有序排列，并以绿化带环绕的规划模式。由英国人霍华德(Ebenezer Howard）于1898年提出。旨在通过规划来兼顾城乡优势，"
+  },
+  {
+   "cn": "照料者负担",
+   "en": "caregiver burden",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.9",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "长期照料体弱老年人时产生的个人精力和时间的限制、经济紧张以及心理上的挫败感。"
+  },
+  {
+   "cn": "屏障避孕法",
+   "en": "barrier contraception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一类应用物理屏障阻挡精子到达子宫内，或用化学制剂在阴道内灭活精子的避孕方法。"
+  },
+  {
+   "cn": "暴露负荷",
+   "en": "exposure burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露量除以暴露表面积的值。例如，基于皮肤擦拭样品的皮肤暴露测量，表示为每单位皮肤表面积的残留量。"
+  },
+  {
+   "cn": "吸收屏障",
+   "en": "absorption barrier",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.31",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "可以延缓外源化学物渗透到人体内速度的界面。包括皮肤、呼吸道内壁和胃肠道壁等。"
+  },
+  {
+   "cn": "肠屏障",
+   "en": "intestinal barrier",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.68",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "能够防止肠内的有害物质如细菌和毒素穿过肠黏膜进入人体内其他组织、器官和血液循环的结构和功能的总和，包括肠黏膜上皮、肠黏液、肠道菌群、分泌性免疫球蛋白、肠道相关淋巴组织、胆盐、激素、消化酶等。"
+  },
+  {
+   "cn": "沟通障碍",
+   "en": "communication barrier",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0889999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "信息传递过程中存在的困难或不利因素。医患沟通要素利用不当，影响医患沟通的效果和质量。"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "微生物屏障试验",
+   "en": "microbial barrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.36.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价透气性灭菌医疗用品包装材料对指示微生物穿过的阻挡性能的试验。包括湿性条件下微生物屏障试验和干性条件下微生物屏障试验等。"
+  },
+  {
+   "cn": "完全隔离屏障",
+   "en": "fully isolated barrier",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.1.1",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "在医用织物洗涤作业场所的污染区与清洁区之间设置的全封闭式的物理隔断，设有工作人员、医用织物接收与发放的专用通道，污区与洁区分别开设通道门，两区之间空气不能对流。"
+  },
+  {
+   "cn": "部分隔离屏障",
+   "en": "partial isolated barrier",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.1.2",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "在医用织物洗涤作业场所清洁区内设置的高度与宽度适应操作需要，空间空气可以对流的非完全封闭的物理隔断。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

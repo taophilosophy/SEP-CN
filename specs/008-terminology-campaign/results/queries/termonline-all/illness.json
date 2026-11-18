@@ -1,0 +1,482 @@
+{
+ "key": "illness",
+ "term": "illness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:42:21+00:00",
+ "status": "ok",
+ "note": "variant=illness; 审定公布名词库=81; 海峡两岸名词对照库=3; 其他来源数据库=5; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "病态",
+   "en": "ill-conditioned,ill-conditioning",
+   "source": "数学名词",
+   "wordNumber": "010.0410",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "病感",
+   "en": "illness perception",
+   "source": "行为医学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "关于痛苦、不适、不健康或功能受限的主观感受。"
+  },
+  {
+   "cn": "病患行为",
+   "en": "illness behavior",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "患者对异常的精神或躯体信号做出的行为反应。"
+  },
+  {
+   "cn": "危重症",
+   "en": "critical illness",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "病情严重、多变且有威胁生命的危急情况存在的临床征象。多伴有一个或多个器官功能不全或衰竭。"
+  },
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "心理学名词",
+   "wordNumber": "10.081",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "由于精神紧张或干扰，使个体的思维、情感和行为发生偏离社会规范的异常心理现象。"
+  },
+  {
+   "cn": "未分化性疾患",
+   "en": "undifferentiated illness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.004",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "尚无法归于某种具体疾病的症状。多指疾病的早期，症状无特异性、表现泛化。"
+  },
+  {
+   "cn": "未病先防",
+   "en": "preventing illness before illness onset",
+   "source": "行为医学名词",
+   "wordNumber": "2.14",
+   "subjectFullName": "行为医学_行为医学基本理论_中医行为医学思想",
+   "subjectName": "中医行为医学思想",
+   "publishYear": "2022",
+   "definition": "在未发生疾病之前，采取各种有效措施，做好预防工作，防止疾病发生，重在养生。"
+  },
+  {
+   "cn": "性高潮后综合征",
+   "en": "postorgasmic illness syndrome",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.073",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "一种在性高潮后出现类似流感和过敏症状的临床综合征。包括性交、自慰或梦遗后。临床罕见，多见于男性射精后。症状往往在第 2 天达到顶峰，持续 2～7 天后自行消失。Ⅰ型超敏反应被认为是潜在机制。"
+  },
+  {
+   "cn": "异常患病行为",
+   "en": "abnormal illness behavior",
+   "source": "行为医学名词",
+   "wordNumber": "7.101",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "在自己患病相关问题上，异常、不可取的态度和行为。如过度检查和不遵医嘱、对身体不适的疑病态度、对疾病诊断的否认等。"
+  },
+  {
+   "cn": "异常患病行为",
+   "en": "abnormal illness behavior",
+   "source": "精神医学名词",
+   "wordNumber": "03.241",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "在自己患病相关问题上，异常的不可取的态度和行为。如过度检查和不遵医嘱，对身体不适的疑病态度，对疾病诊断的否认等。"
+  },
+  {
+   "cn": "天花样疾病",
+   "en": "smallpox-like illness",
+   "source": "感染病学名词",
+   "wordNumber": "03.0303",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "人感染猴天花病毒后出现的类似天花的疾病。散发于非洲中西部的热带雨林地区。临床起病急骤，可见发热、离心性出疹。病死率较高。儿童及免疫功能不良者预后差。"
+  },
+  {
+   "cn": "疾患阶段",
+   "en": "stage of illness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "从症状出现，到完全消失的时间段。"
+  },
+  {
+   "cn": "躁狂抑郁症",
+   "en": "manic-depressive illness",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.192",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "危重患者",
+   "en": "critical ill patient",
+   "source": "麻醉学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "麻醉学_重症监护与治疗_重症医学病房",
+   "subjectName": "重症医学病房",
+   "publishYear": "2024",
+   "definition": "病情严重，随时可能发生生命危险的患者。"
+  },
+  {
+   "cn": "羊跳跃病病毒",
+   "en": "louping ill virus",
+   "source": "感染病学名词",
+   "wordNumber": "03.0389",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "一种黄病毒科黄病毒属病毒。是一种有包膜的正链单链RNA病毒，可引起羊跳跃病。"
+  },
+  {
+   "cn": "不适定问题",
+   "en": "ill-posed problem",
+   "source": "数学名词",
+   "wordNumber": "06.0284",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "病态多项式",
+   "en": "ill-conditioned polynomial",
+   "source": "数学名词",
+   "wordNumber": "010.0320",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "病态矩阵",
+   "en": "ill-conditioned matrix",
+   "source": "数学名词",
+   "wordNumber": "010.0411",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "病态方程",
+   "en": "ill-conditioned equation",
+   "source": "数学名词",
+   "wordNumber": "010.0321",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "危重症多发性神经病",
+   "en": "critical illness polyneuropathy,CIP",
+   "source": "神经病学名词",
+   "wordNumber": "13.050",
+   "subjectFullName": "神经病学_周围神经系统疾病",
+   "subjectName": "周围神经系统疾病",
+   "publishYear": "2020",
+   "definition": "危重或脓毒血症患者，尤其是多脏器功能衰竭患者，治疗过程中发生的急性或亚急性起病的对称性多发性周围神经病。以轴突损害为主，感觉神经和运动神经均可受累。"
+  },
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不适定问题",
+   "en": "ill posed problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "皮革丰满性能",
+   "en": "fullness of leather",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "治病救人",
+   "en": "Treat the Illness and Save the Patient",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动静",
+   "en": "Movement and Stillness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "病痛叙述",
+   "en": "illness narrative",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0242",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "病人把他们的病痛体验组织成个人叙述。医学人类学认为，病痛叙述既受到个体因素的影响，也由于受文化的塑造而具有结构化的特点，它不仅反映患者的病痛体验，还有助于形成体验，认识并控制病痛。作为研究者，医学人类"
+  },
+  {
+   "cn": "患病",
+   "en": "disease/illness/sickness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "在社会学语境中，患病有三层涵义：一是医学上可鉴别的生理功能失调(disease），二是病人感受到某些症状的心理感受(illness），三是病人被社会认可，无法正常扮演社会角色的社会状态(sicknes"
+  },
+  {
+   "cn": "疾病成本",
+   "en": "cost of illness",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由疾病的发病、导致的伤残（失能）以及过早死亡带来的经济损失或资源消耗。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "社会医学名词",
+   "wordNumber": "12.4.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "贫困人口卫生保健",
+   "publishYear": "2025",
+   "definition": "个人或家庭成员因罹患重大疾病、慢性病或其他严重健康问题，导致高额医疗支出、劳动力丧失或收入下降，从而使家庭经济状况明显恶化，最终陷入贫困状态的现象。该问题广泛存在于缺乏完善医疗保障和社会支持机制的地区"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "因疾病费用支出导致的贫困。"
+  },
+  {
+   "cn": "因病缺课",
+   "en": "absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "学生因为患病不能参加学校正常的学习和生活的现象。是反映学校群体性疾病流行情况的敏感指标，也是反映学生健康状况和学校预防保健水平的重要指标。"
+  },
+  {
+   "cn": "因病休学",
+   "en": "dropout due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "学生因病不能继续学习，经学校同意，暂停学习但保留学籍的现象。"
+  },
+  {
+   "cn": "急性热致疾患",
+   "en": "acute heat-induced illnesses",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.10.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热损伤",
+   "subjectName": "热损伤",
+   "publishYear": "2025",
+   "definition": "因体热平衡失调，水、盐代谢紊乱，血液循环衰竭或因阳光直射头部导致脑组织损伤所引起的急性过热性疾患的总称。"
+  },
+  {
+   "cn": "慢性热致疾患",
+   "en": "chronic heat-induced illnesses",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.10.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热损伤",
+   "subjectName": "热损伤",
+   "publishYear": "2025",
+   "definition": "热对人体长期慢性作用所产生的疾患。"
+  },
+  {
+   "cn": "因病缺课率",
+   "en": "absence rate due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "常以月、周为单位，计算因病缺课的人时数或人日数占授课总人时数或总人日数的比率。为适应学校教学日历，以四周代替一月来登记和统计时，又称月病假率。计算人日数时，通常因病缺课3个学时记为半天；超过3个学时，"
+  },
+  {
+   "cn": "因病休学率",
+   "en": "dropout rate due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "全校学生一学期内因病休学的概率，是反映学生健康状况的指标。公式为全学期因病休学人数／该学期全校学生平均人数*100%"
+  },
+  {
+   "cn": "两周患病率",
+   "en": "two-week prevalence of illness",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.1.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "在调查日前的两周内患病的居民人数或人次数占被调查居民的比例，是反映卫生服务需要的常见指标。"
+  },
+  {
+   "cn": "儿童疾病综合管理",
+   "en": "integrated management of childhood illness, IMCI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童疾病综合管理",
+   "subjectName": "儿童疾病综合管理",
+   "publishYear": "2025",
+   "definition": "由世界卫生组织和联合国儿童基金会联合提出，1998年引入中国，其综合管理原则包括：医疗保健人员对所有患儿检查一般危险体征，同时评估营养状况、免疫接种等潜在问题，对患儿进行分类（而非诊断），使用规定的基"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "因病缺课缺勤管理",
+   "en": "management of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员对师生员工因病缺课/缺勤情况及诊疗信息，进行登记并按规定上报的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤登记",
+   "en": "registration of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校（含托幼机构）发现师生员工有传染病早期症状、疑似传染病病人及其他因病缺课/缺勤等情况，及时报告给学校传染病疫情报告人，学校传染病疫情报告人立即开展排查，并对排查情况详细记录的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤追踪",
+   "en": "tracing of absenteeism due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员每日对因病缺课/缺勤的师生员工进行登记，追查其主要症状、发病时间、就诊信息、诊断结果、家庭共同生活人员相似症状等，对其病情和转归进行追踪并记录的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤报告",
+   "en": "report of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校按属地卫生行政部门和教育主管部门要求，每日在规定时间前上报当日师生员工缺课/缺勤监测信息，无缺课/缺勤信息的学校实行“零报告”的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

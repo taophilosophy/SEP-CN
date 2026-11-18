@@ -1,0 +1,762 @@
+{
+ "key": "joint impression",
+ "term": "joint impression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:42:09+00:00",
+ "status": "ok",
+ "note": "variant=joint impression; 审定公布名词库=3775; 海峡两岸名词对照库=1197; 其他来源数据库=155; 预公布名词数据库=84; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "09.05.025",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "岩石受力出现的没有发生明显位移的破裂。广泛发育于浅部地壳变形岩石中。在西文文献中，节理指那些仅仅有张开但没有发生位移的破裂，而具有一定位移的破裂称为剪切破裂。"
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0078",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "用于连接两个管件或部件与设备的零件。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "电力名词",
+   "wordNumber": "01.743",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "岩体因各种成因切割成具有一定几何形状岩块的裂隙系统。其裂面两侧岩体中未发生错动(实际的或潜在的)的破裂面。按其成因可分为原生节理、构造节理和次生节理。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "冶金学名词",
+   "wordNumber": "02.0247",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "岩石在自然条件下形成的裂纹或裂缝。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "核医学名词",
+   "wordNumber": "04.1098",
+   "subjectFullName": "核医学_临床核医学_骨关节系统核医学_骨关节系统解剖生理基础",
+   "subjectName": "骨关节系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "骨与骨之间可活动的连接部分。连接面有关节软骨，周围有关节囊、韧带加固、内面有滑膜与滑膜液，便于不同角度和程度的活动。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.009",
+   "subjectFullName": "中医药学_骨伤科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "骨骼间连接部位。"
+  },
+  {
+   "cn": "连接点",
+   "en": "joint",
+   "source": "水产名词",
+   "wordNumber": "03.251",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "无结网片中目脚间的连接结构。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "水利科学技术名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "水利科学技术_水利勘测、工程地质_工程地质（水利）",
+   "subjectName": "工程地质（水利）",
+   "publishYear": "1997",
+   "definition": "将岩体切割成具有一定几何形状的岩块的裂隙系统。也是岩体中未发生位移的(包括实际的或潜在的)破裂面。"
+  },
+  {
+   "cn": "接缝",
+   "en": "joint",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "自动化名词",
+   "wordNumber": "05.173",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "印次",
+   "en": "impression",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.067",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "同一版本的图书印刷的次序。"
+  },
+  {
+   "cn": "模膛",
+   "en": "impression",
+   "source": "冶金学名词",
+   "wordNumber": "09.1535",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在锻模上加工成的使锻件形成所需外形和尺寸的空腔。有制坯模腔、预锻模腔、终锻模腔。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "植物学名词",
+   "wordNumber": "14.0022",
+   "subjectFullName": "植物学_古植物学",
+   "subjectName": "古植物学",
+   "publishYear": "2019",
+   "definition": "沉积层中留下的植物印迹形成的化石。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "古生物学名词",
+   "wordNumber": "01.0129",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "生物遗体被完全埋葬前在沉积物中留下的印迹，由于埋葬时遗体业已消失，岩层中并未留下除印痕外的其他痕迹。"
+  },
+  {
+   "cn": "印模",
+   "en": "impression",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.202",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint,cubital joint",
+   "source": "手外科学名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "由肱骨下端与尺、桡骨上端构成的复关节。包括肱尺、肱桡、桡尺近侧关节。"
+  },
+  {
+   "cn": "斜缝",
+   "en": "diagonal joint,inclined joint",
+   "source": "电力名词",
+   "wordNumber": "14.066",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "混凝土坝在分层分块浇筑混凝土时,大致沿坝的主应力方向设置的施工缝。"
+  },
+  {
+   "cn": "T型接头",
+   "en": "tee joint,T joint",
+   "source": "电力名词",
+   "wordNumber": "22.298",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "电缆相互连接成“T”形的电缆分支接头。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "coupling joint\",\"joint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滑车关节（=屈戌关节）",
+   "en": "hinge joint\",\"ginglymus joint\",\"trochoid joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "屈戌关节，滑车关节",
+   "en": "hinge joint\",\"ginglymus joint\",\"trochoid joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鞍状关节",
+   "en": "sellar joint\",\"saddle joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "复[合]关节",
+   "en": "compound joint\",\"composite joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腕关节",
+   "en": "carpal joint\",\"wrist joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腕中关节",
+   "en": "mediocarpal joint\",\"midcarpal joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint\",\"cubital joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "旋转关节，旋转接头",
+   "en": "rotary joint\",\"rotating joint",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "食管压迹",
+   "en": "esophageal impression\",\"oesophageal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "joint\",\"articulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "车轴关节",
+   "en": "pivot joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单关节",
+   "en": "simple joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "骶髂关节",
+   "en": "sacroiliac joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "骶尾关节",
+   "en": "sacrococcygeal joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗骨间关节",
+   "en": "tarsotarsal joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗跖关节",
+   "en": "tarsometatarsal joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "球节",
+   "en": "fetlock joint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共商共治",
+   "en": "joint governance through consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国联合信息系统委员会",
+   "en": "Joint Information Systems Committee (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint contribution and shared benefits",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《欧盟标准化联合倡议》",
+   "en": "Joint Initiative on Standardization (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险联防联控机制",
+   "en": "joint prevention and control mechanism for financial risks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国-世卫组织联合考察专家组",
+   "en": "China-WHO Joint Mission on Coronavirus Disease 2019 (COVID-19) ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国务院联防联控机制",
+   "en": "Joint Prevention and Control Mechanism of the State Council ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "但见性情，不睹文字",
+   "en": "To Impress Readers with True Feelings Oblivious of Its Wording",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合劳动",
+   "en": "joint labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0108",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思依据人类社会发展的客观规律提出的关于未来共产主义社会劳动的基本形式。其特点是：全社会劳动者在生产资料共同占有的基础上，自由地结合起来，自主地进行创造性的劳动。"
+  },
+  {
+   "cn": "寰枢关节",
+   "en": "atlantoaxial joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.5",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由 2 个由寰枕侧块的下关节面和枢椎的上关节面，以及l 个由枢椎齿突的前关节面和寰椎前弓后面的齿凹共同构成的关节。关节囊薄而松弛。是只有1个运动轴的车轴关节，寰椎与颅一同绕垂直轴做左右回旋运动。"
+  },
+  {
+   "cn": "胸肋关节",
+   "en": "sternocostal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肋骨借肋软骨与胸骨连结的关节。由第1- 7 肋的内侧端与胸骨的肋切迹构成。关节囊薄而松弛，关节腔为一窄隙。有胸肋轴状韧带、 肋剑突韧带加固。属于微动关节。"
+  },
+  {
+   "cn": "胸锁关节",
+   "en": "sternoclavicular joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.7",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由锁骨的胸骨端关节面和胸骨柄的锁骨切迹组成的关节。上肢与躯干之间连结的唯一关节。关节腔内有关节盘。关节囊坚韧，周围有韧带加固。有3个运动轴，绕矢状轴可 做上下运动；绕垂直轴可做前后运动；绕冠状轴可做回"
+  },
+  {
+   "cn": "肩关节",
+   "en": "shoulder joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肩胛骨的关节盂和肱骨头组成的关节。相连两骨关节面大小相差较大。关节窝周缘有关节唇加深关节盂。关节囊薄弱且松弛，附着在关节盂周缘和肱骨解剖颈之间，关节囊 壁内有由滑膜包裹的肱二头肌长头腱通过， 此腱有"
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肱骨远侧端和桡尺骨近端关节面组成的关节。包括3个小关节：肱尺关节、肱桡关 节及桡尺近侧关节，它们共同包裹在一个关节囊内。"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "掌指关节",
+   "en": "metacarpophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.11",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由掌骨小头与第1节指骨底构成的关节。共 有5个，在形态上近似球窝关节，但机能上因受两侧韧带的限制，第 2- 5 掌指关节能 做屈、伸、内收、外展及环转运动；第 1 掌指关节仅能做屈伸运动，当关节微屈时"
+  },
+  {
+   "cn": "指间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.12",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由各指相邻两节指骨的底和滑车构成的关节。"
+  },
+  {
+   "cn": "骶髂关节",
+   "en": "sacroiliac joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.15",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髂骨的耳状面与骶骨的耳状面构成的关节。关节面扁平，彼此对合非常紧密，属平面关节。关节囊紧张，紧贴于关节面周缘。周围有许多强韧的韧带加强，关节腔狭小， 呈裂隙状，活动性很小，有利于支持体重和传递重力。"
+  },
+  {
+   "cn": "髋关节",
+   "en": "hip joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.16",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髋骨的髋臼和股骨头的关节面构成的关节。是典型的球窝关节。"
+  },
+  {
+   "cn": "膝关节",
+   "en": "knee joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.17",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由股骨的内、外侧髁与胫骨的内、外侧髁的关节面组成的股胫关节，以及股骨的髌面与髌骨的关节面组成的髌股关节两部分构成的关节。人体内结构最复杂的关节。关节囊广阔松弛，各部厚薄不一，附着于各关节面 的周缘，其"
+  },
+  {
+   "cn": "跖趾关节",
+   "en": "metatarsophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.18",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由跖骨头与近节趾骨底构成的关节。"
+  },
+  {
+   "cn": "趾间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.19",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "趾骨与趾骨之间构成的关节。"
+  },
+  {
+   "cn": "关节畸形",
+   "en": "joint deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "由于各种原因使关节脱离正常形态和结构的状态，可见于关节炎。"
+  },
+  {
+   "cn": "关节置换术",
+   "en": "joint replacement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.11",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "用假体置换病残关节的一种手术方法。可达到去除病灶、消除疼痛、恢复活动与部分功能的目的。假体是用具有生物相容性、化学性能稳定、机械性能良好、无致癌性的金属或非金属材料制成。"
+  },
+  {
+   "cn": "合资",
+   "en": "joint venture",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.5",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "由两个或多个卫生服务机构共同出资、共担风险、共享收益而形成的新的机构。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.038",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭结构分类中的一种家庭形式，指由父母及其多对已婚子女组成的家庭，或兄弟姐妹婚后不分家的家庭。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

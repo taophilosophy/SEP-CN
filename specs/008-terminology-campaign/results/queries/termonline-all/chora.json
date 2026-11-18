@@ -1,0 +1,42 @@
+{
+ "key": "chora",
+ "term": "chôra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:55:06+00:00",
+ "status": "ok",
+ "note": "variant=chôra; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "哲罗",
+   "en": "Chera,Kerala",
+   "source": "世界历史名词",
+   "wordNumber": "02.1104",
+   "subjectFullName": "世界历史_古代中世纪_南亚次大陆",
+   "subjectName": "南亚次大陆",
+   "publishYear": "2012",
+   "definition": "中国史籍里称“鸡罗”，古代和中世纪印度泰米尔三王国之一。"
+  },
+  {
+   "cn": "高角分辨率天文望远镜阵",
+   "en": "Center For High Angular Resolution Astronomy Array; CHARA",
+   "source": "天文学名词",
+   "wordNumber": "06.518",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "坐落于美国加利福尼亚州的威尔逊山天文台，由美国佐治亚州立大学高角分辨率天文中心运行，包含6台1m望远镜的光学和红外天文干涉阵列，为最长基线330m的Y形阵。"
+  },
+  {
+   "cn": "CH星",
+   "en": "CH star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,72 @@
+{
+ "key": "instrumentalist",
+ "term": "instrumentalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:35:24+00:00",
+ "status": "ok",
+ "note": "variant=instrumentalist; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "主张科学理论只是解决实际问题的工具，而不是对自然界的有意义的描述。科学理论的真假就在于它对现象预测的有效程度。"
+  },
+  {
+   "cn": "工具性",
+   "en": "instrumentality",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0117",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个体对预期的多级成果之间内在联系的认知。"
+  },
+  {
+   "cn": "技术手段论",
+   "en": "instrumentalism of technology; technological instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "主张技术没有自己的目的，只存在于实现人类的目的的理论。技术完全处于人类控制之下，人类历史由人形塑而成，而不是技术。人类决定他们使用什么技术以及如何使用技术。"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学仅仅是一种有用的工具，而不是对某种客观实在的描述。"
+  },
+  {
+   "cn": "工具主义国家论",
+   "en": "Instrumentalist state theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0142",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪60、70年代，英国拉尔夫·米利班德（Ralph Miliband）的“工具主义”国家理论充分肯定了马克思、恩格斯关于国家是阶级统治的工具的论断，认为由于统治阶级握有经济权力，所以它能够把国家"
+  },
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "主张科学理论只是解决实际问题的工具，而不是对自然界的有意义的描述。科学理论的真假就在于它对现象预测的有效程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

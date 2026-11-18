@@ -1,0 +1,782 @@
+{
+ "key": "permission conception",
+ "term": "permission conception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:48:33+00:00",
+ "status": "ok",
+ "note": "variant=permission conception; 审定公布名词库=1183; 海峡两岸名词对照库=406; 其他来源数据库=68; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "许可",
+   "en": "permission",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.105",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "对数字内容可实施的操作。如浏览、播放、打印、复制、转让等。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "兽医学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发生妊娠的行为。开始于精子和卵子的 结合。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0040",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "男女性交，两精结合，合而成形的生理过程。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.504",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "以符号或词的形式对事物本质进行的描述。包括内涵和外延，是构成命题性思想的基本要素。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "反映对象本质属性的思维形式。人类把所感知的事物的共同本质特点抽象出来并加以概括，就成为概念。表达概念的语言形式是词或词组。概念都有内涵和外延，即其含义和适用范围。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0647",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "客观事物基本属性的思维抽象，也是知识和推理的最基本组成单元，通常用一个词语加以概括。它可以通过内涵（对其本质的描述）或外延（所代表的对象的总和）来描述。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "心理学名词",
+   "wordNumber": "02.614",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以符号/词的形式对客观事物本质的描述。包括内涵和外延。"
+  },
+  {
+   "cn": "访问许可",
+   "en": "access permission",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.317",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_现代图书情报技术",
+   "subjectName": "现代图书情报技术",
+   "publishYear": "2019",
+   "definition": "用户访问一个信息系统时所拥有的权利。"
+  },
+  {
+   "cn": "行政许可",
+   "en": "administrative permission",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "行政机关根据公民、法人或者其他组织的申请，经依法审查，准予其从事特定活动的行政性管理行为。"
+  },
+  {
+   "cn": "资源许可",
+   "en": "resource permission",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.085",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "政府依照法律法规及其他相关规定，允许某个法人或自然人开发、利用某些或某类资源的行为或过程。"
+  },
+  {
+   "cn": "任脉",
+   "en": "conception channel,conception vessel",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0032",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "起于胞中，主胞宫和妊娠，并主一身之阴经，下出会阴，向上前行至阴毛部位，沿腹部和胸部正中线直上，经咽喉，至下颌，环绕口唇，沿面颊，分行至目眶下。"
+  },
+  {
+   "cn": "允许细胞",
+   "en": "permissive cell",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0796",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "能被特定病毒感染，且允许在其内完成复制循环，产生子代病毒的细胞。"
+  },
+  {
+   "cn": "允许性高碳酸血症",
+   "en": "permissive hypercapnia",
+   "source": "麻醉学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "麻醉学_专科麻醉_肺隔离技术",
+   "subjectName": "肺隔离技术",
+   "publishYear": "2024",
+   "definition": "在严重气流阻塞性疾病或肺组织疾病中，为防止发生气压伤而采用的一种保护性通气策略。接受患者存在一定程度的高碳酸血症，以避免大潮气量或内源性呼气末正压通气引起的肺损伤。一般认为pH＞7.20是可以接受的允"
+  },
+  {
+   "cn": "允许作用",
+   "en": "permissive action",
+   "source": "兽医学名词",
+   "wordNumber": "04.613",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "某种激素对特定器官、组织或细胞没有直接作用，却具有支持另一种激素发挥生物效应的作用。例如，糖皮质激素为广泛发挥允许作用的一种激素。"
+  },
+  {
+   "cn": "允诺性诱导",
+   "en": "permissive induction",
+   "source": "动物学名词",
+   "wordNumber": "4.0561",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "已经完成分化决定的反应组织只有在诱导组织的作用下才能继续分化形成特定组织结构的一类诱导。"
+  },
+  {
+   "cn": "允许作用",
+   "en": "permissive action",
+   "source": "生理学名词",
+   "wordNumber": "10.043",
+   "subjectFullName": "生理学_内分泌生理学",
+   "subjectName": "内分泌生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "允许式保护",
+   "en": "permissive protection",
+   "source": "电力名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "收到信号后允许就地保护,启动跳闸的一种保护方式。一般用距离元件实现。"
+  },
+  {
+   "cn": "允许性高碳酸血症",
+   "en": "permissive hypercapnia",
+   "source": "烧伤学名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "采用小潮气量、低每分通气量，容许有一定程度的 <img src='/root/syzx/static/spz/shaoshang1.04.046.1.png'/> 升高的症状。有利于低氧血症的纠正。一"
+  },
+  {
+   "cn": "允许性低摄入",
+   "en": "permissive underfeeding",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "肠外肠内营养学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "为减缓重症患者的代谢负荷，减少代谢并发症及降低对器官功能的损害，短期给予较低剂量营养素(每日能量15～20 kcal/kg)的一种部分营养支持。"
+  },
+  {
+   "cn": "允许性低摄入",
+   "en": "permissive underfeeding",
+   "source": "呼吸病学名词",
+   "wordNumber": "13.048",
+   "subjectFullName": "呼吸病学_呼吸相关危重症_营养疗法",
+   "subjectName": "营养疗法",
+   "publishYear": "2018",
+   "definition": "短期的较低剂量营养素补充有助于减缓重症患者的代谢负荷，减少代谢并发症和对器官功能的损害。应激反应早期，合并有全身炎症反应的急性重症患者，每日能量供给在20~25 kcal/kg被认为是能够接受并可实现"
+  },
+  {
+   "cn": "许可",
+   "en": "permission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "书面许可证",
+   "en": "written permission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "访问许可，存取许可",
+   "en": "access permission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "许可权清单",
+   "en": "permission log",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受纳细胞（=允许细胞）",
+   "en": "permissive cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "易感细胞（=允许细胞）",
+   "en": "permissive cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "允诺性诱导",
+   "en": "permissive induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "允许细胞，受纳细胞，易感细胞",
+   "en": "permissive cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "允许细胞",
+   "en": "permissive cell",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "允许细胞",
+   "en": "permissive cell",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "允许细胞",
+   "en": "permissive cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "允许条件",
+   "en": "permissive condition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "允许突变",
+   "en": "permissive mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "允许误差",
+   "en": "permissible error",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "permissible error",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "允许误差",
+   "en": "permissible error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "容许磨损",
+   "en": "permissible wear",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "许可舱长",
+   "en": "permissible length",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提权",
+   "en": "system permission upgrade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网概念模型",
+   "en": "IoT concept model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权限密码管理制度",
+   "en": "permission password management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new concept for development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新型亚洲安全观",
+   "en": "the new Asian security concept",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济全球化观",
+   "en": "the concept of economic globalization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "the concept of global governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "境生象外",
+   "en": "Aesthetic Conception Transcends Concrete Objects Described.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确义利观",
+   "en": "the correct concept of justice and interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "允许剂量",
+   "en": "permissible dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.14.8",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "染毒人员的百分之五出现轻度失能症状的剂量。不影响部队完成战斗任务。"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "基于当前人们对生育行为的科学认识，育龄夫妇有意识地对自己妊娠行为做出的安排。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "健康研究中的一种理论框架。用于直观地描述健康相关问题的关键要素及其相互关系。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "支配人们进行道德判断、评价和道德活动的意识。它是社会物质生活条件的反映，具有时代性、民族性和阶级性。"
+  },
+  {
+   "cn": "允许原则",
+   "en": "principle of permission",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "美国生命伦理学家H.T.恩格尔哈特（H.Tristram. Engelhard）提出的生命伦理学首要原则。认为在价值多元化社会中，涉及他人的行动必须得到他人的允许，不经他人允许就对他人采取行动是不具备"
+  },
+  {
+   "cn": "新概念武器",
+   "en": "new concept weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "用新原理、技术、材料、能源、设计思想及结构技术研制的武器，其基本技术原理、杀伤破坏机理、作战方式、威力和部署方式有别于传统武器，主要包括新概念能量、信息、生化、认知战武器等。"
+  },
+  {
+   "cn": "新安全观",
+   "en": "new security concept",
+   "source": "马克思主义",
+   "wordNumber": "04.0194",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对“冷战”后期开始出现的一些不同于“旧安全观”即“传统安全观”的新安全观念的统称，指与“旧安全观”即“传统安全观”相对的各种新型的安全观。中国政府自20世纪90年代中期以来提出的“互信、互利、平等、协"
+  },
+  {
+   "cn": "大卫生观",
+   "en": "macro-health concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.004",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以转变卫生观念、增进有益健康的行为方式，提高公众自我保健意识和对卫生工作的参与程度，克服制约影响健康的诸多因素，推进多部门协作配合，实现“人人享有卫生保健”目标的卫生观念。"
+  },
+  {
+   "cn": "新概念信息武器",
+   "en": "new concept information weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "运用新兴技术和理念开发的、具备战略威慑和实战能力的武器系统。通常具有高度的自主化、智能化、信息化和网络化特征，能够通过信息优势和信息控制来影响敌方的决策和行动，从而实现战略和战术目标。"
+  },
+  {
+   "cn": "新概念武器损伤",
+   "en": "new concept weapon injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "新概念武器的新型杀伤因素对生物体产生生物效应和损伤作用，引起组织器官和系统的功能、形态、代谢的改变，甚至造成死亡。"
+  },
+  {
+   "cn": "新概念能量武器",
+   "en": "new concept energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "能量来源、释放方式及杀伤破坏目标/方式有别于常规武器的一类武器。包括新概念定向能武器(激光、微波/电磁脉冲等)、原子能武器(中子弹等)、动能武器(超高速化学能发射器等)和声波武器(次声波武器等)。"
+  },
+  {
+   "cn": "时间加权平均容许浓度",
+   "en": "permissible concentration-time weighted average",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "以时间为权数规定的8h工作日、40h工作周的平均容许接触浓度。"
+  },
+  {
+   "cn": "新思想新概念",
+   "en": "new thought and new concepts",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学",
+   "subjectName": "环境社会学",
+   "publishYear": "2025",
+   "definition": "3.14.5.1  环境流  environmental flow"
+  },
+  {
+   "cn": "新概念认知战武器",
+   "en": "new concept cognitive warfare weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "根据认知原理，利用物理、化学或生物手段干扰、改变认知过程，控制知识获取，改变思维方式，并最终影响决策，阻碍军事行动的新概念武器。"
+  },
+  {
+   "cn": "新概念武器防护",
+   "en": "protection for new concept weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器防护",
+   "subjectName": "新概念武器防护",
+   "publishYear": "2025",
+   "definition": "针对新概念武器伤害的防护，包括针对各类新型杀伤因素的评测、预警、防护和治疗。"
+  },
+  {
+   "cn": "最大容许限量",
+   "en": "maximum (permitted) level or permissible level",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "食品卫生学_食品污染_放射相关组织机构与法律",
+   "subjectName": "放射相关组织机构与法律",
+   "publishYear": "2025",
+   "definition": "放射性核素在食品原料和（或）食品成品可食用部分中允许的最大含量水平。"
+  },
+  {
+   "cn": "新概念能量武器损伤",
+   "en": "injuries of new concept energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "利用高能射线、粒子束、激光等能量形式对目标进行攻击所造成的损伤。这些武器能够以极高的速度传递能量，产生巨大的破坏力和杀伤力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

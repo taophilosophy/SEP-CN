@@ -1,0 +1,772 @@
+{
+ "key": "covert influence",
+ "term": "covert influence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:39:43+00:00",
+ "status": "ok",
+ "note": "variant=covert influence; 审定公布名词库=1158; 海峡两岸名词对照库=339; 其他来源数据库=293; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "隐性采访",
+   "en": "covert interview",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.058",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者由于某种目的和需要，在采访中不公开自己的职业身份，或者不暴露自己真实采访意图的采访方式。"
+  },
+  {
+   "cn": "内隐示范",
+   "en": "covert modeling",
+   "source": "行为医学名词",
+   "wordNumber": "20.087",
+   "subjectFullName": "行为医学_行为干预与治疗_行为训练",
+   "subjectName": "行为训练",
+   "publishYear": "2022",
+   "definition": "通过示范者的描述，让个体想象所要模仿的行为。"
+  },
+  {
+   "cn": "覆羽",
+   "en": "wing covert",
+   "source": "动物学名词",
+   "wordNumber": "6.0275",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鸟纲",
+   "subjectName": "鸟纲",
+   "publishYear": "2021",
+   "definition": "鸟翼的背、腹面成列的羽毛。呈覆瓦状将飞羽基部掩盖，使翅膀表面呈流线型，能减少飞行阻力。"
+  },
+  {
+   "cn": "隐性感染",
+   "en": "covert infection",
+   "source": "感染病学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "感染病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "病原体侵入人体后，仅引起机体产生特异性免疫应答，不引起或仅有轻微的组织损伤，临床上无症状、体征表现，需通过免疫学或病原学检查才能发现的感染。"
+  },
+  {
+   "cn": "内隐注意",
+   "en": "covert attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且不伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "隐蔽信道",
+   "en": "covert channel",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0282",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "违反计算机安全策略，绕过正常的访问控制机制，在进程之间非法传递信息对象的计算机安全攻击方法。"
+  },
+  {
+   "cn": "隐性声望",
+   "en": "covert prestige",
+   "source": "语言学名词",
+   "wordNumber": "12.065",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "潜在于使用者心目中的对某种语体好的评价。例如在某些场合，粗鲁的语体被认为有阳刚之气。"
+  },
+  {
+   "cn": "隐匿性肝性脑病",
+   "en": "covert hepatic encephalopathy",
+   "source": "消化病学名词",
+   "wordNumber": "12.306",
+   "subjectFullName": "消化病_肝脏_肝脏疾病",
+   "subjectName": "肝脏疾病",
+   "publishYear": "2022",
+   "definition": "有神经心理学和（或）神经生理学异常，无定向力障碍、无扑翼样震颤的肝性脑病。可发展为显性肝性脑病。"
+  },
+  {
+   "cn": "隐性代偿性休克",
+   "en": "covert compensated shock",
+   "source": "烧伤学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤休克防治",
+   "subjectName": "烧伤休克防治",
+   "publishYear": "2019",
+   "definition": "无低血容量的临床表现，是全身监测指标已恢复正常，而胃肠道仍存在缺血缺氧的状态。"
+  },
+  {
+   "cn": "隐匿性肝性脑病",
+   "en": "covert hepatic encephalopathy; CHE",
+   "source": "肝病学名词",
+   "wordNumber": "8.5.3.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝性脑病",
+   "subjectName": "肝性脑病",
+   "publishYear": "2024",
+   "definition": "轻微肝性脑病和韦斯特-黑文标准0级、1级肝性脑病的统称。有神经心理和（或）神经生理异常，但无定向力障碍、无扑翼样震颤。"
+  },
+  {
+   "cn": "影响者",
+   "en": "influencer",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0237",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "组织购买中心中的那些影响购买决策的人，他们通常帮助确定产品规格并为评价备选项提供信息。"
+  },
+  {
+   "cn": "感化",
+   "en": "influencing",
+   "source": "教育学名词",
+   "wordNumber": "01.237",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "用言行的影响，使受教育者受到触动，并在立场观点、思想情感和行为表现上发生转化的一种德育方法。"
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.097",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "一种通过沟通达成彼此目标的，对交往行为与关系产生相互作用的复杂过程。有能力的沟通者可以使用诸如劝说、奖赏、威胁、榜样、专业性、投其所好、恳求等方式影响他人的态度、行为与观念。"
+  },
+  {
+   "cn": "影响力经济",
+   "en": "influence economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.068",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "将影响力这种无形资产转化为商业价值的一种经济形态。体现为传媒的产品受众的价值转换为广告价值。"
+  },
+  {
+   "cn": "温度影响",
+   "en": "temperature influence",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0313",
+   "subjectFullName": "地球物理学_地热学_应用地热",
+   "subjectName": "应用地热",
+   "publishYear": "2022",
+   "definition": "因温度变化所产生的影响。 "
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.371",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由于雌性亲本中核基因的某些产物积累在卵细胞质中，使子代表型不由自身基因型决定，而出现与母体表型相同的现象。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "电力名词",
+   "wordNumber": "02.157",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "测量主体之外的值,其变化会影响标示值与测量结果之间的关系。"
+  },
+  {
+   "cn": "影响系数",
+   "en": "influence coefficient",
+   "source": "电力名词",
+   "wordNumber": "02.170",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "由影响量引起的改变量与影响量变化的比。"
+  },
+  {
+   "cn": "学术影响力",
+   "en": "academic influence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "某一段时期内期刊、著者等对相关学术研究领域内科研活动的影响范围和影响深度。"
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "植物学名词",
+   "wordNumber": "10.0139",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "子代表型不是由子代自身基因型所决定，而是受到来自母体的核基因编码的产物影响，表现出与母体相同性状的现象。"
+  },
+  {
+   "cn": "隐蔽敏感化",
+   "en": "covert sensitization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽式攻击",
+   "en": "covert aggression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽脱敏法",
+   "en": "covert desensitization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽信道",
+   "en": "covert channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "翼覆羽",
+   "en": "wing covert",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽的贸易壁垒，变相的贸易壁垒",
+   "en": "covert trade barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "感应理论",
+   "en": "influence theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴影响",
+   "en": "peer influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "少数人影响",
+   "en": "minority influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反式影响",
+   "en": "trans influence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "森林影响",
+   "en": "forest influence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "母体影响",
+   "en": "maternal influence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外在影响",
+   "en": "exogenic influences",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行为影响观点",
+   "en": "behavioral influence perspective",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "从性遗传",
+   "en": "sex-influenced inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "从性性状",
+   "en": "sex influenced character\",\"sex-conditioned character",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分流",
+   "en": "diffluence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽信道",
+   "en": "covert channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽存储通道",
+   "en": "covert storage channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽定时通道",
+   "en": "covert timing channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  隐性感染",
+   "en": "covert/silent/inapparent/subclinical infection ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷达以时",
+   "en": "Poverty and Prosperity Are Influenced by the Times.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罩",
+   "en": "cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流感",
+   "en": "influenza; flu",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "掩护脸部",
+   "en": "cover up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮圈盖",
+   "en": "wheel cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "cover\",\"back up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐性声望",
+   "en": "covert prestige",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.01",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“显性声望”相对。潜在于使用者心目中的对某种语体好的评价。例如在某些场合，粗鲁的语体被认为有阳刚之气。"
+  },
+  {
+   "cn": "隐性感染者",
+   "en": "covert infection patient",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "当病原体侵入人体后，仅引起机体产生特异性的免疫应答，未引起或仅引起轻微的组织损失，临床上未出现明显症状、体征及生化异常者。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "4.1.16.1  权威人格  authoritarian personality"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "表观遗传影响",
+   "en": "epigenetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "环境因素和细胞内的遗传物质之间发生交互作用，使生物在环境不断变化的情况下，能够维持遗传序列稳定特征的过程。"
+  },
+  {
+   "cn": "有机物影响试验",
+   "en": "organic influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同种类和浓度的有机物对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "pH值影响试验",
+   "en": "pH influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价pH值对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "温度影响试验",
+   "en": "temperature influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同温度对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "社会影响理论",
+   "en": "social influence theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "埃文斯（Evans）提出的通过提升儿童青少年对不良社会影响（如同伴压力、家庭或媒体的不良影响）的应对能力，以预防健康危险行为的干预理论。"
+  },
+  {
+   "cn": "青春期发育种族影响",
+   "en": "racial influence on puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族在青春期体格和性发育等方面存在明显差异的现象。"
+  },
+  {
+   "cn": "消毒影响因素",
+   "en": "influencing factor of disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.22",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "消毒过程中涉及的影响消毒效果的各种因素，如环境温湿度、用水水质、pH值以及有机物等。"
+  },
+  {
+   "cn": "S类影响量",
+   "en": "influence quantity of type S",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "使指示值产生偏差的影响量，该偏差与指示值无关。"
+  },
+  {
+   "cn": "F类影响量",
+   "en": "influence quantity of type F",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在响应中影响指示值变化的影响量。"
+  },
+  {
+   "cn": "体格发育种族影响",
+   "en": "racial influence on physical development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "体格生长存在明显种族差异的现象。不同种族身高、坐高、下肢长等体格发育指标存在显著差异。"
+  },
+  {
+   "cn": "新生儿死亡影响因素",
+   "en": "influencing factors of neonatal death",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "导致新生儿死亡的原因，包括早产、出生窒息、产伤、先天畸形、感染、代谢异常等。"
+  },
+  {
+   "cn": "生长发育影响因素",
+   "en": "influence factor of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "影响儿童少年生长发育的各种因素，包括遗传因素、物质环境因素、社会决定因素和行为生活方式因素。"
+  },
+  {
+   "cn": "体型发育种族影响",
+   "en": "racial influence on body type development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族存在鲜明外形特征差异的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,462 @@
+{
+ "key": "cancellation",
+ "term": "cancellation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:50:17+00:00",
+ "status": "ok",
+ "note": "variant=cancellation; 审定公布名词库=39; 海峡两岸名词对照库=30; 其他来源数据库=4; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "解约",
+   "en": "cancelling",
+   "source": "航海科技名词",
+   "wordNumber": "13.0131",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "撤销",
+   "en": "cancel",
+   "source": "航海科技名词",
+   "wordNumber": "14.0029",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "消除点",
+   "en": "cancellation point",
+   "source": "物理学名词",
+   "wordNumber": "07.0264",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "取消订单费用",
+   "en": "cancellation charge",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0323",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "因顾客取消订单导致损失而对卖方的补偿。"
+  },
+  {
+   "cn": "对消比",
+   "en": "cancellation ratio",
+   "source": "大气科学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "广义地指雷达某些应用中所涉及的一个功率比，它表示杂波的回波功率在一种测量方式中(如圆偏振雷达)较之另一种测量方式中(如水平偏振雷达)被抑制或抵消的程度。"
+  },
+  {
+   "cn": "消去律",
+   "en": "cancellation law",
+   "source": "数学名词",
+   "wordNumber": "04.0946",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "企业注销",
+   "en": "enterprise cancellation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "当一个公司宣告破产，或者被其他公司收购、公司章程规定营业期限届满、公司内部分立解散，公司向企业登记管理机关申请注销，或者由于一些业务经营方式不规范被依法责令关闭，吊销营业执照的过程。"
+  },
+  {
+   "cn": "磁对消",
+   "en": "magnetic cancellation",
+   "source": "天文学名词",
+   "wordNumber": "09.261",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "极性相反的磁区互相靠近而发生的部分磁通量彼此抵消的现象。"
+  },
+  {
+   "cn": "知觉划消",
+   "en": "perceptual cancellation",
+   "source": "生物物理学名词",
+   "wordNumber": "04.166",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "韦克斯勒儿童智力量表第四版中增加的备用测试项目之一。是在一个随机排列的数字表上，在限定时间内划去某一数字，根据正确率及所需时间测验被试者智力水平的方法。"
+  },
+  {
+   "cn": "回波抵消",
+   "en": "Echo Cancellation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0270",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "ADSL中使用的一种技术。它能够从在电话线路上接收的信号中除去由本端发送的信号所产生的回波。"
+  },
+  {
+   "cn": "认证注销",
+   "en": "certification cancellation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0835",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "当体系认证规则发生变化，企业不愿或不能确保符合新的要求，或者在体系认证证书有效期届满时，企业没有在证书有效期届满前足够时间内向认证机构重新提出认证的申请，以及获准认证的组织正式提出注销认证，解除认证合"
+  },
+  {
+   "cn": "相位消除",
+   "en": "phase cancellation",
+   "source": "石油名词",
+   "wordNumber": "08.0135",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "旁瓣对消",
+   "en": "sidelobe cancellation",
+   "source": "电子学名词",
+   "wordNumber": "19.259",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛成绩",
+   "en": "cancel score",
+   "source": "运动医学名词",
+   "wordNumber": "09.102",
+   "subjectFullName": "运动医学_反兴奋剂_中华人民共和国《反兴奋剂条例》",
+   "subjectName": "中华人民共和国《反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "取消运动员某场比赛的成绩。适用于在比赛期间(包括比赛刚结束)发现运动员违反《反兴奋剂条例》，特别是被查出使用了某种兴奋剂的情形。"
+  },
+  {
+   "cn": "网状饰纹",
+   "en": "reticulate,cancellate",
+   "source": "古生物学名词",
+   "wordNumber": "02.0596",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "轴向壳饰与旋向壳饰相交则成网状。"
+  },
+  {
+   "cn": "回波抵消器",
+   "en": "echo canceller",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.560",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "将去程信道与返程信道的信号作比较，产生回波信号的“复制品”，从而达到消除回波效果的回波抑制器。"
+  },
+  {
+   "cn": "解约日",
+   "en": "cancelling date",
+   "source": "航海科技名词",
+   "wordNumber": "13.0115",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "回波抵消器",
+   "en": "echo canceller",
+   "source": "电子学名词",
+   "wordNumber": "21.231",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "取消指令",
+   "en": "cancelling command",
+   "source": "电子学名词",
+   "wordNumber": "23.164",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "取消订单",
+   "en": "canceled order,order canceled,OC",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.390",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆向供应商提出取消订购的已脱销或绝版文献的清单。"
+  },
+  {
+   "cn": "撤销",
+   "en": "cancel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "解约",
+   "en": "canceling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对消比",
+   "en": "cancellation ratio",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解约金",
+   "en": "cancellation money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "磁对消",
+   "en": "magnetic cancellation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "干扰消除，干扰注销",
+   "en": "interference cancellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回波抵消",
+   "en": "echo cancellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旁瓣对消",
+   "en": "sidelobe cancellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "撤销发盘",
+   "en": "cancel offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可取消租赁",
+   "en": "cancelable lease",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "注销支票",
+   "en": "cancelled cheque",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回波抵消器",
+   "en": "echo canceller",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消指令",
+   "en": "cancelling command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解约日",
+   "en": "canceling date",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "撤消订货",
+   "en": "cancellation of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "撤消发盘",
+   "en": "cancellation of offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "撤销合同",
+   "en": "cancellation of contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "取消特别提款权",
+   "en": "cancellation of SDR",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电话回音消除",
+   "en": "telephone echo cancellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极零[点]相消，零极点相消",
+   "en": "pole-zero cancellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛信号",
+   "en": "cancellation signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消大型集会",
+   "en": "to cancel mass gatherings",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛",
+   "en": "abandoned race\",\"canceled race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减免小微企业贷款利息",
+   "en": "to cut or cancel interest rates on loans to small and micro businesses",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "放射诊疗许可注销",
+   "en": "radiodiagnosis and radiotherapy license cancel",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗机构取得的放射诊疗许可的实体权利消灭后，卫生行政机关履行的终止许可的程序性行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
