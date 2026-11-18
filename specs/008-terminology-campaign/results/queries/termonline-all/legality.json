@@ -1,0 +1,782 @@
+{
+ "key": "legality",
+ "term": "legality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:27:49+00:00",
+ "status": "ok",
+ "note": "variant=legality; 审定公布名词库=130; 海峡两岸名词对照库=67; 其他来源数据库=61; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "法家",
+   "en": "Legalism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0246",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "先秦时期的一个思想派别。以商鞅、韩非等人为代表，崇尚法制，倡导富国强兵称霸之道，主张“不别亲疏，不殊贵贱，一断于法”，在战国变法中成为国家指导思想，是后代中央集权体制的思想渊源之一。"
+  },
+  {
+   "cn": "法定作者",
+   "en": "legal author",
+   "source": "档案学名词",
+   "wordNumber": "02.01.004",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "享有并履行法律赋予的文件制发权的国家机关及其他社会组织、个人。"
+  },
+  {
+   "cn": "法定时",
+   "en": "legal time",
+   "source": "天文学名词",
+   "wordNumber": "02.169",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "根据社会需要按国家法令实施的法定时间。"
+  },
+  {
+   "cn": "法治新闻",
+   "en": "legal news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.107",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "以法律制度建设、法律实施和法律监督等一系列活动为报道对象的新闻。"
+  },
+  {
+   "cn": "法定许可",
+   "en": "legal license",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.002",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "在某种特定情况下，法律允许他人可不经著作权人同意使用已发表的作品，但应向著作权人支付报酬，说明作者姓名、作品名称和出处，并不得侵犯著作权人依照著作权法享有的其他权利的制度。是对著作权的一种限制。依中国"
+  },
+  {
+   "cn": "法律控制",
+   "en": "legal control",
+   "source": "行为医学名词",
+   "wordNumber": "5.047",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "通过国家制定的法律、法规、条例、法令等对社会成员实施的具有约束力的社会控制。"
+  },
+  {
+   "cn": "司法案卷",
+   "en": "legal file",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.239",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "侦查、检察、审判、公证等司法机关在处理各类案件的各个环节、步骤的过程中，由互有联系的若干文件组合而成并放入卷夹、卷皮的档案保管单位，也是全宗内档案系统排列、编目和统计的基本单位。"
+  },
+  {
+   "cn": "法律解释",
+   "en": "legal interpretation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0417",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "根据一定的原则对法律规定的内容和含义做进一步的说明。"
+  },
+  {
+   "cn": "法定代理",
+   "en": "legal agency",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0570",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "为维护无行为能力人或限制行为能力人的利益而设立，根据法律的直接规定而产生的代理。"
+  },
+  {
+   "cn": "法理型权威",
+   "en": "legal authority",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0362",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "对合理性制度的服从，建立在信任规章制度和行为规则的合法性与合理性基础上，来自于制度表现出的价值合理性或目的合理性，形成官僚制组织，组织关系为理性非人格关系。"
+  },
+  {
+   "cn": "法制计量",
+   "en": "legal metrology",
+   "source": "计量学名词",
+   "wordNumber": "01.159",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为满足法定要求，由有资格的机构进行的涉及测量、测量单位、测量仪器、测量方法和测量结果的计量活动。是计量学的一部分。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "心理学名词",
+   "wordNumber": "13.013",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "关于法律及法律现象的知识、观点和社会态度。"
+  },
+  {
+   "cn": "法制教育",
+   "en": "legal education",
+   "source": "教育学名词",
+   "wordNumber": "01.249",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "传授法律基本知识，培养法律意识和守法习惯的教育。"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "Legal Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0088",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪末，打着马克思主义旗号的资产阶级自由主义派别，因其代表人物俄国的司徒卢威而得名。"
+  },
+  {
+   "cn": "“法律上的”种族隔离",
+   "en": "Legal Segregation",
+   "source": "世界历史名词",
+   "wordNumber": "03.0246",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪60年代，种族主义者对种族隔离所作的区分。由人为制定的法律所造成的种族隔离，主要存在于美国南方。"
+  },
+  {
+   "cn": "法定福利",
+   "en": "legal welfare",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.310",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "指有关法律和政策强制规定的、企业必须支付的福利开支。法定应提供的福利有：各种因失业、养老及工作条件等方面的保险。"
+  },
+  {
+   "cn": "法制计量[学]",
+   "en": "legal metrology",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.002",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "法定盲",
+   "en": "legal blindness",
+   "source": "医学名词 第五分册",
+   "wordNumber": "01.029",
+   "subjectFullName": "医学_眼科学_眼科学总论与防盲",
+   "subjectName": "眼科学总论与防盲",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "法定时",
+   "en": "legal time",
+   "source": "航海科技名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "航海科学技术_天文航海",
+   "subjectName": "天文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "社会法制学派",
+   "en": "Social Legality School",
+   "source": "经济学名词",
+   "wordNumber": "14.051",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "产生和流行于1925—1945年间的美国早期制度经济学的支派之一。以制度学派的早期代表人物康芒斯（J.Commons）为首。该学派继承了凡勃伦的基本理论观点，但又有所区别，其基本理论观点：把经济关系归"
+  },
+  {
+   "cn": "法定责任",
+   "en": "legal liability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法定时",
+   "en": "legal time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保税码头",
+   "en": "legal quay",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定比率",
+   "en": "legal ratio",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定代理人",
+   "en": "legal representative",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①法定担保 ②合法证券",
+   "en": "legal security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定抵押",
+   "en": "legal mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①法定股本 ②法定资本",
+   "en": "legal capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定货币",
+   "en": "legal currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定货币",
+   "en": "legal money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定清算",
+   "en": "legal liquidation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定预算",
+   "en": "legal budget",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定债权人",
+   "en": "legal creditor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定债券",
+   "en": "legal bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定转让",
+   "en": "legal assignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定准备金",
+   "en": "legal reserve",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定资产",
+   "en": "legal asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法律仲裁",
+   "en": "legal arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合法",
+   "en": "legal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律风险",
+   "en": "legal risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律趋同化",
+   "en": "legal assimilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律虚拟",
+   "en": "legal virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法投球",
+   "en": "legal pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正常比赛间断",
+   "en": "legal interruption",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法替换",
+   "en": "legal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限法律人格",
+   "en": "finite legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法系融合",
+   "en": "legal system integration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法律性",
+   "en": "legality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学",
+   "subjectName": "法律社会学",
+   "publishYear": "2025",
+   "definition": "在法律秩序下的行为或制度符合具体的法律规定的规范范畴。"
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal liability",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行为人由于违反法律义务而产生的某种不利的法律后果。"
+  },
+  {
+   "cn": "法制",
+   "en": "legal system",
+   "source": "社会学名词",
+   "wordNumber": "2.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "由统治阶级制定或者认可的法律和制度的总和。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "法律家长主义",
+   "en": "legal paternalism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.11",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "法律像父亲那样对待公民，为了阻止自我伤害或增进其利益，采取限制公民自由或权利的措施。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "某种设立特定行为方式的法律规制的正式文字表述。"
+  },
+  {
+   "cn": "法律文化",
+   "en": "legal culture",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "一个民族在长期的共同生活过程中形成的、具有相对稳定性且与法和法律现象有关的制度、意识和传统学说的总称。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  },
+  {
+   "cn": "法律行为",
+   "en": "legal behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "能够产生法律效力的行为。"
+  },
+  {
+   "cn": "法律职业",
+   "en": "legal profession",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "与法律有关的、以专业法律知识为基础的职业。如法官、检察官和律师等。"
+  },
+  {
+   "cn": "法律援助",
+   "en": "legal aid",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.81",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家以法律化、制度化的形式，在司法制度运行的各个环节、层次上，针对社会弱者不能运用一般的、正常的法律手段来保障其自身合法权益的情况下，通过提供减免收费等形式的法律帮助，实现其司法权益的一项法律领域的社"
+  },
+  {
+   "cn": "法制教育",
+   "en": "legal education",
+   "source": "马克思主义",
+   "wordNumber": "03.0535",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以有法必依、执法必严、违法必究为内容的宣传教育活动。1986年邓小平在《在全体人民中树立法制观念》中提出：“我们国家缺少执法和守法的传统，从党的十一届三中全会以后就开始抓法制，没有法制不行”，“加强法"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "legal Marxism",
+   "source": "马克思主义",
+   "wordNumber": "04.0340",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于俄国的一种打着马克思主义旗号的资产阶级改良主义思潮，它把马克思主义哲学歪曲为经济唯物主义，反对马克思的劳动价值论和剩余价值学说，抹杀阶级矛盾，否认社会主义代替资本主义的必然性，反对无产"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "法律手段",
+   "en": "legal means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "运用法律、法规、政策等去规范卫生服务市场的运行和卫生服务机构的市场行为，以实现政府对卫生服务市场的宏观调控。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

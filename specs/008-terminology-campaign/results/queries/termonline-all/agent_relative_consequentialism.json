@@ -1,0 +1,652 @@
+{
+ "key": "agent-relative consequentialism",
+ "term": "agent-relative consequentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:44:22+00:00",
+ "status": "ok",
+ "note": "variant=agent-relative consequentialism; 审定公布名词库=2170; 海峡两岸名词对照库=800; 其他来源数据库=31; 预公布名词数据库=145; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "主张一个人的行为的后果是对该行为进行道德判断时，做出正确或错误判断的最终依据和标准。是经典的规范伦理学和目的论伦理学理论。"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0221",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致的零件损坏。"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.068",
+   "subjectFullName": "机械工程_汽车_汽车维修_故障和损伤",
+   "subjectName": "故障和损伤",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致使用零件损坏的现象。"
+  },
+  {
+   "cn": "相对性",
+   "en": "relativity",
+   "source": "物理学名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "行动者",
+   "en": "agent",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.698",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "指那些能够被看成通过感受器来感知它的环境，并通过效应器作用于该环境的一切事物。行动具有自主性、反应性、目的定向性、历史延续性的特征。"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在复杂适应系统中，具有适应性、可以自主决策的个体对象。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "经济学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "受委托人雇用并按照签订的合同来完成委托人目标的行为主体。代理人必须具备一定的资格和相关的技能。按照代理对象的多寡，代理人一般可以分为专属代理人和普通代理人。"
+  },
+  {
+   "cn": "智能体",
+   "en": "agent",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0146",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在一定的环境中体现出自治性、反应性、社会性、预动性、思辨性（慎思性）、认知性等一种或多种智能特征的软件或硬件实体。"
+  },
+  {
+   "cn": "代理商",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0570",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "在较长远的基础上代表买方或卖方的一类批发商。通常包括制造商代理人、销售代理人、采购代理人、代销商等。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1016",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在一个契约关系中接受要约的一方或被动缔约的一方。"
+  },
+  {
+   "cn": "施事",
+   "en": "agent",
+   "source": "语言学名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义成分的一种。用来指明某一动作行为得以产生或实现的施动者或动力。例如，“李四吃完了饭”中的“李四”。"
+  },
+  {
+   "cn": "自主体",
+   "en": "agent",
+   "source": "地理学名词",
+   "wordNumber": "25.029",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "具有各自可识别的一定独特性特征的多单元系统的个体。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.104",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "地质学名词",
+   "wordNumber": "18.03.016",
+   "subjectFullName": "地质学_环境地质学_农业生态地质环境",
+   "subjectName": "农业生态地质环境",
+   "publishYear": "2026",
+   "definition": "空气中水汽压与相同温度下饱和水汽压的百分比；或湿空气的绝对湿度与相同温度下可能达到的最大绝对湿度之比；也可表示为湿空气中水蒸气分压力与相同温度下水的饱和压力之比。"
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "地质学名词",
+   "wordNumber": "13.02.048",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "元素丰度的表示方法之一。以某种元素为基数表示的元素丰度相对比值。例如常以原子数/10⁶硅原子(或10⁴硅原子、10²硅原子)为单位表示的元素丰度值。其中，以原子数/10⁶硅原子为单位的相对丰度常用于宇"
+  },
+  {
+   "cn": "相对时代",
+   "en": "relative age",
+   "source": "地质学名词",
+   "wordNumber": "07.01.030",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "运用生物地层学方法确定的地层相对新老关系或时代相对早晚顺序。如奥陶纪是晚于寒武纪，早于志留纪的一段时间，所确定的地层单位的时代是相对的。"
+  },
+  {
+   "cn": "相对密实度",
+   "en": "relative compactedness",
+   "source": "地质学名词",
+   "wordNumber": "17.02.109",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "砂类土最大孔隙比与天然孔隙比之差和最大孔隙比与最小孔隙比之差的比值。是无黏性粗粒土密实程度的指标。根据此指标，可将砂类土的密实程度划分为疏松的、中等的和紧密的3类。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "农学名词",
+   "wordNumber": "13.062",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "空气中实际水汽压与同温度下饱和水汽压之比。用于表征空气中水汽多少的物理量，用百分率表示。"
+  },
+  {
+   "cn": "相对性状",
+   "en": "relative character",
+   "source": "农学名词",
+   "wordNumber": "06.125",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由一对等位基因所决定并有明显差异的性状。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "农学名词",
+   "wordNumber": "19.240",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "相对于社会平均生活水平有一段差距的贫困状态。"
+  },
+  {
+   "cn": "关系调",
+   "en": "relative",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent\",\"foam agent\",\"inflating agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对紧张度，相对挺胀度",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对挺胀度（=相对紧张度）",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度型",
+   "en": "relative topography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对日照",
+   "en": "relative sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对涡度",
+   "en": "relative vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黑度",
+   "en": "relative blackness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对饱和度",
+   "en": "relative saturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸收率",
+   "en": "relative absorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对增益",
+   "en": "relative gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黏度",
+   "en": "relative viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对挥发度",
+   "en": "relative volatility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对误差",
+   "en": "relative error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸附能力",
+   "en": "relative adsorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0569999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "基于法律规定、法院指定或者当事人的委托授权，在一定权限内代替被代理人为其进行有一定法律意义的活动的人，其可以是自然人也可以是法人。包括法定代理人、指定代理人、委托代理人。某些失去行为能力或病情危重的病"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "相对工资",
+   "en": "relative wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0148",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“绝对工资”相对应。一国工人单位时间的工资与外国工人单位时间工资的比值。在国际贸易理论中，决定各国之间诸类贸易问题的多是各国的相对工资水平，而非绝对工资水平。同样，在说明一国工资水平对国际贸易的影响"
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0171",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中无产阶级在社会国民收入中所得份额相对下降的趋势。随着劳动生产率的提高，使工人工作日中的必要劳动时间缩短，剩余劳动时间延长，因而剩余价值率和剩余价值量不断提高，无产阶级的收入在整个国民收入"
+  },
+  {
+   "cn": "相对危险度",
+   "en": "relative risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.39",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一种反映暴露与发病（死亡）关联强度的指标，表明暴露组发病（死亡）的危险是对照组的多少倍，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，空气中实际水汽压与同温度下的饱和水汽压的百分比。"
+  },
+  {
+   "cn": "相对静止",
+   "en": "relatively static",
+   "source": "马克思主义",
+   "wordNumber": "01.0026",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动的一种特殊状态，标志物质的绝对运动在一定条件下、一定范围内出现的暂时稳定与平衡的状态。"
+  },
+  {
+   "cn": "文化相对性",
+   "en": "cultural relativity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个判断文化差异之价值的概念和观念。强调特定的社会、自然环境产生特定的文化。在不同文化中，其行为准则、行为模式之价值必须以该文化系统自身之标准来衡量。"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.2.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能够驱除或杀灭畜禽体内外寄生虫的药物。"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.27",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "可在糖果中形成质地柔软的凝胶状可食用性胶凝剂，如明胶、琼脂、果胶、卡拉胶等。"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有微生物，达到灭菌要求的消毒剂。"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭和抑制细菌生长繁殖的制剂。"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够在一定时间内，使某些微生物的生长或繁殖保持在一定水平以下的化学物质。"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "source": "消毒学",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于增强水的去污能力的化学制剂。"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "能使固体消毒剂在溶液中迅速裂碎成细小颗粒，增加消毒因子溶出的辅料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

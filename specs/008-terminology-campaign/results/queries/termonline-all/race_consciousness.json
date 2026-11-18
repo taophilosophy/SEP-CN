@@ -1,0 +1,812 @@
+{
+ "key": "race consciousness",
+ "term": "race consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:45:32+00:00",
+ "status": "ok",
+ "note": "variant=race consciousness; 审定公布名词库=3275; 海峡两岸名词对照库=1016; 其他来源数据库=185; 预公布名词数据库=252; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "动物学名词",
+   "wordNumber": "2.0055",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "有地理分异的种群或种群的集合。它们在形态上区别于该物种的其他宗，在分类学上常常处理为亚种。"
+  },
+  {
+   "cn": "滚道",
+   "en": "race",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0347",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "接合元件(滚柱与外圈或内圈)接触的圆柱表面。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "计划生育名词",
+   "wordNumber": "01.179",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "具有形态上和生理上的特点，以及语言、习俗等历史文化因素组成的有区域性特点的群体。"
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "植物学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "有地理分异的种群或种群的集合。它们在形态上区别于该物种的其他宗，在分类学上常常处理为亚种或变种。"
+  },
+  {
+   "cn": "竞争",
+   "en": "race",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0830",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "由于多个输入信号在传输和处理过程中经由不同途径到达某一会合点的时间有先有后而导致输出信号出现不正确瞬态值的现象。"
+  },
+  {
+   "cn": "小种",
+   "en": "race",
+   "source": "林学名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "树种内不同种源间或者产地间，经试验证明存在真实遗传差异的那些种源或产地。"
+  },
+  {
+   "cn": "小种",
+   "en": "race",
+   "source": "微生物学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "在特定寄主植物类群上有相似致病力或无致病力的植物病原菌类型。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "古生物学名词",
+   "wordNumber": "03.0611",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_古人类学",
+   "subjectName": "古人类学",
+   "publishYear": "2009",
+   "definition": "人种或种族是根据体质上某些能遗传的性状而划分的人群。人类的各种性状一方面受到遗传因素的影响，另一方面又受到环境因素的作用。因此世界上不同的人群有着不同的基因频率，从而产生了人种的差别。"
+  },
+  {
+   "cn": "竞渡",
+   "en": "boat race",
+   "source": "风景园林名词",
+   "wordNumber": "11.0418",
+   "subjectFullName": "风景园林_风景园林艺术_园居活动",
+   "subjectName": "园居活动",
+   "publishYear": "2025",
+   "definition": "在园林中或其他水域举行划船比赛的竞技活动。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "农学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "病原物不同菌株间在一组鉴别品种上表现致病性分化差异的类群。在形态上无明显差异。"
+  },
+  {
+   "cn": "军备竞赛",
+   "en": "arms race",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.402",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "相互对立的国家、国家集团或拥有武装力量的其他行为体，为保证自身安全或谋求军事优势、争夺地区乃至世界主导权，而在军备方面进行的、相对激烈的动态互反馈竞争。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race ",
+   "source": "草学名词",
+   "wordNumber": "7.0302",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "地理小种",
+   "en": "geographic race",
+   "source": "林学名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "树种内的不同种源或产地，经长期自然选择适应于某一类(如海拔、气候和土壤因子等)特殊生境、遗传上具有明显的适应性分化特征的变异类型。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "林学名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "林学_森林保护_森林病理",
+   "subjectName": "森林病理",
+   "publishYear": "2016",
+   "definition": "病原物种内、变种内或专化型内存在着对寄主植物的不同品种致病力不同的类群。"
+  },
+  {
+   "cn": "赛马场",
+   "en": "race course",
+   "source": "建筑学名词",
+   "wordNumber": "02.0470",
+   "subjectFullName": "建筑学_建筑类型及组成_体育建筑",
+   "subjectName": "体育建筑",
+   "publishYear": "2014",
+   "definition": "具有环形跑道供速度赛马用的场地。为观看表演和比赛，通常设有观众看台。"
+  },
+  {
+   "cn": "滚道",
+   "en": "rolling race",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "17.0068",
+   "subjectFullName": "机械工程_工程机械_混凝土机械及混凝土制品机械",
+   "subjectName": "混凝土机械及混凝土制品机械",
+   "publishYear": "2013",
+   "definition": "使滚锥在其内(外)锥面上滚动以产生振动的金属套。"
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "昆虫学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "种内适应本地区生态条件的种群集合。"
+  },
+  {
+   "cn": "泳道",
+   "en": "racing lane",
+   "source": "建筑学名词",
+   "wordNumber": "02.0497",
+   "subjectFullName": "建筑学_建筑类型及组成_体育建筑",
+   "subjectName": "体育建筑",
+   "publishYear": "2014",
+   "definition": "游泳池比赛时，用水面浮标和池底、池壁的标志线来加以界定的比赛活动区。"
+  },
+  {
+   "cn": "飞车",
+   "en": "propeller racing",
+   "source": "船舶工程名词",
+   "wordNumber": "03.344",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船舶在风、浪中航行时，因螺旋桨部分或全部露出水面，而使转速剧增并引起主机工况失常的现象。"
+  },
+  {
+   "cn": "飞车",
+   "en": "propeller racing",
+   "source": "航海科技名词",
+   "wordNumber": "15.0177",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋桨空转",
+   "en": "racing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographical race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学宗",
+   "en": "chemical race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候宗",
+   "en": "climatic race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographic race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物宗",
+   "en": "biological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographic race",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographical race",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "飞车",
+   "en": "propeller racing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇",
+   "en": "racing boat",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "飞车",
+   "en": "propeller racing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋桨尾流",
+   "en": "propeller race\",\"slipstream",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "径赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参加帆船比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛",
+   "en": "abandoned race\",\"canceled race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跨栏比赛",
+   "en": "hurdle race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "径赛主任",
+   "en": "race director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参赛包",
+   "en": "race packet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "race referee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车赛",
+   "en": "road race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛事主任",
+   "en": "race director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追逐赛",
+   "en": "pursuit race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人自行车赛",
+   "en": "tandem race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凯林赛",
+   "en": "Keirin race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段赛",
+   "en": "stage race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计分赛",
+   "en": "points race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "基于体质特征或遗传特点的差异而建构的关于人类的分类概念。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0068",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "具有区别于其他人群的共同遗传体质特征的人群；主要是根据人类体质的外表性状，如肤色、眼色、发色、发型、头型、面部特征、身材及血型等生理生化特性划分的。"
+  },
+  {
+   "cn": "种族主义",
+   "en": "race racism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "将区别于其他人种的某些共同遗传和体质特征扩大到社会与文化领域的一种解释,并以人种这一社会差异和政治经济不平等的象征符号为核心概念发展出的意识形态和涉及广泛的社会现象。"
+  },
+  {
+   "cn": "赛马",
+   "en": "horse racing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0435",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人骑乘马匹或驾驭马车进行快跑比赛的运动，是中国蒙古族、藏族、回族、维吾尔族、哈萨克族、满族、水族、苗族、达斡尔族等少数民族喜爱的传统体育项目。多在盛大传统节日里进行，如蒙古族的那达慕大会等。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "有两层含义：一是指群体经验或有关群体的集体意识，如群体成员共享的信仰、 价值观念和规范准则等；另一是指群体成员资格在群体成员的自我意象及经验中的地位。"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0167",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会存在即社会物质生活及其过程在社会精神领域中的反映，是精神现象的总和，包括各种社会意识形式和社会心理。是历史唯物主义最基本的范畴之一。社会意识取决于社会存在，在阶级社会具有鲜明的阶级性。同时，社会意"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "国家意识",
+   "en": "national consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0144",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的国家认同，即公民作为国家一分子维护国家统一、领土完整、安全发展等方面利益的意识。"
+  },
+  {
+   "cn": "公民意识",
+   "en": "civic consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0145",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的公民身份认同，即公民作为一国公民，并承担国家规定的公民权利义务的意识。"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "tension",
+ "term": "tension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:33:34+00:00",
+ "status": "ok",
+ "note": "variant=tension; 审定公布名词库=1325; 海峡两岸名词对照库=205; 其他来源数据库=34; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0497",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "与概念上从周围物体隔离出来的物体的外法线方向一致的拉力。 "
+  },
+  {
+   "cn": "拉伸",
+   "en": "tension",
+   "source": "手外科学名词",
+   "wordNumber": "02.0033",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "具有弹性的生物材料的两端平面上受到法向均布拉力而产生沿拉力方向的伸长。"
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "手外科学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "有弹性的组织在承受压力后组织内存在的回缩力量。"
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "冶金学名词",
+   "wordNumber": "09.0170",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "连轧过程中，前机架轧机轧制出口速度大于后机架轧机轧制入口速度时，轧件将承受的拉力。"
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "呼吸病学名词",
+   "wordNumber": "10.006",
+   "subjectFullName": "呼吸病学_氧和二氧化碳代谢_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2018",
+   "definition": "受到拉力作用时，物体内部任一截面两侧存在的相互牵引力。"
+  },
+  {
+   "cn": "拉伸",
+   "en": "tension",
+   "source": "土木工程名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸",
+   "en": "tension",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "杆件或单元体的两端平面上受到法向均布拉力而产生沿拉力方向的伸长现象。"
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸",
+   "en": "tension",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension,tensile force",
+   "source": "物理学名词",
+   "wordNumber": "02.0251",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[链传动]张紧轮",
+   "en": "tensioner",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0709",
+   "subjectFullName": "机械工程（一）_传动_链传动_链条元件",
+   "subjectName": "链条元件",
+   "publishYear": "2021",
+   "definition": "为避免松边张力不足引起链条在链轮上跳齿或掉链而设置的张紧链条的装置。"
+  },
+  {
+   "cn": "张力[放线]机",
+   "en": "tensioner",
+   "source": "电力名词",
+   "wordNumber": "22.399",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "放线时,使导线、地线保持一定张紧力,从而避免触及地面及跨越物的机械。"
+  },
+  {
+   "cn": "张紧器",
+   "en": "tensioner",
+   "source": "船舶工程名词",
+   "wordNumber": "13.247",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "为了减少管道铺设时的弯曲应力，在铺管滑道处设置的能使管子处于拉伸状态的机械夹紧装置。"
+  },
+  {
+   "cn": "[缆绳]张紧器",
+   "en": "tensioner",
+   "source": "石油名词",
+   "wordNumber": "08.0531",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "肌腱张力",
+   "en": "tendon tension",
+   "source": "显微外科学名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "显微外科学_再植与再造_基本技术",
+   "subjectName": "基本技术",
+   "publishYear": "2016",
+   "definition": "肌腱修复时肌腱的紧张度。正常情况下，肌肉肌腱的长度正好满足功能需要。如屈指肌腱移植时，长度过紧导致手指伸直受限，过松则手指屈曲不充分。"
+  },
+  {
+   "cn": "张力性气颅",
+   "en": "tension pneumocephalus",
+   "source": "神经外科学名词",
+   "wordNumber": "7.07",
+   "subjectFullName": "医学_神经外科学_创伤性脑损伤_创伤性脑损伤概论",
+   "subjectName": "创伤性脑损伤概论",
+   "publishYear": "2026",
+   "definition": "因大量空气积聚占据颅腔空间，产生张力压迫并刺激脑组织，并使其移位变形的颅内损伤。"
+  },
+  {
+   "cn": "紧张性头痛",
+   "en": "tension headache",
+   "source": "神经外科学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "以轻度到中度双侧压迫性或紧箍样头痛为特点的原发性头痛。无恶心和呕吐，常无怕光和怕声。病因不明，可能与周围及中枢性伤害性痛觉机制及情绪障碍等有关。"
+  },
+  {
+   "cn": "张力水疱",
+   "en": "tension blister",
+   "source": "整形外科名词",
+   "wordNumber": "5.037",
+   "subjectFullName": "整形外科_显微外科_显微外科围手术期处理",
+   "subjectName": "显微外科围手术期处理",
+   "publishYear": "2026",
+   "definition": "手术后出现的皮肤表皮层和真皮层在水肿张力作用下发生分离，液体积聚形成的水疱。"
+  },
+  {
+   "cn": "引张",
+   "en": "tension stress",
+   "source": "地质学名词",
+   "wordNumber": "09.02.020",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "以张应力为主的应力状态。趋向于把物体拉裂。"
+  },
+  {
+   "cn": "张节理",
+   "en": "tension joint",
+   "source": "地质学名词",
+   "wordNumber": "09.05.039",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "在垂直于主张应力方向上发生破裂而形成的节理。一般破裂面粗糙，多不平直，两壁常张开而易被岩脉(矿脉)充填。一般沿走向及倾向都延伸不远即消失，而在其一侧又可发育同一方向的张节理，即“尖灭侧现” 的现象。发"
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "张紧器",
+   "en": "tensioner",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "张力感受器",
+   "en": "tension receptor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "伸张木（=应拉木）",
+   "en": "tension wood",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应拉木，伸张木",
+   "en": "tension wood",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "张力传感器",
+   "en": "tension transducer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "界面张力",
+   "en": "interfacial tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "毛细张力",
+   "en": "capillary tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏附张力",
+   "en": "adhesive tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逆张力",
+   "en": "back tension",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "氧张力",
+   "en": "oxygen tension",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "界面张力",
+   "en": "interfacial tension",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表面张力",
+   "en": "surface tension",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "网绳",
+   "en": "tension cord",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受伤",
+   "en": "injury\",\"lesion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务化延伸",
+   "en": "service-oriented extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因对方受伤获胜",
+   "en": "victory for lesion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经前期紧张综合征",
+   "en": "premenstrual tension syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "一种影响女性的常见的特发性综合征，特征是发生在月经周期黄体期的某些环境、代谢或行为因素，导致周期性的情绪、身体或行为症状，干扰个体生活方式。"
+  },
+  {
+   "cn": "肌腱",
+   "en": "tendon",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.20",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肌肉末端的结缔组织纤维索。肌肉借此附着于骨骼或其他结构。"
+  },
+  {
+   "cn": "退休费",
+   "en": "pension expense",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.4",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "职工退休后，根据国家退休制度规定，以货币形式领取的生活费用。"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  },
+  {
+   "cn": "社会养老保险制度",
+   "en": "social pension insurance system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "国家和社会根据一定的法律和法规，为保证劳动者在达到国家规定的解除劳动义务的劳动年龄界限，或因为丧失劳动能力而退出劳动岗位后的基本生活需要而建立的一种社会保险制度。它是社会保障制度的重要组成部分。"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "按照法律规定实施，劳动者个人以劳动时间或货币贡献为计量单位进行参与，在做出一定贡献或达到一定资格后，依法享受应有待遇的制度体系。一般包括加入体系、做出贡献、计发待遇、享受待遇等几个基本程序。"
+  },
+  {
+   "cn": "指屈肌腱狭窄性腱鞘炎",
+   "en": "tenosynovitis of finger flexor tendon",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "“弹响指”，主要由屈指肌腱在纤维鞘起始部滑动障碍所致的腱鞘炎症。"
+  },
+  {
+   "cn": "腱鞘纤维瘤",
+   "en": "fibroma of tendon sheath，FTS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.14",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "一种附着于手、足、踝等处腱鞘或肌腱的良性纤维性小结节。大多位于成年男性手部。"
+  },
+  {
+   "cn": "腱鞘巨细胞瘤",
+   "en": "giant cell tumor of tendon sheath,GCTS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "一种起源于关节、滑囊和腱鞘滑膜的肿瘤,多见于青年人，女多于男。表现为手部坚实性无痛性椭圆形结节，肿块可侵袭邻近骨骼，足趾部少见。病理呈分叶状，小叶由致密、透明化胶原围绕。"
+  },
+  {
+   "cn": "中国人民政治协商会议第一届全体会议",
+   "en": "First Plenary Session of the Chinese Peoples Political Consultative Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0536",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月21日至9月30日在北京举行。中国共产党及各民主党派、人民团体和无党派民主人士等单位的代表（含候补代表）共662人参加了会议。中国人民政协筹备会主任、中国共产党中央委员会主席毛泽东向大会"
+  },
+  {
+   "cn": "中国共产党第六届六中全会",
+   "en": "sixth Plenary Session of the sixth Central Committee of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "04.0533",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1938年9月29日至11月6日在延安召开。全会通过了以毛泽东为核心的中央政治局的路线，克服了以王明为代表的右倾错误，提出了马克思主义中国化的任务，号召全党学习马克思主义理论，善于把马列主义的一般原理"
+  },
+  {
+   "cn": "中国共产党第六届七中全会",
+   "en": "Seventh Plenary Session of the sixth Central Committee of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "04.0534",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1944年5月21日至1945年4月20日在延安杨家岭召开。出席会议的有中央委员和候补委员17人，各中央局、分局和其他方面的负责人12人。全会通过了党的《关于若干历史问题的决议》。它运用辩证唯物主义和"
+  },
+  {
+   "cn": "中国共产党第十一届三中全会",
+   "en": "Third Plenary Session of the Eleventh central committee of the communist party of China",
+   "source": "马克思主义",
+   "wordNumber": "04.0545",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年12月18日至22日在北京举行。全会的中心议题是讨论把全党的工作重点转移到社会主义现代化建设上来。全会结束了粉碎“四人帮”之后两年中党的工作在徘徊中前进的局面，实现了党的思想路线、政治路线、"
+  },
+  {
+   "cn": "中国共产党第十九届六中全会",
+   "en": "Sixth Plenary Session of the Nineteenth Central Committee of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "04.0554",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2021年11月8日至11日在北京举行。习近平代表中央政治局向全会作工作报告，并就《中共中央关于党的百年奋斗重大成就和历史经验的决议（讨论稿）》向全会作了说明。大会审议通过的《中共中央关于党的百年奋斗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

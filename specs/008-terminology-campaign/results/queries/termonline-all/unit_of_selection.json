@@ -1,0 +1,692 @@
+{
+ "key": "unit of selection",
+ "term": "unit of selection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:24:46+00:00",
+ "status": "ok",
+ "note": "variant=unit of selection; 审定公布名词库=10000; 海峡两岸名词对照库=8760; 其他来源数据库=1939; 预公布名词数据库=2808; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "选择单位",
+   "en": "unit of selection",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.451",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "在一定选择层级上自然选择进行操作的对象。"
+  },
+  {
+   "cn": "选择系数",
+   "en": "selection coefficient,coefficient of selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.167",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "测量某基因型在群体中不利于生存程度的数值，亦即在选择作用下所降低的适合度，是选择强度的一种度量。"
+  },
+  {
+   "cn": "选本",
+   "en": "selection of edition",
+   "source": "档案学名词",
+   "wordNumber": "04.03.047",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，搜集档案文献的不同版本，通过比勘校核以确定善本的材料选择工作。"
+  },
+  {
+   "cn": "稿件选择",
+   "en": "selection of articles",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.185",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "编辑从进入编辑部的众多稿件中挑选出能够刊发的稿件，并对其进行进一步处理的工作程序。一般由初选(粗选)、复选(精选)、终选(定选)等多个环节组成。"
+  },
+  {
+   "cn": "选取指标",
+   "en": "index of selection",
+   "source": "测绘学名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地图制图作业中，对地图要素进行取舍时规定的分界尺度或数量标志(量度、大小、间隔等)。"
+  },
+  {
+   "cn": "选择准确性",
+   "en": "accuracy of selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.401",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "度量估计育种值与真实育种值相关程度的指标。等于估计育种值与真实育种值间的相关系数。"
+  },
+  {
+   "cn": "选择周期",
+   "en": "cycle of selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.594",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "在育种群中，对同一年出生的种畜，从其出生，经过所有育种环节，直到最后被淘汰的全过程。"
+  },
+  {
+   "cn": "立目",
+   "en": "selection of lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "按照一定的编纂宗旨，以统计学与经验相结合的方式，在语料中挑选一部辞书应收录的语言单位，并确立为词目。例如确定一部字典的字头、词典的词头、百科全书的条头等。"
+  },
+  {
+   "cn": "选词",
+   "en": "selection of headword",
+   "source": "语言学名词",
+   "wordNumber": "06.046",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "按照词典的编纂宗旨和用户对象，从语料中挑选拟收录为释义对象的词头。"
+  },
+  {
+   "cn": "选择强度",
+   "en": "intensity of selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.176",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "标准化的选择差，即以标准差为单位的选择差。"
+  },
+  {
+   "cn": "选择松弛",
+   "en": "relaxation of selection",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.862",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "选择函数",
+   "en": "selection of multifunction",
+   "source": "数学名词",
+   "wordNumber": "02.0160",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卵泡选择",
+   "en": "selection of follicles",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.539",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "单位制",
+   "en": "system of units,unit system",
+   "source": "物理学名词",
+   "wordNumber": "01.0318",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "测量单位",
+   "en": "measurement unit,unit of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "根据约定定义和采用的标量，任何其他同类量可与其比较使两个量之比用一个数表示。"
+  },
+  {
+   "cn": "辐射选择性",
+   "en": "selectivity of radiation",
+   "source": "电力名词",
+   "wordNumber": "01.663",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "某些气体只在特定波长范围内才具有吸收和发射辐射能的特性。"
+  },
+  {
+   "cn": "知觉选择性",
+   "en": "selectivity of perception",
+   "source": "心理学名词",
+   "wordNumber": "02.368",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体在面临复杂的刺激时，下意识地选择部分事物进行知觉的特性。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "农学名词",
+   "wordNumber": "06.275",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "物种进化过程中或现代育种工作中，自然界或人工选择优良的变异个体的行为。择优去劣，是物种进化的主要动力，也是创造新品种和改良现有品种的重要手段。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "使用特殊培养条件使只具备某种特殊表型（如繁殖力或生活力）的细胞得以存活的方 式。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "动物学名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "对有利变异的保留和对有害变异淘汰的过程。"
+  },
+  {
+   "cn": "选择系数",
+   "en": "selection coefficient\",\"coefficient of selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择强度",
+   "en": "intensity of selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择途径",
+   "en": "pathway of selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择松弛",
+   "en": "relaxation of selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选取，选择",
+   "en": "select",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分析单元",
+   "en": "unit of analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量单位",
+   "en": "unit of measure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计量单位",
+   "en": "unit of measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单位",
+   "en": "unit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机组",
+   "en": "unit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "成组",
+   "en": "unitization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分裂选择,歧化选择",
+   "en": "disruptive selection\",\"diversifying selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "“731部队”（满洲第731部队）",
+   "en": "“Unit 731” (Unit 731 of Manchuria)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔离区",
+   "en": "isolation unit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合国",
+   "en": "United Nations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单位制",
+   "en": "system of unit",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "1949年以来中国社会的一种独特而关键的全面实施的组织体制和制度形式，作为一种体制，一切社会组织都是单位，单位是控制和调节整个社会运转的中枢系统；作为一种制度结构，国家成为主宰资源配置与资源分配制度和"
+  },
+  {
+   "cn": "单位",
+   "en": "unit",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "1949年以来中国社会主义城市中特有的最基本的组织形式，它既是一个“就业场所”，又是一种再分配体制，还是整合社会成员的制度机制和社会结构，全面保证成员的就业和福利需要，给予他们社会行为的权利、身份和地"
+  },
+  {
+   "cn": "监测单位资质",
+   "en": "qualification of surveillance unit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "符合《健康体检管理暂行规定》要求，具备独立开展学生健康体检工作的人员和条件、能对学生健康体检状况进行个体和群体评价、分析、反馈，并提出健康指导建议的卫生保健机构或医疗机构。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "野营地选择",
+   "en": "site selection of field camp",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在满足部队行动目标及训练要求的前提下，综合考虑野营方式、时间、自然气候和地理环境条件及环境卫生状况等要素，而确定野营营区展开的空间范围。"
+  },
+  {
+   "cn": "哈夫单位",
+   "en": "Haugh unit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.18",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "根据蛋重和浓厚蛋白的高度，按以下公式计算出的指标，HU=100*lg[h+7.57-1.7*(w⁰˙³⁷)]，h 为测定蛋品摊在平台上蛋白高度（mm），w 为测量蛋品整蛋的质量（g）。是蛋品质量评价的"
+  },
+  {
+   "cn": "重点单位",
+   "en": "key unit",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "容易发生传染病聚集性疫情或突发公共卫生事件的单位，如医疗机构、托幼养老机构、学校、企事业单位等。"
+  },
+  {
+   "cn": "社会单位",
+   "en": "social unit",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在社会交往或互动中自然形成的或为一定目的而建立的各种社会群体或组织，包括以社会分工和权力划分或社会关系为基础形成的诸社会子系统。如家庭、社群或机关、团体、法人、企业等。在中国社会学中特指起源于现代"
+  },
+  {
+   "cn": "统一战线",
+   "en": "united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0360",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党在一定历史条件下为反对主要敌人同其他革命阶级和一切可以团结的力量结成的联盟。是中国共产党领导中国人民进行革命和建设的一个极其重要的策略。统一战线在不同的历史时期具有不同的内容。在中国社会的"
+  },
+  {
+   "cn": "联合反对派",
+   "en": "United Opposition",
+   "source": "马克思主义",
+   "wordNumber": "04.0438",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1926—1927年联共（布）党内的一个“左”倾派别。主要代表人物是托派领袖列夫·达维多维奇·托洛茨基（Leon Davidovich Trotsky）等和新反对派领袖格里戈里·叶夫谢耶维奇·季诺维也"
+  },
+  {
+   "cn": "统一战线的领导权",
+   "en": "leadership of the united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0361",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "领导权问题是革命统一战线的最根本的问题。中国共产党对统一战线实行坚强正确的领导，是中国统一战线的根本特点，也是中国统一战线得以在长期的革命和建设实践中发挥重大作用的根本保证。"
+  },
+  {
+   "cn": "统一战线的政治基础",
+   "en": "political basis of united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0368",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使统一战线中不同的社会政治力量联合起来的共同政治要求和利益。如第一次国共合作的政治基础是反帝反北洋军阀的国民革命，第二次国共合作的政治基础是抗日，解放战争时期统一战线的政治基础是人民民主革命。"
+  },
+  {
+   "cn": "格鲁吉亚统一共产党",
+   "en": "United Communist Party of Georgia",
+   "source": "马克思主义",
+   "wordNumber": "05.0302",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1994年9月成立。该党认为自己是苏联时期格鲁吉亚苏维埃社会主义加盟共和国共产党的继承党。该党信奉马克思列宁主义，主张复兴社会主义制度和恢复原苏联地区统一的社会主义联盟国家。苏联解体之后，该党长期受到"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

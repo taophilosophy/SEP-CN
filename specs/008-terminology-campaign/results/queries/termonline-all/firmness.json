@@ -1,0 +1,642 @@
+{
+ "key": "firmness",
+ "term": "Firmness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:37:28+00:00",
+ "status": "ok",
+ "note": "variant=Firmness; 审定公布名词库=93; 海峡两岸名词对照库=45; 其他来源数据库=3; 预公布名词数据库=36; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "硬度",
+   "en": "hardness,firmness",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品质构特性",
+   "subjectName": "食品质构特性",
+   "publishYear": "2020",
+   "definition": "材料局部抵抗硬物压入其表面的能力。食品领域用来描述食物软硬、咀嚼需要的力度大小的物理指标。"
+  },
+  {
+   "cn": "厂商",
+   "en": "firm",
+   "source": "经济学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "以盈利为目的而从事生产或销售某种（些）物品或服务的组织。经济学家假定理性的厂商是以利润最大化为目标的，这一假定并非意味着厂商在任何情况下特别是在短期都力图使利润最大化，而是指厂商在长期内使折算为现值的"
+  },
+  {
+   "cn": "硬质奶油",
+   "en": "firm butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.371",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "以十八碳烯酸(即油酸)含量少的乳脂肪为原料加工成的奶油。"
+  },
+  {
+   "cn": "企业迁移",
+   "en": "firm migration",
+   "source": "经济学名词",
+   "wordNumber": "08.029",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "企业区位再选择的过程。从狭义角度看，企业迁移是指企业把生产活动从一个地方搬迁的另一个地方；从广义角度看，则是指企业在一个新的生产地点开展其活动。"
+  },
+  {
+   "cn": "固核",
+   "en": "firm core",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0020",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "主要以门级网表的形式呈现的知识产权核。在集成入单片系统时，具有布局布线方面的灵活性。"
+  },
+  {
+   "cn": "目标公司",
+   "en": "target firm",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0596",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "并购中被吸收或被收购股份或资产的公司。"
+  },
+  {
+   "cn": "企业成长",
+   "en": "firm growth",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0905",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "新创企业的生存和增长。"
+  },
+  {
+   "cn": "固发",
+   "en": "hair firming",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "医学美学与美容医学_美容中医学",
+   "subjectName": "美容中医学",
+   "publishYear": "2015",
+   "definition": "以稳固头发，使之茂密、牢固，不易脱落，达到美化头发目的各种中医药保健方法。"
+  },
+  {
+   "cn": "齿坚",
+   "en": "firm tooth",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.053",
+   "subjectFullName": "中医药学_耳鼻喉科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "牙齿坚固的状态。"
+  },
+  {
+   "cn": "保证出力",
+   "en": "firm output",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.088",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "相应于设计保证率的枯水时段的平均出力。"
+  },
+  {
+   "cn": "牢脉",
+   "en": "firm pulse",
+   "source": "中医药学名词",
+   "wordNumber": "04.507",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "脉位深，轻取、中取均不应指，重按可得脉体宽大、脉位长，脉来有力而弦的脉象。"
+  },
+  {
+   "cn": "保证出力",
+   "en": "firm output",
+   "source": "水利科学技术名词",
+   "wordNumber": "12.039",
+   "subjectFullName": "水利科学技术_水力发电_水能利用",
+   "subjectName": "水能利用",
+   "publishYear": "1997",
+   "definition": "有调节的水电站相应于设计保证率的枯水时段的平均出力。"
+  },
+  {
+   "cn": "保证电能",
+   "en": "firm energy",
+   "source": "水利科学技术名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "水利科学技术_水力发电_水能利用",
+   "subjectName": "水能利用",
+   "publishYear": "1997",
+   "definition": "保证出力乘以1年的小时数所得出的电量。"
+  },
+  {
+   "cn": "岩石坚固性",
+   "en": "firmness of rock",
+   "source": "冶金学名词",
+   "wordNumber": "02.0365",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "岩石抵抗外力的性能。可以笼统地表征岩石的性质、凿岩的难易程度和地压的大小。工程中常用普氏方法来测定和描述岩石的坚固性。"
+  },
+  {
+   "cn": "全球媒体公司",
+   "en": "global media firms",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "11.054",
+   "subjectFullName": "新闻学与传播学_国际传播_国际传播与媒介帝国主义批判",
+   "subjectName": "国际传播与媒介帝国主义批判",
+   "publishYear": "2022",
+   "definition": "在全球范围内主要进行新闻和文化娱乐产品的生产、发行和销售的跨国公司或传媒集团，其发展战略的基本特征为市场与融资的全球化，并多利用直接投资、兼并或建立战略联盟等商业途径进入外国市场。全球媒体公司是推动全"
+  },
+  {
+   "cn": "物流企业",
+   "en": "physical distribution firm",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0129",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "帮助公司储存商品或者将商品从生产地运往目的地的企业。包括仓储企业与运输企业等。"
+  },
+  {
+   "cn": "企业成长阶段",
+   "en": "firm growth stage",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0907",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "新创企业发展进程中的不同阶段。通常包括启动、成长、成熟、稳定四个阶段。"
+  },
+  {
+   "cn": "黑硬干肉",
+   "en": "dark firm dry meat",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0935",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "色泽黑暗、质地干硬的鲜肉。是一种典型的异质肉。通常发生在牛羊肉。"
+  },
+  {
+   "cn": "正式订单",
+   "en": "formal order,firm order",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.382",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆经过审核，确定采购文献后，最终向供应商发出的订单。"
+  },
+  {
+   "cn": "厂商理论",
+   "en": "theory of the firm",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0976",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "莱本施泰因(Harvey Leibenstein)考察市场结构对企业行为的影响所提出的理论。"
+  },
+  {
+   "cn": "报实盘",
+   "en": "firm offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多国公司",
+   "en": "multinational firm",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[买方]递实盘",
+   "en": "firm bid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定的订单",
+   "en": "firm order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定的合同",
+   "en": "firm contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定销售",
+   "en": "firm sale",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "firm inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实价",
+   "en": "firm price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实盘",
+   "en": "firm quote",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实盘交易",
+   "en": "firm bargain",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "套汇商行",
+   "en": "arbitrage firm",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票[代理]交易所",
+   "en": "stock broking firm",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "还实盘",
+   "en": "counter offer firm",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定销售合同",
+   "en": "firm sale contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券公司",
+   "en": "stock exchange firm",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纤度",
+   "en": "fineness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "公平性",
+   "en": "fairness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "刚毅",
+   "en": "Firm and Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  严厉打击涉疫违法犯罪",
+   "en": "to take firm action against epidemic-related crimes",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公生明,廉生威",
+   "en": "Fairness Fosters Discernment and Integrity Creates Authority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公平",
+   "en": "fairness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.123",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "不偏袒。从特定的时间、地点、条件出发，以客观事实为依据，排除个人有形或无形的私利和偏见，以一种高度责任感，合情合理地判断、调节、排解人与人之间的各种利益关系或利益冲突的一种基本行为准则。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "体力适度",
+   "en": "physical fitness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在日常活动中表现出的疲劳感、无力和虚弱感。"
+  },
+  {
+   "cn": "体能发育",
+   "en": "physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体生理功能和运动能力随年龄而发生的变化。"
+  },
+  {
+   "cn": "体能测试",
+   "en": "physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "采用医学手段对机体日常体力活动或运动中的功能进行测试。一般包括身体成分、心肺耐力、肌力肌耐力和柔韧性四个方面的测试。"
+  },
+  {
+   "cn": "体质健康",
+   "en": "physical fitness health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种完好的身体、心理和社会适应的状态，而不仅仅是没有疾病或虚弱。包括身体形态、感觉敏锐度、对疾病的易感性、身体机能、恢复能力和执行某些任务的能力。"
+  },
+  {
+   "cn": "骨骼肌肉适能",
+   "en": "muscular-skeletal fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "由骨骼强韧度、肌肉力量、肌肉耐力、爆发力和柔韧性所反映的体质健康状态。"
+  },
+  {
+   "cn": "体质监测",
+   "en": "physical fitness surveillance",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.12",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "为系统掌握国民体质状况，以抽样调查的方式，在全国范围内对监测对象进行统一体质测试和对监测数据进行分析研究的工作。"
+  },
+  {
+   "cn": "体能训练",
+   "en": "physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.10",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "为促进身体发育、增强力量和耐力、提高速度和灵敏性、增加柔韧性、促进各部位协调等人体的运动能力而进行的训练活动。"
+  },
+  {
+   "cn": "心肺耐力",
+   "en": "cardiorespiratory fitness, cardiorespiratory endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在较长时间的体力活动中，心血管系统（心脏和血管）和呼吸系统（肺和气道），为工作的肌肉和器官提供氧气的能力。通常表示为测量或估计的最大摄氧量。"
+  },
+  {
+   "cn": "军事体能训练",
+   "en": "military physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "通过系列项目练习，提升军人的体质、体力作业能力与运动能力的活动过程。主要包含三类：针对身体素质的基础体能训练、针对专业兵种特殊体能的专业体能训练，以及融合体能、智能、技能与军事技战术的综合体能训练。"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  },
+  {
+   "cn": "健康相关体能",
+   "en": "health-related physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "维持身体健康、提高工作、学习和生活效率所必需的基本能力。"
+  },
+  {
+   "cn": "运动技能相关体能",
+   "en": "sports-related physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "包括速度、爆发力、灵敏度、平衡力、协调与反应力等竞技体育相关的体能。"
+  },
+  {
+   "cn": "学生体质健康评价",
+   "en": "student's physical fitness evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "根据学生体质健康监测，采用不同方法、不同指标对学生生长发育状况、学生常见疾病和多发病进行评价，建立健康档案，给予个性化的健康教育处方。"
+  },
+  {
+   "cn": "学生体质健康测试",
+   "en": "student's physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "测试人员采用规范的技术、方式和方法，组织学生参加《国家学生体质健康标准》所确定的测试项目及有关内容的实际测评，是促进学生体质健康发展、激励学生参加身体锻炼的教育、评价和反馈手段。"
+  },
+  {
+   "cn": "学生体质健康监测",
+   "en": "student physical fitness surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "根据国家对学生体质健康方面的基本要求，对学生体质健康状况和锻炼效果的长期评定过程。"
+  },
+  {
+   "cn": "体能评价",
+   "en": "evaluation of physical fitness",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.11",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "用最大摄氧量、体力劳动能力、肌力、运动能力等测量方法对体能进行测量、评价和分析的活动。"
+  },
+  {
+   "cn": "公平公正原则",
+   "en": "principle of fairness and justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.075",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在医疗资源分配、健康服务提供以及医学决策中，确保所有个体或群体享有平等的机会和应有的待遇，避免歧视、偏见或不合理优先获得的伦理原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

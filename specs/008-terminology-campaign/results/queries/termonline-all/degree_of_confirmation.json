@@ -1,0 +1,742 @@
+{
+ "key": "degree of confirmation",
+ "term": "degree of confirmation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:38:41+00:00",
+ "status": "ok",
+ "note": "variant=degree of confirmation; 审定公布名词库=10000; 海峡两岸名词对照库=7465; 其他来源数据库=1827; 预公布名词数据库=2695; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "可验证性",
+   "en": "confirmability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为一个陈述有认知意义，当且仅当这个陈述和其他辅助假说合取时，能够推导出观察命题，并且这些观察命题不能由辅助假说单独推出。"
+  },
+  {
+   "cn": "确证程序",
+   "en": "confirmation procedure",
+   "source": "运动医学名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "一种分析检测过程，旨在确定样品中一种或多种特定禁用物质、禁用物质的代谢物、使用禁用物质的标志物的浓度或禁用方法是否存在的分析检测过程。确证程序还可显示某种禁用物质的含量高于检测限和确定样品中某种禁用物"
+  },
+  {
+   "cn": "积极式函证",
+   "en": "positive confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者直接向审计师回复，表明是否同意询证函所列示的信息，或填列所要求的信息的询证方式。"
+  },
+  {
+   "cn": "消极式函证",
+   "en": "negative confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0386",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者只有在不同意询证函所列示的信息时才直接向审计师回复的询证方式。"
+  },
+  {
+   "cn": "证真偏差",
+   "en": "confirmation bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们希望去寻找与他们持有观点相一致信息的现象，任何与其观点相冲突的信息会被忽略掉，而一致的信息则会被高估。"
+  },
+  {
+   "cn": "审计函证",
+   "en": "audit confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师直接从被询证的第三方获取书面答复作为审计证据的过程。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0622",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为确保测量设备符合预期使用要求所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "计量学名词",
+   "wordNumber": "01.203",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为确保测量设备处于满足预期使用要求的状态所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.008",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "确认性评价",
+   "en": "confirmative evaluation",
+   "source": "教育学名词",
+   "wordNumber": "13.070",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "确定学习者是否还维持他们的能力水平、教学材料是否仍然有效、机构的问题是否解决的过程。一般在形成性评价和总结性评价完成一段时间以后进行。"
+  },
+  {
+   "cn": "确诊鼠疫",
+   "en": "confirmed plague",
+   "source": "地方病学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "地方病学_鼠疫_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "根据鼠疫诊断标准(WS 279-2008)确定为鼠疫的患者。当患者被确诊为鼠疫时，必须按照鼠疫控制应急预案，采取鼠疫控制措 施。"
+  },
+  {
+   "cn": "布鲁氏菌病确诊病例",
+   "en": "confirmed cases of brucellosis",
+   "source": "地方病学名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "地方病学_布鲁菌病_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "有明确的流行病学接触史、临床症状、体征，且布鲁氏菌血清学确证试验阳性反应，或者培养物中分离出布鲁氏菌的病例。"
+  },
+  {
+   "cn": "增压度",
+   "en": "degree of turbocharging,degree of  supercharging",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0794",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "打浆度",
+   "en": "beating degree,degree of beating",
+   "source": "林学名词",
+   "wordNumber": "12.230",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "反映浆料经磨浆机后纤维被切断、分裂、润胀和水化等的程度。是衡量纸料脱水难易程度的指标(滤水性)。用°SR表示。"
+  },
+  {
+   "cn": "连接度",
+   "en": "degree",
+   "source": "生物物理学名词",
+   "wordNumber": "06.159",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "生物网络中某个节点与其他节点的连接数。"
+  },
+  {
+   "cn": "学位",
+   "en": "degree",
+   "source": "教育学名词",
+   "wordNumber": "08.224",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "由学位授予单位授予，证明学生完成某一级学业并达到相应学力水平的标志。一般分为学士学位、硕士学位和博士学位三级。"
+  },
+  {
+   "cn": "度",
+   "en": "degree",
+   "source": "数学名词",
+   "wordNumber": "02.0283",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "氧化度",
+   "en": "degree of oxidation",
+   "source": "地质学名词",
+   "wordNumber": "04.01.083",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "反映岩石氧化程度的岩石化学参数。常用来区分火山岩与次火山岩，以及研究岩浆分异趋势、岩体剥蚀深度、蛇纹石化强度等。用 OX°表示，表达式为：OX°=Fe³⁺/(Fe³⁺+Fe²⁺+Mn)(原子数) 。"
+  },
+  {
+   "cn": "脱发程度",
+   "en": "degree of alopecia",
+   "source": "整形外科名词",
+   "wordNumber": "14.034",
+   "subjectFullName": "整形外科_头颈部整形与美容_脱发与毛发移植",
+   "subjectName": "脱发与毛发移植",
+   "publishYear": "2026",
+   "definition": "以头发与头皮的分布比例为依据评估的脱发的严重程度。可分为无脱发、极轻度脱发、轻度脱发、中度脱发、严重脱发、无毛发6个等级。"
+  },
+  {
+   "cn": "有序度",
+   "en": "degree of order",
+   "source": "地质学名词",
+   "wordNumber": "02.00.205",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "表征晶体结构中不同质点在同类结构位置上排布的有序程度的一个参数。"
+  },
+  {
+   "cn": "订单确认书",
+   "en": "confirmation of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发盘确认书",
+   "en": "confirmation of offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "接收证实",
+   "en": "confirmation of receipt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证性偏倚",
+   "en": "confirmation bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货确认书",
+   "en": "purchase confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投递证实",
+   "en": "delivery confirmation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "音级",
+   "en": "degree",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "度",
+   "en": "degree",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "度",
+   "en": "degree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疏密度",
+   "en": "degree of closing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏振度",
+   "en": "degree of polarization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压实度",
+   "en": "degree of consolidation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶胀度",
+   "en": "degree of swelling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产确权",
+   "en": "data asset confirmation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保兑仓融资",
+   "en": "confirming warehouse financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class\",\"degree\",\"grade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应收尽收",
+   "en": "All suspected and confirmed patients should be admitted to the hospital. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "亲等",
+   "en": "degree of kinship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0399",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "衡量亲属关系亲疏远近的尺度，亲等少则关系近，亲等多则关系远。根据世界各国亲属法的规定，亲等制度分为世代亲等制度和等级亲等制度。世代亲等制度是以一世代为一亲等的计算制度。等级亲等制度是以世代的远近，参酌"
+  },
+  {
+   "cn": "食源性疾病确诊病例",
+   "en": "confirmed cases of foodborne disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "符合《食源性疾病监测报告工作规范（试行）》附录“食源性疾病报告名录”中食源性疾病判定标准的病例。"
+  },
+  {
+   "cn": "水果成熟度",
+   "en": "degree of fruit maturity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.21",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "对水果在自然生长和发育过程中所达到的状态，可定性或定量的评价。"
+  },
+  {
+   "cn": "性度",
+   "en": "sex degree",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "一个人所具有的男性或女性心理特征的程度。美国心理学家塔曼和玛依罗根据男性度与女性度两个维度将人们的性别特征分为四种情况：男性化、女性化、男女双性化、非男非女化。"
+  },
+  {
+   "cn": "危险程度",
+   "en": "risk degree",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.3",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "某项危险因素的危险强度乘以该项危险因素的危险频度，用来表示该项危险因素对人群健康可能造成的影响。"
+  },
+  {
+   "cn": "放射性危害程度",
+   "en": "radioactive hazard degree",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "建设项目可能产生放射性职业病危害的风险程度，分为危害严重类和危害一般类。"
+  },
+  {
+   "cn": "实际发酵度",
+   "en": "actual fermentation degree",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.4",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "啤酒在发酵过程中原麦汁浸出物被消耗的程度。其测定方法为：将被测发酵液中的酒精全部蒸出，用水补足至原体积，测定补足后液体的实际浓度进行计算。"
+  },
+  {
+   "cn": "一级价格歧视",
+   "en": "first-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "按照消费者愿意为每一单位商品支付的最高价格来定价的策略。"
+  },
+  {
+   "cn": "二级价格歧视",
+   "en": "second-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者购买的商品量来确定价格的定价策略。"
+  },
+  {
+   "cn": "三级价格歧视",
+   "en": "third-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者的不同类型来确定价格的定价策略。"
+  },
+  {
+   "cn": "外照射慢性放射病Ⅰ度",
+   "en": "chronic radiation sickness degree Ⅰ from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.14.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体在较长时间内连续或间断受到较高剂量的外照射后引起的疾病，出现乏力、睡眠障碍等神经衰弱症状，白细胞计数持续＜3.5×109/L。"
+  },
+  {
+   "cn": "外照射慢性放射病Ⅱ度",
+   "en": "chronic radiation sickness degree Ⅱ from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.14.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体在较长时间内连续或间断受到较高剂量的外照射后引起的疾病，出现神经衰弱症状和出血倾向，白细胞计数持续≤3.0×109/L，伴血小板减少，骨髓增生不良，同时伴免疫、性腺、甲状腺等至少一个系统的功能障碍"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

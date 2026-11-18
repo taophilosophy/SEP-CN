@@ -1,0 +1,802 @@
+{
+ "key": "borg frey seselja",
+ "term": "Borg Frey Šešelja",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:28:44+00:00",
+ "status": "ok",
+ "note": "variant=Borg Frey Šešelja; 审定公布名词库=1199; 海峡两岸名词对照库=478; 其他来源数据库=100; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "博格评分",
+   "en": "Borg scale",
+   "source": "呼吸病学名词",
+   "wordNumber": "06.042",
+   "subjectFullName": "呼吸病学_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2018",
+   "definition": "一种评价呼吸困难程度的方法。通过0~10分渐进描述呼吸困难强度的垂直量表，要求受试者对呼吸不适的总体感觉分级，0分代表完全没有呼吸困难感觉，而10分代表想象到的最严重呼吸困难感觉。"
+  },
+  {
+   "cn": "主观用力程度计分",
+   "en": "Borg score of perceived exertion",
+   "source": "运动医学名词",
+   "wordNumber": "07.045",
+   "subjectFullName": "运动医学_运动康复_康复运动评定_心肺功能评定",
+   "subjectName": "心肺功能评定",
+   "publishYear": "2019",
+   "definition": "根据运动者自我感觉用力程度衡量相对运动水平的半定量指标。"
+  },
+  {
+   "cn": "酸沼",
+   "en": "bog",
+   "source": "植物学名词",
+   "wordNumber": "13.0426",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "位于水位线以上、水源由雨水和大气降水补给、营养不足的泥炭沼泽。"
+  },
+  {
+   "cn": "泥炭沼泽",
+   "en": "bog",
+   "source": "地理学名词",
+   "wordNumber": "14.060",
+   "subjectFullName": "地理学_湿地学",
+   "subjectName": "湿地学",
+   "publishYear": "2006",
+   "definition": "土壤剖面发育有泥炭层的沼泽。"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog,sphagnum bog",
+   "source": "植物学名词",
+   "wordNumber": "13.0432",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "土壤水分由雨水补给，植物以泥炭藓占优势，有少量草本、小灌木和乔木生于其间的沼泽。"
+  },
+  {
+   "cn": "博恩近似",
+   "en": "Born approximation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0926",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "迭代求解非齐次波动方程的微扰法。该方法将波分为满足齐次波动方程的初至波与小振幅的散射波。 "
+  },
+  {
+   "cn": "伯格解卷积",
+   "en": "Burg deconvolution",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0307",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "伯格 (K. E. Burg)将熵运用到地震解卷积的方法。 "
+  },
+  {
+   "cn": "刀孔",
+   "en": "tool bore",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.004",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具要素",
+   "subjectName": "刀具要素",
+   "publishYear": "2021",
+   "definition": "刀具上用以安装或固紧于主轴、芯杆或芯轴上的内孔。"
+  },
+  {
+   "cn": "孔径干涉仪",
+   "en": "bore interferometer",
+   "source": "光学名词",
+   "wordNumber": "18.046",
+   "subjectFullName": "光学_光学仪器Ⅰ：基本结构与光参数检测",
+   "subjectName": "光学仪器Ⅰ：基本结构与光参数检测",
+   "publishYear": "2021",
+   "definition": "利用光波干涉原理，将量块(或环规)与内孔尺寸相比较，测出其微差尺寸的非接触式孔径测量仪器。"
+  },
+  {
+   "cn": "玻恩近似",
+   "en": "Born approximation",
+   "source": "物理学名词",
+   "wordNumber": "06.0644",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "蛀孔",
+   "en": "bore hole",
+   "source": "林学名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "林学_森林保护_森林昆虫",
+   "subjectName": "森林昆虫",
+   "publishYear": "2016",
+   "definition": "钻蛀性昆虫蛀入树干内部或向外蛀出时留下的洞孔。"
+  },
+  {
+   "cn": "缸径",
+   "en": "cylinder bore",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0131",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机设计和运行",
+   "subjectName": "发动机设计和运行",
+   "publishYear": "2013",
+   "definition": "工作气缸的公称内径。"
+  },
+  {
+   "cn": "内孔表面质量等级",
+   "en": "bore grade",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.1196",
+   "subjectFullName": "机械工程_动力机械_内燃机_高压油管和管端连接件",
+   "subjectName": "高压油管和管端连接件",
+   "publishYear": "2013",
+   "definition": "对高压油管横截面的内表面上允许存在的缺陷数目和缺陷深度的一种定量说明。"
+  },
+  {
+   "cn": "涌潮",
+   "en": "tidal bore",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "潮波在河口传播过程中产生的波陡趋于极限而破碎的潮水暴涨现象。"
+  },
+  {
+   "cn": "孔径干涉仪",
+   "en": "bore interferometer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.290",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_光学计量仪器",
+   "subjectName": "光学计量仪器",
+   "publishYear": "2003",
+   "definition": "利用光干涉原理，将量块(或环规)与内孔尺寸相比较，测出其微差尺寸的测量仪器。"
+  },
+  {
+   "cn": "气缸直径",
+   "en": "cylinder bore",
+   "source": "航海科技名词",
+   "wordNumber": "15.0014",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "钻头",
+   "en": "[bore] bit",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.109",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_钻孔机械",
+   "subjectName": "钻孔机械",
+   "publishYear": "1996",
+   "definition": "安装在钻杆前端,回转破碎煤或岩石的刀具。"
+  },
+  {
+   "cn": "钎头",
+   "en": "[bore] bit",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_钻孔机械",
+   "subjectName": "钻孔机械",
+   "publishYear": "1996",
+   "definition": "安装在钎杆前端,冲击回转钻凿岩孔的刀具。包括“一字钎头(single-chisel bit)”、“十字钎头(cruciform bit)”等。"
+  },
+  {
+   "cn": "密封孔",
+   "en": "seal bore",
+   "source": "石油名词",
+   "wordNumber": "11.0876",
+   "subjectFullName": "石油_油气田开发与开采_采油工程",
+   "subjectName": "采油工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "伯格反褶积",
+   "en": "Burg deconvolution",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_应用地球物理学",
+   "subjectName": "应用地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "博格，基姆",
+   "en": "Borg\",\"Kim(芬兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "博尔格，维克托尔",
+   "en": "Borge\",\"Victor(丹麦)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由而幸福",
+   "en": "Frei aber Froh",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Brahms, Johannes"
+  },
+  {
+   "cn": "布拉风",
+   "en": "bora",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管膛",
+   "en": "bore",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冰山",
+   "en": "berg",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "酸性泥炭沼泽（=酸沼）",
+   "en": "bog",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酸沼，酸性泥炭沼泽",
+   "en": "bog",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泥炭沼泽",
+   "en": "bog",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog\",\"sphagnum bog",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "布拉雾",
+   "en": "bora fog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涌潮",
+   "en": "tidal bore",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涌潮",
+   "en": "tidal bore",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隧道导洞",
+   "en": "pioneer bore",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "气缸直径",
+   "en": "cylinder bore",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "碎冰山",
+   "en": "berg-bit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "涌潮",
+   "en": "tidal bore",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "钻孔冷却",
+   "en": "bore-colded",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气缸直径",
+   "en": "cylinder bore",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "泥炭沼地",
+   "en": "peat bog",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "枪膛",
+   "en": "bore\",\"rifled bore",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪膛",
+   "en": "bore",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑膛",
+   "en": "smooth bore",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大口径步枪",
+   "en": "big-bore rifle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膛线枪管",
+   "en": "rifled bore\",\"rifled barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "青马",
+   "en": "grey",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大口径步枪卧姿",
+   "en": "big-bore rifle prone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3´20大口径步枪",
+   "en": "big-bore rifle 3´20",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3´40大口径步枪",
+   "en": "big-bore rifle 3´40",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍区",
+   "en": "free zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选手枪",
+   "en": "free pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾身支撑",
+   "en": "free support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速齿轮",
+   "en": "free pinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.11",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中呈游离状态存在的有毒多酚类化合物。"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含碘消毒剂在水溶液或醇溶液中释出的碘离子，是含碘消毒剂的主要杀菌形态。"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.12",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以氨分子和氢氧化铵形式存在的氨，控制季铵盐质量的指标之一。"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "受原子核束缚小、在外力作用下易于从原子上脱落，可以在物体中自由移动的电子。影响物体的导电性和导热性。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0182",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“垄断”相对。没有任何垄断成分，企业经营者可以自由投资、转移和商品买卖的竞争。它是垄断前资本主义经济的主要特征。自由竞争加速了资本的积聚和集中，引起生产集中，发展到一定阶段就产生垄断。"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0238",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不以谋生为目的而仅仅是为了满足劳动者自己爱好兴趣的自由自觉的劳动，是人的全面自由发展的前提性条件。作为生活的第一需要，自由劳动只有在共产主义社会才能真正实现。"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0240",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "欧洲奴隶社会和封建社会中享有人身自由、独立从事经营的农民。一般指在小土地所有制基础上拥有简单生产工具的自耕农。他们虽然人数众多，但是从未成为社会上占统治地位的阶级力量。"
+  },
+  {
+   "cn": "搭便车",
+   "en": "free-riding ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "对公共产品的消费中，那些自己不为这种产品付费，在别人付出代价去取得后，坐享其成果的行为。"
+  },
+  {
+   "cn": "自由支配时间",
+   "en": "free time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "可依据个人意愿或喜好自行支配的时间。"
+  },
+  {
+   "cn": "自由喂养",
+   "en": "free feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "完全依赖儿童的个性和食欲，放任儿童饮食行为的喂养方式。"
+  },
+  {
+   "cn": "水货市场",
+   "en": "grey market",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.35",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "未经授权而进行生产、盗窃、转移的销售渠道，用来销售未报告的产品。"
+  },
+  {
+   "cn": "无脑儿供体移植",
+   "en": "anencephalic new- born as organ donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.035",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "利用无脑畸形新生儿的器官或组织进行移植的行为。因无脑儿不符合脑死亡标准，该行为被国际主流所禁止。"
+  },
+  {
+   "cn": "无糖糖果",
+   "en": "sugar-free candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.11",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "含糖量（以单糖和双糖计）≤0.5g/100g（固体）或0.5g/100ml（液体）的糖果。"
+  },
+  {
+   "cn": "羟基自由基",
+   "en": "hydroxyl free radical",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "由氢氧根（OH¯）失去一个电子形成的活性氧，具有极强的氧化能力，氧化电位2.8V。"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.14",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "某种粒子在给定介质中相继发生一种或几种反应或过程之间平均穿行的距离。SI单位为米，记作m。"
+  },
+  {
+   "cn": "无讼社会",
+   "en": "lawsuit-free Society",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "乡土社会在司法过程中诉诸于“礼”的审判而非“法”的裁决并由此表现出具事决断、非普适法律审判的状态。费孝通认为，对一个负责地方秩序的官员来说，维持礼治的理想手段是教化，而非诉诸监狱刑罚。打官司本身被认为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "immensity",
+ "term": "immensity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:47:24+00:00",
+ "status": "ok",
+ "note": "variant=immensity; 审定公布名词库=570; 海峡两岸名词对照库=149; 其他来源数据库=7; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "集约度",
+   "en": "intensity",
+   "source": "农学名词",
+   "wordNumber": "19.214",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "单位生产面积上所投入的生产要素数量。该值越高，则集约度越高；反之越低。"
+  },
+  {
+   "cn": "光强",
+   "en": "intensity",
+   "source": "光学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述发光体(或反射体)/接收体的发射(或反射)/接收光能量特性的物理量。数值为在给定方向上单位面积、单位立体角内所发射(或反射)/接收的光能量，单位是坎德拉/米²(cd/m²)或尼特(nit)。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0030",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "(1)零件承受载荷后抵抗发生断裂或超过容许限度的残余变形的能力。(2)阻止失效发生的任何因素。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "心理学名词",
+   "wordNumber": "02.178",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "光、声、电流等的强弱。"
+  },
+  {
+   "cn": "亮度",
+   "en": "intensity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.349",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "色彩的明亮程度，即色彩对光照的反射程度。"
+  },
+  {
+   "cn": "音强",
+   "en": "intensity",
+   "source": "语言学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "语音的强弱。主要取决于发音时声门下压力的大小，也跟声腔共鸣特性有关。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity,strength",
+   "source": "物理学名词",
+   "wordNumber": "01.0273",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "illuminance,intensity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0691",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "沿给定方向表面的单位投影面积朝单位立体角内所发出的光通量。"
+  },
+  {
+   "cn": "免疫性",
+   "en": "immunity ",
+   "source": "草学名词",
+   "wordNumber": "7.0366",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "免蚀态",
+   "en": "immunity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0473",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "当某金属的负电位足够大，它在溶液中的平衡离子活度低于某一临界值时，腐蚀效应消失或者可以忽略不计时腐蚀体系的状态。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "器官移植学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "机体识别和排除抗原性异物，即机体区分自己与非己而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。机体抵抗病原微生物感染的免疫机制主要包括非特异性免疫和特异性免疫。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "机体识别和排除抗原性异物即机体区分自己与非己进而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "免疫学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "机体抵抗感染的能力。"
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在传输过程中，接收机或终端设备减少或排除干扰对其有用信号影响的能力。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "水产名词",
+   "wordNumber": "07.066",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。"
+  },
+  {
+   "cn": "抗[骚]扰度",
+   "en": "immunity",
+   "source": "电气工程名词",
+   "wordNumber": "30.081",
+   "subjectFullName": "电气工程_电磁干扰和电磁兼容",
+   "subjectName": "电磁干扰和电磁兼容",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.042",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "石油名词",
+   "wordNumber": "08.0175",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "地震烈度",
+   "en": "intensity;earthquake intensity;seismic intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.036",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "地震时某一地区的地面遭受影响的强弱程度。是地震破坏作用大小的一种量度，受地震破坏越大的地区，地震烈度越高。一个地区地震烈度的大小与震源深度、震中距、方位角、地质构造以及土壤性质等许多因素有关。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫性",
+   "en": "immunity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity\",\"luminous intensity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity\",\"radiant intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity\",\"strength",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "照度",
+   "en": "illumination\",\"intensity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity\",\"strength",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补偿[光照]强度",
+   "en": "compensation intensity，compensation light intensity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分枝强度",
+   "en": "branching intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群强度",
+   "en": "population intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照强度",
+   "en": "light intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降水强度",
+   "en": "precipitation intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降雨强度",
+   "en": "rainfall intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度等级",
+   "en": "intensity level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "声强",
+   "en": "acoustic intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发纤秾于简古，寄至味于淡泊",
+   "en": "Intricacy Within Plainness, and Intensity Beneath Quietude",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紫外线强度",
+   "en": "ultraviolet intensity",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内与紫外线传播方向垂直的单位面积上接收到的紫外线能量。单位以微瓦每平方厘米（μW/cm2）、瓦每平方米（W/m2）表示。"
+  },
+  {
+   "cn": "劳动强度",
+   "en": "labor intensity",
+   "source": "马克思主义",
+   "wordNumber": "02.0138",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的长度表示劳动力支出的外延的量，而劳动强度则表示其内含的量。它是一定时间内所进行的劳动的密度，反映单位劳动时间内实际耗费的劳动的数量指标。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "危险强度",
+   "en": "risk intensity",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "计算某一单项危险因素去除后，人群增长年龄与评价年龄之差的平均数，反映了某一危险因素对人群健康影响的严重程度。"
+  },
+  {
+   "cn": "文化强度",
+   "en": "culture intensity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0549",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。它指的是文化达到并维持文化水平的程度，强度较大的文化是那些文化特征清楚、制度和关系明确的文化。一种文化的高峰是该文化区内的中心，这个"
+  },
+  {
+   "cn": "固有免疫",
+   "en": "innate immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "个体在长期进化中所形成的、与生俱有的抵抗病原体侵袭、清除体内抗原性异物的防御能力。由固有免疫分子和固有免疫细胞所执行。并非针对特定抗原，是机体抵御病原体感染的第一道防线。"
+  },
+  {
+   "cn": "适应性免疫",
+   "en": "adaptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体出生后通过与抗原物质接触由淋巴细胞产生的一系列防御功能，主要由T淋巴细胞和B淋巴细胞介导，清除抗原，产生免疫记忆，具有特异性、多样性和记忆性。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体通过获得外源性免疫效应分子(如抗体等)或免疫效应细胞而获得的相应免疫。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "过继免疫",
+   "en": "adoptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "一种被动免疫策略，将已被免疫个体的致敏淋巴细胞或抗体输入另一个体而使之被动获得相应的特异性免疫功能。"
+  },
+  {
+   "cn": "感染免疫",
+   "en": "infection immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体在不清除体内感染的情况下而具备的抵抗大量病原体的免疫能力。宿主的免疫力随病原微生物在体内存在而存在，一旦离开此环境或病原微生物消失，免疫力也随之消失。"
+  },
+  {
+   "cn": "群体免疫",
+   "en": "herd immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.9",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "人群对于传染病的侵入和传播的抵抗力。社区群体中大部分个体已对特定病原体具有免疫力，使一个已患病个体在此群体中传染他人的可能性变小。"
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.12",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "狭义的细胞免疫仅指T细胞介导的免疫应答，即T细胞受到抗原刺激后，分化、增殖、转化为致敏T细胞，当相同抗原再次进入机体，致敏T细胞对抗原的直接杀伤作用及致敏T细胞所释放的细胞因子的协同杀伤作用。广义还应"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.13",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "通过效应B细胞（浆细胞）分泌抗体，并与抗原发生特异性结合来清除抗原，以达到保护目的的免疫机制。"
+  },
+  {
+   "cn": "黏膜免疫",
+   "en": "mucosal immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "存在于黏膜的各种特异性与非特异性细胞免疫和体液免疫因子所构成的黏膜的局部免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫能力。它与主产生的自动免疫不同，其特点是效应快，不需经过潜伏期，一经输入，立即可获得免疫力。但维持时间短。。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "向体内输入具有免疫原性的物质，诱导机体产生特异性免疫应答的过程。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "直接给机体输入免疫效应分子或免疫细胞使之获得相应免疫力的过程。"
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体对无害物质产生过敏反应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,182 @@
+{
+ "key": "modalist",
+ "term": "modalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:46:57+00:00",
+ "status": "ok",
+ "note": "variant=modalist; 审定公布名词库=14; 海峡两岸名词对照库=1; 其他来源数据库=4; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "常销书",
+   "en": "midlist",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.041",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "较长时间内在出版物市场动销频率较高，保持稳定销量的图书。"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "综合治疗",
+   "en": "combined modality therapy",
+   "source": "感染病学名词",
+   "wordNumber": "01.0618",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "治疗疾病时，一般均采用多手段、多方面的综合性治疗措施。包括一般基础治疗、对症支持治疗、特效抗病原体治疗、康复治疗等中西医结合治疗。但因不同疾病的病情、病期不同，治疗上有所侧重。"
+  },
+  {
+   "cn": "双模式显像",
+   "en": "dual modality imaging",
+   "source": "核医学名词",
+   "wordNumber": "03.0468",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "用不同成像原理或不同显像方法同时对同一对象进行成像的技术方法。如计算机体层摄影与正电子发射体层仪或与磁共振成像同时进行的成像。"
+  },
+  {
+   "cn": "跨通道匹配",
+   "en": "cross-modality matching",
+   "source": "心理学名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在不同感觉通道之间，调节其对应的刺激强度，使其在各通道中产生主观上相同的刺激强度的过程。"
+  },
+  {
+   "cn": "物理因子疗法",
+   "en": "physical modality therapy",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "物理医学与康复_康复治疗_运动疗法",
+   "subjectName": "运动疗法",
+   "publishYear": "2014",
+   "definition": "应用电、光、声、磁、冷、热、水、力等物理因子对疾病进行预防、治疗和康复的方法。包括电疗法、光疗法、超声疗法、磁疗法等。"
+  },
+  {
+   "cn": "多模态监测",
+   "en": "multi-modality monitoring;MMM",
+   "source": "神经外科学名词",
+   "wordNumber": "17.019",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症监护相关技术及设备",
+   "subjectName": "神经外科重症监护相关技术及设备",
+   "publishYear": "2026",
+   "definition": "采集神经影像学检查、经颅多普勒超声检查、颅内压监测、脑温脑氧监测、脑电图监测和床旁超声检查、血流动力学血容量监测等获得的数据，并综合这些数据以全面了解大脑病理生理变化和评估大脑功能的监测方法的总称。"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "单模式融合",
+   "en": "single-modality image fusion",
+   "source": "核医学名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "相同成像设备以不同条件所获图像之间的融合。主要用于疾病不同特征、不同响应条件或治疗前后的同体对比，以及运动伪影和设备固有伪影的校正等。"
+  },
+  {
+   "cn": "［影像成像设备］执行检查步骤",
+   "en": "modality performing procedure step,MPPS,PPS",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，影像成像设备向影像存储与传输系统（PACS）或放射科信息系统（RIS）传递正在进行的影像检查执行情况的状态信息。"
+  },
+  {
+   "cn": "执行过程步骤管理者",
+   "en": "modality performing procedure step manager,PPS manager",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.065",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，将医学影像成像设备发送的影像检查执行过程步骤信息或影像创建过程的执行步骤信息传送至其他信息系统的应用程序，以便相关信息系统更新影像检查的执行状态。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奖牌获得者",
+   "en": "medalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

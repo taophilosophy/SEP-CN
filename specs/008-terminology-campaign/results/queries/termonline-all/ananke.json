@@ -1,0 +1,22 @@
+{
+ "key": "ananke",
+ "term": "Anankē",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:32:14+00:00",
+ "status": "ok",
+ "note": "variant=Anankē; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "菠萝",
+   "en": "pineapple; Ananas comosus (L.) Merr.",
+   "source": "农学名词",
+   "wordNumber": "05.101",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "凤梨科凤梨属果树。多年生单子叶草本植物。原产巴西。喜温暖，忌霜冻，根端有菌根共生，叶背茸毛和气生根均可吸收空气中的水分。是果树中少有的景天酸代谢植物。果实鲜食或加工用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

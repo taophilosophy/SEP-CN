@@ -1,0 +1,542 @@
+{
+ "key": "uniformity",
+ "term": "Uniformity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:36:50+00:00",
+ "status": "ok",
+ "note": "variant=Uniformity; 审定公布名词库=233; 海峡两岸名词对照库=47; 其他来源数据库=10; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0439",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "反映成像系统在视野内各点性能一致性的指标。受计数统计涨落和探头非均匀性影响。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.359",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "在静态和动态条件下，轮胎圆周特性恒定不变的性能。它包括轮胎的不平衡、尺寸偏差和力的波动。"
+  },
+  {
+   "cn": "一致结构",
+   "en": "uniformity",
+   "source": "数学名词",
+   "wordNumber": "08.0552",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标志服装",
+   "en": "uniform",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "单值化",
+   "en": "uniformization",
+   "source": "数学名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "长度整齐度指数",
+   "en": "uniformity index",
+   "source": "农学名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "测试棉纤维长度时，平均长度占上半部平均长度的百分率。"
+  },
+  {
+   "cn": "灌水均匀度",
+   "en": "irrigation uniformity",
+   "source": "农学名词",
+   "wordNumber": "12.103",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "灌溉范围内田间土壤湿润的均匀程度。"
+  },
+  {
+   "cn": "遗传单一性",
+   "en": "genetic uniformity",
+   "source": "农学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "作物基因组学与遗传育种_作物种质和基因资源",
+   "subjectName": "作物种质和基因资源",
+   "publishYear": "2025",
+   "definition": "生产所用品种在遗传和性状上出现的单一化或高度相似性的现象。易导致病害和虫害的大流行，使生产面临很大的风险。"
+  },
+  {
+   "cn": "品种一致性",
+   "en": "variety uniformity",
+   "source": "农学名词",
+   "wordNumber": "06.553",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "一个植物品种除可预期的自然变异外，群体内个体间相关的特征或者特性表现一致的能力。"
+  },
+  {
+   "cn": "籽粒整齐度",
+   "en": "grain uniformity",
+   "source": "农学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "作物生理生态_产量与品质生理",
+   "subjectName": "产量与品质生理",
+   "publishYear": "2025",
+   "definition": "籽粒形态、大小和质量的均匀程度。"
+  },
+  {
+   "cn": "草坪均一性",
+   "en": "turf uniformity ",
+   "source": "草学名词",
+   "wordNumber": "4.0847",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "染色均匀度",
+   "en": "color uniformity",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0259",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "即染色均匀性，染料在纤维上分布的均匀程度。"
+  },
+  {
+   "cn": "混合均匀度",
+   "en": "mixing uniformity",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1593",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "被混合介质中的物相、温度、浓度分布的均匀程度。"
+  },
+  {
+   "cn": "膜厚均匀性",
+   "en": "thickness uniformity",
+   "source": "光学名词",
+   "wordNumber": "07.039",
+   "subjectFullName": "光学_光学薄膜",
+   "subjectName": "光学薄膜",
+   "publishYear": "2021",
+   "definition": "膜厚随着基板表面位置变化而变化的情况。由于制备工艺的影响，膜层厚度在一定区域内会出现差异，膜厚均匀性不好，膜系特性会遭到严重的破坏，膜厚均匀性也是衡量薄膜性能的很重要的参数。"
+  },
+  {
+   "cn": "光学连续性",
+   "en": "attenuation uniformity",
+   "source": "电力名词",
+   "wordNumber": "22.362",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "表征光纤段传导光功率的能力。在特定注入和检测条件下,光纤输出端实际测得的光功率比注入光纤的光功率小一个约定值。"
+  },
+  {
+   "cn": "体层均匀性",
+   "en": "tomographic uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0429",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "对均匀体源所成的体层图像中放射性分布的均匀性。"
+  },
+  {
+   "cn": "微分均匀性",
+   "en": "differential uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0442",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "描述γ相机和单光子发射计算机体层仪成像视野局部均匀性的指标。用对均匀面源所成的图像中任意局部相邻5个像素中的最大计数与最小计数之差与其之和的比表示。"
+  },
+  {
+   "cn": "积分均匀性",
+   "en": "integral uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0441",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "描述γ照相机或单光子发射计算机体层仪探头整个视野均匀性的指标。以探头中心视野或有效视野内最大像素计数值与最小像素计数值间差值与最大像素值的百分比表示。"
+  },
+  {
+   "cn": "装量差异",
+   "en": "content uniformity",
+   "source": "药学名词",
+   "wordNumber": "06.129",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "最小单位药品的重量均匀度。用于评价制剂单位包装装量与平均装量偏离的程度。"
+  },
+  {
+   "cn": "速度均匀性",
+   "en": "velocity uniformity",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.558",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均匀的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同一的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity\",\"uniformity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀系数",
+   "en": "uniformity coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取代基均匀度",
+   "en": "substituent uniformity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "装量差异",
+   "en": "content uniformity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均匀层",
+   "en": "uniform layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀转化",
+   "en": "uniform conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀结焦",
+   "en": "uniform coking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流动",
+   "en": "uniform stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀晶体",
+   "en": "uniform crystal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀载荷",
+   "en": "uniform loading",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀中毒",
+   "en": "uniform poisoning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均匀伸长率",
+   "en": "uniform elongation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色摔跤服",
+   "en": "blue uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色摔跤服",
+   "en": "red uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "team uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹起高度",
+   "en": "uniform bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "和而不同",
+   "en": "Harmony but Not Uniformity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤服",
+   "en": "jersey\",\"wrestling tricot\",\"wrestling uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "剂量均匀度比值",
+   "en": "dose uniformity ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.5",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "同一批量产品中最高吸收剂量和最低吸收剂量的比值。"
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "长期均匀摄入",
+   "en": "uniform intake in long term",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.15",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "每年绝大多数时间内，以相对恒定的速率摄入放射性核素。此时放射性核素吸收率保持恒定状态，而组织内放射性核素则与日俱增。经过一段时间以后（此核素在给定器官内有效半减期的6倍～7倍），在此器官内活度达到平衡"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "attributive goodness",
+ "term": "attributive goodness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:54:55+00:00",
+ "status": "ok",
+ "note": "variant=attributive goodness; 审定公布名词库=389; 海峡两岸名词对照库=216; 其他来源数据库=53; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "定语",
+   "en": "attributive",
+   "source": "语言学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分的一种。是体词性偏正短语中的修饰语，位于中心语之前。一般可分为描写性的和限制性的，从领属、性质、状态、数量、材料、用途等多方面修饰、限制、说明中心语。例如，“（我的）衣服”“（新）书包”“（高"
+  },
+  {
+   "cn": "交代消息来源",
+   "en": "attribution",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.132",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻报道中明确写出事实或观点出处的做法。表明事实和观点从何而来，由谁提供。重视交代消息来源是新闻写作的一大特征。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "行为医学名词",
+   "wordNumber": "4.054",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "个体根据相关信息和线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体根据有关信息、线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "物质的固有特性，在划分事物概念时所选择的划分标准。有本质属性和非本质属性之分，文献分类要以文献的内容属性作为主要标准。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0121",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据库技术中实体特征的抽象。例如实体教师的属性包括“姓名”“职称”和“特长”等。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0307",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "面向对象技术中一个用于描述对象静态特征的数据项。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0432",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "研究对象本质特征的概况。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.777",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理学名词",
+   "wordNumber": "30.002",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "石油名词",
+   "wordNumber": "03.0878",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "正商品",
+   "en": "goods",
+   "source": "经济学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来效用或满足的商品叫作正商品。对于这种商品，消费者倾向于选择更多而不是更少。"
+  },
+  {
+   "cn": "商品",
+   "en": "goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可以被移动并出售的产品。"
+  },
+  {
+   "cn": "本性归因",
+   "en": "dispositional attribution,personal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "将人们行为原因归于其内在特质、动机或意向等心理素质的过程。"
+  },
+  {
+   "cn": "描写性定语",
+   "en": "descriptive attributive",
+   "source": "语言学名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "定语的一种。通常由形容词性成分充当，主要从性质、状态方面对中心语进行描绘。例如，“（新）书”“（绿油油的）庄稼”。"
+  },
+  {
+   "cn": "限制性定语",
+   "en": "restrictive attributive",
+   "source": "语言学名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "定语的一种。通常由代词、数量短语、名词性成分充当，主要从范围上对中心语加以限制，使之更加明确。例如，“（我的）朋友”“（三本）书”“（朋友老王的）儿子”。"
+  },
+  {
+   "cn": "归因偏差",
+   "en": "attribution bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0073",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "由于行为中心偏差、自我中心偏差或显著性偏差而产生的非理性的偏差。"
+  },
+  {
+   "cn": "归因理论",
+   "en": "attribution theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0070",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "有关人们解释本人或他人行为原因推论过程的理论。"
+  },
+  {
+   "cn": "归因误差",
+   "en": "attribution error",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0074",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "归因过程中存在的偏见和误差。"
+  },
+  {
+   "cn": "自我归因",
+   "en": "self-attribution",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0146",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们把成果的结果归因于自己能力，而把失败归因于糟糕运气的行为。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "属性查询",
+   "en": "attribute search\",\"attribute query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性类型",
+   "en": "attribute type\",\"attribute class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本性归因,素质归因",
+   "en": "dispositional attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在归因",
+   "en": "internal attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我归因",
+   "en": "self attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "防御性归因",
+   "en": "defensive attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因模型",
+   "en": "attribution model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外在归因",
+   "en": "external attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人归因",
+   "en": "personal attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "他人归因",
+   "en": "other attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因偏向,归因偏差",
+   "en": "attribution bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意义归因",
+   "en": "meaning attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因错误",
+   "en": "attribution error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因过程",
+   "en": "attribution process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境归因",
+   "en": "situational attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性加密",
+   "en": "attribute encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法发球",
+   "en": "good service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字公共产品",
+   "en": "digital public goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商品再流通",
+   "en": "recirculation of goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "货物质押系统",
+   "en": "goods pledge system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧善治",
+   "en": "intelligent good governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据法律属性",
+   "en": "legal attributes of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "人类的一种普遍需要，指根据有关的外部信息或线索来推测其行为理由的过程。通常分内归因与外归因，前者用信念、价值、人格或动机等个人内部原因对行为理由进行推测，后者则用外部的客观条件进行推测。"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "认知者在归因过程中因受到人类认知过程本身固有的局限的制约，或自身动机（如自我提升动机）的诱导，而系统地表现出来的偏误。常见的有基本归因错误（谬误）、行为者与观察者的归因偏误、利已主义归因偏误、低估一致"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某种特定疾病病例按不同类别危害因素导致的病例分类溯源分析。"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将食源性疾病病例按特定致病因素进行分类归因，如微生物病原体或生物毒素等。"
+  },
+  {
+   "cn": "食物归因",
+   "en": "food attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某特定食源性疾病病例归因于某食物载体（来源）。"
+  },
+  {
+   "cn": "归因",
+   "en": "source attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将特定疾病的负担按特定的来源或危害因素分类溯源分析。"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示产品客观形态的文字。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.30",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "能反映食品本身不必说明或已经说明的固有特性的专用名称，包括对配料特征、工艺特点、食品类别等一种或多种食品专属特征的描述。"
+  },
+  {
+   "cn": "善终",
+   "en": "good ending",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人因自然衰老而非祸患的无痛苦死亡。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "劣等品",
+   "en": "inferior goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为负的商品，消费者对该商品的需求水平随收入的增加而下降。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "良好健康",
+   "en": "good health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "是养育人进行良好照护的结果，具体包括监测儿童身心健康状态、回应儿童日常需要、保护儿童免受环境威胁、注意卫生预防感染、利用预防保健服务并及时诊治儿童疾病。"
+  },
+  {
+   "cn": "优逝",
+   "en": "good death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "关注临终者死亡质量的理念。医疗实践中以个人和社会文化为基础，通过科学、规范、个体化的安宁疗护和姑息护理，提供全方位的心理支持与生理照护，减少终末期患者身心痛苦。"
+  },
+  {
+   "cn": "好撒玛利亚人",
+   "en": "Good Samarian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "这是一个比喻，是耶稣在路加福音10：25-37 中讲述的一个教导故事。一位旅行者，被剥去衣服，殴打，在路旁半死。首先来了一位牧师，之后是利未人，但他们都绕过了这个人，没有理会。最后，是一位撒马利亚人来"
+  },
+  {
+   "cn": "基本归因错误",
+   "en": "fundamental attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "在考察他人行为的原因时，人们通常会有一种高估行为者个人内部特质影响，而低估情景性因素影响的普遍倾向。"
+  },
+  {
+   "cn": "根本的归因偏差",
+   "en": "ultimate attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "基本归因错误在群际过程中的一种表现形式，指人们在对群体行为进行归因时所存在的偏袒内群体、歧视外群体的偏差，即人们倾向于将外群体的消极负面的行为归因为其所拥有的稳定特质，将外群体的积极正面的行为视为例外"
+  },
+  {
+   "cn": "归因分值",
+   "en": "source attribution fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某危险因素或某来源导致特定疾病的负担占该疾病总负担的比例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

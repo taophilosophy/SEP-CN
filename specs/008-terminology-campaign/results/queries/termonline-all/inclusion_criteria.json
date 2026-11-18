@@ -1,0 +1,802 @@
+{
+ "key": "inclusion criteria",
+ "term": "inclusion criteria",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:26+00:00",
+ "status": "ok",
+ "note": "variant=inclusion criteria; 审定公布名词库=981; 海峡两岸名词对照库=181; 其他来源数据库=56; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "入选标准",
+   "en": "inclusion criteria",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.081",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "入选某项研究必须满足的条件。"
+  },
+  {
+   "cn": "入选标准",
+   "en": "inclusion criteria,standard of inclusion",
+   "source": "核医学名词",
+   "wordNumber": "06.0246",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "确定个体能否进入临床试验的医学或人口学标准。包括年龄、性别、疾病的类型和阶段、即往疾病和治疗史，以及其他根据试验目的确定的条件。"
+  },
+  {
+   "cn": "准则",
+   "en": "criteria",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0433",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "言论、行动等所依据的原则。"
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "兽医学名词",
+   "wordNumber": "08.043",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "储存于细胞质内具有一定形态的营养物或代谢产物。如糖原、脂类、色素颗粒和分泌颗粒等。"
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.303",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "由于焊接冶金反应产生的、焊后残留在焊缝金属中的微观非金属杂质。如氧化物、硫化物等。"
+  },
+  {
+   "cn": "包涵物",
+   "en": "inclusion",
+   "source": "动物学名词",
+   "wordNumber": "1.0155",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "细胞质中具有一定形态的各种代谢产物和贮存物质的总称。包括分泌颗粒、糖原颗粒、色素颗粒、脂滴等。"
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "冶金学名词",
+   "wordNumber": "03.0027",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "矿物生长过程中或形成后所捕获而包裹在内部的外来物质。其大小不一，但一般很细小，既可是矿物晶体，也可是气体、液体或非晶质体，以气体和液体共存的气液相包裹体较为常见。"
+  },
+  {
+   "cn": "夹杂",
+   "en": "inclusion",
+   "source": "冶金学名词",
+   "wordNumber": "07.0607",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "金属中含有非成分及非性能所要求的物质。有金属夹杂、非金属夹杂、混合夹杂，有表面夹杂及内部夹杂。"
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "物理学名词",
+   "wordNumber": "08.0509",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "林学名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "林学_木材科学与技术_木材性质",
+   "subjectName": "木材性质",
+   "publishYear": "2016",
+   "definition": "导管分子内的填充物。常见的有侵填体和无定形的树胶、树脂或白垩质等。"
+  },
+  {
+   "cn": "[细胞]内含物",
+   "en": "inclusion",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "散在于细胞质中的异体物质或滞留于细胞内的一些产物。"
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0549",
+   "subjectFullName": "材料科学技术_天然材料_木材_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "导管分子内的填充物。最常见的有侵填体和无定形的树胶、树脂或白垩质等，淀粉或晶体属稀有存在。"
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.344",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排除标准",
+   "en": "exclusion criteria",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "不能参加某项研究的规定，入选标准的对立 面。"
+  },
+  {
+   "cn": "设计标准",
+   "en": "design criteria",
+   "source": "风景园林名词",
+   "wordNumber": "03.0303",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "为在工程建设设计领域内获得最佳秩序，对各类建设工程的设计活动的基础性要求，需要协调统一的事项所制定的共同的、重复使用的技术依据和准则。其内容必须是经协商一致并由公认机构审查批准，以科学技术和实践经验的"
+  },
+  {
+   "cn": "曼宁标准",
+   "en": "Manning criteria",
+   "source": "消化病学名词",
+   "wordNumber": "17.126",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病诊断与治疗",
+   "subjectName": "功能性胃肠病诊断与治疗",
+   "publishYear": "2022",
+   "definition": "1978年由曼宁（Manning）提出的肠易激综合征诊断标准。"
+  },
+  {
+   "cn": "验收标准",
+   "en": "acceptance criteria",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.022",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "可交付成果或项目通过验收前必须满足的一系列条件。"
+  },
+  {
+   "cn": "赫尔希曼基准",
+   "en": "Hirschman criteria",
+   "source": "经济学名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "美国经济学家阿尔伯特·赫尔希曼（Albert O. Hirschman）于1958年提出的关于选择主导产业的基准。在产业关联链中必然存在一个与其前向产业和后向产业在投入产出关系中关联系数最大的产业，这"
+  },
+  {
+   "cn": "罗斯托基准",
+   "en": "Rostow criteria",
+   "source": "经济学名词",
+   "wordNumber": "08.106",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "罗斯托把经济增长分为六个阶段，经济增长的各个阶段都存在相应的起主导作用的产业部门。主导部门序列不可随意改变，任何国家或地区都必然经历由低级向高级的发展过程。"
+  },
+  {
+   "cn": "筱原基准",
+   "en": "Shinohara criteria",
+   "source": "经济学名词",
+   "wordNumber": "08.107",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "日本产业经济学家筱原三代平在20世纪50年代中期为日本规划产业结构，于1957年提出了规划日本产业结构的基准。即收入弹性基准和生产率上升基准。"
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "包含",
+   "en": "inclusion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临界污染物",
+   "en": "criteria pollutants",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择标准",
+   "en": "choice criteria",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为效标",
+   "en": "behavior criteria",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "投资标准",
+   "en": "investment criteria",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环境基准",
+   "en": "environmental criteria",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "决策准则",
+   "en": "decision criteria",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包合作用",
+   "en": "clathration\",\"inclusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包涵体",
+   "en": "inclusion body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体包涵物",
+   "en": "mitochondrial inclusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "包含体",
+   "en": "inclusion body",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正确录取",
+   "en": "valid inclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非金属夾杂物",
+   "en": "nonmetallic inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "夹砂",
+   "en": "sand inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "包合物",
+   "en": "inclusion compound",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包结常数",
+   "en": "inclusion constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "六观",
+   "en": "Six Criteria",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容性",
+   "en": "Digital Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融包容性",
+   "en": "financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子包容",
+   "en": "e-inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普惠金融",
+   "en": "inclusive finance",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "RPO评价标准",
+   "en": "RPO evaluation criteria",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠水平",
+   "en": "digital inclusion level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融",
+   "en": "digital financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠性交易基础设施",
+   "en": "inclusive trading infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠信贷服务",
+   "en": "inclusive credit service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修订诊断标准",
+   "en": "revision of diagnostic criteria",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界杯赛参赛标准",
+   "en": "World Cup Entry Criteria",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容计划（英国）",
+   "en": "Digital Inclusion Programme (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融体系",
+   "en": "Digital Financial Inclusion System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全有效性标准",
+   "en": "criteria of security and effectiveness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字普惠金融：新兴政策与方法》",
+   "en": "Digital Financial Inclusion: Emerging Policy Approaches",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用准则",
+   "en": "generic criteria",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "应当采取防护行动和其他响应行动的预期剂量或已接受剂量水平。"
+  },
+  {
+   "cn": "Boolean标准",
+   "en": "Boolean criteria",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于判定类风湿关节炎获得缓解的一个标准。其定义为：任何时间点，患者需满足下列要求：1.疼痛关节数≤1；2.肿帐关节数≤1；3. CRP<1mg/dl；4.患者总体评估≤1（0-10标尺）"
+  },
+  {
+   "cn": "死亡标准",
+   "en": "death criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.022",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "用以衡量和判定死亡的共识性条件。包括心肺死亡标准和脑死亡标准。"
+  },
+  {
+   "cn": "微生物指标",
+   "en": "microbiological criteria",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.70",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "用于评估食品、水源、环境等中微生物污染程度的指标，包括大肠杆菌群、霉菌和酵母菌等。"
+  },
+  {
+   "cn": "社会包容",
+   "en": "social inclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会的制度体系对具有不同社会特征的社会成员及其所表现的各种社会行为不加排斥的宽容对待、平等相处，并扶持弱者、共同发展的状态。"
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "马克思主义",
+   "wordNumber": "02.0432",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "公平合理地分享经济增长，强调社会和经济协调发展、可持续发展，使经济增长和社会进步、人民生活改善同步进行，与单纯追求经济增长相对立。"
+  },
+  {
+   "cn": "分层标准",
+   "en": "criteria of classification",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "社会学家进行阶级、身份群体或社会等级地位划分时所依据的指标。如，马克思依据是否占有生产资料来划分阶级，而马克斯•韦伯则以经济地位、社会地位和政治地位等三元指标来进行分层。"
+  },
+  {
+   "cn": "供体选择准则",
+   "en": "donor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.05",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选器官、组织或细胞移植供体的医学、伦理及安全性标准。"
+  },
+  {
+   "cn": "受体选择准则",
+   "en": "receptor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.049",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在器官、细胞或组织移植过程中，用于评估和筛选合适受体的医学、伦理及社会标准。"
+  },
+  {
+   "cn": "器官捐献准则",
+   "en": "organ donation criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.048",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选潜在的活体或遗体器官捐献者的医学、伦理及法律标准。"
+  },
+  {
+   "cn": "脑死亡标准",
+   "en": "brain death criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.033",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "以大脑、小脑和脑干在内的全脑功能的不可逆性丧失为基础的死亡标准。"
+  },
+  {
+   "cn": "早期类风湿关节炎分类标准",
+   "en": "early rheumatoid arthritis classification criteria, ERA criteria",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.9",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "一种评估关节炎患者能否被分类为类风湿关节炎的标准。包括：1.晨僵时间≥30分钟；2.多关节炎（14个关节区中至少3个以上部位关节炎）；3.手关节炎（腕或掌指或近端指间关节至少1处关节炎）；4.抗CCP"
+  },
+  {
+   "cn": "包涵体肌炎",
+   "en": "inclusion body myositis，IBM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以肌细胞中存在包涵体为主要病理特征的慢性肌病，分散发性包涵体肌炎和遗传性包涵体肌炎两种类型。"
+  },
+  {
+   "cn": "多准则决策分析",
+   "en": "multiple criteria decision analysis,MCDA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.5.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "为了协助决策者在各类研究证据和价值标准之间权衡取舍，进行多重目标的决策制定，综合运用多个评价维度进行总体评价的一种方法。"
+  },
+  {
+   "cn": "免于体育测试标准",
+   "en": "exclusion criteria on physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "国家在学校教育工作中针对特殊学生免于执行学生体质健康标准的规范性技术文件。该标准为在实施国家学生体质健康标准过程中，因患病、残疾或丧失运动能力等特殊学生，准予暂缓或免于体质健康测试提供了判断标准和程序"
+  },
+  {
+   "cn": "军事训练伤分类诊断标准",
+   "en": "classification and diagnostic criteria of military training injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "参照国际疾病分类标准，分软组织损伤、骨关节损伤、器官损伤、特殊环境(因素) 损伤四大类，损伤严重程度分轻、中、重、危重四级。诊断需结合伤史、既往史、专科体检及辅助检查结果综合分析。"
+  },
+  {
+   "cn": "排斥",
+   "en": "exclusion",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.29",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "某些弱势群体在劳动权利和社会保障体系里由于受到社会主流群体的排挤而日益孤立、边缘化的过程，表现为在经济、政治、社会、文化以及心理方面的权利长期受到漠视和剥夺，在获取生活资料、参与政治、社会平等、享受文"
+  },
+  {
+   "cn": "文化排斥",
+   "en": "cultural exclusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与某种文化刻意保持一定距离，拒绝与其交流、了解的现象。容易造成自身文化的封闭、隔离，往往不利于新文化的产生与发展。"
+  },
+  {
+   "cn": "社会排斥",
+   "en": "social exclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会封闭的一种主要方式。居于优势地位的阶级、群体或集团设置各种制度化的屏障以限制较低阶层的社会成员获取某些资格和权益，从而达到垄断资源和机会的目的。"
+  },
+  {
+   "cn": "输精管栓堵术",
+   "en": "vas occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "经阴囊皮肤穿刺的方法将液态高分子化合物聚醚型聚氨酯弹性体或者硅橡胶，加压注入输精管腔内，在管内迅速固化为栓子，堵塞输精管腔以阻止精子排出，达到永久性避孕目的的一种手术方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

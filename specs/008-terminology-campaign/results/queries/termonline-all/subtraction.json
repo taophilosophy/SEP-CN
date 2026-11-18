@@ -1,0 +1,602 @@
+{
+ "key": "subtraction",
+ "term": "subtraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:37:06+00:00",
+ "status": "ok",
+ "note": "variant=subtraction; 审定公布名词库=250; 海峡两岸名词对照库=26; 其他来源数据库=10; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相减",
+   "en": "subtraction",
+   "source": "核医学名词",
+   "wordNumber": "03.0600",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "两组可比性数据(如两幅大小一致的灰度图像)相减，获取两者之间差异信息的图像运算方法。"
+  },
+  {
+   "cn": "减法",
+   "en": "subtraction",
+   "source": "数学名词",
+   "wordNumber": "04.0014",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "减法器",
+   "en": "subtracter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0219",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "产生两个操作数之差的逻辑电路。"
+  },
+  {
+   "cn": "减除点",
+   "en": "subtraction point",
+   "source": "物理学名词",
+   "wordNumber": "09.1616",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能量减影",
+   "en": "energy subtraction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "使用两个不同的管电压进行曝光，获得两幅不同能量的影像信号，再对两影像信号进行减影，从而获得减影影像的方式。原理是利用碘与周围软组织对X射线衰减系数在不同能量下有明显差异的物理特性，将对比剂到达前后的高"
+  },
+  {
+   "cn": "混合减影",
+   "en": "hybrid subtraction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "将能量减影和时间减影技术相结合，先作能量减影，后作时间减影，先消除软组织，再消除骨组织，最后留下血管影像的减影方式。"
+  },
+  {
+   "cn": "相干相消",
+   "en": "coherent subtraction",
+   "source": "物理学名词",
+   "wordNumber": "06.0901",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "最小减除",
+   "en": "minimum subtraction",
+   "source": "物理学名词",
+   "wordNumber": "09.1613",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "背景减除法",
+   "en": "background subtraction",
+   "source": "核医学名词",
+   "wordNumber": "03.0515",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "一种通过从总符合计数中直接减去背景计数来校正随机符合的方法。随机符合因来源于不相关的任意两个随机发生的湮灭事件，因此其空间分布是均匀的，在背景区域因无湮灭事件，故探测到的计数可看作是随机符合事件。这种"
+  },
+  {
+   "cn": "基因删减",
+   "en": "gene subtraction",
+   "source": "药学名词",
+   "wordNumber": "05.435",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "将生物细胞内一个或一个以上的基因活性予以破坏，使其丧失原有特性。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtractive hybridization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0463",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分子杂交与印迹技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。基本做法是将一种细胞的互补DNA（cDNA）或信使RNA（mRNA）与第二种细胞cDNA或mRNA"
+  },
+  {
+   "cn": "相减色",
+   "en": "subtractive color",
+   "source": "光学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "由两种或两种以上的非发光色(例如光波的反射或透射光)混合而成的颜色。例如，彩色印刷、彩色打印等获得的颜色通常都是相减色。"
+  },
+  {
+   "cn": "相减混色",
+   "en": "subtractive mixture",
+   "source": "光学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "光波经过颜色滤光片或其他吸收介质后组合并刺激到视网膜的同一个部位而产生或感觉出不同于原来颜色的现象或过程。这个现象使产生的颜色比原来颜色要深暗。减法三原色被称为“染料的三原色”，它们分别是蓝绿色(cy"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtracting hybridization",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.045",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。是将一种细胞的互补DNA（cDNA）或信使核糖核酸（mRNA）与第二种细胞cDNA或mRNA相互杂"
+  },
+  {
+   "cn": "消减[基因]文库",
+   "en": "subtractive library",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.139",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "用两种不同类型或不同生理状态下的细胞DNA作消减杂交后，将目标DNA克隆而构成的基因文库。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtracting hybridization",
+   "source": "植物学名词",
+   "wordNumber": "16.0312",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "利用不同组织、细胞或不同状态下组织、细胞基因表达的差异性，并结合核酸杂交建立的克隆差异表达基因的技术。是将一种细胞的互补DNA(cDNA)或信使核糖核酸(mRNA)与第二种细胞cDNA或mRNA相互杂"
+  },
+  {
+   "cn": "减量秤",
+   "en": "subtractive weigher",
+   "source": "计量学名词",
+   "wordNumber": "03.101",
+   "subjectFullName": "计量学_质量、密度、衡器_衡器",
+   "subjectName": "衡器",
+   "publishYear": "2015",
+   "definition": "通过控制称量料斗的物料输出，来确定装料质量的重力式自动装料衡器。如失重秤等。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtractive hybridization",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.082",
+   "subjectFullName": "放射医学与防护_放射生物学_放射生物学实验技术",
+   "subjectName": "放射生物学实验技术",
+   "publishYear": "2014",
+   "definition": "筛选不同类型的细胞或不同生理状态下同种细胞所特有的基因、mRNA或DNA片段的一种方法。"
+  },
+  {
+   "cn": "消减[基因]文库",
+   "en": "subtractive library",
+   "source": "遗传学名词",
+   "wordNumber": "03.742",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以两种类型的细胞或不同生理状态下的两种细胞的DNA作消减杂交后，将目标DNA克隆而构成的基因文库。"
+  },
+  {
+   "cn": "消减杂交",
+   "en": "subtractive hybridization",
+   "source": "遗传学名词",
+   "wordNumber": "08.081",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "筛选不同类型的细胞或不同生理状态下同种细胞所特有的基因、mRNA或DNA片段的一种方法。"
+  },
+  {
+   "cn": "减法器",
+   "en": "subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消减杂交,扣除杂交",
+   "en": "subtractive hybridization\",\"subtracting hybridization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减杂交, 扣除杂交",
+   "en": "subtracting hybridization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减克隆,扣除克隆",
+   "en": "subtractive cloning",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "减色法",
+   "en": "subtractive process",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "消减探针, 扣除探针",
+   "en": "subtracted probe",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减文库, 扣除文库",
+   "en": "subtracted library",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半减器",
+   "en": "half-subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加减器",
+   "en": "adder-subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全减器",
+   "en": "full subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光谱差减法",
+   "en": "spectral subtraction method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "减色混合",
+   "en": "subtractive color mixture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "减色法三原色",
+   "en": "subtractive primary colors",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "cDNA消减杂交",
+   "en": "cDNA subtracting hybridization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减[基因]文库",
+   "en": "subtractive [gene] library",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减cDNA文库",
+   "en": "subtractive cDNA library",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消减cDNA文库, 扣除cDNA文库",
+   "en": "subtracted cDNA library",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻抑消减杂交",
+   "en": "suppressive subtraction hybridization\",\"SSH",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻抑消减杂交,抑制消减杂交",
+   "en": "suppression subtractive hybridization\",\"SSH",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "为学日益，为道日损",
+   "en": "Pursue Knowledge by Adding; Pursue Dao by Subtracting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字减影血管造影",
+   "en": "digital subtraction angiography，DSA",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "通过人工的方法将对比剂注射到目标血管内进行X射线成像，利用计算机处理对比剂注入前后所得到的数字化影像信息，以消除周围组织结构而使血管影像清晰显示的一种成像技术。"
+  },
+  {
+   "cn": "γ谱分析剥谱法",
+   "en": "graphical method by subtraction in gamma spectrum analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "根据单种核素成分的特征γ全能峰的能量高低，按高能至低能成分的顺序，从混合谱中逐次扣除而逐步解出样品各核素谱的解谱方法。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

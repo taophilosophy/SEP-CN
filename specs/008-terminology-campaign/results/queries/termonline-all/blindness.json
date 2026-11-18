@@ -1,0 +1,572 @@
+{
+ "key": "blindness",
+ "term": "blindness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:34:44+00:00",
+ "status": "ok",
+ "note": "variant=blindness; 审定公布名词库=187; 海峡两岸名词对照库=36; 其他来源数据库=7; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "盲",
+   "en": "blindness",
+   "source": "生理学名词",
+   "wordNumber": "03.355",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目盲",
+   "en": "blindness",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.097",
+   "subjectFullName": "中医药学_眼科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "视力严重下降甚至失明的表现。"
+  },
+  {
+   "cn": "盲",
+   "en": "blindness",
+   "source": "医学名词 第五分册",
+   "wordNumber": "01.021",
+   "subjectFullName": "医学_眼科学_眼科学总论与防盲",
+   "subjectName": "眼科学总论与防盲",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "堵塞",
+   "en": "blinding",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.1102",
+   "subjectFullName": "机械工程（一）_机械零件_筛网",
+   "subjectName": "筛网",
+   "publishYear": "2021",
+   "definition": "待筛物料的颗粒将筛孔堵住。"
+  },
+  {
+   "cn": "盲沟",
+   "en": "blind drain,blind ditch",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.532",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "皮质盲",
+   "en": "cortical blindness",
+   "source": "神经外科学名词",
+   "wordNumber": "4.085",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "大脑枕叶皮质受到损伤或血管痉挛缺血而引起的一种中枢性视功能障碍。"
+  },
+  {
+   "cn": "嗅盲",
+   "en": "smell blindness",
+   "source": "精细化工名词",
+   "wordNumber": "08.0763",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "人的嗅感功能完全丧失而不能嗅辩任何气息的一种嗅觉缺损现象。"
+  },
+  {
+   "cn": "变化视盲",
+   "en": "change blindness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.493",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "虽然有显著的变化发生于观察者的视觉场景中，但却没有被观察者注意到的一种视知觉现象。"
+  },
+  {
+   "cn": "无意视盲",
+   "en": "inattentional blindness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.494",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "当观察者的注意力聚焦于视觉场景的某一个局部时，往往会错过出现在视野中的现象。"
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "行为医学名词",
+   "wordNumber": "17.19",
+   "subjectFullName": "行为医学_相关行为疾病_眼科相关行为疾病",
+   "subjectName": "眼科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "不能分辨自然光谱中各种颜色或某种颜色的色觉障碍。"
+  },
+  {
+   "cn": "癔症性盲",
+   "en": "hysteria blindness",
+   "source": "行为医学名词",
+   "wordNumber": "17.192",
+   "subjectFullName": "行为医学_相关行为疾病_眼科相关行为疾病",
+   "subjectName": "眼科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "强烈精神刺激作用下，大脑皮质视觉投射区抑制引起的双眼完全失明。为主观视觉障碍且无相应的客观病理基础，常与精神、心理损伤或疾病有关。"
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "光学名词",
+   "wordNumber": "28.078",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "人眼无法正确感知部分或全部颜色之间区别的视觉异常。主要包括全色盲(单色觉者)、色弱(三色觉异常者)、局部色盲(二色觉者)。通常色盲发生的原因与遗传有关，但部分色盲则与眼、视神经或脑部损伤有关，也可由接"
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "生理学名词",
+   "wordNumber": "03.339",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "皮质盲",
+   "en": "cortical blindness",
+   "source": "神经病学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "由双侧枕叶皮质视中枢病变所致的视觉障碍。患者视觉丧失，但光反射存在，眼底检查正常。"
+  },
+  {
+   "cn": "夜盲症",
+   "en": "night blindness",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0504",
+   "subjectFullName": "食品科学技术_食品营养_食品营养与功能评价",
+   "subjectName": "食品营养与功能评价",
+   "publishYear": "2020",
+   "definition": "夜间或光线昏暗的环境下视物不清，行动困难或完全看不见的现象。与维生素A缺乏有关。"
+  },
+  {
+   "cn": "无意视盲",
+   "en": "inattentional blindness",
+   "source": "生物物理学名词",
+   "wordNumber": "04.142",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "即使刺激出现在视野，受试者仍未感知该刺激的现象。"
+  },
+  {
+   "cn": "变化盲",
+   "en": "change blindness",
+   "source": "生物物理学名词",
+   "wordNumber": "04.141",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "同时面对多重变化时，仅仅知觉或注意其中一部分变化，忽视其他部分变化的现象。"
+  },
+  {
+   "cn": "闪光盲",
+   "en": "flash blindness",
+   "source": "心理学名词",
+   "wordNumber": "02.244",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由于高强度闪光引起的暂时性光敏感度下降的现象。"
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "心理学名词",
+   "wordNumber": "02.231",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由道尔顿(J.Dalton)首先发现的一种个体具有视觉能力，但不能把光谱上一些颜色和其他颜色区别开来的先天性色觉障碍。"
+  },
+  {
+   "cn": "红色盲",
+   "en": "red blindness",
+   "source": "心理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "色盲的一种。主要是不能分辨红色。对红色与深绿色、蓝色与紫红色以及紫色不能分辨。常把绿色视为黄色，紫色看成蓝色，将绿色和蓝色相混为白色。"
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变化盲",
+   "en": "change blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "色盲",
+   "en": "color blindness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "盲点",
+   "en": "blind spot",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "盲纹孔",
+   "en": "blind pit",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "盲测验",
+   "en": "blind testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双盲",
+   "en": "double blind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盲点",
+   "en": "blind spot",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盲谷",
+   "en": "blind valley",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "盲均衡",
+   "en": "blind equalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盲目搜索",
+   "en": "blind search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盲签",
+   "en": "blind signature",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盲速",
+   "en": "blind speed",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盲相",
+   "en": "blind phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盲发",
+   "en": "blind sending",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "盲区",
+   "en": "blind zone",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "盲板法兰",
+   "en": "blind flange",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "双盲[法]",
+   "en": "double blind",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "色盲测验",
+   "en": "color blindness test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盲对抗",
+   "en": "blind confrontation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字盲区",
+   "en": "digital blind spot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单挑盲对抗",
+   "en": "single-blind confrontation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非盲对抗",
+   "en": "non-blind confrontation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慈",
+   "en": "Kindness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "投桃报李",
+   "en": "Return Kindness with Kindness / Return Goodwill in Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "盲",
+   "en": "blindness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<3.7（0.05），或其周边视野离注视点≤10°即视野直径不超过20°的状态。"
+  },
+  {
+   "cn": "失明",
+   "en": "blind",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "双眼失去辨别周围环境的能力。"
+  },
+  {
+   "cn": "雪盲",
+   "en": "snow blindness",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "由积雪表面反射的阳光所引起的视力减弱或暂时失明现象。特点是眼睑红肿、结膜充血水肿、有剧烈的异物感和疼痛，症状有怕光、流泪和睁不开眼，发病期间会有视物模糊的情况。"
+  },
+  {
+   "cn": "闪光盲",
+   "en": "flash blindness",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸的强光刺激眼睛后，使视网膜上感光的化学物质--视紫质被“漂白分解”，从而造成暂时的视力障碍。"
+  },
+  {
+   "cn": "盲端器械",
+   "en": "blind end device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.7",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "单端开口、长度与直径的比率≥1的器械。"
+  },
+  {
+   "cn": "性别盲视政策",
+   "en": "gender-blinded policies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "貌似性别中立、实则缺乏社会性别视角的公共政策。由于不承认、忽略或看不见不同性别之间的差异和不同处境，此类政策往往会导致对弱势性别群体的歧视性或侵害性后果。"
+  },
+  {
+   "cn": "启动反应堆测量盲区",
+   "en": "reactor start-up instrument blind zone",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.17",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "反应堆处于临界状态附近核仪表系统（源区段）测不到的低中子注量率范围。"
+  },
+  {
+   "cn": "双盲安慰剂对照口服食物激发试验",
+   "en": "d-blind placebo-controlled oral food challenge, DBPCOFC",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.45",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "由第三方医生和／或营养师通过食物模拟、混合食物、食物蛋白提取物胶囊等方式隐匿受试食物与安慰剂，以确保医师、受试者及受试者家属对摄入的是受试食物还是安慰剂均不知道的口服激发试验，是确诊食物过敏的金标准。"
+  },
+  {
+   "cn": "仁慈",
+   "en": "kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁爱慈善。是人们在处理人际关系时应努力做到与人为善，不求回报，随时注意关怀、爱戴、宽容、帮助、体贴和理解他人的境遇或需求。它与“爱”“同情”“仁爱”或“利他主义”相联系。"
+  },
+  {
+   "cn": "慈爱",
+   "en": "loving-kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0659999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对于晚辈或脆弱者的怜爱、帮助及善举。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

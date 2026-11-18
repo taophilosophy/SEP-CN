@@ -1,0 +1,32 @@
+{
+ "key": "neopositivism",
+ "term": "neopositivism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:37+00:00",
+ "status": "ok",
+ "note": "variant=neopositivism; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新实证主义,新实证论",
+   "en": "neo-positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义的马克思主义",
+   "en": "Neopositivist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0016",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主要代表是意大利共产党员德拉·沃尔佩（Della Volpe）及其学生卢西奥·科莱蒂（Lucio Colletti）。强调把马克思辩证法与黑格尔的辩证法对立起来，主张用实证主义来说明和补充马克思主义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

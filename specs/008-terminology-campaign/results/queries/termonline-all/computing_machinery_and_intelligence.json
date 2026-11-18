@@ -1,0 +1,792 @@
+{
+ "key": "computing machinery and intelligence",
+ "term": "Computing machinery and intelligence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:45:25+00:00",
+ "status": "ok",
+ "note": "variant=Computing machinery and intelligence; 审定公布名词库=10000; 海峡两岸名词对照库=2388; 其他来源数据库=1615; 预公布名词数据库=1085; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "计算智能",
+   "en": "computational intelligence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0249",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "通过模仿自然界的现象或行为,　例如生物进化、神经系统活动等，研究问题求解的理论与方法，与“软计算”含义相似。少数学者例如人工智能之父麦卡锡（John McCarthy）将计算智能作为人工智能的同义词，"
+  },
+  {
+   "cn": "智能计算机",
+   "en": "intelligent computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "计算机科学技术_通论_计算机发展历史",
+   "subjectName": "计算机发展历史",
+   "publishYear": "2018",
+   "definition": "以人工智能和逻辑程序设计为特色的数字电子计算机。日本政府20世纪80年代初主导研制的智能计算机也称为第五代计算机。现在也泛指具有智能人机接口，能接收和理解声、图、文信息并根据已有的信息或知识进行推理的"
+  },
+  {
+   "cn": "智能计算机",
+   "en": "intelligent computer",
+   "source": "自动化名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "机械",
+   "en": "machinery",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0005",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "机器与机构的总称。"
+  },
+  {
+   "cn": "智能人机交互",
+   "en": "intelligent human computer interaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "通过计算机输入、输出设备，以有效的方式实现人与计算机对话的技术。"
+  },
+  {
+   "cn": "造林机械",
+   "en": "afforestation and reforestation machinery",
+   "source": "林学名词",
+   "wordNumber": "10.370",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "林业上专用于实现栽植幼苗、树木营造或更新森林的机械装备总称。如挖坑机、植树机和山地移栽机械等。"
+  },
+  {
+   "cn": "草坪机械",
+   "en": "turf machinery,lawn machinery",
+   "source": "林学名词",
+   "wordNumber": "10.412",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "用于草坪建植和草坪建植以后所需一系列养护的设备。"
+  },
+  {
+   "cn": "功能站和客户机",
+   "en": "function computer and client computer",
+   "source": "电力名词",
+   "wordNumber": "12.171",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "完成SIS应用功能和管理功能的计算机或服务器称为“功能站”,包括数据库服务器、应用软件功能计算机或服务器、系统备份服务器、防病毒服务器,维护管理计算机。系统内的其他计算机工作站称为“客户机”。"
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类对客观事物进行合理分析、判断、推理及有目的的行动、有效地处理周围环境事宜的综合能力。在高技术领域，它特指机器所具有的逻辑判断、自动控制功能和根据环境信息调节运动动作的性能。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "精神医学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "精神医学_症状与体征_智力障碍症状",
+   "subjectName": "智力障碍症状",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。是一种个性心理特征，反映个体在认识活动方面的差异。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "计划生育名词",
+   "wordNumber": "04.023",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "包括对环境的适应力、学习能力及对经验教训的吸取能力、对抽象事物的思考能力。"
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "核医学名词",
+   "wordNumber": "04.0775",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "一种复杂的精神活动的综合表现。是运用以往积累的知识和经验以获得新知识、形成新概念及解决新问题的能力，是感觉、记忆、理解、思维、判断、行为创造等方面能力的综合反映。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "地方病学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "地方病学_碘缺乏病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "人们在获得知识以及运用知识解决问题时所必须具备的心理条件或特征。其核心是理解、判断或抽象思维能力。碘缺乏所致脑发育损伤的主要表现就是程度不同的智力低下。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0128",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个体适应、改造和选择环境的心理能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "心理学名词",
+   "wordNumber": "02.749",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "测量与特征情报",
+   "en": "measurement and signature intelligence",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "包含对来源于数据(公制的、角度、空间、波长、时间相关、调制、等离子和磁性)的定性和定量分析而获取的科技情报。此类情报来源于特定的技术传感器，目的是为了识别目标、来源、辐射源或发射器的相关特性。"
+  },
+  {
+   "cn": "农机维修",
+   "en": "agricultural machinery maintenance and repair",
+   "source": "农学名词",
+   "wordNumber": "14.009",
+   "subjectFullName": "农业工程_农业机械化与装备",
+   "subjectName": "农业机械化与装备",
+   "publishYear": "2025",
+   "definition": "对农业机械进行维护与修理，使其保持及恢复正常技术状态和工作能力的方法与技术［活动］。"
+  },
+  {
+   "cn": "种子采集处理机械",
+   "en": "seed harvesting and processing machinery",
+   "source": "林学名词",
+   "wordNumber": "10.343",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "采集、调制、清选、贮藏种子和种子检验、分级所用机械设备的总称。"
+  },
+  {
+   "cn": "木材起重输送机械",
+   "en": "log handling and conveying machinery",
+   "source": "林学名词",
+   "wordNumber": "10.279",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "贮木场中用于木材集材、装卸、选材、归楞、出河等作业的机械。"
+  },
+  {
+   "cn": "计算智能",
+   "en": "computational intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能计算机",
+   "en": "intelligent computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能计算机辅助设计",
+   "en": "intelligent computer-aided design",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "翻译装置",
+   "en": "translation machinery",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录机器",
+   "en": "transcription machinery",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录装置",
+   "en": "transcription machinery",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译装置",
+   "en": "translation machinery",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "捕捞机械",
+   "en": "fishing machinery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机器处所，机炉舱",
+   "en": "machinery space",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甲板机械",
+   "en": "deck machinery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "捕捞机械",
+   "en": "fishing machinery",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机装",
+   "en": "machinery fitting",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机安全与保密",
+   "en": "computer security and privacy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机维护与管理",
+   "en": "computer maintenance and management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅机舱",
+   "en": "auxiliary machinery compartment\",\"auxiliary machinery room",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能计算",
+   "en": "intelligent computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算智能",
+   "en": "Computational Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子智能计算",
+   "en": "quantum intelligence computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智",
+   "en": "Intelligence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能防控",
+   "en": "intelligent prevention and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有心之器",
+   "en": "Objects of Intelligence and Sentiment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧农机",
+   "en": "smart farm machinery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "Business Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合智能",
+   "en": "hybrid intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "business intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群体智能",
+   "en": "swarm intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智开放",
+   "en": "Crowd Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式智能",
+   "en": "distributed intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "Intelligent Robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器",
+   "en": "machinery",
+   "source": "马克思主义",
+   "wordNumber": "02.0130",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西方第一次工业革命产物或资本主义生产方式发展第三阶段的标志性生产工具，是用来代替人的劳动，转换或利用机械能的装置。通常分为三部分：发动机、传动机和工具机。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "认识客观事物和现象并解决实际问题的能力。包括观察力、记忆力、注意力、想象力、分析判定能力、应变能力等。"
+  },
+  {
+   "cn": "国家机器",
+   "en": "state machinery",
+   "source": "马克思主义",
+   "wordNumber": "03.0079",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "强迫被统治阶级服从国家意志的强制机关，包括军队、警察、法院、监狱等。它们构成互相联系的有机整体，为维护统治阶级的利益而实行有组织的暴力。"
+  },
+  {
+   "cn": "智力测试",
+   "en": "intelligence test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价智力水平高低的一种心理测验。"
+  },
+  {
+   "cn": "智力筛查",
+   "en": "intelligence screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "将智力落后个体从群体中区别出来的活动。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "通过一系列标准测试所获得个人认知能力与同年龄段常模的比值。是智力测验中表示一个人智力水平的指数。"
+  },
+  {
+   "cn": "智能武器",
+   "en": "intelligent weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用人工智能技术，通过计算机、网络和自动化系统实现自主侦察、锁定目标、实施攻击的一种武器系统。能够自我识别、自我规划、自我决策和自我执行军事任务，具有高度的自主性和智能化能力。"
+  },
+  {
+   "cn": "筛查性发育和智能测评",
+   "en": "screening test of development and intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "一系列对儿童发育和智能进行筛查的测试及相关工具的总称。"
+  },
+  {
+   "cn": "诊断性发育和智能测评",
+   "en": "diagnostic test of development and intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.30",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "一系列对儿童发育和智能进行诊断的测试及相关工具的总称。"
+  },
+  {
+   "cn": "电脑桌椅布置",
+   "en": "layout of computer desk and chair",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "教室内电脑桌椅排列的方式。"
+  },
+  {
+   "cn": "韦氏学龄前期儿童智力量表",
+   "en": "Wechsler Preschool and Primary Scale of Intelligence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.30.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的诊断性工具之一。是韦氏(D. Wechsler，美国)学龄儿童智力量表的扩延。用于4～6.5岁儿童。测试时间40～50 min。"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient, IQ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "表示个体智力发展水平的指标。现多采用离差智商表示智力的高低，即以100为均数、15为标准差，个体智商数值在70以下为智力低下；在130以上为智力超常。"
+  },
+  {
+   "cn": "智能消毒机器人",
+   "en": "intelligence disinfection robot",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在特定的程序操控下，可代替人力实现消毒操作并达到消毒效果的设备。"
+  },
+  {
+   "cn": "多元智力理论",
+   "en": "multiple intelligences theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "加德纳（Gardner）提出的智力包括一组相对独立的能力，而并非一种一般能力的理论。"
+  },
+  {
+   "cn": "智力残疾分类",
+   "en": "intelligent disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按智力残疾形成的原因、教育上的表现、适应性障碍、支持辅助等对智力残疾类型的划分。"
+  },
+  {
+   "cn": "智力残疾分级",
+   "en": "intelligent disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据智力测验和适应行为测验等结果，对智力和适应行为障碍程度的划分。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "textual entailment",
+ "term": "textual entailment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:14+00:00",
+ "status": "ok",
+ "note": "variant=textual entailment; 审定公布名词库=683; 海峡两岸名词对照库=125; 其他来源数据库=3; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "文本蕴含识别",
+   "en": "textual entailment recognition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0589",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "判断一个文本所含信息是否可以推演出另一个文本所含信息的过程、技术和方法。"
+  },
+  {
+   "cn": "蕴涵",
+   "en": "entailment",
+   "source": "语言学名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在语义学中，指两个命题之间的一种语义关系：若第一个命题为真，那么第二个命题肯定为真，而且不可能同时肯定第一个命题又否定第二个命题。例如“我看到一只猫”和“我看见了一个动物”两个命题之间就是一种蕴涵关系"
+  },
+  {
+   "cn": "谋篇",
+   "en": "textualization",
+   "source": "语言学名词",
+   "wordNumber": "08.084",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞方法的一种。讲究文章的篇章布局和话语结构，以便完整、集中、有条理、有效果地表达思想内容。"
+  },
+  {
+   "cn": "文本数据",
+   "en": "textual data",
+   "source": "农学名词",
+   "wordNumber": "16.024",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "以文本形式表示的符号记录。"
+  },
+  {
+   "cn": "文本分析",
+   "en": "textual analysis",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.19",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "一种定性研究方法。理论资源来自阐释学和人文主义，包括多个理论流派和思想资源，经常用于解释媒介内容和推断传播者意图。文本分析是对文本精读和解构的过程，试图通过文本分析发掘文本的社会意义，检视在文本中意识"
+  },
+  {
+   "cn": "校勘",
+   "en": "textual criticism",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.291",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "将同一种书的不同版本和有关资料加以比较、考校异同的工作。旨在订正谬误，以保存同一种书不同版本的异文资料或恢复古籍的原貌。"
+  },
+  {
+   "cn": "文本资料",
+   "en": "textual material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与“非文本资料”相对。任何由书写所固定下来的文字资料。也可以指计算机可读的一种文档类型资料，主要用于记载和储存文字信息，而不是图像、声音和格式化数据。"
+  },
+  {
+   "cn": "文本数据",
+   "en": "textual data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0005",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "以文本形式表示的符号记录。"
+  },
+  {
+   "cn": "校勘学",
+   "en": "biblio textual criticism",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.007",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "古代文献学或古籍整理中旨在确定原始文本的学科。古称“校雠学”,起于西汉成帝委刘向等首次大规模校理文献遗存时的经验总结,北宋以来又称校勘学。"
+  },
+  {
+   "cn": "非文本资料",
+   "en": "non-textual material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与“文本资料”相对。文本资料之外的所有资料，如口述资料甚至民间的各种实物资料等。"
+  },
+  {
+   "cn": "校勘学",
+   "en": "biblio-textual criticism",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "古代文献学或古籍整理中旨在确定原始文本的学科。"
+  },
+  {
+   "cn": "版本鉴定",
+   "en": "textual criticism,edition authentication",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.118",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "根据内容或形式特点对图书版本制作年代、价值优劣的判断。根据内容鉴定版本的途径通常有卷数、编例、学术源流、名物制度、内容时限、篇目排列和内容文字等；根据形式鉴定版本的途径通常有书名页、序跋、卷端、讳字、"
+  },
+  {
+   "cn": "档案考订",
+   "en": "textual research on archives",
+   "source": "档案学名词",
+   "wordNumber": "04.03.056",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "运用考据学的方法，研究、整理档案文献的学术实践。包括考辨档案本身及其内容真伪、考证档案的形成时间、辨明档案文献的版本源流及其优劣、校勘档案文献字句正误以及对档案内容加以注释等内容。"
+  },
+  {
+   "cn": "考证",
+   "en": "textual criticism by evidences",
+   "source": "语言学名词",
+   "wordNumber": "10.005",
+   "subjectFullName": "语言学_训诂学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "综合运用训诂学形音义互求的方法，对文献词义进行考释与证明的工作。根据考证目的和论证取向的不同，可分为证实类考证和反驳类考证。"
+  },
+  {
+   "cn": "版本目录",
+   "en": "textual bibliography,bibliography of editions",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.344",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "记载图书版本的书目。多见于藏书目录和出版发行目录，著录内容更加具体和有针对性。"
+  },
+  {
+   "cn": "校雠",
+   "en": "textual criticism,collate the text",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.292",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "运用目录、版本、校勘等学问和方法整理古籍文献的工作。"
+  },
+  {
+   "cn": "校勘学",
+   "en": "jiao kan xue;textual criticism",
+   "source": "中国古代史名词",
+   "wordNumber": "1.708",
+   "subjectFullName": "中国古代史_通论_学科术语",
+   "subjectName": "学科术语",
+   "publishYear": "2022",
+   "definition": "校对书籍文字篇卷和勘正其中错误的学问。包括清理书籍版本的源流系统，综合使用版本校和他校、本校、理校等方法，纠正书籍抄写刻印和流传过程中发生的错误，补其缺失，研究和总结校对和勘正的义例及其发展过程。"
+  },
+  {
+   "cn": "版本学",
+   "en": "ban ben xue;textual history",
+   "source": "中国古代史名词",
+   "wordNumber": "1.709",
+   "subjectFullName": "中国古代史_通论_学科术语",
+   "subjectName": "学科术语",
+   "publishYear": "2022",
+   "definition": "考辨书籍流传版本的学问。包括辨识书籍编纂、抄刻、装订、版式、题钤等特征，理出各种文本先后传承的源流和优劣真伪，研究、总结相关经验和义例，以便整理形成更符编纂原貌的新版本。"
+  },
+  {
+   "cn": "提要式版本目录",
+   "en": "textual bibliography of summary style",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.332",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "一种提要式图书目录。提要的内容多侧重于记述一书版本情况及抄刻的优劣异同、授受源流等。"
+  },
+  {
+   "cn": "罗列式版本目录",
+   "en": "textual bibliography of list style",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.331",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "在每一书名之下罗列该书各种不同版本的图书目录。多用于古籍版本的著录。"
+  },
+  {
+   "cn": "本草考证",
+   "en": "herbal textual",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卷入",
+   "en": "entrainment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "［雾沫］夹带",
+   "en": "entrainment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夹卷",
+   "en": "entrainment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内外偶联",
+   "en": "entrainment",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "夹卷率",
+   "en": "entrainment rate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "夹卷速度",
+   "en": "entrainment velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卷入系数",
+   "en": "entrainment coefficient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雾沫蒸发器",
+   "en": "entrainment evaporator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夹带速度",
+   "en": "entrainment velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "雾沫混合器",
+   "en": "entrainment mixer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二次夹带",
+   "en": "re-entrainment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合雾沫",
+   "en": "mixing entrainment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夹带物分离器",
+   "en": "entrainment trap",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "卷入",
+   "en": "entrainment [in ocean]",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "章句",
+   "en": "Textual Components / Annotation Work",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金相玉质",
+   "en": "The Look of Gold and the Texture of Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "土壤质地",
+   "en": "soil texture",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤中矿物质颗粒的大小和其组合比例，即土壤的粗细、砂粘状况。按土壤中砂粒、粉砂粒和粘粒的含量百分数，可分为粗沙土、沙壤土、壤土、粘壤土和粘土。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "性爱",
+   "en": "sexual love",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以性欲为基础的对异性（有时是同性）的倾慕、亲近的感情，是爱情的一个必不可少的成分。性爱一般具有排他性、冲动性、直觉性和隐蔽性的特点。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "通过语言、动作等对他人实施的一种不受欢迎的带有性意图的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "恋物",
+   "en": "sexual fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "把无生命的物品或他人身上的非性感部分作为对象以引起性兴奋的性活动。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "性发育",
+   "en": "sexual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "包括性染色体、性腺、性激素、内外生殖器官等的发育过程。"
+  },
+  {
+   "cn": "性侵犯",
+   "en": "sexual assault",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "违反社会准则和儿童意愿进行的暴力性活动。其中危害最大的是强奸，主要受害者是妇女和女童，少数可发生于男孩。"
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "旨在满足性欲和获得性快感而出现的动作和活动。"
+  },
+  {
+   "cn": "性健康",
+   "en": "sexual health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "与性有关的身体、情感、心理和社会健康状态，不仅仅是没有疾病、功能障碍或虚弱。需要对性行为和性关系采取积极和尊重的态度，并有可能在没有胁迫、歧视和暴力的情况下获得愉快和安全的性体验。"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "未被邀请的、不受欢迎的性挑逗、性要求及其他具有性性质的言语或身体行为。任何性别的人都有可能是受害者。按照行为方式可以分为言语性、行为性、环境性。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "在任何地点发生的由任何人强行施加与受害者的性行为、性行为企图或其它直接针对他人性特征的强迫行为，而不论该行为人与受害人的关系如何。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.7",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性成瘾",
+   "en": "sexual addiction",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "个体无法控制地沉溺于性幻想、冲动或行为，并将其作为调节情绪、逃避现实的主要手段，即使该行为已对其个人生活、社交关系或身心健康造成显著的负面后果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

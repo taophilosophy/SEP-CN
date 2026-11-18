@@ -1,0 +1,802 @@
+{
+ "key": "enterprise liability",
+ "term": "enterprise liability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:39:35+00:00",
+ "status": "ok",
+ "note": "variant=enterprise liability; 审定公布名词库=1186; 海峡两岸名词对照库=363; 其他来源数据库=57; 预公布名词数据库=128; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "企业",
+   "en": "enterprise",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.207",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "依法设立的，以营利为目的，从事商品的生产经营和服务活动的独立核算经济组织。广义上包括营利性和非营利性两类。公司制企业是现代企业中最主要的最典型的组织形式。"
+  },
+  {
+   "cn": "企业",
+   "en": "enterprise",
+   "source": "教育学名词",
+   "wordNumber": "11.082",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "以满足社会需求并以获取利润为目的，从事商品生产、流通和服务等经济活动的自主经营、自负盈亏、具有法人资格的经济组织。"
+  },
+  {
+   "cn": "企业标准",
+   "en": "enterprise standard",
+   "source": "风景园林名词",
+   "wordNumber": "03.0388",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "由企业制定并由企业法人代表或其授权人批准、发布的标准。"
+  },
+  {
+   "cn": "企业注册",
+   "en": "enterprise registration",
+   "source": "风景园林名词",
+   "wordNumber": "03.0338",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "公司或个人根据《公司法》及其相关规定向工商部门申请成立公司的商事行为。"
+  },
+  {
+   "cn": "企业性质",
+   "en": "enterprise property",
+   "source": "风景园林名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "企业的所有制形式。其类型分别有国有企业、集体企业、联营企业、股份合作制企业、私营企业、个体户、合伙企业、有限责任公司、股份有限公司等。"
+  },
+  {
+   "cn": "企业注销",
+   "en": "enterprise cancellation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "当一个公司宣告破产，或者被其他公司收购、公司章程规定营业期限届满、公司内部分立解散，公司向企业登记管理机关申请注销，或者由于一些业务经营方式不规范被依法责令关闭，吊销营业执照的过程。"
+  },
+  {
+   "cn": "企业经营",
+   "en": "enterprise operation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0340",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "（1）以企业为载体或经济组织的物质资料经营。（2）企业经营者为了获得最大的物质利益而运用经济权力用最少的物质消耗创造出尽可能多的能够满足人们各种需要的产品的经济活动。"
+  },
+  {
+   "cn": "园林绿化企业",
+   "en": "landscape enterprise",
+   "source": "风景园林名词",
+   "wordNumber": "03.0326",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "从事各类园林绿地规划设计，组织承担园林绿化工程施工及养护管理，园林绿化苗木、花卉、盆景、草坪生产、养护和经营，提供有关园林绿化技术咨询、培训、服务等业务的企业，包括全民所有制企业、集体所有制企业、中外"
+  },
+  {
+   "cn": "档案事业",
+   "en": "archival enterprise",
+   "source": "档案学名词",
+   "wordNumber": "01.04.001",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "国家对档案现象所进行的规划设计、法制建设、行政管理、组织机构建设、专业队伍建设、业务技术标准建设、档案业务工作、档案信息资源合理配置和有效利用等各项工作的总称。"
+  },
+  {
+   "cn": "企业信息化",
+   "en": "enterprise informationization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "企业组织的运营、管理、生产等各个方面的整体信息化过程。通过各种信息系统网络加工生成新的信息资源，提供给各层次的人们来观察各类动态业务中的一切信息。"
+  },
+  {
+   "cn": "企业云",
+   "en": "enterprise cloud",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.321",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "专门应用在商业领域的商业云系统。专门设计客户关系管理软件、人力资源管理软件、数据库软件等企业内部系统，是给商业公司使用的云系统。"
+  },
+  {
+   "cn": "适应性企业",
+   "en": "adaptive enterprise",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.246",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "借助信息通信技术，实现信息资源能够在不同的业务之间（包括既有业务和新业务之间）灵活、快捷、充分流动的企业。"
+  },
+  {
+   "cn": "出版企业",
+   "en": "publishing enterprise",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.026",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "从事与出版有关的生产、流通、服务等经济活动的营利性经济组织。"
+  },
+  {
+   "cn": "物流企业",
+   "en": "logistics enterprise",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.102",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "从事物流经营，具有与自身业务相应的信息管理系统，独立核算和独立承担民事责任的经济组织。"
+  },
+  {
+   "cn": "企业规划",
+   "en": "enterprise planning",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.007",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "依据企业外部环境和自身条件的状况，针对企业的发展战略、宗旨、目标及实现目标的方法、步骤等内容编制的规划。"
+  },
+  {
+   "cn": "企业投资",
+   "en": "enterprise investment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.232",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "企业为获得投资收益，进而实现企业的财务目标或承担社会责任，提供并使用资本进行投资的行为和过程。"
+  },
+  {
+   "cn": "石油化工企业",
+   "en": "petrochemical enterprise",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.084",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "以石油、天然气、煤炭、页岩气、生物质及其产品等为主要原料，生产、储运各种石油化工产品的炼油厂、石油化工厂、石油化纤厂或其联合组成的工厂。"
+  },
+  {
+   "cn": "企业集成",
+   "en": "enterprise integration",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.346",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "企业实现其内部和外部信息环境中不同数据、应用、业务流程和服务共享、互联的方法和过程。"
+  },
+  {
+   "cn": "企业寻租",
+   "en": "enterprise rentseeking",
+   "source": "经济学名词",
+   "wordNumber": "15.029",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "企业将资源用于（直接的）非生产性活动，借以获得超过机会成本的收入的一种行为。寻租的概念最早由美国经济学家克鲁格在《寻租社会的政治经济学》中正式提出。"
+  },
+  {
+   "cn": "民营企业",
+   "en": "private enterprise",
+   "source": "经济学名词",
+   "wordNumber": "15.097",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "由民间投资形成，并由民间企业家合法经营的各种企业（主要包括个体企业和私营企业等）。"
+  },
+  {
+   "cn": "被购企业",
+   "en": "acquired enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购方企业",
+   "en": "acquiring enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际企业",
+   "en": "international enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "家族企业",
+   "en": "family enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跨国企业",
+   "en": "multinational enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界企业",
+   "en": "world enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外国企业",
+   "en": "foreign enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "企业地理学",
+   "en": "enterprise geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "兴业区",
+   "en": "enterprise zone",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "企业级Java组件",
+   "en": "enterprise JavaBeans",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "企业级地理信息系统",
+   "en": "enterprise GIS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "企业视点",
+   "en": "enterprise viewpoint",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "企业网",
+   "en": "enterprise network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟企业",
+   "en": "virtual enterprise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "易患性,易感性",
+   "en": "liability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非金融企业",
+   "en": "non-financial enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "混合联合公司",
+   "en": "mixed integrated enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术密集型企业",
+   "en": "technology intensive enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "劳动密集型企业",
+   "en": "labour intensive enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定责任",
+   "en": "legal liability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字化企业",
+   "en": "digital enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能企业",
+   "en": "smart enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技企业",
+   "en": "Fintech enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据化企业",
+   "en": "data-powered enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业数字服务",
+   "en": "enterprise digital service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业信用培育",
+   "en": "enterprise credit cultivation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业服务平台",
+   "en": "enterprise service platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球企业注册倡议",
+   "en": "Global Enterprise Registration Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息服务企业",
+   "en": "spatial information service enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟组织网络",
+   "en": "virtual enterprise network (VEN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业信息价值链模型",
+   "en": "enterprise information value chain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小微企业",
+   "en": "micro and small enterprise (MSE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业信息库数据",
+   "en": "data in enterprise information repository",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网企业金融创新",
+   "en": "financial innovation for Internet enterprises",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国企改革攻坚战",
+   "en": "reform of state-owned enterprises",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小微贷款机构",
+   "en": "lender to micro and small enterprises",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小微金融",
+   "en": "Finance for Micro and Small Enterprises",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小微贷款",
+   "en": "loan for micro and small enterprises",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贷款人环境法律责任",
+   "en": "lender’s environmental liability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业",
+   "en": "enterprise",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种组织形式，也是一种配置资源的方式。指从事产品生产、流通和提供服务活动，为满足社会需要的营利性经营单位，是社会生产力和商品经济发展到一定阶段的产物。"
+  },
+  {
+   "cn": "企业",
+   "en": "enterprise",
+   "source": "马克思主义",
+   "wordNumber": "02.0087",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一般是指运用各种生产要素（土地、劳动力、资本、技术、管理、数据等）进行生产经营的经济组织。在市场经济条件下，企业一般是以盈利为目的，向市场提供商品或服务，实行自主经营、自负盈亏、独立核算的具有法人资格"
+  },
+  {
+   "cn": "企业",
+   "en": "enterprises",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.106",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "从事生产、流通或服务性活动，以谋取经济利益的经济组织。"
+  },
+  {
+   "cn": "企业监管",
+   "en": "enterprise supervision",
+   "source": "消毒学",
+   "wordNumber": "5.1",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准，对消毒产品生产企业生产、经营行为开展的行政执法行为。"
+  },
+  {
+   "cn": "企业标准",
+   "en": "enterprise standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.7",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由企业通过供该企业使用的标准。"
+  },
+  {
+   "cn": "企业单位",
+   "en": "enterprise institution",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "受国家机关领导，实行独立经济核算制度，自负盈亏的直接从事工农业生产、交通运输和商业流通活动，产生的价值可用货币表现的法人或非法人单位。与“事业单位”相对。"
+  },
+  {
+   "cn": "家族企业",
+   "en": "family enterprise",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.62",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "资本或股份主要控制在一个家族手中，由家族成员出任企业主要领导职务的企业。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "enterprise culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.36",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "企业或公司为了实现其经营目的，在经营活动中形成的一套为其成员普遍认同的价值体系和行为规范，具体表现为该公司或企业特有的价值追求、行为方式、符号和仪式体系等能够体现其主导精神的各种形式。"
+  },
+  {
+   "cn": "企业年金",
+   "en": "enterprise annuity",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "在国家政策指导下，在参加基本养老保险的基础上，企业为进一步提高员工退休后的生活水平，按照自愿、量力的原则，自主实行的一种企业养老金计划，是员工福利的重要内容。"
+  },
+  {
+   "cn": "社会企业",
+   "en": "social enterprise",
+   "source": "社会学名词",
+   "wordNumber": "4.3.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会服务",
+   "subjectName": "社会服务",
+   "publishYear": "2025",
+   "definition": "为了社会特定的目标而从事社会服务事业、以商业生产与经营为手段的公益性社会经济组织。其产生的利润将运用于企业本身与社会的发展，而非实现股东以及所有者利益的最大化。"
+  },
+  {
+   "cn": "家族企业",
+   "en": "family enterprise",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0179",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由家族成员拥有、控制并管理的企业组织形式，其所有权和经营权在家族内部传承和发展。"
+  },
+  {
+   "cn": "企业人类学",
+   "en": "enterprise anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0173",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "将文化人类学（民族学）的理论和方法，应用于企业具体实践中的一门新兴交叉学科，研究对象包括跨国公司、国有企业、乡镇企业、私营企业、老字号企业等复杂社会中的各种复杂组织。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "enterprise culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0184",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "围绕企业生产经营，在企业成员长期的互动作用和相互影响过程中形成的，员工普遍认可并共同遵守的各种文化要素的总和。"
+  },
+  {
+   "cn": "乡镇企业",
+   "en": "township enterprises",
+   "source": "马克思主义",
+   "wordNumber": "03.0603",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "农村集体经济组织或者农民投资为主，在乡镇（包括所辖村）举办的各类企业，包括乡镇办企业、村办企业、农民联营的合作企业、其他形式的合作企业和个体企业等。乡镇企业对利用乡村地区资源、吸收乡村剩余劳动力、建立"
+  },
+  {
+   "cn": "三资企业",
+   "en": "Foreign Invested Enterprise",
+   "source": "马克思主义",
+   "wordNumber": "02.0404",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "外商在中国境内设立的中外合资经营企业、中外合作经营企业、外商独资经营企业等三类外商投资企业的统称。"
+  },
+  {
+   "cn": "现代企业制度",
+   "en": "modern enterprise system",
+   "source": "马克思主义",
+   "wordNumber": "02.0420",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "适应社会化大生产的要求，以规范和完善的企业法人制度为主体，以有限责任制度为核心，以科学的治理结构为组织形式的新型企业制度。现代企业制度有以下几个特点：产权清晰、权责明确、政企分开、管理科学。"
+  },
+  {
+   "cn": "企业市场化",
+   "en": "marketization of enterprise",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0176",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业的资源配置按市场规则进行，企业的生产要素（资本、劳动、土地和企业家）和产品的获取、交易都由市场提供和决定。"
+  },
+  {
+   "cn": "食品企业标准",
+   "en": "enterprise food standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由食品企业制定的标准，是企业组织食品生产、经营活动的依据，既可以包括食品安全的内容，也可以包括食品质量的内容。鼓励食品生产企业制定严于食品安全国家标准或者地方标准的企业标准，在本企业适用，并报省、自治"
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal liability",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行为人由于违反法律义务而产生的某种不利的法律后果。"
+  },
+  {
+   "cn": "企业自主权",
+   "en": "decisionmaking power of enterprise",
+   "source": "马克思主义",
+   "wordNumber": "02.0403",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "企业享有的自主经营的权利。落实企业自主权，使其成为自主经营、自负盈亏、自我发展、自我约束的法人和市场竞争主体，是深化企业改革，增强企业活力的重要内容。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

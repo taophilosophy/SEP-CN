@@ -1,0 +1,652 @@
+{
+ "key": "presupposition failures",
+ "term": "presupposition failures",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:39:05+00:00",
+ "status": "ok",
+ "note": "variant=presupposition failures; 审定公布名词库=691; 海峡两岸名词对照库=96; 其他来源数据库=13; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义学和语用学术语。①指说话人说某一句子时持有的前提。②与“焦点”相对。指句子中说话人已经设定的信息，也是旧信息。例如，说“张三没有打老婆”时，预设“张三有老婆”。"
+  },
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①在语义学和语用学中，指某种情况成立所必须满足的条件，也指说话人在说某句话时所持有的假设。这时与所作出的判断相对。②指两个陈述之间的某种逻辑关系。这时与蕴涵相对。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0219",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品丧失完成规定功能能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电力名词",
+   "wordNumber": "25.003",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统丧失完成规定功能的能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.064",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "功能单元失去执行其自身功能的能力或者以非要求的方式运行。"
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0196",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "发动机的功能、零部件或整机的失效或损坏的一种现象。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "设备执行所需功能的能力已经终止。失效标志着从一种状态变到另一种状态。失效之后，设备即有故障。"
+  },
+  {
+   "cn": "破坏",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.099",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.135",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "产品在使用中由于自身质的变化导致产品丧失了预定的工作能力或其性能已劣化成不合格的状态。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.072",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.065",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "肠衰竭",
+   "en": "intestinal failure,gut failure",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "肠道功能下降至难以维持消化、吸收营养的最低需要量的临床征象。可分为两型：①以短肠综合征(SBS)为代表的功能性肠道减少；②各种因素导致的运动功能受损和广泛实质损伤。1956年由欧文(Irving)提出"
+  },
+  {
+   "cn": "偶然失效",
+   "en": "accidental failure,random failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.087",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "fault,failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.073",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "破坏",
+   "en": "fracture,failure",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸衰竭",
+   "en": "respiratory failure",
+   "source": "普通外科学名词",
+   "wordNumber": "07.006",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "由于肺内外各种原因引起的肺通气和（或）肺换气功能严重障碍，以致不能进行有效的气体交换，在呼吸空气时，产生严重低氧血症和（或）高碳酸血症，从而引起一系列生理功能和代谢紊乱的临床综合征。"
+  },
+  {
+   "cn": "肝衰竭",
+   "en": "hepatic failure",
+   "source": "普通外科学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "多种因素引起的严重肝脏损害，导致其合成、解毒、排泄和生物转化等功能发生严重障碍或失代偿，出现以凝血机制障碍和黄疸、肝性脑病、腹水等为主要表现的临床综合征。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "排卵障碍",
+   "en": "ovulation failure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "提取失败",
+   "en": "retrieval failure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏附破坏",
+   "en": "adhesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效包线",
+   "en": "failure envelope",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效分析",
+   "en": "failure analysis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "疲劳失效",
+   "en": "fatigue failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "内聚破坏",
+   "en": "cohesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生殖失败",
+   "en": "reproductive failure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "破坏概率",
+   "en": "failure probability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场地故障",
+   "en": "site failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障访问",
+   "en": "failure access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障记录",
+   "en": "failure logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障控制",
+   "en": "failure control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障率",
+   "en": "failure rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规划失败",
+   "en": "planning failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介质故障",
+   "en": "media failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局部失效",
+   "en": "local failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "满招损，谦受益",
+   "en": "Complacency Leads to Failure; Modesty to Success.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一组动作",
+   "en": "group of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作裁判员",
+   "en": "jury of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四类规定动作",
+   "en": "Category IV of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变色失败",
+   "en": "discoloration failure",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物未达到终点色的现象。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "市场配置资源方式无法有效地实现公共物品的最优配置。通常由于垄断、信息不对称的存在导致市场在配置资源方面的无效率。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "市场缺陷（market failure）”。由于市场机制不能充分地发挥作用而导致的资源配置缺乏效率或资源配置失当的情况。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "避孕失败",
+   "en": "contraceptive failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用某种避孕方法过程中，由于该方法本身的原因或使用者未严格按照使用说明规范正确使用，而未能获得应有的避孕效果，发生意外妊娠的现象。"
+  },
+  {
+   "cn": "药品市场失灵",
+   "en": "drug market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品市场",
+   "subjectName": "药品市场",
+   "publishYear": "2025",
+   "definition": "市场机制无法实现药品资源最优配置的情况，由信息不对称、产品外部性和市场垄断等因素导致。"
+  },
+  {
+   "cn": "信息市场失灵",
+   "en": "information market failure ",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息供给在数量上、质量上与社会需求的最佳量不匹配，导致信息生产不足、信息生产过剩和（或）信息自由泛滥的情况"
+  },
+  {
+   "cn": "卵巢功能衰竭",
+   "en": "ovarian function failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "卵巢内卵泡自然耗竭或剩余的卵泡对垂体促性腺激素丧失反应造成的一种生理现象。"
+  },
+  {
+   "cn": "卫生服务市场失灵",
+   "en": "health service market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "市场机制无法有效率地分配和使用卫生资源以及带来的分配不公平的情况。"
+  },
+  {
+   "cn": "避孕方法使用失败",
+   "en": "user failure of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "某种避孕方法的使用者未严格遵守该方法的使用规范，使用过程中发生避孕失误，最终导致意外妊娠发生的现象。"
+  },
+  {
+   "cn": "避孕方法失败",
+   "en": "method failure of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由于避孕方法自身的某种缺陷导致无法达到100%的避孕效果（即使当使用者正确持续的使用情形下），而发生意外妊娠的现象。"
+  },
+  {
+   "cn": "放射性多器官衰竭",
+   "en": "radiation-induced multiple organ failure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射诱发的同时或相继出现两个或两个以上器官或系统功能不全或衰竭的一组临床综合征。"
+  },
+  {
+   "cn": "急性肾功能衰竭型蘑菇中毒",
+   "en": "mushroom poisoning with acute renal failure",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有奥来毒素、2-氨基-4,5-己二烯酸等毒蘑菇所致中毒型食源性疾病，是毒蘑菇中毒分型之一，以急性肾功能损害为主要临床表现。"
+  },
+  {
+   "cn": "急性肝衰竭型蘑菇中毒",
+   "en": "mushroom poisoning with acute liver failure",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有鹅膏肽类毒素的有毒蘑菇所致中毒型食源性疾病，是毒蘑菇中毒分型之一，以急性肝损伤为主要临床表现。"
+  },
+  {
+   "cn": "《西域同文志》",
+   "en": "A survey of Geography and Figures of the Western Region",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0271",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "对译辞书名。清代第一部官修地名志，傅恒等纂，乾隆二十八年（1763 年）成书。内容主要为对新疆、青海、西藏等地之人名、地名之对译解释；涉及满文、汉文、蒙古文、藏文、维吾尔文、托忒蒙古文等6 种文字。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

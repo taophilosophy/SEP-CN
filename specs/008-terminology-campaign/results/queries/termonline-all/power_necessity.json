@@ -1,0 +1,722 @@
+{
+ "key": "power necessity",
+ "term": "power necessity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:49+00:00",
+ "status": "ok",
+ "note": "variant=power necessity; 审定公布名词库=3041; 海峡两岸名词对照库=622; 其他来源数据库=84; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物存在和变化的因果关系具有确定性与唯一性。是事物发展、变化中合乎规律的、确定不移的趋向，由事物的本质决定，居于支配地位。是人类对事物及其变化建立确定性描述的前提条件。与“偶然性”相对。"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "其发生的必然性有科学定律的支撑，否则就可能违反科学定律。"
+  },
+  {
+   "cn": "必然性测度",
+   "en": "necessity measure",
+   "source": "自动化名词",
+   "wordNumber": "03.360",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "战略必要性假说",
+   "en": "strategic necessity hypothesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种关于信息技术战略优势的假说。其基本思想是认为信息技术可以通过提高组织内外资源整合效率为企业创造价值，但由于信息技术在竞争市场中的快速扩散性，它并不能为组织提供长久的竞争优势。"
+  },
+  {
+   "cn": "项目建设必要性",
+   "en": "necessity of project construction",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.192",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_规划及项目的评估",
+   "subjectName": "规划及项目的评估",
+   "publishYear": "2021",
+   "definition": "项目提出实施的理由和必要性，以及实施以后能够带来的作用和意义。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "电力名词",
+   "wordNumber": "01.300",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "单位时间内所做的功,或单位时间内转移或转换的能量。"
+  },
+  {
+   "cn": "爆发力",
+   "en": "power",
+   "source": "运动医学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "肌肉在最短时间收缩时所能产生的最大张力。大小取决于肌肉收缩力量和速度的大小。爆发力=力×速度，度量单位是功率。"
+  },
+  {
+   "cn": "把握度",
+   "en": "power",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "能被显著性所检出的概率。其大小可用1—β(β为Ⅱ型错误的概率大小)表示。是度量假设检验优劣程度的指标。做研究设计时，如果要求检出差别显著性的把握度越大，则要求样本含量也越多。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "物理学名词",
+   "wordNumber": "02.0286",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.318",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "单位时间内所做的功。国际单位瓦特(W)。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "核医学名词",
+   "wordNumber": "03.0039",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_核药物生产装置",
+   "subjectName": "核药物生产装置",
+   "publishYear": "2018",
+   "definition": "单位时间内所做的功，或单位时间内转移或转换所消耗的能量。"
+  },
+  {
+   "cn": "幂",
+   "en": "power",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0538",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一个串 x的零次幂为空串，x的k次幂（k>0）等于x的k-1次幂同x的连接。一个语言L的零次幂为{ε}（含ε一个元素的集合），L的k次幂为L的k-1次幂同L 的连接。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "计量学名词",
+   "wordNumber": "11.089",
+   "subjectFullName": "计量学_无线电_功率",
+   "subjectName": "功率",
+   "publishYear": "2015",
+   "definition": "单位时间内所完成的功。单位为瓦，符号为W。1W 表示在 1s 内完成 1J 功所需的功率。"
+  },
+  {
+   "cn": "权势关系",
+   "en": "power",
+   "source": "语言学名词",
+   "wordNumber": "12.092",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言语交际双方存在的尊卑、上下、长幼、强弱等一方优于另一方的关系。"
+  },
+  {
+   "cn": "权力",
+   "en": "power",
+   "source": "地理学名词",
+   "wordNumber": "17.071",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "达到某种目的的能力。多指个人之间或群体之间或国家之间的关系特征。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.012",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "单位时间内所做的功。"
+  },
+  {
+   "cn": "幂",
+   "en": "power",
+   "source": "数学名词",
+   "wordNumber": "04.0034",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "电子学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "发电厂",
+   "en": "power plant,power station",
+   "source": "电力名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "电力_火力发电",
+   "subjectName": "火力发电",
+   "publishYear": "2020",
+   "definition": "由能量转换设备和必要的辅助设备及相应建筑物组成的生产电能的工厂。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "权力",
+   "en": "power",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电源",
+   "en": "power",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电力",
+   "en": "power",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[电]源",
+   "en": "power source\",\"power supply",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功耗",
+   "en": "power consumption\",\"power dissipation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功率分发器",
+   "en": "power divider\",\"power splitter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平均功率",
+   "en": "average power\",\"mean power",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒车功率",
+   "en": "backing power\",\"astern power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功率储备",
+   "en": "power margin\",\"power reserve",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无功功率",
+   "en": "wattless power\",\"reactive power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power\",\"kW power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电功率",
+   "en": "electrical power\",\"electric power",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "再生[能]力",
+   "en": "regeneration power",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "同化力",
+   "en": "assimilatory power",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[乘]幂[定]律",
+   "en": "power law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反射能力",
+   "en": "reflecting power",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日常基本生活物资",
+   "en": "daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄浑",
+   "en": "Powerfulness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算能力",
+   "en": "computing power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据力",
+   "en": "data power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法权力",
+   "en": "algorithm power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "着力点",
+   "en": "power point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力量型球员",
+   "en": "power player",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大力发球",
+   "en": "power service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "马克思主义",
+   "wordNumber": "01.0051",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“偶然性”相对的哲学范畴。由事物内部的根本矛盾决定的，客观事物联系和发展中不可避免的、确定不移的状态和趋势。它在事物发展过程中居于支配地位，决定着事物发展的前途和方向。"
+  },
+  {
+   "cn": "社会必然性",
+   "en": "social necessity",
+   "source": "马克思主义",
+   "wordNumber": "03.0153",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由特定社会形态、社会结构和具体的社会历史条件所决定的客观规律，它是一定社会条件下不以人的意志为转移的、必然会发生的事件或行为。社会必然性归根结底是由生产力的发展水平状况所决定的。如而因为社会化大生产和"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "日用饰品",
+   "en": "daily necessities and decorative clothing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们日常生活中既有装饰作用又具有实用价值的物品，包括各种佩刀、手杖、雨伞、背兜、挎包、手提袋、钱包、香包、荷包、手绢、折扇、烟袋、眼镜等。"
+  },
+  {
+   "cn": "权力",
+   "en": "power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "一个行动者或机构影响其他相关主体的态度和行为的能力。马克斯•韦伯认为，权力是“在社会交往中一个行动者把自己的意志强加在其他行动者之上的可能性”。"
+  },
+  {
+   "cn": "核动力",
+   "en": "nuclear power",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "通过可控核反应来获取可利用的原子核能量。"
+  },
+  {
+   "cn": "君权",
+   "en": "monarchical power",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "封建君主或国王所享有的专制权力。一般与“君权神授”说关联在一起，以权力来自天命或神授予来确立统治合法性。这是来自西方政治理论的概念，原指欧洲封建君主制，广义上也用来指中国的皇权，但封建崩溃之后，皇权的"
+  },
+  {
+   "cn": "社会权力",
+   "en": "social power",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "泛指社会主体以其拥有的社会资源对社会施加的种种影响力、支配力、控制力和强制力。涉及经济、政治、文化、军事等各个方面。特指与国家权力相对和共存的、源于市民社会或民间并由其掌控的对国家权力的制衡力量。"
+  },
+  {
+   "cn": "绝对权力",
+   "en": "absolute power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "没有被加以任何限制或制衡的权力，一种绝对的支配意志，一种专断的权力。英国思想史家阿克顿勋爵认为“权力导致腐败，绝对权力绝对导致腐败”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  },
+  {
+   "cn": "权力精英",
+   "en": "power elite",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.10",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "占据要位，拥有权力、财富和声望等社会资源的决策者。美国社会学家赖特•米尔斯借助这一概念去分析美国的公司富豪、政治董事和军界领袖等群体。"
+  },
+  {
+   "cn": "软实力",
+   "en": "soft power",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.14",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "通过吸引与合作而非强制的方式来达到目的的能力，通常由价值观念、文化、制度等非强制性因素构成，以区别于硬实力。"
+  },
+  {
+   "cn": "苏维埃政权",
+   "en": "Soviet power",
+   "source": "马克思主义",
+   "wordNumber": "03.0336",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "第二次国内革命战争时期中国共产党在各革命根据地领导建立的政权。中国共产党在土地革命战争时期建立的根据地政权也称为“苏维埃”，性质是“工农民主政权”。"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "权力监督",
+   "en": "power supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0773",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对公共权力的运行过程进行检查和督导以及纠正的行为。权力监督是预防腐败的重要举措之一。在我国,根据权力监督主体的不同,可以分为党内监督、人大监督、政府专门机关监督、政协民主监督、民主党派监督、司法监督、"
+  },
+  {
+   "cn": "立法权",
+   "en": "legislative power",
+   "source": "马克思主义",
+   "wordNumber": "04.0017",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家制定、修改和废除法律的权力。统治阶级通过国家的立法活动把自己的意志用法律的形式表现出来，使之具有普遍遵守的效力。"
+  },
+  {
+   "cn": "预测力",
+   "en": "predictive power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在某件事情实际发生之前预言它的发生的能力。是检验一个科学理论是否有效的主要标准。"
+  },
+  {
+   "cn": "爆发力",
+   "en": "explosive power",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "肌肉在最短时间收缩时所能产生的最大张力。大小取决于肌肉收缩力量和速度的大小。通常用收缩力与速度的乘积所表现出来的肌肉功率来表示。"
+  },
+  {
+   "cn": "核动力装置",
+   "en": "nuclear power unit",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "利用核反应产生的能量提供动力的装置。根据不同的任务需求、通过不同的方式，可以把核能转变成电能或推进动力。"
+  },
+  {
+   "cn": "核电厂",
+   "en": "nuclear power plant",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "用铀、钚等作核燃料，将它在裂变反应中产生的能量转变为电能的发电厂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

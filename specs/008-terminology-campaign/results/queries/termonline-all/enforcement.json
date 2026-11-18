@@ -1,0 +1,562 @@
+{
+ "key": "enforcement",
+ "term": "enforcement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:08+00:00",
+ "status": "ok",
+ "note": "variant=enforcement; 审定公布名词库=198; 海峡两岸名词对照库=168; 其他来源数据库=11; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "实施成本",
+   "en": "enforcement cost",
+   "source": "经济学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "制度变革过程中所必然要支付的直接代价，是在实施改革中人们要重新签约、要学习新知识、要进行新体制的设计、要搜索制度的供给和需求的信息、要消除人们对变革的防卫心理等方面花费的代价。具体而言，它是指监管当局"
+  },
+  {
+   "cn": "行政强制",
+   "en": "administrative enforcement",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0407",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政主体依照法定权限和程序，对行政相对人的人身或财物采取限制或剥夺的具体行政行为。"
+  },
+  {
+   "cn": "教育执法",
+   "en": "enforcement of educationlaw",
+   "source": "教育学名词",
+   "wordNumber": "15.083",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "司法机关和教育行政机关及其工作人员根据法律、运用法定职权、依照法定程序和规范处理各种具体教育事件的活动。"
+  },
+  {
+   "cn": "行政强制执行",
+   "en": "arbitrary administrative enforcement",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.084",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "具有城乡规划行政处罚权的行政执法主体或者该机关申请人民法院，对不履行行政决定的公民、法人或者其他组织，依法强制其履行义务的行为。"
+  },
+  {
+   "cn": "核安全执法",
+   "en": "nuclear safety enforcement",
+   "source": "电力名词",
+   "wordNumber": "17.721",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "核安全监管机构对许可证持有者违反核安全法规和(或)核设施许可证条件所采取的强制性措施。包括责令立即停止危及核安全的活动、警告、罚款、限期改进、停工或者停业整顿直至中止或吊销核安全许可证件。"
+  },
+  {
+   "cn": "海洋执法",
+   "en": "marine law enforcement",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0043",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "根据海洋法律、法规，国家海洋执法机关运用船舶、飞机及其他执法装备，监视、监控和查处违法违规的行为。"
+  },
+  {
+   "cn": "行政执法监督",
+   "en": "oversight of law enforcement",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0383",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "对国家行政机关及其工作人员贯彻执行国家法律、法规、政策和决定、命令的情况实施的监督检查活动。"
+  },
+  {
+   "cn": "社会规范功能",
+   "en": "enforcement of social norms function",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.011",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "美国学者拉扎斯菲尔德与默顿1948年提出的大众传播的三大社会功能之一。大众传播具有普及社会规范并惩戒那些破坏社会秩序的“越轨”行为的社会功能。"
+  },
+  {
+   "cn": "环境行政执法",
+   "en": "administrative enforcement of environmental law",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.237",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "依法具有环境管理权的行政主体，依职权使用法律手段对环境行政相对人采取的直接影响其权利义务的环境行政行为，并进行其他环境监督管理的活动。"
+  },
+  {
+   "cn": "小企业管制执行公平法案",
+   "en": "Small Business Regulatory Enforcement Fairness Act",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0837",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "美国于1996年制定，减轻小企业管制费用和负担的法案。"
+  },
+  {
+   "cn": "风景名胜区综合执法",
+   "en": "scenic and historic area comprehensive law enforcement",
+   "source": "风景园林名词",
+   "wordNumber": "04.0338",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "风景名胜区管理机构在风景区范围内对应受制裁的违法行为，作出的警告、罚款、没收违法所得、没收非法财物、责令停产停业以及有关法律、法规、规章规定的其他行政处罚。"
+  },
+  {
+   "cn": "廷尉",
+   "en": "ting wei;judicial review minister;chamberlain for law enforcement",
+   "source": "中国古代史名词",
+   "wordNumber": "3.042",
+   "subjectFullName": "中国古代史_秦汉_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "主管法政的长官。始置于秦，汉沿置，位列九卿，掌诸法务，参与立法，负责郡国所奏疑难案件的终审判决。景帝哀帝时曾改称“大理”，王莽改称“作士”，东汉复称。魏晋以来为廷尉寺之长，隋唐以来称大理寺卿，其寺皆为"
+  },
+  {
+   "cn": "核签",
+   "en": "endorsement",
+   "source": "档案学名词",
+   "wordNumber": "02.03.010",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "签发的一种。上级领导人签发下级机关或部门的重要文件。"
+  },
+  {
+   "cn": "纸张加固",
+   "en": "reinforcement",
+   "source": "档案学名词",
+   "wordNumber": "05.03.021",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "用粘贴、缝合、托裱、涂膜、热封等方法加固机械强度低的纸张、装订处、封皮等操作方法。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "行为医学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "通过一定的环境刺激对行为反应产生促进作用的过程。包括正强化和负强化。"
+  },
+  {
+   "cn": "补强",
+   "en": "reinforcement",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0236",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "为弥补开孔周围区域强度下降而采取的加强措施。有局部补强和整体补强两种。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "生理学名词",
+   "wordNumber": "03.152",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背书",
+   "en": "endorsement",
+   "source": "经济学名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "收款人以转让票据权利为目的在汇票上签章并作必要的记载所作的一种附属票据行为。"
+  },
+  {
+   "cn": "加固",
+   "en": "reinforcement",
+   "source": "冶金学名词",
+   "wordNumber": "02.0575",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "通过在围岩体内部施加各种主动保护措施，使围岩受力状态和力学性质发生改变，自身承载强度提高的行为手段。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "心理学名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过某种刺激增强或减弱特定行为的过程。包括正强化与负强化。"
+  },
+  {
+   "cn": "碰撞强制[处理]",
+   "en": "collision enforcement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强制保险",
+   "en": "enforced insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强制性清算",
+   "en": "enforced liquidation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有执行力的仲裁裁决",
+   "en": "enforceable award",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性杂交繁殖",
+   "en": "enforced outbreeding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准实施器",
+   "en": "standard enforcer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一致性强制器",
+   "en": "consistency enforcer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执法访问区",
+   "en": "law enforcement access area",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "增强体",
+   "en": "reinforcement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "加强层",
+   "en": "reinforcement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "余高",
+   "en": "reinforcement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "短纤维增强体",
+   "en": "short fiber reinforcement\",\"staple reinforcement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "替代强化",
+   "en": "vicarious reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会强化",
+   "en": "social reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我强化",
+   "en": "self reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "延迟性强化",
+   "en": "delayed reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强化价值",
+   "en": "reinforcement value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性强化",
+   "en": "selective reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "制约增强［作用］",
+   "en": "conditioned reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "执法责任制",
+   "en": "accountability system for law enforcement",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "保持社交距离",
+   "en": "to enforce/practice social distancing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决不允许搞选择性执法、任性执法",
+   "en": "There can be no tolerance for selective or arbitrary law enforcement.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法立，有犯而必施；令出，唯行而不返",
+   "en": "Once enacted, a law must be enforced and anyone who violates it must be held to account.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "天下之事，不难于立法，而难于法之必行",
+   "en": "In the governance of a country, it is the enforcement, not the enactment, of law that presents the greatest challenge.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "有法可依，有法必依，执法必严，违法必究",
+   "en": "ensure that laws are put in place, observed, and strictly enforced and that anyone who violates the law is held to account",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "科学立法、严格执法、公正司法、全民守法",
+   "en": "take a well-conceived approach to law-making, and ensure that law is strictly enforced, justice is administered impartially, and the law is observed by all",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "职能科学、权责法定、执法严明、公开公正、廉洁高效、守法诚信的法治政府",
+   "en": "a rule of law government which has well-conceived functions and statutorily defined powers and responsibilities; which strictly enforces the law and is impartial; and which operates in an open, clean, and efficient way, with strong credibility",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习",
+   "en": "reinforcement learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习算法",
+   "en": "reinforcement learning algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习分析",
+   "en": "reinforcement learning analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过法律和法规措施影响人们的行为。"
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过法律及法规影响伤害的危险行为的干预措施。"
+  },
+  {
+   "cn": "窝工",
+   "en": "enforced idleness due to poor organization of work idleness",
+   "source": "马克思主义",
+   "wordNumber": "04.0172",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "非因工人责任造成的生产、工作中断或工时不能充分利用的现象。大多是由于计划安排不当或劳动组织不合理造成的。此外，由于机器设备突然发生故障，或因气候恶劣不能进行露天作业等原因，也会导致窝工。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

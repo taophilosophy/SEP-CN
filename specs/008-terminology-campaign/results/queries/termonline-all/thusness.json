@@ -1,0 +1,42 @@
+{
+ "key": "thusness",
+ "term": "thusness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:38:11+00:00",
+ "status": "ok",
+ "note": "variant=thusness; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "正确度",
+   "en": "trueness",
+   "source": "农学名词",
+   "wordNumber": "18.019",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "由大量测试结果得到的平均数与接受参照值间的一致程度。"
+  },
+  {
+   "cn": "正确度",
+   "en": "trueness",
+   "source": "药学名词",
+   "wordNumber": "06.062",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "由大量测试结果得到的平均数与接受参照值间的一致程度。通常用测试结果的期望与接受参照值之差，即偏倚来度量。"
+  },
+  {
+   "cn": "测量正确度",
+   "en": "measurement trueness,trueness of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "无穷多次重复测量所得量值的平均值与一个参考量值间的一致程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

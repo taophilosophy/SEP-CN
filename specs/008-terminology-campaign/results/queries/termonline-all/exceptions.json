@@ -1,0 +1,322 @@
+{
+ "key": "exceptions",
+ "term": "exceptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:34:58+00:00",
+ "status": "ok",
+ "note": "variant=exceptions; 审定公布名词库=45; 海峡两岸名词对照库=10; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0344",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序执行过程中发生的导致程序无法继续执行的事件。通常引发操作系统异常处理例程来处理发生的事件。"
+  },
+  {
+   "cn": "例外控制",
+   "en": "exception control",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "遵循泰勒提出的例外管理原则，对偏离计划和预制效果的事件实施应用控制，一般事务则通过授权由下级管理人员处理的控制方法。"
+  },
+  {
+   "cn": "文化例外",
+   "en": "cultural exception",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.043",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "将文化产品和服务排除在国际贸易谈判之外的原则。最早由法国在“世贸”前身“关贸总协定”的谈判中提出。基于文化的特殊性和重要性，该原则反对将文化列入一般性服务贸易内容之中，即在世贸组织有关自由贸易的协议中"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0345",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序在运行时，对不属于正常业务逻辑的意外或异常情况进行处理的过程。"
+  },
+  {
+   "cn": "寻址异常",
+   "en": "addressing exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0500",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在根据逻辑地址访问物理内存单元过程中发生的异常。"
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0346",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责找到异常所对应的处理例程并使其被调度执行的操作系统程序。"
+  },
+  {
+   "cn": "例外原则",
+   "en": "exception principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0310",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "泰勒(Frederick W. Taylor)确定的划分组织层级管理权限的原则。按照层次分工授权，各级自主处理本级职责内常规事务，各级只处理下一级汇报上来的例外事务。"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.183",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "exceptional child",
+   "source": "心理学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "需给予特殊的教育帮助才能充分发展的儿童。"
+  },
+  {
+   "cn": "额外超载",
+   "en": "exceptional overload",
+   "source": "电气工程名词",
+   "wordNumber": "20.179",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "例外值",
+   "en": "exceptional value",
+   "source": "数学名词",
+   "wordNumber": "05.0431",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "例外曲线",
+   "en": "exceptional curve",
+   "source": "数学名词",
+   "wordNumber": "04.1231",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0347",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责调度和执行异常处理程序的操作系统程序。"
+  },
+  {
+   "cn": "例外字",
+   "en": "exceptional reading character",
+   "source": "语言学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言里面今读音不符合古今音对应规律的汉字。例如根据古今音规律，中古止摄开口三等字“玺徙”字在北京话里应该跟“死”同音，由于避讳，这两个字读音例外。"
+  },
+  {
+   "cn": "阔大货物",
+   "en": "exceptional dimension freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0160",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "超长货物",
+   "en": "exceptional length freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "例外若尔当代数",
+   "en": "exceptional Jordan algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1484",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "除外条款",
+   "en": "exception clause,exemption clause",
+   "source": "航海科技名词",
+   "wordNumber": "13.0092",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "特殊儿童异质性",
+   "en": "heterogeneity of exceptional children",
+   "source": "教育学名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊儿童与普通儿童群体之间在生理和心理方面的差异或指特殊儿童个体之间存在的差异。"
+  },
+  {
+   "cn": "特殊儿童出现率",
+   "en": "prevalence of exceptional children",
+   "source": "教育学名词",
+   "wordNumber": "10.007",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊儿童总数或某一类特殊儿童总人数与该地区儿童总人数之比。"
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级例外运费率",
+   "en": "exception rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "例外条款",
+   "en": "exception clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理程序",
+   "en": "exception handler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特佳能见度",
+   "en": "exceptional visibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "另有相反的规定除外",
+   "en": "except otherwise herein provided",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

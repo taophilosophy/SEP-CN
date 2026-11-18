@@ -1,0 +1,802 @@
+{
+ "key": "epistemic imperialism",
+ "term": "epistemic imperialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:28:19+00:00",
+ "status": "ok",
+ "note": "variant=epistemic imperialism; 审定公布名词库=314; 海峡两岸名词对照库=22; 其他来源数据库=46; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "帝国主义",
+   "en": "imperialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0661",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "19世纪末20世纪初形成的资本主义发展的最高阶段。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "文化帝国主义",
+   "en": "cultural imperialism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播基础",
+   "subjectName": "跨文化传播基础",
+   "publishYear": "2022",
+   "definition": "任何文化我者以高压手段或任何其他不平等方式把自己的价值观、信仰甚至政治体制强加于文化他者的文化哲学、思维习惯和文化现象。在马克思主义研究视角下，特指西方“第一世界”资本主义国家延续殖民主义和东方主义的"
+  },
+  {
+   "cn": "媒介帝国主义",
+   "en": "media imperialism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "11.045",
+   "subjectFullName": "新闻学与传播学_国际传播_国际传播与媒介帝国主义批判",
+   "subjectName": "国际传播与媒介帝国主义批判",
+   "publishYear": "2022",
+   "definition": "西方传播学批判学派提出的概念。意指在资本与商业利益的驱动下，拥有先进传播科技与传播优势的西方发达国家，利用其掌控的全球性传媒，对发展中国家传播和输出信息产品及其文化价值观，实现信息入侵与文化扩张的目的"
+  },
+  {
+   "cn": "皇家园林",
+   "en": "imperial garden",
+   "source": "风景园林名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "历代皇帝或皇室享用的，以游乐、狩猎、休闲为主，兼有理政、居住等功能的园林。"
+  },
+  {
+   "cn": "起居注",
+   "en": "imperial diary",
+   "source": "档案学名词",
+   "wordNumber": "08.01.021",
+   "subjectFullName": "档案学_中国档案事业史_中国古代档案",
+   "subjectName": "中国古代档案",
+   "publishYear": "2024",
+   "definition": "古代专门记录皇帝言行起居的笔录。周即有左、右史记录帝王言行，至魏晋开始设有专门编纂起居注的起居舍人，唐贞观初置起居郎，废起居舍人。唐宋起居注记述最详，元明开始趋于简略。起居注为编年体例，逐日记载，按月"
+  },
+  {
+   "cn": "帝国跨文化主义",
+   "en": "imperial transculturalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.045",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "以挪用文化元素为代表的一种文化入侵新形式。帝国主义力量通过挪用、吸收、糅合各种文化元素，使其文化渗透与扩张的过程变得愈发难以察觉，以此维持其在世界或区域范围内的文化霸权。"
+  },
+  {
+   "cn": "秘阁",
+   "en": "imperial library",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.079",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆类型",
+   "subjectName": "图书馆类型",
+   "publishYear": "2019",
+   "definition": "古代宫廷内府藏书机构的总称。"
+  },
+  {
+   "cn": "苑",
+   "en": "imperial garden",
+   "source": "林学名词",
+   "wordNumber": "09.019",
+   "subjectFullName": "林学_风景园林_园林史",
+   "subjectName": "园林史",
+   "publishYear": "2016",
+   "definition": "在圃的基础上发展起来的，建有宫室和别墅，供帝王居住、游乐、宴饮、祭祀、生产的一种园林类型。"
+  },
+  {
+   "cn": "科举制",
+   "en": "imperial examination",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0441",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "中国历代封建王朝通过考试选拔官吏的一种制度。"
+  },
+  {
+   "cn": "皇城",
+   "en": "imperial city",
+   "source": "建筑学名词",
+   "wordNumber": "07.0284",
+   "subjectFullName": "建筑学_城乡规划_城市历史与保护",
+   "subjectName": "城市历史与保护",
+   "publishYear": "2014",
+   "definition": "都城中位于都城城墙与皇帝、皇族所居宫城之间的，由城墙围绕，具有独立的城门的区域。皇城内通常布置宗庙、官衙、内廷服务机构、仓库防卫建筑、园林苑囿等。"
+  },
+  {
+   "cn": "[中国]皇家园林",
+   "en": "imperial garden",
+   "source": "建筑学名词",
+   "wordNumber": "03.0219",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "中国古典园林类型之一。为帝王兴建的园林。起于商周以素朴之自然景色为主的囿，后演化成唐宋的山水宫苑，至明清成为集历代南北造园精华的集锦式园林，在艺术上达到了完美的境界。皇家园林一般占地广阔，主要结合自然"
+  },
+  {
+   "cn": "行宫",
+   "en": "imperial retreat",
+   "source": "建筑学名词",
+   "wordNumber": "03.0185",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "古代除都城正宫外，另为帝王出行所设置的居所。"
+  },
+  {
+   "cn": "帝国主义",
+   "en": "imperialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "至尊的皇冠",
+   "en": "Crown Imperial",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Walton, William"
+  },
+  {
+   "cn": "司天监(1)",
+   "en": "imperial astronomer",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "司天监(2)",
+   "en": "imperial observatory",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "英联邦特惠税制",
+   "en": "Imperial Preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "宫城",
+   "en": "imperial palace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "皇城",
+   "en": "imperial city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "陵寝",
+   "en": "imperial mausoleum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "御路",
+   "en": "imperial road",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "钦天监监正",
+   "en": "imperial astronomer\",\"director of imperial observatory",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "英联邦特惠关税",
+   "en": "Imperial Preferential Tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太史令",
+   "en": "imperial astronomer\",\"Astronomer Royal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "翼上骨",
+   "en": "epipteric bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位离差",
+   "en": "epistatic deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位显性",
+   "en": "epistatic dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上位方差",
+   "en": "epistatic variance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "流行性产卵",
+   "en": "epidemic spawning",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太学",
+   "en": "Imperial Academy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诏策",
+   "en": "Imperial Edicts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科举",
+   "en": "The Imperial Civil Examination System",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜疫情",
+   "en": "to prevail over the epidemic; to beat the epidemic; to win the battle against the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字抗疫",
+   "en": "combating epidemic with digital technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据病源追踪",
+   "en": "big data-enabled epidemic tracking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社区疫情防控",
+   "en": "community-based epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学战疫",
+   "en": "science-based approach in fighting the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重大疫情防控体制机制",
+   "en": "mechanism for major epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  统筹推进疫情防控和脱贫攻坚",
+   "en": "to coordinate epidemic control with poverty alleviation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": " 疫情防控重点地区",
+   "en": "key regions in epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜疫情的中坚力量",
+   "en": "core forces in victory over the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "把握好防疫管控的度",
+   "en": "Moderation is required in epidemic prevention and control.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "帝国主义",
+   "en": "imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0265",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "它是资本主义发展的最高和最后阶段,其特征是:(1)在生产和资本高度集中发展的基础上形成的垄断统治是它的基本特征；(2)银行资本和工业资本融合成金融资本,出现了金融寡头；(3)对外由输出商品为主转为以输"
+  },
+  {
+   "cn": "文化帝国主义",
+   "en": "cultural imperialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0271",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "形成于20世纪60年代，系西方激进学者用于分析西方大国文化全球性扩张的基本范式。泛指西方发达国家凭借先进的科学技术和发达的国民教育，大力拓展和占领世界文化市场，通过文化思想的渗透重塑他国人民的价值观、"
+  },
+  {
+   "cn": "科举社会",
+   "en": "imperial examination society",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于解释读书人通过科举考试选拔获得从政资格，进而领导社会的概念。这同样出自钱穆的中国社会演变论。这种社会上承游士社会和郎吏社会，中心力量即知识分子，自隋唐科举制度始，至宋成熟，一直存续到清科举制度结束"
+  },
+  {
+   "cn": "科举制度",
+   "en": "imperial examination system",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "中国历代封建王朝通过考试选拔官吏的一种制度。由于采用分科取士的办法，所以叫做科举。科举制从隋朝大业元年(公元605年）开始实行，到清朝光绪三十一年(公元1905年）举行最后一科进士考试为止。"
+  },
+  {
+   "cn": "帝国主义的主要矛盾",
+   "en": "main contradictions of imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0266",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义时期，资本主义世界的主要矛盾有：帝国主义国家内部无产阶级和资产阶级的矛盾；殖民地、半殖民地和附属国与帝国主义国家之间的矛盾；帝国主义国家之间的矛盾。这些矛盾是由垄断这一帝国主义的经济基础决定的"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0308",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清乾隆帝论述喇嘛教宗旨及清廷对该教所持政策之文。撰于乾隆五十七年（1792），对喇嘛教在蒙、藏地区之活动与发展具有重大影响。此文刻于石碑，立于雍和宫。"
+  },
+  {
+   "cn": "帝国主义和一切反动派都是纸老虎",
+   "en": "imperialism and all reactionaries are paper tigers",
+   "source": "马克思主义",
+   "wordNumber": "03.0445",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东剖析帝国主义本质的著名论断。帝国主义和一切反动派具有真老虎和纸老虎的两重性。从本质上看，从长期上看，从战略上看，它是纸老虎，从这点上建立我们的战略思想。另一方面它又是活的铁的真的会吃人的老虎，从"
+  },
+  {
+   "cn": "帝国主义战争",
+   "en": "imperialist war",
+   "source": "马克思主义",
+   "wordNumber": "03.0267",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义国家之间，帝国主义军事集团之间为瓜分世界、争夺霸权而进行的战争。19世纪末20世纪初，由于资本主义经济、政治发展的不平衡性，资本主义各国之间的力量对比不断发生变化，发展速度较快的国家要求按实力"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由致病性生物因子如细菌、病毒等引起的传染性疾病及其发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "疫区",
+   "en": "epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "遭受生物战剂袭击区域出现病例后，经过评估划分需要实施管控的病例所在区域。"
+  },
+  {
+   "cn": "疫情发布",
+   "en": "epidemic information release",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.019",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由疫情发生地及以上人民政府或政府委托的相关部门依法按规定进行及时、准确、客观、全面的疫情信息公开的工作。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "疫点消毒",
+   "en": "disinfection in epidemic focus",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.11",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对传染源所在家庭及其周围或居住场所开展的消毒。"
+  },
+  {
+   "cn": "疫区消毒",
+   "en": "disinfection in epidemic area",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.12",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对病原体可能传播的区域开展的消毒。"
+  },
+  {
+   "cn": "防疫物资储备",
+   "en": "epidemic prevention materials reserve",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校根据可能发生的传染病疫情，按照学校规模、学生数量以及传染病预防控制要求储备一定数量的物资，掌握物资储备要求、使用方法、注意事项和使用期限等，并对物资进行管理的过程。"
+  },
+  {
+   "cn": "学校传染病疫情报告人",
+   "en": "school epidemic information reporter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "负责传染病疫情及相关突发公共卫生事件报告的学校专职或兼职卫生专业技术人员、保健教师，或经培训合格的学校其他在编人员。"
+  },
+  {
+   "cn": "防疫消毒车",
+   "en": "epidemic prevention and disinfection vehicle",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "装备有传染病防控所需的消毒、防护等设备和物品，用于传染病疫情现场处置的车辆。"
+  },
+  {
+   "cn": "传染病流行过程",
+   "en": "epidemic process of infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "传染病在人群中发生、蔓延和转归的过程。"
+  },
+  {
+   "cn": "学校传染病流行",
+   "en": "infectious disease epidemic in school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "当学校或师生员工群体中，短期内某种传染病发病率突然超过该病历年的一般发病率水平时的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

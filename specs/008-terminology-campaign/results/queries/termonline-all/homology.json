@@ -1,0 +1,492 @@
+{
+ "key": "homology",
+ "term": "homology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:36:21+00:00",
+ "status": "ok",
+ "note": "variant=homology; 审定公布名词库=327; 海峡两岸名词对照库=133; 其他来源数据库=5; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0163",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "有共同祖先的几种生物的基因或结构之间的相似性。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.196",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "两种核酸分子的核苷酸序列之间，或两种蛋白质分子的氨基酸序列之间相似的程度。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "动物学名词",
+   "wordNumber": "2.0258",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "（1）来自于共同祖先的生物类群的性状特征的相似性。（2）两种核酸分子的核苷酸序列之间，或两种蛋白质分子的氨基酸序列之间相同的程度。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "植物学名词",
+   "wordNumber": "02.0198",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "(1)来自于共同祖先的生物类群的性状特征的相似性。(2)两种核酸分子的核苷酸序列之间，或两种蛋白质分子的氨基酸序列之间相同的程度。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "生物物理学名词",
+   "wordNumber": "06.077",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "从共同始祖分子经趋化与进化而形成的不同序列，从一些数据中推断出序列在进化上曾具有共同祖先的结论。是对两条序列关系的定性描述，要么同源，要么不同源。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "药学名词",
+   "wordNumber": "05.018",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "进化过程中源于同一祖先的分支之间的关系。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "微生物学名词",
+   "wordNumber": "06.019",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "属于相同物种而呈现遗传上各不相同个体的同种异体现象。"
+  },
+  {
+   "cn": "同源[性]",
+   "en": "homology",
+   "source": "古生物学名词",
+   "wordNumber": "01.0079",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "指同类生物的对应器官之间的相似，它们来自一个共同的祖先。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "遗传学名词",
+   "wordNumber": "02.231",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "两种核酸分子的核苷酸序列之间，或两种蛋白质分子的氨基酸序列之间相同的程度。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "生态学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "来自于共同祖先的生物类群的性状特征的相似性。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.664",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "同调",
+   "en": "homology",
+   "source": "数学名词",
+   "wordNumber": "08.0626",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同源物",
+   "en": "homolog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0165",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "从共同始祖分子进化而产生，在序列或结构上存在着相似性的物质。如同源基因、同源蛋白质。"
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0166",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有共同的化学通式，在组成上相差一个或若干个CH2原子基团，但在结构和化学性质上相似的有机化合物。"
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "化学名词",
+   "wordNumber": "02.0002",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "具有共同的化学通式，在组成上相差一个或几个碳原子基团，化学性质相似，物理性质随碳原子数的增加而规律性地变化的化合物系列中的各化合物互为同系物。如甲烷、乙烷、丙烷……为链状烷烃<img src='/ro"
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "药学名词",
+   "wordNumber": "03.268",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子的结构相似、具有相同种类和数目的官能团且组成上彼此相差一个或若干个<img src='/root/syzx/static/spz/yaoxue2.03.268.01.png'/>原子团的多个有机化"
+  },
+  {
+   "cn": "同系化",
+   "en": "homologization",
+   "source": "化学名词",
+   "wordNumber": "02.1077",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "反应底物反应后生成另一个同系物的反应。"
+  },
+  {
+   "cn": "同调[的]",
+   "en": "homologous",
+   "source": "数学名词",
+   "wordNumber": "08.0633",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同源物",
+   "en": "homolog,homologue",
+   "source": "植物学名词",
+   "wordNumber": "02.0202",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同物种中来源于同一个祖先的基因或染色体。"
+  },
+  {
+   "cn": "同源区段",
+   "en": "homology segment",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.287",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "不同核苷酸或蛋白质分子间相似的序列片段。一般具有共同的进化起源或类似的生物学功能。"
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源",
+   "en": "homology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同源性",
+   "en": "homology",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源物",
+   "en": "homolog",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同系物",
+   "en": "homolog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同系化",
+   "en": "homologization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同源的",
+   "en": "homologous",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同源物",
+   "en": "homolog\",\"homologue",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同源克隆",
+   "en": "homology cloning",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源区",
+   "en": "homology region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源区段",
+   "en": "homology segment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "系列同源性",
+   "en": "serial homology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "承认（成绩）",
+   "en": "homologate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中心网络拓扑",
+   "en": "data center network topology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同源重组",
+   "en": "homologous recombination",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "发生在姐妹染色单体之间或同一染色体上含有同源序列的DNA分子之间或分子之内的互相交换和重组。参加重组的两段双链DNA在相当长的范围内顺序相同（≥200bp），这样能保证重组后生成的新区段顺序正确。"
+  },
+  {
+   "cn": "同源性表位",
+   "en": "homologous epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.25",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "不同抗原可能含有相同或相似的抗原表位。"
+  },
+  {
+   "cn": "非同源末端连接",
+   "en": "non-homologous end joining",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在不依赖DNA同源性的情况下，为了避免DNA或染色体断裂的滞留及因此造成的DNA降解或对生命力的影响，强行将两个DNA断端彼此连接在一起的一种特殊的DNA双链断裂修复机制。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "宇宙观",
+   "en": "cosmology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "在社会制度和人的行动中，体现与整个宇宙的关系及宇宙本身的构成和变化规律相关的认识论和信仰体系。不同文化大都基于对世间和超世间世界的关系来呈现其对整个存在的基本看法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

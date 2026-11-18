@@ -1,0 +1,712 @@
+{
+ "key": "axial transformations",
+ "term": "axial transformations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:55:47+00:00",
+ "status": "ok",
+ "note": "variant=axial transformations; 审定公布名词库=1287; 海峡两岸名词对照库=366; 其他来源数据库=26; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "轴向分带",
+   "en": "axial zoning",
+   "source": "地质学名词",
+   "wordNumber": "13.08.062",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "在原生异常内部，沿矿液运移方向(矿体轴向)上的组分和浓度分带。"
+  },
+  {
+   "cn": "轴率",
+   "en": "axial ratio",
+   "source": "地质学名词",
+   "wordNumber": "02.00.057",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "根据晶体外形的宏观研究不能定出轴单位(轴长)，但应用几何结晶学的方法可以求出它们的比率a∶b∶c，这一比率称为轴率。"
+  },
+  {
+   "cn": "轴迹",
+   "en": "axial trace",
+   "source": "地质学名词",
+   "wordNumber": "09.03.021",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "褶皱轴面与地面或任何给定平面的交线。"
+  },
+  {
+   "cn": "轴向载荷",
+   "en": "axial load",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0764",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承力矩、载荷及寿命",
+   "subjectName": "滚动轴承力矩、载荷及寿命",
+   "publishYear": "2021",
+   "definition": "作用方向平行于轴承轴心线的载荷。"
+  },
+  {
+   "cn": "轴向节距",
+   "en": "axial pitch",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0966",
+   "subjectFullName": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺",
+   "subjectName": "弹簧的设计和工艺",
+   "publishYear": "2021",
+   "definition": "截锥涡卷弹簧轴向的节距。"
+  },
+  {
+   "cn": "轴平面",
+   "en": "axial plane",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0037",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "任何一个包含齿轮轴线的平面。"
+  },
+  {
+   "cn": "轴向齿廓",
+   "en": "axial profile",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0076",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "齿面被轴平面所截的截线。"
+  },
+  {
+   "cn": "轴向模数",
+   "en": "axial module",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0094",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "轴向齿距除以圆周率π所得到的商。"
+  },
+  {
+   "cn": "齿向修形",
+   "en": "axial modification",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0134",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "有意识地沿齿线方向微量修削齿面，使齿面形状偏离理论上的齿形。"
+  },
+  {
+   "cn": "轴向齿距",
+   "en": "axial pitch",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0212",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_圆弧齿轮传动",
+   "subjectName": "圆弧齿轮传动",
+   "publishYear": "2021",
+   "definition": "在斜齿轮的一个轴平面内，两个相邻同侧齿廓之间的轴向距离。"
+  },
+  {
+   "cn": "轴向变形[量]",
+   "en": "axial deflection",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0403",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "在波发生器作用下，柔轮齿圈壁厚中性层上的任一点在轴线方向产生的变形[量]。"
+  },
+  {
+   "cn": "轴流叶轮",
+   "en": "axial wheel",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1280",
+   "subjectFullName": "机械工程（一）_传动_液力传动_叶轮及结构参数",
+   "subjectName": "叶轮及结构参数",
+   "publishYear": "2021",
+   "definition": "工作液体沿着轴向流动的叶轮。"
+  },
+  {
+   "cn": "轴上光线",
+   "en": "axial ray",
+   "source": "光学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "在光学系统中从物体轴上点到入瞳边缘的所有光线。"
+  },
+  {
+   "cn": "轴丝",
+   "en": "axial filament",
+   "source": "动物学名词",
+   "wordNumber": "4.0061",
+   "subjectFullName": "动物学_动物胚胎学_精子发生",
+   "subjectName": "精子发生",
+   "publishYear": "2021",
+   "definition": "精子尾部的轴心结构。由两条中央微管和周围的9组二联微管组成。"
+  },
+  {
+   "cn": "轴珊瑚单体",
+   "en": "axial corallite",
+   "source": "动物学名词",
+   "wordNumber": "5.0816",
+   "subjectFullName": "动物学_无脊椎动物学_刺胞动物门",
+   "subjectName": "刺胞动物门",
+   "publishYear": "2021",
+   "definition": "群体珊瑚中除了各个水螅个体的骨骼以外，将所有珊瑚单体紧密互相连接的骨骼。如鹿角珊瑚。"
+  },
+  {
+   "cn": "纵肋",
+   "en": "axial rib",
+   "source": "动物学名词",
+   "wordNumber": "5.1623",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "壳面上与螺轴平行的条状肋。"
+  },
+  {
+   "cn": "轴窦",
+   "en": "axial sinus",
+   "source": "动物学名词",
+   "wordNumber": "5.28",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "棘皮动物围血系统中沿辐部和辐管并行的薄壁管状的囊。内含轴腺。在反口面与生殖窦相通。"
+  },
+  {
+   "cn": "轴器",
+   "en": "axial organ",
+   "source": "动物学名词",
+   "wordNumber": "5.2801",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "轴窦和轴腺的合称。"
+  },
+  {
+   "cn": "轴腺",
+   "en": "axial gland",
+   "source": "动物学名词",
+   "wordNumber": "5.2802",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "某些棘皮动物中伴随石管从亚氏提灯的反口面延伸到筛板附近的一个明显的长形黑色海绵组织。"
+  },
+  {
+   "cn": "中轴骨[骼]",
+   "en": "axial skeleton",
+   "source": "动物学名词",
+   "wordNumber": "6.0387",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统",
+   "subjectName": "骨骼系统",
+   "publishYear": "2021",
+   "definition": "支持脊椎动物的头和躯干的骨骼。包括头骨、脊柱、肋骨和胸骨等。"
+  },
+  {
+   "cn": "轴[的]",
+   "en": "axial",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform\",\"transformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中轴骨骼",
+   "en": "axial skeleton",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轴索",
+   "en": "axial cord",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轴中胚层",
+   "en": "axial mesoderm",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "垂直系统（=轴向系统）",
+   "en": "axial system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轴向薄壁组织",
+   "en": "axial parenchyma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轴向管胞",
+   "en": "axial tracheid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轴向系统，垂直系统，纵向系统",
+   "en": "axial system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纵向系统（=轴向系统）",
+   "en": "axial system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轴向混合",
+   "en": "axial mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向对称",
+   "en": "axial symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向速度",
+   "en": "axial velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向流",
+   "en": "axial flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向分散",
+   "en": "axial dispersion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴角",
+   "en": "axial angle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向像差",
+   "en": "axial aberration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "直[立]键",
+   "en": "axial bond",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "轴向手性",
+   "en": "axial chirality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "轴比",
+   "en": "axial ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据变换",
+   "en": "data transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化转型",
+   "en": "Digital Transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物化",
+   "en": "Transformation of Things",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转变政府职能",
+   "en": "transforming government functions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转变政府职能",
+   "en": "transform government functions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "量子傅里叶变换",
+   "en": "quantum Fourier transform (QFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ETL工具",
+   "en": "ETL (extraction transformation loading) tools",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "2025政府数字转型战略（澳大利亚）",
+   "en": "2025 Government Digital Transformation Strategy (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轴心文明",
+   "en": "axial civilization",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "德国哲学家雅思贝尔斯？用来界定公元前800年至公元200年间，同时或独立地在中国、印度、波斯、巴勒斯坦和希腊开始确立，对后世直至今日的人类历史发展影响深远的文明形态。"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "社会转型",
+   "en": "social transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "伴随着经济和政治体制、社会结构、社会形态、文化价值系统、行为方式、生活方式等发生深刻变化，社会系统由一种类型向另一种类型过渡。"
+  },
+  {
+   "cn": "社会主义改造",
+   "en": "socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "02.0335",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1953年至1956年中国共产党领导的在全国范围内变生产资料私有制为社会主义公有制的社会主义革命。包括农业社会主义改造、手工业社会主义改造和资本主义工商业社会主义改造。社会主义改造的完成标志社会着主义"
+  },
+  {
+   "cn": "文化转型",
+   "en": "culture transformation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0051",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因内部或外部力量推动而导致某个族群文化发生改变和适应的过程。"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "大转型理论",
+   "en": "theory of great transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "卡尔·波兰尼（Karl Polanyi）提出的一种用来描述和解释现代社会转型的理论。这种理论将人类社会从以“再分配”为特征的前市场社会向市场社会的转变描述为现代社会转型的核心内容，并认为，在19世纪资"
+  },
+  {
+   "cn": "农业的社会主义改造",
+   "en": "socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "03.0285",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级取得政权后，通过各种互助合作的形式，把农民个体经济逐步改造成为社会主义集体经济。农业的社会主义改造是对生产资料私有制改造的关键，是经济方面社会主义革命的重要内容之一，是进一步解放农业生产力，全"
+  },
+  {
+   "cn": "森岛通夫的转形模型",
+   "en": "Michio Morishimas transformation model",
+   "source": "马克思主义",
+   "wordNumber": "05.0124",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "森岛通夫（Michio Morishima）通过数学模型证明了马克思的“生产价格总额等于价值总额”和“利润总额等于剩余价值总额”这两个命题同时成立，其模型是接近马克思原意的模型。他还运用马尔科夫过程,"
+  },
+  {
+   "cn": "转化生长因子",
+   "en": "transforming growth factor， TGF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.24",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "最初从转化细胞培养液分离得到的可作用于细胞生长、转化等的生长因子。包括转化生长因子-α和转化生长因子-β两类。"
+  },
+  {
+   "cn": "移风易俗",
+   "en": "transform outmoded habits and customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0467",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "泛指转移风气，改变习俗。"
+  },
+  {
+   "cn": "农业社会主义改造理论",
+   "en": "theory of socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "02.0362",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于社会主义改造理论的组成部分。主要内容是：遵循自愿互利、典型示范和国家援助的原则，采用农业生产互助组、初级农业生产合作社、高级农业生产合作社等三个互相衔接的形式，从而把以生产资料私有制为基础的"
+  },
+  {
+   "cn": "公共领域的结构转型",
+   "en": "structure transformation of the public sphere",
+   "source": "马克思主义",
+   "wordNumber": "05.0116",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯在《公共领域的结构转型》中认为，在资产阶级国家建立的初期，一个相对独立于国家和市民社会的公共领域逐步形成和发展起来，但是在后来的发展中，这个领域失去了其独立性。"
+  },
+  {
+   "cn": "学派的转形理论",
+   "en": "TSS  transformation theory of TSS school",
+   "source": "马克思主义",
+   "wordNumber": "05.0123",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代至21世纪初兴起的TSS学派（The School of Temporal Single System），提出的对价值转形问题的新解答。该学派认为只要正确理解价值概念，马克思体系中的基"
+  },
+  {
+   "cn": "制度改造和人的改造相结合",
+   "en": "combination of transforming systems and people",
+   "source": "马克思主义",
+   "wordNumber": "03.0387",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在社会主义改造中提出的重要方针。即一方面把资本主义所有制和个体所有制改造成为社会主义全民所有制和劳动者集体所有制；另一方面把资产阶级分子改造成为自食其力的劳动者，把个体劳动者改造成为集体劳动者。"
+  },
+  {
+   "cn": "手工业社会主义改造理论",
+   "en": "theory of socialist transformation of handicraft industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0366",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东社会主义改造理论的重要组成部分。其要点是：实行统筹兼顾、全面安排、积极领导的方针；遵循自愿互利的原则，利用采用说服教育、典型示范和国家帮助的办法，采用手工业生产小组、手工业供销生产合作社、手工业"
+  },
+  {
+   "cn": "团结教育改造民族资产阶级",
+   "en": "unite educate and transform the national bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0386",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东根据民族资产阶级的两面性特点，在《论人民民主专政》等文中提出的，在人民民主专政条件下中国共产党对民族资产阶级的基本政策，是中国共产党统一战线工作的主要任务。毛泽东还提出改造企业和改造人相结合的具"
+  },
+  {
+   "cn": "农业社会主义改造中的阶级路线",
+   "en": "class line for the socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "03.0388",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在农业合作化运动中，根据土改后农村阶级关系的变化，毛泽东和党中央提出的依靠贫下中农、团结中农、限制和逐步消灭富农的阶级路线。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "社会主义工业化和社会主义改造同时并举",
+   "en": "carried out simultaneously in socialist industrialization and socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "03.0385",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在过渡时期总路线中完整提出的建设社会主义的根本方针，即生产力方面从农业国向工业国的转变，生产关系方面从资本主义所有制、个体所有制向社会主义全民所有制、集体所有制的转变，两者紧密结合、同时并举的方"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

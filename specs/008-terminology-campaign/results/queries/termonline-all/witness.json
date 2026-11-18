@@ -1,0 +1,662 @@
+{
+ "key": "witness",
+ "term": "witness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:43:33+00:00",
+ "status": "ok",
+ "note": "variant=witness; 审定公布名词库=75; 海峡两岸名词对照库=34; 其他来源数据库=5; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "见证人",
+   "en": "witness",
+   "source": "核医学名词",
+   "wordNumber": "06.0237",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "独立于研究各方，不受涉及临床试验人员任何方式的影响，亲历知情同意过程中并给予帮助和记录，在记录上签名和署明日期的人。"
+  },
+  {
+   "cn": "证据",
+   "en": "witness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0242",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取自然数作为满足某条件的实例。"
+  },
+  {
+   "cn": "见证点",
+   "en": "witness point",
+   "source": "电力名词",
+   "wordNumber": "17.579",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "在相应文件(通常为质量计划)中规定的对某操作的监督点。制造厂或安装单位应在该点之前通知监督方,但只要按规定正式通知了监督方,即使监督方指定人员不在操作现场,见证点时限过后也可进行操作。"
+  },
+  {
+   "cn": "证人室",
+   "en": "witness’ room",
+   "source": "建筑学名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "建筑学_建筑类型及组成_公检法建筑",
+   "subjectName": "公检法建筑",
+   "publishYear": "2014",
+   "definition": "在审判区设立的能让证人在不暴露的情况下作证的场所，以在对证人可能构成严重威胁的重大刑事案件审理中保护证人。"
+  },
+  {
+   "cn": "验证板",
+   "en": "witness plate",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.544",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "引证点",
+   "en": "witness point",
+   "source": "石油名词",
+   "wordNumber": "08.0147",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "纠缠见证",
+   "en": "entanglement witness",
+   "source": "物理学名词",
+   "wordNumber": "06.0750",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "第一目击者",
+   "en": "first witness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "全科医学与社区卫生_社区急诊",
+   "subjectName": "社区急诊",
+   "publishYear": "2014",
+   "definition": "在现场目击突发伤害和危重疾病患者、报警呼救或利用平时的培训技能提供紧急救护的人。"
+  },
+  {
+   "cn": "旁证呼吸暂停",
+   "en": "witnessed apnea",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "他人目击患者出现的呼吸暂停。可表现为手指或唇部青紫，气哽或窒息感，发作性憋气，大量出汗，睡眠时腿脚抽动。"
+  },
+  {
+   "cn": "威氏分析法",
+   "en": "Wits analysis",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0469",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "模型见证试验",
+   "en": "model witness test",
+   "source": "电力名词",
+   "wordNumber": "16.134",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "为证实试验结果的真实性而进行的有需方参加的模型试验。"
+  },
+  {
+   "cn": "见证取样送样",
+   "en": "witness sampling and delivery",
+   "source": "风景园林名词",
+   "wordNumber": "08.0134",
+   "subjectFullName": "风景园林_风景园林工程_风景园林土壤",
+   "subjectName": "风景园林土壤",
+   "publishYear": "2025",
+   "definition": "在建设单位或监理单位人员见证下，由施工人员或专业取样人员在现场取样、封样，并一同送至具备相应资质的专业检测单位进行检测的活动。"
+  },
+  {
+   "cn": "谲辞",
+   "en": "wit and wise lie",
+   "source": "语言学名词",
+   "wordNumber": "08.191",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。为掩饰真情而以曲折机变的话语，传达言语假信息，并在言语交际过程中收到积极的效果。例如，“高高山上哎一树槐唷，手把栏杆啥望郎来唷，娘问女儿唷你望啥了嘛？我望槐花啥几时开唷喂。”"
+  },
+  {
+   "cn": "银合欢",
+   "en": "white leadtree; Leucaena leucocephala (Lam.) de Wit",
+   "source": "农学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "饲用作物_豆科饲用作物",
+   "subjectName": "豆科饲用作物",
+   "publishYear": "2025",
+   "definition": "银合欢属饲用作物。灌木或小乔木。二回羽状复叶，具腋生头状花序；荚果条形，种子卵形。适于青饲，加工草粉。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "农学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "衡量单个昆虫种群存活和繁殖成功概率的一种尺度。包括生存能力、繁殖能力和子代生存能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.435",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。是衡量个体存活和生殖机会的尺度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "动物学名词",
+   "wordNumber": "2.0285",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "密合性",
+   "en": "fitness",
+   "source": "结核病学名词",
+   "wordNumber": "05.108",
+   "subjectFullName": "结核病学_结核病预防与控制_感染控制",
+   "subjectName": "感染控制",
+   "publishYear": "2019",
+   "definition": "口罩周边与佩戴者面部的密合程度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "植物学名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "遗传学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。"
+  },
+  {
+   "cn": "参考标石",
+   "en": "witness monument\",\"witness mark\",\"witness corner",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "目击证言,视觉证言",
+   "en": "eye witness testimony",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "白度",
+   "en": "whiteness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传适合度",
+   "en": "genetic fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叶面湿润度",
+   "en": "surface wetness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内在适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平均适合度",
+   "en": "mean fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "总体适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "甲板淹湿",
+   "en": "deck wetness",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "环境适度",
+   "en": "environmental fitness",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "繁殖适度",
+   "en": "reproductive fitness\",\"bonitation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "形势积极向好",
+   "en": "The situation is witnessing positive changes.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "马肩隆",
+   "en": "withers",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "获奖牌者名单",
+   "en": "list of medal winners",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坚白相盈",
+   "en": "Solidity and Whiteness Fulfill Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "体力适度",
+   "en": "physical fitness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在日常活动中表现出的疲劳感、无力和虚弱感。"
+  },
+  {
+   "cn": "体能发育",
+   "en": "physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体生理功能和运动能力随年龄而发生的变化。"
+  },
+  {
+   "cn": "体能测试",
+   "en": "physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "采用医学手段对机体日常体力活动或运动中的功能进行测试。一般包括身体成分、心肺耐力、肌力肌耐力和柔韧性四个方面的测试。"
+  },
+  {
+   "cn": "体质健康",
+   "en": "physical fitness health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种完好的身体、心理和社会适应的状态，而不仅仅是没有疾病或虚弱。包括身体形态、感觉敏锐度、对疾病的易感性、身体机能、恢复能力和执行某些任务的能力。"
+  },
+  {
+   "cn": "骨骼肌肉适能",
+   "en": "muscular-skeletal fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "由骨骼强韧度、肌肉力量、肌肉耐力、爆发力和柔韧性所反映的体质健康状态。"
+  },
+  {
+   "cn": "体质监测",
+   "en": "physical fitness surveillance",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.12",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "为系统掌握国民体质状况，以抽样调查的方式，在全国范围内对监测对象进行统一体质测试和对监测数据进行分析研究的工作。"
+  },
+  {
+   "cn": "体能训练",
+   "en": "physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.10",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "为促进身体发育、增强力量和耐力、提高速度和灵敏性、增加柔韧性、促进各部位协调等人体的运动能力而进行的训练活动。"
+  },
+  {
+   "cn": "心肺耐力",
+   "en": "cardiorespiratory fitness, cardiorespiratory endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在较长时间的体力活动中，心血管系统（心脏和血管）和呼吸系统（肺和气道），为工作的肌肉和器官提供氧气的能力。通常表示为测量或估计的最大摄氧量。"
+  },
+  {
+   "cn": "军事体能训练",
+   "en": "military physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "通过系列项目练习，提升军人的体质、体力作业能力与运动能力的活动过程。主要包含三类：针对身体素质的基础体能训练、针对专业兵种特殊体能的专业体能训练，以及融合体能、智能、技能与军事技战术的综合体能训练。"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  },
+  {
+   "cn": "健康相关体能",
+   "en": "health-related physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "维持身体健康、提高工作、学习和生活效率所必需的基本能力。"
+  },
+  {
+   "cn": "运动技能相关体能",
+   "en": "sports-related physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "包括速度、爆发力、灵敏度、平衡力、协调与反应力等竞技体育相关的体能。"
+  },
+  {
+   "cn": "学生体质健康评价",
+   "en": "student's physical fitness evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "根据学生体质健康监测，采用不同方法、不同指标对学生生长发育状况、学生常见疾病和多发病进行评价，建立健康档案，给予个性化的健康教育处方。"
+  },
+  {
+   "cn": "学生体质健康测试",
+   "en": "student's physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "测试人员采用规范的技术、方式和方法，组织学生参加《国家学生体质健康标准》所确定的测试项目及有关内容的实际测评，是促进学生体质健康发展、激励学生参加身体锻炼的教育、评价和反馈手段。"
+  },
+  {
+   "cn": "学生体质健康监测",
+   "en": "student physical fitness surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "根据国家对学生体质健康方面的基本要求，对学生体质健康状况和锻炼效果的长期评定过程。"
+  },
+  {
+   "cn": "体能评价",
+   "en": "evaluation of physical fitness",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.11",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "用最大摄氧量、体力劳动能力、肌力、运动能力等测量方法对体能进行测量、评价和分析的活动。"
+  },
+  {
+   "cn": "体能发育不均衡性",
+   "en": "asymmetry in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "儿童少年体能指标在不同年龄的发育速度有快有慢的特点。"
+  },
+  {
+   "cn": "体能发育不平衡性",
+   "en": "imbalance in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "青春期生长突增阶段，身体各部分发育的暂时性差异造成的肌力发育的不平衡现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

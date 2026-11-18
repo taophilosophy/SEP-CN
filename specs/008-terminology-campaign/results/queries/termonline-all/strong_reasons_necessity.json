@@ -1,0 +1,792 @@
+{
+ "key": "strong reasons necessity",
+ "term": "Strong Reasons Necessity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:23:40+00:00",
+ "status": "ok",
+ "note": "variant=Strong Reasons Necessity; 审定公布名词库=1789; 海峡两岸名词对照库=469; 其他来源数据库=164; 预公布名词数据库=103; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物存在和变化的因果关系具有确定性与唯一性。是事物发展、变化中合乎规律的、确定不移的趋向，由事物的本质决定，居于支配地位。是人类对事物及其变化建立确定性描述的前提条件。与“偶然性”相对。"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "其发生的必然性有科学定律的支撑，否则就可能违反科学定律。"
+  },
+  {
+   "cn": "必然性测度",
+   "en": "necessity measure",
+   "source": "自动化名词",
+   "wordNumber": "03.360",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "reasoning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.278",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中使用论据阐明论点的方法。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "行为医学名词",
+   "wordNumber": "2.091",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "由若干已知的判断得出另一个新判断的思维形式。是借助已有的知识对事物进行间接认识的过程。所根据的判断是前提，根据前提所得到的判断是结论。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "物理学名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.174",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种思维形式。人根据已有判断，经过分析与综合，引出新判断的过程。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0066",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "寻找理由、信念、结论或动作的认知过程。形式主要包括演绎、溯因、归纳、类比、谬误推理等。"
+  },
+  {
+   "cn": "战略必要性假说",
+   "en": "strategic necessity hypothesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种关于信息技术战略优势的假说。其基本思想是认为信息技术可以通过提高组织内外资源整合效率为企业创造价值，但由于信息技术在竞争市场中的快速扩散性，它并不能为组织提供长久的竞争优势。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.815",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "决定如何行动的推理。与纯粹认识论维度的理论理性相对立，强调要以行动改变世界，而要实现行动者的意图就必须考虑实践情境的具体差异，而不能仅考虑普遍的理论原则。这种推理的结论就是行动本身。"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.198",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "民主社会“公共性”的最高表现，也是现代民主国家的基本特征之一。公共理性具有两个最基本的特点：它对全体公民和社会的根本政治问题具有某种强制性；它非但不限制个人的理性和诸如教会、大学一类的社群对社会政治问"
+  },
+  {
+   "cn": "原因分析",
+   "en": "reason analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0666",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "确定造成事故发生的原因。"
+  },
+  {
+   "cn": "有理回应",
+   "en": "reasonable reply",
+   "source": "急救医学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "调度员对错打、骚扰等与急救服务无关的电话采取适当拒绝的回应措施。"
+  },
+  {
+   "cn": "科学推理",
+   "en": "scientific reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.076",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在科学实践中通过概括与抽象得出规律。"
+  },
+  {
+   "cn": "类比推理",
+   "en": "analogical reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "基于比较A与B两事物之间的共同点，推论出B也应具有A具有的某种属性。"
+  },
+  {
+   "cn": "可废止推理",
+   "en": "defeasible reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.629",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "当推理是合理地可信的，但却不是演绎地有效的时，此时的推理就是可废止的。一个好的可废止推理其前提的真为其结论提供了支持，即使有可能前提为真而结论为假。"
+  },
+  {
+   "cn": "合理限值",
+   "en": "reasonable limit",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.121",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "数据合理的上限或下限。"
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.137",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "由某类事物的部分对象具有某些特征，推出该类事物的全部对象都具有这些特征的推理，或者由个别事实概括出一般结论的推理。"
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "推理的一种特殊类型。是人们基于已有的伦理原则和道德知识，对必然或可能发生的事情做出道德判断和推理论证，得出正确道德结论的过程。"
+  },
+  {
+   "cn": "推理片",
+   "en": "reasoning film",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.030",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "在侦探片基础上发展起来的突出推理的影片类型。"
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件推理",
+   "en": "conditional reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵推理",
+   "en": "matrix reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前向推论",
+   "en": "forward reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合理价值",
+   "en": "reasonable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理利润",
+   "en": "reasonable profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不精确推理",
+   "en": "inexact reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定推理",
+   "en": "uncertain reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常识推理",
+   "en": "commonsense reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多主体推理",
+   "en": "multiagent reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二难推理",
+   "en": "dilemma reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反绎推理",
+   "en": "abductive reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非单调推理",
+   "en": "nonmonotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率推理",
+   "en": "probabilistic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近似推理",
+   "en": "approximate reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间推理",
+   "en": "spatial reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑推理",
+   "en": "logical reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "日常基本生活物资",
+   "en": "daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强关系",
+   "en": "strong ties",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "6级风",
+   "en": "strong breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "9级风",
+   "en": "strong gale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强侧",
+   "en": "strong side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肌理",
+   "en": "Reasoning and Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "瘦硬",
+   "en": "Thin and Strong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠理论",
+   "en": "strong reciprocity theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证书强认证",
+   "en": "strong authentication of digital certificates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字文化大国",
+   "en": "country with a strong digital culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边界控制强逻辑隔离",
+   "en": "strong logical isolation for boundary control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体分析推理技术",
+   "en": "cross-media analysis and reasoning technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解决好生活必需品供应的“最后一公里”问题",
+   "en": "to ensure the “last kilometer” delivery of daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兵强而无义者残",
+   "en": "A Strong Army Without Righteousness Is Destructive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "马克思主义",
+   "wordNumber": "01.0051",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“偶然性”相对的哲学范畴。由事物内部的根本矛盾决定的，客观事物联系和发展中不可避免的、确定不移的状态和趋势。它在事物发展过程中居于支配地位，决定着事物发展的前途和方向。"
+  },
+  {
+   "cn": "社会必然性",
+   "en": "social necessity",
+   "source": "马克思主义",
+   "wordNumber": "03.0153",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由特定社会形态、社会结构和具体的社会历史条件所决定的客观规律，它是一定社会条件下不以人的意志为转移的、必然会发生的事件或行为。社会必然性归根结底是由生产力的发展水平状况所决定的。如而因为社会化大生产和"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0099",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹思辨理性”。康德哲学批判考察的对象。按照康德观点，思辨理性构成科学知识的基础，是人类认识的先验性条件，它与“经验理性”相对照。同时，思辨理性也是沃尔弗（Christian Wolff）追随者"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0100",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹实践理性”，又称“实践之知”。与“思辨理性”相对。德国古典唯心主义哲学家康德用语，指纯粹理性的实践能力，即给人的行为规定先天道德准则的先验理性。"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "民粹主义理性",
+   "en": "populist reason",
+   "source": "马克思主义",
+   "wordNumber": "05.0090",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于拉克劳（Ernesto Laclau）《民粹主义理性》。描述了政治对抗中异质性因素是如何从特殊性上升为普遍性的，这种异质性因素受到拉康对象思想的启示，是实现霸权链接的主要因素和动力，是霸权建构的"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "围绕公共利益的决策和管理所应具有的公共性、民意性、正当性和合法性。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0623",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "最早出现在美国人类学家萨林斯的《文化与实践理性》一书中，指在生活者的世界中对其有意义的思维模式和行为习惯。萨林斯批判古典政治经济学中的英国式“上层建筑和经济基础”理论，及功能主义的功利论中过分强调的理"
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "爱丁堡学派代表人物布鲁尔(David Bloor）提出的科学知识社会学研究纲领。主张所有人类知识都是处于一定的社会建构过程中的信念，这些信念都是相对的、由社会因素决定的。科学知识的社会学研究应遵循四个"
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "通过压电或线圈等不同样式，发射出足以威慑或使人员失去行动能力，但对人员或环境不会造成长期危害的高强度声响的声波类武器。"
+  },
+  {
+   "cn": "日用饰品",
+   "en": "daily necessities and decorative clothing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们日常生活中既有装饰作用又具有实用价值的物品，包括各种佩刀、手杖、雨伞、背兜、挎包、手提袋、钱包、香包、荷包、手绢、折扇、烟袋、眼镜等。"
+  },
+  {
+   "cn": "原强",
+   "en": "essence of strong nation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过提倡“群学”这一修齐治平之学，来培养和提高民众素质，建立良好社会基础，以达到国家富强的主张与做法。是严复主张的民本原则的体现。严复在《原强》一文中，强调强国保种在于培植民众在体、智、德三方面的潜力"
+  },
+  {
+   "cn": "理性行为理论",
+   "en": "theory of reasoned action, TRA",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "分析态度如何有意识地影响个体行为的理论。"
+  },
+  {
+   "cn": "强声武器损伤",
+   "en": "injuries of strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由超130 分贝(最高超180 分贝)定向发射装置构成，属“非致命性武器”。借大功率声波发生器产生高能声脉冲或高频声波，作用于人群可致听觉损伤、内脏紊乱、神经应激甚至行为失能。"
+  },
+  {
+   "cn": "ALARA原则",
+   "en": "As low as reasonably achievable principle",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "全称“可合理达到的尽量低原则”。美国核管会在1960年代后期开始的核能与放射防护的争论中，于1975年12月正式提出该规则。1977年，ICRP第26号出版物提出了放射防护三原则，在防护最优化中包括了"
+  },
+  {
+   "cn": "医学原因妊娠终止",
+   "en": "termination of pregnancy due to medical reason",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "由于妊娠组织种植部位异常（异位妊娠）、胚胎或胎儿发育异常或有致死性畸形、或孕妇患有严重的产科并发症或内外科合并症，难以胜任完整的妊娠过程，可以在确诊的情形下由孕妇知情选择并同意提前终止妊娠。"
+  },
+  {
+   "cn": "有理有利有节",
+   "en": "with good reason to our advantage and with restraint",
+   "source": "马克思主义",
+   "wordNumber": "03.0436",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争时期，毛泽东在《目前抗日统一战线中的策略问题》中提出的中国共产党同国民党顽固派斗争的策略原则。“有理”指自卫的原则，“有利”指胜利的原则，“有节”指休战的原则。"
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "strategy for making China strong by training competent personnel",
+   "source": "马克思主义",
+   "wordNumber": "03.0684",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依靠人才兴邦，走人才强国之路，大力提升国家核心竞争力和综合国力，是人才强国战略的核心要义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

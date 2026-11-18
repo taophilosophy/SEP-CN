@@ -1,0 +1,112 @@
+{
+ "key": "referentialism",
+ "term": "referentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:55:43+00:00",
+ "status": "ok",
+ "note": "variant=referentialism; 审定公布名词库=8; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "指称论",
+   "en": "referential theory,referentialism,denotational theory",
+   "source": "语言学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "一种语义理论。认为词义就是所指的客观事物，词义对应的是现实世界中可感知的事物。代表人物有柏拉图（Plato）、罗素（Russell）等。"
+  },
+  {
+   "cn": "同指关系",
+   "en": "referentiality,co referential relation",
+   "source": "语言学名词",
+   "wordNumber": "05.128",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "指称同一对象的不同词之间的意义关系。指称同一对象的这些词可能同义，也可能异义。例如“老虎”“於菟”“百兽之王”都可指称虎。"
+  },
+  {
+   "cn": "指称透明性",
+   "en": "referential transparency",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.692",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "出现在词或句子中某位置的单独词项，可用同义词替换而不影响包含它的词或句子的真值，而在函数化编程中指函数的输出仅取决于输入的自变量。"
+  },
+  {
+   "cn": "参考导联",
+   "en": "referential derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.13",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由一个探测电极和一个参考电极组成的导联。如脑电图C4～M1导联。"
+  },
+  {
+   "cn": "参考电极",
+   "en": "referential electrode",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.148",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "置于生物电相对静止部位，理论上为零电位，为探测电极作参考的电极。包括乳突参考电极、耳垂参考电极和平均参考电极。理论上为没有任何脑电和其他生物电活动的零电位电极。在记录动作电位的一对电极中，一般为距离所"
+  },
+  {
+   "cn": "参照完整性",
+   "en": "referential integrity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0083",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对数据库中任一具有外键的关系，其元组中外键的值必须与外键对应的关系中的值一致。"
+  },
+  {
+   "cn": "指称仿造",
+   "en": "referential calque",
+   "source": "语言学名词",
+   "wordNumber": "06.091",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "双语词典的一种翻译方法。对于目标语中既无明确的指称对象又无现存的表达形式的源语语词，根据其指称内容或原文释义进行仿造翻译。例如“charlotte/水果奶油布丁”“custard/蛋奶甜羹”等。"
+  },
+  {
+   "cn": "指称意义",
+   "en": "referential meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "词的语音形式指称的客观对象和事物，表明词跟语言及外部世界的关系。"
+  },
+  {
+   "cn": "参照完整性",
+   "en": "referential integrity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参照完整性",
+   "en": "referential integrity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

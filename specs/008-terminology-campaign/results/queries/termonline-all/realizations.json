@@ -1,0 +1,432 @@
+{
+ "key": "realizations",
+ "term": "realizations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:30:35+00:00",
+ "status": "ok",
+ "note": "variant=realizations; 审定公布名词库=21; 海峡两岸名词对照库=22; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "实现",
+   "en": "realization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0236",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的不继承结构、只继承行为的一种特殊的泛化关系。多数是用来表达接口类和实现(接口的)类之间的关系。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "数学名词",
+   "wordNumber": "012.0478",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "自动化名词",
+   "wordNumber": "02.250",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "几何实现",
+   "en": "geometric realization",
+   "source": "数学名词",
+   "wordNumber": "08.0713",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "数学名词",
+   "wordNumber": "012.0477",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现理论",
+   "en": "realization theory",
+   "source": "数学名词",
+   "wordNumber": "012.0476",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "自动化名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "多重实现性",
+   "en": "multiple realizability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.500",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张一类心理状态（属性或事件）可被多种不同物理状态（属性或事件）所实现，即心灵可被多种不同类型的物理载体所实现的观点。"
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche ",
+   "source": "草学名词",
+   "wordNumber": "2.0261",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "动物学名词",
+   "wordNumber": "7.047",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在生物群落中，当有竞争者存在时，物种仅占据基础生态位的一部分，即实际占有的这部分生态位。"
+  },
+  {
+   "cn": "实现遗传力",
+   "en": "realized heritability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.383",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在一个表型选择试验中获得的累积选择反应与选择差的比值。"
+  },
+  {
+   "cn": "实现价差",
+   "en": "realized spread",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0213",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "衡量委托执行价格和委托执行后一段时间的买卖报价中点之间的差额。其反映委托执行后的市场影响成本。"
+  },
+  {
+   "cn": "实现遗传率",
+   "en": "realized heritability",
+   "source": "遗传学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在一个群体中实施表型选择时获得的实际选择反应与选择差的比率。"
+  },
+  {
+   "cn": "过程的实现",
+   "en": "realization of process",
+   "source": "数学名词",
+   "wordNumber": "09.0193",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.388",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "分别在两个群体中对两个不同的性状实施表型选择，根据获得的实际直接选择反应和间接选择反应所计算的性状间的相关。"
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在正常生产经营过程中，以资产预计售价减去进一步加工成本和预计销售费用以及相关税费后的净值。"
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "分别在两个群体中对两种数量性状实施表型选择，根据所获得的实际直接选择反应和间接选择反应计算出性状间的相关。"
+  },
+  {
+   "cn": "自我实现人假设",
+   "en": "self-realization person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0170",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人都需要发挥自己的潜力，表现自己的才能；只有人的潜力充分发挥出来，人的才能充分表现出来，人才会感到最大的满足。"
+  },
+  {
+   "cn": "温标的实现",
+   "en": "realization of temperature scale",
+   "source": "计量学名词",
+   "wordNumber": "09.011",
+   "subjectFullName": "计量学_温度_温度和温标",
+   "subjectName": "温度和温标",
+   "publishYear": "2015",
+   "definition": "按温标定义为获得温标而进行的一组操作。"
+  },
+  {
+   "cn": "已实现收益率",
+   "en": "realized yield,horizon yield",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0337",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "债券从购买到提前赎回或债券到期所发生的实际利息率。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可变现价值",
+   "en": "realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可变现资产",
+   "en": "realizable asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可实现的收入",
+   "en": "realizable income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现价格，实际价格",
+   "en": "realized price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现利润",
+   "en": "realized profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现收益",
+   "en": "realized income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现投资",
+   "en": "realized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传率,实现遗传力",
+   "en": "realized heritability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "实际出生率",
+   "en": "realized natality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "现实生态位",
+   "en": "realized niche",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生态死亡率,实际死亡率",
+   "en": "ecological mortality\",\"realized mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态出生率,实际出生率",
+   "en": "ecological natality\",\"realized natality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多副本一致性管理规则",
+   "en": "management rule for consistency of replications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有制实现形式",
+   "en": "realization form of public ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0415",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全民所有制和集体所有制通过公有制以控股的形式建立股份制企业来实现自身的一种方式，是我国公有制企业的一种所有制形式和经营形式的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

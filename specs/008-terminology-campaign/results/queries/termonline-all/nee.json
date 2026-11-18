@@ -1,0 +1,412 @@
+{
+ "key": "nee",
+ "term": "née",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:26:44+00:00",
+ "status": "ok",
+ "note": "variant=née; 审定公布名词库=56; 海峡两岸名词对照库=16; 其他来源数据库=2; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "神经毒性酯酶",
+   "en": "neurotoxic esterase,NTE",
+   "source": "昆虫学名词",
+   "wordNumber": "09.106",
+   "subjectFullName": "昆虫学_昆虫毒理与药理",
+   "subjectName": "昆虫毒理与药理",
+   "publishYear": "2000",
+   "definition": "一种有选择性的与具有迟发性神经毒性的有机磷酸酯[如三邻甲苯基磷酸酯(TOCP)]能结合的蛋白质，其酯酶活性能水解戊酸苯酯。"
+  },
+  {
+   "cn": "饲料无氮浸出物",
+   "en": "nitrogen-free extract,NFE",
+   "source": "畜牧学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "畜牧学_饲料与营养_饲料营养价值评定",
+   "subjectName": "饲料营养价值评定",
+   "publishYear": "2020",
+   "definition": "饲料中多糖、双糖、单糖等物质的总称。饲料常规分析中，通常由干物质总量减去粗蛋白质、粗脂肪、粗纤维和粗灰分后所得。即无氮浸出物(%)=100%–(水分+灰分+粗蛋白质+粗脂肪+粗纤维)%"
+  },
+  {
+   "cn": "新生儿红斑狼疮",
+   "en": "neonatal lupus erythematosus,NLE",
+   "source": "病理学名词",
+   "wordNumber": "02.536",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "发生于新生儿的系统性红斑狼疮。患儿母亲也有系统性红斑狼疮病史，可能为母亲体内的抗Ro/SSA或La/SSB抗体通过胎盘传输到胎儿体内而致病。"
+  },
+  {
+   "cn": "净排酸",
+   "en": "net acid excretion,NAE",
+   "source": "生理学名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净排酸量",
+   "en": "net acid excretion,NAE",
+   "source": "生理学名词",
+   "wordNumber": "08.138",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非热动平衡",
+   "en": "non-thermodynamic equilibrium,NTE",
+   "source": "物理学名词",
+   "wordNumber": "05.0350",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统净交换",
+   "en": "net ecosystem exchange,NEE",
+   "source": "植物学名词",
+   "wordNumber": "13.0475",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统吸收与释放二氧化碳的差值。"
+  },
+  {
+   "cn": "养分利用效率",
+   "en": "nutrient use efficiency,NUE",
+   "source": "植物学名词",
+   "wordNumber": "13.0487",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "植物吸收单位养分所能产生的干物质量。"
+  },
+  {
+   "cn": "核欧沃豪斯效应",
+   "en": "nuclear Overhauser effect,NOE",
+   "source": "生物物理学名词",
+   "wordNumber": "02.436",
+   "subjectFullName": "生物物理学_分子与结构生物学_核磁共振结构分析",
+   "subjectName": "核磁共振结构分析",
+   "publishYear": "2018",
+   "definition": "原子核自旋的极化通过交叉弛豫由一群核自旋向另一群核自旋转移的现象。在核磁共振波谱技术中用于表征和优化待测分子的化学结构。不同于一般的自旋–自旋耦合，只有当原子与原子之间接近到仅2~3个化学键的情况下才"
+  },
+  {
+   "cn": "神经元特异性烯醇化酶",
+   "en": "neuron specific enolase,NSE",
+   "source": "核医学名词",
+   "wordNumber": "04.0336",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "存在于神经组织和神经内分泌组织中参与糖酵解途径的烯醇化酶的异构体。酶类肿瘤标志物之一。见于神经母细胞瘤、小细胞肺癌和其他神经内分泌肿瘤。"
+  },
+  {
+   "cn": "核欧沃豪斯效应",
+   "en": "nuclear Overhauser effect,NOE",
+   "source": "化学名词",
+   "wordNumber": "03.2268",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "由于磁性核之间的弛豫作用，当一个核的信号被饱和时，另一个与其有交叉弛豫作用的磁性核的信号强度增强或减弱的现象。"
+  },
+  {
+   "cn": "氮利用效率",
+   "en": "nitrogen use efficiency,NUE",
+   "source": "生态学名词",
+   "wordNumber": "02.272",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "光合作用或生长相对于叶含氮量或植物含氮量的一种测度。"
+  },
+  {
+   "cn": "生态系统净交换",
+   "en": "net ecosystem exchange,NEE",
+   "source": "生态学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "生态系统吸收与释放的二氧化碳的差值。"
+  },
+  {
+   "cn": "养分利用效率",
+   "en": "nutrient-use efficiency,NUE",
+   "source": "生态学名词",
+   "wordNumber": "15.091",
+   "subjectFullName": "生态学_农业生态学",
+   "subjectName": "农业生态学",
+   "publishYear": "2006",
+   "definition": "投入养分转化为有效农产品的效率。"
+  },
+  {
+   "cn": "噪声等效曝光量",
+   "en": "noise equivalent exposure,NEE",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.416",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "无氮浸出物",
+   "en": "nitrogen free extract,NFE",
+   "source": "水产名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "饲料有机物中除去脂肪和粗纤维的无氮物质。"
+  },
+  {
+   "cn": "无氮浸出物",
+   "en": "nitrogen free extract,NFE",
+   "source": "水产名词",
+   "wordNumber": "12.021",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "饲料有机物中除去脂肪和粗纤维的无氮物质。"
+  },
+  {
+   "cn": "无损检测",
+   "en": "nondestructive testing,NDT,nondestructive evaluating,NDE",
+   "source": "电力名词",
+   "wordNumber": "12.552",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在不损伤构件性能和完整性的前提下,检测构件金属的某些物理性能和组织状态,以及查明构件金属表面和内部各种缺陷的技术。"
+  },
+  {
+   "cn": "净能",
+   "en": "net energy,NE",
+   "source": "畜牧学名词",
+   "wordNumber": "07.188",
+   "subjectFullName": "畜牧学_饲料与营养_饲料营养价值评定",
+   "subjectName": "饲料营养价值评定",
+   "publishYear": "2020",
+   "definition": "从饲料的代谢能减去热增耗后的能值。"
+  },
+  {
+   "cn": "净能",
+   "en": "net energy,NE",
+   "source": "水产名词",
+   "wordNumber": "06.088",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "由代谢能减去摄食后体增热的剩余能量。"
+  },
+  {
+   "cn": "奈尔温度",
+   "en": "Néel temperature",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "神经毒性酯酶",
+   "en": "neurotoxic esterase\",\"NTE",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统净交换",
+   "en": "net ecosystem exchange\",\"NEE",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "养分利用效率",
+   "en": "nutrient use efficiency\",\"NUE",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非热动平衡",
+   "en": "non-thermodynamic equilibrium\",\"NTE",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "核欧沃豪斯效应",
+   "en": "nuclear Overhauser effect\",\"NOE",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "养分利用效率",
+   "en": "nutrient-use efficiency\",\"NUE",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统净交换",
+   "en": "net ecosystem exchange\",\"NEE",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氮利用效率",
+   "en": "nitrogen use efficiency\",\"NUE",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "核奥弗豪泽效应",
+   "en": "nuclear Overhauser effect\",\"NOE",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "负调控元件",
+   "en": "negative regulatory element\",\"NRE",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "仙女之吻",
+   "en": "Baiser de la fée\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "网[络单]元",
+   "en": "network element\",\"NE",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现存最近对应种（=现存最近相似种）",
+   "en": "nearest living equivalent species\",\"NLE species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现存最近相似种，现存最近对应种",
+   "en": "nearest living equivalent species\",\"NLE species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "去甲肾上腺素",
+   "en": "noradrenaline\",\"NA\",\"norepinephrine\",\"NE",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "寝技",
+   "en": "groundwork\",\"ne-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖倒进入寝技",
+   "en": "pull down into ne-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新生儿红斑狼疮",
+   "en": "neonatal lupus erythematosus, NLE",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "由于母体抗SSA（Ro）、抗SSB（La）IgG抗体经胎盘转运给新生儿所致的新生儿疾病，最常见的表现是类似SCLE的无疤痕、非萎缩性皮损，通常为良性和自限性，于6个月内消失。"
+  },
+  {
+   "cn": "人数分布比",
+   "en": "individual distribution ratio，NRE",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "在外照射个人监测中，年有效剂量超过E的工作人员数与受监测人员总数的比值。其中E可取1 mSv、5 mSv、10 mSv、15mSv。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

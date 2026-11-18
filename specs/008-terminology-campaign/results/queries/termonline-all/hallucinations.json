@@ -1,0 +1,252 @@
+{
+ "key": "hallucinations",
+ "term": "hallucinations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:43:58+00:00",
+ "status": "ok",
+ "note": "variant=hallucinations; 审定公布名词库=79; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "急救医学名词",
+   "wordNumber": "03.968",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "在客观现实中并不存在某种事物的情况下，患者却感知其存在的一种虚幻的知觉。就幻觉的性质，可分为真性幻觉和假性幻觉。临床上一般按照不同的感觉器官进行分类，常见的有听幻觉、视幻觉、嗅幻觉、味幻觉和触幻觉等。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.511",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在没有现实刺激作用于感觉器官时出现的虚幻的知觉体验。可以发生在任何一种感觉形态中。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.186",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "在没有现实刺激作用于感觉器官时出现的虚幻的知觉体验。按其不同感觉器官可分为幻听、幻视、幻嗅、幻味和幻触等；按其性质可分为真性幻觉和假性幻觉等。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.031",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "在没有现实刺激作用于感觉器官时出现的虚幻的知觉体验。按其不同感觉器官可分为幻听、幻视、幻嗅、幻味和幻触等；按其性质可分为真性幻觉和假性幻觉等。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "无相应现实刺激作用于感觉器官时出现的知觉体验。可分为幻听、幻视、幻嗅、幻味、幻触和本体幻觉。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "老年医学名词",
+   "wordNumber": "04.472",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "在客观现实中并不存在某种事物的情况下，患者却感知它存在的一种虚幻的知觉。就幻觉的性质，可分为真性幻觉和假性幻觉。临床上一般按照不同的感觉器官进行分类，常见的有听幻觉、视幻觉、嗅幻觉、味幻觉和触幻觉等。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "心理学名词",
+   "wordNumber": "10.128",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "在没有现实刺激作用于感觉器官时出现的虚幻的知觉体验。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.032",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "幻触",
+   "en": "tactile hallucination,haptic hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.044",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "感到皮肤或黏膜上有某种异常感觉的幻觉。如受检者感觉有物体接触其皮肤，但实际上没有。"
+  },
+  {
+   "cn": "真性幻觉",
+   "en": "genuine hallucination",
+   "source": "急救医学名词",
+   "wordNumber": "03.969",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "患者所感知的幻觉形象与真实的事物完全相同，幻觉位于外在空间，而且是直接通过本人的感官获得的情况。"
+  },
+  {
+   "cn": "假性幻觉",
+   "en": "pseudo hallucination",
+   "source": "急救医学名词",
+   "wordNumber": "03.970",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "患者所感知的幻觉形象与真实的事物相比，不够鲜明和生动，幻觉位于患者的主观空间内（脑内），而且不是通过患者的感官获得的情况。"
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.36",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "没有声音刺激时出现对声音的知觉体验。受试者认为听到声音但实际上没有发声的一种病理状态。"
+  },
+  {
+   "cn": "入睡幻觉",
+   "en": "hypnagogic hallucination",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.035",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "患者从觉醒向睡眠转换时出现的生动的且常是不愉快的感觉性体验。这些幻觉极为生动，有时区分梦境和现实状态十分困难。通常持续时间短暂，偶有延长。"
+  },
+  {
+   "cn": "幻嗅",
+   "en": "olfactory hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.242",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "在没有气味刺激时“感知”到虚幻气味的病理状态。"
+  },
+  {
+   "cn": "幻味",
+   "en": "gustatory hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.248",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "没有相应味觉刺激时“感受”到某种异常或特殊味道的病理状态。"
+  },
+  {
+   "cn": "幻视",
+   "en": "visual hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.26",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "没有视觉刺激时出现视觉形象的病理状态。这种视觉形象既可外在，也可位于受检者头脑中。外在时它叠加在真实的视野上，与梦境有区别。"
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.262",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "没有声音刺激时出现对声音的知觉体验。受检者认为听到声音但实际上没有发声的一种病理状态。"
+  },
+  {
+   "cn": "幻触",
+   "en": "haptic hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.265",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "感到皮肤或黏膜上有某种异常感觉的幻觉。"
+  },
+  {
+   "cn": "功能性幻觉",
+   "en": "functional hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.279",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "幻觉（通常是幻听）和现实刺激同时出现、共同存在而又共同消失，但二者并不融合在一起的一种病理状态。"
+  },
+  {
+   "cn": "催眠相幻觉",
+   "en": "hypnotic hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.28",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "深度催眠状态下，受试者与外界暂时隔离，因单调的环境中大脑功能活动减弱，在施术者暗示诱导下出现的幻觉。"
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视幻觉",
+   "en": "visual hallucination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "幻觉",
+   "en": "hallucination",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.1.6",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "没有现实刺激作用于感觉器官时产生的虚幻的知觉体验，常见的有幻视、幻听、幻嗅等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

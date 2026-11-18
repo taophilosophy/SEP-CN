@@ -1,0 +1,702 @@
+{
+ "key": "machine code operations",
+ "term": "machine code operations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:25+00:00",
+ "status": "ok",
+ "note": "variant=machine code operations; 审定公布名词库=7569; 海峡两岸名词对照库=2545; 其他来源数据库=263; 预公布名词数据库=219; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "操作码",
+   "en": "operation code",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0251",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "指令的主要组成部分之一。它指出该指令需要执行的操作。"
+  },
+  {
+   "cn": "机械运转",
+   "en": "machine operation",
+   "source": "公路交通科技名词",
+   "wordNumber": "07.318",
+   "subjectFullName": "公路交通科学技术_筑路机械及运用管理",
+   "subjectName": "筑路机械及运用管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机编码",
+   "en": "Turing machine codes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "对图灵机的动作函数进行0-1编码，一个动作函数对应的编码，称为一个编码段；把一个图灵机的全部动作函数对应的编码段连接起来（加上段分隔符）形成一个0-1串，就称为该图灵机的编码。"
+  },
+  {
+   "cn": "水下作业机械",
+   "en": "underwater operating machine",
+   "source": "船舶工程名词",
+   "wordNumber": "09.169",
+   "subjectFullName": "船舶工程_专用船特有设备_潜水器及水下工作装置",
+   "subjectName": "潜水器及水下工作装置",
+   "publishYear": "1998",
+   "definition": "能在水下环境作业的各种机械设备的统称。"
+  },
+  {
+   "cn": "人–机作业分析",
+   "en": "man-machine operation analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0998",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "在机械化作业中，用来分析人–机过程中操作者手动操作和设备机动操作之间的相互配合关系的分析方法。"
+  },
+  {
+   "cn": "机械装卸作业量",
+   "en": "machine handling operation volume",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.319",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "阳极机械加工机",
+   "en": "anode mechanical operating machine",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.439",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_特种加工机床",
+   "subjectName": "特种加工机床",
+   "publishYear": "2021",
+   "definition": "利用电化学、电火花和机械力的复合作用，加工金属材料的特种加工机床。"
+  },
+  {
+   "cn": "机械运转记录",
+   "en": "operating record of machine",
+   "source": "公路交通科技名词",
+   "wordNumber": "07.352",
+   "subjectFullName": "公路交通科学技术_筑路机械及运用管理",
+   "subjectName": "筑路机械及运用管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "机械装卸作业比重",
+   "en": "share of machine handling operation",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.320",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "养路工",
+   "en": "trackman,machine operator,track mechanics",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0006",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "蒸汽型吸收式制冷机",
+   "en": "steam-operated absorption refrigerating machine",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0099",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷机",
+   "subjectName": "制冷机",
+   "publishYear": "2013",
+   "definition": "以蒸汽为热源的吸收式制冷机。"
+  },
+  {
+   "cn": "符码",
+   "en": "code",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.056",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "在传播或沟通过程中，能将字母、单词、声音、图像等转换成信息的规则系统。如将口语转换成视觉的符号。"
+  },
+  {
+   "cn": "编码",
+   "en": "code",
+   "source": "行为医学名词",
+   "wordNumber": "2.094",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "将获取的信息从一种形式或格式转换为另一种形式或格式的过程。能使信息被更有效地加工和传递。"
+  },
+  {
+   "cn": "[代]码",
+   "en": "code",
+   "source": "物理学名词",
+   "wordNumber": "04.1522",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "代码",
+   "en": "code",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0270",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "易于被计算机识别与处理的，用来代表事物名称、属性、状态等的符号和记号。"
+  },
+  {
+   "cn": "代码",
+   "en": "code",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "程序员用开发工具所支持的语言写出来的源文件。"
+  },
+  {
+   "cn": "代码",
+   "en": "code",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.434",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "一组由字符、符号或信号码元以离散形式表示信息的明确的规则体系。"
+  },
+  {
+   "cn": "[代]码",
+   "en": "code",
+   "source": "电气工程名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "电码",
+   "en": "code",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0688",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[代]码",
+   "en": "code",
+   "source": "数学名词",
+   "wordNumber": "012.0137",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "机器码",
+   "en": "machine code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作码",
+   "en": "operation code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作代码",
+   "en": "operation codes",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绝对机器代码",
+   "en": "absolute machine code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可重定位机器代码",
+   "en": "relocatable machine code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动编码机",
+   "en": "automatic code machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水下作业机械",
+   "en": "underwater operating machine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自动莫尔斯电码操作",
+   "en": "automatic Morse code operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独立于机器的操作系统",
+   "en": "machine-independent operating system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密码",
+   "en": "code",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代码",
+   "en": "code",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[代]码",
+   "en": "code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "code",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "法规",
+   "en": "code",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "码",
+   "en": "code",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "密码",
+   "en": "code",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "机械加工",
+   "en": "machining",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶机",
+   "en": "throwing machine\",\"trap machine",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二维码",
+   "en": "QR code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代码政治",
+   "en": "code politics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恶意代码",
+   "en": "malicious code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民法典",
+   "en": "civil code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代码负载",
+   "en": "code load",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赛道规则",
+   "en": "track code",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "赋予一个问题及其答案一个数字作为代码的研究行动。"
+  },
+  {
+   "cn": "语码混合",
+   "en": "code-mixing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个语句含有两种或多种语码的现象。"
+  },
+  {
+   "cn": "语码",
+   "en": "linguistic code",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0108",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "可以指任何语言项目及其变异形式。"
+  },
+  {
+   "cn": "语码转换",
+   "en": "code-switching",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0109",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "双语或多语环境下说话双方变换使用两种或两种以上语言、方言或语体进行交谈的现象。包括句内语码转换（intrasentential code switching）和句际语码转换（intersententi"
+  },
+  {
+   "cn": "《喀尔喀法典》",
+   "en": "Qalqa Code",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0284",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文历史文献，原名《喀尔喀·吉鲁姆》，是喀尔喀蒙古法令汇编。内容包括康熙四十八年（1709）至乾隆三十年（1765）间的喀尔喀蒙古诸法令、判例及释条。"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "某些社会群体、行业集团或秘密组织出于隐蔽行为的特需而约定的秘密交际语。它的使用者不是黑话流行的黑社会，而是违法犯罪团伙之外的各种群体。"
+  },
+  {
+   "cn": "道德规范",
+   "en": "moral code",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.021",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在生活和工作中应当遵循的道德要求。不同时代、不同领域、不同社会制度的道德规范不完全相同。"
+  },
+  {
+   "cn": "消毒机",
+   "en": "disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用物理、化学或其他因子杀灭或去除微生物的有动力消毒装置，如水消毒机、空气消毒机、医疗器械清洗消毒机、内镜清洗消毒机等。"
+  },
+  {
+   "cn": "增长机器理论",
+   "en": "growth machine",
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "将经济增长作为城市发展的主要目标的理论。由罗根(John Logan）和莫洛敕(Harvey Molotch）提出，增长机器由金融资本家、工商业主、房地产商、政客以及投资者所组成的“城市增长联盟”推动"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "《蒙古-卫拉特法典》",
+   "en": "Mongolian oirad code",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0605",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "历史法典名称。1640 年制定，用回鹘体蒙文书写。内容包括僧侶和宗教、驿传运输及赋役、民族生活及婚姻等规定。主要目的在于调整蒙古族卫拉特各部间和与喀尔喀的关系，保证对外战争中相互支援，统一部署。"
+  },
+  {
+   "cn": "伦理守则",
+   "en": "code of ethic",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "明确制定出来以规范群体成员相关行为的准则。在社会工作领域，职业相关团体组织定期发布该类守则，如中国民政部发布的《社会工作者职业道德规范》。"
+  },
+  {
+   "cn": "食品追溯码",
+   "en": "food traceability code",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.53",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "记录食品原材料、生产加工工艺、流通、产品特征等的可追溯性的信息，实现有效的信息验证，为消费者提供线上查询。"
+  },
+  {
+   "cn": "人机系统",
+   "en": "man-machine system",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "军事作业过程中，人和军事装备（包括设备和工具）组成一个统一的整体，共同完成作业任务。"
+  },
+  {
+   "cn": "水消毒机",
+   "en": "water disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于杀灭生活饮用水、游泳池水、医院污水消毒，使其达到消毒要求的消毒装置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

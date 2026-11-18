@@ -1,0 +1,412 @@
+{
+ "key": "epokhe",
+ "term": "epokhé",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:24:57+00:00",
+ "status": "ok",
+ "note": "variant=epokhé; 审定公布名词库=81; 海峡两岸名词对照库=35; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "世",
+   "en": "epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.01.068",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "国际地质年代表中的第四级地质年代单位。是 “纪”的再划分，相当于形成地层一个“统”(四级年代地层单位)的时间。一般一个纪分为2个或3个世。个别纪分为4个世。"
+  },
+  {
+   "cn": "历元",
+   "en": "epoch",
+   "source": "天文学名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "作为时间参考标准的一个特定瞬时。"
+  },
+  {
+   "cn": "帧",
+   "en": "epoch",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.176",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "多导睡眠监测中判读睡眠分期和相关事件时在计算机屏幕上所显示的时间窗长度。睡眠分期以30秒为一帧。"
+  },
+  {
+   "cn": "历元",
+   "en": "epoch",
+   "source": "物理学名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "历元",
+   "en": "epoch",
+   "source": "计量学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "计量学_时间、频率_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "一个世纪的起始点。也指一个计时系统的起始时刻。"
+  },
+  {
+   "cn": "世",
+   "en": "Epoch",
+   "source": "大气科学名词",
+   "wordNumber": "07.263",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "正规的地质年代单位，比一个地质“期”(Age)长，比一个地质“纪”(Period)短，在“世”期间，相应统(Series)的岩石已经形成。"
+  },
+  {
+   "cn": "世",
+   "en": "epoch",
+   "source": "地质学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "成矿时代",
+   "en": "metallogenetic epoch",
+   "source": "地质学名词",
+   "wordNumber": "14.02.039",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "在地球发展历史中形成某种特定矿产或矿产组合的地质时期。内生矿床的成矿时代一般以地史上重要的构造事件为划分依据；外生矿床的成矿时代因其与地层关系密切，一般按地质年代划分。"
+  },
+  {
+   "cn": "成矿期",
+   "en": "mineralization epoch",
+   "source": "地质学名词",
+   "wordNumber": "14.02.040",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "发生矿化作用的一个较长的地质成矿时期。同一矿床中，不同成矿期形成的围岩蚀变、矿物组合、伴生组分、矿石结构构造，甚至矿体形态、产状都可存在明显差别。一个成矿期内，常包含若干个成矿阶段。"
+  },
+  {
+   "cn": "纽芬兰世",
+   "en": "Terreneuvian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.041",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "寒武纪的第一个世。距今538.8~521Ma，其间形成的地层称纽芬兰统。从早到晚分为幸运期和第二期(暂名)。"
+  },
+  {
+   "cn": "苗岭世",
+   "en": "Miaolingian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.043",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "寒武纪的第三个世。距今509~497Ma，其间形成的地层称苗岭统。从早到晚分为乌溜期、鼓山期和古丈期。"
+  },
+  {
+   "cn": "芙蓉世",
+   "en": "Furongian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.044",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "寒武纪的第四个世。距今497~485.4Ma，其间形成的地层称芙蓉统。从早到晚分为排碧期、江山期和第十期(暂名)。"
+  },
+  {
+   "cn": "兰多维列世",
+   "en": "Llandorerian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.048",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "志留纪的第一个世。距今443.8~433.4Ma，其间形成的地层称兰多维列统。从早到晚分为鲁丹期、埃隆期和特列奇期。"
+  },
+  {
+   "cn": "温洛克世",
+   "en": "Wenlockian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.049",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "志留纪的第二个世。距今433.4~427.4Ma，其间形成的地层称温洛克统。从早到晚分为申伍德期和侯墨期。"
+  },
+  {
+   "cn": "罗德洛世",
+   "en": "Ludlow Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.050",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "志留纪的第三个世。距今427.4~423Ma，其间形成的地层称罗德洛统。从早到晚分为高斯特期和卢德福特期。"
+  },
+  {
+   "cn": "普里道利世",
+   "en": "Pridolian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.051",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "志留纪的第四个世。距今423~419.2Ma，其间形成的地层称普里道利统。"
+  },
+  {
+   "cn": "乌拉尔世",
+   "en": "Cisuralian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.063",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "二叠纪的第一个世。距今298.9~273.01Ma，其间形成的地层称乌拉尔统。从早到晚划分为阿瑟尔期、萨克马尔期、亚丁斯克期和空谷期。"
+  },
+  {
+   "cn": "瓜德鲁普世",
+   "en": "Guadalupian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.064",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "二叠纪的第二个世。距今273.01~259.51Ma，其间形成的地层称瓜德鲁普统。从早到晚划分为罗德期、沃德期和卡匹敦期。"
+  },
+  {
+   "cn": "乐平世",
+   "en": "Lopingian Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.065",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "二叠纪的第三个世。距今259.51~251.902Ma，其间形成的地层称乐平统。从早到晚划分为吴家坪期和长兴期。"
+  },
+  {
+   "cn": "古新世",
+   "en": "Paleocene Epoch",
+   "source": "地质学名词",
+   "wordNumber": "07.03.082",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "古近纪的第一个世。距今66~56Ma，其间形成的地层称古新统。从早到晚分为丹麦期、塞兰特期和坦尼特期。"
+  },
+  {
+   "cn": "期",
+   "en": "epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世",
+   "en": "epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "历元",
+   "en": "epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世",
+   "en": "Epoch",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历元",
+   "en": "epoch",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "古新世",
+   "en": "Paleocene Epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐新世",
+   "en": "Oligocene Epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上新世",
+   "en": "Pliocene Epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "始新世",
+   "en": "Eocene Epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中新世",
+   "en": "Miocene Epoch",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准历元",
+   "en": "standard epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复合期",
+   "en": "recombination epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均历元",
+   "en": "mean epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "儒略历元",
+   "en": "Julian epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "退耦期",
+   "en": "decoupling epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吻切历元",
+   "en": "osculating epoch",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "上新世",
+   "en": "Pliocene Epoch",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全新世",
+   "en": "Holocene Epoch",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "始新世",
+   "en": "Eocene Epoch",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "更新世",
+   "en": "Pleistocene Epoch",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

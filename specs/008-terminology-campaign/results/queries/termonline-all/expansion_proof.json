@@ -1,0 +1,772 @@
+{
+ "key": "expansion proof",
+ "term": "expansion proof",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:25:58+00:00",
+ "status": "ok",
+ "note": "variant=expansion proof; 审定公布名词库=1163; 海峡两岸名词对照库=253; 其他来源数据库=29; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据已知为真的判断，来确定另一判断真实性的思维过程。广义上包括实践检验。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.247",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "将已经初步编辑完成的稿件和版面打印出来准备校对的样张。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.009",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "根据发排稿排版后印出的供校对使用的样张。"
+  },
+  {
+   "cn": "证[明]",
+   "en": "proof",
+   "source": "数学名词",
+   "wordNumber": "01.0024",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.136",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "在信息载体上，呈现仿真印刷效果的影像，或制作出具有仿真影像的印张。"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "测绘学名词",
+   "wordNumber": "04.355",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在正式印刷前，预先复制样图的过程。"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "扩展",
+   "en": "expansion",
+   "source": "语言学名词",
+   "wordNumber": "04.261",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语法分析术语。指某语法形式由简单变为复杂。如“白马”到“白的马”，“看小说”到“看侦探小说”，“学英语”到“学会英语”，在语法上都叫扩展。"
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1307",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "使空心坯料或管状坯料的端部径向尺寸向外扩大的成形方法。"
+  },
+  {
+   "cn": "扩充",
+   "en": "expansion",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.256",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "把已压缩信号恢复成原状的操作。"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.296",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "数学名词",
+   "wordNumber": "02.0084",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀率",
+   "en": "expansivity",
+   "source": "物理学名词",
+   "wordNumber": "05.0092",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint,expansion piece,expansion pipe",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0451",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_管道系统和附件",
+   "subjectName": "管道系统和附件",
+   "publishYear": "2013",
+   "definition": "在烟、风管道和风粉管道(或设备)中，能补偿两固定端之间的冷/热胀差并使接点自由移动的装置。"
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint,expansion piece",
+   "source": "电力名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在管道(烟、风管道)中间设置的、能补偿管道长度方向上的热胀冷缩量并保持管道密封性的连接件。"
+  },
+  {
+   "cn": "膨胀水箱",
+   "en": "expansion tank,expansion drum",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1030",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "直接证明",
+   "en": "direct proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑证明的一种方法。依照推理规则直接从论据的真实性推出论题真实性的一种论证。"
+  },
+  {
+   "cn": "间接证明",
+   "en": "indirect proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种与“直接证明”相对的逻辑证明方法。常用的是反证，通过否定一个命题会导致与其他先前已被肯定的命题发生矛盾，从而确立这个命题成立。"
+  },
+  {
+   "cn": "小样",
+   "en": "galley proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "稿件正文和标题录入后打印出的样张。"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "防爆",
+   "en": "explosion proof",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗腐蚀",
+   "en": "corrosion proof",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "打样图",
+   "en": "proof plot",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "彩色校样",
+   "en": "color proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分色样张",
+   "en": "progressive proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "开印样",
+   "en": "press proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "样张",
+   "en": "proof copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "构造性证明",
+   "en": "constructive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式证明",
+   "en": "interactive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正确性证明",
+   "en": "correctness proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明策略",
+   "en": "proof strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明树",
+   "en": "proof tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识证明",
+   "en": "knowledge proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终止性证明",
+   "en": "termination proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防风雨的",
+   "en": "weather-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防水的",
+   "en": "water-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防洪法",
+   "en": "flood proofing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人行程证明",
+   "en": "proof of travel; travel records ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据爆炸",
+   "en": "data explosion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "死亡证明",
+   "en": "death proof",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "基于临床诊断开具的包括死亡时间、地点和原因等在内的具有法律效力的文书。"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "营舍防潮",
+   "en": "barrack damp proof",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.2.3.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使营舍内的空气湿度、渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度，通过建筑结构或人工措施，以各种物理、化学方法进行通风、排水等的操作。"
+  },
+  {
+   "cn": "坑道防潮",
+   "en": "tunnel moisture proofing",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种物理、化学方法或通风、排水等工程技术手段，使坑道中空气湿度、坑道内的渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "大气层核爆炸",
+   "en": "atmospheric nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以上的核爆炸。包括地（水）面核爆炸和爆炸高度在海拔30km以下的空中核爆炸。有利于对核爆炸产生的力学、光学、核辐射、电磁脉冲和放射性沾染等效应进行观测和研究，为核防护和核武器使用提供数据。"
+  },
+  {
+   "cn": "地下核爆炸",
+   "en": "underground nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以下一定深度的核爆炸。按比深不同可分为浅层地下核爆炸和封闭式地下核爆炸。"
+  },
+  {
+   "cn": "水下核爆炸",
+   "en": "underwater nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器在水面以下的爆炸。用于破坏水下、水面舰艇和水中设施。爆炸会造成局部水域严重放射性污染。水下核爆炸火球比空爆小，爆心附近水域被火球照亮，形成明亮发光区；爆心上面的水被掀起可形成不同高度的中空水柱，"
+  },
+  {
+   "cn": "核爆炸装置",
+   "en": "nuclear explosion device",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "具有核爆炸功能的裂变装置或聚变装置，是原子弹或氢弹的核心组成部分。核装置用于各种目的的核试验时，可以只是一种物理装置，而不是武器。按照核武器作战使用目的而设计制造的核装置，加上引爆控制系统和相应的结构"
+  },
+  {
+   "cn": "核爆炸方式",
+   "en": "types of nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器或核装置在不同介质、不同高度爆炸的类型。分为高空核爆炸、大气层核爆炸、地下核爆炸和水下核爆炸四类。"
+  },
+  {
+   "cn": "高空核爆炸",
+   "en": "high-altitude nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "高度在海拔30km以上的核爆炸。包括外层空间核爆炸。爆心海拔80km以下的高空核爆炸与空中核爆炸特征相似；爆心距地面60km～80km处，可能形成厚度10 km～15km的饼状火球。80km以上高空核"
+  },
+  {
+   "cn": "宫内节育器脱落",
+   "en": "expulsion of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器置入宫腔后，逐渐移位到宫颈管或宫颈外口的（部分脱落），或移位到阴道或体外（完全脱落）的现象。根据脱落程度会引起出血、腹痛，带器妊娠或意外妊娠。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury from nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "核武器爆炸时人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。核爆炸光辐射、冲击波、早期核辐射和放射性沾染可同时对人体造成烧伤、冲击伤和放射性损伤等多种损伤。"
+  },
+  {
+   "cn": "和平利用地下核爆炸条约",
+   "en": "Peaceful Nuclear Explosion Treaty，PNET",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1974年《限制地下核武器试验条约》规定在缔约国管辖的任何地方禁止进行超过150kt的地下核试验。为了区分试验的目的，1974年10月美、苏开始《和平利用地下核爆炸条约》的谈判，1976年5月签署了该"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸时人员同时或相继受到光辐射、冲击波、早期核辐射和放射性沾染4种杀伤因素中的两种或两种以上杀伤因素共同作用引起的损伤。"
+  },
+  {
+   "cn": "核爆炸光辐射",
+   "en": "optical radiation of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.52",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间产生的几千万度的高温火球，向四周辐射的光和热。"
+  },
+  {
+   "cn": "核爆炸放射性沾染",
+   "en": "radioactive contamination of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.59",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸产生的放射性物质对人、物和环境所造成的污染。"
+  },
+  {
+   "cn": "核爆炸冲击波",
+   "en": "shock wave of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.48",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核武器爆炸形成的高温高压气团,猛烈压缩和推动周围介质所产生的高压脉冲波。是核爆炸主要的杀伤破坏因素之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

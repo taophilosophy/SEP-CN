@@ -1,0 +1,702 @@
+{
+ "key": "mental-state consciousness",
+ "term": "mental-state consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:43:48+00:00",
+ "status": "ok",
+ "note": "variant=mental-state consciousness; 审定公布名词库=5134; 海峡两岸名词对照库=1548; 其他来源数据库=155; 预公布名词数据库=241; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "心理状态",
+   "en": "mental state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.556",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "感知、回忆、相信、欲求、期望、意图、情绪等人类个体经验的各种心理活动的状态。"
+  },
+  {
+   "cn": "精神状态",
+   "en": "mental state",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "从患者的表情、表达、想法和感受推测出的相对应的内在状况或过程。包括精神的和身体的健康状况。广泛用作书面评估和测量认知功能与心理障碍的指标。在临床心理学和精神病学中，用它检查的指标来确定一个人的生理和心"
+  },
+  {
+   "cn": "简易精神状态检查",
+   "en": "mini-mental state examination",
+   "source": "神经外科学名词",
+   "wordNumber": "16.091",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "一种标准化的认知功能检查方法。包括7个方面。不同文化程度的患者正常值不同：文盲＞17分，小学＞20分，初中及以上＞24分。由福尔斯坦（Folstein）等于1975年编制。"
+  },
+  {
+   "cn": "简明精神状态检查量表",
+   "en": "mini- mental state examination",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.244",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "一种临床常用的简便的综合认知功能筛查量表。由美国福尔斯坦(Folstein于1975年编制，量表包括定向、注意、语言、记忆、视空间技能等30项，每项1分，共30分。痴呆分界值根据文化程度而异。由于操作"
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion of consciousness,mental confusion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.226",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种不能识别时间、地点和人物的定向障碍状态。意识水平轻度下降，较嗜睡为深的一种意识障碍。患者能保持简单的精神活动，但对时间、地点、人物的定向能力发生障碍。"
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0929",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "下颌骨颏孔下缘的最低点。有时下颌骨的一侧同时出现两个以上的颏孔，古人类尤为多见，则颏孔点定为主颏孔下缘最低之点。"
+  },
+  {
+   "cn": "心理主义",
+   "en": "mentalism",
+   "source": "心理学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以人的内部心理过程为研究重点的心理学理论。如冯特的内容心理学与当代的认知心理学。"
+  },
+  {
+   "cn": "心智主义",
+   "en": "mentalism",
+   "source": "语言学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。认为人的内部的心智活动与外显的行为表现是相互独立的，并且前者可以解释后者。"
+  },
+  {
+   "cn": "意识改变状态",
+   "en": "altered state of consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "17.017",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "对各种急慢性意识障碍的一种非特异性统称。包括认知功能、注意力、思维活动及意识清醒程度的损害。"
+  },
+  {
+   "cn": "意识改变状态",
+   "en": "altered state of consciousness",
+   "source": "精神医学名词",
+   "wordNumber": "02.011",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "一种特殊的注意选择状态。注意变得狭窄而固定，转移注意的能力暂时丧失。是心因性的和可以理解的，是一定意念、情感和态度的产物，甚至可以由意志发动也可以由意志终止。与意识障碍不同的是，在一定范围内，注意的集"
+  },
+  {
+   "cn": "简易精神状态检查",
+   "en": "Mini-Mental State Examination,MMSE",
+   "source": "精神医学名词",
+   "wordNumber": "05.081",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "由美国精神医学家福尔斯坦(M. F. Folstein)等1975年编制的他评量表。用于评定老年人的认知功能状况。包括评估定向、识记、注意和计算、回忆、语言5个认知方面。"
+  },
+  {
+   "cn": "简易精神状况检查",
+   "en": "mini-mental state examination,MMSE",
+   "source": "老年医学名词",
+   "wordNumber": "04.476",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "一种用于阿尔茨海默病的筛查量表。该量表由20题组成，共30项，涉及定向力、记忆力、注意力和计算力、回忆、语言五个方面的内容。用于认知障碍检查时，具有简单、易行、易接受等特点，可作为中等程度或严重程度的"
+  },
+  {
+   "cn": "简易精神状况检查",
+   "en": "mini-mental state examination;MMSE",
+   "source": "急救医学名词",
+   "wordNumber": "03.972",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "一种用于阿尔茨海默病筛查的量表。该量表由20题组成，共30项，涉及定向力、记忆力、注意力和计算力、回忆、语言5个方面的内容。用于认知障碍检查时，其具有简单、易行、易接受等特点，可作为中等程度或严重程度"
+  },
+  {
+   "cn": "简易精神状态检查[量表]",
+   "en": "mini- mental state examination;MMSE",
+   "source": "麻醉学名词",
+   "wordNumber": "03.030",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "临床使用最广泛的痴呆及认知功能检测量表。检测包括定向、回忆、注意力、计算、语言运用和结构性运用能力等方面的认知功能。最高分为30分。得分少于24分提示痴呆或谵妄。"
+  },
+  {
+   "cn": "简易智力状态检查量表",
+   "en": "mini-mental state examination;MMSE",
+   "source": "行为医学名词",
+   "wordNumber": "19.046",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "美国医学家马歇尔·F. 福尔斯坦（Marshal F. Folstein‬）等于1975年编制的智力检查量表。共19个项目，对定向、记忆、语言、计算和注意等能力做简单评定，反映受测者智力状态及认知功能"
+  },
+  {
+   "cn": "心算",
+   "en": "mental arithmetic,mental compatation",
+   "source": "教育学名词",
+   "wordNumber": "07.152",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "不借助计算工具、不出声的脑内数学运算。"
+  },
+  {
+   "cn": "美容心理状态自评量表",
+   "en": "cosmetic mental state self-scale;CMSS",
+   "source": "行为医学名词",
+   "wordNumber": "19.084",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_症状评定量表",
+   "subjectName": "症状评定量表",
+   "publishYear": "2022",
+   "definition": "用于评定受测者的体象心理问题、体象障碍程度、与体象相关的心理障碍乃至神经系统和精神疾病的自评量表。由4个分量表组成，通过分级评定反映受测者的心理状态。"
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "整形外科名词",
+   "wordNumber": "12.015",
+   "subjectFullName": "整形外科_颅颌面整形_颅面部主要体表标志",
+   "subjectName": "颅面部主要体表标志",
+   "publishYear": "2026",
+   "definition": "颏结节的外侧，相当于第二前磨牙牙槽轭前下方的孔。有颏血管及神经通过。"
+  },
+  {
+   "cn": "心智地图",
+   "en": "mental map",
+   "source": "风景园林名词",
+   "wordNumber": "13.0023",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "通过询问或书面方式对居民的城市心理感受和印象进行调查，由设计者分析并翻译成图的形式，或更直接地鼓励他们本人画出有关空间结构的草图。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "肝病学名词",
+   "wordNumber": "4.2.2.1.3.1",
+   "subjectFullName": "肝病学_脂肪性肝病_酒精性肝病",
+   "subjectName": "酒精性肝病",
+   "publishYear": "2024",
+   "definition": "一类病因复杂的脑疾病。以个体认知、情感或意志障碍为特征的一种综合征，即影响情绪、思维和行为的疾病，包括焦虑症、强迫症、抑郁症、双相障碍、精神分裂症、进食障碍、酒精或药物使用障碍等。临床可分为器质性和功"
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心智状态",
+   "en": "mental state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识变异状态",
+   "en": "altered state of consciousness\",\"ASC",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颏结节",
+   "en": "mental tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏动脉",
+   "en": "mental artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏棘",
+   "en": "mental spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏联合",
+   "en": "mental symphysis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏隆凸",
+   "en": "mental protuberance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏区",
+   "en": "mental region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏神经",
+   "en": "mental nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏支",
+   "en": "mental branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "智力落后,精神发育迟缓",
+   "en": "mental retardation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理过程",
+   "en": "mental process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理旋转",
+   "en": "mental rotation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理定势",
+   "en": "mental set",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "超临界状态",
+   "en": "supercritical state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主权国家",
+   "en": "sovereign state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家赔偿",
+   "en": "state compensation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固态硬盘",
+   "en": "Solid State Disk\nSolid State Drive",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "Family-state / Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元首",
+   "en": "Head of State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "素朴",
+   "en": "The Natural State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于心理的原因导致无法正常应对日常生活。心理专家将其区分为两类，一是神经官能性的，相对症状较轻，比如紧张；二是精神心理性的，症状较重，个体心理已经脱离现实。"
+  },
+  {
+   "cn": "脑力劳动",
+   "en": "mental labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0127",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“体力劳动”相对。以消耗脑力为主的劳动，体力劳动在其中起辅助作用。"
+  },
+  {
+   "cn": "精神交往",
+   "en": "mental communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0149",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们之间的思想、观念、意识等的交流、批评或肯定的精神活动。精神交往受物质交往和物质关系的制约，但具有相对独立性。精神交往使精神成果得到认同、确证、传播和实现，是保证和促进精神生产的重要手段。"
+  },
+  {
+   "cn": "心理年龄",
+   "en": "mental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "标准化心理测验判断心理发育成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "心理自我",
+   "en": "mental self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的智力、情感与人格特征以及价值取向和宗教信仰等的认识。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "有利于个体身心发展，工作、学习有效率，维持良好生活质量的适宜的心理状态。"
+  },
+  {
+   "cn": "智龄",
+   "en": "mental age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.28",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用某种智力测验工具测得的智力发展水平，即一个人智力发育水平的年龄。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在认知、情感、意志等心理活动层面所具有的一种良好状态。表现为能够认识和接纳自我，合理调节情绪、对社会有良好的适应力，并在面对压力和挑战时保持心理功能的稳定与协调。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "社会医学名词",
+   "wordNumber": "13.7",
+   "subjectFullName": "社会病",
+   "subjectName": "精神障碍",
+   "publishYear": "2025",
+   "definition": "由大脑功能显著异常引起的，导致个体痛苦或社会功能受损的临床状况，且排除物质、躯体疾病等直接生理效应。"
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental status",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体情绪和认知的状态。"
+  },
+  {
+   "cn": "社会心态",
+   "en": "social mentality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在特定社会背景下形成的一种群体共有的心理状态，包括由价值观及信仰所体现出来的社会心理倾向、对具体现实的各种感受和情绪等，直接反映当时的社会精神状态。"
+  },
+  {
+   "cn": "民俗心理",
+   "en": "folklore mentality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0502",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定人类群体中蕴含的一种较稳定的习俗意识定势，是民俗生活相在人们头脑中循环往复潜留下来的心理意识，经过历史的传承而逐步形成的。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0277",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "维护一个阶级对另一个阶级统治的机器，是阶级矛盾不可调和的产物。"
+  },
+  {
+   "cn": "军事脑力作业",
+   "en": "military mental work",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事活动过程中，以中枢神经系统为主的作业过程。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.26",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "“器质性精神病(organic psychosis)”，基于可证实的大脑疾病、脑损伤或其他损害为病因而归于一组的精神障碍。脑功能损害可以是原发性的，如直接或选择性影响大脑的疾病和损伤；也可以是继发性的"
+  },
+  {
+   "cn": "心理健康问题预防",
+   "en": "mental health prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止个体在心理健康方面存在的偏倚而采取的一系列措施。"
+  },
+  {
+   "cn": "心理健康教育",
+   "en": "mental health education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_心理健康教育",
+   "subjectName": "心理健康教育",
+   "publishYear": "2025",
+   "definition": "根据中小学生生理、心理发展特点，运用有关心理教育方法和手段，培养学生良好的心理素质，促进学生身心全面和谐发展和素质全面提高的教育活动。"
+  },
+  {
+   "cn": "学校心理卫生",
+   "en": "school mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生",
+   "subjectName": "学校心理卫生",
+   "publishYear": "2025",
+   "definition": "致力于学校内儿童少年精神疾病的防治以及处理和预防各类精神问题的发生的活动和措施。最终目的是提高儿童少年的心理健康和生活质量，促进学校整体教育目标的实现。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

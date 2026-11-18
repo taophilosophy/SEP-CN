@@ -1,0 +1,812 @@
+{
+ "key": "system of positive polity",
+ "term": "System of Positive Polity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:41+00:00",
+ "status": "ok",
+ "note": "variant=System of Positive Polity; 审定公布名词库=10000; 海峡两岸名词对照库=10000; 其他来源数据库=2429; 预公布名词数据库=3053; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "正系统",
+   "en": "positive system",
+   "source": "自动化名词",
+   "wordNumber": "06.042",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "定位系统",
+   "en": "positioning system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "以确定空间位置为目标而构成的相互关联的集合体或装置（部件）。一般指全球定位系统（GPS），有美国GPS、中国的北斗卫星导航等，可以实现导航、定位、授时等功能。"
+  },
+  {
+   "cn": "定位系统",
+   "en": "positioning system",
+   "source": "船舶工程名词",
+   "wordNumber": "09.119",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "能使偏离预定位置的海上浮体回复到原位，并保持在预定位置上的系统。"
+  },
+  {
+   "cn": "定位系统",
+   "en": "positioning system",
+   "source": "石油名词",
+   "wordNumber": "03.0043",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "正根系",
+   "en": "positive system of roots",
+   "source": "数学名词",
+   "wordNumber": "04.1533",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正对称组",
+   "en": "symmetric positive system",
+   "source": "数学名词",
+   "wordNumber": "06.0409",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "位置检测系统",
+   "en": "position detecting system",
+   "source": "船舶工程名词",
+   "wordNumber": "13.198",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "用于检测海上浮式海洋工程结构物在外力作用下发生偏移的系统。"
+  },
+  {
+   "cn": "机载定位系统",
+   "en": "airborne positioning system",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0280",
+   "subjectFullName": "地球物理学_空间物理学_空间环境与探测",
+   "subjectName": "空间环境与探测",
+   "publishYear": "2022",
+   "definition": "飞机上的定位系统。常与惯性导航形成组合导航系统。 "
+  },
+  {
+   "cn": "海上定位系统",
+   "en": "marine positioning system",
+   "source": "地球物理学名词",
+   "wordNumber": "09.0010",
+   "subjectFullName": "地球物理学_海洋地球物理学_海洋地球物理学总论",
+   "subjectName": "海洋地球物理学总论",
+   "publishYear": "2022",
+   "definition": "为船舶安全航行、海道测量、海洋资源勘探等提供精准定位服务的系统。 "
+  },
+  {
+   "cn": "无线电定位系统",
+   "en": "radio positioning system",
+   "source": "地球物理学名词",
+   "wordNumber": "09.0013",
+   "subjectFullName": "地球物理学_海洋地球物理学_海洋地球物理学总论",
+   "subjectName": "海洋地球物理学总论",
+   "publishYear": "2022",
+   "definition": "通过直接或间接测定无线电信号在已知位置的固定点 (岸台)与船之间传播过程中的时间、相位差、振幅或频率的变化，确定距离、距离差、方位等定位参量，进而用位置线确定待定点位置 (如船位 )的测量技术和方法。"
+  },
+  {
+   "cn": "天文定位系统",
+   "en": "astronomical positioning system",
+   "source": "测绘学名词",
+   "wordNumber": "07.335",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "利用观测天体高度角及其观测时刻的世界时进行导航定位的系统。"
+  },
+  {
+   "cn": "双曲线定位系统",
+   "en": "hyperbolic positioning system",
+   "source": "测绘学名词",
+   "wordNumber": "07.338",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "利用测点至主台和两副台的距离差形成的两条双曲线相交确定点位的无线电定位系统。"
+  },
+  {
+   "cn": "台卡定位系统",
+   "en": "Decca positioning system",
+   "source": "测绘学名词",
+   "wordNumber": "07.339",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "一种低频、近程、连续波相位双曲线定位系统。"
+  },
+  {
+   "cn": "水声定位系统",
+   "en": "acoustic positioning system",
+   "source": "测绘学名词",
+   "wordNumber": "07.342",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "由水下声标（应答器）、船载声学收发设备组成的定位系统。"
+  },
+  {
+   "cn": "全球定位系统",
+   "en": "global positioning system",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0517",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "利用导航卫星进行测时和测距，以便及时得到运送产品的信息的系统。"
+  },
+  {
+   "cn": "水下定位系统",
+   "en": "subsea positioning system",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0249",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "用以实时确定沉放在水中的震源、等浮电缆的确切位置的所有的水中定位设备的总称。"
+  },
+  {
+   "cn": "无线电定位系统",
+   "en": "radio positioning system",
+   "source": "通信科学技术名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "通信科学技术_无线传输与接入",
+   "subjectName": "无线传输与接入",
+   "publishYear": "2007",
+   "definition": "利用无线电波直线恒速传播特性，通过测量固定或运动的物体的位置以进行定位的系统。无线电定位系统有雷达、无线电测向、无线电导航系统和全球定位等。"
+  },
+  {
+   "cn": "阿果定位系统",
+   "en": "Argo positioning system",
+   "source": "航海科技名词",
+   "wordNumber": "06.0389",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "道朗定位系统",
+   "en": "Toran positioning system",
+   "source": "航海科技名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "无线电定位系统",
+   "en": "radio positioning system",
+   "source": "石油名词",
+   "wordNumber": "08.0094",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "定位系统",
+   "en": "positioning system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位系统",
+   "en": "positioning system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极坐标定位系统",
+   "en": "polar positioning system\",\"azimuthdistance positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "点位系统",
+   "en": "point position system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "位置控制系统",
+   "en": "position control system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水下定位系统",
+   "en": "subsea positioning system",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无线电定位系统",
+   "en": "radio positioning system",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定位参照系",
+   "en": "positional reference system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "测距定位系统",
+   "en": "range positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "多普勒定位系统",
+   "en": "Doppler positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "惯性定位系统",
+   "en": "inertial positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "双曲线定位系统",
+   "en": "hyperbolic positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "台卡定位系统",
+   "en": "Decca positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "天文定位系统",
+   "en": "astronomical positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "卫星定位系统",
+   "en": "satellite positioning system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "脉8定位系统",
+   "en": "pulse 8 positioning system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水声定位系统",
+   "en": "acoustic positioning system\",\"hydroacoustic positioning reference system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "位[置]觉",
+   "en": "position sensation\",\"sensation of position",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "位置报告系统",
+   "en": "position location reporting system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全球定位系统",
+   "en": "global positioning system\",\"GPS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球定位系统",
+   "en": "Global Positioning System (GPS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "position of readiness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换位置",
+   "en": "interchange of position\",\"shift the position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换位",
+   "en": "change of position\",\"switching",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换位",
+   "en": "change of position\",\"shifting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "take out of position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "take out of position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体姿态",
+   "en": "position of the body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手臂位置",
+   "en": "position of the arms",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腿的位置",
+   "en": "position of the legs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干部交流制度",
+   "en": "system of exchange system of cadres",
+   "source": "马克思主义",
+   "wordNumber": "03.0551",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对各级党政机关主要领导干部在中央和地方之间、上下之间、地区之间与部门之间，有计划地定期交流的一项制度。"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "退休制度",
+   "en": "system of retirement，retirement system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "职工在年老或因工、因病丧失劳动能力离开劳动岗位后，获得一定物质帮助和补偿，使其安度晚年的制度性规定。退休制度主要由四个部分组成，即退休条件，退休待遇，退休金的筹集、使用和管理，以及退休人员的管理和服务"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "单位制",
+   "en": "system of unit",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "1949年以来中国社会的一种独特而关键的全面实施的组织体制和制度形式，作为一种体制，一切社会组织都是单位，单位是控制和调节整个社会运转的中枢系统；作为一种制度结构，国家成为主宰资源配置与资源分配制度和"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "抗日游击战争的战略地位",
+   "en": "strategic position of antiJapanese guerrilla warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0427",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中指出：抗日战争中，游击战辅助了正规战，把自己也变为正规战。在整个抗日战争中，尤其是在战略相持阶段，游击战是主要的战争形式。忽视抗日游击战争的战略地位"
+  },
+  {
+   "cn": "分税制改革",
+   "en": "reform of taxsharing system",
+   "source": "马克思主义",
+   "wordNumber": "02.0413",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按中央与地方的事权，合理确定各级财政的支出范围，根据事权与财权相结合的原则，将税种统一划分为中央税、地方税和中央地方共享税，并建立中央税收和地方税收体系，分设中央与地方两套税务机构分别征管的一种适合市"
+  },
+  {
+   "cn": "一长制",
+   "en": "system of oneman leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0297",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联实行的一项重要的生产管理制度。其主要内容是赋予各个企业的行政主要负责人在履行职责过程中作出裁决的权力。"
+  },
+  {
+   "cn": "连续生产制",
+   "en": "system of continuous production",
+   "source": "马克思主义",
+   "wordNumber": "03.0313",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种充分利用现有机器设备的工时制度，即工人轮班不停地工作，节假日也不例外，不让机器空闲下来。苏联建设社会主义的初期为加快劳动生产进展，采取了这种办法。"
+  },
+  {
+   "cn": "党代表制度",
+   "en": "system of Party representatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0407",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党为确保对人民军队实行绝对领导的一项重要政治工作制度。1927年三湾改编时，毛泽东提出在营、连以上设立党代表，从此，在军队中设立党代表正式成为一项制度。"
+  },
+  {
+   "cn": "政治体制改革",
+   "en": "reform of political system",
+   "source": "马克思主义",
+   "wordNumber": "03.0616",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了巩固社会主义制度，发展社会主义社会的生产力，发扬社会主义民主，调动广大人民的积极性，应当通过改革消除具体政治制度上存在的缺陷和弊端。政治体制改革必须从中国的实际出发，坚持四项基本原则，有领导、有秩"
+  },
+  {
+   "cn": "制度的决定因素",
+   "en": "determinants of the system",
+   "source": "马克思主义",
+   "wordNumber": "03.0617",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "制度是带有普遍约束力的社会规则。制度带有根本性、全局性、稳定性和长期性。"
+  },
+  {
+   "cn": "基层群众自治制度",
+   "en": "system of communitylevel selfgovernance",
+   "source": "马克思主义",
+   "wordNumber": "03.0675",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依照宪法和法律，以中国共产党基层组织为领导，依托基层群众自治组织，在城乡地区实现居民直接行使相关政治权利及所在居民的自我管理、自我服务、自我教育、自我监督的制度。是中国特色社会主义政治制度的重要组成部"
+  },
+  {
+   "cn": "党代表大会制度",
+   "en": "system of Party congresses",
+   "source": "马克思主义",
+   "wordNumber": "03.0776",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党党章规定：“党的最高领导机关，是党的全国代表大会和它所产生的中央委员会。党的地方各级领导机关，是党的地方各级代表大会和它们所产生的委员会。党的各级委员会向同级的代表大会负责并报告工作。”党代"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

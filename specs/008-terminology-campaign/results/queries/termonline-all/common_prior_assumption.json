@@ -1,0 +1,732 @@
+{
+ "key": "common prior assumption",
+ "term": "common prior assumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:46+00:00",
+ "status": "ok",
+ "note": "variant=common prior assumption; 审定公布名词库=1070; 海峡两岸名词对照库=387; 其他来源数据库=50; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "动物学名词",
+   "wordNumber": "2.0203",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验估计",
+   "en": "prior estimation",
+   "source": "物理学名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验信息",
+   "en": "prior information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在决策分析中，尚未通过试验收集状态信息时所具有的信息。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在试验进行以前，根据已经知道的，试验结果的各种“原因”所发生的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "语言学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据训练集样本直接得出的概率。是后验概率的基础。"
+  },
+  {
+   "cn": "前概率",
+   "en": "prior probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.448",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预估值",
+   "en": "prior estimate",
+   "source": "化学工程名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "数学名词",
+   "wordNumber": "09.0047",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验分布",
+   "en": "prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0532",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "数理逻辑用于知识表示时，假定没有被断言为真的句子是假的，或体现为“失败即否定”原则，即假定未证明为真的句子是假的。"
+  },
+  {
+   "cn": "应变等价假定",
+   "en": "strain equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0161",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "应力作用在受损材料上引起的应变与有效应力作用在无损材料上引起的应变等价的假定。基于应变等价假定，受损结构的本构关系可通过无损时的形式描述，只需将其中名义应力换成有效应力即可。"
+  },
+  {
+   "cn": "应力等价假定",
+   "en": "stress equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0162",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变对应的应力和与虚构无损状态下有效应变对应的应力等价的假定。"
+  },
+  {
+   "cn": "能量等价假定",
+   "en": "energy equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0163",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变和应力对应的弹性余能和虚构无损伤状态下有效应变和有效应力对应的弹性余能等价的假定。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先留置权",
+   "en": "prior lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先索赔权",
+   "en": "prior claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债权",
+   "en": "prior charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率,前概率",
+   "en": "prior probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预交进口保证金",
+   "en": "prior import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预先颁发许可证制度",
+   "en": "prior licensing system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同危险",
+   "en": "common danger\",\"common peril",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "原始粉末颗粒边界",
+   "en": "prior particle boundary\",\"PPB",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "先入律",
+   "en": "law of prior entry",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "体被",
+   "en": "common integument",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "常见种",
+   "en": "common species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总[叶]柄",
+   "en": "common petiole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常用对数",
+   "en": "common logarithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普通原料",
+   "en": "common stock",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球公域",
+   "en": "global commons",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共池塘资源",
+   "en": "common-pool resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共同体",
+   "en": "Common Body of Knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "约定俗成",
+   "en": "Established Through Popular Usage / Accepted Through Common Practice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190810-T-469 信息技术 存储管理 第2部分：通用架构》",
+   "en": "20190810-T-469 Information technology — Storage management — Part 2: Common architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼不下庶人",
+   "en": "The Common People Are Not Bound by Ceremonial Rites.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "马克思主义",
+   "wordNumber": "03.0554",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全体人民通过辛勤劳动和相互帮助最终达到丰衣足食的生活水平。共同富裕是邓小平论述社会主义本质的重要内容和根本原则，是对以往社会两极分化的否定。其实现途径是：允许和鼓励一部分地区、一部分人通过诚实劳动和合"
+  },
+  {
+   "cn": "共同纲领",
+   "en": "common programme",
+   "source": "马克思主义",
+   "wordNumber": "04.0133",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商会议共同纲领》（简称《共同纲领》），展示了新中国的宏伟建设蓝图，是新中国的建国纲领。在全国人民代表大会制定宪法前，具有临时宪法"
+  },
+  {
+   "cn": "通用语",
+   "en": "common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0185",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家或地区普遍使用的语言。分国家通用语、地方通用语、区域（跨国）通用语和全球通用语。例如汉语普通话为中国的国家通用语，藏语为中国西藏自治区的地方通用语。"
+  },
+  {
+   "cn": "共同性分析",
+   "en": "commonality analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.126",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一个测量变量或潜变量中被解释或被预测的方差进一步分解成两个组成部分，由每个测量的预测变量单独解释的部分和由预测变量可能的组合共同解释的部分。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "一般辐射事故",
+   "en": "common radiation accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "Ⅳ类、Ⅴ类放射源丢失、被盗、失控，或者放射性同位素和射线装置失控导致人员受到超过年剂量限值的照射的辐射事故。"
+  },
+  {
+   "cn": "“两个共同”",
+   "en": "Two Common Principles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0125",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即“共同团结奋斗、共同繁荣发展”，是中国共产党在21 世纪初提出的民族工作主题。"
+  },
+  {
+   "cn": "一般作业区",
+   "en": "common working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.17",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "对于食品生产过程清洁程度无特殊要求的食品生产作业区域。"
+  },
+  {
+   "cn": "国家通用语言",
+   "en": "national common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0188",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家各民族之间使用最广泛的语言。中国法定的国家通用语言特指汉语普通话。"
+  },
+  {
+   "cn": "妇女常见病",
+   "en": "woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "发生在女性生殖器官或乳腺的常见疾病，主要包括宫颈疾病、乳腺疾病、生殖道感染及其他生殖系统疾病。"
+  },
+  {
+   "cn": "普通变异型免疫缺陷病",
+   "en": "common variable immunodeficiency, CVID",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "以抗体产生缺陷、低免疫球蛋白血症和反复感染为主要特征，并除外药物或感染引起的低免疫球蛋白血症，以及已知的染色体异常引起的低免疫球蛋白性疾病。其临床表现无特异性，主要表现为反复感染特别是呼吸道和消化道感"
+  },
+  {
+   "cn": "学生常见疾病监测",
+   "en": "students' common diseases surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用抽样调查方法，对确定检测点学校目标人群的发生率较高的一类疾病进行长期动态观察。"
+  },
+  {
+   "cn": "常见疾病预防",
+   "en": "prevention of common diseases",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止儿童青少年常见病，如肥胖、视力不良与近视、营养不良与贫血等发生发展而采取的一系列措施，包括健康促进、环境改善和健康素养提升。"
+  },
+  {
+   "cn": "来访者常见表现",
+   "en": "common performance of clients",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "青少年在心理咨询过程中常见的心理行为表现，如心理阻抗、沉默和移情。"
+  },
+  {
+   "cn": "公地悲剧",
+   "en": "tragedy of the commons",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.12",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "一种涉及个人利益和公共利益对资源分配冲突的社会陷阱，比喻有限的资源注定因自由进入和不受限制的利用而被过度消耗。"
+  },
+  {
+   "cn": "孕期常见疾病筛查",
+   "en": "prenatal screening for common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "通过临床检查、血液检测和影像学检查等手段对妊娠期常见疾病进行筛查的服务过程，以早期诊断和治疗危害孕妇和胎儿健康的疾病。"
+  },
+  {
+   "cn": "妇女常见病筛查",
+   "en": "screening of woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "有计划、有组织地为适龄妇女定期筛查发生在生殖器官或乳腺的常见疾病的措施。包括提供相关健康教育和咨询指导，进行专项医学检查，提出医学意见，对发现的异常或可疑情况进行进一步检查、诊断、治疗和随访等服务。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

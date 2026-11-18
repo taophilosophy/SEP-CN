@@ -1,0 +1,812 @@
+{
+ "key": "treatise on sensations",
+ "term": "Treatise on Sensations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:56+00:00",
+ "status": "ok",
+ "note": "variant=Treatise on Sensations; 审定公布名词库=1954; 海峡两岸名词对照库=541; 其他来源数据库=362; 预公布名词数据库=200; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "论著",
+   "en": "treatise",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.096",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "带有研究性或议论性的著作。"
+  },
+  {
+   "cn": "司牧安骥集",
+   "en": "Treatise on Equine Medicine",
+   "source": "兽医学名词",
+   "wordNumber": "19.017",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "综合性兽医著作。是我国现存最早的兽医学著作，也是我国最早的一部兽医教科书，唐代李石撰。"
+  },
+  {
+   "cn": "八证论",
+   "en": "treatise on eight syndromes",
+   "source": "兽医学名词",
+   "wordNumber": "19.150",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "《马书》和《元亨疗马集》中论述家畜疾病的寒、热、虚、实、表、里、邪、证等八证的兽医古文献名。"
+  },
+  {
+   "cn": "《历志》",
+   "en": "Calendrical Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中记载一个朝代历法内容的篇章。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。包括一般感觉（浅感觉、深感觉、复合感觉）和特殊感觉（视觉、听觉、味觉、嗅觉）。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.266",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "大脑对刺激物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "精神医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "计划生育名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "显微外科学名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤物理检查",
+   "subjectName": "周围神经损伤物理检查",
+   "publishYear": "2016",
+   "definition": "刺激作用于感觉器官，经过神经系统的信息整合所产生的对该刺激个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "心理学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对直接作用于自身的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "电气工程名词",
+   "wordNumber": "22.110",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "《营造法式》",
+   "en": "Treatise on Architectural Methods,Yingzao Fashi",
+   "source": "建筑学名词",
+   "wordNumber": "03.0230",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "北宋官定的建筑设计、施工专书，为中国现存年代最早、内容最丰富的建筑营造著作。北宋绍圣四年(1097年)将作监李明仲(?~1110年)奉命编修，元符三年(1100年)成书，崇宁二年(1103年)颁行。全"
+  },
+  {
+   "cn": "温度[感]觉",
+   "en": "temperature sensation,thermal sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伤寒论",
+   "en": "Shanghan Lun,Treatise on Cold Pathogenic Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医临床著作，东汉张仲景撰。"
+  },
+  {
+   "cn": "脾胃论",
+   "en": "Piwei Lun,Treatise on Spleen and Stomach",
+   "source": "中医药学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医综合性著作，金代李杲撰。"
+  },
+  {
+   "cn": "《乙巳占》",
+   "en": "Yi Si Zhan; Yisi Treatise on Astrology",
+   "source": "天文学名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文著作，唐代李淳风编撰，是唐以前数十种星占风角书的分类汇编。"
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自皮肤和黏膜的痛觉、温度觉及触觉。"
+  },
+  {
+   "cn": "深感觉",
+   "en": "deep sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自肌腱、肌肉、骨膜和关节的运动觉、位置觉和振动觉。"
+  },
+  {
+   "cn": "复合感觉",
+   "en": "combined sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "大脑顶叶皮质对深浅感觉分析、比较、整合而形成的实体觉、图形觉、两点辨别觉、定位觉和重量觉等。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "静位觉（=平衡觉）",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉，静位觉",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤[感]觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温觉",
+   "en": "warm sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉寻求",
+   "en": "sensation seeking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动觉",
+   "en": "vibration sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冷觉",
+   "en": "cold sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温度觉",
+   "en": "temperature sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肌觉",
+   "en": "muscle sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "触觉",
+   "en": "touch sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肤觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "痒觉",
+   "en": "itching sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化学感觉",
+   "en": "chemical sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内脏感觉",
+   "en": "visceral sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "位[置]觉",
+   "en": "position sensation\",\"sensation of position",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味觉",
+   "en": "gustatory sensation\",\"taste",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链上治理",
+   "en": "on-chain governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电视支付",
+   "en": "payment on TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随需调度",
+   "en": "on-demand scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诚信上链",
+   "en": "on-chain integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按需学习",
+   "en": "learning on demand",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依申请开放",
+   "en": "access on request",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "马克思主义",
+   "wordNumber": "01.0203",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "对直接作用于感觉器官的客观事物的个别属性的反映，是整个认识过程的起点。"
+  },
+  {
+   "cn": "揉面感",
+   "en": "doughy sensation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "腹膜慢性炎症时由于腹膜增厚、肠管肠系膜粘连使得在触诊时腹壁柔韧有抵抗力，不易压陷的体征。"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "个体为获得变化的、新奇的、复杂的和强烈的感觉体验，甘愿承担可能的身体、社会、经济和法律等方面的风险而从事某活动的愿望。"
+  },
+  {
+   "cn": "触觉",
+   "en": "tactile sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对人体体表的机械接触(接触刺激）的感觉。是由压力和牵引力作用于触觉感受器而引起。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的物质微粒作用于上鼻道嗅上皮中的嗅细胞产生神经冲动传至神经中枢引起的感觉。"
+  },
+  {
+   "cn": "味觉",
+   "en": "gustatory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉。"
+  },
+  {
+   "cn": "前庭觉",
+   "en": "vestibular sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "本体觉",
+   "en": "proprioceptive sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "来自肌、腱、关节等处感受器的冲动传向大脑和小脑所产生的感觉。包括位置觉、运动觉和振动觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.8",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "挥发性物质刺激鼻腔产生的一类化学感应。由嗅神经系统和鼻三叉神经系统参与。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "老龄协会",
+   "en": "committee on aging",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.52",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国民政部门主管的老年人社会团体。主要职责是对我国老龄事业发展的方针、政策、规划等问题进行调查研究，提出建议，开展信息交流、咨询服务等与老龄问题有关的社会活动，承办政府交办的其他事项和有关部门委托的工"
+  },
+  {
+   "cn": "一心一意搞建设",
+   "en": "concentrate on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0611",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据历史上的经验教训，从时代的要求出发，邓小平提出：“一心一意搞建设”应当成为工作的中心。除了爆发大规模战争外，全党同志必须贯彻始终地集中力量进行经济建设，一步一步地实现中国的战略目标。"
+  },
+  {
+   "cn": "和平法令",
+   "en": "decree on peace",
+   "source": "马克思主义",
+   "wordNumber": "04.0073",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由列宁起草，于1917年11月8日（俄历10月26日）经全俄第二次苏维埃代表大会通过的苏维埃政府颁布的第一个法令。该法令呼吁参加第一次世界大战的各交战国政府和人民，立即缔结停战协定，缔造正义与民主的和"
+  },
+  {
+   "cn": "土地法令",
+   "en": "decree on land",
+   "source": "马克思主义",
+   "wordNumber": "04.0074",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月社会主义革命胜利后，苏维埃政府关于土地问题的第一个立法文件。于1917年11月8日（俄历10月26日）全俄苏维埃第二次代表大会上通过。《土地法令》宣布废除地主土地私有制。附有农民土地问题委托书"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  },
+  {
+   "cn": "斯大林论语言",
+   "en": "Stalin on language",
+   "source": "马克思主义",
+   "wordNumber": "04.0103",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在许多著作中论及语言学，并著有专门著作《马克思主义和语言学问题》。在马克思、恩格斯、列宁语言学的理论基础上，对当时语言学的几乎全部重大的基本理论问题都进行了系统阐述。对苏联和中国的普通语言学起了"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

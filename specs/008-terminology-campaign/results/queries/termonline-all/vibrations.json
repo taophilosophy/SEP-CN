@@ -1,0 +1,472 @@
+{
+ "key": "vibrations",
+ "term": "vibrations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:56:45+00:00",
+ "status": "ok",
+ "note": "variant=vibrations; 审定公布名词库=715; 海峡两岸名词对照库=84; 其他来源数据库=4; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "震动",
+   "en": "vibration",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.169",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "物体的全部或一部分沿直线或曲线的往返颤动。有一定的时间规律和周期。广义是指描述系统状态的参数（如位移、电压）在其基准值上下交替变化的过程。狭义是指机械振动，即力学系统中的振动。平稳无震动较适宜睡眠。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "动物学名词",
+   "wordNumber": "5.2306",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_螯肢动物亚门",
+   "subjectName": "螯肢动物亚门",
+   "publishYear": "2021",
+   "definition": "某些步足长的蜘蛛在遇到敌害靠近时，剧烈摆动蛛网以威吓对方的现象。如幽灵蛛。"
+  },
+  {
+   "cn": "[水电机组]振动",
+   "en": "vibration",
+   "source": "电力名词",
+   "wordNumber": "16.121",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "水电机组运行时,各个部件与机械系统由于水力、机械和电气等原因产生的相对于平衡位置的周期性往复位移。它是评价水电机组稳定性的重要指标。长期或严重的振动(如共振等)将诱发部件产生裂纹甚至断裂。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "物理学名词",
+   "wordNumber": "02.0353",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.395",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "物体的全部或一部分沿直线或曲线的往返颤动。有一定的时间规律和周期。从广义上讲是指描述系统状态的参数(如位移、电压)在其基准值上下交替变化的过程。狭义的指机械振动，即力学系统中的振动。电磁振动习惯上称振"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "计量学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "计量学_振动、冲击、转速_振动",
+   "subjectName": "振动",
+   "publishYear": "2015",
+   "definition": "描述机械系统运动或位置的量值，相对于某一平均值或大或小交替地随时间变化的现 象。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "建筑学名词",
+   "wordNumber": "13.0044",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "物体反复通过某个基准位置的运动。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.144",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "土木工程名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "震颤法",
+   "en": "vibration",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0212",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "电气工程名词",
+   "wordNumber": "27.085",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "物体经过它的平衡位置所作的往复运动或某一物理量在其平衡值附近的来回变动。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.064",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "振子",
+   "en": "vibrator",
+   "source": "物理学名词",
+   "wordNumber": "04.2621",
+   "subjectFullName": "物理学_光学、声学_声学",
+   "subjectName": "声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可控震源车",
+   "en": "vibrator",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "02.168",
+   "subjectFullName": "机械工程_汽车_汽车分类_专用汽车",
+   "subjectName": "专用汽车",
+   "publishYear": "2013",
+   "definition": "装备有可控频率、压力变换的连续震源装置，用于地震勘探作业的特种结构专用作业汽车。"
+  },
+  {
+   "cn": "可控震源",
+   "en": "vibrator",
+   "source": "石油名词",
+   "wordNumber": "03.0567",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "激振器",
+   "en": "vibrator",
+   "source": "石油名词",
+   "wordNumber": "12.0269",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "振动传感器",
+   "en": "vibration transducer,vibration sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0078",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受机械运动振动参量(机械振动速度、频率、加速度等)并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "激振器",
+   "en": "vibration generator,vibration exciter",
+   "source": "电气工程名词",
+   "wordNumber": "27.190",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "振动台",
+   "en": "vibration machine,vibration table",
+   "source": "电气工程名词",
+   "wordNumber": "27.188",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "振动器",
+   "en": "vibrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固有振动",
+   "en": "proper vibration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "骨架振动",
+   "en": "skeletal vibration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "振动觉",
+   "en": "vibration sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动模",
+   "en": "vibration mode",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "震动磨",
+   "en": "vibration mill",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "振动磨",
+   "en": "vibration milling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "振动试验",
+   "en": "vibration test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横向振动",
+   "en": "lateral vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扭转振动",
+   "en": "torsional vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耦合振动",
+   "en": "coupled vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "强制振动",
+   "en": "forced vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "谐波振动",
+   "en": "harmonic vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "振型",
+   "en": "vibration mode",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轴向振动",
+   "en": "axial vibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "震",
+   "en": "Zhen（Vibration）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数码警察",
+   "en": "automatic e-camera for traffic violations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "质点或物体在外力作用下沿直线或弧线围绕平衡位置作来回往复或旋转运动。根据作用于人体的部位和传导方式，分为全身振动和局部振动。"
+  },
+  {
+   "cn": "振动防护",
+   "en": "vibration protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过控制振动源及振动传播，加强个人防护等手段以减少振动危害，保护和改善作业环境，保障作业人员健康的措施和方法。"
+  },
+  {
+   "cn": "振动健康危害",
+   "en": "vibration health hazard",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "长时间接触大强度的振动对健康造成的危害，可影响作业人员多个器官系统的生理功能，影响健康，导致作用效能降低。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

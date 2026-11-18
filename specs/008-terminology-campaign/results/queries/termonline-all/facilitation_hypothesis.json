@@ -1,0 +1,702 @@
+{
+ "key": "facilitation hypothesis",
+ "term": "facilitation hypothesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:43:40+00:00",
+ "status": "ok",
+ "note": "variant=facilitation hypothesis; 审定公布名词库=343; 海峡两岸名词对照库=192; 其他来源数据库=23; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.396",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "局部阈下兴奋状态能使神经元兴奋性升高的现象。"
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "兽医学名词",
+   "wordNumber": "04.494",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "局部阈下兴奋状态能使神经元兴奋性升高的现象。"
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "生理学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "神经病学名词",
+   "wordNumber": "05.152",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由于神经肌肉接头传导功能的改善，以前未兴奋的肌纤维被激活的现象。可见于高频重复神经刺激后的递增反应和兴奋后或强直收缩后易化。与突触前膜乙酰胆碱量子化释放增多有关。"
+  },
+  {
+   "cn": "易化作用",
+   "en": "facilitation",
+   "source": "植物学名词",
+   "wordNumber": "13.0176",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "一个物种改变群落环境有利于其他物种在群落中定居的现象。"
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "昆虫学名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "昆虫学_昆虫生理与生化",
+   "subjectName": "昆虫生理与生化",
+   "publishYear": "2000",
+   "definition": "神经脉冲跨突触的传导由于前一个刺激已建立过反应而变得容易通过。"
+  },
+  {
+   "cn": "有利因素",
+   "en": "facilitator",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.042",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "国际功能、残疾和健康分类中环境影响的指标，包括各种因素，通过其存在或不存在，可以改善功能或降低残疾程度。包括：无障碍的自然环境，可以获得相应的辅助技术，对残疾人积极的态度以及旨在提高全部生活领域中存在"
+  },
+  {
+   "cn": "突触后易化",
+   "en": "postsynaptic facilitation",
+   "source": "行为医学名词",
+   "wordNumber": "3.057",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "突触后膜去极化，使膜电位接近阈电位水平，表现为兴奋性突触后电位的总和的现象。"
+  },
+  {
+   "cn": "突触前易化",
+   "en": "presynaptic facilitation",
+   "source": "行为医学名词",
+   "wordNumber": "3.058",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "由相继的神经冲动触发突触前末梢递质释放量增加，导致兴奋性突触后电位幅值加大，使突触后神经元的兴奋性升高的现象。"
+  },
+  {
+   "cn": "社会助长",
+   "en": "social facilitation",
+   "source": "行为医学名词",
+   "wordNumber": "3.14",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "（1）同他人共同活动时活动效率的提高。 为共同活动效应。（2）当他人在场旁观时活动效率的提高。为观众效应。"
+  },
+  {
+   "cn": "中枢易化",
+   "en": "central facilitation",
+   "source": "生理学名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突触前易化",
+   "en": "presynaptic facilitation",
+   "source": "生理学名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突触后易化",
+   "en": "postsynaptic facilitation",
+   "source": "生理学名词",
+   "wordNumber": "03.158",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋后易化",
+   "en": "postactivation facilitation",
+   "source": "神经病学名词",
+   "wordNumber": "05.211",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "对神经持续刺激一段时间（2～15s）使得肌肉强直收缩，或者受试者主动大力收缩一段时间后，在数秒内进行神经刺激时出现低频刺激时递减反应改善的现象，以及当给予单个超强刺激时波幅和面积增加的现象。"
+  },
+  {
+   "cn": "社会促进效应",
+   "en": "social facilitation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0168",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "与他人共同工作或有人旁观时比独自工作效率升高的现象。"
+  },
+  {
+   "cn": "性别助长",
+   "en": "sex facilitation",
+   "source": "心理学名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "异性在场提升行为效率的现象。"
+  },
+  {
+   "cn": "兴奋后易化",
+   "en": "postactivation facilitation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.347",
+   "subjectFullName": "物理医学与康复_康复功能评定_肌电图与电诊断检查",
+   "subjectName": "肌电图与电诊断检查",
+   "publishYear": "2014",
+   "definition": "在短暂(2~15s的导致肌强直收缩的神经电刺激或肌肉强力收缩后几秒之内，进行神经刺激检查时见到的M波波形的改变。与静息情况下的检查相比表现为：衰减的修复，进行慢频率(2~5Hz的重复性神经刺激时，衰减"
+  },
+  {
+   "cn": "促进技术",
+   "en": "facilitation technique",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "物理医学与康复_康复治疗_运动疗法",
+   "subjectName": "运动疗法",
+   "publishYear": "2014",
+   "definition": "促进神经元去极化并传导冲动以使肌肉收缩或反射更易于发生的治疗技术。运用各种手法或通过运动帮助患者诱发出正常或接近正常的肌张力、姿势反应及运动模式的治疗技术。"
+  },
+  {
+   "cn": "放牧促进",
+   "en": "grazing facilitation",
+   "source": "生态学名词",
+   "wordNumber": "05.223",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "一种食草动物的放牧活动能改善另一种食草动物的食物供应的现象。"
+  },
+  {
+   "cn": "易化技术",
+   "en": "facilitation technique",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0189",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "促进作用（=易化作用）",
+   "en": "facilitation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化作用，促进作用",
+   "en": "facilitation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "促进作用",
+   "en": "facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "易化",
+   "en": "facilitation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会助长,社会促进",
+   "en": "social facilitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放牧促进",
+   "en": "grazing facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社会性易化",
+   "en": "social facilitation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "设施主体",
+   "en": "facilitation agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物社群互助",
+   "en": "biosocial facilitation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会性易化",
+   "en": "social facilitation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "穿膜易化物",
+   "en": "transmembrane facilitator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "促进扩散（=易化扩散）",
+   "en": "facilitated diffusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协助扩散（=易化扩散）",
+   "en": "facilitated diffusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化扩散，促进扩散，协助扩散",
+   "en": "facilitated diffusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易化扩散, 促进扩散",
+   "en": "facilitated diffusion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "易化扩散，促进扩散，协助扩散",
+   "en": "facilitated diffusion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "易化运输",
+   "en": "facilitated transport",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "易化扩散",
+   "en": "facilitate diffusion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "假说",
+   "en": "hypothesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假说",
+   "en": "hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨境贸易便利化",
+   "en": "cross-border trade facilitation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人假设",
+   "en": "Data Man Hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政治人假设",
+   "en": "political man hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济人假设",
+   "en": "homo economicus hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会人假设",
+   "en": "social man hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化人假设",
+   "en": "cultural man hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会化物业服务技术",
+   "en": "technique facilitating socialized property management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业化社会工作技术",
+   "en": "technology facilitating specialized social work",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普朗克量子假设",
+   "en": "Planck’s quantum hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民主化协商参与技术",
+   "en": "technology facilitating democratic consultation and participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推出更多外汇便利化业务",
+   "en": "to offer more services to facilitate foreign exchange transactions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减免关税、取消壁垒、畅通贸易",
+   "en": "to cut tariffs, remove barriers, and facilitate the flow of trade",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会助长",
+   "en": "social facilitation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.2",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "在与别人一起活动，或意识到他人在场或被他人实时关注，并且个人的表现可能会受到评价的情况下，个人的行为效率提高的现象。"
+  },
+  {
+   "cn": "假说",
+   "en": "hypothesis",
+   "source": "马克思主义",
+   "wordNumber": "04.0068",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "科学思维的一种形式。根据已有的事实材料和科学原理，对某些事物的存在或事物的因果性、规律性或未来的有关问题作出的假定性解或推测释。假说不同于主观猜测，它是以事实材料和科学理论为依据，通过一定的逻辑形式而"
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据客观规则确定研究者的假设是否为数据所支持的一种推论方法。其假设是总体的特征描述或总体参数，数据是能够代表总体的可信样本。"
+  },
+  {
+   "cn": "扇形假说",
+   "en": "sector hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.8",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "对同心圆模式的修正假说。由霍伊特(Homer Hoyt）提出，他搜集并研究了142个城市1900、1910、1936年的土地利用分布资料，细化、修正了同心圆模式中某些区段的分布。"
+  },
+  {
+   "cn": "盖亚假说",
+   "en": "Gaia hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.11",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "人类只是地球上的一个物种，并不比其他生命形式具有更多的生存权利，而其他生命形式对于生态系统的健康常常是更加重要的。由近年来激进的环境主义者提出。"
+  },
+  {
+   "cn": "病因假设",
+   "en": "etiological hypothesis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.33",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "未经验证的病因和食物中毒之间的因果关系假说"
+  },
+  {
+   "cn": "情景假设",
+   "en": "scenario hypothesis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "风险评估时限定暴露可能发生的独立情形的事实、假设和推论组合。包括暴露来源、暴露人群、暴露时间、微环境以及活动等，有助于开展暴露评估。"
+  },
+  {
+   "cn": "自我例证假说",
+   "en": "self-exemplifying hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "默顿用来说明科学发现是以一种多重独立方式出现的概念，指学科的主题、问题群以及作为该学科特征的某些方面不断被历史事实所证实，即该学科自我证实其预设内容或特征的过程。"
+  },
+  {
+   "cn": "“推拉”理论",
+   "en": "push-pull hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "4.5.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_迁移",
+   "subjectName": "迁移",
+   "publishYear": "2025",
+   "definition": "关于迁移的一种理论，假设原居住地的条件（如贫穷和失业）促使或推动人们离开原居住地而迁往其他条件优越或是具有拉动力的地方（如较高的生活水平和就业率）。"
+  },
+  {
+   "cn": "萨丕尔-沃尔夫假说",
+   "en": "Sapir-Whorf hypothesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0024",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种假说，由美国人类语言学家萨丕尔（Edward Sapir）和沃尔夫（Benjamin Whorf）提出。这种假说比较强势的观点认为，一种语言的语法和语义范畴和说这种语言的人理解"
+  },
+  {
+   "cn": "年代-区域关系",
+   "en": "age area hypothesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0547",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家威斯勒（Clark Wissler）将文化类似性看作文化相互影响的结果，由此产生了从文化区域概念向年代区域概念的转变。他认为，文化是有时间观念的，是从古到今一代一代传下来的；同时，文化又是"
+  },
+  {
+   "cn": "双城市假设",
+   "en": "the dual-city hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "后工业时代社会两极化在城市的空间体现。一方面是高速的经济发展和迅速增长的金融业、高科技行业及公司服务业。另一方面是传统工业以及受工会保护的技术工作的减少，在产业转型的过程中越发加深了社会的贫富差距。"
+  },
+  {
+   "cn": "疾病的胎儿起源假说",
+   "en": "fetal origins hypothesis of disease ",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "胎儿发育过程中经历不利因素引起发育编程改变，造成其组织器官结构和功能变化，增加出生后慢性非传染性疾病风险的学说。"
+  },
+  {
+   "cn": "费舍曼－琼斯－豪瑟假设 Featherman-Jones-Hauser Hypothesis",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "当代社会分层和流动研究的一个重要理论假设。由费舍曼(D.L.Featherman）、琼斯(F.L.Jones）和豪瑟(R.M.Hauser）等人提出。他们认为，如果以“相对流动机会”的标准来测量社会流"
+  },
+  {
+   "cn": "辅助假说",
+   "en": "auxiliary hypotheses",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "用以避免科学理论与观察、实验结果之间矛盾的假设。大多可独立检验并能增进科学知识。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

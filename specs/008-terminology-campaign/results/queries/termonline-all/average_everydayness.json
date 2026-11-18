@@ -1,0 +1,712 @@
+{
+ "key": "average everydayness",
+ "term": "average everydayness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:35:06+00:00",
+ "status": "ok",
+ "note": "variant=average everydayness; 审定公布名词库=496; 海峡两岸名词对照库=235; 其他来源数据库=11; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "平均数",
+   "en": "average",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "描述一组同质观察值的集中趋势或平均水平的指标。对于连续性定量变量，是应用最广泛、最重要的一个指标体系。常用的有算术平均数、几何平均数和中位数三种。"
+  },
+  {
+   "cn": "海损",
+   "en": "average",
+   "source": "水产名词",
+   "wordNumber": "10.091",
+   "subjectFullName": "水产_渔业工程与渔港",
+   "subjectName": "渔业工程与渔港",
+   "publishYear": "2002",
+   "definition": "货物在海运中受到的损失。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life",
+   "source": "急救医学名词",
+   "wordNumber": "03.875",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "根据一个国家或地区的一般死亡率，通过寿命表计算某一年龄的人能够存活的平均年数。"
+  },
+  {
+   "cn": "报刊中度读者",
+   "en": "average reader",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.049",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "每天阅读报刊的时间在0.5～1.5小时的读者，通常占读者总数的50%～60%。"
+  },
+  {
+   "cn": "平均受众",
+   "en": "average audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "某一时间段内或某一节目的受众，反映瞬间视听行为。"
+  },
+  {
+   "cn": "平均接触率",
+   "en": "average frequency",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.148",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "一个媒体排期计划当中，每个家庭或每个人的媒体平均接触次数。"
+  },
+  {
+   "cn": "均量池",
+   "en": "average pool",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.236",
+   "subjectFullName": "化工（八）_化工设备_工业废物处理设备",
+   "subjectName": "工业废物处理设备",
+   "publishYear": "2021",
+   "definition": "调节水量和起到临时储存作用的废水处理构筑物。"
+  },
+  {
+   "cn": "平均误差",
+   "en": "average error",
+   "source": "测绘学名词",
+   "wordNumber": "02.358",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "测量误差绝对值的数学期望。"
+  },
+  {
+   "cn": "平均利润",
+   "en": "average profit",
+   "source": "经济学名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "投入不同生产部门的等量资本按平均利润率所取得的利润,是剩余价值在资本有机构成不同的各个部门之间重新分配的结果。用公式表示：平均利润＝预付资本额×平均利润率。"
+  },
+  {
+   "cn": "平均产量",
+   "en": "average product",
+   "source": "经济学名词",
+   "wordNumber": "03.087",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在其他生产要素的投入量保持不变以及技术水平恒定的情况下，将总产量平均在每一单位可变投入上的产量，即总产量除以可变投入量后得到的产量。平均产量对应着总产量曲线上每一点与原点的连线的斜率。"
+  },
+  {
+   "cn": "平均收益",
+   "en": "average revenue",
+   "source": "经济学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商出售每一单位商品的收入，其值等于总收益除以销售量（或厂商的产量）。厂商的平均收益曲线就是该厂商所面对的市场需求曲线。"
+  },
+  {
+   "cn": "平均负荷",
+   "en": "average load",
+   "source": "电力名词",
+   "wordNumber": "07.036",
+   "subjectFullName": "电力_火力发电",
+   "subjectName": "火力发电",
+   "publishYear": "2020",
+   "definition": "在规定的时间内,电厂从发电机母线送出的总电量与该段时间之比,单位为kW或MW。"
+  },
+  {
+   "cn": "统计平均",
+   "en": "statistical average",
+   "source": "物理学名词",
+   "wordNumber": "05.0525",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "加权平均",
+   "en": "weighted average",
+   "source": "物理学名词",
+   "wordNumber": "01.0263",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "系综平均",
+   "en": "ensemble average",
+   "source": "物理学名词",
+   "wordNumber": "05.0536",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平均误差",
+   "en": "average error",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0012",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "在等精度测量中，测得的所有测量值的随机误差的算术平均值。"
+  },
+  {
+   "cn": "加权平均",
+   "en": "weighted average",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0031",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "通过数和权的乘积来计算平均值的方法。"
+  },
+  {
+   "cn": "杂质平均",
+   "en": "impurity average",
+   "source": "物理学名词",
+   "wordNumber": "08.1520",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平均能量",
+   "en": "average energy",
+   "source": "核医学名词",
+   "wordNumber": "02.0104",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "射线能量为连续能量范围的情况下(如β射线、X射线)，射线能量总和除以探测到的射线数所得到的平均值。"
+  },
+  {
+   "cn": "平均复杂性",
+   "en": "average complexity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0286",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对同一长度的一切输入的平均时间复杂性，或根据实际中某种分布的期望时间复杂性。"
+  },
+  {
+   "cn": "平均",
+   "en": "average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海损",
+   "en": "average",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算员",
+   "en": "averager",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集成平均",
+   "en": "consensus average\",\"consensus averaging",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长期平均，周期平均",
+   "en": "period average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均功率",
+   "en": "average power",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均偏差",
+   "en": "average departure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均误差",
+   "en": "average error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域平均",
+   "en": "area average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间平均",
+   "en": "time average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体积平均",
+   "en": "volume average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体平均",
+   "en": "bulk average",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平均粗糙度",
+   "en": "average roughness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "平均亮度",
+   "en": "average brightness",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均官能度",
+   "en": "average functionality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单独海损",
+   "en": "particular average",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同海损",
+   "en": "general average",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同海损保证金",
+   "en": "average deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "得失分率",
+   "en": "goal-average\",\"point average",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得失分率",
+   "en": "goal-average",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "C值",
+   "en": "set-average",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Z值",
+   "en": "point average",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段平均成绩",
+   "en": "partial average time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段平均时间",
+   "en": "partial average time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指数平滑移动平均线",
+   "en": "Moving Average Convergence and Divergence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业平均数据中心效率",
+   "en": "corporate average data center efficiency (CADE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全民参保精准识别",
+   "en": "accurate identification for universal social insurance coverage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均利润",
+   "en": "average profit",
+   "source": "马克思主义",
+   "wordNumber": "02.0220",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按照平均利润率或一般利润率归于一定量资本的利润。它作为利润的转化形式或剩余价值的第二级转化形式，使资本关系进一步神秘化。平均利润是利润率平均化规律作用的必然结果。平均利润用公式表示，平均利润=预付资本"
+  },
+  {
+   "cn": "平均共产主义",
+   "en": "Average communism",
+   "source": "马克思主义",
+   "wordNumber": "04.0285",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "18世纪末至19世纪初西欧工人运动中出现的以平均主义为特征的空想共产主义思潮之一。主要代表人物有摩莱里、马布里、巴贝夫、魏特林等。它认为社会不平等是一切罪恶的根源，而私有制是引起一切不平等的主要根源。"
+  },
+  {
+   "cn": "平均产量",
+   "en": "average production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "平均每一单位的可变要素的投入量所生产的产量。"
+  },
+  {
+   "cn": "平均成本",
+   "en": "average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "一定范围和一定时期内成本耗费的平均水平。"
+  },
+  {
+   "cn": "家庭平均户规模",
+   "en": "average family size",
+   "source": "社会学名词",
+   "wordNumber": "4.5.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_婚姻与家庭",
+   "subjectName": "婚姻与家庭",
+   "publishYear": "2025",
+   "definition": "平均每户人口数。"
+  },
+  {
+   "cn": "平均固定成本",
+   "en": "average fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "平均每生产一单位产品所耗费的固定成本。"
+  },
+  {
+   "cn": "平均可变成本",
+   "en": "average variable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "平均每生产一单位产品所消耗的可变成本。"
+  },
+  {
+   "cn": "一般性危险型",
+   "en": "average risk type",
+   "source": "社会医学名词",
+   "wordNumber": "7.3.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "个体的评价年龄接近实际年龄的类型，表明个体存在的危险因素类型和水平接近当地人群的平均水平，降低危险因素的可能性有限。"
+  },
+  {
+   "cn": "平均手术时间",
+   "en": "average operation time",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.5",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "伤员平均手术所需时间(分),可了解每个手术台24 小时能做多少手术，为战时卫勤领导部门组织安排手术提供依据。"
+  },
+  {
+   "cn": "平均暴露时间",
+   "en": "averaged exposure time",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "非致癌物的暴露持续时间。致癌物则按70 年计。"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "核子平均结合能",
+   "en": "nucleon average binding energy",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "原子核结合能除以其原子质量数所得平均值。该值越大，原子核越稳定。"
+  },
+  {
+   "cn": "乳腺平均剂量",
+   "en": "average mammary glandular dose",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.70",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "乳腺X射线摄影中所致受检者受均匀压迫乳房的腺体组织中的平均吸收剂量。"
+  },
+  {
+   "cn": "平均利润率",
+   "en": "average rate of profit",
+   "source": "马克思主义",
+   "wordNumber": "02.0221",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "决定资本利润率的主要因素有资本的有机构成、资本周转期间和剩余价值率。各个部门的利润率因上述条件不同而不同。部门间的竞争使这些不同部门的利润率平均为统一的一般水平。这种利润的一般水平就是平均利润率。"
+  },
+  {
+   "cn": "长期平均成本",
+   "en": "long-run average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "长期内生产每一单位产品平均所花费的成本。"
+  },
+  {
+   "cn": "短期平均成本",
+   "en": "short-run average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "短期内生产每一单位产品平均所需要的成本。"
+  },
+  {
+   "cn": "平均病床工作日",
+   "en": "average bed working days",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.1.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "实际占用总床日数与平均开放病床数之比，反映每病床在某区间内的负荷状况。"
+  },
+  {
+   "cn": "时间加权平均容许浓度",
+   "en": "permissible concentration-time weighted average",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "以时间为权数规定的8h工作日、40h工作周的平均容许接触浓度。"
+  },
+  {
+   "cn": "多层扫描平均剂量",
+   "en": "multiple scan average dose，MSAD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.62",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "多层扫描剂量分布曲线由一系列单层扫描剂量分布曲线的重叠和累加形成，当扫描的层面数目增加到某个数值时，则多层扫描剂量分布曲线的中央部分平均剂量达到的一个极限值。"
+  },
+  {
+   "cn": "短期平均成本曲线",
+   "en": "short-run average cost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在生产规模保持一定时，反映平均总成本与产量的关系曲线，呈现先降后升趋势。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,492 @@
+{
+ "key": "kriterion",
+ "term": "kritêrion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:45:55+00:00",
+ "status": "ok",
+ "note": "variant=kritêrion; 审定公布名词库=195; 海峡两岸名词对照库=54; 其他来源数据库=4; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "物理学名词",
+   "wordNumber": "01.0153",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0047",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "判断过程、装备以及产品性能的基本依据。"
+  },
+  {
+   "cn": "效标",
+   "en": "criterion",
+   "source": "心理学名词",
+   "wordNumber": "03.236",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "用来显示测验所欲测量的特性的变量。通常用一种测验分数或某种活动来表示。"
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化学工程名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "数学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "AIC准则",
+   "en": "AIC criterion,Akaike information criterion",
+   "source": "数学名词",
+   "wordNumber": "09.0901",
+   "subjectFullName": "数学_概率论_数理统计_时间序列分析",
+   "subjectName": "时间序列分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切割判据",
+   "en": "tearing criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "切割物流的选择要求，如切割物流数量最少等，以保证不仅切断所有简单回路，而且考虑后续迭代计算效率。"
+  },
+  {
+   "cn": "收敛判据",
+   "en": "convergence criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在迭代求解过程中，用以判断迭代求解过程是否实现了收敛而事先规定的判据。"
+  },
+  {
+   "cn": "蒂塞朗判据",
+   "en": "Tisserand’s criterion",
+   "source": "天文学名词",
+   "wordNumber": "03.201",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "证认不同时期观测到的周期彗星是否属同一颗的判别式。因法国天文学家蒂塞朗提出而得名。"
+  },
+  {
+   "cn": "大中取大准则",
+   "en": "maximal criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中采用乐观和冒险原则进行决策。其基本原则是在所有可选择的方案中，从最好的结果着想，再从最好的结果中选取最好的结果作为决策方案。"
+  },
+  {
+   "cn": "小中取大准则",
+   "en": "maximum criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中采用悲观和保守原则进行决策。其基本原则是在所有可选择方案中，从最坏的结果着想，再从最坏的结果中选取最好的结果作为决策方案。"
+  },
+  {
+   "cn": "劳森判据",
+   "en": "Lawson criterion",
+   "source": "核科学技术名词",
+   "wordNumber": "3.01",
+   "subjectFullName": "核科学技术_核聚变_核聚变基础",
+   "subjectName": "核聚变基础",
+   "publishYear": "2024",
+   "definition": "理想循环的聚变堆中，聚变堆能释放的总功率通过热电转换产生的电功率等于聚变堆中等离子体的损失功率时，等离子体的密度n、能量约束时间τE和温度T所满足的条件。其数学表达式为η(Pfu+Pr+Pt)=Pr+"
+  },
+  {
+   "cn": "苏丹姆判据",
+   "en": "Suydam criterion",
+   "source": "核科学技术名词",
+   "wordNumber": "3.171",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "处于纵向磁场Bz中，载有纵向体电流的等离子体柱对局部模稳定的必要条件。即磁剪切与等离子体压强梯度满足条件(2μB/Bz2) (dP/dr)+(r/4)(dμB/μBdr)2>0，其中，μB=Bθ/rB"
+  },
+  {
+   "cn": "点火判据",
+   "en": "ignition criterion",
+   "source": "核科学技术名词",
+   "wordNumber": "3.378",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "在惯性约束聚变点火内爆靶设计中用来衡量内爆是否达到点火条件的量化判断公式。该公式中包含重要的惯性约束聚变内爆特征物理量(包括一维理想和高维非理想物理因素)的定标关‍系。"
+  },
+  {
+   "cn": "破裂准则",
+   "en": "fracture criterion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1475",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "用于判断岩石发生剪切破裂的准则。 "
+  },
+  {
+   "cn": "破坏准则",
+   "en": "failure criterion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1555",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "给定的材料发生破坏时，其应力状态必须满足的条件。 "
+  },
+  {
+   "cn": "莫尔准则",
+   "en": "Mohr criterion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1618",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "莫尔(O. Mohr)于 1900年提出的一种岩石破裂准则。当应力莫尔圆所代表的任何应力状态在莫尔包络线以下时，岩石不会破裂；当应力莫尔圆与莫尔包络线相切时，岩石会在与最大主应力成某个夹角的面上发生破"
+  },
+  {
+   "cn": "伊尔文准则",
+   "en": "Irwin criterion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1623",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "伊尔文(G. R. Irwin)于 1957年提出的断裂韧性准则，该准则认为当应力强度因子 KJ到达临界值，又称断裂韧性 (KJc)时，裂纹开始扩展。 "
+  },
+  {
+   "cn": "格里菲斯准则",
+   "en": "Griffith criterion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1624",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "格里菲斯 (A. A. Griffith)于 1920年提出的能量判据，该判据认为当系统的能量释放率和裂纹扩展所消耗的表面能相等时，系统处于临界状态，此时 G到达临界值，裂纹开始扩展。 "
+  },
+  {
+   "cn": "校标[关联]效度",
+   "en": "criterion validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.018",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "一个或一组测量指标与其他有效测量指标的关联程度。表示测量工具的效度。"
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "效标",
+   "en": "criterion\",\"validity criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥布霍夫判据",
+   "en": "Obukhov criterion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压缩率判据",
+   "en": "compressibility criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计准则",
+   "en": "design criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性判据",
+   "en": "stability criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "循环判据",
+   "en": "circulating criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "误差判据",
+   "en": "error criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大中取大判据",
+   "en": "maximax criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性判据",
+   "en": "performance criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "收敛判据",
+   "en": "convergence criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡判据",
+   "en": "equilibrium criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "效标变量,标准变量",
+   "en": "criterion variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念效标",
+   "en": "conceptual criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "效标污染",
+   "en": "criterion contamination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安全标准",
+   "en": "safety criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "效标分析",
+   "en": "criterion analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "《GM/T 0006-2012 密码应用标识规范》",
+   "en": "GM/T 0006-2012 Cryptographic application identifier criterion specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用所设计量表与作为标准（即准则）的量表对同一人群进行调查，通过评价量表测量结果与标准量表测量之间的接近程度，来判断量表测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用几种不同的测量方式或不同指标对同一变量进行测量时，将其中的一种方式或指标作为准则，并通过其他的方式或指标与之作比较而测量效度的方法。"
+  },
+  {
+   "cn": "赤池信息量准则",
+   "en": "akaike information criterion, AIC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.43",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "衡量统计模型拟合优良性的一种信息量标准，由日本统计学家赤池弘次(Akaike)创立和发展。"
+  },
+  {
+   "cn": "三个有利于标准",
+   "en": "criterion of the three benefits",
+   "source": "马克思主义",
+   "wordNumber": "03.0543",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年南方谈话中，为消除人们在姓“资”姓“社”问题上的疑虑，推进社会主义现代化进程，提出了“三个有利于”标准，即“是否有利于发展社会主义社会的生产力，是否有利于增强社会主义国家的综合国力，"
+  },
+  {
+   "cn": "文艺批评的政治标准与艺术标准的统一",
+   "en": "unity of the political criterion and the artistic criterion of literary criticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0459",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》讲话中提出的文艺批评的原则。文艺批评有政治和艺术两个标准,“任何阶级社会中的任何阶级,总是以政治标准放在第一位,以艺术标准放在第二位的”。这一原则强调政治"
+  },
+  {
+   "cn": "辨别香花与毒草的标准",
+   "en": "criterion for flowers or noxious weeds",
+   "source": "马克思主义",
+   "wordNumber": "03.0460",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》一文中提出的在我国人民的政治生活中，判断人们的言论和行动的六条是非标准，即：是否有利于团结全国各族人民，是否有利于社会主义改造和建设，是否有利于巩固人民民主专"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "corporate organisms",
+ "term": "corporate organisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:36:25+00:00",
+ "status": "ok",
+ "note": "variant=corporate organisms; 审定公布名词库=1341; 海峡两岸名词对照库=553; 其他来源数据库=93; 预公布名词数据库=162; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.206",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "依法设立，以营利为目的，独立承担民事责任的从事生产或服务性业务的社会组织。是现代企业制度发展的结果，因此，与企业是种属关系。"
+  },
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0861",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "全部资本由股东出资构成，以营利为目的而依法设立的一种企业组织形式。"
+  },
+  {
+   "cn": "公司形象",
+   "en": "corporate images",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.098",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "通过产品特点、行销策略、人员风格等各种标志，建立起来的企业在社会上的总体印象。也特指消费者在记忆中通过联想反映出对某公司的总体感知。"
+  },
+  {
+   "cn": "企业重组",
+   "en": "corporate reconstruction",
+   "source": "经济学名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "企业以资本保值增值为目标，运用资产重组、债务重组和产权重组方式，优化企业资产结构、负债结构和产权结构，以充分利用现有资源，实现资源优化配置。"
+  },
+  {
+   "cn": "公司债券",
+   "en": "corporate bond",
+   "source": "经济学名词",
+   "wordNumber": "12.108",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "股份制公司发行的一种债务契约。公司承诺在未来的特定日期，偿还本金并按事先规定的利率支付利息。"
+  },
+  {
+   "cn": "企业行为",
+   "en": "corporate behavior",
+   "source": "经济学名词",
+   "wordNumber": "15.090",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "主要由特定的产权制度所决定，在给定的目标函数和激励、约束机制下，企业对于内、外环境及其变动做出的各种有规则的行动和反应。"
+  },
+  {
+   "cn": "企业活力",
+   "en": "corporate vitality",
+   "source": "经济学名词",
+   "wordNumber": "15.091",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "在各种环境下，企业对于自身生存及发展所拥有、并可激发的动力和能力。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "corporate culture",
+   "source": "经济学名词",
+   "wordNumber": "15.092",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "由企业所有员工长期互动，在企业的生存和发展过程中逐渐形成的一种企业内部共同的精神特质。企业文化通常具有稳定性和继承性，它可对企业行为和效益产生一定的影响。"
+  },
+  {
+   "cn": "公司情报",
+   "en": "corporate intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "企业竞争情报的一个广义术语。包括商业情报、竞争情报和企业运营本身所包含的公司安全保护和反竞争情报等。"
+  },
+  {
+   "cn": "团体著者",
+   "en": "corporate author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.533",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对一部文献的知识内容或艺术内容负有责任的团体。"
+  },
+  {
+   "cn": "机构索引",
+   "en": "corporate index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.805",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "以文献中涉及的机构名称为索引款目标目，并按机构名称字顺排列的索引。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "corporate culture",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0564",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "企业的价值取向与行为规则系统。包括企业的价值观、信念、仪式、符号、处事方式等组成的特有文化形象和行为模式。"
+  },
+  {
+   "cn": "企业公民",
+   "en": "corporate citizen",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0530",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "表达企业社会责任和道德责任的术语，始于20世纪80年代。其核心观点是，企业的成功与社会的健康发展密切相关。企业在获取经济利益的时候，要通过各种方式来回报社会。"
+  },
+  {
+   "cn": "公司财务",
+   "en": "corporate finance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0436",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "通过对企业资金的管理来达到企业财务目标的活动。通常包括负债决策、股利分配决策、投资决策和营运资本管理决策等。"
+  },
+  {
+   "cn": "企业融资",
+   "en": "corporate financing",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0438",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "企业通过各种途径和方式筹措企业经营和发展所需要的资金的活动。"
+  },
+  {
+   "cn": "公司创业",
+   "en": "corporate entrepreneurship",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0916",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "在现有公司内部进行的创新和新业务创建，以及因此而进行的战略更新活动。"
+  },
+  {
+   "cn": "公司网站",
+   "en": "corporate website",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0679",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "设计并用作建立顾客商誉并补充其他销售渠道，而非直接销售公司产品的网站。"
+  },
+  {
+   "cn": "公司治理",
+   "en": "corporate governance",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1052",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "所有者对其所拥有的企业的经营管理和绩效进行监督和控制的一整套制度。"
+  },
+  {
+   "cn": "企业投资",
+   "en": "corporate investment",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0439",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "企业以自有资产投入，承担相应的风险，以期合法地取得更多的资产或权益的一种经济活动。"
+  },
+  {
+   "cn": "公司广告",
+   "en": "corporate advertising",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0615",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "针对一个组织而非一个产品进行的广告。"
+  },
+  {
+   "cn": "公司合并",
+   "en": "corporate merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公司债券",
+   "en": "bond corporate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公司重组",
+   "en": "corporate restructuring",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "企业资本主义",
+   "en": "corporate capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国际公司",
+   "en": "international corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "会员公司",
+   "en": "member corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融公司",
+   "en": "finance corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开发公司",
+   "en": "development corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跨国公司",
+   "en": "supernational corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跨国公司",
+   "en": "transnational corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易公司",
+   "en": "trading corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "协议公司",
+   "en": "agreement corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷公司",
+   "en": "financing corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垂直企业",
+   "en": "vertical corporation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水平企业",
+   "en": "horizontal corporation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "corporate juridical person",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "企业空间结构",
+   "en": "corporate spatial structure",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国际公司法",
+   "en": "international corporation law",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "家庭金融公司",
+   "en": "household finance corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有形",
+   "en": "Corporeal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业数据",
+   "en": "corporate data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁人三项奥运距离团体赛",
+   "en": "Corporate Team Olympic Triathlon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法人行动者",
+   "en": "corporate actors",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.11",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会中人们出于各种目的有意建立起来的、微观结构以职位关系为基础的社会组织。"
+  },
+  {
+   "cn": "公司法人治理结构",
+   "en": "corporate governance structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0414",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种由公司的股东会（或股东大会）、董事会、经理层和监事会所构成的，各负其责、协调运转、有效制衡的现代企业内部组织管理制度。"
+  },
+  {
+   "cn": "法人治理结构",
+   "en": "corporate governance structure ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医疗机构领导层的组织架构，主要描述组织的所有者、决策者、监管者和执行者之间的关系。"
+  },
+  {
+   "cn": "企业社会责任",
+   "en": "corporate social responsibility",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.019",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业在追求经济效益、实现自身利润目标之外担负起对社会利益的普遍维护与增进的责任。"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T的平均吸收剂量，符号为DT。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  },
+  {
+   "cn": "公益组织",
+   "en": "commonwealth organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种非政府的、不把利润最大化当作首要目标，实行自主管理的民间志愿性的社会中介组织，其主要活动是致力于社会公众的福祉和利益以及解决各种社会性问题等。如基金会、协会、慈善信托、社团等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

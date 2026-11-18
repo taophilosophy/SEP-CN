@@ -1,0 +1,802 @@
+{
+ "key": "compliance class",
+ "term": "compliance class",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:56:11+00:00",
+ "status": "ok",
+ "note": "variant=compliance class; 审定公布名词库=1011; 海峡两岸名词对照库=323; 其他来源数据库=41; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "兽医学名词",
+   "wordNumber": "04.261",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "弹性组织受外力作用时发生变形扩张的能力。是弹性阻力的倒数。"
+  },
+  {
+   "cn": "依从性",
+   "en": "compliance",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.071",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "患者在遵从医嘱进行睡眠疾病治疗时的服从程度。"
+  },
+  {
+   "cn": "遵从",
+   "en": "compliance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对某一明确的或隐含的请求的服从响应。目标人士可能会也可能不会认识到自己被要求以特定的方式采取行动。社会影响是遵从的推动力。说服和获得遵从是极其重要的社会影响类型，因为它们利用各自的效力来实现其他人的服"
+  },
+  {
+   "cn": "柔顺性",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0476",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机器人或某辅助工具响应外力作用时的柔性。"
+  },
+  {
+   "cn": "柔度",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0018",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "刚度的倒数。"
+  },
+  {
+   "cn": "柔量",
+   "en": "compliance",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0334",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "应变（或应变分量）对应力（或应力分量）之比。"
+  },
+  {
+   "cn": "顺度",
+   "en": "compliance",
+   "source": "物理学名词",
+   "wordNumber": "02.0624",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.290",
+   "subjectFullName": "呼吸病学_肺功能_呼吸力学",
+   "subjectName": "呼吸力学",
+   "publishYear": "2018",
+   "definition": "外力作用下弹性组织的可扩张性。容易扩张者，顺应性大，弹性阻力小；不容易扩张者，顺应性小，弹性阻力大。顺应性是弹性阻力的倒数，用单位压力变化(<img src='/root/syzx/static/sp"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "核医学名词",
+   "wordNumber": "04.1403",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "单位跨壁压力变化所引起的肺容积变化程度，即外力作用下弹性组织的可扩张性。用来度量肺弹性阻力。"
+  },
+  {
+   "cn": "依从性",
+   "en": "compliance",
+   "source": "核医学名词",
+   "wordNumber": "06.0338",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究对象和研究者遵循和执行临床试验方案规定、要求的行为和程度。是保证研究结果客观、可靠的重要环节。"
+  },
+  {
+   "cn": "依从",
+   "en": "compliance",
+   "source": "心理学名词",
+   "wordNumber": "07.102",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对他人意愿或行为的遵从。"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "药学名词",
+   "wordNumber": "02.236",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "病人或医护人员对所用药品的接受程度，以及对于药品说明书或医嘱的依从程度。"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.063",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "患者履行医生有关医疗或其他相关忠告的程度。表明了患者与医生合作的主动性或自觉性。"
+  },
+  {
+   "cn": "柔顺性",
+   "en": "compliance",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.060",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.583",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "柔度",
+   "en": "compliance",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "柔顺",
+   "en": "compliance",
+   "source": "自动化名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "肺顺应性",
+   "en": "lung compliance,pulmonary compliance",
+   "source": "生理学名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "服药依从性",
+   "en": "drug compliance;medicine compliance",
+   "source": "急救医学名词",
+   "wordNumber": "03.924",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "患者的服药行为与医嘱的符合程度。"
+  },
+  {
+   "cn": "柔度",
+   "en": "flexibility,compliance",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.021",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "顺从性",
+   "en": "compliance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "依从,顺从",
+   "en": "compliance\",\"susmission",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剪切柔量",
+   "en": "shear compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "储能柔量",
+   "en": "storage compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "诱导依从,诱导顺从",
+   "en": "induced compliance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "柔度不变量",
+   "en": "compliance invariant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位流符合性，比特流符合性",
+   "en": "bitstream compliance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳态柔量",
+   "en": "steady-state compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴柔度",
+   "en": "on-axis compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "偏轴柔度",
+   "en": "off-axis compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弹性顺服常量",
+   "en": "elastic compliance constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合格证书",
+   "en": "document of compliance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "层合板耦合柔度",
+   "en": "coupling compliance of laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "层合板弯曲柔度",
+   "en": "bending compliance of laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类",
+   "en": "class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合规风险",
+   "en": "compliance risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静态柔顺性",
+   "en": "static compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据合规",
+   "en": "data compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧课堂",
+   "en": "smart class",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克级",
+   "en": "Olympic class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别规则",
+   "en": "class rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别徽章",
+   "en": "class insignia",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别信号",
+   "en": "class signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子组",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子组",
+   "en": "gentlemen’s class\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子比赛",
+   "en": "gentlemen’s class\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class\",\"degree\",\"grade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依从",
+   "en": "compliance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.5",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "人们为了获得奖励或避免惩罚而采取的与他人要求在表面上相一致的行为，或者说，依从行为并非出于自愿，而是迫于外界强制性的压力而采取的一时性的行为。"
+  },
+  {
+   "cn": "合格评定",
+   "en": "compliance testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对于食品销售和流通过程中怀疑不符合特定法规和准则的特定样品的检验过程。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.042",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者按照医嘱接受医学检查、治疗、康复和预防疾病的行为。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在已知自己患病后，积极配合医生、服从治疗的行为。"
+  },
+  {
+   "cn": "符合性声明",
+   "en": "declaration of compliance",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.71",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "包括产品名称、材质、遵循的食品安全国家标准代号和顺序号、有限制性要求的物质名单及其限制性要求。"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "在收入、身份、社会地位等方面存在明显差异的社会群体。社会科学界存在多种相互争议的定义，比较著名的定义来自马克思和韦伯等理论家。"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "马克思主义",
+   "wordNumber": "03.0089",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会人群在一定的生产关系中由于所处的生产资料所有制及其经济政治地位的不同而形成的不同集团。各阶级内部由地位的不同而形成不同的阶层。阶级形成的条件是生产力的发展、社会分工和剩余产品的出现，使生产资料逐步"
+  },
+  {
+   "cn": "应急等级",
+   "en": "emergency class",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "有必要立即做出相似应急响应的一系列状态。用来向响应部门和公众通报所需的响应水平。针对每个应急等级，预先规定了响应部门的初始行动。"
+  },
+  {
+   "cn": "上层阶级",
+   "en": "upper class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "在社会分层系统中处于较高等级位置的人所组成的群体。最初指贵族，进入资本主义社会后，指拥有大量资产的人（资产阶级）。当代社会既包括大资本家（拥有大资本），也包括大企业的高层管理者（掌控大资本），还包括政"
+  },
+  {
+   "cn": "中产阶级",
+   "en": "middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "在社会分层系统中处于中间位置的人群。这一词汇虽然被广泛使用，但其确切含义在社会学界尚未达成一致意见。不同流派理论家对中间位置的确定标准各有不同。马克思主义者认为是在资产阶级与无产阶级之间的人群（小资产"
+  },
+  {
+   "cn": "阶级分析",
+   "en": "class analysis",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "以一种特别的视角来研究社会分层、社会不平等及相关问题，强调阶级之间的社会经济区分、阶级的利益、认同和行动，以及由此而形成的社会关系。由于理论家对阶级这一概念有不同的定义，因而存在着不同的理论流派。"
+  },
+  {
+   "cn": "工人阶级",
+   "en": "working class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "领取薪金的体力劳动者，即蓝领工人。依马克思最初所作的定义，指不占有生产资料靠出卖劳动力而谋生的人，马克思主义理论家也称之为无产阶级。20世纪以来，这一定义发生了变化，白领工人（不占有生产资料而受雇于他"
+  },
+  {
+   "cn": "新阶级",
+   "en": "new class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "一般有两种定义：一是苏共时期（包括东欧社会主义国家）的科层制官僚，被认为是“共产主义”社会中享有特权的统治阶级，由杜拉斯(Djilas）提出；二是指知识分子，是现代社会最先进的力量，将取代资产阶级成为"
+  },
+  {
+   "cn": "有闲阶级",
+   "en": "leisure class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "无所事事的、寄生性的企业精英，通过消费炫耀来显示他们的身份地位，其人数在不断增长。美国社会理论家凡勃伦(Thorstein Veblen）在《有闲阶级理论》中提出的群体分类概念。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "阶级认同",
+   "en": "class identity",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员通过身份标签、价值认同或行为模式等方式承认他们是同一类人。非马克思主义理论家采用这一概念取代马克思所说的“阶级意识”概念。"
+  },
+  {
+   "cn": "阶级利益",
+   "en": "class interest",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员因相似的经济社会地位而拥有共同的利益诉求，是马克思阶级理论的重要概念。马克思认为，生产关系决定阶级利益，资产阶级和无产阶级在生产关系中所处的位置（生产资料的占有者和不掌握生产资料而出卖劳"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "阶级文化",
+   "en": "class culture",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "阶级成员在日常生活（包括生活方式和日常活动）中体现出的共同特征。布洛维(Michael Burawoy）、汤普森(E.P.Thompson）等社会学家和社会历史学家认为，阶级的共同特征或者阶级之间的差"
+  },
+  {
+   "cn": "服务阶级",
+   "en": "service class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "政府部门的公务人员、企业机构的管理人员和社会福利机构的工作人员。最初由瑞纳(Karl Renner）提出，后来被戈德索普(John Goldthorpe）采纳并明确定义为其阶级分类中一个最重要的阶级，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,602 @@
+{
+ "key": "schone kunst",
+ "term": "schöne Kunst",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:27:23+00:00",
+ "status": "ok",
+ "note": "variant=schöne Kunst; 审定公布名词库=267; 海峡两岸名词对照库=56; 其他来源数据库=11; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "榍石",
+   "en": "sphene",
+   "source": "冶金学名词",
+   "wordNumber": "03.0232",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "单斜晶系，化学式为<img src='/root/syzx/static/spz/yejin2.03.0232.01.png'/>。变种有钇榍石(富含稀土元素)、红榍石(富含锰，可达3%)。火成岩中常"
+  },
+  {
+   "cn": "瘦果",
+   "en": "achene",
+   "source": "植物学名词",
+   "wordNumber": "03.0548",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "由一枚或数枚心皮形成的小型闭果。含一枚种子，果皮坚硬，果皮与种皮易于分离。如白头翁、向日葵、荞麦的果实。"
+  },
+  {
+   "cn": "概形",
+   "en": "scheme",
+   "source": "数学名词",
+   "wordNumber": "04.1097",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "筛路",
+   "en": "sieve scheme,sifting scheme",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0709",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "在一仓平筛中各种筛格组合、排列叠置组成的筛理物料的流程。"
+  },
+  {
+   "cn": "迎风格式",
+   "en": "upstreame scheme,upwind scheme",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "榍石",
+   "en": "sphene,titanite",
+   "source": "地质学名词",
+   "wordNumber": "04.450",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "景致",
+   "en": "scene",
+   "source": "风景园林名词",
+   "wordNumber": "05.0182",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "透过画框呈现出的风景景物，是以二维画面形式展示的具有美感景观。给人以美感，带有一定的人的情感色彩。"
+  },
+  {
+   "cn": "景",
+   "en": "scene",
+   "source": "光学名词",
+   "wordNumber": "21.089",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "遥感图像的一种分割单位，对连续的图像数据段进行数据分割处理所得的结果。数据分景以预设的网格编号对数据进行编排，将遥感数据在逻辑上划分成一系列的单元。每一个分景单元对应着地面相对固定的区域，以便于对遥感"
+  },
+  {
+   "cn": "景物",
+   "en": "scene",
+   "source": "电子学名词",
+   "wordNumber": "05.247",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "榍石",
+   "en": "sphene;titanite",
+   "source": "地质学名词",
+   "wordNumber": "03.05.031",
+   "subjectFullName": "地质学_矿物学_硅酸盐矿物",
+   "subjectName": "硅酸盐矿物",
+   "publishYear": "2026",
+   "definition": "成分CaTi[SiO₄]O。单斜晶系，呈扁平柱状、板状或粒状晶形。黄色或浅褐色，玻璃光泽。解理{110}中等。硬度5～6。密度3.3～3.6g/cm³。钛的矿石矿物，可综合利用钇、铈。"
+  },
+  {
+   "cn": "施肥方案",
+   "en": "fertilization scheme",
+   "source": "农学名词",
+   "wordNumber": "09.262",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "施肥过程中所需的肥料种类和数量及施用方法和时间的整体方案。"
+  },
+  {
+   "cn": "沙伊综合征",
+   "en": "Scheie sydrome",
+   "source": "肝病学名词",
+   "wordNumber": "7.9.2.2.2.3",
+   "subjectFullName": "肝病学_遗传代谢性肝病_细胞器疾病",
+   "subjectName": "细胞器疾病",
+   "publishYear": "2024",
+   "definition": "最轻的黏多糖病Ⅰ型，可表现为关节僵硬、角膜混浊、主动脉瓣疾病、腕管综合征等。"
+  },
+  {
+   "cn": "分类方案",
+   "en": "classification scheme",
+   "source": "档案学名词",
+   "wordNumber": "03.01.045",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "运用档案分类方法及标准的指导性文件。"
+  },
+  {
+   "cn": "混合格式",
+   "en": "hybrid scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "综合了中心差分格式和迎风差分格式的混合差分格式。当Pe<2时（Pe为佩克莱数），采用中心差分格式；当Pe>2时，采用一阶迎风格式。混合格式根据流动的Pe值，在中心差分格式和迎风差分格式间切换，综合了这"
+  },
+  {
+   "cn": "指数格式",
+   "en": "exponential scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "利用一维稳态方程的精确解建立，将扩散与对流的作用结合在一起考虑的一种离散格式。"
+  },
+  {
+   "cn": "显式方案",
+   "en": "explicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当f=0时的时间积分方案，其内存占用量较小，但只具有一阶截差精度，且条件稳定，时间步长的大小受到限制。"
+  },
+  {
+   "cn": "隐式方案",
+   "en": "implicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当0<f≤1时的时间积分方案，无条件稳定，但其在时间域上只具有一阶截差精度，因此需要使用小的时间步长。"
+  },
+  {
+   "cn": "生产方案",
+   "en": "production scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "为满足不同生产目标，内容涉及装置处理量、原料性质、工艺参数控制、产品收率、产品质量及物耗能耗等指标的一组工艺运行条件。"
+  },
+  {
+   "cn": "工程方案",
+   "en": "engineering scheme",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.182",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "面向特定工程目标，收集、处理相关信息而拟定的具体实施方案。"
+  },
+  {
+   "cn": "分类表",
+   "en": "classification scheme",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.228",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "对新闻信息进行分类标引和检索的工具，是概念和先组织概念经分类组织成的详细表。"
+  },
+  {
+   "cn": "赋格艺术",
+   "en": "Kunst der Fuge\",\"Die",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "赋格的艺术",
+   "en": "Die Kunst der Fuge",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "美丽的梅格罗尼",
+   "en": "Magelone\",\"Die schöne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Brahms, Johannes"
+  },
+  {
+   "cn": "美丽的磨坊女",
+   "en": "Die schöne Müllerin",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "瘦果",
+   "en": "achene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方案",
+   "en": "scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编码方案",
+   "en": "encoding scheme\",\"coding scheme",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场景",
+   "en": "scene",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "景物",
+   "en": "scene",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交错格式，跳点格式",
+   "en": "staggered scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒格式",
+   "en": "conservation scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "松野格式",
+   "en": "Matsuno scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制线路",
+   "en": "control scheme",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角色图式",
+   "en": "role scheme",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蛙跳法",
+   "en": "leapfrog scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐格式",
+   "en": "implicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "迎风法， 迎风格式",
+   "en": "upwind scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有我之境，无我之境",
+   "en": "Scene Involving the Self / Scene Not Involving the Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "象外之象，景外之景",
+   "en": "The Image Beyond an Image, the Scene Beyond a Scene",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光英朗练",
+   "en": "Concise and Clear Wording Makes Writings Shine.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "在马克思原有阶级分类基础上，依据生产资料、组织和技术文凭三种资产数量，划分出的美国社会的12个阶级，特别提出了中产阶级的划分标准。该阶级分类由美国新马克思主义阶级理论家赖特(Erik Olin Wri"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "依据职业分类，划分出高低排列的7个阶级：服务阶级（专业人员和管理人员）、办事人员阶级（低层白领）、小资产阶级（小业主和自雇手工业者）、农场主、技术工人和非技术体力工人。该阶级分类由英国社会学家戈德索普"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.75",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定两个阈值限值，并根据样本的检测结果，在“接受”和“拒绝”两个判定之外，引入了一个“中间待定区”，需通过加大抽样来做出最终判定。"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.11",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农村医疗保障制度。是中国农村特有的医疗保障制度，从2003年开始实施，区别于中国计划经济时期实施的以村为统筹单位的合作医"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "按照法律规定实施，劳动者个人以劳动时间或货币贡献为计量单位进行参与，在做出一定贡献或达到一定资格后，依法享受应有待遇的制度体系。一般包括加入体系、做出贡献、计发待遇、享受待遇等几个基本程序。"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "各省根据国家监测计划，针对本省食品安全特点指定的省级检测内容"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.76",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定三个阈值限值，根据样本的检测结果，将产品批次判定为“接受”、“条件接受”或“拒绝”三个等级。"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.2.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农民医疗互助共济的制度。其目的是为了解决农民的就医问题，减轻农民因疾病带来的经济负担，提高农民健康水平"
+  },
+  {
+   "cn": "中央集中解决法的计划经济模式",
+   "en": "model of planned economy with centralist scheme",
+   "source": "马克思主义",
+   "wordNumber": "05.0184",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "二十世纪上半期，在西方关于社会主义经济核算问题的论战中，英国共产党主要理论家、马克思主义史学派主要代表人物莫里斯·多布（Maurice H.Dobb）参与同奥地利学派的论战。他既反对米塞斯、哈耶克等人"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

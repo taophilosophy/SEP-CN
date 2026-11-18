@@ -1,0 +1,52 @@
+{
+ "key": "diffeomorphisms",
+ "term": "diffeomorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:25:16+00:00",
+ "status": "ok",
+ "note": "variant=diffeomorphisms; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "微分同胚",
+   "en": "diffeomorphism",
+   "source": "数学名词",
+   "wordNumber": "08.0887",
+   "subjectFullName": "数学_几何学_拓扑学_微分流形",
+   "subjectName": "微分流形",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿诺索夫微分同胚",
+   "en": "Anosov diffeomorphism",
+   "source": "数学名词",
+   "wordNumber": "06.0163",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拟梯度微分同胚",
+   "en": "gradient-like diffeomorphism",
+   "source": "数学名词",
+   "wordNumber": "06.0175",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "莫尔斯-斯梅尔微分同胚",
+   "en": "Morse-Smale diffeomorphism",
+   "source": "数学名词",
+   "wordNumber": "06.0188",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

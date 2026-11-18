@@ -1,0 +1,32 @@
+{
+ "key": "atheists",
+ "term": "atheists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:34:34+00:00",
+ "status": "ok",
+ "note": "variant=atheists; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "主张世界上既没有灵魂和鬼，也没有上帝和任何其他神存在的学说。完全否定任何超自然力量。神是否存在，不能证实或证伪，属形而上学问题。与“有神论”相对。马克思主义坚持无神论，唯物主义者也是无神论者。"
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0106",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语a（不，无）和theos（神），泛指相信神灵不存在的思想或与有神论相反的立场。马克思主义哲学中，该术语是指否定一切宗教信仰和鬼神迷信的学说，与“有神论”相对立，其理论基础是唯物主义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

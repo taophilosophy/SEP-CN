@@ -1,0 +1,772 @@
+{
+ "key": "sociobiology wars",
+ "term": "sociobiology wars",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:25:13+00:00",
+ "status": "ok",
+ "note": "variant=sociobiology wars; 审定公布名词库=717; 海峡两岸名词对照库=177; 其他来源数据库=90; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "社会生物学",
+   "en": "sociobiology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.822",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "对人类社会行动的生物学基础（尤其是基因）作出的系统研究。立足于人类社会行为的生物学决定论的假设，试图从动物行为模式、进化论解释等方面对人类的社会现象作出迥异于一般社会理论的理解。"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "sociobiology",
+   "source": "动物学名词",
+   "wordNumber": "7.0014",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究动物的社群动态及其进化的科学。是对社会性动物的种群生态学和进化理论的延伸。"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "sociobiology",
+   "source": "心理学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "用多学科方法研究生物的起源、发展，生物和环境的关系等生物社会的规律的学科。"
+  },
+  {
+   "cn": "马隆战争",
+   "en": "Maroon Wars,Cimarron Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0681",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1725-1739年、1795-1797年，牙买加马隆人反抗英国殖民政府军镇压的两次战争。"
+  },
+  {
+   "cn": "竞争情报战争游戏",
+   "en": "war game,war gaming",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种竞争情报分析方法。让不同的人分别扮演己方、竞争对手或市场环境中的第三方以及消费者等，在尽可能逼真的模拟环境中进行模拟竞争，以发现情报人员凭借想象和推理而无法发现的问题，预测竞争对手和市场环境的发展"
+  },
+  {
+   "cn": "帕特里战争",
+   "en": "Paderi War,Padri War",
+   "source": "世界历史名词",
+   "wordNumber": "04.0285",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1803-1838年，印度尼西亚西苏门答腊米南加保帕特里教派的宗教战争和抗荷战争。"
+  },
+  {
+   "cn": "阿富汗战争",
+   "en": "Afghanistan Wars",
+   "source": "世界历史名词",
+   "wordNumber": "01.0271",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "①1979年苏联发动的在阿富汗建立亲苏政权的战争。②2001年以美国为首的联军发动的针对阿富汗塔利班政权的战争。"
+  },
+  {
+   "cn": "布匿战争",
+   "en": "Punic Wars",
+   "source": "世界历史名词",
+   "wordNumber": "02.0444",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "公元前264-前146年罗马对迦太基进行的三次战争，因罗马人称迦太基人为布匿人而得名。"
+  },
+  {
+   "cn": "尤卡坦战争",
+   "en": "Yucatan Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0613",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲",
+   "subjectName": "墨西哥、中美洲",
+   "publishYear": "2012",
+   "definition": "1847-1902年，墨西哥尤卡坦半岛东部和南部的玛雅族印第安人与白人、混血种人之间的战争。"
+  },
+  {
+   "cn": "乌拉圭战争",
+   "en": "Uruguay Wars",
+   "source": "世界历史名词",
+   "wordNumber": "01.0208",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1825年开始的巴西同阿根廷争夺乌拉圭以及乌拉圭抵抗侵略争取独立的战争。"
+  },
+  {
+   "cn": "卡弗尔战争",
+   "en": "Kaffir Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0538",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_撒哈拉以南非洲",
+   "subjectName": "撒哈拉以南非洲",
+   "publishYear": "2012",
+   "definition": "18世纪末至19世纪末，南非科萨人反抗布尔人和英国人殖民征服的战争。"
+  },
+  {
+   "cn": "密特里达提战争",
+   "en": "Mithradates Wars",
+   "source": "世界历史名词",
+   "wordNumber": "02.0465",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "公元前89-前63年，罗马与小亚细亚的本都国进行的战争，因发动战争的本都国国王密特里达提而得名。"
+  },
+  {
+   "cn": "马辰战争",
+   "en": "Banjarmasin Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0290",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1857-1863年，荷兰殖民者征服加里曼丹岛马辰王国的战争。"
+  },
+  {
+   "cn": "胡斯战争",
+   "en": "Hussite Wars",
+   "source": "世界历史名词",
+   "wordNumber": "02.0901",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1419-1434年，捷克人民反对天主教会和德意志帝国、封建贵族的民族解放战争，因战争爆发的直接导火线是胡斯的遇害而得名。"
+  },
+  {
+   "cn": "拿破仑战争",
+   "en": "Napoleonic Wars",
+   "source": "世界历史名词",
+   "wordNumber": "01.0205",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1793-1815年，拿破仑指挥法国军队对抗反法联盟的一系列战争。"
+  },
+  {
+   "cn": "美塞尼亚战争",
+   "en": "Messenian Wars",
+   "source": "世界历史名词",
+   "wordNumber": "02.0281",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "公元前740-前453年，伯罗奔尼撒半岛西南地区的美塞尼亚人反抗斯巴达侵略扩张和奴役的解放战争。"
+  },
+  {
+   "cn": "意大利战争",
+   "en": "Italian Wars",
+   "source": "世界历史名词",
+   "wordNumber": "02.0620",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "1494-1559年，法国与西班牙、神圣罗马帝国争夺意大利统治权的战争，因战场主要在意大利境内而得名。"
+  },
+  {
+   "cn": "摩洛战争",
+   "en": "Moro Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0310",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1578-1898年，菲律宾南部穆斯林(摩洛人)抵抗西班牙殖民者的武装斗争。"
+  },
+  {
+   "cn": "万丹战争",
+   "en": "Banten Wars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0280",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "17世纪，荷兰东印度公司与印度尼西亚万丹王国之间的4次战争。"
+  },
+  {
+   "cn": "巴尔干战争",
+   "en": "Balkan Wars",
+   "source": "世界历史名词",
+   "wordNumber": "01.0247",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1912-1913年，在欧洲列强插手下，因领土归属问题在巴尔干地区爆发的两次战争。"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "sociobiology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会生物学",
+   "en": "sociobiology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群生物学，社会生物学",
+   "en": "sociobiology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "战争安魂曲",
+   "en": "War Requiem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "战争神经症",
+   "en": "war neurosis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关税战",
+   "en": "tariff war",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格战",
+   "en": "price war",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格战",
+   "en": "rate war",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[电子]干扰战",
+   "en": "jamming war\",\"JW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战争与和平",
+   "en": "War and Peace",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Prokofiev, Sergey"
+  },
+  {
+   "cn": "消耗战",
+   "en": "war of attrition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "国际利息战",
+   "en": "world interest war",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "船舶战争险",
+   "en": "hull war risk",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "货物战争险",
+   "en": "cargo war risk",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "战争条款",
+   "en": "war risk clause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "作战[地]图",
+   "en": "operation map\",\"war map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读后写",
+   "en": "write after read\",\"WAR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "城市社会生态学",
+   "en": "urban socioecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "翘曲度",
+   "en": "warp",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "火星",
+   "en": "Mars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据战争",
+   "en": "data war",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "持久战",
+   "en": "protracted war",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "以战止战",
+   "en": "Use War to Stop War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非攻",
+   "en": "Denouncing Unjust Wars",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战争策源地",
+   "en": "hotbed of war",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "止戈为武",
+   "en": "Stopping War Is a True Craft of War.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "没有硝烟的战争",
+   "en": "a war without smoke",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不战而胜",
+   "en": "Win Without Resorting to War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵者凶器,争者逆德",
+   "en": "Weapons Kill; War Is Immoral.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善胜者不争",
+   "en": "Win a War Without Fighting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义兵",
+   "en": "Army of Justice / Just War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界反法西斯战争",
+   "en": "the Global War against Fascism",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争（简称：抗日战争、抗战）",
+   "en": "the Chinese People’s War of Resistance against Japanese Aggression (the War of Resistance)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "兵贵胜，不贵久",
+   "en": "In War, Seek Quick Victory, Not Prolongation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会生物学",
+   "en": "social biology/ Sociobiology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以生物学、进化论、动物行为学、动物学、族群遗传学、种群生态学等多学科观点和方法研究生物的社会行为、组织功能、种群活动规律等一般生物界现象，并试图以此结论来解释人类行为和社会生活的交叉学科。由美国学者爱"
+  },
+  {
+   "cn": "战争",
+   "en": "war",
+   "source": "马克思主义",
+   "wordNumber": "04.0061",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "战争是一种集体和有组织地互相使用暴力的行为，是敌对双方为了达到一定的政治、经济、领土的完整性等目的而进行的武装战斗。马克思主义的战争观认为，战争是一种社会历史现象，是不同阶级、民族、国家和政治集团之间"
+  },
+  {
+   "cn": "人民战争",
+   "en": "peoples war",
+   "source": "马克思主义",
+   "wordNumber": "03.0148",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫阶级或被压迫民族为谋求自身的解放，发动和依靠广大人民群众进行的战争。其基本原则是在政治、经济、军事上充分依靠广大人民群众。这种战争实行正规军与游击队相结合，武装群众与非武装群众相结合的作战方式。"
+  },
+  {
+   "cn": "帝国主义战争",
+   "en": "imperialist war",
+   "source": "马克思主义",
+   "wordNumber": "03.0267",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义国家之间，帝国主义军事集团之间为瓜分世界、争夺霸权而进行的战争。19世纪末20世纪初，由于资本主义经济、政治发展的不平衡性，资本主义各国之间的力量对比不断发生变化，发展速度较快的国家要求按实力"
+  },
+  {
+   "cn": "持久战",
+   "en": "protracted war",
+   "source": "马克思主义",
+   "wordNumber": "03.0421",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东阐述的中国革命战争的一种形式，相对于速决战而言。他在《中国革命战争的战略问题》和《论持久战》等文中指出，中国革命战争具有持久性，主张战略的持久战。"
+  },
+  {
+   "cn": "冷战",
+   "en": "Cold War",
+   "source": "马克思主义",
+   "wordNumber": "04.0121",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战后帝国主义者常把他们对社会主义国家进行的、除了直接武装进攻以外的一切敌对活动，总称为“冷战”。由美国资产阶级政论家赫伯特·斯沃普（Herbert B. Swope）于1946提出，同年英"
+  },
+  {
+   "cn": "鸦片战争",
+   "en": "opium war",
+   "source": "马克思主义",
+   "wordNumber": "04.0129",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1840—1842年，英国对中国发动的侵略战争。战争是由于英国向中国倾销鸦片而引起的，史称“鸦片战争”。战争充分暴露了清政府的腐败无能，《南京条约》的签定，丧权辱国，使中国从一个独立主权的国家，开始沦"
+  },
+  {
+   "cn": "苏芬战争",
+   "en": "SovietFinnish war",
+   "source": "马克思主义",
+   "wordNumber": "04.0242",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战期间苏联和芬兰的战争。1939年11月30日，战争爆发，三个月后芬兰战败。1940年3月12日，签订《苏芬和约》。规定原属芬兰的卡累利阿地峡，拉多加湖的西岸、北岸，芬兰湾中一些岛屿等地划"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "朝鲜战争",
+   "en": "Korean war",
+   "source": "马克思主义",
+   "wordNumber": "05.0207",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "朝鲜人民反对美国侵略、争取祖国统一和独立的战争。1950年6月25日，南朝鲜军越过“三八线”，向北部发起进攻，朝鲜内战爆发。美国盗用“联合国军”旗号正式参战。10月下旬美军逼进鸭绿江，将战火烧到中国边"
+  },
+  {
+   "cn": "第一次世界大战",
+   "en": "World War I",
+   "source": "马克思主义",
+   "wordNumber": "04.0225",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1914—1918年发生的各帝国主义国家第一次旨在重新瓜分殖民地、争夺世界霸权的一场世界规模的战争。19世纪末20世纪初，整个世界已被各帝国主义列强瓜分完毕。为了重新瓜分世界，形成了由英、法、俄三国组"
+  },
+  {
+   "cn": "俄国内战争",
+   "en": "Russian Civil War",
+   "source": "马克思主义",
+   "wordNumber": "04.0231",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月革命后苏维埃政权领导俄国各族人民反对国内反革命叛乱和外国武装干涉的战争。1920年底，国内战争基本结束。这场战争保卫了第一个无产阶级国家。"
+  },
+  {
+   "cn": "第二次世界大战",
+   "en": "World War II",
+   "source": "马克思主义",
+   "wordNumber": "04.0241",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1939—1945年,中、苏、美、英等同盟国反对德、意、日等轴心国侵略的全球性反法西斯战争。1929—1933年的世界经济危机,震撼了资本主义世界,加剧了帝国主义国家之间的矛盾。为摆脱危机而走上军国主"
+  },
+  {
+   "cn": "伟大卫国战争",
+   "en": "Great Patriotic War",
+   "source": "马克思主义",
+   "wordNumber": "04.0244",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联人民为了保卫祖国而进行的反击德国法西斯及其帮凶的正义战争。1942年6月22日晨，德国法西斯撕毁苏德互不侵犯条约，纠集190个师的优势兵力，以“闪电战”的方式向苏联发动进攻。苏联人民在以斯大林为首"
+  },
+  {
+   "cn": "战俘检疫",
+   "en": "quarantine of war prisoner",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.7.6",
+   "subjectFullName": "军事预防医学_军队流行病学_军队疾病监测与检疫",
+   "subjectName": "军队疾病监测与检疫",
+   "publishYear": "2025",
+   "definition": "对战俘和可能受传染病病原体污染的战俘营进行检疫。"
+  },
+  {
+   "cn": "中国革命战争的特点",
+   "en": "characteristics of Chinas revolutionary war",
+   "source": "马克思主义",
+   "wordNumber": "03.0401",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于中国革命战争独特性的论述。他在1936年12月的《中国革命战争的战略问题》一文中，总结了中国革命战争的四个特点：中国是一个政治经济发展不平衡的半殖民地半封建的大国，经过了第一次大革命的洗礼；"
+  },
+  {
+   "cn": "战伤救治统计",
+   "en": "statistics of war wound treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤员救治情况资料的统计，原始资料来自战斗伤员登记册和住院病员登记簿，主要统计指标有火线救护种类构成比、后运方法构成比、抗休克成功率、手术率、平均手术时间、输液[血]率、平均输液[血]量等。"
+  },
+  {
+   "cn": "伤病比",
+   "en": "ratio of war injury to diseases",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.13",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员人数与病员人数之比，反映战斗激烈程度以及卫生防病工作效果，可用以分析卫生减员的组成和总结医疗后送与卫生防病工作经验。"
+  },
+  {
+   "cn": "中国革命战争的根本规律",
+   "en": "fundamental law of Chinas revolutionary war",
+   "source": "马克思主义",
+   "wordNumber": "03.0400",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《中国革命战争的战略问题》一文中指出，经过了一次大革命的政治经济不平衡的半殖民地的大国，强大的敌人，弱小的红军，土地革命，这四个特点规定了中国红军的可能发展和可能战胜其敌人，规定了中国红军的不"
+  },
+  {
+   "cn": "战伤救治伦理",
+   "en": "ethics of treatment of war wounds",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2109999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "承担战争中伤病员救治任务的相关人员应该遵循的伦理规范和要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

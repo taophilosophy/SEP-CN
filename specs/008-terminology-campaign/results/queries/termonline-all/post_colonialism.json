@@ -1,0 +1,792 @@
+{
+ "key": "post-colonialism",
+ "term": "Post-colonialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:33+00:00",
+ "status": "ok",
+ "note": "variant=Post-colonialism; 审定公布名词库=1983; 海峡两岸名词对照库=585; 其他来源数据库=100; 预公布名词数据库=139; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "后殖民主义",
+   "en": "post-colonialism",
+   "source": "地理学名词",
+   "wordNumber": "17.070",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "为消除殖民思想，向冲击非西方文化的帝国主义进行挑战的运动。"
+  },
+  {
+   "cn": "后殖民主义批判学派",
+   "en": "critical school of post colonialism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.008",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "对帝国主义结构性扩张与殖民主义文化遗产进行批判的一批学者。这批学者兴起于20世纪70年代的西方学术界，发表了一系列针对现代性、民族国家、知识生产和欧美文化霸权的论著。其分析往往以葛兰西的霸权理论、福柯"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "经济学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "资本主义国家采取军事、政治和经济手段，占领、奴役和剥削弱小国家、民族和落后地区，将其变为殖民地、半殖民地的侵略政策。"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "资本主义列强凭借实力奴役、剥削并直接统治或紧密控制弱小国家和地区的思想理论体系及其侵略政策。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "兽医学名词",
+   "wordNumber": "16.007",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "在适宜条件下经过一定时间培养，细菌个体在适合生长的固体培养基表面或内部形成肉眼可见的有一定形态的独立群体。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony ",
+   "source": "草学名词",
+   "wordNumber": "7.0332",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "动物学名词",
+   "wordNumber": "5.252",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "苔藓动物与环境相互作用而形成的一个完整有机体的形态和功能单位。由一种或多种自然连系的个虫、多个虫部分（在某些群体它还包括个虫外部分）构成。所有这些组成部分都是均一的。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.028",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "将单个菌接种在固体培养基表面，在一定时间内生长形成的肉眼可见的菌群。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0209",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物营养与代谢",
+   "subjectName": "食品微生物营养与代谢",
+   "publishYear": "2020",
+   "definition": "一个或少数几个微生物细胞在适宜的固体培养基表面或内部生长繁殖到一定程度而形成肉眼可见、具有一定形态特征的子细胞群体。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "烧伤学名词",
+   "wordNumber": "03.087",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤感染及其防治",
+   "subjectName": "烧伤感染及其防治",
+   "publishYear": "2019",
+   "definition": "在固体培养基上一个细菌分裂繁殖而形成的肉眼可见的群体。不同细菌常形成不同特征的菌落，并且比较稳定，在细菌鉴定中有一定意义。这些特征主要包括颜色、隆起度、边缘、质地、表面、血琼脂上的溶血等。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "植物学名词",
+   "wordNumber": "04.0094",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "由相同形态结构和生理功能的细胞聚集一起形成的藻类聚合体。每个细胞均可进行光合作用，也可以进行繁殖。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "药学名词",
+   "wordNumber": "05.309",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "从单一的细胞在固体培养基内或表面生长出一群相接触的细胞。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "微生物学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "在固体基质表面或内部形成的紧密生活在一起肉眼可见的同一微生物物种的群体，或来源于同一细胞的一群细胞。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "世界历史名词",
+   "wordNumber": "01.0712",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "原指移民垦殖的荒蛮无主地区，进入资本主义社会后指遭受殖民国家侵略被殖民统治和控制的国家或地区。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "古生物学名词",
+   "wordNumber": "02.0789",
+   "subjectFullName": "古生物学_古无脊椎动物学_苔藓动物",
+   "subjectName": "苔藓动物",
+   "publishYear": "2009",
+   "definition": "系形态和功能单位，与环境配合，作为一个生物整体，由一个或多个类型的、均匀一致的、有自然联系的个虫、多个虫部分，以及个虫外构造部分组成。骨骼部分即硬体。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.197",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "由一个或几个细胞增殖而来的细胞群。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "生态学名词",
+   "wordNumber": "06.202",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "同种生物的个体在特定的环境空间和特定时间内的集聚群体。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "地理学名词",
+   "wordNumber": "17.068",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "在本国以外的领土的总称。以国家政策为背景的集体移民所居住的土地。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "水产名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "种群不同生活阶段个体的集合，或几个生活在特定水域的种群的集合。"
+  },
+  {
+   "cn": "多王群",
+   "en": "polygynous colony,pleometrotic colony,polyqueen colony",
+   "source": "昆虫学名词",
+   "wordNumber": "07.170",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中有两个或两个以上王的群体。"
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post-colonialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后殖民研究",
+   "en": "post-colonial studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单王群",
+   "en": "monogynous colony\",\"haplometrotic colony\",\"monoqueen colony",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多王群",
+   "en": "polygynous colony\",\"pleometrotic colony\",\"polyqueen colony",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "标桩",
+   "en": "post",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "菌落免疫印迹法",
+   "en": "colony immunoblotting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菌落印迹法",
+   "en": "colony blotting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菌落杂交",
+   "en": "colony hybridization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "栖息群",
+   "en": "roosting colony",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群居性昆虫",
+   "en": "colonial insect",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群气味",
+   "en": "colony odor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群体繁殖",
+   "en": "colonial breeding",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群体珊瑚",
+   "en": "colonial coral",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群体生物",
+   "en": "colonial organism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "门柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角柱",
+   "en": "corner post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点标志",
+   "en": "finishing post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉支柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高位",
+   "en": "high post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腰位",
+   "en": "middle post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低位",
+   "en": "low post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "net post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "support post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络文化殖民主义",
+   "en": "cyber cultural colonialism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系缆柱",
+   "en": "cleat\",\"samson post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post colonialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种跨越并影响人文学科、社会科学及哲学的学术思潮，研究殖民现象给殖民者和被殖民者带来的文化影响和殖民关系的衍生品，以及现在的表现形式和实际情况。"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "一个较强大的国家越过自身的边界建立移民殖民地或行政附庸机构，借以对外延伸其主权，并直接干预较弱小国家或区域的政治、经济和文化的系统。"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0222",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "比较强大的国家采取军事、政治和经济、文化等手段，占领、奴役和剥削、掠夺弱小国家、民族及落后地区的侵略行径及政策主张。在资本主义发展的不同时期，殖民主义有不同的表现形式。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "一个或几个细菌在适宜的固体培养基表面或内部生长繁殖到一定程度而形成肉眼可见，具有一定形态特征的集合体。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "丧失了自身在政治、经济、军事和外交等方面的独立主权，受宗主国统治的附属国家或地区。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "马克思主义",
+   "wordNumber": "03.0221",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "最初指一国在国外用强力所侵占并将其大批居民移往居住的地区。在资本主义时期，特别是在帝国主义阶段，指遭受外来资本主义强国侵略，丧失了主权和独立，政治、经济、军事和外交等方面完全受殖民主义国家控制的国家和"
+  },
+  {
+   "cn": "殖民主义体系",
+   "en": "colonialism system",
+   "source": "马克思主义",
+   "wordNumber": "03.0223",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义世界体系的一个重要组成部分，是资本主义国家对殖民地半殖民地及其附属国实行直接和间接的奴役统治、控制的一种世界性结构的总称，、。"
+  },
+  {
+   "cn": "殖民地经济",
+   "en": "colonial economy",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "受宗主国控制的附属国家或地区在经济发展上服从于宗主国的利益，工商业发展受到宗主国限制，经济结构单一，和宗主国存在着能源、原材料、劳动力和资本、工业制成品之间的不平等贸易的经济发展模式。"
+  },
+  {
+   "cn": "菌落计数",
+   "en": "colony count",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.52",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "测定固体培养基上生长出的菌落或菌斑数量，从而反映样品中微生物数量。"
+  },
+  {
+   "cn": "菌落特征",
+   "en": "colony characteristics",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.51",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "不同细菌常形成不同特征的菌落，并且比较稳定，这些特征主要包括颜色、隆起度、边缘、质地、表面、血琼脂上的溶血等，在细菌鉴定中有一定意义。"
+  },
+  {
+   "cn": "后涂尔干主义",
+   "en": "post-Durkheimism",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.23",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "美国社会学家格仑斯基(David Grusky）和索伦森(Jesper B.Sorensen）等人从涂尔干的《社会劳动分工论》中汲取思想，认为当代的社会分层主要以职业分化为基础，当代社会存在的阶级是职"
+  },
+  {
+   "cn": "后现代性",
+   "en": "post-modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种与现代性相悖的思潮，质疑启蒙运动理性精神及其在社会进程中的体现。"
+  },
+  {
+   "cn": "后生产主义",
+   "en": "post-productivism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.14",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "将农村地区变成不仅是消费基地，而且是环境保护基地的思想。改变那种只追求更高利润和更高生产力的生产主义思想。"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门按照一定的标准和程序,对学校突发公共卫生事件现场调查处理、患者救治、所采取的措施效果进行综合评估的活动。"
+  },
+  {
+   "cn": "灾后消毒",
+   "en": "post-disaster disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.23",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "灾害发生后对灾区污染物品和场所进行的消毒处理。"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "上岗前培训",
+   "en": "pre-post training",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员上岗前应接受的放射防护有关知识的培训，并经考核合格方可参加相应的工作。"
+  },
+  {
+   "cn": "后工业社会",
+   "en": "post-industrial society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以信息和知识为关键变量，高端制造业和高科技、金融等服务业在经济中占突出地位的工业社会。现代科技革命和工业社会进一步发展的产物。"
+  },
+  {
+   "cn": "后现代社会",
+   "en": "post-modern society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "伴随西方启蒙运动以来各种宏大叙事和乌托邦的幻灭以及现代社会-文化诸多领域发生一定变迁和历史性断裂而形成的超现代性社会。一种理论上被用来与启蒙运动思想造就的现代性社会相区别的术语或概念。"
+  },
+  {
+   "cn": "后工业化城市",
+   "en": "post-industrial city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "基于信息、金融和服务业为主导的城市形态。20世纪70年代，随着发达国家的经济发展从工业产品生产转到信息、金融、服务业等，城市也经历了传统工业衰落、制造业就业机会减少的过程，城市中心的工业用地则通过土地"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

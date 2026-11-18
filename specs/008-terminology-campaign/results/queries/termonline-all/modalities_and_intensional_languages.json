@@ -1,0 +1,722 @@
+{
+ "key": "modalities and intensional languages",
+ "term": "Modalities and Intensional Languages",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:24:24+00:00",
+ "status": "ok",
+ "note": "variant=Modalities and Intensional Languages; 审定公布名词库=10000; 海峡两岸名词对照库=2007; 其他来源数据库=1309; 预公布名词数据库=1258; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "内涵逻辑",
+   "en": "intensional logic",
+   "source": "语言学名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种逻辑系统。应用内涵和外延算子将一个词项与它在上下文中的具体意义加以区别。"
+  },
+  {
+   "cn": "内涵释义",
+   "en": "intensional definition",
+   "source": "语言学名词",
+   "wordNumber": "06.303",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。通过描述语词指称物所具有的属性集来解释语词含义，揭示并表述出被释义词的概念特征，即对概念内涵的描述。内涵分为主观内涵、客观内涵和约定内涵三种类型。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "内涵数据库",
+   "en": "intensional database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言描述语言",
+   "en": "language-description language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受限语言",
+   "en": "restricted language\",\"controlled language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言生成",
+   "en": "language production",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "口头语言",
+   "en": "spoken language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言理解",
+   "en": "language comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "身体语言",
+   "en": "body language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "手语",
+   "en": "sign language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第二语言",
+   "en": "second language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "言",
+   "en": "Language",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器语言",
+   "en": "machine language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正则语言",
+   "en": "regular language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汇编语言",
+   "en": "assembly language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "R语言",
+   "en": "R language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Python语言",
+   "en": "Python language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Julia语言",
+   "en": "Julia language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "马克思主义",
+   "wordNumber": "01.0015",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类生产劳动基础上产生和发展的、按照一定规则表达和交流思想的工具，是具有一定音、形、义的符号系统，是思维、意识的物质载体。除自然语言外，还存在人工语言。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用来表达思想与情感的，可共享的言语和非言语符号系统。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0035",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "索绪尔提出语言研究要注意区分语言（langue）和言语（parole）。语言指说话者共同使用的语言系统或结构，是社会集团为了使个人有可能行使语言机能而采取的必不可少的规约，为社会成员所共同遵守。后来的"
+  },
+  {
+   "cn": "门巴语",
+   "en": "Monba languages",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0237",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "门巴族使用的两种语言之一。属汉藏语系藏缅语族藏语支。分布在西藏自治区错那县勒布乡、墨脱县德兴乡以及达旺地区。可分南部和北部两个方言，方言差异不很大。使用人口约3 万。"
+  },
+  {
+   "cn": "高山族语言",
+   "en": "Gaoshan languages",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0344",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾地区高山族语言的总称，分布在台湾中部山区和东部纵谷平原及兰屿等地。居住在台湾西、北、中部沿海平原或盆地的平埔族群所使用的语言，基本消亡。台湾南岛语言内部的谱系分类比较一致的看法是，兰屿岛的雅美"
+  },
+  {
+   "cn": "纳木依语",
+   "en": "Namuyi language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0241",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“纳木依”“纳木兹”的藏族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川省凉山彝族自治州冕宁、西昌、盐源、木里和甘孜藏族自治州九龙等县市。使用人口约5000人。"
+  },
+  {
+   "cn": "语言活力",
+   "en": "language vitality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0172",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社会交际的领域、状态、频率和程度。通过既定的指标和权重加以计量和分级。"
+  },
+  {
+   "cn": "桑孔语",
+   "en": "Sangkong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0249",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“桑孔”的哈尼族使用的语言。属汉藏语系藏缅语族彝语支。分布在云南省景洪市小街乡和勐龙镇。使用人口约2000 人。"
+  },
+  {
+   "cn": "羌语",
+   "en": "Qiang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0245",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国羌族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川茂县以及汶川、理县、松潘等县，使用人口约10 万；黑水县约4 万多藏族也使用羌语。分南、北两个方言。20 世纪90 年代初，创制了拉丁字母形式的"
+  },
+  {
+   "cn": "赛德克语",
+   "en": "Seediq language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0349",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾省赛德克（Seediq）人使用的语言。属南岛语系印度尼西亚语族台湾语支泰雅语群。分布在台湾南投县和花莲县等地。使用人口约14000 人。分为雾社、春阳、太鲁阁3个方言。"
+  },
+  {
+   "cn": "鄂伦春语",
+   "en": "Oroqen language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0316",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "鄂伦春族使用的语言。属阿尔泰语系满-通古斯语族通古斯语支。分布在内蒙古自治区和黑龙江省。鄂伦春族人口有9000 多人，仅老年人还能使用。"
+  },
+  {
+   "cn": "语言联盟",
+   "en": "language union",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0158",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "没有亲属关系的语言，由于长期共处于一个地区而在语言结构上产生共同区域特征的现象。语言联盟中的诸语言在经济、文化、人口比例上相差不大，因此还能保持各自的本体结构。"
+  },
+  {
+   "cn": "炯奈语",
+   "en": "Jiongnai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0289",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“炯奈”、他称“花蓝瑶”的瑶族使用的语言。属汉藏语系苗瑶语族苗语支。分布在广西金秀瑶族自治县的六巷、长垌、罗香3 个乡镇。可分为长垌、六巷两个方言，方言差别不大。使用人口有1000 多人。"
+  },
+  {
+   "cn": "噶玛兰语",
+   "en": "Kavalan language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0356",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾省噶玛兰人使用的语言。属南岛语系印度尼西亚语族台湾语支排湾语群。部分噶玛兰人从台湾东北部的兰阳平原南迁至花莲县，至今只有极少数老人使用。"
+  },
+  {
+   "cn": "语言冲突",
+   "en": "language conflict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0174",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由语言问题而引发的社会、政治冲突。"
+  },
+  {
+   "cn": "语言崇拜",
+   "en": "language worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0348",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "起源于语言巫术的崇拜；原始人类赋予语言一种神秘的力量，认为它可以改变自然、社会和人的命运，对他奉若神明。"
+  },
+  {
+   "cn": "贵琼语",
+   "en": "Guiqiong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0225",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "四川省甘孜藏族自治州康定市和泸定县自称“贵琼”的藏族使用的语言。属汉藏语系藏缅语族羌语支。使用人口约6000 人。"
+  },
+  {
+   "cn": "黎语",
+   "en": "Li language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0271",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国黎族使用的语言。属汉藏语系侗台语族黎语支。分布在海南省。分侾、杞、本地、美孚、加茂5 个方言。使用人口约100 万。1957 年设计了拉丁字母形式的《黎语文字方案》。"
+  },
+  {
+   "cn": "柯尔克孜语",
+   "en": "Kirgiz language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0299",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "柯尔克孜族使用的语言。属阿尔泰语系突厥语族东匈语支。分布在新疆克孜勒苏柯尔克孜自治州。使用人口约20 万人。国外主要分布在吉尔吉斯斯坦，中译吉尔吉斯语。中国柯尔克孜语分南部和北部两个方言。中国的柯尔克"
+  },
+  {
+   "cn": "嘉戎语",
+   "en": "rGyarong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0228",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国自称“嘉戎”的藏族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川省马尔康、金川、小金、理县、黑水、丹巴、道孚等县市。使用人口10 多万人。分东部、北部和西部3 个方言，方言之间同源词比例不高。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,452 @@
+{
+ "key": "geltung",
+ "term": "Geltung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:31:37+00:00",
+ "status": "ok",
+ "note": "variant=Geltung; 审定公布名词库=193; 海峡两岸名词对照库=55; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "熔融作用",
+   "en": "melting",
+   "source": "地质学名词",
+   "wordNumber": "04.01.028",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上地幔和地壳深部的岩石持续不断地受热能(放射性热能、热流体对流等)影响，保持其液相线以上温度而产生岩浆的过程。"
+  },
+  {
+   "cn": "胶化",
+   "en": "gelling",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.085",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "涂料从液态变为不能使用的固态或半固态的现象。"
+  },
+  {
+   "cn": "熔融",
+   "en": "melting",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0931",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "常温下呈固体的聚合物加热至一定温度后发生熔化，变为液态的现象。"
+  },
+  {
+   "cn": "胶凝",
+   "en": "gelling",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0071",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "亲水性高分子溶液，如明胶水溶液、琼脂水溶液，在温热条件下为黏稠性流动液体，当温度降低时，高分子溶液就形成网状结构，分散介质水被包裹在网状结构中，形成不流动的半固体状物的过程。"
+  },
+  {
+   "cn": "熔炼",
+   "en": "melting",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.010",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "通过加热使金属由固态转变到液态并使其温度、成分等符合要求的工艺过程。"
+  },
+  {
+   "cn": "阉马",
+   "en": "gelding",
+   "source": "畜牧学名词",
+   "wordNumber": "02.301",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "去了势的公马。"
+  },
+  {
+   "cn": "熔化",
+   "en": "melting",
+   "source": "冶金学名词",
+   "wordNumber": "04.0567",
+   "subjectFullName": "冶金学_冶金物理化学_冶金熔体",
+   "subjectName": "冶金熔体",
+   "publishYear": "2019",
+   "definition": "物质由固态变为液态的过程。"
+  },
+  {
+   "cn": "熔化",
+   "en": "melting",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0420",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "物质由固态转变为液态的过程。"
+  },
+  {
+   "cn": "熔融",
+   "en": "melting",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1269",
+   "subjectFullName": "材料科学技术_高分子材料_高分子加工_加工相关性能",
+   "subjectName": "加工相关性能",
+   "publishYear": "2011",
+   "definition": "通过温度升高使物料由固态变为熔体的过程。"
+  },
+  {
+   "cn": "胶化",
+   "en": "gelling",
+   "source": "电气工程名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "熔化",
+   "en": "melting,fusion",
+   "source": "电力名词",
+   "wordNumber": "01.579",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "物质从固态转变为液态的相变现象。"
+  },
+  {
+   "cn": "熔化",
+   "en": "melting,fusion",
+   "source": "物理学名词",
+   "wordNumber": "05.0396",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "熔化[速]率",
+   "en": "melting rate,speed of melting",
+   "source": "电气工程名词",
+   "wordNumber": "17.316",
+   "subjectFullName": "电气工程_工业电热设备",
+   "subjectName": "工业电热设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "部分熔融作用",
+   "en": "partial melting",
+   "source": "地质学名词",
+   "wordNumber": "04.01.029",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上地幔和地壳深部的热能使其中相对低熔点的组分发生熔融生成岩浆，而高熔点的难熔组分未发生熔融的现象。"
+  },
+  {
+   "cn": "熔融曲线",
+   "en": "melting curve",
+   "source": "地质学名词",
+   "wordNumber": "13.05.044",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "相图中表示固相全部熔融成液相时的温度-压力变化曲线。"
+  },
+  {
+   "cn": "一致熔融",
+   "en": "congruent melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.048",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "含有中间化合物的二元体系中，当中间化合物熔化形成的液相成分与其固相成分完全一致时的熔融状态。"
+  },
+  {
+   "cn": "不一致熔融",
+   "en": "incongruent melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.049",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "含有中间化合物的二元体系中，当中间化合物熔化形成的液相成分与其固相成分不同时的熔融状态。"
+  },
+  {
+   "cn": "批式熔融",
+   "en": "batch melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.050",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "在部分熔融过程中，熔出的熔体与残余固相始终保持平衡，残余固相的颗粒间隙中保留着静态的熔体，直到熔体移去的熔融状态。"
+  },
+  {
+   "cn": "收集熔融",
+   "en": "collection melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.053",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "熔体连续产生，连续移至一存储池中，并均匀地混合在一起的部分熔融过程。"
+  },
+  {
+   "cn": "多重熔融",
+   "en": "multiple melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.054",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "同一熔融作用或不同类型熔融作用的多重(多阶段)复合。"
+  },
+  {
+   "cn": "融解",
+   "en": "melting",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "熔化",
+   "en": "melting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "解链, 熔解",
+   "en": "melting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "解链温度",
+   "en": "melting temperature",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "熔点",
+   "en": "melting point",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "融点",
+   "en": "melting point",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域熔炼",
+   "en": "zone melting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熔点范围",
+   "en": "melting range",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熔化温度",
+   "en": "melting temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等离子体冶金",
+   "en": "plasma melting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "胶凝剂",
+   "en": "gelling agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "悬浮熔炼法",
+   "en": "levitation melting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真空熔炼",
+   "en": "vacuum melting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回熔",
+   "en": "melting back",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "熔点",
+   "en": "melting point",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "初熔",
+   "en": "incipient melting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热熔法预浸料",
+   "en": "melting prepreg",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "熔融温度",
+   "en": "melting temperature",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "部分熔融",
+   "en": "partial melting",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "熔点",
+   "en": "melting point",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "骟马",
+   "en": "gelding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统筹疫情防控与经济社会秩序恢复",
+   "en": "to implement epidemic prevention and control measures in parallel with those aimed at getting the economy and society back to normal ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "文化大熔炉",
+   "en": "melting pot",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "相异文化背景的各种人群逐渐融合为一个多元民族文化的现象。"
+  },
+  {
+   "cn": "金属熔融去污",
+   "en": "decontamination of metal by melting",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.14",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "通过对被污染金属的熔融，将放射性污染物截留于熔渣、炉衬和通风系统内或被挥发掉以实现金属去污的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

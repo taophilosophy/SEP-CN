@@ -1,0 +1,752 @@
+{
+ "key": "truth by convention",
+ "term": "Truth by Convention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:38:34+00:00",
+ "status": "ok",
+ "note": "variant=Truth by Convention; 审定公布名词库=2316; 海峡两岸名词对照库=656; 其他来源数据库=140; 预公布名词数据库=104; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "source": "世界历史名词",
+   "wordNumber": "05.0108",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "十二月党人的纲领，1821-1823年制定。主要主张包括：废除农奴制和等级制，建立共和国，把土地分给农民等。"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "source": "数学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "source": "数学名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "source": "数学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "电子学名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻真实与真相",
+   "en": "truthfulness of news and truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "一对不同领域对事实反映的概念。新闻作品凸显的是事实中具有新闻价值的部分，与对事实的全面记录、反映有所不同。关于某一事实的真相可能表现为几十万字的记录或几十小时的音像，而新闻报道可能仅表现为几百字的文字"
+  },
+  {
+   "cn": "习惯",
+   "en": "convention",
+   "source": "经济学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "私人规则的一种类型，是由于重复或练习而巩固下来的、自然的个人行为方式。习惯是依靠便利或惯性来维持的。"
+  },
+  {
+   "cn": "取真偏好论",
+   "en": "truth bias theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.116",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "一种关于人际欺骗研究的中层理论。由美国传播学者蒂莫西·莱文(Timothy R.Levine)领衔的密歇根州立大学研究团队提出。该理论主要由关系欺骗模型(model of relational dec"
+  },
+  {
+   "cn": "后真相政治",
+   "en": "post truth politics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.02",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "客观事实在形成舆论方面影响虽小而诉诸情感和个人信仰会产生更大影响的环境。在后真相政治(也称为后事实政治)中，辩论主要被情感诉求所左右，与政策细节相脱离，通过不断重复的谈话要点，事实上的反驳被忽略。"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth; GT",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2336",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "核试验检测地震学的专业术语。由资料推出的有关地震事件的信息，常规监测台网的分析人员通常得不到这一信息。地面实况可由卫星观测、破裂到地球表面的断层迹线或地方震地震台网的运作得到。地面实况位置有时附一数字"
+  },
+  {
+   "cn": "部分真值指派",
+   "en": "partial truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0144",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的某些命题变量赋予0或1（分别表示假和真），而其他变量仍保持为命题变量的一个方法。"
+  },
+  {
+   "cn": "真值条件语义学",
+   "en": "truth conditional semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.012",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "逻辑语义学的一个分支。主要观点是研究真值的语义概念，解释在什么条件下一个句子是真的。真值语义学认为语义学的任务是建立起语句和外部世界的联系。因此提出了一个检验句子真值的通用公式——T公式：S是真的，当"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约定",
+   "en": "convention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号规定",
+   "en": "sign convention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "波恩公约",
+   "en": "Bonn Convention",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "洛美协定",
+   "en": "Lome Convention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边协定",
+   "en": "bilateral convention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "会议旅游",
+   "en": "convention travel",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "命名约定",
+   "en": "naming convention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会习俗",
+   "en": "social conventions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "日内瓦公约",
+   "en": "Geneva Conventions",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "常规观测",
+   "en": "conventional observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常规雷达",
+   "en": "conventional radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规定熵",
+   "en": "conventional entropy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "通常竞争",
+   "en": "conventional competition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因对方弃权获胜",
+   "en": "win by retirement\",\"win by withdrawal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法治",
+   "en": "Rule by Law",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人治",
+   "en": "Rule by Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身教",
+   "en": "Teach by Example",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旁路控制",
+   "en": "by-pass control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因对方弃权获胜",
+   "en": "win by retirement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方被取消比赛资格获胜",
+   "en": "win by disqualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "习俗惯制",
+   "en": "convention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0459",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "所有俗民都遵守的风俗和被俗民普遍接受的行为模式和规范，它总是按一种常规的程序循环不已地支配着俗民的生活实践，养育出一代又一代负载民俗文化的群体。"
+  },
+  {
+   "cn": "传统细胞学检查",
+   "en": "conventional cytology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本，并将样本涂抹于玻片上，用95%酒精固定，进行染色、封片后，对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "国际马克思大会",
+   "en": "international Marx convention",
+   "source": "马克思主义",
+   "wordNumber": "05.0280",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "1995年由法国《当代马克思》杂志发起，联合世界各地上百家国际马克思主义理论研究刊物和研究机构召开的国际性会议。大会以现实性、探索性、国际性、多元性和多学科性为宗旨，强调打破党派和学科界限，从学术上探"
+  },
+  {
+   "cn": "约定真值",
+   "en": "conventional true value",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "对于给定目的具有适当不确定度的、赋予特定量的值。有时该值是约定采用的。如：在给定地点，取由参考标准复现而赋予该量的值。常用某量的多次测量结果来确定。"
+  },
+  {
+   "cn": "常规岛",
+   "en": "conventional island，CI",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核电装置中汽轮发电机组及其配套设施和它们所在厂房的统称。"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "核安全公约",
+   "en": "Convention on Nuclear Safety",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.13",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "国际原子能机构（IAEA）于1994年6月14日至17日在其总部举行的外交会议上通过的一项国际公约，旨在通过各国加强核安全措施与国际合作，维持并提高核动力厂的安全水平。其适用范围仅限于核动力厂。我国于"
+  },
+  {
+   "cn": "化学武器公约",
+   "en": "Chemical Weapons Convention， CWC",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.8",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "全称“关于禁止发展、生产、储存和使用化学武器及销毁此种武器的公约（convention on the prohibition ofthe development, production, stockp"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "清洗剂洗",
+   "en": "washing by detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.7",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "使用化学清洗剂分解诊疗器械、器具和物品表面有机物的过程。"
+  },
+  {
+   "cn": "消毒副产物",
+   "en": "disinfection by-product",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.8",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "在消毒过程中附带产生的各类化学物质。"
+  },
+  {
+   "cn": "血亲关系",
+   "en": "relationship by consanguinity",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.37",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "以血缘关系为纽带的一种亲属关系。根据是具有先天的血缘联系还是法律拟制而成的联系，可分为自然血亲和拟制血亲。还可以根据是否具有直接的亲子血缘关系分为直系血亲和旁系血亲。"
+  },
+  {
+   "cn": "姻亲关系",
+   "en": "relationship by affinity",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.38",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "以婚姻关系为纽带的一种亲属关系。一般包括血亲的配偶、配偶的血亲、配偶的血亲的配偶等。"
+  },
+  {
+   "cn": "干部特殊化",
+   "en": "privilegeseeking by cadres",
+   "source": "马克思主义",
+   "wordNumber": "03.0552",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "干部利用自己的职务和凭借手中掌握的权力，在政治上、生活上谋求党和国家制度及规定以外的特殊待遇的错误倾向。"
+  },
+  {
+   "cn": "体型匀称",
+   "en": "weight by stature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.19",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体形（形态）发育的比例关系，即一定身高的相应体重增长范围。"
+  },
+  {
+   "cn": "掠夺婚",
+   "en": "marriage by capture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0363",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种古代婚姻形式，是古代氏族部落外婚时期用战争手段俘获妇女的一种野蛮的强制婚姻形式。这种形式在许多民族生活中由习俗转为遗风，在当代婚礼中还保留某些仪式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

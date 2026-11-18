@@ -1,0 +1,552 @@
+{
+ "key": "quantum argument",
+ "term": "quantum argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:37:47+00:00",
+ "status": "ok",
+ "note": "variant=quantum argument; 审定公布名词库=444; 海峡两岸名词对照库=81; 其他来源数据库=120; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "能表现出某物质或物理量特性的最小单元。一个物理量存在的最小的不可分割的基本单位。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "物理学名词",
+   "wordNumber": "06.0373",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "电气工程名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "农学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "作物生理生态_产量与品质生理",
+   "subjectName": "产量与品质生理",
+   "publishYear": "2025",
+   "definition": "在光合作用中，每吸收一个光量子所固定的二氧化碳分子数或释放氧气的分子数。"
+  },
+  {
+   "cn": "量子化学",
+   "en": "quantum chemistry",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.048",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "应用量子力学的基本原理和方法，研究化学问题的一门基础学科。是理论化学的一个分支学科。"
+  },
+  {
+   "cn": "量子纠缠",
+   "en": "quantum entanglement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.370",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "量子复合系统（具有两个或以上子系统）所特有的量子关联现象。子系统之间存在着一种超空间的远距离量子关联。处于纠缠态的两个力学量，如果一个力学量被确定，那么，另一力学量立即被确定。"
+  },
+  {
+   "cn": "量子信息",
+   "en": "quantum information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.386",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在物理学和计算机科学中，处于量子系统的状态中的信息。它不同于经典信息。在哲学上，其是量子系统的状态与关联方式的显示。"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.391",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "利用量子纠缠与未知量子信息的物理转换来超空间传递未知量子信息到任意位置的技术。其实质是超空间传递量子信息。"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.634",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一类遵循量子力学规律进行高速数学和逻辑运算、存储及处理量子信息的物理装置。其处理和计算的是量子信息，运行的是量子算法。"
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravitation",
+   "source": "天文学名词",
+   "wordNumber": "04.423",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "用量子力学原理来描述引力的尝试性理论。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究当量子力学效应在整个宇宙尺度上都很重要时的宇宙的理论。"
+  },
+  {
+   "cn": "量子拍",
+   "en": "quantum beat",
+   "source": "光学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "两个量子过程的干涉现象。如V型三能级原子系统辐射光场的干涉，该干涉只能用全量子理论解释，而不能用经典或半经典理论解释。"
+  },
+  {
+   "cn": "量子计算",
+   "en": "quantum computation",
+   "source": "光学名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "依照量子力学理论进行的新型计算。量子计算的基础和原理以及重要量子算法为在计算速度上超越图灵机模型提供了可能。"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "source": "光学名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "遵循量子力学规律进行高速数学和逻辑运算、存储及处理量子信息的物理装置。"
+  },
+  {
+   "cn": "量子关联",
+   "en": "quantum correlation",
+   "source": "光学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "多体系量子系统中，各系统之间不能用经典概率论解释的关联。"
+  },
+  {
+   "cn": "量子擦除",
+   "en": "quantum eraser",
+   "source": "光学名词",
+   "wordNumber": "02.079",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "量子干涉过程中，对路径或过程信息的消除。如果达到最终结果的路径可以分辨，则干涉会减弱或无法发生，如果消除对路径的可分辨信息，则可以恢复干涉。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙",
+   "en": "quantum universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子电化学",
+   "en": "quantum electrochemistry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子式物种形成",
+   "en": "quantum speciation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进口量",
+   "en": "import quantum",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "量子式物种形成,爆发式物种形成",
+   "en": "quantum speciation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子处理器",
+   "en": "quantum processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子芯片",
+   "en": "quantum chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子编码",
+   "en": "quantum coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

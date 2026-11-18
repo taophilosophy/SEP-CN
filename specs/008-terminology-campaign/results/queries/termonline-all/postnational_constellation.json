@@ -1,0 +1,422 @@
+{
+ "key": "postnational constellation",
+ "term": "postnational constellation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:56:26+00:00",
+ "status": "ok",
+ "note": "variant=postnational constellation; 审定公布名词库=23; 海峡两岸名词对照库=15; 其他来源数据库=2; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "天文学名词",
+   "wordNumber": "01.132",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "为了识别星空，按恒星在天球上所排列的各个图形，将星空相应划分的各片区域。"
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "物理学名词",
+   "wordNumber": "11.0092",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "条件丛",
+   "en": "constellation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0698",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网（ B,E;F）中，条件集B 的一个子集称为条件丛。"
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "通信科学技术名词",
+   "wordNumber": "11.058",
+   "subjectFullName": "通信科学技术_卫星通信",
+   "subjectName": "卫星通信",
+   "publishYear": "2007",
+   "definition": "低轨道卫星或中轨道卫星系统中卫星的集合。"
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "航海科技名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "航海科学技术_天文航海",
+   "subjectName": "天文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "黄道星座",
+   "en": "Zodiac constellation; Zodiacal constellation",
+   "source": "天文学名词",
+   "wordNumber": "05.116",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "在全天88个星座中，黄道经过的13个星座，包括双鱼座、白羊座、金牛座、双子座、巨蟹座、狮子座、室女座、天秤座、天蝎座、蛇夫座、人马座、摩羯座、宝瓶座。"
+  },
+  {
+   "cn": "产后脱发",
+   "en": "postnatal alopecia",
+   "source": "整形外科名词",
+   "wordNumber": "14.039",
+   "subjectFullName": "整形外科_头颈部整形与美容_脱发与毛发移植",
+   "subjectName": "脱发与毛发移植",
+   "publishYear": "2026",
+   "definition": "生产后数个月内出现的生理性超常脱发现象。由于产后雌激素和孕激素水平下降，催乳素水平上升，相对雄激素水平增高所导致的脱发。"
+  },
+  {
+   "cn": "出生后生长",
+   "en": "postnatal growth",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "下丘脑与垂体疾病_生长发育与生长异常_生长及躯体生长阶段",
+   "subjectName": "生长及躯体生长阶段",
+   "publishYear": "2025",
+   "definition": "胎儿自娩出以后的生长过程。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postnatal depression",
+   "source": "行为医学名词",
+   "wordNumber": "17.166",
+   "subjectFullName": "行为医学_相关行为疾病_妇科相关行为疾病",
+   "subjectName": "妇科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "分娩后出现的以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁。"
+  },
+  {
+   "cn": "出生后发育",
+   "en": "postnatal development",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.011",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "生物个体出生以后的生长发育过程。"
+  },
+  {
+   "cn": "出生后免疫",
+   "en": "postnatal immunity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.511",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "拜耳星座",
+   "en": "Bayer constellation",
+   "source": "天文学名词",
+   "wordNumber": "05.117",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "德国天文学家约翰·拜尔划分的星座，大多数与动物有关。"
+  },
+  {
+   "cn": "托勒玫星座",
+   "en": "Ptolemaic constellation",
+   "source": "天文学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "作为希腊划时代著名的天文学家和星占学家，托勒玫将全天划分为48个星座，后人称之为托勒玫星座。这些星座是现代天文学星座划分的重要基础。"
+  },
+  {
+   "cn": "卫星星座",
+   "en": "satellite constellation",
+   "source": "测绘学名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "一组卫星空间位置的分布和排列。"
+  },
+  {
+   "cn": "星座模型",
+   "en": "constellation schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0367",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "多个事实表共享维表的多维数据模型。"
+  },
+  {
+   "cn": "卫星星座",
+   "en": "satellite constellation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "星群体系结构",
+   "en": "constellations architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0095",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "以对称多处理机或共享存储多处理机为节点，通过高速网络互连起来而构成的大型并行计算机体系结构。"
+  },
+  {
+   "cn": "优育",
+   "en": "improve postnatal care",
+   "source": "计划生育名词",
+   "wordNumber": "01.032",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "促使子代各方面素质在其发育阶段尽可能提高的科学的教养方法。"
+  },
+  {
+   "cn": "导航星座",
+   "en": "navigation satellite constellation",
+   "source": "测绘学名词",
+   "wordNumber": "02.517",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "按照特定卫星轨道和相位关系组网构成的导航卫星集合。"
+  },
+  {
+   "cn": "星状城市形态",
+   "en": "constellating urban pattern",
+   "source": "地理学名词",
+   "wordNumber": "19.249",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "城市空间结构形似星状。城市沿着对外交通干线发展新的集中建筑地带，有几个放射方向的发展而形成星状平面。"
+  },
+  {
+   "cn": "出生后",
+   "en": "postnatal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "丛",
+   "en": "constellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "星座",
+   "en": "constellation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "出生后发育",
+   "en": "postnatal development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "出生后免疫，后天免疫",
+   "en": "postnatal immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雏后换羽",
+   "en": "postnatal molt",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "拜尔星座",
+   "en": "Bayer constellation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拱极星座",
+   "en": "circumpolar constellation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黄道星座",
+   "en": "zodiac constellation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "卫星星座",
+   "en": "satellite constellation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "后继丛",
+   "en": "follower constellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卫星星座",
+   "en": "satellite constellation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "星状城市形态",
+   "en": "constellating urban pattern",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "天文",
+   "en": "The Laws of Constellations and Seasons/Astronomy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后民族民主",
+   "en": "postnational democracy",
+   "source": "马克思主义",
+   "wordNumber": "05.0043",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯在《后民族结构与民主的未来》一文中认为，在全球化的背景下，国际社会需要建立一个全球范围的民主秩序，即把发达国家的民主秩序推广到全球范围。这种全球范围的民主秩序就是后民族民主。"
+  },
+  {
+   "cn": "产后访视",
+   "en": "postnatal visit",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "基层医生于产妇出院后28天内到产妇家中进行健康询问和常规检查的服务过程，包括对产妇产褥期状况了解、基本查体和健康管理，加强母乳喂养和新生儿护理指导，同时进行新生儿健康体检和指导。"
+  },
+  {
+   "cn": "星丛哲学",
+   "en": "constellation philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0031",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "星丛原是犹太教古老认知方法，阿多诺借用这一概念来打破同一性哲学的统治。星丛不是一而是多，不是静态的而是动态的，“让概念进入一个星丛”意味着概念不再封闭于主体的思想中，而是消除一切以人为中心的倾向，超越"
+  },
+  {
+   "cn": "新生儿访视率",
+   "en": "postnatal care coverage for newborns",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.8.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区新生儿出院后1周内接受1次及以上访视的新生儿人数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "产后28天访视率",
+   "en": "coverage of postnatal care visit within 28 days of childbirth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区产后28天内接受过1次及以上产后访视的产妇人数与同期当地活产数之比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

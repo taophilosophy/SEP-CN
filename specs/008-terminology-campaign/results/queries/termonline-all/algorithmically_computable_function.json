@@ -1,0 +1,762 @@
+{
+ "key": "algorithmically computable function",
+ "term": "algorithmically computable function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:42:00+00:00",
+ "status": "ok",
+ "note": "variant=algorithmically computable function; 审定公布名词库=4207; 海峡两岸名词对照库=1211; 其他来源数据库=364; 预公布名词数据库=125; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0106",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个函数可由一部图灵机来计算，则称它是一个可计算函数。这一定义等价于它是一个递归函数。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "解决某一问题（或一类问题）的程序化方法。其是在有限步骤内，用一组完全确定的程序规则来求解问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "能够使目标计算机完成特定任务或目标的一系列自控制逻辑指令。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.083",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "指导计算机完成特定命令的指令集，目的是用来解决特定的问题。目前算法在新闻传播业的应用主要包括两个方面：运用算法实现的自动化写作，以及对海量信息的筛选与分发。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在数学和计算机科学中按设定的步骤进行计算、数据处理和逻辑推理的操作流程。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0720",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "解决给定问题的确定的计算机指令序列，用以系统地描述解决问题的步骤。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "心理学名词",
+   "wordNumber": "02.686",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "解决某个特定问题的一种方法或程序。保证最终解决问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.613",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理学名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "模型分析的一组可行的、确定的和有穷的规则。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数值分析_数值分析基本概念",
+   "subjectName": "数值分析基本概念",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能站和客户机",
+   "en": "function computer and client computer",
+   "source": "电力名词",
+   "wordNumber": "12.171",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "完成SIS应用功能和管理功能的计算机或服务器称为“功能站”,包括数据库服务器、应用软件功能计算机或服务器、系统备份服务器、防病毒服务器,维护管理计算机。系统内的其他计算机工作站称为“客户机”。"
+  },
+  {
+   "cn": "ε算法",
+   "en": "ε-algorithm,epsilon-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0341",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "η算法",
+   "en": "η-algorithm,eta-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0342",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检索算法",
+   "en": "search algorithm,retrieval algorithm",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在信息检索的过程中所运用算法的总称。典型算法包括向量空间模型、概率检索模型、语言模型、布尔模型、推理网络、扩展布尔检索、潜在语义标引、神经网络、遗传算法、模糊集等。"
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectationmaximization algorithm,EM algorithm",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0718",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "依赖无法观测的隐藏变量的概率模型中，采取如下步骤：第一步计算期望，第二步最大化似然值，进而迭代估计参数的一种方法。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "source": "草学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "按照一组给定的指令对数据进行处理的过程。"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0918",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "针对某个问题类，存在一个可在有限步内结束的能行计算过程。"
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反演算法",
+   "en": "inverse algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达算法",
+   "en": "radar algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制算法",
+   "en": "control algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单纯形算法",
+   "en": "simplex algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算法性思维,定程式思维",
+   "en": "algorithmic thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物光学算法",
+   "en": "biooptical algorithm",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "A算法",
+   "en": "A algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CYK算法",
+   "en": "CYK algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法",
+   "en": "approximation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概率算法",
+   "en": "probabilistic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合算法",
+   "en": "combinatorial algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序算法",
+   "en": "sorting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贪婪算法",
+   "en": "greedy algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "备忘录算法",
+   "en": "memorandum algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法设计",
+   "en": "Algorithm Design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提升算法",
+   "en": "boosting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法信任",
+   "en": "algorithm trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种能从不同角度拍摄体内放射性药物浓度分布图，经计算机处理，重建核素在体内各截面的分布及立体分布图的核素显像技术。分单光子发射计算机体层显像（SPECT）和正电子发射计算机体层显像（PET）。"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "为舒适使用电脑工作，电脑布置、使用电脑的姿势和使用环境所需要达到的要求。"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "交互计算机基于个体对条目的反应继续或结束测量的自适应测试形式。"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "基于数学和计算机模型，采用化学信息学、生物信息学、机器学习等手段，揭示化学物环境暴露、危害性与风险性之间定性和定量关系，研究绿色化学品分子设计从而进行风险控制的毒理学分支学科。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  },
+  {
+   "cn": "工业计算机X射线断层扫描探伤",
+   "en": "industrial X-ray computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.2.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "使用工业X射线CT装置，以二维断层图像或三维立体图像的形式，展示被检测物体内部结构、组成、材质及缺损状况的工作过程。"
+  },
+  {
+   "cn": "计算机辅助访谈",
+   "en": "computer-assisted personal interviewing，CAPI",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "回答人或访谈员位于计算机的终端，使用键盘或鼠标将回答人对问卷的答案输入计算机中的一种访谈方式。"
+  },
+  {
+   "cn": "电脑桌下空区",
+   "en": "empty space under computer desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑桌下，能够满足使用者腿部自由活动的空间。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

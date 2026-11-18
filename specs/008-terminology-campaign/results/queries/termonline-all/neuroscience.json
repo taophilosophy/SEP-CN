@@ -1,0 +1,192 @@
+{
+ "key": "neuroscience",
+ "term": "neuroscience",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:44:02+00:00",
+ "status": "ok",
+ "note": "variant=neuroscience; 审定公布名词库=12; 海峡两岸名词对照库=6; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "神经科学",
+   "en": "neuroscience",
+   "source": "生理学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经科学",
+   "en": "neuroscience",
+   "source": "物理学名词",
+   "wordNumber": "11.0383",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "认知神经科学",
+   "en": "cognitive neuroscience",
+   "source": "行为医学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "行为医学_总论_行为医学分支学科",
+   "subjectName": "行为医学分支学科",
+   "publishYear": "2022",
+   "definition": "采用神经科学的手段研究心理活动、认知过程及其机制的学科。"
+  },
+  {
+   "cn": "计算神经科学",
+   "en": "computational neuroscience",
+   "source": "生物物理学名词",
+   "wordNumber": "07.029",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "神经科学和信息科学及数理科学之间的交叉学科。是基于神经科学的实验结果，应用建模和仿真等方法研究神经系统中的信息表征、编码和处理(计算)机制。其研究结果既有助于阐明神经系统中的信息处理机制，又为工程技术"
+  },
+  {
+   "cn": "系统神经科学",
+   "en": "systems neuroscience",
+   "source": "生物物理学名词",
+   "wordNumber": "07.177",
+   "subjectFullName": "生物物理学_生物控制论_神经工程",
+   "subjectName": "神经工程",
+   "publishYear": "2018",
+   "definition": "研究神经元、神经回路与系统功能的学科。如研究不同的神经元、神经回路如何分析感觉信息，形成对外部世界的知觉，最终形成决策和行为的过程。"
+  },
+  {
+   "cn": "转化神经科学",
+   "en": "translational neuroscience",
+   "source": "生物物理学名词",
+   "wordNumber": "07.178",
+   "subjectFullName": "生物物理学_生物控制论_神经工程",
+   "subjectName": "神经工程",
+   "publishYear": "2018",
+   "definition": "以临床应用为目的，将人们对脑结构、功能及相关疾病的知识和研究成果转化为临床应用，特别是对神经系统疾病诊断和治疗的学科。"
+  },
+  {
+   "cn": "认知神经科学",
+   "en": "cognitive neuroscience",
+   "source": "心理学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "用神经科学的手段研究心理活动的认知过程及机制的学科。"
+  },
+  {
+   "cn": "行为神经科学",
+   "en": "behavioral neuroscience",
+   "source": "心理学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "研究行为的神经生物学机制的学科。"
+  },
+  {
+   "cn": "社会认知神经科学",
+   "en": "social cognitive neuroscience",
+   "source": "心理学名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "采用认知神经科学技术研究社会认知现象的交叉学科。"
+  },
+  {
+   "cn": "发展认知神经科学",
+   "en": "developmental cognitive neuroscience",
+   "source": "心理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "采用认知神经科学研究方法，揭示个体心智发展过程及神经机制的学科。是由神经科学、发展心理学和认知科学交叉形成的跨学科领域。"
+  },
+  {
+   "cn": "神经哲学",
+   "en": "neurophilosophy,philosophy of neuroscience",
+   "source": "生物物理学名词",
+   "wordNumber": "07.128",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "神经科学和哲学之间的交叉学科。其基本问题是能否用神经科学的知识回答有关心智产生的问题。"
+  },
+  {
+   "cn": "神经重症医学病房",
+   "en": "neuroscience intensive care unit;NICU；neurocriticare unit",
+   "source": "神经外科学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学_神经外科学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由掌握神经科基本理论知识、诊疗技术和重症医学监测诊疗技术、管理理念的专业团队管理，负责救治神经损伤、神经外科术后或神经内科危重症患者，研究其发病规律以提升救治效率的神经病学病房。现在在此基础上发展成一"
+  },
+  {
+   "cn": "情感神经科学",
+   "en": "affective neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会神经科学",
+   "en": "social neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为神经科学",
+   "en": "behavioral neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知神经科学",
+   "en": "cognitive neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会认知神经科学",
+   "en": "social cognitive neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发展认知神经科学",
+   "en": "developmental cognitive neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

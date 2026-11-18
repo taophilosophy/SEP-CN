@@ -1,0 +1,132 @@
+{
+ "key": "presumption",
+ "term": "presumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:44:25+00:00",
+ "status": "ok",
+ "note": "variant=presumption; 审定公布名词库=7; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "作者署名推定",
+   "en": "presumption of authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.006",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "推断判定作者的情形。在无相反证明的情况下，通常推定在作品上署名的自然人、法人或者其他组织为作者。"
+  },
+  {
+   "cn": "著作权侵权推定",
+   "en": "presumption of copyright infringement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.011",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "依法可以推定侵权的情形。"
+  },
+  {
+   "cn": "假定阳性检测结果",
+   "en": "presumptive adverse analytical finding",
+   "source": "运动医学名词",
+   "wordNumber": "09.060",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "在初筛程序中有异常发现的样品检测结果，但尚未经过确证实验验证的情况。"
+  },
+  {
+   "cn": "中断",
+   "en": "preemption",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "机器故障使得工件加工的停止。"
+  },
+  {
+   "cn": "复刊号",
+   "en": "resumption issue",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.031",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "已经停止出版的报刊又以原名称恢复出版后的首期。"
+  },
+  {
+   "cn": "复刊",
+   "en": "resumption of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.166",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "已经停止出版的报刊又以原名称恢复出版。恢复出版的第一期为复刊号。"
+  },
+  {
+   "cn": "生态位优先占领假说",
+   "en": "niche-preemption hypothesis",
+   "source": "生态学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "该假说认为第一位优势种首先占领生态位空间的大部，第二位的占领其余下的大部空间，依此类推，到末位的只能占留下的很少空间。这种分布多出现在群落生境严酷，种数相对较少的群落。"
+  },
+  {
+   "cn": "事实推定过失",
+   "en": "factual presumption of fault",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抢先",
+   "en": "preemption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态位优先占领假说",
+   "en": "niche-preemption hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵活复工",
+   "en": "to apply a flexible approach to the resumption of work",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复课管理",
+   "en": "class resumption management",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "师生员工病愈或隔离期满后，持出院小结或解除隔离告知书等材料到学校卫生室（保健室）复核确认登记，持有校医（保健老师）出具复课/复工证明后上课/上岗的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

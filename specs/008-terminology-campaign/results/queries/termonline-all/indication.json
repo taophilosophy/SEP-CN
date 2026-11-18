@@ -1,0 +1,742 @@
+{
+ "key": "indication",
+ "term": "Indication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:29:17+00:00",
+ "status": "ok",
+ "note": "variant=Indication; 审定公布名词库=857; 海峡两岸名词对照库=250; 其他来源数据库=25; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "标示值",
+   "en": "indication",
+   "source": "电力名词",
+   "wordNumber": "02.144",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "由测量仪器仪表给出的值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "药物、治疗方法所适用的范围及标准。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "核医学名词",
+   "wordNumber": "05.0025",
+   "subjectFullName": "核医学_核医学治疗_外照射治疗",
+   "subjectName": "外照射治疗",
+   "publishYear": "2018",
+   "definition": "根据某些处置、治疗措施或药物的作用特点和潜在风险所决定的其适合应用的疾病、症状、临床状态和人口学指标的范围。"
+  },
+  {
+   "cn": "示值",
+   "en": "indication",
+   "source": "计量学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "由测量仪器或测量系统给出的量值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "药学名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "药物适用于某种疾病症状(或证候)的范围。一般需经相关主管部门审批，是药物的最基本属性。"
+  },
+  {
+   "cn": "表示",
+   "en": "indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0158",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication,indicated value",
+   "source": "电子学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "字段指示符",
+   "en": "indicator",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.402",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "字段开头的字符（数字或字母）。指示字段中数据内容的性质、同一记录中字段与字段的关系或进行数据处理所需的信息。"
+  },
+  {
+   "cn": "指示器",
+   "en": "indicator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0057",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "用于指示系统的某个特征或状态的器件。例如氖灯、发光二极管等。"
+  },
+  {
+   "cn": "指示剂",
+   "en": "indicator",
+   "source": "化学名词",
+   "wordNumber": "03.0550",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "化学分析中用于显示滴定终点的一类试剂的总称。"
+  },
+  {
+   "cn": "指标",
+   "en": "indicator",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0431",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "直接或间接的衡量社会现象或事物变化的某一特征的具体名称或数值。"
+  },
+  {
+   "cn": "指示剂",
+   "en": "indicator",
+   "source": "计量学名词",
+   "wordNumber": "15.318",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "一类能因某化合物的存在或介质特性(如酸碱性、氧化还原电位等)的改变而变换自身颜色的化学试剂。"
+  },
+  {
+   "cn": "指标",
+   "en": "indicator",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.107",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "一个可测量的、定性的或定量的要素或变 量。"
+  },
+  {
+   "cn": "显现变项",
+   "en": "indicator",
+   "source": "语言学名词",
+   "wordNumber": "12.049",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "某个言语社群使用的初现语言变项。它没有明显语体差异和不同社会评价，通常不引人注目。"
+  },
+  {
+   "cn": "表示器",
+   "en": "indicator",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0088",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "示功器",
+   "en": "indicator",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.308",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_压气机械",
+   "subjectName": "压气机械",
+   "publishYear": "1996",
+   "definition": "与活塞式空压机气缸中的压力(压强)及活塞行程相联系，可绘制出示功图的装置。"
+  },
+  {
+   "cn": "指示仪",
+   "en": "indicator",
+   "source": "自动化名词",
+   "wordNumber": "04.133",
+   "subjectFullName": "自动化科学技术_控制技术_过程控制与仪表",
+   "subjectName": "过程控制与仪表",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "指示器",
+   "en": "indicating device,indicator",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0149",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_安全和指示装置",
+   "subjectName": "安全和指示装置",
+   "publishYear": "2013",
+   "definition": "向起重机司机发送听觉和(或)视觉信号，以便将起重机控制在其合适的工作参数范围内的装置。"
+  },
+  {
+   "cn": "指示器",
+   "en": "indicating device,indicator",
+   "source": "电气工程名词",
+   "wordNumber": "01.616",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "示值范围",
+   "en": "indication range",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0316",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "由计量器具所显示或指示的最小值至最大值的范围。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指示剂",
+   "en": "indicator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "指示计",
+   "en": "indicator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "指示剂",
+   "en": "indicator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "指示符",
+   "en": "indicator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指示物",
+   "en": "indicator",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "指示器",
+   "en": "indicator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication\",\"indicated value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指示植物",
+   "en": "indicator plant\",\"plant indicator",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "示功阀",
+   "en": "indicator cock\",\"indicator valve",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指示电极",
+   "en": "indicating electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "指示电极",
+   "en": "indicating electrode",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "环境指标",
+   "en": "environmental indicator",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指示植物",
+   "en": "indicator plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指示种",
+   "en": "indicator species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候指示标",
+   "en": "climatic indicator",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指示函数",
+   "en": "indicator function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指示器",
+   "en": "indicator figure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压力指示计",
+   "en": "pressure indicator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "放射性指示剂",
+   "en": "radioactive indicator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "方位指示器",
+   "en": "bearing indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分器",
+   "en": "score indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风信标",
+   "en": "telltale\",\"wind indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离显示牌",
+   "en": "distance indicator board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仰泳转身标志",
+   "en": "backstroke turn indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分板",
+   "en": "performance indicator board\",\"scoreboard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公告牌",
+   "en": "notice board\",\"performance indicator board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险防控数据指标",
+   "en": "financial risk prevention and control data indicators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36344-2018 信息技术 数据质量评价指标》",
+   "en": "GB/T 36344-2018 Information technology — Evaluation indicators for data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 33850-2017 信息技术服务 质量评价指标体系》",
+   "en": "GB/T 33850-2017 Information technology service — Evaluation indicator system for service quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "挑引",
+   "en": "invitation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指示微生物",
+   "en": "indicative microorganism, indicator",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在常规卫生监测中，用以指示样品卫生质量及安全性的（非致病）微生物（或细菌）。如应用于食品、水、化妆品、空气等卫生监测和质量评价。"
+  },
+  {
+   "cn": "化学指示物",
+   "en": "chemical indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "根据暴露于某种灭菌（消毒）程序所产生的化学或物理变化，在一个或多个预定程序参数上显现变化的指示器材。"
+  },
+  {
+   "cn": "指示卡",
+   "en": "indicator card",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示剂与其衬底以最终应用形式组合的化学指示物。"
+  },
+  {
+   "cn": "指示标签",
+   "en": "indicator label",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "粘贴、连接或印在灭菌包上的一类化学指示物，可有文字、数字、符号、图案及其他说明。"
+  },
+  {
+   "cn": "指示物终点",
+   "en": "indicator endpoint",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于规定的标定值后，出现的可观察到特定变化的点。"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对特定灭菌处理有确定的抗力，并装在内层包装中可供使用的染菌载体。"
+  },
+  {
+   "cn": "指示微生物",
+   "en": "indicator microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学检验中，其抗力等于或略高于其代表的微生物的试验微生物。"
+  },
+  {
+   "cn": "安全指标",
+   "en": "safety indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.20",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "用以衡量源或实践的放射影响或者防护与安全执行情况的数量指标。"
+  },
+  {
+   "cn": "行为因素指标",
+   "en": "behavioral indicator",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "反映妇女儿童健康状态且与行动和行为方式有关的定性或定量变量。"
+  },
+  {
+   "cn": "地理标志",
+   "en": "geographical indication, GI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.49",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "标示某产品来源于某地区的标志，是知识产权的一种，所标志产品的质量、声誉或其他确定的特性由该地区的自然因素或者人文因素所决定。"
+  },
+  {
+   "cn": "浓度指示卡",
+   "en": "concentration indicator card",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在消毒灭菌过程中用于检测消毒剂浓度的测试卡。"
+  },
+  {
+   "cn": "强度指示卡",
+   "en": "strength indicator card",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在消毒灭菌过程中用于检测消毒因子强度的测试卡。"
+  },
+  {
+   "cn": "包内指示物",
+   "en": "indicator in bag",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "置于灭菌包内部，用于检测灭菌包是否达到灭菌合格要求的指示物。如第四类、第五类化学指示物。"
+  },
+  {
+   "cn": "指示胶带",
+   "en": "indicator adhesive tape",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "粘贴于灭菌包外，用于指示灭菌过程的一类化学指示物。"
+  },
+  {
+   "cn": "灭菌指示菌片",
+   "en": "sterilization indicator tablet",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以菌液滴加于载体上制成，用于指示灭菌效果的染菌载体。常用的有金属片、玻璃片、滤纸片、棉布片等。"
+  },
+  {
+   "cn": "脱色卡",
+   "en": "TOSI cleaning indicator",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.15.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "带特定模拟污染物和颜料，反映清洗效果的指示卡。"
+  },
+  {
+   "cn": "指示剂滴定法",
+   "en": "indicator titration method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.5.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "加入酚酞指示液，用氢氧化钠标准溶液滴定，直至微红色并保持30秒，不褪色为终点，通过记录消耗氢氧化钠溶液的量来计算酶活力的试验方法。"
+  },
+  {
+   "cn": "光野指示器",
+   "en": "light field indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线设备中，通过可见光反映出照射野范围的装置。"
+  },
+  {
+   "cn": "工作指示灯",
+   "en": "work indicator lamp",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.11.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "提示放射工作场所工作状态的警示灯，工作灯亮时表明该场所可能存在电离辐射危害。"
+  },
+  {
+   "cn": "紫外线强度指示卡",
+   "en": "ultraviolet intensity indicator card",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "现场监测紫外线强度的由卡片纸、紫外线感光色块和标准色组成的化学指示物。在紫外线照射下，指示卡上的特殊材料会发生化学反应，产生颜色变化，颜色的深浅程度与紫外线辐照的总剂量具有强相关性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "munchner akademische rundschau",
+ "term": "Münchner Akademische Rundschau",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:24:08+00:00",
+ "status": "ok",
+ "note": "variant=Münchner Akademische Rundschau; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "布氏漏斗",
+   "en": "Büchner funnel",
+   "source": "化学名词",
+   "wordNumber": "03.0103",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "实验室中使用的一种形状为扁圆筒状、圆筒底面上开了很多小孔、下连一狭长的筒状出口的陶瓷器皿。也有用塑料制作，用来在真空或负压力抽吸过滤。"
+  },
+  {
+   "cn": "青海田鼠",
+   "en": "Microtus fuscus Büchner",
+   "source": "地方病学名词",
+   "wordNumber": "07.092",
+   "subjectFullName": "地方病学_鼠疫_宿主",
+   "subjectName": "宿主",
+   "publishYear": "2016",
+   "definition": "仓鼠科，田鼠属。主要栖息在海拔3 700 ~ 4 400 m的蒿草、苔草、杂类草沼泽草甸。中国境内分布于四川省石渠、色达、甘孜、白玉等川西北地区，以及青海省玉树、称多、玛多、玛沁、达日、唐古拉等地区。"
+  },
+  {
+   "cn": "明兴格尔",
+   "en": "Münchinger\",\"Karl(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

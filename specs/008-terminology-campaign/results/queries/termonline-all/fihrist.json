@@ -1,0 +1,802 @@
+{
+ "key": "fihrist",
+ "term": "Fihrist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:30:13+00:00",
+ "status": "ok",
+ "note": "variant=Fihrist; 审定公布名词库=469; 海峡两岸名词对照库=120; 其他来源数据库=61; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "花卉园艺工",
+   "en": "florist",
+   "source": "风景园林名词",
+   "wordNumber": "03.0252",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "从事花圃、园林的土壤耕整和改良；花房、温室修装和管理；花卉（草坪）育种、育苗、栽培管理、收获贮藏、采后处理等工作的技能人员。"
+  },
+  {
+   "cn": "初动",
+   "en": "first motion,first movement",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "初至",
+   "en": "first arrival;first break",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0851",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "某一震相开始出现在地震图上，称为该震相或波的初至。 "
+  },
+  {
+   "cn": "先进先出",
+   "en": "first in first out",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0509",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "先入库的材料先发出，发完该批再发第二批的规则。"
+  },
+  {
+   "cn": "先进先出",
+   "en": "first in first out,FIFO",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0028",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "队列的存取规则，最先加入到队列中的元素会首先被取出，最后加入到队列的元素会最后被取出。"
+  },
+  {
+   "cn": "先进先出法",
+   "en": "first-in,first-out,FIFO",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0117",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以先购入的存货应先发出这样一种存货实物流转假设为前提，对发出存货进行计价的方法。"
+  },
+  {
+   "cn": "先到先服务规则",
+   "en": "first come first served,FCFS",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0427",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "优先选择最早进入待排工序集合中的工件的优先规则。"
+  },
+  {
+   "cn": "先来先服务",
+   "en": "first come first service,FCFS",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.036",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "先给排在最前面的服务请求提供服务的一种安排。"
+  },
+  {
+   "cn": "先到先服务",
+   "en": "first-come first-served,FCFS",
+   "source": "数学名词",
+   "wordNumber": "011.0498",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先进先出法",
+   "en": "first-in first-out，FIFO",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "先按存货的期初单价计算发出存货成本，领发后，再按第一批入库存货单价计算，依此从前向后类推，计算发出存货和结转存货成本的方法。"
+  },
+  {
+   "cn": "第一间隙",
+   "en": "first gap",
+   "source": "神经外科学名词",
+   "wordNumber": "2.055",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑池",
+   "subjectName": "脑池",
+   "publishYear": "2026",
+   "definition": "翼点入路中的间隙之一。由两侧的视神经和蝶骨平台后缘组成，间隙深面可到达鞍膈、垂体柄、垂体。鞍膈之上可看到对侧颈内动脉的内侧面和其上发出的垂体上动脉。"
+  },
+  {
+   "cn": "雨水",
+   "en": "First Rainfall",
+   "source": "农学名词",
+   "wordNumber": "01.152",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第2个节气，太阳运行至黄经330°~345°区间，通常于每年2月18日至20日进入。预示一年中降雨的开始，有利于春耕和冬小麦返青。雨水三候包括獭祭鱼（Otter Hunts Fish）、候雁北（Swa"
+  },
+  {
+   "cn": "霜降",
+   "en": "First Frost",
+   "source": "农学名词",
+   "wordNumber": "01.168",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第18个节气，太阳运行至黄经210°~225°区间，通常于每年10月22日至24日进入。昼夜温差大，冬季即将到来，是秋收即将结束，越冬作物播种、御寒管理的时节。霜降三候包括豺乃祭兽（Jackals S"
+  },
+  {
+   "cn": "小雪",
+   "en": "First Snowfall",
+   "source": "农学名词",
+   "wordNumber": "01.170",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第20个节气，太阳运行至黄经240°~255°区间，通常于每年11月21日至23日进入。预示开始降雪，雪量不大，是黄河中下游地区收储大白菜的时节。小雪三候包括虹藏不见（No More Rainbow）"
+  },
+  {
+   "cn": "第一信使",
+   "en": "first messenger",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "总论_激素_激素分泌方式与作用机制",
+   "subjectName": "激素分泌方式与作用机制",
+   "publishYear": "2025",
+   "definition": "能与细胞受体结合并将受体激活引起细胞内信号转导级联反应的信号分子。实际上就是配体。"
+  },
+  {
+   "cn": "初霜",
+   "en": "first frost",
+   "source": "农学名词",
+   "wordNumber": "13.053",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "每年秋季第一次出现的霜。"
+  },
+  {
+   "cn": "第一优先",
+   "en": "first priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的在短时间内存在生命危险、经积极紧急救治有可能存活的急危重症患者给予第一时间最先救治的情形。该类患者用红色标识标记。"
+  },
+  {
+   "cn": "首次显影液",
+   "en": "first developer",
+   "source": "精细化工名词",
+   "wordNumber": "08.1270",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "反转感光材料需要两次显影中的第一次显影液。"
+  },
+  {
+   "cn": "毛火",
+   "en": "first drying",
+   "source": "农学名词",
+   "wordNumber": "17.246",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "在制品茶分多次烘干时，第一次烘干的过程。"
+  },
+  {
+   "cn": "足火",
+   "en": "first firing",
+   "source": "农学名词",
+   "wordNumber": "17.247",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "在制品茶分多次烘干时，最后一次烘干的过程。"
+  },
+  {
+   "cn": "先进先出",
+   "en": "first-in-first-out\",\"FIFO",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "初估值",
+   "en": "first guess",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初霜",
+   "en": "first frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霜降",
+   "en": "First Frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一转位",
+   "en": "first inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一主题",
+   "en": "first subject",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上弦",
+   "en": "first quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "第一抵押",
+   "en": "first mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第一信使",
+   "en": "first messenger",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一级堂表亲",
+   "en": "first cousin",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一级亲属",
+   "en": "first degreerelative",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "封面",
+   "en": "first cover",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "初缩",
+   "en": "first minification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一阶矩",
+   "en": "first moment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上弦",
+   "en": "first quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "第一肋",
+   "en": "first rib\",\"ribⅠ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第一小颚",
+   "en": "maxillula\",\"first maxilla",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "第一触角,小触角",
+   "en": "first antenna\",\"antennule",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half\",\"first period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一回合!",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一节",
+   "en": "first quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一局！",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一腾空",
+   "en": "first flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试跳（投、掷）",
+   "en": "first trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一垒手",
+   "en": "first baseman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试举",
+   "en": "first attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一裁判员",
+   "en": "first referee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一传",
+   "en": "first pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一语言",
+   "en": "first language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0181",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第二语言”相对。人在幼儿时期最早自然习得的语言，通常是母语。第一语言强调的是最早习得的语言，母语强调的是认同的所属族群的语言，所以二者也可以不一致。"
+  },
+  {
+   "cn": "最初响应人员",
+   "en": "first responder",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "第一批在核或辐射紧急情况下在现场做出响应的应急救援人员。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention first",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.006",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "主动采取积极行动将卫生健康服务的重心由治疗转向预防，促进疾病的早发现、早报告、早诊断、早治疗，以提高医疗卫生资源的使用效率，维护和改善人民健康的卫生策略。"
+  },
+  {
+   "cn": "首过效应",
+   "en": "first-pass effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "一些放射性核素尤其是难溶性或颗粒状核素常在最先进入或排出机体部位滞留或沉积较长时间，引起明显的局部损伤。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "putting people first",
+   "source": "马克思主义",
+   "wordNumber": "01.0252",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心，指始终把实现好、维护好、发展好最广大人民根本利益作为党和国家一切工作的出发点和落脚点，尊重人民首创精神，保障人民各项权益，做到发展成果由人民共享，促进人的全面发展。"
+  },
+  {
+   "cn": "苏联第一个五年计划",
+   "en": "First FiveYear Plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0306",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联1928—1932年的国民经济发展计划。1929年4月联共（布）第十六次代表会议通过。第一个五年计划的完成，使苏联建立了社会主义经济的坚固基础。"
+  },
+  {
+   "cn": "应急救护培训",
+   "en": "first aid training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_校园基础急诊医疗服务",
+   "subjectName": "校园基础急诊医疗服务",
+   "publishYear": "2025",
+   "definition": "根据应急救护工作的需要，对管理人员或专业人员进行应急救护教学与训练，使其在意外伤害或危重急症发生时，获得专业医疗救助之前，在事发现场实施及时有效的初步救助措施。"
+  },
+  {
+   "cn": "健康至上原则",
+   "en": "health first principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.072000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在实施人体器官移植的过程中，医务人员应该把器官供体和器官受体的生命安全和身体健康置于首位，以确保健康利益最大化、健康风险最小化的伦理原则。"
+  },
+  {
+   "cn": "第一次民族大调查",
+   "en": "first ethnic survey",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0417",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "1954 年至1964 年，中国历史上第一次有组织有计划的进行了全国少数民族社会历史调查。中华人民共和国成立后，1950 年至1952 年，中央人民政府先后派出学家和专业人员进行4 个民族的调查工作，"
+  },
+  {
+   "cn": "第一国际第一次伦敦代表会议",
+   "en": "First Lon don Congress of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0467",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1865年9月25日在英国伦敦召开的国际工人 协会第一次代表会议，即代表大会的预备会议。出席会议的有总委员会委员，英国、法国、比利时、瑞士等国支部的代表，德国、意大利、波兰的全国 委员会的代表，共68"
+  },
+  {
+   "cn": "第一国际第一次代表大会",
+   "en": "First Congress of the First International in Geneva",
+   "source": "马克思主义",
+   "wordNumber": "04.0468",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1866年9月3日至8日在瑞士日内瓦召开的国际工人协会第一次代表大会。参加大会的有“国际”所属25个支部和11个工人合作社的代表，共60人。马克思由于忙于《资本论》的写作，未能参加此次大会。大会排除了"
+  },
+  {
+   "cn": "心理救助",
+   "en": "psychological first aid，PFA",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "向遭受严重危机事件的人们以及可能需要帮助的人提供人道的、支持的和切实的援助。它包括以下主题：提供实际的护理和支持，但不侵扰；评估需求和关切；帮助人们满足基本需求（例如，食物和水、信息）；倾听但不强迫他"
+  },
+  {
+   "cn": "第一届全国人民代表大会",
+   "en": "First National Peoples Congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0537",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1954年9月15日至9月28日在北京召开。代表总人数1226人。中央人民政府主席毛泽东致开幕词。会议制定和颁布了中国历史上第一部人民的宪法《中华人民共和国宪法》，标志着人民代表大会制度作为新中国的根"
+  },
+  {
+   "cn": "一级价格歧视",
+   "en": "first-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "按照消费者愿意为每一单位商品支付的最高价格来定价的策略。"
+  },
+  {
+   "cn": "儿童优先",
+   "en": "first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "在资源分配上儿童基本需求应得到高度优先满足的理念与行动。"
+  },
+  {
+   "cn": "孕早期",
+   "en": "first trimester of pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从妊娠开始至第12周末（0至12+6周）的间期。通常以末次月经第一天作为起点计算。"
+  },
+  {
+   "cn": "生长第一高峰",
+   "en": "first peak of growth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "出生后第一年儿童生长指标增长最快的现象。"
+  },
+  {
+   "cn": "基层首诊服务",
+   "en": "first-contact medical care",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.8",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "居民因健康问题首次接触医疗保健服务时，优先选择社区卫生服务中心、乡镇卫生院、村卫生室等基层医疗机构进行初步诊断和治疗，并由全科医生或家庭医生团队根据病情严重程度决定是否需要转诊至上级医院的制度安排。其"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

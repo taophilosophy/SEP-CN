@@ -1,0 +1,692 @@
+{
+ "key": "inhibited intentionality",
+ "term": "inhibited intentionality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:54:06+00:00",
+ "status": "ok",
+ "note": "variant=inhibited intentionality; 审定公布名词库=536; 海峡两岸名词对照库=190; 其他来源数据库=20; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "意向性",
+   "en": "intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.573",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "心灵表征或再现事物、属性或状态的能力，或心理活动关涉事物的指向性。很多心理活动是关涉外部世界的，意向性即是这种指向性或关涉性（aboutness）。F. C. 布伦塔诺（F. C. Brentano）"
+  },
+  {
+   "cn": "意向论",
+   "en": "intentionalism",
+   "source": "心理学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "胡塞尔(E. Husserl)提出的一种心理学理论。认为意向性是意识的本质特征，意识总是某个对象的意识，总是指向某个意识之外的客体。"
+  },
+  {
+   "cn": "抑制剂",
+   "en": "inhibiter",
+   "source": "电力名词",
+   "wordNumber": "12.375",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "阻止或延迟石油产品发生不良现象的物质。"
+  },
+  {
+   "cn": "缓蚀剂",
+   "en": "inhibiter",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.167",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "物质的活性程度或反应速率降低、停止、阻止或活性完全丧失的现象。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "兽医学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "机体、系统或器官接受刺激后，由活动强到活动弱或由活动状态转为静止状态的过程。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "行为医学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "机体、器官、组织或细胞对某一刺激反应过程由活动状态转化为相对静止状态或活动状态减弱的现象。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.099",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "某种化合物的存在使得酶活性降低的过程。"
+  },
+  {
+   "cn": "阻聚作用",
+   "en": "inhibition",
+   "source": "化学名词",
+   "wordNumber": "05.0592",
+   "subjectFullName": "化学_高分子化学_聚合与高分子化学反应",
+   "subjectName": "聚合与高分子化学反应",
+   "publishYear": "2016",
+   "definition": "因活性种与杂质反应而消耗或因链转移生成无活性产物，而使链式聚合反应速率迅速降为零的过程。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "心理学名词",
+   "wordNumber": "05.173",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "机体、器官、组织或细胞对某一刺激反应过程终止或减弱的现象。"
+  },
+  {
+   "cn": "阻聚作用",
+   "en": "inhibition",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0086",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "因链转移生成无活性产物，而使链式聚合反应速度迅速降为零的过程。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "01.116",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2008",
+   "definition": "物质的活性程度或反应速率降低、停止、阻止或活性完全丧失的现象。"
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "化学工程名词",
+   "wordNumber": "04.071",
+   "subjectFullName": "化学工程_化学反应工程_反应动力学",
+   "subjectName": "反应动力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "集体意向性",
+   "en": "collective intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.787",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "借鉴于心灵哲学的一种意向性概念。强调集体或社会行动的意向性不同于个人行动的意向性，要求符合“我们在做”而不只是“我在做”的模式。"
+  },
+  {
+   "cn": "技术意向",
+   "en": "technological intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术朝向现实特定层面的定向性，或是技术人工物具有特定的导向性、倾向，是在使用人工物的过程中所形成的不同的行为模式。"
+  },
+  {
+   "cn": "继承误差",
+   "en": "inhibited error",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "由以前的计算中逐步累积并遗留下来的一种差错。"
+  },
+  {
+   "cn": "抑制换档",
+   "en": "inhibited shift",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.115",
+   "subjectFullName": "机械工程_汽车_底盘_自动传动系统",
+   "subjectName": "自动传动系统",
+   "publishYear": "2013",
+   "definition": "在某些规定的工况下，自动限制的人工换档。"
+  },
+  {
+   "cn": "阻化油",
+   "en": "inhibited oil",
+   "source": "电气工程名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "抑制型起搏",
+   "en": "inhibited pacing",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.485",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "禁止重合",
+   "en": "inhibit reclosing",
+   "source": "电力名词",
+   "wordNumber": "05.242",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "当输电线路故障跳闸后,由于重合条件暂不具备而不允许进行重合闸。"
+  },
+  {
+   "cn": "抑制作用",
+   "en": "inhibition",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阻聚作用",
+   "en": "inhibition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抑制作用，阻聚作用",
+   "en": "inhibition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抑制作用",
+   "en": "inhibition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "inhibition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抑制[作用]",
+   "en": "inhibition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抑制作用",
+   "en": "inhibition",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "抑制作用",
+   "en": "inhibition",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "抑制型儿童",
+   "en": "inhibited children",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑制型气质",
+   "en": "inhibited temperament",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继承误差",
+   "en": "inhibited error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁[止]门",
+   "en": "inhibit gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止电路",
+   "en": "inhibit circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止脉冲",
+   "en": "inhibit pulse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止信号",
+   "en": "inhibit signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分化抑制",
+   "en": "differentiation inhibition",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "接触抑制",
+   "en": "contact inhibition",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "故意溅水",
+   "en": "intentionally splashing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意倒地",
+   "en": "intentionally fall down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意泄露国家秘密罪",
+   "en": "crime of intentionally divulging state secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意泄露军事秘密罪",
+   "en": "crime of intentionally divulging military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护性抑制",
+   "en": "protective inhibit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "人们学习活动过程中大脑皮层分解和损耗的物质能量超过其功能限度时，神经细胞的功能活性暂时降低，大脑皮质进入休息状态如疲劳、瞌睡和正常睡眠等以防进一步损耗的生理状态。"
+  },
+  {
+   "cn": "抑制作用",
+   "en": "inhibition action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.42",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种外源化学物对某器官或系统无毒作用，与另一种外源化学物同时或短期内先后暴露时可降低另一种化学物的毒作用。"
+  },
+  {
+   "cn": "有意添加物质",
+   "en": "intentionally added substance， IAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.45",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在食品接触材料及制品的生产过程中特别添加的，在制造过程或最终产品中具有或曾经起过作用，用于制造聚合物的起始物质、单体、添加剂、溶剂、聚合物生产助剂、聚合助剂和着色剂等。"
+  },
+  {
+   "cn": "非有意添加物质",
+   "en": "non-intentionally added substance，NIAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.46",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "食品接触材料及制品中含有的非人为添加的物质，包括原辅材料带入的杂质，在生产、经营和使用等过程中的分解产物、污染物以及残留的反应中间产物。"
+  },
+  {
+   "cn": "巨噬细胞移动抑制因子",
+   "en": "macrophage migration inhibition factor, MIF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "体内一种集细胞因子、神经内分泌激素和酶等特性于一体的多效能蛋白分子。能抑制巨噬细胞游走，促进巨噬细胞在炎症局部浸润。"
+  },
+  {
+   "cn": "洗衣粉抗抑菌效果鉴定试验",
+   "en": "antimicrobial and microbe-inhibiting effect test of washing powder",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将染菌布片置于模拟缠绕的织物中，通过模拟洗衣过程，测定洗衣粉抗抑菌作用的试验方法。"
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  },
+  {
+   "cn": "蛋白酶抑制剂",
+   "en": "protease inhibitor",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.2.2",
+   "subjectFullName": "食品卫生学_食品_豆类",
+   "subjectName": "豆类",
+   "publishYear": "2025",
+   "definition": "与蛋白酶分子活性中心上的某些基团结合，导致蛋白酶活力下降甚至丧失，但不使蛋白酶变性的一类蛋白质。如大豆中胰蛋白酶抑制剂未充分加热变性可使食用者中毒。"
+  },
+  {
+   "cn": "阻吸收药",
+   "en": "absorption inhibitor",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.6.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器损伤救治",
+   "subjectName": "核武器损伤救治",
+   "publishYear": "2025",
+   "definition": "能够有选择性地阻止或减少放射性核素（碘、锶、铯、钡、镭、氚等）吸收，减轻其进入机体组织器官后引起的急性内照射，降低对机体损害的药物。"
+  },
+  {
+   "cn": "免疫检查点抑制剂",
+   "en": "immune checkpoint inhibitor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.14",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "通过阻断免疫检查点相关通路，解除肿瘤患者的免疫抑制，发挥T细胞抗肿瘤作用的抗肿瘤药物，目前常用的如PD1/PD-L1抗体、CTLA-4抗体。"
+  },
+  {
+   "cn": "5-羟色胺选择性重摄取抑制剂",
+   "en": "serotonin-selective reuptake inhibitor，SSRI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.22",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "通过抑制突触前膜对5-羟色胺的再摄取，使突触间隙中的5-羟色胺含量升高，促进突触间的传递，发挥抗抑郁作用的药物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

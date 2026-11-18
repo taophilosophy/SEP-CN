@@ -1,0 +1,772 @@
+{
+ "key": "letters on education",
+ "term": "Letters on Education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:39:12+00:00",
+ "status": "ok",
+ "note": "variant=Letters on Education; 审定公布名词库=4148; 海峡两岸名词对照库=1136; 其他来源数据库=468; 预公布名词数据库=399; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "书札",
+   "en": "letter",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.265",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "“书信”的书面语。在纸张尚未发明和应用之前，一般把文字都记录在竹木片上，写字用的小木片叫“札”。纸张出现以后，“札”渐渐被纸所替代，而“札”字则沿用至今。"
+  },
+  {
+   "cn": "医院感染教育",
+   "en": "education on nosocomial infection",
+   "source": "感染病学名词",
+   "wordNumber": "04.0030",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "医院感染相关知识的教育。包括对医务人员的医院感染防治与控制知识培训教育，以及对人民群众进行医院感染相关知识的宣传教育等。"
+  },
+  {
+   "cn": "教育敕语",
+   "en": "Imperial Rescript on Education",
+   "source": "世界历史名词",
+   "wordNumber": "04.0093",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1890年，日本明治天皇发布的关于教育根本方针的文件，1948年由国会宣布失效。"
+  },
+  {
+   "cn": "通排法",
+   "en": "letter-by-letter arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以字母为单位，逐个字母排比次序而不考虑字面成族要求的排列方法。"
+  },
+  {
+   "cn": "地图注记",
+   "en": "lettering annotation,map lettering",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地图上文字和数字的通称。由字体、字大(字级)、字隔、位置、排列方向及色彩等因素构成。"
+  },
+  {
+   "cn": "特许状",
+   "en": "letters patent",
+   "source": "档案学名词",
+   "wordNumber": "09.01.013",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "欧洲国家使用的一种正式的公开证书，盖有印章。文件中详细说明收文者享有的权益。"
+  },
+  {
+   "cn": "专利证书",
+   "en": "letters patent",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.218",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "专利申请经审查合格，满足颁发授予专利权条件，由国家专利行政部门做出授予专利权的决定，发给专利申请人的法律证明文件。我国分为发明专利证书、实用新型专利证书以及外观设计专利证书。"
+  },
+  {
+   "cn": "《哲学书简》",
+   "en": "Philosophical Letters",
+   "source": "世界历史名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1826-1831年，俄国哲学家恰达耶夫写的作品，对俄国在世界历史和政治中起的作用做了严厉的批评，认为俄国远远落后于西方国家，对世界历史进程毫无贡献。"
+  },
+  {
+   "cn": "贼寇文书",
+   "en": "Seditious Letters",
+   "source": "世界历史名词",
+   "wordNumber": "02.0848",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "17世纪至18世纪，俄国官府对号召起义的文告的称谓。"
+  },
+  {
+   "cn": "函",
+   "en": "official letter",
+   "source": "档案学名词",
+   "wordNumber": "02.01.065",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "商洽性文件的一种。适用于不相隶属机关之间商洽工作、询问和答复问题、请求批准和答复审批事项。"
+  },
+  {
+   "cn": "字母流畅性",
+   "en": "letter fluency",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "被试者在特定时间内（一般为1 min）说出的以某一特定字母开头的单词个数。作为个体词汇选择时流畅程度的指标。"
+  },
+  {
+   "cn": "铅字质量",
+   "en": "letter quality",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0646",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "打印机输出的达到铅字印刷的效果。"
+  },
+  {
+   "cn": "盘符",
+   "en": "drive letter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0415",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "Windows系统为磁盘分区、物理盘或虚拟盘设置的标识符。"
+  },
+  {
+   "cn": "业务约定书",
+   "en": "engagement letter",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所与被审计单位签订的，用以记录和确认审计业务的委托与受托关系、审计目标和范围、双方的责任以及报告的格式等事项的书面协议。"
+  },
+  {
+   "cn": "文字符号",
+   "en": "letter symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0417",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "由字母、数字、汉字或其组合形成的符号。"
+  },
+  {
+   "cn": "转诊信",
+   "en": "referral letter",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.091",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "将患者转给另一位医师时，书写的介绍其病情的有关信件。"
+  },
+  {
+   "cn": "季诺维也夫来信",
+   "en": "Zinoviev Letter",
+   "source": "世界历史名词",
+   "wordNumber": "03.0405",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "保守党编造的季诺维也夫在1924年给英国共产党要求发动政变的信件。"
+  },
+  {
+   "cn": "文字符号",
+   "en": "letter symbol",
+   "source": "电气工程名词",
+   "wordNumber": "01.902",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "字母拼读法",
+   "en": "letter pronunciation",
+   "source": "航海科技名词",
+   "wordNumber": "14.0017",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "区号",
+   "en": "zone letter",
+   "source": "航海科技名词",
+   "wordNumber": "06.0272",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "铅字",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "点播教育",
+   "en": "education on demand\",\"EOD",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非注册股票",
+   "en": "letter stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "留置权证书",
+   "en": "lien letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书面合同",
+   "en": "letter contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书信协议",
+   "en": "letter agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信汇",
+   "en": "letter transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "链式邮件",
+   "en": "chain letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铅字质量",
+   "en": "letter quality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式信件",
+   "en": "form letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成交函",
+   "en": "fixing letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区号",
+   "en": "zone letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "巷号",
+   "en": "lane letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "字母拼读法",
+   "en": "letter pronunciation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地图注记",
+   "en": "map lettering",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图注记",
+   "en": "map lettering",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "信用证汇票",
+   "en": "bill drawn on a letter of credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑函，中标通知书",
+   "en": "letter of acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“两学一做,，学习教育",
+   "en": "the “Two Studies and One Action” Education Campaign",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "Wenhua (Cultural Education)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费者教育",
+   "en": "financial consumer education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "学校体育工作条例",
+   "en": "regulation on school physical education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "学校体育工作的基本法则，指导学校体育工作的重要依据，是全面加强学校体育工作的有力措施。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "美国社会工作教育理事会",
+   "en": "Council on Social Work Education，CSWE",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "美国社会工作专业教育界的全国性组织。成立于1952年，由3个相关机构合并而成。作为美国和世界社会工作教育的一个核心组织，宗旨为“面向社会工作专业与所有关注自己的家庭和所在社区的利益的公民，增加合格的社"
+  },
+  {
+   "cn": "海岛军人健康教育",
+   "en": "health education for military personnel on islands",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.6.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "针对岛屿地理环境气候特点，对进驻或驻守海岛的官兵进行的健康教育，包括饮水卫生教育、耐热耐寒教育、海岛常见病的防治教育等。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "义务教育",
+   "en": "compulsory education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "适龄儿童和青少年都必须接受，国家、社会、家庭必须予以保证的公益性教育。"
+  },
+  {
+   "cn": "继续教育",
+   "en": "further education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.3",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "面向正规学校教育后所有社会成员,特别是成人的教育活动，是终身学习体系的组成部分。"
+  },
+  {
+   "cn": "国民教育",
+   "en": "popular education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.4",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "每个出生在特定国度中的人都有权接受的教育。例如在未成年前须接受的义务教育，以及此后的职业技术教育、中等教育和高等教育等。"
+  },
+  {
+   "cn": "精英教育",
+   "en": "elite education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.5",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养国家和社会精英的专门教育。与“大众教育”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

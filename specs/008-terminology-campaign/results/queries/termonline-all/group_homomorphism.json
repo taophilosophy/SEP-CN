@@ -1,0 +1,702 @@
+{
+ "key": "group homomorphism",
+ "term": "group homomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:39:08+00:00",
+ "status": "ok",
+ "note": "variant=group homomorphism; 审定公布名词库=1397; 海峡两岸名词对照库=345; 其他来源数据库=109; 预公布名词数据库=125; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "群同态",
+   "en": "group homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1764",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑群同态",
+   "en": "homomorphism of topological groups",
+   "source": "数学名词",
+   "wordNumber": "04.2042",
+   "subjectFullName": "数学_代数学_代数几何学_拓扑群",
+   "subjectName": "拓扑群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形性",
+   "en": "homomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0746",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0117",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语言同态",
+   "en": "language homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0500",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的一种运算：若定义了字母表到另一个字母表Δ的串集合上的一个同态映射 h : Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>"
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0508",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的同态运算的反向操作：设 h :Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>是一个同态，<img src='/root/s"
+  },
+  {
+   "cn": "格同态",
+   "en": "lattice homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0242",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶同态",
+   "en": "dual homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0248",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算子同态",
+   "en": "operator homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1784",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然同态",
+   "en": "natural homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0871",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模同态",
+   "en": "module homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0873",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环同态",
+   "en": "ring homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1309",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单同态",
+   "en": "injective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1312",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "满同态",
+   "en": "surjective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反同态",
+   "en": "anti-homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余模同态",
+   "en": "comodule homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0930",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数同态",
+   "en": "algebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1397",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分次同态",
+   "en": "graded homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0990",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余代数同态",
+   "en": "coalgebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1468",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "若尔当同态",
+   "en": "Jordan homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1482",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同型叶，一型叶",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一型叶（=同型叶）",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同形二价体",
+   "en": "homomorphic bivalent",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同态处理",
+   "en": "homomorphic processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态去卷积",
+   "en": "Homomorphic deconvolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态系统",
+   "en": "homomorphic system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同型雄螨",
+   "en": "homomorphic male",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "同型自交不亲和性",
+   "en": "homomorphic self-incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群体,团体",
+   "en": "group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类群",
+   "en": "group",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "并系[类]群，偏系群",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏系群（=并系[类]群）",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐私同态加密",
+   "en": "privacy homomorphic encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "Group",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "grouping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了一定的目的组织起来共同行动的团体。在我国多指企业集团、公司集团或多个公司为达成某种特定目标而在业务、流通、生产等方面联系紧密，从而聚集在一起形成的公司（或者企业）联盟。"
+  },
+  {
+   "cn": "小组",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作服务的对象单位，由数个至十数个个人组成。小组的特征包括：有两个或两个以上的人；感到有整体意识且会维持一段时间；互相影响；有控制其成员相互影响的明确规范；有一套角色。"
+  },
+  {
+   "cn": "民俗集团",
+   "en": "folklore group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0029",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民族内部的文化分支，即分布有某些文化特征的地方集团，具有强烈的民族自我意识。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "焦点小组",
+   "en": "focus group",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "组织一小群研究主体进行讨论的访谈方法。"
+  },
+  {
+   "cn": "社会群体",
+   "en": "social group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "介于个人与组织之间的人群结合体，通过一定的社会关系，由具有一定的共同信仰、理想、目标、兴趣、爱好或情感而结合起来进行共同活动的集体。"
+  },
+  {
+   "cn": "小群体",
+   "en": "small group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "规模较小，并且成员在共同认可的群体规范下，能够面对面直接互动并产生相互作用、相互影响以保持其完整性的社会群体。"
+  },
+  {
+   "cn": "内群体",
+   "en": "in-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员经常参与其间的活动，对其有团结、忠心、亲密及合作感觉，在心理上自觉认同并归属于其中的群体。与“外群体”相对。"
+  },
+  {
+   "cn": "外群体",
+   "en": "out-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员未参加，对其在心理上无任何归属感，由他人结合而成的群体。与“内群体”相对。"
+  },
+  {
+   "cn": "正式群体",
+   "en": "formal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度高，有一定的目标，其成员间的互动采取制度化、规范化的方式，成员彼此间的权利、义务关系都有明确的且常常是书面形式的规定。与“非正式群体”相对。"
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度低，其成员间的互动以个人好恶、兴趣等为基础自发形成，多采取随意的、常规的方式，成员的权利、义务及彼此的关系没有明确的尤其是成文的规定。与“正式群体”相对。"
+  },
+  {
+   "cn": "首属群体",
+   "en": "primary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "个人最初加入的首先接受社会化的群体，其成员间相互熟悉、了解，因而以感情为基础结成具有亲密的、面对面交往与合作特征的社会群体。最早由美国社会学家库利(Charles Horton Cooley）在《社会"
+  },
+  {
+   "cn": "次属群体",
+   "en": "secondary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员为了某种特定的目标集合在一起，不一定有面对面接触，可以某些沟通工具为媒介，通过明确的规章制度结成正式关系的社会群体。与“首属群体”相对。"
+  },
+  {
+   "cn": "相遇群体",
+   "en": "encounter group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "在特定情景下人们偶然相遇所形成的、没有很强我群意识的、具有不稳定性质的群体，但特殊的境遇促成其成员心理上比较接近，易于随意交流，彼此倾吐，沟通心声，借以达到精神上的安慰。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "利益群体",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们在社会生产过程中，基于某种共同价值、共同态度、共同社会地位或者共同职业，因利益一致或基本一致，并为实现利益联系在一起的、以争取群体及其成员利益、影响公共政策的共同体。"
+  },
+  {
+   "cn": "压力团体",
+   "en": "pressure group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "由关切某些方面的公共利益而组成的团体，其中有领导者和代言人，由他们提出明确的需要和要求，以迫使别的团体或该团体所隶属的组织改变其政策。"
+  },
+  {
+   "cn": "志趣小组",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间相同或相近的兴趣、爱好、志向等而形成的社会群体。"
+  },
+  {
+   "cn": "血缘群体",
+   "en": "consanguinity group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间血统或生理联系为基础和纽带而形成的社会群体，其历史最为悠久，是个体学习、参与社会生活的出发点。"
+  },
+  {
+   "cn": "地缘群体",
+   "en": "territorial group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间空间或地理位置关系而形成的社会群体，其中比较稳定的、牢固的地缘群体是人类采取定居形式后的产物，因其地缘历史性关系，易于在此基础上形成同乡会等其他社会群体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "produce sensation",
+ "term": "produce sensation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:47:05+00:00",
+ "status": "ok",
+ "note": "variant=produce sensation; 审定公布名词库=1201; 海峡两岸名词对照库=242; 其他来源数据库=63; 预公布名词数据库=144; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。包括一般感觉（浅感觉、深感觉、复合感觉）和特殊感觉（视觉、听觉、味觉、嗅觉）。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.266",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "大脑对刺激物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "精神医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "计划生育名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "显微外科学名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤物理检查",
+   "subjectName": "周围神经损伤物理检查",
+   "publishYear": "2016",
+   "definition": "刺激作用于感觉器官，经过神经系统的信息整合所产生的对该刺激个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "心理学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对直接作用于自身的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "电气工程名词",
+   "wordNumber": "22.110",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "制片人",
+   "en": "producer",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.106",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻采访编辑制作",
+   "subjectName": "广播电视新闻采访编辑制作",
+   "publishYear": "2022",
+   "definition": "某一特定影视节目制作管理的总负责人。电视领域的制片人负责相关节目的内容、人员、财务等方面的总体协调和管理。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer ",
+   "source": "草学名词",
+   "wordNumber": "2.0196",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "动物学名词",
+   "wordNumber": "7.051",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统中能利用简单的无机物质合成为有机物质的生物。是自养生物。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "植物学名词",
+   "wordNumber": "13.0459",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "能利用简单的无机物制造食物的自养生物。主要是各种绿色植物。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "林学名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "能利用无机物质合成为有机物质的生物。是自养者。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0776",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "生态系统中能从简单的无机物制造食物的自养生物。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "生态学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "能利用无机物质合成为有机物质的生物，是自养者。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "地理学名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "能利用简单的无机物制造食物的自养生物。主要是各种绿色植物。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "水产名词",
+   "wordNumber": "02.057",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "具有叶绿素等光合色素，能通过光合作用或化学合成，把无机物合成为自身生命物质的各类水生生物。"
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "土壤学名词",
+   "wordNumber": "07.053",
+   "subjectFullName": "土壤学_土壤生态与土壤肥力",
+   "subjectName": "土壤生态与土壤肥力",
+   "publishYear": "1998",
+   "definition": "生态系统中能利用太阳能合成有机物质的生物。"
+  },
+  {
+   "cn": "生产井",
+   "en": "producing well,producer",
+   "source": "石油名词",
+   "wordNumber": "02.0786",
+   "subjectFullName": "石油_油气地质勘探_油气地质勘探测量",
+   "subjectName": "油气地质勘探测量",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "温度[感]觉",
+   "en": "temperature sensation,thermal sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产者",
+   "en": "producer",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "煤气发生炉",
+   "en": "gas producer\",\"producer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "静位觉（=平衡觉）",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉，静位觉",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤[感]觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温觉",
+   "en": "warm sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉寻求",
+   "en": "sensation seeking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动觉",
+   "en": "vibration sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冷觉",
+   "en": "cold sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温度觉",
+   "en": "temperature sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肌觉",
+   "en": "muscle sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生产价格指数",
+   "en": "Producer Price Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气盛言宜",
+   "en": "Virtue and Knowledge Produce Good Writing.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为情而造文 / 为文而造情",
+   "en": "Produce a Piece of Writing for Emotions / Produce Emotions for a Piece of Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "雕琢情性，组织辞令",
+   "en": "Ennoble One’s Sentiment to Produce Fine Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有德者必有言",
+   "en": "Virtuous People Are Sure to Produce Fine Writing.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精理为文，秀气成采",
+   "en": "Produce Reasoning-based Writings with Graceful Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五行相生",
+   "en": "The Five Elements, Each in Turn Producing the Next",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解决好贫困地区农畜产品卖难问题",
+   "en": "to help farmers in poor areas solve difficulties in selling their produce and livestock",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "停止侵害",
+   "en": "cessation of infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据商品",
+   "en": "data product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络产品",
+   "en": "network product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国内生产总值",
+   "en": "gross domestic product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据生产总值",
+   "en": "gross data product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "马克思主义",
+   "wordNumber": "01.0203",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "对直接作用于感觉器官的客观事物的个别属性的反映，是整个认识过程的起点。"
+  },
+  {
+   "cn": "揉面感",
+   "en": "doughy sensation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "腹膜慢性炎症时由于腹膜增厚、肠管肠系膜粘连使得在触诊时腹壁柔韧有抵抗力，不易压陷的体征。"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "个体为获得变化的、新奇的、复杂的和强烈的感觉体验，甘愿承担可能的身体、社会、经济和法律等方面的风险而从事某活动的愿望。"
+  },
+  {
+   "cn": "触觉",
+   "en": "tactile sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对人体体表的机械接触(接触刺激）的感觉。是由压力和牵引力作用于触觉感受器而引起。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的物质微粒作用于上鼻道嗅上皮中的嗅细胞产生神经冲动传至神经中枢引起的感觉。"
+  },
+  {
+   "cn": "味觉",
+   "en": "gustatory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉。"
+  },
+  {
+   "cn": "前庭觉",
+   "en": "vestibular sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "本体觉",
+   "en": "proprioceptive sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "来自肌、腱、关节等处感受器的冲动传向大脑和小脑所产生的感觉。包括位置觉、运动觉和振动觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.8",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "挥发性物质刺激鼻腔产生的一类化学感应。由嗅神经系统和鼻三叉神经系统参与。"
+  },
+  {
+   "cn": "小生产者",
+   "en": "small producer",
+   "source": "马克思主义",
+   "wordNumber": "03.0210",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以生产资料私有和个体劳动为基础的生产者。包括个体农民和个体手工业者。又被称为小商品生产者。小生产者既是劳动者，又是私有者。"
+  },
+  {
+   "cn": "生产者剩余",
+   "en": "producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "生产者在商品生产和销售过程中获得的净利益，等于生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "单个生产者剩余",
+   "en": "individual producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "个体生产者在商品生产和销售过程中获得的净利益，等于个体生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "总生产者剩余",
+   "en": "total producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "全部生产者在商品生产和销售过程中获得的净利益，等于全部生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "农业生产合作社",
+   "en": "agricultural producers cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0328",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在无产阶级专政建立以后，劳动农民在共产党的领导下，按照自愿互利原则组织的集体经济组织。十月革命之后，为了与以粮食税代替余粮收集制相适应，列宁提出恢复和发展农业合作社的问题。在中国，按照生产资科公有化的"
+  },
+  {
+   "cn": "手工业生产合作社",
+   "en": "handicraft producers cooperatives",
+   "source": "马克思主义",
+   "wordNumber": "02.0369",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国手工业合作化的高级形式，社会主义性质的集体经济组织。合作社一般实行集中生产、统一经营、统一计算盈亏；所盈利润，除向国家纳税、提取公积金、公益金外，社员实行按劳分配。"
+  },
+  {
+   "cn": "初级农业生产合作社",
+   "en": "elementary agricultural producers cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0364",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "劳动农民依自愿互利原则组织起来的半社会主义性质的集体经济组织。主要特点是土地入股和统一经营，社员参加集体劳动，劳动产品在扣除农业税、生产费、公积金、公益金和管理费用之后，按照社员的劳动数量和质量及入社"
+  },
+  {
+   "cn": "高级农业生产合作社",
+   "en": "advanced agricultural producers cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0365",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "劳动农民依自愿互利原则组织起来的完全社会主义性质的集体经济组织。社员的土地无代价转归集体所有，取消土地报酬，耕畜、大型农具等主要生产资料折价归合作社集体所有，社员间平等互助关系，参加集体劳动，实行按劳"
+  },
+  {
+   "cn": "食品加工过程污染物",
+   "en": "contaminants produced during food processing",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "食品生产加工过程中形成的有害物质，如食品在高温、油炸烹调过程中形成的杂环胺、丙烯酰胺等。"
+  },
+  {
+   "cn": "氨法焦糖",
+   "en": "caramel produced by aammonia method",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.10",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "一种着色剂类食品添加剂，通过控制葡萄糖、蔗糖等糖类与氨或铵盐等含氮化合物在高温下发生美拉德反应和焦糖化反应而制成。"
+  },
+  {
+   "cn": "食品添加剂生产经营者",
+   "en": "food additive producers and traders",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一切从事食品添加剂生产或经营活动的单位或者个人"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

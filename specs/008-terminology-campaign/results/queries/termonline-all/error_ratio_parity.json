@@ -1,0 +1,702 @@
+{
+ "key": "error ratio parity",
+ "term": "error ratio parity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:30:43+00:00",
+ "status": "ok",
+ "note": "variant=error ratio parity; 审定公布名词库=4235; 海峡两岸名词对照库=1990; 其他来源数据库=214; 预公布名词数据库=329; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "比特差错率",
+   "en": "bit error ratio",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.178",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "差错比特数与规定期间内传输、接收或处理的总比特数之比。"
+  },
+  {
+   "cn": "误码率",
+   "en": "bit error ratio",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.553",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "误字率",
+   "en": "word-error ratio",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.654",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "比值误差校验",
+   "en": "ratio error verification",
+   "source": "电气工程名词",
+   "wordNumber": "08.214",
+   "subjectFullName": "电气工程_变压器、调压器、电抗器、互感器",
+   "subjectName": "变压器、调压器、电抗器、互感器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "传输系统误码率",
+   "en": "bit error ratio,BER",
+   "source": "光学名词",
+   "wordNumber": "22.015",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "数字光通信系统(包括数字图像通信系统)中，接收到的码元被错误判决的概率。在长时间测试中，误码率可以表示为错误判决的码元数占总传送的码元数的比例。"
+  },
+  {
+   "cn": "信元差错比",
+   "en": "cell error ratio,CER",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在给定时间间隔内，差错的信元数与发送的信元总数之比。"
+  },
+  {
+   "cn": "01.37宇称",
+   "en": "parity",
+   "source": "核科学技术名词",
+   "wordNumber": "1.037",
+   "subjectFullName": "核科学技术_核物理_核物理基础类",
+   "subjectName": "核物理基础类",
+   "publishYear": "2024",
+   "definition": "描述粒子在空间反演(r→−r)下变换性质的相乘性量子数。是粒子的内禀属性之一，常用P表示。如果描述某一粒子的波函数在空间反演变换下改变符号，则该粒子具有奇宇称(P=−1)；如果波函数在空间反演变换下保"
+  },
+  {
+   "cn": "宇称",
+   "en": "parity",
+   "source": "物理学名词",
+   "wordNumber": "06.0671",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.055",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "学名差错",
+   "en": "error",
+   "source": "动物学名词",
+   "wordNumber": "2.0087",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "在命名上，学名无意识的拼错或抄缮或印刷的差错。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "测绘学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "测量结果与被测量真值之差。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "电力名词",
+   "wordNumber": "02.148",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "测量结果与被测量真值之差。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "冶金学名词",
+   "wordNumber": "04.0694",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "对象的观测值与真值的差值。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "物理学名词",
+   "wordNumber": "01.0222",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "地方病学名词",
+   "wordNumber": "01.101",
+   "subjectFullName": "地方病学_总论_实验室检测",
+   "subjectName": "实验室检测",
+   "publishYear": "2016",
+   "definition": "在正确测量的前提下，测量值与真实值之间的差异。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "化学名词",
+   "wordNumber": "03.0157",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "测量值与被测定量真值之差。"
+  },
+  {
+   "cn": "误码",
+   "en": "error",
+   "source": "计量学名词",
+   "wordNumber": "11.391",
+   "subjectFullName": "计量学_无线电_通信参量",
+   "subjectName": "通信参量",
+   "publishYear": "2015",
+   "definition": "对于数字传输系统而言，发送和接收序列中对应单个数字的不一致。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "心理学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "测量值与真实值之间的差异。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在医学研究中，测量值与真实值的差。"
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "数学名词",
+   "wordNumber": "010.0034",
+   "subjectFullName": "数学_数值分析_误差论",
+   "subjectName": "误差论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "误差比",
+   "en": "error ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶[性]",
+   "en": "parity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "差错",
+   "en": "error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误差",
+   "en": "error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学名差错",
+   "en": "error",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "比，比率",
+   "en": "ratio",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error，permissible error\",\"allowable error",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "预报误差",
+   "en": "forecasting error\",\"forecast error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均误差",
+   "en": "average error\",\"mean error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "容许[误]差",
+   "en": "tolerance error\",\"allowable error",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复制错误",
+   "en": "copy error\",\"replication error",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual error\",\"remainder error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "累积误差",
+   "en": "accumulated error\",\"cumulative  error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accident error\",\"irregular error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "错打",
+   "en": "error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球失误",
+   "en": "service error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非受迫性失误",
+   "en": "unforced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加速比",
+   "en": "speedup ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贫困发生率",
+   "en": "poverty ratio",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差错控制编码",
+   "en": "error control coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球区错误",
+   "en": "service court error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠≥28周的分娩次数，包括活产、死产或死胎分娩。"
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling error",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用统计学从样本中得到的估计值同总体的真值之间差异的一般趋势。一般可以分解为两部分：选择偏倚和估计偏倚。"
+  },
+  {
+   "cn": "标准误",
+   "en": "standard error",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.100",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "样本统计量的抽样分布的标准化的离差。"
+  },
+  {
+   "cn": "屈光不正",
+   "en": "refractive error",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在眼调节放松状态时，外界平行光线经眼球屈光系统后不能准确聚焦在视网膜黄斑中心凹，无法产生清晰成像的屈光状态，包含远视、散光、近视和屈光参差等。"
+  },
+  {
+   "cn": "定比尺度",
+   "en": "ratio scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "确立测量对象之间的比率关系的测量方式。是最高层次的测量，除具有定类测量、定序测量和定距测量的特征外，还要求具有实在意义的真正零点。"
+  },
+  {
+   "cn": "几率比",
+   "en": "odds ratio",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.115",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个几率的商。"
+  },
+  {
+   "cn": "性别比",
+   "en": "sex ratio",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "用来指称男女人口数量的比例，通常以每100名女性人口所对应的男性人口数量为计算标准，包含出生人口性别比与成人性别比。"
+  },
+  {
+   "cn": "含湿量",
+   "en": "humidity ratio",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "湿空气中，所含水蒸气的质量与干空气质量之比。"
+  },
+  {
+   "cn": "比值比",
+   "en": "odds ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "病例对照研究中病例组与对照组暴露比值之比，表示暴露者疾病的危险性是非暴露者的多少倍，用于估计相对危险度的关联强度指标。"
+  },
+  {
+   "cn": "低估系数",
+   "en": "underestimation ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在疾病负担流行病学金字塔模型中，上一层级的报告患病率（发病率）占下一层级估计患病率（发病率）的比例"
+  },
+  {
+   "cn": "伤亡比",
+   "en": "casualty ratio",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.12",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员人数与阵亡人数之比，反映敌人武器、战斗激烈程度和火线救护效果。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "基本归因错误",
+   "en": "fundamental attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "在考察他人行为的原因时，人们通常会有一种高估行为者个人内部特质影响，而低估情景性因素影响的普遍倾向。"
+  },
+  {
+   "cn": "根本的归因偏差",
+   "en": "ultimate attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "基本归因错误在群际过程中的一种表现形式，指人们在对群体行为进行归因时所存在的偏袒内群体、歧视外群体的偏差，即人们倾向于将外群体的消极负面的行为归因为其所拥有的稳定特质，将外群体的积极正面的行为视为例外"
+  },
+  {
+   "cn": "氧增强比",
+   "en": "oxygen enhancement ratio",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.26",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "缺氧与有氧条件下受照射的生物体出现同等生物效应所需吸收剂量的比值。"
+  },
+  {
+   "cn": "道比法",
+   "en": "channels ratio method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "液体闪烁计数法中猝灭校正方法之一。即在被测样品的能谱范围内选取两个测量窗，用在两窗内的计数之比（道比）从已知猝灭校正曲线算出被测样品的探测效率，进而求出样品活度的方法。"
+  },
+  {
+   "cn": "泄漏辐射[比]率",
+   "en": "leakage radiation ratio",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.25",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在有用束外距辐射源某一距离处的泄漏辐射空气比释动能率与有用束中心轴上距辐射源相同距离处的空气比释动能率的比值。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality ratio",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某年每10万名活产婴儿对应的由于怀孕和分娩而死亡的妇女数。"
+  },
+  {
+   "cn": "医护比",
+   "en": "doctor-nurse ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "全称“医护比例”。医生与护士的比例，等于医生数/护士数，一般表示为两个数字之比，如某医院医护比为1:2"
+  },
+  {
+   "cn": "政策补偿比",
+   "en": "policy compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "在规定的政策范围内，即规定的服务包（包括药品、检查等）范围内，以及规定的起付线、封顶线等限制下，参保人应获得补偿的医疗费用占应支付医药费用的比例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

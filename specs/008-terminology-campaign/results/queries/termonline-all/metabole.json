@@ -1,0 +1,512 @@
+{
+ "key": "metabole",
+ "term": "metabolê",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:33:46+00:00",
+ "status": "ok",
+ "note": "variant=metabolê; 审定公布名词库=223; 海峡两岸名词对照库=42; 其他来源数据库=2; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "代谢区室",
+   "en": "metabolon",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0022",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "代谢途径中某些酶形成的疏松的超分子复合体三维结构。底物可通过其间通道进入而进行代谢反应，如三羧酸循环酶复合体等。"
+  },
+  {
+   "cn": "无变态类",
+   "en": "Ametabola",
+   "source": "昆虫学名词",
+   "wordNumber": "02.152",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "成、幼期形态相似，不经变态的昆虫类群。"
+  },
+  {
+   "cn": "代谢紊乱",
+   "en": "metabolic disorder, metabolic disturbance",
+   "source": "感染病学名词",
+   "wordNumber": "04.0286",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_感染性休克",
+   "subjectName": "感染性休克",
+   "publishYear": "2019",
+   "definition": "机体代谢功能失调的现象。常见的有糖代谢障碍、生物合成或转化功能障碍。"
+  },
+  {
+   "cn": "代谢偶联",
+   "en": "metabolic coupling,metabolic cooperation",
+   "source": "细胞生物学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "细胞生物学_细胞生理",
+   "subjectName": "细胞生理",
+   "publishYear": "2009",
+   "definition": "小分子质量（小于1 kDa）代谢物（如核苷酸、氨基酸等）在相邻细胞间通过间隙连接或胞间连丝的传递。"
+  },
+  {
+   "cn": "代谢紊乱",
+   "en": "metabolic disorder;metabolic disturbance",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.088",
+   "subjectFullName": "总论_内分泌代谢性疾病",
+   "subjectName": "内分泌代谢性疾病",
+   "publishYear": "2025",
+   "definition": "机体对物质的消化、吸收、排泄等出现病理性、不协调的供需不平衡的状态。可以表现为一种物质也可以表现为多种物质的紊乱。"
+  },
+  {
+   "cn": "代谢紊乱",
+   "en": "metabolic disorder",
+   "source": "普通外科学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "机体对某一种或多种物质的消化、吸收、排泄出现病理性、不协调的供需不平衡状态。"
+  },
+  {
+   "cn": "代谢支持",
+   "en": "metabolic support",
+   "source": "普通外科学名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "在严重分解代谢状态下，一方面提供患者适量的营养底物，防止因营养物严重不足导致代谢障碍；另一方面也要避免因过量的营养供给而加重器官结构和功能损伤的支持手段。"
+  },
+  {
+   "cn": "代谢调理",
+   "en": "metabolic intervention",
+   "source": "普通外科学名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "在营养支持的同时，应用某些药物或生物制剂抑制应激状态下机体分解激素或细胞因子的产生、调节体内物质代谢过程的方法。目的是减少组织蛋白质分解，恢复机体正常物质代谢。"
+  },
+  {
+   "cn": "代谢性脑病",
+   "en": "metabolic encephalopathy",
+   "source": "神经外科学名词",
+   "wordNumber": "3.013",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "由代谢障碍性疾病、系统性疾病或功能衰竭引起的内环境紊乱而导致脑功能紊乱的一组疾病。表现为定向力障碍、精神行为异常、意识障碍等，可出现惊厥、去大脑强直等。最常见的是脓毒性脑病、缺氧缺血性脑病、肝性脑病和"
+  },
+  {
+   "cn": "代谢性肝硬化",
+   "en": "metabolic cirrhosis",
+   "source": "普通外科学名词",
+   "wordNumber": "21.072",
+   "subjectFullName": "医学_普通外科学_门静脉高压症",
+   "subjectName": "门静脉高压症",
+   "publishYear": "2026",
+   "definition": "由遗传和代谢性疾病导致肝病变引发的肝硬化。可见于肝豆状核变性、血色病、半乳糖血症、肝糖原贮积症等。"
+  },
+  {
+   "cn": "代谢综合征",
+   "en": "metabolic syndrome",
+   "source": "普通外科学名词",
+   "wordNumber": "26.043",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "多种代谢成分异常聚集的病理状态导致的一组复杂的代谢紊乱综合征。是糖尿病和心脑血管疾病的危险因素，其集簇发生可能与胰岛素抵抗有关。"
+  },
+  {
+   "cn": "代谢性酸中毒",
+   "en": "metabolic acidosis",
+   "source": "普通外科学名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "医学_普通外科学_酸碱平衡",
+   "subjectName": "酸碱平衡",
+   "publishYear": "2026",
+   "definition": "以血浆HCO₃⁻原发性减少导致pH值降低为特征的酸碱平衡紊乱。是临床上最常见的酸碱平衡紊乱。"
+  },
+  {
+   "cn": "代谢性碱中毒",
+   "en": "metabolic alkalosis",
+   "source": "普通外科学名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "医学_普通外科学_酸碱平衡",
+   "subjectName": "酸碱平衡",
+   "publishYear": "2026",
+   "definition": "以血浆HCO₃⁻原发性增高导致pH值上升为特征的酸碱平衡紊乱。"
+  },
+  {
+   "cn": "代谢性骨病学",
+   "en": "metabolic osteology",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.014",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "研究机体骨骼的代谢调节、生理功能和与代谢异常相关性骨病的机制、诊断和防治的学科。"
+  },
+  {
+   "cn": "代谢性疾病",
+   "en": "metabolic disease",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.097",
+   "subjectFullName": "总论_内分泌代谢性疾病",
+   "subjectName": "内分泌代谢性疾病",
+   "publishYear": "2025",
+   "definition": "机体因物质代谢过程中某一个和多个环节代谢紊乱引起的疾病。如糖尿病、低血症、肥胖症、高脂血症、代谢综合征等。其中糖尿病也可根据其胰岛素相对或绝对不足归入内分泌疾病。"
+  },
+  {
+   "cn": "代谢综合征",
+   "en": "metabolic syndrome",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "08.083",
+   "subjectFullName": "胰腺与糖尿病及低血糖症_糖尿病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "人体的蛋白质、脂肪、糖类（碳水化合物）等物质发生代谢紊乱，表现为肥胖、高血糖（糖尿病或糖调节受损）、血脂异常[高甘油三酯血症和（或）低高密度脂蛋白胆固醇血症]及高血压等出现于同一个体，严重影响机体健康"
+  },
+  {
+   "cn": "代谢性酸中毒",
+   "en": "metabolic acidosis",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "10.058",
+   "subjectFullName": "蛋白质与氨基酸及非产能物质代谢性疾病_脂质代谢异常及相关疾病",
+   "subjectName": "脂质代谢异常及相关疾病",
+   "publishYear": "2025",
+   "definition": "由酸性代谢产物生成增加或排泌障碍，碱丢失过多引起的一种病理生理状态。表现为呼吸深而快、心律失常、腹痛腹泻等。"
+  },
+  {
+   "cn": "代谢性碱中毒",
+   "en": "metabolic alkalosis",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "10.060",
+   "subjectFullName": "蛋白质与氨基酸及非产能物质代谢性疾病_脂质代谢异常及相关疾病",
+   "subjectName": "脂质代谢异常及相关疾病",
+   "publishYear": "2025",
+   "definition": "各种原因引起的血浆碳酸氢根离子浓度原发性升高或氢离子浓度降低的一种病理生理状态。血浆pH升高或正常，在呼吸功能正常的情况下常伴随动脉血二氧化碳分压的代偿性升高。见于呕吐大量胃液、服用碱性药物及使用利尿"
+  },
+  {
+   "cn": "代谢性酸中毒",
+   "en": "metabolic acidosis",
+   "source": "急救医学名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "急救医学_日常医学急救_外科学_酸碱平衡失调",
+   "subjectName": "酸碱平衡失调",
+   "publishYear": "2025",
+   "definition": "以原发性血浆碳酸氢根离子浓度降低导致动脉血pH＜7.35，二氧化碳分压代偿性下降为特征的酸碱代谢紊乱。可因有机酸生成增加、肾脏排泄氢离子减少或丢失碳酸氢盐引起。严重者可出现库斯莫尔呼吸。"
+  },
+  {
+   "cn": "代谢性碱中毒",
+   "en": "metabolic alkalosis",
+   "source": "急救医学名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "急救医学_日常医学急救_外科学_酸碱平衡失调",
+   "subjectName": "酸碱平衡失调",
+   "publishYear": "2025",
+   "definition": "由各种原因引起的原发性血浆碳酸氢根离子浓度升高的一种病理生理状态。血浆pH升高或正常，在呼吸功能正常的情况下常伴随动脉血二氧化碳分压的代偿性升高。"
+  },
+  {
+   "cn": "代谢区室",
+   "en": "metabolon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无变态类",
+   "en": "ametabola",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "无变态类",
+   "en": "Ametabola",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "代谢偶联",
+   "en": "metabolic coupling\",\"metabolic cooperation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢控制",
+   "en": "metabolic control",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢库",
+   "en": "metabolic pool",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢类型",
+   "en": "metabolic type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢调节",
+   "en": "metabolic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢控制",
+   "en": "metabolic control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "代谢速率",
+   "en": "metabolic rate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "代谢综合征",
+   "en": "metabolic syndrome",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代谢显像",
+   "en": "metabolic imaging",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "代谢率",
+   "en": "metabolic rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "代谢工程",
+   "en": "metabolic engineering",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢库",
+   "en": "metabolic pool",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢率",
+   "en": "metabolic rate",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢酶",
+   "en": "metabolic enzyme",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢偶联",
+   "en": "metabolic coupling",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢调节",
+   "en": "metabolic regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢调控",
+   "en": "metabolic control",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢断裂",
+   "en": "metabolic rift",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.13",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "积累逻辑破坏自然再生产的基本过程并导致生态可持续性的退化。"
+  },
+  {
+   "cn": "代谢性肌病",
+   "en": "metabolic myopathies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.9",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一类以肌纤维线粒体功能异常、糖原及脂质代谢紊乱导致能量产生障碍而引起的骨骼肌无力和萎缩的疾病，可伴多个器官系统受累。依据代谢环节受累的不同，可分为线粒体肌病及脑肌病、脂质沉积性肌病和糖原贮积病；各类型"
+  },
+  {
+   "cn": "代谢性酸中毒",
+   "en": "metabolic acidosis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.22",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "甲醇食物中毒的主要特征之一，起因于体液碳酸氢根降低，pH 降低，导致体内酸碱平衡状态破坏，而引起的病理生理过程。"
+  },
+  {
+   "cn": "代谢当量",
+   "en": "metabolic equivalent, MET",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "身体活动时的代谢率与标准的静息代谢率的比值，是活动时相对能量代谢水平的常用指标。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  },
+  {
+   "cn": "妊娠期代谢特点",
+   "en": "metabolic characteristic during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女除了满足自身基础代谢、身体活动以及食物特殊动力作用需要外，还需使机体保持适于胚胎/胎儿生长发育的生理环境，支持母体和胚胎/胎儿生长发育相关合成代谢，并在母体内储备营养素，供产后泌乳动用的生理特"
+  },
+  {
+   "cn": "代谢紊乱型食源性疾病",
+   "en": "metabolic disordered foodborne diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由于代谢酶遗传或功能缺陷，导致某种食物成分不能被正常代谢而引发的一种疾病状态"
+  },
+  {
+   "cn": "哺乳期妇女代谢特点",
+   "en": "metabolic characteristic of lactating woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "由于产后雌激素和孕激素迅速下降，催乳素分泌增加，以乳汁分泌，各器官系统逐渐恢复，哺乳期妇女能量和营养素存在额外需要为特征的状态。"
+  },
+  {
+   "cn": "代谢型冷习服",
+   "en": "enhanced metabolic type cold-acclimation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷习服",
+   "subjectName": "冷习服",
+   "publishYear": "2025",
+   "definition": "机体为了抵御寒冷，保持体心温度恒定，出现代谢活动增强、氧耗增加，产热增加，以非寒战产热为主的习服类型。"
+  },
+  {
+   "cn": "氨基酸代谢障碍配方",
+   "en": "formula for amino acid metabolic disorder",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.15",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不含或仅含有少量与代谢障碍有关的氨基酸，其他类别氨基酸的组成与含量根据代谢障碍进行适当调整，同时可适当调整某些矿物质和维生素含量，适用于氨基酸代谢障碍婴儿的特殊医学用途配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "rectangular field assumption",
+ "term": "Rectangular Field Assumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:46:50+00:00",
+ "status": "ok",
+ "note": "variant=Rectangular Field Assumption; 审定公布名词库=2102; 海峡两岸名词对照库=497; 其他来源数据库=96; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "长方形配置",
+   "en": "rectangular spacing,rectangular planting",
+   "source": "林学名词",
+   "wordNumber": "05.102",
+   "subjectFullName": "林学_森林培育_种苗与营造",
+   "subjectName": "种苗与营造",
+   "publishYear": "2016",
+   "definition": "造林时行距大于株距的一种种植方式。"
+  },
+  {
+   "cn": "碑文额",
+   "en": "rectangular board",
+   "source": "风景园林名词",
+   "wordNumber": "11.0089",
+   "subjectFullName": "风景园林_风景园林艺术_品题艺术",
+   "subjectName": "品题艺术",
+   "publishYear": "2025",
+   "definition": "形体长方如石碑的匾额。不能悬挂，只宜嵌于墙上。"
+  },
+  {
+   "cn": "矩形断层",
+   "en": "rectangular fault",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1487",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "断层面为矩形的断层破裂模式。其长边与短边分别称为断层长度与断层宽度。其破裂前缘是与宽度方向平行的线段。破裂从断层上的某一点起始，沿断层长度方向扩展。 "
+  },
+  {
+   "cn": "矩形容器",
+   "en": "rectangular vessel",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0073",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "壳体截面为矩形的容器。"
+  },
+  {
+   "cn": "矩形吸盘",
+   "en": "rectangular chuck",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "14.062",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_机床附件",
+   "subjectName": "机床附件",
+   "publishYear": "2021",
+   "definition": "工作台面为矩形的吸盘。"
+  },
+  {
+   "cn": "长方油石",
+   "en": "rectangular stone",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_油石",
+   "subjectName": "油石",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "矩形砂瓦",
+   "en": "rectangular segment",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.063",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_砂瓦",
+   "subjectName": "砂瓦",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "矩形工作台",
+   "en": "rectangular table",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "14.015",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_机床附件",
+   "subjectName": "机床附件",
+   "publishYear": "2021",
+   "definition": "工作台面为矩形的工作台。"
+  },
+  {
+   "cn": "直角坐标机器人",
+   "en": "rectangular robot",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0430",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "手臂具有三个棱柱关节、其轴按直角坐标配置的机器人。"
+  },
+  {
+   "cn": "直角坐标网",
+   "en": "rectangular grid",
+   "source": "测绘学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "地图上用来确定点位的按一定间隔绘制的正方形格网。"
+  },
+  {
+   "cn": "长方格[子]",
+   "en": "rectangular lattice",
+   "source": "物理学名词",
+   "wordNumber": "08.0223",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "矩形波导",
+   "en": "rectangular waveguide",
+   "source": "物理学名词",
+   "wordNumber": "03.1061",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标",
+   "en": "rectangular coordinate",
+   "source": "地理学名词",
+   "wordNumber": "27.098",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "用平面上X，Y的长度值表示地面点位置的坐标。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标，正交坐标",
+   "en": "rectangular coordinate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标",
+   "en": "rectangular coordinate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矩形堰",
+   "en": "rectangular weir",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矩形脉冲",
+   "en": "rectangular pulse",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标",
+   "en": "rectangular coordinate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矩形分幅",
+   "en": "rectangular mapsubdivision",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标网",
+   "en": "rectangular grid",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标展点仪",
+   "en": "rectangular coordinatograph",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "矩形波导",
+   "en": "rectangular waveguide",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形波导管",
+   "en": "rectangular waveguide",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形窗",
+   "en": "rectangular window",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形脉冲",
+   "en": "rectangular pulse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形谐振腔器",
+   "en": "rectangular cavity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形阵列",
+   "en": "rectangular array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标",
+   "en": "rectangular coordinate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩形窗",
+   "en": "rectangular window",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "棒球场地",
+   "en": "field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动场",
+   "en": "field\",\"playing field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足球场",
+   "en": "field\",\"pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接地滚球",
+   "en": "catch\",\"field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球场",
+   "en": "field\",\"pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据场",
+   "en": "data field",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场上队员",
+   "en": "field player",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "训练场地",
+   "en": "training field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "野外射箭",
+   "en": "field archery",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "11人制手球",
+   "en": "field-handball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场域",
+   "en": "field",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0627",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。场域是指在各种位置之间存在的客观关系的一个网络或一个构型，这些位置在不同类型的权力（或资本）的分配结构中实际的和潜在的处境中，以及它们"
+  },
+  {
+   "cn": "照射野",
+   "en": "radiation field",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "射线束经准直器后垂直投照到受照体的范围。"
+  },
+  {
+   "cn": "现场去污",
+   "en": "field decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件现场采用物理、化学或生物过程完全或部分去除放射性污染的行动。包括从人员、设备和建筑物中去除污染物的各种过程，但不包括从人体内去除放射性核素，或通过自然风化或迁移过程去污。"
+  },
+  {
+   "cn": "田野笔记",
+   "en": "field notes",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "在田野工作中所记录的研究内容。包括笔记、实录、原文、日记、图表和谱系等形式，是民族志的基本依据。广义也包括音频和视频资料。"
+  },
+  {
+   "cn": "野战消毒",
+   "en": "field disinfection",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "野战条件下选择简便易行的物理或化学等消毒方法对容易受到污染的对象进行处理，以杀灭或清除可能导致传染病疫情和医院感染的病原微生物。"
+  },
+  {
+   "cn": "野战供膳",
+   "en": "field feeding",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人供膳",
+   "subjectName": "军人供膳",
+   "publishYear": "2025",
+   "definition": "部队在野战条件下，按照军队规定的给养标准和营养相关标准提供的膳食，主要包括热食保障、军用食品保障、饮水保障及相应的保障装备。"
+  },
+  {
+   "cn": "野战食品",
+   "en": "field rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队人员行军、作战和一些特殊情况下热食供应困难时食用的制式食品，主要包括压缩干粮、脱水米饭、自加热食品、单兵口粮等。"
+  },
+  {
+   "cn": "消毒现场试验",
+   "en": "disinfection field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.28",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂或消毒器械对消毒对象上自然菌达到消毒合格要求所需使用剂量的试验方法。"
+  },
+  {
+   "cn": "光野指示器",
+   "en": "light field indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线设备中，通过可见光反映出照射野范围的装置。"
+  },
+  {
+   "cn": "射野灯",
+   "en": "field defining lamp",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "提供可见光用于照到人体表面以模拟实际照射野的光源。"
+  },
+  {
+   "cn": "视野残疾",
+   "en": "visual field disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "野营卫生侦查",
+   "en": "field hygiene reconnaissance",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.8",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "预先对部队在野外或近似野外条件下驻留时所处环境资源、卫生学情况、环境健康风险等进行实地勘察、检测、分析和评价。"
+  },
+  {
+   "cn": "野营卫生",
+   "en": "field camp sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使野营环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "野外驻训卫生",
+   "en": "field training sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在部队离开永久性固定营区到野外或近似野外条件下较长时间驻留和训练时，为使野外驻训环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "高压静电场",
+   "en": "high-voltage electrostatic field",
+   "source": "消毒学",
+   "wordNumber": "2.2.5.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "通过高压放电形成的超强电场。可使静电场中的颗粒带正电。"
+  },
+  {
+   "cn": "消毒模拟现场试验",
+   "en": "disinfection simulation field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用于验证消毒剂或消毒器械对模拟消毒对象上人工污染微生物消毒效果的试验方法。"
+  },
+  {
+   "cn": "现场消毒服务机构",
+   "en": "field disinfection service organization",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.3",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "对污染或可能被污染的物品或环境现场进行消毒的机构。"
+  },
+  {
+   "cn": "野营卫生管理",
+   "en": "field camp sanitation management",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为创造卫生整洁并有利于保障部队健康、预防疾病的野营营区环境，根据相关条令和法规，结合野营的实际情况，制订、实施并监督完成相关医学预防规定及行为的活动。"
+  },
+  {
+   "cn": "军队现场流行病学调查",
+   "en": "military field epidemiological investigation",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.8.4",
+   "subjectFullName": "军事预防医学_军队流行病学_军队突发公共卫生事件",
+   "subjectName": "军队突发公共卫生事件",
+   "publishYear": "2025",
+   "definition": "针对军队内部发生的或与军队有关的群体性疾病或健康事件现场所开展的疾病分布、原因分析与应急处理等综合性调查工作。"
+  },
+  {
+   "cn": "高原野营",
+   "en": "field camp in highland",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.4.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在海拔高度超过3000 米、医学上对人体健康产生明显影响的地区，于野外或近似野外的条件下居留和住宿。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "legal formalism",
+ "term": "legal formalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:35:02+00:00",
+ "status": "ok",
+ "note": "variant=legal formalism; 审定公布名词库=164; 海峡两岸名词对照库=68; 其他来源数据库=55; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.243",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "源于希尔伯特提议将数学对象看作没有任何指称的纯符号。形式主义把数学推理看作严格按照规则进行的符号转换。在当代数学基础研究中，形式主义者倾向于认为那些独立于公理集合论系统的数学命题是无意义的。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.096",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "注重表面超过内容，注重形式超过实效的思想和行为。在宣传方面表现为用程式化的会议，说空话、套话代替实际的工作；新闻方面表现为用花哨或煽情的词句和表演造势，替代对具体事实进行全面客观的交代。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "语言学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "与“功能主义”相对。语言学的一种分析方法。从形式角度来分析语言，特别是生成分析追求的目标。指支配一种分析法的规则、原则、条件等能以精确和严格的方式界定。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "数学名词",
+   "wordNumber": "02.0308",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "缩甲醛化",
+   "en": "formalization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0352",
+   "subjectFullName": "化工（七）_合成纤维_聚乙烯醇纤维",
+   "subjectName": "聚乙烯醇纤维",
+   "publishYear": "2022",
+   "definition": "一种聚乙烯醇缩甲醛纤维后处理工艺。通过聚乙烯醇与甲醛的缩醛化反应，将非晶区的羟基进行封闭，提高纤维的耐热水性能的工艺过程。"
+  },
+  {
+   "cn": "形式化",
+   "en": "formalization",
+   "source": "语言学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "转换生成语法使用的一种方法。即理论或规则都用形式逻辑或者数学语言清晰明确地阐释出来。"
+  },
+  {
+   "cn": "法家",
+   "en": "Legalism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0246",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "先秦时期的一个思想派别。以商鞅、韩非等人为代表，崇尚法制，倡导富国强兵称霸之道，主张“不别亲疏，不殊贵贱，一断于法”，在战国变法中成为国家指导思想，是后代中央集权体制的思想渊源之一。"
+  },
+  {
+   "cn": "道德形式主义",
+   "en": "moral formalism",
+   "source": "教育学名词",
+   "wordNumber": "01.199",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "德育理论中一种轻视道德的社会作用和效果的观点，强调在形式上履行道德规范。"
+  },
+  {
+   "cn": "数据形式化",
+   "en": "data formalism",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.459",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "数据的某种统一表达方式。"
+  },
+  {
+   "cn": "正规金融",
+   "en": "formal finance",
+   "source": "农学名词",
+   "wordNumber": "19.247",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "依法批准设立的金融机构所开展的金融服务。"
+  },
+  {
+   "cn": "形式联系",
+   "en": "formal relation",
+   "source": "档案学名词",
+   "wordNumber": "03.01.017",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "文件在表现形式上的联系。"
+  },
+  {
+   "cn": "正题名项",
+   "en": "formal title",
+   "source": "档案学名词",
+   "wordNumber": "03.04.004",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。正题名是档案的主要题名，一般指单份文件文首的题目名称、案卷封面上的题目名称、类别名称或全宗名称。"
+  },
+  {
+   "cn": "形式科学",
+   "en": "formal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "是与形式系统密切相关的知识分支，主要包括逻辑学、数学、理论计算机科学、信息理论、系统理论、判定理论、统计学等领域。它不是与基于真实世界的观察有效性相联系的，而是与以定义和规律为基础的形式系统性质相联系"
+  },
+  {
+   "cn": "形式因",
+   "en": "formal cause",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.102",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "事物以某种方式运动，是因其具有特定的原型、结构和形式。形式亦是表达事物本质的定义。说明了为什么事物运动具有特定方式。来源于毕达哥拉斯学派的“数”和柏拉图的“理念”。"
+  },
+  {
+   "cn": "形式系统",
+   "en": "formal system",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.252",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由形式语言和在这个语言上的公理系统组成，后者则包括公理和推理规则。之所以称为形式的，是因为这个语言的符号和语句在未经解释前并没有语义内容，即使它最初是为某个特定的模型设计的。"
+  },
+  {
+   "cn": "形式语言",
+   "en": "formal language",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.024",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "数学、逻辑和计算机科学中，用精确的数学或机器可处理的公式定义的语言。包括语法和语义两个方面。"
+  },
+  {
+   "cn": "形式化方法",
+   "en": "formalization method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "分析研究对象的形式结构的方法。以揭示研究对象的逻辑规律，制定相应的逻辑规则，构建严密的理论体系。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.002",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "由正式文件规定的，有权威级层、固定编制的组织成员、有规定的权利与义务、明确的工作目标和职责分工、完整的内部与外部传播及组织成员协调规则的系统。"
+  },
+  {
+   "cn": "正式沟通",
+   "en": "formal communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.052",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播过程",
+   "subjectName": "组织传播过程",
+   "publishYear": "2022",
+   "definition": "组织中凡和工作有关的例行或排定的传播活动。大多以口头或书面方式进行，包括口头联络、备忘录和信件、文件流转、记录和报告以及手册。"
+  },
+  {
+   "cn": "正式出版物",
+   "en": "formal publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.002",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "出版单位按规定程序出版的出版物。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据形式化",
+   "en": "data formalism",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "正式报告",
+   "en": "formal report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "形式运算",
+   "en": "formal operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "式量电位",
+   "en": "formal potential",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "形式合成",
+   "en": "formal synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正式订单",
+   "en": "formal order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式收据",
+   "en": "formal receipt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式通知",
+   "en": "formal notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "形式演算",
+   "en": "formal calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形参",
+   "en": "formal parameter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式方法",
+   "en": "formal method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式规约",
+   "en": "formal specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式描述",
+   "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式推理",
+   "en": "formal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式系统",
+   "en": "formal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语言",
+   "en": "formal language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语义学",
+   "en": "formal semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正式测试",
+   "en": "formal testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法定责任",
+   "en": "legal liability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合法",
+   "en": "legal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律风险",
+   "en": "legal risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律趋同化",
+   "en": "legal assimilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律虚拟",
+   "en": "legal virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法投球",
+   "en": "legal pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正常比赛间断",
+   "en": "legal interruption",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法替换",
+   "en": "legal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语言理论",
+   "en": "formal language theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形式论",
+   "en": "formalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0155",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "认为主流经济学中理性人假设和利益最大化原则同样适用于人类学研究的学派观点，常与本质论对应。其特点是：以研究市场经济的西方经济学理论为基础，以其方法论作为方法论指导，有意识地将上诉理论和方法应用于非西方"
+  },
+  {
+   "cn": "合法律性",
+   "en": "legality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学",
+   "subjectName": "法律社会学",
+   "publishYear": "2025",
+   "definition": "在法律秩序下的行为或制度符合具体的法律规定的规范范畴。"
+  },
+  {
+   "cn": "反对形式主义",
+   "en": "opposing formalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0155",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年的南方谈话中，针对当时会议多、文章长、讲话长，而且内容重复等诸多形式主义现象，强调形式主义也是官僚主义。"
+  },
+  {
+   "cn": "正式群体",
+   "en": "formal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度高，有一定的目标，其成员间的互动采取制度化、规范化的方式，成员彼此间的权利、义务关系都有明确的且常常是书面形式的规定。与“非正式群体”相对。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "形式公正",
+   "en": "formal justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.029",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "手段和程序的公正。指在达成公正结果的过程中，采取的手段、程序应该是合理的。"
+  },
+  {
+   "cn": "正式语体",
+   "en": "formal style",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0095",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“非正式语体”相对。在正式场合使用的语体。通常更加书面语化，语音、词汇和语法较合乎规范。"
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal liability",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行为人由于违反法律义务而产生的某种不利的法律后果。"
+  },
+  {
+   "cn": "法制",
+   "en": "legal system",
+   "source": "社会学名词",
+   "wordNumber": "2.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "由统治阶级制定或者认可的法律和制度的总和。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "法律家长主义",
+   "en": "legal paternalism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.11",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "法律像父亲那样对待公民，为了阻止自我伤害或增进其利益，采取限制公民自由或权利的措施。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "某种设立特定行为方式的法律规制的正式文字表述。"
+  },
+  {
+   "cn": "法律文化",
+   "en": "legal culture",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "一个民族在长期的共同生活过程中形成的、具有相对稳定性且与法和法律现象有关的制度、意识和传统学说的总称。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  },
+  {
+   "cn": "法律行为",
+   "en": "legal behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "能够产生法律效力的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

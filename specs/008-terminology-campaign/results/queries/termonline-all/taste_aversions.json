@@ -1,0 +1,782 @@
+{
+ "key": "taste aversions",
+ "term": "taste aversions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:34:30+00:00",
+ "status": "ok",
+ "note": "variant=taste aversions; 审定公布名词库=598; 海峡两岸名词对照库=131; 其他来源数据库=23; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "味觉厌恶学习",
+   "en": "taste-aversion learning,learned taste aversion,conditioned taste aversion",
+   "source": "心理学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "动物摄取新异味觉食物后，若出现恶心、腹泻等不适症状，则对具有此味道食物产生拒绝或回避行为的现象。由加西亚(J. Garcia)首先研究发现。"
+  },
+  {
+   "cn": "滋味",
+   "en": "taste",
+   "source": "农学名词",
+   "wordNumber": "18.057",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "口腔对所尝到食物的整体感受，即食物对舌及咽部味蕾产生的刺激。包括甜、咸、酸、辣和苦等。"
+  },
+  {
+   "cn": "滋味",
+   "en": "taste",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0125",
+   "subjectFullName": "食品科学技术_食品科学_食品化学_食品风味化学",
+   "subjectName": "食品风味化学",
+   "publishYear": "2020",
+   "definition": "口腔对所尝到食物的整体感受，即食物对舌及咽部的味蕾产生的刺激。包括甜、咸、酸、辣和苦。"
+  },
+  {
+   "cn": "口味",
+   "en": "taste",
+   "source": "中医药学名词",
+   "wordNumber": "04.414",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "人的味觉对食品滋味的感受。"
+  },
+  {
+   "cn": "味",
+   "en": "taste",
+   "source": "中医药学名词",
+   "wordNumber": "06.043",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "味觉能感受出来的药物的真实味道。"
+  },
+  {
+   "cn": "性厌恶",
+   "en": "sexual aversion",
+   "source": "精神医学名词",
+   "wordNumber": "03.285",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "(1)预想到性交场景便产生极度的恐惧或焦虑，以致回避性活动的一种性功能障碍。(2) 性反应正常，并能体验到性高潮，但却缺少适当的快感(如缺少性享受、性乐缺失)的一种性功能障碍。引起当事人明显的苦恼或人"
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversion therapy",
+   "source": "精神医学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "通过轻微的惩罚来消除适应不良行为的一种治疗方法。当某种适应不良行为即将出现或正在出现时，当即给予一定的痛苦刺激，如轻微的电击、针刺或催吐剂，使其产生厌恶的主观体验。"
+  },
+  {
+   "cn": "性厌恶",
+   "en": "sexual aversion",
+   "source": "计划生育名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "对性伴侣几乎所有的生殖器官接触具有持续的或反复的极度不适或回避。"
+  },
+  {
+   "cn": "损失厌恶",
+   "en": "loss aversion",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0275",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "人们面对同样数量的收益和损失时，认为损失更加令他们难以忍受，反映了人们的风险态度并不是一致的，当涉及的是收益时，人们表现为风险厌恶；当涉及的是损失时，人们则表现为风险偏好。"
+  },
+  {
+   "cn": "金融风险厌恶",
+   "en": "risk aversion",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0066",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "参与者在确定损益和预期值相同的不确定损益间总是选择前者的行为。"
+  },
+  {
+   "cn": "厌恶学习",
+   "en": "aversion learning",
+   "source": "昆虫学名词",
+   "wordNumber": "07.075",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "昆虫对某物(或某处)的喜好因后者与有害刺激多次联系而对其产生厌恶或回避的现象。"
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy",
+   "source": "行为医学名词",
+   "wordNumber": "20.023",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "将个体的不良行为或症状与不愉快或者惩罚性的刺激结合起来，使不良行为或症状得以减少或消除的治疗方法。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk averse",
+   "source": "经济学名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，风险规避的消费者更愿意选择一个同样数额的确定性收益。"
+  },
+  {
+   "cn": "逆境训练",
+   "en": "aversive conditioning",
+   "source": "生物物理学名词",
+   "wordNumber": "04.246",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "利用回避学习和厌恶条件反射的原理，把令人厌恶的刺激，如电击、催吐、语言责备、想象等，与求治者的不良行为相结合，形成一种新的条件反射，以对抗原有的不良行为，进而消除这种不良行为的过程。"
+  },
+  {
+   "cn": "厌恶行为",
+   "en": "aversive behavior",
+   "source": "生物物理学名词",
+   "wordNumber": "04.236",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "生物体产生反感的情绪而远离某种类型刺激的行为反应。"
+  },
+  {
+   "cn": "风险厌恶",
+   "en": "risk averse",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "通过变更风险条件来保护目标免受风险影响的应对策略。对于确定收入和具有同一期望值的风险收入而言，更偏好确定收入。"
+  },
+  {
+   "cn": "厌恶条件反射",
+   "en": "aversive conditioning",
+   "source": "心理学名词",
+   "wordNumber": "02.133",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "建立厌恶刺激与其诱发的不适反应之间的联系，做出避免或摆脱厌恶刺激的反应。"
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy",
+   "source": "心理学名词",
+   "wordNumber": "15.032",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "在问题行为与不愉快的反应间建立经典条件作用，以抑制或消除问题行为的一种治疗技术。"
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.054",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "每当矫正对象出现某种不利于矫正行为的欲望冲动时，就给予一个能引起负性心理效应的恶性刺激，以促使其建立起该行为与恶性刺激间的条件反射，引起内心厌恶，直至消除该行为的方法。"
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "物理医学与康复_康复治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2014",
+   "definition": "通过惩罚手段抑制或消除患者不良行为的治疗方法。将厌恶刺激(负强化的刺激物作为惩罚性的无条件刺激，使之与引起不良行为的条件刺激相结合，如让电击与饮酒行为同时出现，从而引起患者对原有条件反应(饮酒的厌恶、"
+  },
+  {
+   "cn": "味觉厌恶",
+   "en": "taste aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉厌恶学习",
+   "en": "taste aversion learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶",
+   "en": "aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味",
+   "en": "taste",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy\",\"aversion therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性厌恶",
+   "en": "conditioned aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "风险厌恶",
+   "en": "risk aversion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶学习",
+   "en": "aversion learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶学习",
+   "en": "aversive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶条件反射, 厌恶条 件作用",
+   "en": "aversive conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉",
+   "en": "taste sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味觉球",
+   "en": "taste bulb",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味腺",
+   "en": "taste gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味蕾",
+   "en": "taste bud",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉适应",
+   "en": "taste adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉四面体",
+   "en": "taste tetrahedron",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉区",
+   "en": "taste area",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉敏度",
+   "en": "taste acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味蕾",
+   "en": "taste bud",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "条件性味觉厌恶反应",
+   "en": "conditioned flavor aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机器味觉",
+   "en": "machine taste",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食必常饱，然后求美",
+   "en": "Attention to Refined Taste Comes Only After the Stomach Is Sated.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有害垃圾",
+   "en": "hazardous waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗垃圾处理",
+   "en": "medical waste disposal ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拖延时间",
+   "en": "kill time\",\"waste time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互联网协议第六版（IPv6）",
+   "en": "Internet Protocol version 6 (IPv6)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗废物处置能力",
+   "en": "medical waste disposal capacity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“无废城市”建设",
+   "en": "building a zero-waste city",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污染集中处理",
+   "en": "centralized treatment of medical waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "固体废物资源化无害化",
+   "en": "recycling and hazard-free treatment of solid waste",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗废物日产日清",
+   "en": "to ensure that medical waste is treated within 24 hours ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纵四方固",
+   "en": "lengthwise four quarters\",\"longitudinal four-quarter hold-down\",\"tate-shiho-gatame\",\"trunk hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "品味",
+   "en": "taste",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "人们选择或评价消费物品的偏好。由布迪厄(Pierre Bourdieu）提出，他认为由此可区分不同的阶级。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "品味文化",
+   "en": "taste culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.2",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "甘斯(Herbert J.Gans）提出的概念。这种文化的功能在于为生活提供娱乐、信息并美化生活，表达了趣味和审美的价值和标准。"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "甘斯提出的概念，指参与到特定趣味文化中的社会群体。这些群体通常是自发聚集起来的，并不属于特定阶层，是一个分散性的社会阶层。"
+  },
+  {
+   "cn": "味觉发育",
+   "en": "taste development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉随年龄增长的发展变化过程。6个月至1岁是味觉发展最敏感阶段。"
+  },
+  {
+   "cn": "废弃物",
+   "en": "waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "在一定时间和空间范围内失去使用价值，无法回收和利用的废物。"
+  },
+  {
+   "cn": "酱",
+   "en": "paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.35",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以豆类、小麦粉、水果、肉类或鱼虾等为主要原料，经微生物发酵酿制而成的具酱香、澄黄至红褐色泽、糊状至黏稠状半固态调味品。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2",
+   "subjectFullName": "消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "医疗卫生机构在医疗、预防、保健以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+  },
+  {
+   "cn": "感染性废物",
+   "en": "infectious waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "携带病原微生物，具有引发感染性疾病传播危险的医疗废物。"
+  },
+  {
+   "cn": "病理性废物",
+   "en": "pathological waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "诊疗过程中产生的废弃的人体组织器官和医学实验动物尸体等。"
+  },
+  {
+   "cn": "损伤性废物",
+   "en": "destructive waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "能够刺伤或者割破人体皮肤的废弃医用锐器。"
+  },
+  {
+   "cn": "药物性废物",
+   "en": "pharmaceutical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "过期、淘汰、变质或者被污染的废弃药物。"
+  },
+  {
+   "cn": "化学性废物",
+   "en": "chemical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.6",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "具有毒性、腐蚀性、易燃性、反应性的废弃化学物品。"
+  },
+  {
+   "cn": "废气",
+   "en": "waste gas",
+   "source": "消毒学",
+   "wordNumber": "7.2.9",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "生产生活中排出的无用的有毒有害气体。医疗机构污水处理过程中也会产生有害气体。"
+  },
+  {
+   "cn": "放射性废物",
+   "en": "radioactive waste",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "含有放射性的物质或被放射性污染的物质（不管其物理形态如何），并且其活度浓度或活度大于审管机构规定的清洁解控水平而预计不再利用的物质。"
+  },
+  {
+   "cn": "种姓制度",
+   "en": "caste system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "一种严格刚性的社会等级制度，依据严格的标准把社会成员划分为高低等级不同、界线分明的社会群体，其身份地位可以代际传递。高等级地位的群体享有多种特权，低等级地位的群体几乎没有机会流入高等级地位的群体。主要"
+  },
+  {
+   "cn": "西红柿酱",
+   "en": "tomato paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.38",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以西红柿为原料，添加或不添加食盐、糖、食品添加剂等制成的酱类调味品。"
+  },
+  {
+   "cn": "芥末酱",
+   "en": "mustard paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.42",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以芥菜籽粒或芥菜类植物块茎为原料制成的酱类调味品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

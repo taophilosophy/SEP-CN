@@ -1,0 +1,72 @@
+{
+ "key": "absenteeism",
+ "term": "absenteeism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:30:50+00:00",
+ "status": "ok",
+ "note": "variant=absenteeism; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "缺勤",
+   "en": "absenteeism",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0628",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_绩效管理",
+   "subjectName": "绩效管理",
+   "publishYear": "2016",
+   "definition": "员工无故缺席的行为。"
+  },
+  {
+   "cn": "虚设层",
+   "en": "absentee layer",
+   "source": "光学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "光学_光学薄膜",
+   "subjectName": "光学薄膜",
+   "publishYear": "2021",
+   "definition": "特指在光学薄膜中光学厚度为二分之一中心波长的介质膜层。由于该膜层不改变中心波长处的透过率和反射率值，就像不存在一样，因而被称为虚设层，常用来平滑膜系的光谱特性。"
+  },
+  {
+   "cn": "寄庄",
+   "en": "ji zhuang;absentee landlord estate",
+   "source": "中国古代史名词",
+   "wordNumber": "1.318",
+   "subjectFullName": "中国古代史_通论_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "在外地或借外地人名义在本籍置办的田庄。始于唐，宋以来渐多，明清尤为普遍，田庄主以此规避本籍的财产统计和赋役征收，另有把田地伪报在他人名下的“诡寄”、分摊到各户名下的“飞洒”等规避手段。"
+  },
+  {
+   "cn": "缺勤",
+   "en": "absenteeism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "缺勤率",
+   "en": "absenteeism rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某部队因伤病缺勤总天数与(同期部队平均人数x 同期天数)之比。通常采用千分率，反映部队人员因伤病而未能出勤的情况。"
+  },
+  {
+   "cn": "因病缺课缺勤追踪",
+   "en": "tracing of absenteeism due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员每日对因病缺课/缺勤的师生员工进行登记，追查其主要症状、发病时间、就诊信息、诊断结果、家庭共同生活人员相似症状等，对其病情和转归进行追踪并记录的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

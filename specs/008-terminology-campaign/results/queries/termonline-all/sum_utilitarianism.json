@@ -1,0 +1,692 @@
+{
+ "key": "sum-utilitarianism",
+ "term": "sum-utilitarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:49:20+00:00",
+ "status": "ok",
+ "note": "variant=sum-utilitarianism; 审定公布名词库=663; 海峡两岸名词对照库=170; 其他来源数据库=15; 预公布名词数据库=40; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.089",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "认为道德行为的唯一标准是行为所带来的结果或效用的大小的伦理理论。18世纪和19世纪后期由英国哲学家、经济学家杰里米·边沁和约翰·斯图尔特·穆勒提出。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "经济学名词",
+   "wordNumber": "14.003",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种把追求快乐、效用、利益作为道德标准和行为规范的伦理哲学和经济理论。哲学上的功利主义包括3个主要命题：①个人福利是道德行为的目的；②人应该根据其本性判断幸福与否；③社会行为的目的是增进最大多数人的最"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "一个西方伦理学分支。在技术伦理方面主要体现为强调技术应用要以对绝大多数人有益的最大的善为目的，注重对技术应用的功利效果进行伦理评价，注重技术应用的后果而不是技术人员最初的意向和应承担的义务或责任。"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当与任何其他的选择相比，所导致的结果至少与其他的选择所导致的结果一样好。"
+  },
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.091",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当该行为是某个规则要求我们去做的事情，而对此规则的遵守将会比其他的规则带来更大的社会效用。"
+  },
+  {
+   "cn": "和",
+   "en": "sum",
+   "source": "数学名词",
+   "wordNumber": "04.0010",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "梯图求和",
+   "en": "ladder sum",
+   "source": "物理学名词",
+   "wordNumber": "05.0971",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "求和定则",
+   "en": "sum rule",
+   "source": "物理学名词",
+   "wordNumber": "04.1741",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "矢量[求]和",
+   "en": "vector sum",
+   "source": "物理学名词",
+   "wordNumber": "01.0369",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平方和",
+   "en": "quadratic sum",
+   "source": "物理学名词",
+   "wordNumber": "01.0321",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "格点和",
+   "en": "lattice sum",
+   "source": "物理学名词",
+   "wordNumber": "08.0411",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "和频",
+   "en": "sum frequency",
+   "source": "物理学名词",
+   "wordNumber": "04.2374",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "检验和",
+   "en": "check sum",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0259",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "一个程序段或一个数据块中所有字节的算术和。在数据存储或传输之前，计算其检验和；在数据取出或到达目的地之后，通过再次计算检验和以检测是否正确。"
+  },
+  {
+   "cn": "和检测",
+   "en": "sum check",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0371",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对于给定一个 d 次多项式 g(<img src='/root/syzx/static/spz/jsjkx3.02.0371.001.png'/>)，整数 K 和素数 p ，存在一个交互式证明系统来检"
+  },
+  {
+   "cn": "暂列金额",
+   "en": "provisional sum",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0328",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_费用管理",
+   "subjectName": "费用管理",
+   "publishYear": "2016",
+   "definition": "包括在合同中，供工程任何部分的施工，或提供货物、材料、设备或服务，或提供不可预料事件对应费用的一项金额。"
+  },
+  {
+   "cn": "暂估价",
+   "en": "provisional sum",
+   "source": "建筑学名词",
+   "wordNumber": "05.0033",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "招标人在招标文件的工程量清单中给出的材料、设备单价以及专业工程费用，结算时按合同规定可调整。"
+  },
+  {
+   "cn": "距离和",
+   "en": "range sum",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.398",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "总和校验",
+   "en": "check sum",
+   "source": "石油名词",
+   "wordNumber": "08.0182",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "序数和",
+   "en": "ordinal sum",
+   "source": "数学名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正交和",
+   "en": "orthogonal sum",
+   "source": "数学名词",
+   "wordNumber": "04.0801",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保证金额",
+   "en": "guarantee sum",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "和波束",
+   "en": "sum beam",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平方和",
+   "en": "sum of squares",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "零和博弈,零和对策",
+   "en": "zero sum game",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "秩和检验",
+   "en": "rank-sum test",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一次总付补助金",
+   "en": "lump-sum subsidy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一次总付税",
+   "en": "lump-sum tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一次总付制度",
+   "en": "lump-sum system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一揽子投资",
+   "en": "lump-sum interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "整笔付清费用",
+   "en": "lump-sum fee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总额清算",
+   "en": "lump-sum settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伪多色射线和",
+   "en": "pseudopolychromatic ray sum",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直和码",
+   "en": "direct sum code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离差平方和",
+   "en": "sum of squared deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回归平方和",
+   "en": "regression sum of square",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "应一次总付",
+   "en": "payable in lump sum",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "累积和图",
+   "en": "cumulative sum chart\",\"cusum chart",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相扑",
+   "en": "sumo",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隅返",
+   "en": "corner throw\",\"sumi-gaeshi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隅落",
+   "en": "corner drop\",\"sumi-otoshi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟子账户管理体系",
+   "en": "virtual sub-account management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "供应链管理系统",
+   "en": "supply chain management (SCM) system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分技术委员会国内归口",
+   "en": "coordinated and unified management of sub-committees",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能建筑管理系统",
+   "en": "system integration of sub-systems in an intelligent building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以行动者的行为所产生的可能或实际效果作为道德价值判断的基础或道德评价依据的伦理学理论。认为道德规范的确立和完善以及伦理行为的决策、评价和辩护等应当强调后果、效用。“最大多数人的最大幸福”是其核心原则。"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.126",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "物质或精神上的功效和利益。与“道义”相对。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "零和权力",
+   "en": "zero-sum power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "非合作性的权力及其行使。在严格竞争的条件下，这种权力关系的双方中的一方的收益必然意味着另一方的损失，双方的收益和损失相加总和永远为“零”，即不存在合作的可能。"
+  },
+  {
+   "cn": "“一笔过”拨款",
+   "en": "lump sum grant",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.28",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "香港地区政府在二十世纪末所采取的对社会服务机构的一种资助做法，即根据服务机构的服务预算，按一定标准将所需经费一次性拨付给服务机构的资助方式。它不同于此前按照服务机构人员等级标准分别核算经费或实报实销的"
+  },
+  {
+   "cn": "松巴堪布益喜班觉",
+   "en": "Sum pa ye shes dpal vbyor",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0412",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1704 年—1788 年）藏传佛教格鲁派学者。青海互助人，1726 年由五世班禅罗桑益喜为其授比丘戒，1737 年奉清廷之命，随三世章嘉若必多吉一同前往北京，受到乾隆皇帝的盛情接待。在京期间荣获“"
+  },
+  {
+   "cn": "酸酯总量",
+   "en": "sum of total acid and total ester",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.7",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "单位体积白酒中总酸和总酯的总含量。"
+  },
+  {
+   "cn": "贫民窟",
+   "en": "slum",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "西方工业化初期，在工业城市中出现的较破败的住宅区。往往缺乏符合标准的水源、电力及卫生设施等。早期的学者和社会改良者将其看作一切社会罪恶如疾病、犯罪等之渊薮，但逐渐地认识到其存在的价值——貌似无序中的有"
+  },
+  {
+   "cn": "苏穆人",
+   "en": "Sumu",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0398",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲尼加拉瓜土著人民之一，主要生活在该国河谷地区，人口不足1 万。历史上，苏穆人因为欧洲人带来的疾病人口锐减。在英国人统治时期，英国人利用米斯基托人征服苏穆人，大批苏穆人死亡、成为奴隶或被驱逐进内地"
+  },
+  {
+   "cn": "朗姆酒",
+   "en": "rum",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.5",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以甘蔗汁、甘蔗糖蜜、甘蔗糖浆或其他甘蔗加工产物为原料，经发酵、蒸馏、陈酿、调配而成的蒸馏酒。"
+  },
+  {
+   "cn": "亚文化",
+   "en": "sub-culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个社会中与主流文化相对的、非主导性的局部文化现象，反映某个地域或群体所特有的价值观念、思维模式和生活方式等。可分为地方性亚文化、年龄性亚文化、职业性亚文化等。"
+  },
+  {
+   "cn": "贫民窟清除",
+   "en": "slum clearance",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "政府主导拆除了大量的破旧住宅区，代之以政府投资兴建的廉租房的现象。出现于20世纪30至50、60年代，由此也引发了有关社会公正问题的激烈争论。"
+  },
+  {
+   "cn": "三根本",
+   "en": "rtsa gsum",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0482",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。三根本的实质即佛法僧三宝，也指佛的三身。宁玛派等修行密法所依靠的三根本：加持根本依上师、成就根本依本尊、除障根本依空行护法。"
+  },
+  {
+   "cn": "三要",
+   "en": "Gnad gsum",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0484",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。宁玛派大圆满“超越”修行之三要：整饬身体要点，不超离三身之三种坐姿；引导法界要点，不动摇三身之看法，现象外境要点，法界本智不分不高，缓息安住。"
+  },
+  {
+   "cn": "粟末靺鞨",
+   "en": "Sumo Mohe",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.002",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。隋唐时靺鞨七部之一，位居最南，大体分布于以今吉林市为中心的松花江中游地区。七世纪末，粟末靺鞨首领大祚荣统一各部落，建立政权，称“震（一作振）国王”。后称渤海国。"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan gum",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.14.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "主链骨架为1,4-β-D-葡萄苷重复单元、侧链为1 个葡萄醛酸和两个甘露糖所组成的高分子多糖，由野油菜黄单胞菌以淀粉质为主要原料发酵产生。其水溶液具有良好的增稠性能，在食品加工中可用作增稠剂和稳定剂。"
+  },
+  {
+   "cn": "亚健康",
+   "en": "sub-health",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.054",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体在身体、心理和社会环境等方面的不适表现介于健康与疾病之间的临界状态。"
+  },
+  {
+   "cn": "阿拉伯胶",
+   "en": "gum arabic",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "金合欢树或阿拉伯胶树的枝干分泌出来的天然树胶，主要成分为高分子多糖及其钙盐、镁盐和钾盐。在食品加工中广泛用作增稠剂。"
+  },
+  {
+   "cn": "三士道",
+   "en": "Lam gsum",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0483",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。以《菩提道灯论》为基础，把学佛的次第分为下、中、上士道。认为“下士道”以追求解脱个人今生今世的苦难，追求利与乐为目的，谓之“人天乘”；“中士道”以追求解脱个人世间流转的苦难，无意于普渡他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

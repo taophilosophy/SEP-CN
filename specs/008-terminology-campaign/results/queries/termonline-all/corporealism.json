@@ -1,0 +1,662 @@
+{
+ "key": "corporealism",
+ "term": "corporealism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:58:24+00:00",
+ "status": "ok",
+ "note": "variant=corporealism; 审定公布名词库=74; 海峡两岸名词对照库=34; 其他来源数据库=17; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.206",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "依法设立，以营利为目的，独立承担民事责任的从事生产或服务性业务的社会组织。是现代企业制度发展的结果，因此，与企业是种属关系。"
+  },
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0861",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "全部资本由股东出资构成，以营利为目的而依法设立的一种企业组织形式。"
+  },
+  {
+   "cn": "公司形象",
+   "en": "corporate images",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.098",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "通过产品特点、行销策略、人员风格等各种标志，建立起来的企业在社会上的总体印象。也特指消费者在记忆中通过联想反映出对某公司的总体感知。"
+  },
+  {
+   "cn": "发行企业",
+   "en": "distribution corporation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.02.004",
+   "subjectFullName": "编辑与出版学_发行与经营_发行者",
+   "subjectName": "发行者",
+   "publishYear": "2022",
+   "definition": "具有独立法人资格，经行政许可从事出版物发行业务的经济实体。"
+  },
+  {
+   "cn": "企业重组",
+   "en": "corporate reconstruction",
+   "source": "经济学名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "企业以资本保值增值为目标，运用资产重组、债务重组和产权重组方式，优化企业资产结构、负债结构和产权结构，以充分利用现有资源，实现资源优化配置。"
+  },
+  {
+   "cn": "公司债券",
+   "en": "corporate bond",
+   "source": "经济学名词",
+   "wordNumber": "12.108",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "股份制公司发行的一种债务契约。公司承诺在未来的特定日期，偿还本金并按事先规定的利率支付利息。"
+  },
+  {
+   "cn": "公司",
+   "en": "corporation company",
+   "source": "经济学名词",
+   "wordNumber": "12.125",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "全部资本由股东出资构成，以营利为目的而依法设立的一种企业组织形式。"
+  },
+  {
+   "cn": "跨国公司",
+   "en": "transnational corporation",
+   "source": "经济学名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "通过对外直接投资，在两个或更多国家建立子公司或分公司，在母公司的有效控制和统筹决策下，从事跨越国界生产经营活动的经济实体。"
+  },
+  {
+   "cn": "企业行为",
+   "en": "corporate behavior",
+   "source": "经济学名词",
+   "wordNumber": "15.090",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "主要由特定的产权制度所决定，在给定的目标函数和激励、约束机制下，企业对于内、外环境及其变动做出的各种有规则的行动和反应。"
+  },
+  {
+   "cn": "企业活力",
+   "en": "corporate vitality",
+   "source": "经济学名词",
+   "wordNumber": "15.091",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "在各种环境下，企业对于自身生存及发展所拥有、并可激发的动力和能力。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "corporate culture",
+   "source": "经济学名词",
+   "wordNumber": "15.092",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "由企业所有员工长期互动，在企业的生存和发展过程中逐渐形成的一种企业内部共同的精神特质。企业文化通常具有稳定性和继承性，它可对企业行为和效益产生一定的影响。"
+  },
+  {
+   "cn": "公司情报",
+   "en": "corporate intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "企业竞争情报的一个广义术语。包括商业情报、竞争情报和企业运营本身所包含的公司安全保护和反竞争情报等。"
+  },
+  {
+   "cn": "团体著者",
+   "en": "corporate author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.533",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对一部文献的知识内容或艺术内容负有责任的团体。"
+  },
+  {
+   "cn": "机构索引",
+   "en": "corporate index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.805",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "以文献中涉及的机构名称为索引款目标目，并按机构名称字顺排列的索引。"
+  },
+  {
+   "cn": "私营公司",
+   "en": "private corporation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0862",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "由自然人投资设立或由自然人控股，以雇佣劳动为基础的营利性经济组织。"
+  },
+  {
+   "cn": "公营公司",
+   "en": "public corporation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0863",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "由各国政府投资成立，直接或间接参与控制，以达到行政或管辖目的的营利性经济组织。"
+  },
+  {
+   "cn": "企业文化",
+   "en": "corporate culture",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0564",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "企业的价值取向与行为规则系统。包括企业的价值观、信念、仪式、符号、处事方式等组成的特有文化形象和行为模式。"
+  },
+  {
+   "cn": "企业公民",
+   "en": "corporate citizen",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0530",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "表达企业社会责任和道德责任的术语，始于20世纪80年代。其核心观点是，企业的成功与社会的健康发展密切相关。企业在获取经济利益的时候，要通过各种方式来回报社会。"
+  },
+  {
+   "cn": "公司财务",
+   "en": "corporate finance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0436",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "通过对企业资金的管理来达到企业财务目标的活动。通常包括负债决策、股利分配决策、投资决策和营运资本管理决策等。"
+  },
+  {
+   "cn": "企业融资",
+   "en": "corporate financing",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0438",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "企业通过各种途径和方式筹措企业经营和发展所需要的资金的活动。"
+  },
+  {
+   "cn": "公司合并",
+   "en": "corporate merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公司债券",
+   "en": "bond corporate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公司重组",
+   "en": "corporate restructuring",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际公司",
+   "en": "international corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "会员公司",
+   "en": "member corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融公司",
+   "en": "finance corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开发公司",
+   "en": "development corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跨国公司",
+   "en": "supernational corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跨国公司",
+   "en": "transnational corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易公司",
+   "en": "trading corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "协议公司",
+   "en": "agreement corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷公司",
+   "en": "financing corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垂直企业",
+   "en": "vertical corporation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "企业资本主义",
+   "en": "corporate capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水平企业",
+   "en": "horizontal corporation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "corporate juridical person",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际公司法",
+   "en": "international corporation law",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "家庭金融公司",
+   "en": "household finance corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外国子公司",
+   "en": "foreign subsidiary corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有形",
+   "en": "Corporeal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业数据",
+   "en": "corporate data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铁人三项奥运距离团体赛",
+   "en": "Corporate Team Olympic Triathlon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创新创业债",
+   "en": "innovation and entrepreneurship corporate bond",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业平均数据中心效率",
+   "en": "corporate average data center efficiency (CADE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链自洽公司",
+   "en": "decentralized autonomous corporation (DAC) on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国际数据公司“信息社会指数”",
+   "en": "International Data Corporation’s Information Society Index (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网名称与数字地址分配机构",
+   "en": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减免企业社会保险费",
+   "en": "to reduce or remit corporate social insurance premiums",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "企业客户信贷风险防控",
+   "en": "prevention and control of credit risk for corporate clients",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家电网公司非结构化大数据管理平台",
+   "en": "unstructured big data management platform of State Grid Corporation of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国网电力大数据应用案例",
+   "en": "application cases of electricity big data of State Grid Corporation of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法人行动者",
+   "en": "corporate actors",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.11",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会中人们出于各种目的有意建立起来的、微观结构以职位关系为基础的社会组织。"
+  },
+  {
+   "cn": "公司法人治理结构",
+   "en": "corporate governance structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0414",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种由公司的股东会（或股东大会）、董事会、经理层和监事会所构成的，各负其责、协调运转、有效制衡的现代企业内部组织管理制度。"
+  },
+  {
+   "cn": "法人治理结构",
+   "en": "corporate governance structure ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医疗机构领导层的组织架构，主要描述组织的所有者、决策者、监管者和执行者之间的关系。"
+  },
+  {
+   "cn": "企业社会责任",
+   "en": "corporate social responsibility",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.019",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业在追求经济效益、实现自身利润目标之外担负起对社会利益的普遍维护与增进的责任。"
+  },
+  {
+   "cn": "医院管理局法人治理模式",
+   "en": "corporate governance model of hospital administration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.2.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "通过设立专门的政府行政部门来履行政府的办医职能，而其它涉及公立医院的政府机构则主要负责制定和改进相关制度以监管医疗机构，从而实现医院法人治理的一种模式。"
+  },
+  {
+   "cn": "医院联合体法人治理模式",
+   "en": "corporate governance model of hospital consortium ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.2.3",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "通过确立医院联合体的独立法人地位，建立协调一致的内部运行机制，完成联合体内部的医疗机构再布局，从而明确界定政府、社会、公立医院及联合体各自的职责、权利和义务，保证管办分开的一种医院法人治理模式。"
+  },
+  {
+   "cn": "国际公立医院法人治理改革模式",
+   "en": "international public hospitals reform model of corporate governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "国际上通过各种途径实现公立医院法人化治理改革的模式总和。"
+  },
+  {
+   "cn": "中国公立医院法人治理改革模式",
+   "en": "Chinese public hospitals reform model of corporate governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.3",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "国内公立医院与其行政部门脱离上下级行政隶属关系,转型为独立法人治理结构改革中形成的改革范式。"
+  },
+  {
+   "cn": "法团主义",
+   "en": "corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "利益集团政治的一种模式，强调政治行动是一个特殊的社会-政治过程，在此过程中，数量有限且代表种种职能利益的垄断组织与国家机构就公共政策的产出进行讨价还价。"
+  },
+  {
+   "cn": "国家法团主义",
+   "en": "state corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "由国家强加的一种法团主义架构，即以国家为主导形成的一种法团主义，往往同外围的或附属的资本主义政权联系在一起。主要用来解释强权政府与大的社会利益集团（如工会）之间的相互依赖关系。"
+  },
+  {
+   "cn": "地方法团主义",
+   "en": "local corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "一些社会学家在研究中国改革的过程中提出的一种理论模式，认为地方权力与稳定的利益集团的结合产生了一种新的制度形式，这种形式既非市场形式，又非正式组织形式，反映了现有政体、社会关系和文化背景之间的相互渗透"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

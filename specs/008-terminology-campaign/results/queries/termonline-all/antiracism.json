@@ -1,0 +1,62 @@
+{
+ "key": "antiracism",
+ "term": "antiracism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:41:04+00:00",
+ "status": "ok",
+ "note": "variant=antiracism; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "炭疽杆菌",
+   "en": "Bacillus anthracis",
+   "source": "普通外科学名词",
+   "wordNumber": "11.115",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "引起动物和人类炭疽病的病原菌。菌体粗大，两端平截或凹陷，排列似竹节状，革兰氏染色阳性，需氧或兼性厌氧，无鞭毛，无动力。"
+  },
+  {
+   "cn": "炭疽杆菌",
+   "en": "Bacillus anthracis",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0026",
+   "subjectFullName": "食品科学技术_食品安全_食品安全危害因素_生物性危害",
+   "subjectName": "生物性危害",
+   "publishYear": "2020",
+   "definition": "隶属于需氧芽孢杆菌属，菌体粗大，两端平截或凹陷，排列似竹节状，无鞭毛，无动力，革兰氏染色阳性。芽孢呈椭圆形，位于菌体中央，其宽度小于菌体的宽度。在人和动物体内能形成荚膜，在含血清和碳酸氢钠的培养基中，"
+  },
+  {
+   "cn": "炭疽杆菌疫苗",
+   "en": "bacillus anthracis vaccine",
+   "source": "免疫学名词",
+   "wordNumber": "5.244",
+   "subjectFullName": "免疫学_5应用免疫_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2007",
+   "definition": "一种用减毒炭疽杆菌活菌制成的预防炭疽的活疫苗。"
+  },
+  {
+   "cn": "炭疽杆菌疫苗",
+   "en": "Bacillus anthracis vaccine",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "炭疽芽孢杆菌",
+   "en": "Bacillus anthracis",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "属于需氧芽孢杆菌属，革兰氏阳性菌，感染能引起羊、牛、马等动物及人类的炭疽病，可作为细菌类生物战剂的一种病原菌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

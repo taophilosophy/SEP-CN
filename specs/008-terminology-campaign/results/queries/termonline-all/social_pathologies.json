@@ -1,0 +1,722 @@
+{
+ "key": "social pathologies",
+ "term": "social pathologies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:45:36+00:00",
+ "status": "ok",
+ "note": "variant=social pathologies; 审定公布名词库=4001; 海峡两岸名词对照库=880; 其他来源数据库=160; 预公布名词数据库=689; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "source": "兽医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "研究疾病的原因、发生发展与转归规律及其发展过程中形态结构、代谢和功能变化的一门学科。其根本任务是探讨疾病的发病机制和本质，为疾病防控提供理论根据。"
+  },
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "source": "病理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "用自然科学的方法研究疾病的形态结构、代谢和功能等方面的改变，从而揭示疾病的病因、发病机制、病变性质和转归的学科。是介于基础医学与临床医学之间的桥梁学科。"
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology,systematic pathology",
+   "source": "病理学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "分别阐述各个系统疾病的病理改变。是在病理学总论的基础上分系统阐述各种特定疾病的病理特点和特殊规律。"
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology,systematic  pathology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.007",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "病理性高催乳素血症",
+   "en": "pathologic hyperprolactinemia",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.151",
+   "subjectFullName": "下丘脑与垂体疾病_垂体疾病",
+   "subjectName": "垂体疾病",
+   "publishYear": "2025",
+   "definition": "分泌催乳素的肿瘤导致的高催乳素血症，或占位性病变、浸润性疾病特别是炎症性肉芽肿、放射线等因素，使催乳素抑制因子多巴胺减少而导致的高催乳素血症。"
+  },
+  {
+   "cn": "病理诊断",
+   "en": "pathologic diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "通过病理形态学检查对病变组织或器官的病变性质做出的判断。"
+  },
+  {
+   "cn": "病理性细胞",
+   "en": "pathologic cell",
+   "source": "兽医学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "具有病理性变化的细胞及主要在病理过程中才出现的细胞。"
+  },
+  {
+   "cn": "病理性钙化",
+   "en": "pathologic calcification",
+   "source": "兽医学名词",
+   "wordNumber": "10.143",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "在病理条件下，钙盐在正常不发生钙化的组织中析出并沉着的现象。"
+  },
+  {
+   "cn": "病理性核分裂",
+   "en": "pathologic mitosis",
+   "source": "兽医学名词",
+   "wordNumber": "10.290",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "不对称性和多极性等异常的核有丝分裂。常见于恶性肿瘤细胞。"
+  },
+  {
+   "cn": "病理性色素沉着",
+   "en": "pathologic pigmentation",
+   "source": "病理学名词",
+   "wordNumber": "01.055",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "有色物质在细胞内外异常蓄积的现象。有色物质包括含铁血黄素、脂褐素、胆红素、黑色素、炭末等。"
+  },
+  {
+   "cn": "病理性钙化",
+   "en": "pathologic calcification",
+   "source": "病理学名词",
+   "wordNumber": "01.070",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在骨和牙齿外的其他组织内发生钙盐（主要是磷酸钙和碳酸钙）沉积。"
+  },
+  {
+   "cn": "病理性核分裂",
+   "en": "pathologic mitosis",
+   "source": "病理学名词",
+   "wordNumber": "01.215",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "形态异常的核分裂。如不对称核分裂、多极性核分裂等。多见于恶性肿瘤。"
+  },
+  {
+   "cn": "病理性骨折",
+   "en": "pathologic fracture",
+   "source": "手外科学名词",
+   "wordNumber": "05.0470",
+   "subjectFullName": "手外科学_手外科学分论_上肢骨关节",
+   "subjectName": "上肢骨关节",
+   "publishYear": "2020",
+   "definition": "因骨髓炎、骨结核、骨肿瘤等骨骼本身病变破坏了骨正常结构，在正常活动或轻微外力作用下即发生骨折的现象。"
+  },
+  {
+   "cn": "病理性废物",
+   "en": "pathologic waste",
+   "source": "感染病学名词",
+   "wordNumber": "04.0085",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "诊疗过程中产生的人体废弃物或医学实验动物尸体等废物。包括手术及其他诊疗过程中产生的废弃人体组织、器官等，医学实验动物的组织、尸体，病理切片后废弃的人体组织、病理蜡块等。其中常含有大量病原体，必须采用焚"
+  },
+  {
+   "cn": "病理诊断",
+   "en": "pathologic diagnosis",
+   "source": "核医学名词",
+   "wordNumber": "04.0198",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "利用显微镜或电子显微镜观察疾病标本，从组织学、细胞学、免疫组织化学和超微结构水平研究疾病发生的原因，发病机制，以及疾病过程中患病机体的形态结构、功能代谢改变与疾病的转归，从而为疾病的诊断、治疗、预防提"
+  },
+  {
+   "cn": "病理性有丝分裂",
+   "en": "pathologic mitosis",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.312",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "病理性𬌗",
+   "en": "pathologic occlusion",
+   "source": "医学名词 第二分册",
+   "wordNumber": "05.013",
+   "subjectFullName": "医学_口腔医学_口腔正畸学",
+   "subjectName": "口腔正畸学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology",
+   "source": "兽医学名词",
+   "wordNumber": "10.008",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "根据病理学总论的知识，分别阐述疾病过程中各个系统器官常见的主要病理变化的病理学。"
+  },
+  {
+   "cn": "病理性瘢痕",
+   "en": "pathological scar",
+   "source": "整形外科名词",
+   "wordNumber": "3.01",
+   "subjectFullName": "整形外科_瘢痕_瘢痕分类",
+   "subjectName": "瘢痕分类",
+   "publishYear": "2026",
+   "definition": "皮肤损伤后创面过度修复引起的瘢痕类型。是以胶原等大量细胞外基质产生及沉积为特征的皮肤纤维增生性疾病。主要包括严重增生的瘢痕和瘢痕疙瘩。瘢痕癌也可归类于此。"
+  },
+  {
+   "cn": "植物病理学",
+   "en": "plant pathology",
+   "source": "农学名词",
+   "wordNumber": "01.116",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究植物病原物的生物学特性、与植物的互作关系、致病机理、病害发生和流行规律等，进行有效防控的学科。"
+  },
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "病理性多精受精",
+   "en": "pathologic polyspermy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞病理学",
+   "en": "cellular pathology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病理生物气象学",
+   "en": "pathological biometerology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候病理学",
+   "en": "climatic pathology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病态性赌博",
+   "en": "pathological gambling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鱼类病理学",
+   "en": "fish pathology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "毒理病理学",
+   "en": "toxicological pathology",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "昆虫病理学",
+   "en": "insect pathology",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "植物病理解剖学",
+   "en": "plant pathological anatomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物病理学",
+   "en": "plant pathology\",\"phytopathology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞病理学",
+   "en": "cell pathology\",\"cytopathology",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "病理",
+   "en": "pathology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会病理学",
+   "en": "social pathology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "研究导致社会群体或个人在社会心理上和社会活动中处于不健康状态的社会因素的一种社会学理论。认为社会中某些人处于病态是社会本身处于病态——社会结构或关系等失调——所致。"
+  },
+  {
+   "cn": "科学的社会病状",
+   "en": "social pathologies of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.27",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学的机制也像政治机制和经济机制等社会机制一样出现的各种各样的问题，主要表现为规范系统与奖励系统之间的不连续性。默顿认为对此问题的研究有助于科学知识的积累。"
+  },
+  {
+   "cn": "病理性废物",
+   "en": "pathological waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "诊疗过程中产生的废弃的人体组织器官和医学实验动物尸体等。"
+  },
+  {
+   "cn": "病理性老化",
+   "en": "pathological aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "由于内在的或外在的原因使人体发生病理性变化，使老化现象提前发生。"
+  },
+  {
+   "cn": "病理性骨折",
+   "en": "pathological fracture",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "在正常活动或轻微外力作用下即发生骨折的现象，因骨髓炎、骨结核、骨肿瘤等骨骼本身病变破坏了骨正常结构所致。"
+  },
+  {
+   "cn": "病理性近视",
+   "en": "pathological myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "发育停止后近视仍在发展并伴发眼底病理性变化的近视类型，大多数的屈光度数<﹣6.00D。常见眼底改变有近视弧形斑、漆裂纹、脉络膜新生血管、黄斑脉络膜萎缩、视网膜脱离、后巩膜葡萄肿等。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "放射性骨折",
+   "en": "radiation pathological fracture",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.15.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "骨组织受到一定剂量电离辐射照射后，在骨质疏松、骨髓炎病变的基础上产生的骨的连续性破坏。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

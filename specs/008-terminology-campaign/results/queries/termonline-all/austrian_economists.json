@@ -1,0 +1,682 @@
+{
+ "key": "austrian economists",
+ "term": "Austrian economists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:49:24+00:00",
+ "status": "ok",
+ "note": "variant=Austrian economists; 审定公布名词库=138; 海峡两岸名词对照库=37; 其他来源数据库=17; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "经济学人",
+   "en": "The Economist",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.078",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "全球有影响力的时政杂志之一。由伦敦经济学人报纸有限公司出版。于1843年9月由詹姆士·威尔逊(James Wilson)创办。"
+  },
+  {
+   "cn": "奥地利学派",
+   "en": "Austrian School",
+   "source": "经济学名词",
+   "wordNumber": "14.014",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "19世纪70年代在边际革命中形成于奥地利的一个经济学派。该学派的创始人是奥地利经济学家门格尔（Karl Menger），主要代表人物是维塞尔（Friedrich Freiherr von Wieser"
+  },
+  {
+   "cn": "奥地利学派",
+   "en": "Austrian school",
+   "source": "心理学名词",
+   "wordNumber": "04.128",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "主张心理学研究对象是意动而不是内容，方法是观察而不是内省的学派。以布伦塔诺(F. Brentano)为代表。"
+  },
+  {
+   "cn": "奥地利帝国",
+   "en": "Austrian Empire",
+   "source": "世界历史名词",
+   "wordNumber": "03.0578",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1804-1867年由哈布斯堡家族统治的奥地利封建帝国。"
+  },
+  {
+   "cn": "奥土战争",
+   "en": "Austrian-Turkish War",
+   "source": "世界历史名词",
+   "wordNumber": "01.0191",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1663年和1683年，奥地利与土耳其为争夺匈牙利发生的战争。"
+  },
+  {
+   "cn": "奥地利国家条约",
+   "en": "Austrian State Treaty",
+   "source": "世界历史名词",
+   "wordNumber": "01.0452",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1955年5月，苏美英法四国与奥地利签订的和平条约。"
+  },
+  {
+   "cn": "奥地利王位继承战争",
+   "en": "War of Austrian Succession",
+   "source": "世界历史名词",
+   "wordNumber": "01.0198",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1740-1748年，欧洲国家围绕玛丽亚·特蕾西亚继承奥地利王位问题进行的战争。"
+  },
+  {
+   "cn": "新奥地利隧洞施工法",
+   "en": "new Austrian tunnelling method,NATM",
+   "source": "电力名词",
+   "wordNumber": "15.206",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "在隧洞开挖施工时,根据岩石力学理论,结合现场围岩变形资料,及时采取一定支护措施,以充分发挥围岩自身承载能力,进行隧洞开挖和支护的施工方法。"
+  },
+  {
+   "cn": "新奥法",
+   "en": "new Austrian tunneling method,NATM",
+   "source": "冶金学名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "以控制爆破或机械开挖为主要掘进手段，以锚杆、喷射混凝土为主要支护方法，理论计算、现场监测和工程经验相结合的一种施工方法。"
+  },
+  {
+   "cn": "新奥法",
+   "en": "New Austrian Tunnelling Method,NATM",
+   "source": "土木工程名词",
+   "wordNumber": "09.110",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新奥法",
+   "en": "New Austrian Tunneling Method,NATM",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.234",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "奥地利人L.v.Rabcewicz根据本国多年隧道施工经验总结出的一种施工法。特点是采用光面爆破,以锚喷作一次支护，必要时加钢拱支架,根据围岩地压及变形实测数据，再合理进行二次支护,对软岩强调封底。"
+  },
+  {
+   "cn": "新奥法",
+   "en": "New Austrian Tunneling Method,NATM",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.871",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "新奥法",
+   "en": "New Austrian Tunnelling Me- thod,NATM",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0722",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "经济主义",
+   "en": "economism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "社会单向度陷入资本过度操控以至于沉迷增长逻辑而非生态逻辑后的一种发展观和价值观。价值观念片面强调经济增长，忽视资源环境承载力和人类幸福的精神性而强调经济至上的偏激向度。它是在经济主导的旗帜下引起人与自"
+  },
+  {
+   "cn": "经济学",
+   "en": "economics",
+   "source": "经济学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究人类行为及如何将有限或者稀缺资源进行合理配置的社会科学。"
+  },
+  {
+   "cn": "经济主义",
+   "en": "Economism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪末20世纪初产生于俄国工人运动中仅以追求当前经济利益为目标的机会主义思潮。"
+  },
+  {
+   "cn": "澳大利亚界",
+   "en": "Australian realm",
+   "source": "动物学名词",
+   "wordNumber": "2.0387",
+   "subjectFullName": "动物学_动物进化与系统学_动物地理",
+   "subjectName": "动物地理",
+   "publishYear": "2021",
+   "definition": "世界动物地理区域名。包括澳大利亚、新西兰、塔斯马尼亚、伊里安岛以及太平洋岛屿的动物地理区。"
+  },
+  {
+   "cn": "澳大利亚植物区",
+   "en": "Australian kingdom",
+   "source": "植物学名词",
+   "wordNumber": "02.0410",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "由澳大利亚大陆和塔斯马尼亚岛构成的独立植物区。"
+  },
+  {
+   "cn": "亚述建筑",
+   "en": "Assyrian architecture",
+   "source": "建筑学名词",
+   "wordNumber": "03.0255",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古代西亚亚述王国所建造的建筑。其特点是宫殿建筑比宗教建筑更为显赫，采用带雉堞的城墙护卫。拱券技术发挥的作用较大，使用受埃及影响的彩色釉面砖等。其代表性建筑是萨艮王宫。"
+  },
+  {
+   "cn": "亚述帝国",
+   "en": "Assyrian Empire",
+   "source": "世界历史名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "公元前9世纪至前612年，亚述空前扩张领土而建立的地域性帝国。"
+  },
+  {
+   "cn": "奥地利学派",
+   "en": "Austrian school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚植物区",
+   "en": "Australian kingdom\",\"Australian floral kingdom",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "澳洲板块",
+   "en": "Australian Plate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚界",
+   "en": "Australian realm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚植物区",
+   "en": "Australian kingdom",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚界",
+   "en": "Australian realm",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚界(澳洲区)",
+   "en": "Australian Realm",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "行为经济学",
+   "en": "behavior economics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海洋经济学",
+   "en": "marine economics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生态经济学",
+   "en": "ecological economics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "本地化经济",
+   "en": "localization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化经济",
+   "en": "urbanization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市经济学",
+   "en": "urban economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宏观经济学",
+   "en": "macro-economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间经济学",
+   "en": "spatial economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义经济学",
+   "en": "Marxist economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农场经济学",
+   "en": "farm economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农业经济学",
+   "en": "agricultural economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "湿地经济",
+   "en": "wetland economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "奥地利数据保护局",
+   "en": "Austrian Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚双打阵型",
+   "en": "Australian doubles\",\"Australian formation\",\"tandem formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济体",
+   "en": "platform economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济体",
+   "en": "Digital Economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济人假设",
+   "en": "homo economicus hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚地球科学“数据立方体”",
+   "en": "Australian Geoscience Data Cube (AGDC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据经济学》（〔中〕徐晋）",
+   "en": "Big Data Economics (Xu Jin, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济派",
+   "en": "Economists",
+   "source": "马克思主义",
+   "wordNumber": "04.0338",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "19世纪末20世纪初国际工人运动中出现的一种以单纯追求眼前经济利益为特征的机会主义思潮。以俄国社会民主工党内的“经济派”为代表。代表人物有康·米·塔赫塔廖夫、谢·尼·普罗柯波维奇、叶·德·库斯柯娃、波"
+  },
+  {
+   "cn": "德奥文化传播论学派",
+   "en": "German-Austrian school of cultural diffusionist theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0506",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学理论流派，19 世纪末20 世纪前期流行于欧洲，常被介绍为人类学的第二个主要理论范式。基本理论是与进化论相对立的传播论，将人类社会文化的变化归因于物质文化和习得行为从一个起源社会散播到其他社"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "老年经济学",
+   "en": "geriatric economics",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "研究群体老龄化和个体老龄化与经济之间相互联系及其规律的科学，是老年学体系中的分支学科。"
+  },
+  {
+   "cn": "卫生经济学",
+   "en": "health economics",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "利用经济学基本理论和方法，研究卫生领域经济现象和规律的学科。"
+  },
+  {
+   "cn": "疫苗经济学",
+   "en": "vaccine economics",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "利用经济学的方法，来研究疫苗的经济学属性、销售、接种等行为，包括疫苗的供给和需求，疫苗市场分析，疫苗定价，疫苗犹豫及经济学评价。"
+  },
+  {
+   "cn": "自由市场经济",
+   "en": "liberal market economies",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.54",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "企业遵循交易成本的原则，经由等级权威制或市场竞争来协调其经济行动的经济形态。市场关系特点是通过竞争、以正式合同的形式进行公平交易，行动者接受市场上的价格信号，进行边际收益/成本的计算，来调整自己对特定"
+  },
+  {
+   "cn": "协调市场经济",
+   "en": "coordinated market economies",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.55",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "企业主要依赖非市场关系来协调彼此的行为决策，建构自己的核心竞争力的经济形态。这些合作的非市场模式通常包括关系合同、在社会网络中借助私人信息交换而操纵网络，主要依赖合作关系而非竞争关系来打造企业的竞争优"
+  },
+  {
+   "cn": "资产阶级庸俗政治经济学",
+   "en": "bourgeois vulgarpolitical economics",
+   "source": "马克思主义",
+   "wordNumber": "04.0288",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "形成于18世纪末19世纪初。主要代表人物是法国的萨伊（JeanBaptisteSay），英国的马尔萨斯（Thomas Robert Malthus）、密尔（JohnStuartMill）和麦克库洛赫（"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "健康经济学",
+   "en": "economics of health",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "利用经济学基本理论和方法，研究健康需求和健康行为的学科。"
+  },
+  {
+   "cn": "规模经济",
+   "en": "economies of scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在一定范围内，随着产量的增加，平均成本持续降低的现象。"
+  },
+  {
+   "cn": "范围经济",
+   "en": "economies of scope",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "机构通过扩大经营范围、增加服务产品种类和生产多种服务产品而引起单位成本降低的现象。"
+  },
+  {
+   "cn": "卫生信息经济学",
+   "en": "health information economics",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "研究与卫生相关的信息这一特殊商品的价值，生产、流通和利用以及与其他经济活动关系的一门学科。"
+  },
+  {
+   "cn": "奥地利年工人总罢工",
+   "en": "General Strike of Austria Workers in",
+   "source": "马克思主义",
+   "wordNumber": "04.0232",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917年俄国十月革命胜利后，苏维埃政府向所有交战国建议结束战争，开始和平谈判。奥地利工人要求停止战争的呼声也越来越强烈。1918年1月，当中欧国家单方面终止了谈判并又开始军事行动时，维也纳的工人展开"
+  },
+  {
+   "cn": "内部规模经济",
+   "en": "internal economies of scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "随着卫生服务机构规模的扩大，产量的增加大于投入的增加，生产每一单位服务产品的成本下降，从而形成的经济效益。"
+  },
+  {
+   "cn": "外部规模经济",
+   "en": "external economies of scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "当整个卫生服务产业的产量（因机构数量的增加）扩大时（机构外部的因素），该行业各个卫生服务机构的平均生产成本下降，带来的成本优势。"
+  },
+  {
+   "cn": "国际卫生经济学会",
+   "en": "international Health Economics Association,iHEA",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.5.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学组织",
+   "subjectName": "卫生经济学组织",
+   "publishYear": "2025",
+   "definition": "从事卫生经济学研究、教育和管理等工作的会员组成的国际学术组织。"
+  },
+  {
+   "cn": "危害健康行为经济学",
+   "en": "economics of risky health behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "15",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学",
+   "subjectName": "危害健康行为经济学",
+   "publishYear": "2025",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生经济大会",
+   "en": "international Health Economics Association (iHEA) Congress",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学组织",
+   "subjectName": "卫生经济学组织",
+   "publishYear": "2025",
+   "definition": "由国际卫生经济学会主办的每两年举办一届的全球学术会议。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

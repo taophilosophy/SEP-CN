@@ -1,0 +1,332 @@
+{
+ "key": "givenness",
+ "term": "givenness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:35:09+00:00",
+ "status": "ok",
+ "note": "variant=givenness; 审定公布名词库=28; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "吉文斯法",
+   "en": "Givens method",
+   "source": "数学名词",
+   "wordNumber": "010.0462",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "给定圆锥直径公差",
+   "en": "given conical diameter tolerance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0304",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "在垂直于圆锥轴线的给定截面内，圆锥直径的允许变动量。"
+  },
+  {
+   "cn": "定应力伸长率",
+   "en": "elongation at a given stress",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0779",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "试样在给定拉伸应力下的伸长率。"
+  },
+  {
+   "cn": "定伸应力",
+   "en": "tensile stress at a given elongation",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0778",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "试样被拉伸到一定长度时单位面积所承受的负荷。是用来表征橡胶材料刚性的重要指标。"
+  },
+  {
+   "cn": "保舵力",
+   "en": "steering force for keeping a given control",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.042",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "保持汽车某一运动状态时，加在转向盘上的切向力。"
+  },
+  {
+   "cn": "保舵力矩",
+   "en": "steering moment for keeping a given control",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.044",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "保舵力与转向盘有效半径(1/2中径)的乘积。"
+  },
+  {
+   "cn": "大学入试中心考试",
+   "en": "university entrance examination given by the national center",
+   "source": "教育学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "教育学_比较教育_日本教育",
+   "subjectName": "日本教育",
+   "publishYear": "2013",
+   "definition": "由日本独立行政法人大学入试中心举办的大学入学考试。通常国立大学和公立大学都要求报考者参加这一考试，部分私立大学也有选择地要求参加这一考试。"
+  },
+  {
+   "cn": "私谥",
+   "en": "si shi;privately given posthumous title or nonofficial posthumous title",
+   "source": "中国古代史名词",
+   "wordNumber": "1.212",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "民间给予死者的谥号。先秦偶或有之，东汉以来德行卓著的民间人士，或由其弟子或同道定谥，唐宋至明清逐渐流行。"
+  },
+  {
+   "cn": "特勤",
+   "en": "te qin;tigin—Turkish, Tiele, or Uighur name for official posts given to relatives",
+   "source": "中国古代史名词",
+   "wordNumber": "5.279",
+   "subjectFullName": "中国古代史_隋唐五代_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "突厥、回纥等汗国位次于“叶护”“设”的执事官。突厥语的音译，又译为“敕勤”“惕隐” “狄银”等，例以汗室子弟及甥辈充任。"
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness",
+   "source": "风景园林名词",
+   "wordNumber": "12.0114",
+   "subjectFullName": "风景园林_风景园林生态_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2025",
+   "definition": "景观镶嵌体中不同缀块类型在其数目或面积方面的均匀程度。"
+  },
+  {
+   "cn": "条干［均匀度］",
+   "en": "evenness",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0275",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "纱线、条子或粗纱沿轴向较短片段内粗细或质量的均匀程度。"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0648",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种动态性质，关注网系统运行过程中，某个（或全体）变迁是否为活变迁。"
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness",
+   "source": "生态学名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "一个群落或生境中全部物种个体数目的分配状况。反映的是各个物种个体数目分配的均匀程度。"
+  },
+  {
+   "cn": "平整度",
+   "en": "surface evenness",
+   "source": "风景园林名词",
+   "wordNumber": "08.0463",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "表面凹凸量的偏差值。"
+  },
+  {
+   "cn": "物种均匀度",
+   "en": "species evenness ",
+   "source": "草学名词",
+   "wordNumber": "2.0324",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "草坪平整度",
+   "en": "turf evenness ",
+   "source": "草学名词",
+   "wordNumber": "4.0846",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表面平整度",
+   "en": "surface evenness ",
+   "source": "草学名词",
+   "wordNumber": "4.0867",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness;equitability",
+   "source": "动物学名词",
+   "wordNumber": "7.0461",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "一个群落或生境中全部物种个体数目的分配状况。反映的是各个物种个体数目分配的均匀程度。"
+  },
+  {
+   "cn": "CT均匀度",
+   "en": "CT evenness",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.322",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像质量控制",
+   "subjectName": "计算机体层成像质量控制",
+   "publishYear": "2020",
+   "definition": "在扫描野中，匀质体在计算机体层成像影像上显示出CT值的一致性。是描述同一组织不同位置成像时，是否具有相同平均CT值的量。"
+  },
+  {
+   "cn": "物种均匀度",
+   "en": "species evenness",
+   "source": "植物学名词",
+   "wordNumber": "13.0616",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "一个群落或生境中全部物种个体数目的分配状况。反映一定空间范围内各个物种个体数目分配的均匀程度。"
+  },
+  {
+   "cn": "抵押物",
+   "en": "object given as a pledge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness\",\"equitability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度",
+   "en": "evenness\",\"equitability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均匀度指数",
+   "en": "evenness index",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物种均匀度",
+   "en": "species evenness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物种均匀度",
+   "en": "species evenness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "物种均匀度",
+   "en": "species evenness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "物种均匀度指数",
+   "en": "species evenness index",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

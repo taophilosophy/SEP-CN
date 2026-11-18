@@ -1,0 +1,742 @@
+{
+ "key": "adverse selection",
+ "term": "adverse selection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:37:10+00:00",
+ "status": "ok",
+ "note": "variant=adverse selection; 审定公布名词库=4354; 海峡两岸名词对照库=1295; 其他来源数据库=110; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "逆向选择",
+   "en": "adverse selection",
+   "source": "经济学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "由于交易双方信息不对称和市场价格下降产生的劣质品驱逐优质品，进而出现市场交易产品平均质量下降的现象。"
+  },
+  {
+   "cn": "逆向选择",
+   "en": "adverse selection",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1029",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由于交易双方信息不对称和市场价格下降，导致劣质品驱逐优质品，进而出现市场交易产品平均质量下降的现象。"
+  },
+  {
+   "cn": "不良反应",
+   "en": "adverse reaction",
+   "source": "麻醉学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "在正常用法和用量条件下产生的与用药目的无关的并给患者带来不适或痛苦的反应，或对机体有害和损伤的作用。包括副作用、毒性反应、依赖性、特异性反应、过敏反应，以及致畸、致癌和致突变反应等。"
+  },
+  {
+   "cn": "有害效应",
+   "en": "adverse effect",
+   "source": "兽医学名词",
+   "wordNumber": "11.044",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "外源化学物质对机体持久的和不可逆的改变。如造成机体功能容量的各项指标改变、维持体内的稳态能力下降、对额外应激状态的代偿能力降低以及对其他环境有害因素的易感性增高，使机体正常形态、结构、功能、生长发育过"
+  },
+  {
+   "cn": "不良事件",
+   "en": "adverse event",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤临床试验",
+   "subjectName": "妇科肿瘤临床试验",
+   "publishYear": "2022",
+   "definition": "受试者接受药物后出现的身体或其他方面的不适、病情改变等非药物预期效用的负面反应。但并非都与药物有因果关系。"
+  },
+  {
+   "cn": "不良事件",
+   "en": "adverse event",
+   "source": "计划生育名词",
+   "wordNumber": "03.083",
+   "subjectFullName": "计划生育_计划生育临床_避孕药具不良反应监测",
+   "subjectName": "避孕药具不良反应监测",
+   "publishYear": "2019",
+   "definition": "药具对患者或使用者造成伤害，甚至引起死亡的事件。药具在给人们带来预期用途的同时，也存在一定的潜在风险。这些风险有些是可预测的，有些只有在上市后通过大量人群的使用才能被发现。"
+  },
+  {
+   "cn": "否定意见",
+   "en": "adverse opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在获取充分、适当的审计证据后，如果认为错报单独或汇总起来对财务报表的影响重大且具有广泛性时，审计师所发表的审计意见。"
+  },
+  {
+   "cn": "损伤蓄积",
+   "en": "adverse accumulation",
+   "source": "药学名词",
+   "wordNumber": "07.368",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "有些化学物经长期接触后，在体内测不出该化学物的原型或其代谢产物，却出现了慢性毒性作用。"
+  },
+  {
+   "cn": "有害作用",
+   "en": "adverse effect",
+   "source": "药学名词",
+   "wordNumber": "07.364",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "引起功能紊乱、损伤、疾病或死亡的生物学效应。"
+  },
+  {
+   "cn": "有害效应",
+   "en": "adverse effect",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.215",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "可造成机体生化改变、功能损害或病理改变的效应。"
+  },
+  {
+   "cn": "旋转性发作",
+   "en": "adversive seizure",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.313",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "农学名词",
+   "wordNumber": "06.275",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "物种进化过程中或现代育种工作中，自然界或人工选择优良的变异个体的行为。择优去劣，是物种进化的主要动力，也是创造新品种和改良现有品种的重要手段。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "使用特殊培养条件使只具备某种特殊表型（如繁殖力或生活力）的细胞得以存活的方 式。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "动物学名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "对有利变异的保留和对有害变异淘汰的过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.296",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "任何作用于一个群体中某种基因型(或个体)生存力和繁殖力的自然或人工过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "植物学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "对有利变异保留和对有害变异淘汰的过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "不同基因型(或个体)有不同的繁殖力或生活力的现象。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "生态学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "任何作用于一个群体中某个基因型个体生存力和繁殖力的自然或人工过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "水产名词",
+   "wordNumber": "05.159",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "使种群个体非随机交配，以提高群体内有利基因的频率，降低不利基因的频率的一种育种方法。"
+  },
+  {
+   "cn": "分选",
+   "en": "selecting",
+   "source": "水产名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "食品按品种、大小、质量等进行挑选分类或分级。"
+  },
+  {
+   "cn": "逆差，赤字",
+   "en": "adverse balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选取，选择",
+   "en": "select",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逆压梯度",
+   "en": "adverse pressure gradient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不利的贸易条件",
+   "en": "adverse trading condition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "药物不良反应",
+   "en": "adverse drug reaction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "药物不良相互作用",
+   "en": "adverse drug interaction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分裂选择,歧化选择",
+   "en": "disruptive selection\",\"diversifying selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文选择（=正选择）",
+   "en": "Darwinian selection (=positive selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净化选择（=负选择）",
+   "en": "purifying selection (=negative selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "歧化选择（=分裂选择）",
+   "en": "diversifying selection (=disruptive selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "择伐",
+   "en": "selective cutting\",\"selective felling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志",
+   "en": "selectable marker\",\"selective marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "市场逆向选择",
+   "en": "adverse selection in the market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多难兴邦",
+   "en": "Adversities Reinforce a Nation’s Resilience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不允许搞选择性执法、任性执法",
+   "en": "There can be no tolerance for selective or arbitrary law enforcement.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "有害反应",
+   "en": "adverse response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与某种因素有关或可能有关的所有不良事件。"
+  },
+  {
+   "cn": "不良结局",
+   "en": "adverse outcome",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物引起的具有法规监管意义的有害效应关键事件。通常与已确立的安全保护目标相符合、或与公认的毒性测试指南中的观察终点等效。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcomes",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "妊娠后不能产生外观和功能正常的子代，包括所有的不良结果，如流产、死胎、死产、宫内生长迟缓、发育异常、新生儿和婴幼儿期死亡等。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "妊娠期、分娩及产后期或新生儿期发生的对孕妇、胎儿或新生儿健康产生负面影响的任何不良结果。母体结局包括孕产期并发症和孕产妇死亡，胎儿/新生儿结局包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良出生结局",
+   "en": "adverse birth outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "特指出生后发现的新生儿健康问题或异常结果，包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "儿童期不良经历",
+   "en": "childhood adverse experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "18岁以下儿童经历的创伤性事件，包括受到暴力或虐待，被忽视或遗弃，失去至亲，在父母有精神疾病、父母有药物滥用或酒精成瘾、父母坐牢、父母离异家庭中成长等。这些事件会对儿童身心健康和福祉产生持续不良影响。"
+  },
+  {
+   "cn": "有害健康效应",
+   "en": "adverse health effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "能损害机体的功能并降低机体应对额外挑战的能力的生化变化、功能障碍或病理损伤。"
+  },
+  {
+   "cn": "不良结局路径",
+   "en": "adverse outcome pathway, AOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物作用于机体时引起的分子起始事件和最终有害结局之间相对完整的证据链条。包括在分子、细胞、组织、器官等不同生物结构水平依次发生的关键事件及相邻关键事件的上下游关系。"
+  },
+  {
+   "cn": "消毒负效应",
+   "en": "adverse effect of disinfection",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.8.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "使用消毒剂或消毒器械后引起的对人、消毒灭菌对象和环境的损害。"
+  },
+  {
+   "cn": "避孕药具不良反应",
+   "en": "adverse effect of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "合格的避孕药具在正常用法用量情况下出现与用药目的无关的或意外的有害反应，主要包括副作用、毒性作用、后遗效应、变态反应、继发反应等。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "免疫相关不良事件",
+   "en": "immune-related adverse event, irAE",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.32",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "使用免疫治疗药物时，由免疫机制介导的不良反应。如由于免疫检查点抑制剂（如PD-1/PD-L1或CTLA-4抑制剂）治疗导致的免疫系统异常激活，进而引起的自身免疫样反应，表现为多器官系统的炎症损伤。"
+  },
+  {
+   "cn": "预防接种不良反应",
+   "en": "adverse events following immunization,AEFI",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.5.2.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "在预防接种后发生的怀疑与预防接种有关的反应或事件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

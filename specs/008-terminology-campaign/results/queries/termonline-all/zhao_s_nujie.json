@@ -1,0 +1,352 @@
+{
+ "key": "zhao's nujie",
+ "term": "Zhao’s Nüjie",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:43:10+00:00",
+ "status": "ok",
+ "note": "variant=Zhao’s Nüjie; 审定公布名词库=83; 海峡两岸名词对照库=8; 其他来源数据库=4; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.714",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "非线性动力系统在远离平衡态的条件下，经过多次分叉达到的一种运动状态。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1632",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "古人用以描述各种形式的无规性的一个术语。在现代非线性科学中，混沌用以描述确定性动力学的不规则、不可预测的看上去是随机的行为。 "
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0083",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "在确定性的非线性动态系统中出现的貌似随机的、不能预测的运动。它对初始条件有极其强烈的敏感性。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0553",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "生物物理学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "确定性非线性系统表现出的貌似随机的长期行为，对初始条件极端敏感，初始条件的微小差异会引起系统的长期行为产生很大变化，由此不可能预测这种行为的长期状态。混沌行为在相空间会表现出分形结构。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "大气科学名词",
+   "wordNumber": "05.434",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "非线性确定性系统中，由于系统内部非线性相互作用而产生的一种非周期的行为。例如,大气由热对流导致的湍流就是一种混沌现象。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "生态学名词",
+   "wordNumber": "10.098",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "对初始条件敏感的非线性确定性系统的动态，具有正的李雅普诺夫指数。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "地理学名词",
+   "wordNumber": "25.036",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "对初始状态敏感，表现似周期、非周期和不可预报性的过程。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "数学名词",
+   "wordNumber": "06.0151",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "电子学名词",
+   "wordNumber": "03.448",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "自动化名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "昭王南征",
+   "en": "Zhao Wang nan zheng;King Zhao’s conquests of the South",
+   "source": "中国古代史名词",
+   "wordNumber": "2.052",
+   "subjectFullName": "中国古代史_先秦_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "公元前10世纪初叶，周昭王率军南征荆楚之举。昭王时期军力强大，致力于扩张南土，在位第16年时进军至江汉一带，19年又挥师荆楚，军败而退，昭王溺死于汉水，王室劲旅六师覆灭，周朝国势遭到重挫。"
+  },
+  {
+   "cn": "芝诺悖论",
+   "en": "Zeno’s paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.134",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "一系列关于运动与时空不可分性的哲学悖论。由古希腊数学家芝诺提出。包括时空“有限与无穷”的四悖论：二分法、阿基里斯追龟、飞矢不动、运动场。"
+  },
+  {
+   "cn": "昭武九姓",
+   "en": "Zhao Wu jiu xing;nine-clan Zhaowu",
+   "source": "中国古代史名词",
+   "wordNumber": "5.271",
+   "subjectFullName": "中国古代史_隋唐五代_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "南北朝至隋唐粟特人在阿姆河、锡尔河流域建立的九姓政权。九姓构成各时期有所不同，唐代为康、安、曹、石、米、何、火寻、戊地、史，其中康国仍都粟特早期都城撒马尔罕城（今乌兹别克斯坦撒马尔罕州首府）。九国皆处"
+  },
+  {
+   "cn": "光学混沌",
+   "en": "optical chaos",
+   "source": "光学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "当光学系统在定态输入光场时，其输出光场不再处于定态，而是处于紊乱的、非周期性的状态。属于许多非线性光学系统固有的物理特性。"
+  },
+  {
+   "cn": "暂态混沌",
+   "en": "transient chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0556",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阵发混沌",
+   "en": "intermittency chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0555",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子混沌",
+   "en": "quantum chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0563",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌同步",
+   "en": "chaos synchronization",
+   "source": "物理学名词",
+   "wordNumber": "11.0617",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混沌理论",
+   "en": "chaos theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化学混沌",
+   "en": "chemical chaos",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赵氏硬度",
+   "en": "Zhao hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "赵学敏",
+   "en": "Zhao Xuemin",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浑沌",
+   "en": "Chaos",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混沌理论",
+   "en": "chaos theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子混沌",
+   "en": "quantum chaos",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拨乱反正",
+   "en": "bring order out of chaos",
+   "source": "马克思主义",
+   "wordNumber": "04.0134",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在粉碎“四人帮”后，中国共产党重新恢复党的实事求是的思想路线，纠正“文化大革命”错误，彻底扭转十年内乱造成的严重局势，实现吧工作着重点转移到社会主义现代化建设上来的一系列重大举措。“拨乱反正”，是从1"
+  },
+  {
+   "cn": "孜夏布帕列空",
+   "en": "Rtse zhabs brtan lha khang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0568",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "原西藏地方政府专为达赖喇嘛和地方政府进行祈福而念经拜忏服务的机构。藏文直译为佛事处。职责是根据祈福经忏等佛事活动所需，向政府有关部门支领钱物用于佛事的支出。内设仲译钦莫一人，办事孜仲二人。"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "解释王朝历史兴衰更替的中国传统史观。由孟子最早提出的一种学说，认为“天下之生久矣，一治一乱”，是对春秋战国历史演变的总结。后世演变成中国传统史观，用以考察历史上朝代更迭形成的一治一乱的循环进程。这种史"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

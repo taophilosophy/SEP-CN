@@ -1,0 +1,402 @@
+{
+ "key": "categoricity",
+ "term": "categoricity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:49:43+00:00",
+ "status": "ok",
+ "note": "variant=categoricity; 审定公布名词库=26; 海峡两岸名词对照库=13; 其他来源数据库=1; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "source": "数学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "source": "语言学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "主客观相互作用对事物进行分类的过程，其结果就是认知范畴。范畴化是人类对世界万物进行分类的一种高级认知活动。"
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.330",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "表型可清晰地分为若干类型的性状。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0328",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由买方的各种职能部门(工程、生产、质量等)提供意见，并将其综合分类，来选择和评价供应商的一种方法。"
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0726",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "按照功能在满足使用者需求方面的不同属性、重要程度、以及功能之间的相互关系等原则，对全部功能所进行的类别划分。"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "心理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象表面特征将其归入特定类别的知觉。"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "通过确定每个观察单位的某项特征的性质或类别得到的数据。其变量值是定性的，表现为互不相容的类别或属性，没有度量衡单 位。"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "source": "语言学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "说话人意识不到但又不会违反的规则。例如汉语普通话的“上声＋上声”读为“阳平＋上声”的规则。"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "指同义词之间共有的那部分意义。例如，“优异”“优秀”“优良”中“好”义为范畴义。"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "source": "数学名词",
+   "wordNumber": "02.0318",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻类型化",
+   "en": "categorization of news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.091",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "按照固化的叙事模式，或偏执于某个特定角度呈现新闻事实。在类型化的新闻叙事中，尽管报道中的人物、地点、具体情形不一样，但是叙述思路、结构相同。"
+  },
+  {
+   "cn": "范畴文法",
+   "en": "categorical grammar,CG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0483",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种以自然语言为描述对象的词汇化的文法形式系统。每个基本语法符号由一组范畴（类型）刻画，语法符号串的范畴则可以由类型推导规则推得。基于有限的原子范畴，通过在词典中详细定义每个词条的范畴表达式，并通过有"
+  },
+  {
+   "cn": "突发事件分级管理",
+   "en": "categorized emergency management",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0483",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "政府按照突发事件的威胁和危害程度、影响范围等因素，将其划分为若干等级，并按照等级决定进入何种应对状态的突发事件管理方式。"
+  },
+  {
+   "cn": "科目汇总表",
+   "en": "categorized accounts summary",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0054",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据记账凭证定期汇总编制的，列示有关总分类账户的本期发生额，据以登记总分类账的一种表格。"
+  },
+  {
+   "cn": "分类反应数据",
+   "en": "categorical response data",
+   "source": "心理学名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "反应结果用类别变量编码的数据。"
+  },
+  {
+   "cn": "毒性分级回归",
+   "en": "toxicity categorical regression",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.231",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "合并所有可以利用的体内实验毒性资料做综合性分析，而不是仅取最敏感的资料，将多项研究(各种种系、生物终点和暴露时间)观察到的反应分为不同的严重等级，预测特定剂量所致效应严重等级。其缺点是未对亚群做专门的"
+  },
+  {
+   "cn": "范畴数据分析",
+   "en": "categorical data analysis",
+   "source": "地理学名词",
+   "wordNumber": "25.102",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "范畴数据指有限和可数个数据并可以划分为若干范畴组，范畴组的变量取值为离散的。范畴数据分析是针对范畴数据的统计方法。"
+  },
+  {
+   "cn": "纲目分类法",
+   "en": "categorical classification of archives",
+   "source": "档案学名词",
+   "wordNumber": "08.02.035",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "档案分类方法之一。仿美国国会图书馆分类法编制而成。具体做法是固定以组织机构和职掌为一、二两级分类原则。首先将档案按组织机构分成若干类，然后按各机构的业务职能分成若干纲，以下层次则视具体情况而定。"
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音类别知觉",
+   "en": "categorical speech perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴数据分析",
+   "en": "categorical data analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在社会情景中，人们根据不同的情况，把处于该情景中的个人归于不同的社会类别中的过程。例如区分男性/女性、年轻人/老年人、中国人/外国人等。"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在各种社会情景下，个人会主动把自己归于不同的类别/群体当中，接受相应的规范并采取相应的行为的现象和过程，是与社会类别化相对应的一个社会认知过程。一般认为这一过程是群体行为形成的基本条件。"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.108",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以定类或定序变量作为因变量的统计分析。"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《放射源分类办法》（国家环境保护总局公告 2005年第62号）和国际原子能机构《放射性物质的危险量》（EPR-D-values 2006），根据放射源对人体健康和环境的潜在危害程度进行分类，分为："
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《射线装置分类》（环境保护部、国家卫生计生委公告2017年第66号），根据射线装置对人体健康和环境可能造成危害的程度，分为Ⅰ类（高危险射线装置）、Ⅱ类（中危险射线装置）、Ⅲ类（低危险射线装置）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

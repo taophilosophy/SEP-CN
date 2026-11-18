@@ -1,0 +1,722 @@
+{
+ "key": "comparative confidence ordering",
+ "term": "comparative confidence ordering",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:50:32+00:00",
+ "status": "ok",
+ "note": "variant=comparative confidence ordering; 审定公布名词库=1208; 海峡两岸名词对照库=369; 其他来源数据库=100; 预公布名词数据库=67; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "置信度",
+   "en": "confidence",
+   "source": "物理学名词",
+   "wordNumber": "01.0277",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可比性",
+   "en": "comparability",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.117",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "在限定范围内，比较对象之间具有可进行比较的基础。"
+  },
+  {
+   "cn": "比较仪",
+   "en": "comparator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.099",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量仪",
+   "subjectName": "量仪",
+   "publishYear": "2021",
+   "definition": "用机械的、电的、气动的或光学的方法，检查被测工件尺寸相对于标准件尺寸偏差的装置。"
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0174",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "对两个数据项进行比较，以确定它们是否相等或者确定它们之间大小关系的装置。"
+  },
+  {
+   "cn": "比较仪",
+   "en": "comparator",
+   "source": "计量学名词",
+   "wordNumber": "10.205",
+   "subjectFullName": "计量学_电磁_电测量仪器仪表",
+   "subjectName": "电测量仪器仪表",
+   "publishYear": "2015",
+   "definition": "通过比较给出两个量的值之间差值信号的器件。"
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "03.175",
+   "subjectFullName": "机械工程_仪器仪表_电测量仪器仪表_仪用电源",
+   "subjectName": "仪用电源",
+   "publishYear": "2003",
+   "definition": "输出量数值与规定的参比值相比较，以产生一个差值信号(误差信号)的器件。"
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "航海科技名词",
+   "wordNumber": "15.0951",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可比较[的]",
+   "en": "comparable",
+   "source": "数学名词",
+   "wordNumber": "03.0226",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "在数据统计中，置信区间是指一个样本的某个总体参数的真实值有一定概率落在测量结果的周围的程度（区间）。"
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.155",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "特定个体对待特定命题真实性相信的程度，即概率是对个人信念合理性的量度。置信水平是指总体参数值落在样本统计值某一区内的概率；而置信区间是指在某一置信水平下，样本统计值与总体参数值间误差范围。置信区间越大"
+  },
+  {
+   "cn": "置信椭球",
+   "en": "confidence ellipsoid",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0389",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在地震定位计算中，一个围绕着被计算的震源位置的椭球体。真实的震源以某一特定的置信水平 (形式上 )位于该椭球体内。 "
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "测绘学名词",
+   "wordNumber": "01.032",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "根据来自母体的一组子样（即观测值），对表征母体的参数进行估计的统计可信程度。"
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "畜牧学名词",
+   "wordNumber": "04.636",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "由样本对某总体参数所做的区间估计。该区间将以一定的置信度(概率)包含该参数的真值。"
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "冶金学名词",
+   "wordNumber": "04.0708",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "置信度确定后，以测量结果为中心，包括总体均值在内的可信范围。"
+  },
+  {
+   "cn": "置信系数",
+   "en": "confidence coefficient",
+   "source": "冶金学名词",
+   "wordNumber": "04.0709",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "保证置信区间能覆盖参数的概率。"
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0010",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "总体参数值落在样本统计值附近某一区内的概率。"
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0011",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "真实值落在平均值附近的一个指定的范围。"
+  },
+  {
+   "cn": "置信域",
+   "en": "confidence region",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0062",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "根据对参数估计结果精确性的人为判断估出的参数变化范围。"
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "物理学名词",
+   "wordNumber": "01.0280",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "物理学名词",
+   "wordNumber": "01.0278",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "置信度",
+   "en": "confidence",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比较器",
+   "en": "comparator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "置信域",
+   "en": "confidence region",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "置信水平",
+   "en": "confidence level",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "置信系数",
+   "en": "confidence coefficient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自信",
+   "en": "self confidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "置信系数",
+   "en": "confidence coefficient",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可信限度",
+   "en": "confidence limit",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "置信区间",
+   "en": "confidence interval",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "识别置信度",
+   "en": "recognition confidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信心",
+   "en": "confidence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字秩序",
+   "en": "digital order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有序索引",
+   "en": "ordered index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "competitive order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跑顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四个自信",
+   "en": "Foursphere Confidence",
+   "source": "马克思主义",
+   "wordNumber": "03.0802",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年7月1日，习近平在庆祝中国共产党成立95周年大会上明确提出：中国共产党人“坚持不忘初心、继续前进”，就要坚持“四个自信”即“中国特色社会主义道路自信、理论自信、制度自信、文化自信”。"
+  },
+  {
+   "cn": "比较研究",
+   "en": "comparative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在社会科学研究中，通过系统地比较两个或多个社会、文化或国家，来发现社会实体间的相似与差异的研究方法。"
+  },
+  {
+   "cn": "比较风险",
+   "en": "comparative risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当改变一个或一组风险因素的人群暴露分布时，人群风险水平的变化。"
+  },
+  {
+   "cn": "比较语言学",
+   "en": "comparative linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0004",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史语言学的一个分支。主要运用历史比较法研究语言之间的亲缘关系。亲属语言之间的同源词和同源形态之间会有语音对应关系，借此构拟原始祖语的音系和形态。"
+  },
+  {
+   "cn": "比较民俗学",
+   "en": "comparative folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0504",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一国民俗学的超越，主要对不同地区、不同民族、不同国家的各种类型化民俗事象进行比较研究。比较民俗学发祥于欧洲，最初只限于对民间口传文学在各国度、各民族中存在的大同小异现象及其相互间的影响进行比较分析；"
+  },
+  {
+   "cn": "比较研究法",
+   "en": "comparative study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0651",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对两个或两个以上的事物或对象加以对比，以找出它们之间的相似性与差异性的一种分析方法。比较研究法也可以理解为是根据一定的标准，对两个或两个以上有联系的事物进行考察，寻找其异同，探求普遍规律与特殊规律的方"
+  },
+  {
+   "cn": "比较风险评估",
+   "en": "comparative risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对不同类型的风险进行比较分析，确定优先管理目标的分析方法。"
+  },
+  {
+   "cn": "交叉比较法",
+   "en": "cross-comparative method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0521",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "在更大的范围内，从世界各民族民俗事象中，抽出某一部分，作统计分析，由此说明某一类民俗在世界范围内产生、演变和发展的规律。"
+  },
+  {
+   "cn": "伦理比较法",
+   "en": "ethical comparative method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2309999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "对不同的伦理学理论、规范、命题或事件等进行历史、文化或思想的对比考察，并加以分析的研究方法。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "跨文化比较研究",
+   "en": "cross-cultural comparative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "跨文化比较研究",
+   "publishYear": "2025",
+   "definition": "通过对不同文化族群调查获得材料进行比较研究，分析人类行为的共同性及文化的差异性，以期发现某种规律或通则的研究方法。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "基准摄入量置信区间下限",
+   "en": "benchmark intake lower confidence limit, BIL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "经统计学方法得到的基准摄入量可信区间的下限值"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
