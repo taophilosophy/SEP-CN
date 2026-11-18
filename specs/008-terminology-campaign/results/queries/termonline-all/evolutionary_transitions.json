@@ -1,0 +1,752 @@
+{
+ "key": "evolutionary transitions",
+ "term": "evolutionary transitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:58:59+00:00",
+ "status": "ok",
+ "note": "variant=evolutionary transitions; 审定公布名词库=758; 海峡两岸名词对照库=350; 其他来源数据库=25; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "农学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据同源DNA或RNA序列中核苷酸的变异估算出来的物种间遗传关系的远近。差异越大，进化关系越远。"
+  },
+  {
+   "cn": "进化速率",
+   "en": "evolutionary rate",
+   "source": "农学名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "进化过程中，每个世代或单位时间内发生的改变。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.204",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "模拟繁殖、变异、竞争和选择等生物进化过程，寻求最优解的计算方法。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "针对现有系统或通过构造初始过程系统，采用调优策略逐步改进初始系统，以改善系统性能的方法。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.418",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "现代生物学语境中通常指达尔文主义的进化论。将有机体特征的稳定遗传与其在环境中的变异和选择适应结合起来。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "演化程",
+   "en": "evolutionary track",
+   "source": "天文学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在赫罗图上的演化路径。"
+  },
+  {
+   "cn": "进化稳定性",
+   "en": "evolutionary stability ",
+   "source": "草学名词",
+   "wordNumber": "2.0094",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "行为医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "从进化论角度出发，对人的心理起源、本质及一些社会现象深入研究的理论。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。以生物进化原理为指导的分类学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "动物学名词",
+   "wordNumber": "2.0188",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "动物学名词",
+   "wordNumber": "7.0008",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中，不断地演变并获得完美的结构和相互适应能力的科学。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "02.0014",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "以生物进化原理为指导的分类学学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "植物学名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "植物学名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "物种的一种。祖先和祖先种群的一个单一谱系，该谱系保持了自己的属性而不同于其他谱系，具有自己的进化趋势和历史命运。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "生物物理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "生物物理学_生物信息学_生物信息学概要",
+   "subjectName": "生物信息学概要",
+   "publishYear": "2018",
+   "definition": "研究生命进化及演变原理与机制的学科。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "以进化论为思想，模拟生物进化过程求解问题的人工智能技术。借鉴了生物进化的遗传、突变、自然选择和杂交等现象。"
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化动力学",
+   "en": "evolutionary dynamics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化趋异",
+   "en": "evolutionary divergence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化时间",
+   "en": "evolutionary time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化稳态",
+   "en": "evolutionary homeostasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化系统学",
+   "en": "evolutionary systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化选择",
+   "en": "evolutionary selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化植物学，演化植物学",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化钟",
+   "en": "evolutionary clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化植物学（=进化植物学）",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调优操作",
+   "en": "evolutionary operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进入转换区",
+   "en": "check-in to the transition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红色资源",
+   "en": "the Red Resources (sites and heritage related to the revolutionary traditions of the CPC)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太行精神",
+   "en": "the spirit of the Taihang Revolutionary Base Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红岩精神",
+   "en": "the spirit of Revolutionary Martyrs in Red Crag",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用进化论解释道德的起源、发展和本质的伦理学说。认为进化分为宇宙过程和自然过程，以生存竞争、适者生存为动力；社会是一个有机体，按照进化论的变异、自然选择、遗传等原理发展，人类道德发展规律服从于生物进化的"
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "人口转变",
+   "en": "demographic transition",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口出生率与死亡率从高至低的历史过程。死亡率的下降往往先于生育率，因此在人口转变期间，人口往往会快速增长。"
+  },
+  {
+   "cn": "和平过渡",
+   "en": "peaceful transition",
+   "source": "马克思主义",
+   "wordNumber": "03.0250",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在特定历史条件下，通过不流血的和平方式，把政权从反动统治阶级手中夺过来，实现资本主义向社会主义的过渡。暴力革命是无产阶级夺取政权的一般规律。但是，并不排斥非暴力的和平手段。在当代，我们不反对西"
+  },
+  {
+   "cn": "过渡时期",
+   "en": "transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0255",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从无产阶级取得政权到进入共产主义社会低级阶段之前的这一特殊历史阶段。1875年马克思在《哥达纲领批判》中第一次提出过渡时期这一著名论断。他指出: “在资本主义社会和共产主义社会之间,有一个从前者变为后"
+  },
+  {
+   "cn": "过渡仪式",
+   "en": "transition ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0532",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国民族学家和民俗学家范·盖内普（Arnold Van Gennep）在《过渡礼仪》一书中提出的观点，即个人或群体在不同阶段的转换中所采取的仪式过程。过渡礼仪的完整模式在理论上包括分隔礼仪、聚合礼仪和"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "进化潜力法则",
+   "en": "law of evolutionary potential",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0583",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家塞维斯（Elman Rogers Service）在《进化的潜势》一文中，提出在“不发达的”文明社会中，存在着一定的发达社会所不具有的进化潜势。有一些落后社会它们通过引进发达社会的文化，从"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.37",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "处于高能态的同质异能素退激发时所发生的γ跃迁现象。"
+  },
+  {
+   "cn": "市场转型理论",
+   "en": "market transition theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.24",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由美国社会学家倪志伟(Victor Nee）等人针对20世纪80年代以来俄罗斯、东欧等前社会主义国家以及中国的社会分层变迁提出的一种理论。主要观点是：市场化转型导致这些社会的分层机制发生根本改变，即原"
+  },
+  {
+   "cn": "市场转型研究",
+   "en": "market transition study",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.34",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "关注社会主义国家从国家再分配计划经济转向以市场为导向的经济过程中所发生的社会结构变迁和利益格局再调整，以及该过程对社会主义国家的分层结构的影响的研究。"
+  },
+  {
+   "cn": "社会主义过渡时期",
+   "en": "period of transition to socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0241",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "越南共产党根据马克思主义唯物史观和经济社会发展形态的观点而对本国当前发展阶段的定位。其含义是越南已经跨越了资本主义发展阶段，但是还未进入马克思所定义的社会主义社会发展阶段，仅是朝着社会主义的目标在发展"
+  },
+  {
+   "cn": "新民主主义向社会主义转变",
+   "en": "transition from new democracy to socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0332",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "近代中国半殖民地半封建的社会性质，决定了中国革命必须分两步走：第一步，改变半殖民地半封建的社会形态，使中国成为一个独立的新民主主义国家；第二步，实现新民主主义向社会主义的转变,为建立一个社会主义社会而"
+  },
+  {
+   "cn": "过渡时期的总路线",
+   "en": "general line for the transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0384",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出并于1954年写入中国人民宪法。指明了过渡时期的任务、途径和步骤。核心是社会主义建设和社会主义改造同时并举，简称“一化三改”，包括两方面内容，即逐步实现社会主义工业化，逐步实现对农业、手工业"
+  },
+  {
+   "cn": "过渡时期的初级阶段",
+   "en": "primary stage of the transition period",
+   "source": "马克思主义",
+   "wordNumber": "05.0242",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "老挝对本国当前发展阶段的定位。其含义是老挝未经过资本主义发展阶段，建设社会主义必然要经历一个过渡时期，目前处于向社会主义过渡的初级阶段，以后还要经过若干阶段和相当长的时间才能过渡到社会主义，当前的迫切"
+  },
+  {
+   "cn": "从资本主义到共产主义革命转变的过渡时期",
+   "en": "period of the transition from capitalism to communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0016",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在1875年所写的《哥达纲领批判》中提出了完整的过渡时期理论。他指出：“在资本主义社会和共产主义社会之间，有一个从前者变为后者的革命转变时期。同这个时期相适应的也有一个政治上的过渡时期”。意即从"
+  },
+  {
+   "cn": "三和路线",
+   "en": "Peaceful coexistence peace contests and peaceful transition lines",
+   "source": "马克思主义",
+   "wordNumber": "05.0220",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "赫鲁晓夫在苏共20大提出的和平共处、和平竞赛、和平过渡的统称。是赫鲁晓夫时期苏联对外战略的主要内容。1956年在苏共二十大上，赫鲁晓夫全面系统地阐述了其对外政策主张：与西方国家和平共处，在和平竞赛中超"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

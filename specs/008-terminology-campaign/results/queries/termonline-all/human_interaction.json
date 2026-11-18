@@ -1,0 +1,762 @@
+{
+ "key": "human interaction",
+ "term": "human interaction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:53:14+00:00",
+ "status": "ok",
+ "note": "variant=human interaction; 审定公布名词库=1551; 海峡两岸名词对照库=362; 其他来源数据库=126; 预公布名词数据库=139; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "人机交互[作用]",
+   "en": "human-computer interaction",
+   "source": "心理学名词",
+   "wordNumber": "11.024",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "人与计算机的信息交换及互相影响。"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human computer interaction",
+   "source": "教育学名词",
+   "wordNumber": "13.144",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "人与计算机相互配合共同完成一项任务过程中的双向通信。包括机器通过输出或显示设备给人提供大量有关信息及提示与请求等，人通过输入设备给机器输入有关信息、回答问题等。"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human computer interaction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.349",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通过计算机输入、输出设备，以有效的方式实现人与计算机对话的技术。"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human computer interaction;HCI;human machine interaction;HMI",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.05",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "研究人与计算机的互动方式以及相互影响的技术。人机交互的一个主要技术，是人机界面(humancomputer interface)，人机界面是计算机与人(使用者)之间通信和对话的接口，是计算机系统的重"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human computer interaction;man machine interaction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.030",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "人与计算机之间使用某种语言和交流方式为完成确定任务的信息交换过程。"
+  },
+  {
+   "cn": "人–机器人交互",
+   "en": "human-robot interaction,HRI",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0417",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "人和机器人通过用户接口交流信息和动作来执行任务的过程。"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human-machine interaction,HMI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0298",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "研究系统与用户之间的互动关系的技术。系统可以是各种各样的设备，也可以是计算机化的系统和软件。"
+  },
+  {
+   "cn": "人机交互系统",
+   "en": "human-computer interaction system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "支持人和计算机系统直接进行交互通信的系统。其主要功能是完成人机之间的信息传递，以提高计算机系统的友善性和使用效率。"
+  },
+  {
+   "cn": "人机交互",
+   "en": "human-computer interaction; HCI",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.646",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "人与计算机之间使用某种对话语言，以一定的交互方式，为完成确定任务的信息交换过程。"
+  },
+  {
+   "cn": "智能人机交互",
+   "en": "intelligent human computer interaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "通过计算机输入、输出设备，以有效的方式实现人与计算机对话的技术。"
+  },
+  {
+   "cn": "人机交互技术",
+   "en": "human computer interaction techniques",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.031",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "通过计算机输入输出设备实现人与计算机信息交换的技术。"
+  },
+  {
+   "cn": "中子与人体组织相互作用",
+   "en": "neutron interaction with human body",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.126",
+   "subjectFullName": "放射医学与防护_放射物理学_电离辐射及其与物质相互作用",
+   "subjectName": "电离辐射及其与物质相互作用",
+   "publishYear": "2014",
+   "definition": "快中子与人体组织相互作用的主要方式是快中子与人体组织中的氢、碳、氧和氮原子核的弹性散射及与氮的原子核反应。由于人体组织中氢原子最多(约占75%)，快中子与氢核一次弹性碰撞损失的能量最大(约一半能量交给"
+  },
+  {
+   "cn": "互动",
+   "en": "interaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.018",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "两个或更多的传播参与者通过符号进行的交互行为或产生相互影响的作用。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.128",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "两个或多个独立变量对同一反应变量产生共同效应的作用。但效应总和并不是每个变量效应的简单相加。"
+  },
+  {
+   "cn": "[相]互作用",
+   "en": "interaction",
+   "source": "物理学名词",
+   "wordNumber": "01.0089",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "核医学名词",
+   "wordNumber": "06.0271",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "在统计学上一个因素不同水平间的效应差受另一因素的影响的情况。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "心理学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "多因素实验中，一个因素的水平在另一个因素的不同水平上对因变量的影响变化趋势不一致时的效果。说明两个因素之间存在交互作用。"
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "有三个方面的含义：(1)两个或多个因素之间的互相作用，从而导致、阻止或控制某一疾病的发生或进展，可进一步分为拮抗作用和协同作用。(2)又称“效应修正作用(effect modification)”。随"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction",
+   "source": "数学名词",
+   "wordNumber": "09.0719",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "互联",
+   "en": "interaction",
+   "source": "自动化名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "人机交互",
+   "en": "human computer interaction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人机交互",
+   "en": "human-computer interaction\",\"man-machine interaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交互",
+   "en": "interaction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交互[作用]",
+   "en": "interaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互的",
+   "en": "interactive",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互作离差",
+   "en": "interaction deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因互作（=基因相互作用）",
+   "en": "gene interaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因相互作用，基因互作",
+   "en": "gene interaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种间交互作用",
+   "en": "interspecific interaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群间相互作用",
+   "en": "population interaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尺度相互作用",
+   "en": "scales interaction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流体动力相互作用",
+   "en": "hydrodynamic interaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子相互作用",
+   "en": "molecular interaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用势",
+   "en": "interaction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人机交互系统",
+   "en": "human-machine interaction system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多感官交互",
+   "en": "multisensory interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态交互",
+   "en": "multimodal interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语音交互",
+   "en": "voice interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核心交互",
+   "en": "core interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹幕互动",
+   "en": "danmaku interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式处理",
+   "en": "interactive processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式学习",
+   "en": "interactive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动群落",
+   "en": "interactive community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式传播",
+   "en": "interactive communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction effect",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.96",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或多个自变量对因变量产生的共同影响。也就是说，一个自变量对因变量的影响效应会因另一个自变量的水平不同而有所不同。"
+  },
+  {
+   "cn": "社会互动",
+   "en": "social interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会互动",
+   "subjectName": "社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间、群体之间，或个体与群体之间相互采取社会行动的过程，通常是一方对另一方采取社会行动，另一方相应作出反应性社会行动。人类存在的重要方式，是社会发展的动力所在。"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体运用语言符号，理解自我与他人的行为与态度，从而在赋予行动以意义的基础上彼此互动的过程。此概念最先由美国社会学家库利、米德等人提出，后经一些学者补充、发展为“符号互动论”，进一步强调了符号交流在社会"
+  },
+  {
+   "cn": "焦点互动",
+   "en": "focused interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在面对面相遇时，互相积极有效地将感觉和视觉都注意于某一焦点而发生的互动行为。这一互动过程具有开始、结束、进入、退出的正式标识和仪式，有利于产生团结感。美国社会学家戈夫曼最早提出这一概念，与“非焦点"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "互动仪式",
+   "en": "interaction ritual",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在焦点互动中，个体有意或无意地按照一定规范与秩序表现出来的行为举止，如眼神、动作、站立位置和语言等等。通过这种方式，个体感知并表达某种情感与意识，使互动在社会行为与个体心理方面都产生影响。"
+  },
+  {
+   "cn": "社会交往",
+   "en": "social interaction",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体参与社会活动并与他人互动的过程。"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "将健康教育的内容融入游戏之中，生动形象地让其通过游戏的方式学习，获得知识、培养良好生活习惯的教育活动。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

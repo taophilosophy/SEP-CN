@@ -1,0 +1,32 @@
+{
+ "key": "antisemitism",
+ "term": "Antisemitism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:54:10+00:00",
+ "status": "ok",
+ "note": "variant=Antisemitism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "反犹主义",
+   "en": "Anti-Semitism",
+   "source": "世界历史名词",
+   "wordNumber": "04.0427",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "仇视、排斥、迫害犹太人的种族主义思潮和政策，欧洲历史上的反犹主义最为严重。"
+  },
+  {
+   "cn": "反犹运动",
+   "en": "antisemitic campaign",
+   "source": "马克思主义",
+   "wordNumber": "04.0125",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反犹太主义是对仇恨犹太人或犹太教的思想与行为的总称，在各个不同历史时期有不同的动机和表现形式。其中影响最大的是第一次世界大战后德国法西斯发起的大肆攻击犹太人的运动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

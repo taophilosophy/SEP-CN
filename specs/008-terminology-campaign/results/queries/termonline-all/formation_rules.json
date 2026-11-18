@@ -1,0 +1,782 @@
+{
+ "key": "formation rules",
+ "term": "formation rules",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:52:54+00:00",
+ "status": "ok",
+ "note": "variant=formation rules; 审定公布名词库=3598; 海峡两岸名词对照库=826; 其他来源数据库=645; 预公布名词数据库=127; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "形成规则",
+   "en": "formation rule",
+   "source": "数学名词",
+   "wordNumber": "02.0008",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建造",
+   "en": "formation",
+   "source": "地质学名词",
+   "wordNumber": "10.01.117",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在空间上和时间上有密切成因联系的岩石自然共生组合。按组成建造的岩石性质，可分为沉积建造、岩浆建造、变质建造等。在不同的地壳构造单元有不同的建造形成。因而研究建造对研究地壳的形成和演化有重要意义。在地质"
+  },
+  {
+   "cn": "组",
+   "en": "formation",
+   "source": "地质学名词",
+   "wordNumber": "07.01.101",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "比“群” 低一级的正式岩石地层单位。是岩石地层单位系统的基本单位，具有岩性、岩相和变质程度的一致性。用地名加“组”来命名。"
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "植物学名词",
+   "wordNumber": "13.0383",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "植被分类的等级单位之一。不同学派和地区有不同的理解。在中国，群系为植被分类最主要的中级分类单位，指在同一个群系组(或植被型，或植被亚型)之下，凡是建群种或主要共建种相同的植物群落的联合。这个定义与国外"
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "林学名词",
+   "wordNumber": "03.097",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "相近群丛的联合。其优势种是同一个种或同几个种，是我国植被分类体系的中级单位。在英美等国，群系类同于我国的植被型。"
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "生态学名词",
+   "wordNumber": "06.205",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "相近群丛的联合，其优势种是同一个种或几个种。是我国植被分类体系的中级单位。在英美等国，群系类同于我国的植被型。"
+  },
+  {
+   "cn": "组",
+   "en": "formation",
+   "source": "地质学名词",
+   "wordNumber": "02.037",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "格式",
+   "en": "format",
+   "source": "档案学名词",
+   "wordNumber": "06.02.026",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "电子文件在计算机等电子设备中组织和存储的编码方式。示例：文本格式PDF、DOC、XLS、PPT、TXT、WPS、XML、HTML等，图像格式JPG、TIFF、GIF、PNG、BMP等；图形格式DWG、"
+  },
+  {
+   "cn": "版式",
+   "en": "format",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.218",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "报纸杂志相对稳固的版面格局。"
+  },
+  {
+   "cn": "版式",
+   "en": "format",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.012",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "①在页面中图文的编排要求，包括空间位置和尺寸，是印刷和复制的依据。②音像、电子出版物显示界面设计，用以表示屏幕显示的各组成部分之间的关系和结构。"
+  },
+  {
+   "cn": "图纸幅面",
+   "en": "format",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0191",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "图纸宽度与长度组成的图面。"
+  },
+  {
+   "cn": "格式化",
+   "en": "formatting",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0459",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "对磁盘或磁盘中的分区进行初始化的一种操作。这种操作通常会清除磁盘或分区中的所有数据。"
+  },
+  {
+   "cn": "格式",
+   "en": "format",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.227",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一种语言构造，用字符形式来规定文件中数据对象的表示。"
+  },
+  {
+   "cn": "格式化",
+   "en": "formatting",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.177",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "对数据介质进行初始化，使之可以存储和读取数据。"
+  },
+  {
+   "cn": "[纸张]成形",
+   "en": "formatting",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0315",
+   "subjectFullName": "材料科学技术_天然材料_纸",
+   "subjectName": "纸",
+   "publishYear": "2011",
+   "definition": "纤维在纸张成型设备上分散、排列、交织、定形的过程。"
+  },
+  {
+   "cn": "录制格式",
+   "en": "format",
+   "source": "石油名词",
+   "wordNumber": "03.0556",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "本溪组",
+   "en": "Benxi Formation,Penchi Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.543",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "乐平组",
+   "en": "Leping Formation,Loping Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.558",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "佘田桥组",
+   "en": "Shetianqiao Formation,Shetianchiao Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.533",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "玉龙寺组",
+   "en": "Yulongsi Formation,Yulongssu Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.522",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "形式规则",
+   "en": "formation rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "队列，编队",
+   "en": "formation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[纸张]成形",
+   "en": "formatting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "格式",
+   "en": "format",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格式化",
+   "en": "formatting",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格式",
+   "en": "format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格式化",
+   "en": "formatting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网状结构",
+   "en": "reticular formation\",\"formatic reticularis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "横向格式",
+   "en": "horizontal format\",\"landscape format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纵长格式",
+   "en": "portrait format，vertical format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成胚中心",
+   "en": "formation center",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "海马结构",
+   "en": "hippocampal formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "模式形成，图式形成",
+   "en": "pattern formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内淋巴形成",
+   "en": "endolymphatic formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚泡形成",
+   "en": "blastocyst formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "图式形成（=模式形成）",
+   "en": "pattern formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外淋巴形成",
+   "en": "perilymphatic formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "编排",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站位",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球阵型",
+   "en": "receiving formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "W阵型",
+   "en": "W formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据格式",
+   "en": "data format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚双打阵型",
+   "en": "Australian doubles\",\"Australian formation\",\"tandem formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行站位",
+   "en": "side-by-side formation\",\"sides formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵型",
+   "en": "formation\",\"playing system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵型",
+   "en": "formation\",\"playing system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打配合站位",
+   "en": "combination double formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的经济基础和上层建筑的统一体。一定社会经济结构、政治结构和文化结构的具体的历史的统一。马克思主义特有的范畴。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "态度形成",
+   "en": "attitude formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人对某些事物从不曾有态度到出现某种态度的过程。通常包括了顺从、认同和内化3个阶段。并非所有人对所有事的态度都完成这一全部过程，有人对某一事物的态度可能完成了整个过程，但对另一些事物的态度则可能停留在服"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "马克思主义",
+   "wordNumber": "03.0004",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“社会经济形态”。历史唯物主义用以标志社会具体的历史的存在形式的范畴，是人类社会一定历史阶段上的经济、政治、文化等制度的总和，或社会的经济基础与上层建筑的具体的历史的统一，包括社会的经济形态、政治"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的经济基础和上层建筑的统一体。一定社会经济结构、政治结构和文化结构的具体的历史的统一。"
+  },
+  {
+   "cn": "组织规范",
+   "en": "organizational rules",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.13",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织中形成的行为标准和准则，由公共道德、组织意识和组织规章制度等组成，作用在于规范和统一成员的行为，以制度保证实现组织的目标，协调成员与组织之间、组织成员相互之间的关系。"
+  },
+  {
+   "cn": "家规",
+   "en": "family rules",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0148",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在社会习俗的影响制约下形成的，由家族成员共同遵守的不成文的法规、条例，用以约束家族成员的行为，维护家长权威和家族统一，协调族内的人际关系。家法是家长和长辈惩诚、制裁家族成员所依的准绳；靠传统、习惯的民"
+  },
+  {
+   "cn": "纸面规则",
+   "en": "paper rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.16",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "以成文形式出现、有适用可能的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念。"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "某种设立特定行为方式的法律规制的正式文字表述。"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "医院提供的病床数量越多其使用率越高，病床数与使用率两者呈正相关关系的规律。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "习俗规则",
+   "en": "mores rule",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.046",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗在养成或习得过程中惯习的制约性，主要表现为两种情况：一种是自然而然地沿着惯习本身的惰性沿袭而来，即自古而然、从来如此和习以为常的状况；另一种是基于某种利益的需求，有目的地遵守既定的先验模型惯习的状"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张行为的对错要看它是否符合伦理原则和准则，人们的行为只要服从这些规则和准则，就是道德的和正当的，而不必考虑行为效果的理论。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于经济地位、政治权势或文化霸权等因素，以组织化方式行使国家权力、管理国家事务的团体。精英统治理论的基本范畴，意大利政治理论家莫斯卡认为，任何社会中都存在统治阶级和被统治阶级。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "马克思主义",
+   "wordNumber": "03.0183",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在经济上、政治上、思想上占统治地位的阶级。如奴隶社会的奴隶主阶级、封建社会的地主阶级、资本主义社会的资产阶级。无产阶级和劳动人民只有夺取政权，建立无产阶级专政，才能变被统治阶级为统治阶级，尽快发展社会"
+  },
+  {
+   "cn": "价值形成过程",
+   "en": "processes of value formation",
+   "source": "马克思主义",
+   "wordNumber": "02.0097",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者创造商品价值的过程，商品生产过程的一个方面。抽象人类劳动同生产资料相结合而凝结成价值的过程。正如商品是使用价值和价值的统一，商品生产过程必然是劳动过程和价值形成过程统一的生产过程。"
+  },
+  {
+   "cn": "固定资本形成费用",
+   "en": "Gross fixed capital formation",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.3",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "固定资本形成费用是指核算期内卫生服务提供机构获得的资产（扣除同类资产的处置价值），即在卫生服务提供过程中重复使用或者使用期限在一年以上的资产总价值，反映卫生服务提供机构提供医疗卫生用品和服务的资本性投"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

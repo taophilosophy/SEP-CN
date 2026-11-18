@@ -1,0 +1,782 @@
+{
+ "key": "mind-brain identity",
+ "term": "mind-brain identity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:48:46+00:00",
+ "status": "ok",
+ "note": "variant=mind-brain identity; 审定公布名词库=4145; 海峡两岸名词对照库=1037; 其他来源数据库=147; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "理念识别",
+   "en": "mind identity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.106",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系技术",
+   "subjectName": "公关关系技术",
+   "publishYear": "2022",
+   "definition": "企业在长期的经营实践活动中形成的与其他企业不同的价值观、宗旨、精神等，涉及企业如何确认“我是谁”“我的愿景是什么”，以及企业如何在信念层面看待自我与他者、自我与社会、自我与自然的关系。"
+  },
+  {
+   "cn": "心身同一论",
+   "en": "identity theory of mind body",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.557",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认为任一心理现象都等同于物理现象的心智理论。包括类型同一论和个例同一论两种主张。"
+  },
+  {
+   "cn": "心智",
+   "en": "mind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.560",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "与心理及智能活动相关的一切精神现象。如意识、知觉、思想、记忆、注意、意志、情绪、感受等。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "行为医学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "人脑对客观现实的主观反映。属于脑的功能，在实践活动中不断发生与发展。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "计划生育名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人的头脑对客观规律的反映。包括感觉、知觉、记忆、思维、意志和情绪等。也可泛指人的内心活动。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "心理学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "人脑对客观现实的主观反映。是脑的功能，在实践活动中不断地发生和发展。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.008",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "能进行深入观察的觉照。当完全地觉知并深入地观察某个对象时，能观和所观的界限就逐渐消失，能观和所观成为一体。是一种消解压力、自我放松的方法。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "行为医学名词",
+   "wordNumber": "20.066",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过有目的地将注意力集中于当下，不加评判地觉知一个又一个瞬间所呈现的体验而涌现的一种觉知力。包括状态正念、特质正念、正念训练和正念认识过程。"
+  },
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.086",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人在沟通时产生的一种意义感、身份感和归属感。可以将认同区分为自我认同和社会认同。前者指个体内向的自我确认，对自我存在的状态、方式和意义的反思性理解；后者指个体向外的对特定群体、集体或社群的靠近、认可程"
+  },
+  {
+   "cn": "一致性",
+   "en": "identity",
+   "source": "生物物理学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "两条序列做对位排列比对时，在同一位置上出现相同的核苷酸或氨基酸的特性。其一致性程度用两条比对好的DNA、RNA或蛋白质序列之间相同核苷酸碱基或氨基酸残基占整个比对区域的百分比表示。"
+  },
+  {
+   "cn": "恒等[式]",
+   "en": "identity",
+   "source": "数学名词",
+   "wordNumber": "01.0038",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经外科学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干四部分，是人体中主管意识、知觉、运动、思维、记忆等的重要器官，是神经系统的主要部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "动物学名词",
+   "wordNumber": "6.1158",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "脊椎动物头骨中的软神经组织的器官。为感觉、智力和神经活动的协调中心。可区分为5个部分：大脑、间脑、中脑、小脑和延脑。随着脊椎动物的进化，脑5部分分化明显化和脑高级中枢功能向大脑皮质转移。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经病学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干4个部分。有支配精神意识、进行思维活动的功能。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "心理学名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "位于颅腔内，由脑干、间脑、小脑和大脑两半球组成。是中枢神经系统的组成部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "中医药学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "奇恒之腑之一，位于颅内，由髓汇聚而成，为神明汇聚之所，有支配精神意识，进行思维活动的功能。"
+  },
+  {
+   "cn": "读心术",
+   "en": "mind-reading",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.499",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "常人所具备的“读懂”他人心理状态与活动的技能。对这种能力的解释主要有两种：人们对这一能力的运用是基于常识心理学的基本理论所做的推理，是为“理论观”；人们在理解和预测他人的心理和行为时，是以自身的心理结"
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.216",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "围绕一个中心主题，把相关各级主题用辐射线的形式相连，图文并用，用层级图形式表现各级主题的相关关系，实现发散性思维的一种图形思维工具。"
+  },
+  {
+   "cn": "思想管理者",
+   "en": "mind manager",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "控制和监督人们的思想、为统治集团利益服务的媒体、政府信息生产部门以及教育部门。这一概念由美国传播学者赫伯特·席勒(Herbert Schiller)在其1973年出版的《思想管理者》(The Mind"
+  },
+  {
+   "cn": "意守",
+   "en": "mind concentration",
+   "source": "运动医学名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "摄心归一，专其一处，即气功练习中，在身心安静的情况下，把意念“放”在身体的某一部位的练功形式。"
+  },
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "身份",
+   "en": "identity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity\",\"sex identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基因一致性",
+   "en": "gene identity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反向认同",
+   "en": "negative identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯认同",
+   "en": "career identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同危机",
+   "en": "identity crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同混淆",
+   "en": "identity confusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "男性认同",
+   "en": "masculine identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同发展",
+   "en": "identity development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同形成",
+   "en": "identity formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同迷失",
+   "en": "identity diffusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同需要",
+   "en": "identity need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遗传一致度",
+   "en": "genetic identity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等同周期",
+   "en": "identity period",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混杂认同",
+   "en": "hybrid identity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成心",
+   "en": "Biased Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份",
+   "en": "digital identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份盗窃",
+   "en": "identity theft",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟主体",
+   "en": "virtual identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业大脑",
+   "en": "agricultural brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ET大脑",
+   "en": "ET brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识解析技术",
+   "en": "identity resolution technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同一性",
+   "en": "identity",
+   "source": "马克思主义",
+   "wordNumber": "01.0079",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证法中，指“辩证同一性”，与“形而上学同一性”相对。矛盾的同一性是指矛盾双方相互依存、相互贯通、相互转化的一种联系和趋势。具体表现为：矛盾对立面之间的相互依赖，各自以对方为自己存在和发展的条件，任"
+  },
+  {
+   "cn": "身份鉴定",
+   "en": "identity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.9",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品固有本质特征等同程度的检验，确保食品和食品组分的身份和纯度符合安全标准。"
+  },
+  {
+   "cn": "民俗认同",
+   "en": "folkloric identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0026",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以民俗为核心来构建与维系认同和传承传统的意识与行为，尤其强调一个民俗传统的传承是基于所有认同和实践该传统的不同群体的成员来维系的。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "对一种文化具有某种亲近感或归属感，或者是对一种文化表示基本的赞同。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "阶级认同",
+   "en": "class identity",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员通过身份标签、价值认同或行为模式等方式承认他们是同一类人。非马克思主义理论家采用这一概念取代马克思所说的“阶级意识”概念。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对他/她属于某些社会群体的知识，同时对他/她的群体成员身份赋予某些情感和价值上的重要性的过程。由英国社会心理学家泰弗尔(Henri Tajfel）提出。"
+  },
+  {
+   "cn": "群体认同",
+   "en": "group identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对于自己所属群体赋予某些情感和价值上的重要性的现象。在社会生活中，每个人都同时属于不同的群体，对所属群体所赋予的情感和价值的重要性是不一样的；同时，同一群体中不同成员对于该群体所赋予的情感和价值上"
+  },
+  {
+   "cn": "国族认同",
+   "en": "national identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0027",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "人们对国家民族的认同。在中国，国族认同就是中华民族认同，即各民族对数千年的中华优秀传统文化、历史记忆及国民身份等方面的认可与共识。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0035",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某特定群体的认同感和归属感，是基于各种不同文化类别，包括国籍、种族、民族、性别和宗教信仰等。文化认同通过分享传统、遗产、语言、美学、规范和习俗等集体知识的过程得以构建和维护。由于个人通常隶属于不止一"
+  },
+  {
+   "cn": "语言认同",
+   "en": "language identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.017",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言使用人通过语言来显示或识别其身份归属。"
+  },
+  {
+   "cn": "民族认同",
+   "en": "ethnic identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0088",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会成员个体对民族集体的归属感和自觉认知，一般是对共同祖先、共同文化、共同历史的认同，但不同民族成员也有可能由于各种原因逐渐产生对另一民族认同的现象，即民族认同可超越民族、种族、文化、区域而产生。"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "脑血流完全停止和脑部广泛性梗死所致的包括脑干在内的全脑功能不可逆地丧失。它是继心肺死亡标准后的一种科学的死亡标准。"
+  },
+  {
+   "cn": "社会认同理论",
+   "en": "social identity theory",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由欧洲社会心理学家泰弗尔(Henri Tajfel）和特纳(John Turner）等人提出的理论，认为个体在特定情景下通过社会分类对相关群体产生认同，即基于凸显的群体成员资格进行自我界定，进而以“我"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

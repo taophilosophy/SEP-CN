@@ -1,0 +1,812 @@
+{
+ "key": "technical terminology",
+ "term": "technical terminology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:58:45+00:00",
+ "status": "ok",
+ "note": "variant=technical terminology; 审定公布名词库=851; 海峡两岸名词对照库=133; 其他来源数据库=153; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "术语",
+   "en": "term,terminology",
+   "source": "语言学名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各门学科的专门用语，在专业范围内表示单一的专门概念，如语言学术语“主语”、哲学术语“物质”、政治经济学术语“商品”等。在一定条件下，某些术语可由专门意义引申出一般的意义，从而获得全民性，成为一般词语。"
+  },
+  {
+   "cn": "地层术语",
+   "en": "stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.023",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "各地层类别中使用的地层单位术语。可分为正式地层术语和非正式地层术语两类。"
+  },
+  {
+   "cn": "图书馆术语",
+   "en": "library terminology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "图书馆及相关领域用来表示概念的词或短语的集合。用来正确标记图书馆及其相关领域中的事物、现象、特性、关系和过程，具有专业性、系统性、单义性和科学性的特点。"
+  },
+  {
+   "cn": "术语服务",
+   "en": "terminology service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对词表元数据和词表内容以及其他知识组织资源（如规范文档、分类表等）进行浏览、查询、应用等各种万维网服务的统称。术语服务通过万维网应用程序接口（API）支持计算机对词表及其内容的访问和调用，是在网络环境"
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "信息抽取研究领域的一部分。目的是从给定语料中抽取出有关术语（表达概念的词语）及其定义。"
+  },
+  {
+   "cn": "术语标准",
+   "en": "terminology standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0893",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "以各种专用术语为对象所制定的标准。包括术语、定义(或解释性说明)和外文对应的词等。"
+  },
+  {
+   "cn": "术语库",
+   "en": "terminology bank",
+   "source": "语言学名词",
+   "wordNumber": "11.275",
+   "subjectFullName": "语言学_计算语言学_语言资源",
+   "subjectName": "语言资源",
+   "publishYear": "2011",
+   "definition": "存储专业术语的数据库。数据库中的每条记录是一个专业术语和与该术语有关的各种信息。例如，注释、类别、出处、语言学特征、其他语种的译名等。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.018",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典",
+   "en": "terminological dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。汇集某一学科或专业门类术语，并给出定义的词典。"
+  },
+  {
+   "cn": "技术主义",
+   "en": "technicism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "极端崇拜技术，把技术的作用完全理想化，忽视技术悖论，试图通过技术而获得最大经济利益。"
+  },
+  {
+   "cn": "正式地层术语",
+   "en": "formal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "根据地层规范，给予恰当定义和命名的地层单位术语。"
+  },
+  {
+   "cn": "非正式地层术语",
+   "en": "informal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.025",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "仅作为普通名称使用，而不属于已明确定义的地层单位术语。如砂质组、笔石带等。非正式地层单位术语不必给予地理专名。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "技术公报",
+   "en": "technical circular,technical bulletin",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.223",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "公开发表的、报道技术领域新进展的官方或非官方正式文告。"
+  },
+  {
+   "cn": "技术检验",
+   "en": "technical check,technical inspection",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.123",
+   "subjectFullName": "机械工程_汽车_汽车维修_检测",
+   "subjectName": "检测",
+   "publishYear": "2013",
+   "definition": "按规定的技术要求为确定汽车、总成及零部件技术状况所实施的检查。"
+  },
+  {
+   "cn": "技术规则",
+   "en": "technical rule; technical regulations",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.128",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "规范和调整技术行为的规范和原则，在现代社会中被内化为控制决策制定和组织结构，规范社会运行的潜在规则。"
+  },
+  {
+   "cn": "档案术语学",
+   "en": "studies of archival terminology",
+   "source": "档案学名词",
+   "wordNumber": "01.01.012",
+   "subjectFullName": "档案学_总论_档案学学科",
+   "subjectName": "档案学学科",
+   "publishYear": "2024",
+   "definition": "研究档案学专门用语规范化、标准化的理论和原则的档案学分支学科。"
+  },
+  {
+   "cn": "技术规程",
+   "en": "technical regulation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0391",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "设备、构件或产品的设计，制造，安装，维修，或使用介绍规程或程序的文件。可以是一项标准，一项标准的一部分或一项标准中的独立部分。"
+  },
+  {
+   "cn": "技术交底",
+   "en": "technical carificaiton",
+   "source": "风景园林名词",
+   "wordNumber": "03.0271",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "在某一工程单位工程开工前，或一个分项工程施工前，由相关专业技术人员向参与施工的人员进行的技术性交代，其目的是使施工人员对工程特点、技术质量要求、施工方法与措施和安全等方面有一个较详细的了解，以便于科学"
+  },
+  {
+   "cn": "技术设计",
+   "en": "technical design",
+   "source": "风景园林名词",
+   "wordNumber": "03.0318",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "根据批准的初步设计，为解决大型项目、技术复杂而又缺乏经验的项目的主要技术问题进行计算或实验，验证其功能、性能是否满足初步设计要求的设计阶段。是对初步设计阶段的补充和修正。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语[数据]库，专业词库",
+   "en": "terminological database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典，专业词典",
+   "en": "terminological dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地名术语",
+   "en": "terminology of geographical names",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "技术评估",
+   "en": "technical evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "技术服务",
+   "en": "technical service",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "技术标准",
+   "en": "technical standard",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①技术发明 ②技术创新",
+   "en": "technical invention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术费用",
+   "en": "technical fee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术服务",
+   "en": "technical service",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术改造",
+   "en": "technical betterment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术合作",
+   "en": "technical cooperation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术交换",
+   "en": "technical exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术结构",
+   "en": "technical structure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术签证",
+   "en": "technical visa",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术性贸易壁垒",
+   "en": "technical barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术性支出",
+   "en": "technical expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术性仲裁",
+   "en": "technical arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术援助",
+   "en": "technical assistance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人术语",
+   "en": "Robot Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网术语",
+   "en": "IoT Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据术语",
+   "en": "Big Data Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算术语",
+   "en": "Cloud Computing Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据术语标准",
+   "en": "data terminology standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术规则",
+   "en": "technical regulation\",\"technical rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理术语",
+   "en": "unstructured data management terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术架构",
+   "en": "technical architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术元数据",
+   "en": "technical metadata",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术风险",
+   "en": "technical risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术社群",
+   "en": "technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术标准",
+   "en": "Technical Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术犯规",
+   "en": "technical fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术代表",
+   "en": "technical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术代表",
+   "en": "technical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术监督",
+   "en": "technical supervisor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术代表",
+   "en": "technical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术优势",
+   "en": "technical superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terminology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "用于指称各类亲属的称谓制度。在一些民族中有对称和引称的区分。"
+  },
+  {
+   "cn": "默多克亲属制度分类法",
+   "en": "Murdock kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0405",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家默多克（George Peter Murdock）将世界所有的亲属称谓制度归纳为六类。①夏威夷式：夏威夷型的称谓只用性别和辈份来区分亲属，即同性别同辈分是一种称谓，同性别不同辈分或同辈分不"
+  },
+  {
+   "cn": "摩尔根亲属制度",
+   "en": "Morgan kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0403",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国民族学家摩尔根（Lewis Henry Morgan）是亲属制度的创始者，他先后在《人类家庭的血亲和姻亲制度》《古代社会》等名著中介绍和阐述了人类历史上存在过的三种亲属制度：马来亚式、图兰尼亚式和"
+  },
+  {
+   "cn": "罗维亲属制度",
+   "en": "Lowio kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0404",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家（Robert Lowie）以尊一辈的血亲为基础，辅以支系、旁系之别，提出“四分法”。①行辈型：把旁系的亲属称谓依辈分全部纳入直系的亲属称谓体系中。②二分合并式：把旁系的亲属称谓一分为二，"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technical determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0575",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家怀特（Leslie Alvin White）的核心思想。怀特认为，文化进化是普遍的，任何文化都可分为技术、社会组织和意识形态三种体系，其中技术体系是最基本的，决定着社会组织和意识形态体系的"
+  },
+  {
+   "cn": "技术效率",
+   "en": "technical efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "用最少的投入要素组合生产出既定的产品和服务，或既定成本产出最大的产品和服务的效率。"
+  },
+  {
+   "cn": "技术可及性",
+   "en": "technical accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，对医疗卫生服务技术可及的机会和条件是均等的特性。"
+  },
+  {
+   "cn": "技术性伤害",
+   "en": "technical harm",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0189999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "因医学技术发展水平的限制或使用不当而给患者或研究参与者造成的身心损害。"
+  },
+  {
+   "cn": "技术必要性",
+   "en": "technical needs",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.14",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂的使用符合食品安全标准所规定的一个或数个工艺目的，且这些目的不能通过经济和技术方面可行的其他手段实现，即在工艺和技术上确有使用的必要性"
+  },
+  {
+   "cn": "技术理性批判",
+   "en": "technical rationality critique",
+   "source": "马克思主义",
+   "wordNumber": "05.0023",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "西方马克思主义者对现代社会的批判内容之一。与大众文化批判、意识形态批判、心理机制批判相比，技术理性批判具有基础性地位。卢卡奇、马尔库塞和哈贝马斯等人都在技术理性批判方面有独到的贡献，其中马尔库塞的技术"
+  },
+  {
+   "cn": "资本技术构成",
+   "en": "technical composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0161",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本总量中生产资料数量同劳动力数量之间的比例，这种比例的大小，取决于生产技术的发展水平，故称为资本技术构成。资本技术构成反映劳动生产率的水平，表现为与资本价值构成。"
+  },
+  {
+   "cn": "放射卫生技术服务机构",
+   "en": "radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "为放射工作单位提供放射诊疗建设项目职业病危害放射防护评价、放射卫生防护检测，提供放射防护器材和含放射性产品检测、个人剂量监测等技术服务的机构。"
+  },
+  {
+   "cn": "放射卫生专业技术负责人",
+   "en": "technical director of radiological health",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "经放射卫生技术服务机构授权，全面负责放射卫生技术运作活动的人。"
+  },
+  {
+   "cn": "边际技术替代率",
+   "en": "marginal rate of technical substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在产量保持一定的前提条件下，增加一单位某种生产要素可以代替的另外一种要素的数量。"
+  },
+  {
+   "cn": "计划生育技术服务",
+   "en": "technical service of family planning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "使用手术、药物、工具、信息及其他计划生育技术手段，向育龄群众提供生育调节及其他相关生殖保健的一类服务。包括技术指导、宣传教育、咨询及相关临床医疗服务和科学研究。"
+  },
+  {
+   "cn": "卫生服务技术效率",
+   "en": "technical efficiency of health service",
+   "source": "社会医学名词",
+   "wordNumber": "8.5.2.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务提供",
+   "publishYear": "2025",
+   "definition": "在给定的卫生资源投入水平上获得最大的卫生服务产出的能力。它关注资源利用和生产过程本身的有效性。"
+  },
+  {
+   "cn": "食品用香精技术要求",
+   "en": "technical requirements for food flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "针对食品用香精的功能性、安全性指标的标准化规定，通常包括原料要求、感官要求、理化及微生物指标要求等"
+  },
+  {
+   "cn": "保健食品技术审评",
+   "en": "technical review of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.12",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由保健食品审评机构组织专家对保健食品产品的申请材料进行技术评审和评价，作出建议注册、或补充材料、或不予注册的审核结论。包括安全性审评、保健功能审评、生产工艺审评、产品技术要求审评等内容。"
+  },
+  {
+   "cn": "放射卫生技术服务专业人员",
+   "en": "professional of radiological health technical service",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "在放射卫生技术服务机构从事检测、评价等专业技术工作的人员。"
+  },
+  {
+   "cn": "计划生育技术服务机构",
+   "en": "technical service facility of family planning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "开展计划生育宣传教育、咨询指导和临床诊疗服务的机构，包括医疗保健机构及其他政府或非政府社会组织开设的非医疗服务机构。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

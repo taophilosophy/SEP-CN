@@ -1,0 +1,812 @@
+{
+ "key": "literary fiction",
+ "term": "literary fiction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:50:05+00:00",
+ "status": "ok",
+ "note": "variant=literary fiction; 审定公布名词库=4154; 海峡两岸名词对照库=972; 其他来源数据库=160; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "文字狱",
+   "en": "literary inquisition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.077",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "统治者从文人的作品中断章取义地摘取字句、罗织罪名所造成的各种冤假错案。此类文字的政治意涵常被过度解读或故意夸大。"
+  },
+  {
+   "cn": "文读",
+   "en": "literary reading",
+   "source": "语言学名词",
+   "wordNumber": "07.094",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "在文言语体或书面环境下使用的方言读法。"
+  },
+  {
+   "cn": "文读音",
+   "en": "literary pronunciation",
+   "source": "语言学名词",
+   "wordNumber": "07.095",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言区人们的读书音或由于外来强势方言的语音层次影响所产生的汉字发音。例如北京话“剥”字文读音是［po⁵⁵］。"
+  },
+  {
+   "cn": "文读层",
+   "en": "literary layer",
+   "source": "语言学名词",
+   "wordNumber": "07.096",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "由文读音的音类构成的语音层次。"
+  },
+  {
+   "cn": "文学旅游",
+   "en": "literary tourism",
+   "source": "地理学名词",
+   "wordNumber": "21.066",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "是以寻访与文学相关具有特殊意义的地点或场所为动机的旅游形式。"
+  },
+  {
+   "cn": "虚构主义",
+   "en": "fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.310",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学反实在论的形式。由菲尔德等人提出。主张数学对象是一种虚构物，数学理论不具有客观真理性。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "遗著",
+   "en": "literary remains,posthumous work",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.055",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "作者生前未发表的著作。"
+  },
+  {
+   "cn": "文献保证原则",
+   "en": "principle of literary warrant",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在编制分类表和进行文献分类时，依据实际存在的文献主题和文献数量设立和排列类目的原则。编列类目时，要结合文献的出版和入藏情况，以足够的文献作为设立类目的保障，使类目的数量和级别多少与文献数量的多少成正比"
+  },
+  {
+   "cn": "文白异读",
+   "en": "literary versus colloquial distinction",
+   "source": "语言学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言中来历相同、意义相同而由于语体不同所产生的一字两读或者多读现象。异读音中往往一个是文读音，另一个是白读音。例如北京话“剥”字文读音是［po⁵⁵］，白读音是［pɑu⁵⁵］。"
+  },
+  {
+   "cn": "文学艺术作品",
+   "en": "literary and artistic works",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.188",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "对社会生活进行形象的概括而创作的文学和艺术产品。"
+  },
+  {
+   "cn": "文艺团体",
+   "en": "literary and artistic group",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.187",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "主要反映当地戏剧、歌舞、曲艺、杂技的社会团体。"
+  },
+  {
+   "cn": "保护文学和艺术作品伯尔尼公约",
+   "en": "Berne Convention for the Protection of Literary and Artistic Works",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.028",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "关于著作权保护的国际条约，1886年9月9日于瑞士伯尔尼签订。世界上第一个由多个国家签订的国际著作权公约，是著作权领域最重要的国际公约，涉及领域广泛，包括基本原则、受保护作品、最低保护限度及对发展中国"
+  },
+  {
+   "cn": "桃花源",
+   "en": "Peach Blossom Land;fictional idyllic village isolated from the world",
+   "source": "风景园林名词",
+   "wordNumber": "02.0106",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "东晋陶渊明《桃花源记》中虚构的、理想的、与世隔绝的人间乐土。后世因以桃花源（或桃源、武陵源）喻避世隐居的胜境，成为园林布局的一种手法。"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "C臂CT",
+   "en": "C-arm computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "利用C臂带动X射线管和平板探测器围绕人体做旋转运动，探测器进行旋转采集，获得容积扫描数据，经计算机重建获得类似CT影像的一种技术。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "器官移植学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减的值。"
+  },
+  {
+   "cn": "文学旅游",
+   "en": "literary tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "函数库",
+   "en": "function library",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "裂变截面",
+   "en": "fission cross-section",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双三进制",
+   "en": "biternary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文库",
+   "en": "library",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "库",
+   "en": "library",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳查文库",
+   "en": "hopping library\",\"jumping library\",\"flying library",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "文字",
+   "en": "literal\",\"script",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双三进制码",
+   "en": "biternary code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文化程序设计",
+   "en": "literate programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互补DNA文库,cDNA文库",
+   "en": "complementary DNA library\",\"cDNA library",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因组文库",
+   "en": "genomic library",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黏粒文库",
+   "en": "cosmid library",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活法",
+   "en": "Literary Flexibility",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文章",
+   "en": "Literary Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太康体",
+   "en": "The Taikang Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正始体",
+   "en": "The Zhengshi Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "建安风骨",
+   "en": "The Jian'an Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "竟陵派",
+   "en": "The Jingling School of Literary Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公安派",
+   "en": "The Gong’an School of Literary Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "骨/肉",
+   "en": "Bones and Flesh / Literary Framework and Nuanced Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精理为文，秀气成采",
+   "en": "Produce Reasoning-based Writings with Graceful Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "夺胎换骨",
+   "en": "Express the Ideas in Earlier&nbsp;Literary Works in a New Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "点铁成金",
+   "en": "<div> Turning a Crude Poem or Essay into a Literary Gem</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文起八代之衰，道济天下之溺",
+   "en": "The Classical Style of Writing Revived the Literary Style in Decline During the Eight Dynasties; Confucianism Lifts the People out of Their Mental Plight.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文艺民俗学",
+   "en": "literary folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0483",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从民俗学的视角出发，解读和透视文艺作品、作家艺术家们的活动以及各种文艺现象的学科。"
+  },
+  {
+   "cn": "文学人类学",
+   "en": "literary anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0232",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学和文化人类学（民族学）两个不同学科的交叉与结合。具体而言，它体现为自觉运用和借鉴人类学的视野和模式，对各时代、各地区、各族群的各类文学作品、文学现象进行比较研究，提炼和总结人类文学普遍的内在模式、"
+  },
+  {
+   "cn": "无文字社会",
+   "en": "non-literary society",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "没有书面语言的族群或文化。一般拥有丰富的口述表达的传统。被认为是人类社会的雏形，比较孤立、人口少、技术简单、变化速度慢，在经济和政治功能方面具有相对的自给自足性、自律性和完整性。"
+  },
+  {
+   "cn": "文艺批评的政治标准与艺术标准的统一",
+   "en": "unity of the political criterion and the artistic criterion of literary criticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0459",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》讲话中提出的文艺批评的原则。文艺批评有政治和艺术两个标准,“任何阶级社会中的任何阶级,总是以政治标准放在第一位,以艺术标准放在第二位的”。这一原则强调政治"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "身体素养",
+   "en": "physical literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_身体素养",
+   "subjectName": "身体素养",
+   "publishYear": "2025",
+   "definition": "个体能维持终身体力活动参与的能力。需要的因素包括动机、信心、知识理解以及价值观和责任心。"
+  },
+  {
+   "cn": "健康素养",
+   "en": "health literacy",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.062000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个人获取和理解健康信息，并运用这些信息作出正确的判断和决定，维护和促进自身健康的能力。包括基本的健康知识和理念、健康的生活方式与行为、基本的健康技能等。"
+  },
+  {
+   "cn": "健康素养",
+   "en": "health literacy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体获取、理解、评价和应用基本健康信息与服务的能力，从而做出有助于维护和促进自身健康的决策与行为。"
+  },
+  {
+   "cn": "营养科学素养",
+   "en": "nutrition science literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "个体获取、处理以及理解基本营养信息，并作出正确营养和健康相关决策的能力。"
+  },
+  {
+   "cn": "学生健康素养",
+   "en": "student health literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "学生通过各种渠道获取健康信息，正确理解健康信息，并运用这些信息维护和促进自身健康的能力。"
+  },
+  {
+   "cn": "心理健康素养",
+   "en": "mental health literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "人们运用认识、处理和预防心理疾病的相关知识、信念和行为,维护和促进心理健康的能力。"
+  },
+  {
+   "cn": "成人识字率",
+   "en": "adult literacy rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.7",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "成人识字率",
+   "publishYear": "2025",
+   "definition": "15 岁以上的人口中识字者的百分比。反映人口文化素质和教育普及率的正向指标。"
+  },
+  {
+   "cn": "盖得派",
+   "en": "Guesde faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0326",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70—90年代，法国工人运动中以茹尔·盖得（Jules Guesde）和保尔·拉法格（Paul Lafargue）为首的革命派。该派坚持阶级斗争的观点，主张工人用革命方式夺取生产资料。80年代"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

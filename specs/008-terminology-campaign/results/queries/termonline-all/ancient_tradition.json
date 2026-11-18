@@ -1,0 +1,722 @@
+{
+ "key": "ancient tradition",
+ "term": "ancient tradition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:52:25+00:00",
+ "status": "ok",
+ "note": "variant=ancient tradition; 审定公布名词库=2602; 海峡两岸名词对照库=636; 其他来源数据库=48; 预公布名词数据库=381; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "古文字",
+   "en": "ancient script,ancient writing",
+   "source": "语言学名词",
+   "wordNumber": "02.026",
+   "subjectFullName": "语言学_文字学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "世界各民族在历史上创制的各种古代书写符号系统。包括古汉字、埃及圣书字、苏美尔楔形文字、美洲玛雅文字等。中国习惯上特指古汉字。"
+  },
+  {
+   "cn": "古镇名城",
+   "en": "ancient city",
+   "source": "风景园林名词",
+   "wordNumber": "04.0213",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "保存文物特别丰富并且具有重大历史价值或革命纪念意义，能较完整地反映一些历史时期的传统风貌和地方民族特色的城、镇。"
+  },
+  {
+   "cn": "古树",
+   "en": "ancient tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "树龄在100年以上的树木。"
+  },
+  {
+   "cn": "古代农业",
+   "en": "ancient agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "主要采用简单金属农具，以人力和畜力为基本动力，凭借初步经验从事生产活动的农业形态。"
+  },
+  {
+   "cn": "古代科学",
+   "en": "ancient science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "16世纪以前的自然科学。包括古希腊、古代中国、古印度和中世纪阿拉伯的科学。建立在直观基础上，大多属于现象的描述、经验的总结和猜测性的思辨，在形式上是直觉的、零散的。"
+  },
+  {
+   "cn": "古代农业",
+   "en": "ancient agriculture",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.263",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "使用铁木农具，利用人力、畜力和自然肥料，主要凭借世代积累的直接经验从事生产活动的农业。由原始农业发展而来，历经漫长时期。在中国常被称为传统农业。"
+  },
+  {
+   "cn": "古代工程",
+   "en": "ancient engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.085",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "18世纪英国工业革命之前的人类工程活动形态。主要依靠人力、畜力和自然力对天然材料进行初步改造或加工以满足自身需求。"
+  },
+  {
+   "cn": "古地台",
+   "en": "ancient platform",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0297",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "基底在前寒武纪就结束地槽旋回转化的地台。 "
+  },
+  {
+   "cn": "古陆",
+   "en": "ancient land",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0299",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "自前寒武纪时期以来没有再受过剧烈地壳变动影响的大陆最古老部分。 "
+  },
+  {
+   "cn": "古岩溶",
+   "en": "ancient karst",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "非现代营力环境下形成的岩溶。 "
+  },
+  {
+   "cn": "古地图",
+   "en": "ancient map",
+   "source": "测绘学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "公元16世纪前历代制作的各种地图，包括保存下来的文献中有所记载的地图。"
+  },
+  {
+   "cn": "古卷",
+   "en": "ancient scroll",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.114",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "采用卷装形式的古代文献。中西方都有卷装的图书形制，有的有轴，有的无轴，形式不一。西式古卷一般左右两端都有轴，中式古卷一般只有左端有轴。"
+  },
+  {
+   "cn": "炒炼法",
+   "en": "ancient Puddling",
+   "source": "冶金学名词",
+   "wordNumber": "05.1017",
+   "subjectFullName": "冶金学_钢铁冶金_炼钢",
+   "subjectName": "炼钢",
+   "publishYear": "2019",
+   "definition": "熔化生铁后在空气中反复翻炒以去除铁中的碳，同时多次取出金属锻打挤出夹带的渣滓，最后制成熟铁或钢的一种古代冶炼法。"
+  },
+  {
+   "cn": "古代侵蚀",
+   "en": "ancient erosion",
+   "source": "林学名词",
+   "wordNumber": "08.021",
+   "subjectFullName": "林学_水土保持与荒漠化防治_水土保持",
+   "subjectName": "水土保持",
+   "publishYear": "2016",
+   "definition": "人类出现前的漫长地质时期所发生的侵蚀过程。"
+  },
+  {
+   "cn": "古代埃勃拉",
+   "en": "Ancient Ebla",
+   "source": "世界历史名词",
+   "wordNumber": "02.0182",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "约存在于公元前3000年代后期至公元前2000年代初的一个叙利亚古国。"
+  },
+  {
+   "cn": "古代腓尼基",
+   "en": "Ancient Phoenicia",
+   "source": "世界历史名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "亚洲西南部古代地中海沿岸一个擅长航海的民族建立的城邦国家。"
+  },
+  {
+   "cn": "古代马其顿",
+   "en": "Ancient Macedonia",
+   "source": "世界历史名词",
+   "wordNumber": "02.0361",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "公元前5世纪至前2世纪古代希腊大陆北部的奴隶占有制国家。"
+  },
+  {
+   "cn": "古义",
+   "en": "ancient meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "词所反映的客观事物或现象在古代产生而今天已不再使用的意义。词的古义与词的今义相对而言，指词在古时使用的意义，可以是原始义或本义，也可以是引申义，但一般只见于古代汉语，有的也残留到现代汉语中。例如“兔走"
+  },
+  {
+   "cn": "古代生物分子",
+   "en": "ancient biomolecule",
+   "source": "古生物学名词",
+   "wordNumber": "06.0014",
+   "subjectFullName": "古生物学_地球生物学与分子古生物学_地球生物学",
+   "subjectName": "地球生物学",
+   "publishYear": "2009",
+   "definition": "明确来源于古代生物体的有机分子。包括从化石体中直接获得的原位古代生物分子和从地质体内分离出的游离有机分子。"
+  },
+  {
+   "cn": "古DNA",
+   "en": "ancient DNA",
+   "source": "古生物学名词",
+   "wordNumber": "06.0023",
+   "subjectFullName": "古生物学_地球生物学与分子古生物学_分子古生物学",
+   "subjectName": "分子古生物学",
+   "publishYear": "2009",
+   "definition": "从考古材料、古生物化石、生物遗体、遗迹及沉积物中获得取的古代生物DNA分子。主要来源于博物馆标本、特殊条件下(如琥珀、永久冻土等)保存的古生物组织及法医样品。"
+  },
+  {
+   "cn": "古代文化遗产",
+   "en": "ancient heritage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "古地图",
+   "en": "ancient map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "古地图",
+   "en": "ancient map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "传统陶瓷",
+   "en": "traditional ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统病",
+   "en": "traditional diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统语法",
+   "en": "traditional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传统药",
+   "en": "traditional drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "传承字",
+   "en": "traditional Hanzi\",\"traditional Chinese character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地域研究传统",
+   "en": "area studies tradition",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统熔融法",
+   "en": "traditional fusion method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统出口商品",
+   "en": "traditional export commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传统海洋产业",
+   "en": "traditional marine industry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传统区域经济学",
+   "en": "traditional regional economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中药",
+   "en": "traditional Chinese drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "始祖保守区",
+   "en": "ancient conserved region\",\"ACR",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "古乐音乐会",
+   "en": "concert of ancient music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "古城遗址",
+   "en": "ruins of ancient city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "古沙丘",
+   "en": "fossil dune\",\"ancient sand dune",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方寸匕",
+   "en": "tool for weighing medicine in ancient China",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辐射事故",
+   "en": "radiation accident",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中医治疗",
+   "en": "TCM (traditional Chinese medicine) therapy",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法先王",
+   "en": "Follow the Examples of Ancient Kings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家中医药管理局",
+   "en": "National Administration of Traditional Chinese Medicine (NATCM)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经世致用",
+   "en": "Study of Ancient Classics Should Meet Present Needs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统金融机构智慧化",
+   "en": "application of smart technology in traditional financial institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推动中华优秀传统文化创造性转化、创 新性发展",
+   "en": "promoting innovative transformation and development of traditional Chinese culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《中医药“一带一路”发展规划（2016–2020年）》",
+   "en": "Belt and Road Development Plan for Traditional Chinese Medicine (2016‒2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丑",
+   "en": "Ugliness/ Chou (Role of Clown in a Traditional Chinese Opera)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气往轹古",
+   "en": "A Piece of Writing with Appeal Surpasses That of Ancient Writers.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红色资源",
+   "en": "the Red Resources (sites and heritage related to the revolutionary traditions of the CPC)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统",
+   "en": "tradition",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在现代化理论中与“现代”相对的一种农业的、乡村的、专制的、落后的社会状态。"
+  },
+  {
+   "cn": "古代社会",
+   "en": "ancient society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "与近、现代社会相区别，近、现代以前的过去时代的文明社会。西方历史中特指中世纪之前的文明社会。"
+  },
+  {
+   "cn": "古代城市",
+   "en": "ancient city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "出现于约10000年以前的城市形态。其主要标志包括：定居点或永久性建筑、较密集的人口聚集、相对简单的贸易活动及初步的社会分化（劳动分工和权力结构）。"
+  },
+  {
+   "cn": "古代",
+   "en": "ancient world",
+   "source": "马克思主义",
+   "wordNumber": "04.0043",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通指奴隶制时代，从开始出现阶级分化到奴隶制瓦解。广义的古代也包括原始公社制时代。因各国、各民族发展不同，无统一界限。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "小传统",
+   "en": "little tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "复杂社会中具有地方社区或地域性特色的文化模式。由美国人类学家雷德菲尔德(R.Redfield）于1956年首先创用。与“大传统”相对。"
+  },
+  {
+   "cn": "口头传承",
+   "en": "oral tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "无文字社会的主要信息来源及有文字社会集体心性的重要媒介。以耳听口传为特征的表述通过多人参与，依赖于话语场及说、听双方的互动实现的传递。大部分情况下声音的传递是在有多数听众场合下的集体传递，而且信息反复"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "口头传统",
+   "en": "oral tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0333",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在一个民族中长期口耳相传的口头文化表达形式，如史诗、叙事诗、歌谣、说唱、神话、传说、故事等口头文类以及与之相关的表达文化和口头艺术，它不仅是民族文化传统的重要组成部分，也是全人类共同的文化遗产和精神财"
+  },
+  {
+   "cn": "文化传统",
+   "en": "cultural tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0034",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个国家、民族在历史中形成的具有相对稳定性的文化精神和文化价值成分，贯穿于一个国家、民族各个历史阶段的各类文化之中，是一种民族文化区别于其他民族文化的重要标志。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "世代相传的社会文化因素在社会建构中获得沿袭并占有突出地位、人们的行为主要受此影响的前现代社会。与“现代社会”相对。"
+  },
+  {
+   "cn": "传统教育",
+   "en": "traditional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "泛指在一定历史时期形成的流行的、具有影响的教育思想、制度和方法。"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0012",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自给自足的自然经济为基础和家庭伦理关系为基本纽带的前工业化社会形态，与现代社会相对应。"
+  },
+  {
+   "cn": "大传统与小传统",
+   "en": "great tradition and small tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0553",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家雷德菲尔德（Robert Redfield）提出的一种二元分析框架，用来说明在复杂社会中存在的两个不同文化层次的传统。大传统是指以城市为中心，社会中少数上层人士、知识分子所代表的文化；小传"
+  },
+  {
+   "cn": "中国古代伦理学",
+   "en": "ancient chinese ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.166",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "中国古代的伦理思想。以个体美德的实现为主要导向，具有尚仁、重礼、崇义、贵和等特征。主要包括儒家伦理、道家伦理和佛教伦理等思想分支。"
+  },
+  {
+   "cn": "五尺道",
+   "en": "Wuchi Ancient Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0332",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "古道路名。秦统一中国后，秦始皇派遣将军常頞率军修筑此道，旨在有效控制夜郎、滇等地所置郡县。其线路自蜀南下，经僰道（今四川宜宾）、朱提（今云南昭通）直至滇池（昆明）。沿途山势陡峭，因道宽仅五尺，故名。"
+  },
+  {
+   "cn": "南夷道",
+   "en": "Nanyi Ancient Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0333",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "古道路名。为加强对西南民族地区之统治，汉武帝采纳唐蒙建议，修筑从僰道（今四川宜宾）南行至夜郎牂牁江（今北盘江）之道路。夜郎在今贵州西部；由此再往南，沿江可至南越地区（今广东南海）。"
+  },
+  {
+   "cn": "家风",
+   "en": "family tradition/customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0147",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一个家族的传统风习，是在家长或主要成员影响下自然形成、潜移默化的传统习惯和生活作风，且代代相承，相沿不更，具有很大的稳定性和封闭性。家族成员在习以为常、约定俗成的生活方式中，达成自然的默契和一致，在家"
+  },
+  {
+   "cn": "中国传统节日",
+   "en": "traditional Chinese festivals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0172",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中华民族的古老传统节日，涵盖了原始信仰、祭祀文化、天文历法、易理术数等人文与自然文化内容，蕴含着深邃丰厚的文化内涵。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

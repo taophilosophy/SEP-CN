@@ -1,0 +1,792 @@
+{
+ "key": "desire satisfaction",
+ "term": "desire satisfaction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:57:01+00:00",
+ "status": "ok",
+ "note": "variant=desire satisfaction; 审定公布名词库=2483; 海峡两岸名词对照库=443; 其他来源数据库=69; 预公布名词数据库=81; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "顾客在比较其对产品服务品质的期望与实际感受后，所感觉的一种愉悦或失望的程度。反映的是顾客的一种心理状态。"
+  },
+  {
+   "cn": "约束满足",
+   "en": "constrained satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "变量集合中所有变量的取值使得约束集中的每个约束都成立，或更进一步，并使目标函数最大化。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "work satisfaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.094",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对自己的工作能够获得最好结果评估的情绪和情感期待。它源自对个体的工作或者工作经历评估的一种快乐或积极的情绪状态。五个维度代表组织成员情感反应的重要特征：(1)工作为个体提供有趣的任务、学习的机"
+  },
+  {
+   "cn": "性满足",
+   "en": "sexual satisfaction",
+   "source": "行为医学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "由性快感趋于性高潮的极度快慰、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "性满足",
+   "en": "sex satisfaction",
+   "source": "计划生育名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "由性快感趋于性高潮的极度愉悦、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "读者满意度",
+   "en": "reader satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "读者在接受图书馆一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "用户满意度",
+   "en": "user satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.264",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户在接受图书情报机构一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务被感知到的绩效表现达成购买者期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0103",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对工作的信念、评价和情感反应。"
+  },
+  {
+   "cn": "满意度",
+   "en": "satisfaction degree",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0444",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "衡量“满意”这一心理状态的指标。例如社会保障满意度，是指社会保障服务对象对政府及其社会保障服务机构提供社会保障资金和服务的供给能力、服务方式和客观效果的满意程度。"
+  },
+  {
+   "cn": "术后满意度",
+   "en": "postoperative satisfaction",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对手术效果的满意程度。"
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "心理学名词",
+   "wordNumber": "12.025",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对工作的满意程度。"
+  },
+  {
+   "cn": "满意度评价",
+   "en": "satisfaction evaluation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "以接受服务者的需要是否被满足作为客观评价的尺度，是终末质量评价的一种方法。"
+  },
+  {
+   "cn": "患者满意度",
+   "en": "patient satisfaction",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由患者主观判断获得的卫生服务满足其需求和期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "教育学名词",
+   "wordNumber": "15.132",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "个体对于工作及其相关因素的实际感受与工作期望值的对比。"
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "膀胱壁的感受器受到刺激后冲动上传到脑干和大脑皮质高级中枢产生的排尿感觉。生理性见于膀胱尿量充盈到一定程度时（400～500ml）。肿瘤压迫膀胱也可产生尿意。"
+  },
+  {
+   "cn": "便意",
+   "en": "defecation desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "直肠壁内的感受器受到刺激后冲动上传到达大脑皮质高级中枢所产生的排便感觉。肿瘤压迫直肠也可引起便意。"
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "生理学名词",
+   "wordNumber": "08.123",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "计划生育名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "进行性活动的欲望。是人类进入青春期之后常见的生理、心理现象。"
+  },
+  {
+   "cn": "智能体的愿望",
+   "en": "agent desire",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0164",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体希望达到或者希望保持的状态。"
+  },
+  {
+   "cn": "期望",
+   "en": "desire",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯满意度",
+   "en": "career satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赎回价格",
+   "en": "satisfaction price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "约束满足",
+   "en": "constraint satisfaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "目标值",
+   "en": "desired value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "目标产物",
+   "en": "desired product",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会称许性",
+   "en": "social desirability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "清偿债务备忘录",
+   "en": "memorandum of satisfaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "性欲望障碍",
+   "en": "sexual desire disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安格尔布雷什特",
+   "en": "Inghelbrecht\",\"Desire Emile(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念-期望-意图模型",
+   "en": "belief-desire-intention model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念-欲望心智理论",
+   "en": "belief desire theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "欲",
+   "en": "Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寡欲",
+   "en": "Restraining Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费满意度",
+   "en": "financial consumer satisfaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊",
+   "en": "Quiet Living with No Worldly Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲则刚",
+   "en": "People with No Covetous Desires Stand Upright.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "retire\",\"withdraw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "retire\",\"withdraw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  },
+  {
+   "cn": "满足的极限",
+   "en": "limits to satisfaction",
+   "source": "马克思主义",
+   "wordNumber": "05.0082",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "威廉·莱斯（William Leiss）《满足的极限》从需要、商品和消费的关系出发，研究了发达工业社会中人的需要问题，他认为工业社会将人的需要的满足完全导向于对商品的最大限度的消费与满足。他提出人们应"
+  },
+  {
+   "cn": "卫生服务满意度",
+   "en": "health service satisfaction",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.12",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "居民在卫生服务需求被满足后产生的愉悦感，是对卫生服务期望与实际体验之间关系的反映，即是在接受预防、医疗、康复、健康促进等卫生服务后，对其所获得服务的体验、过程和结果的主观感受的满意程度。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有管腔，其直径≥2mm，且其腔体中的任何一点距其与外界相通的开口处的距离不大于其内直径的1500倍的器械。一般指由软管、硬管（单管或同轴组合）组成的器械，清洗时需使用专用的连接器与清洗消毒器连接。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "研究设计",
+   "en": "research design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "论证一项具体研究的问题、假设或命题，以及研究的方法论和方法的逻辑、结构和原则的方案或策略。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "有计划的把实验对象随机分配到不同的组别，根据它们的组别对它们进行不同程度的处理，观测处理效果，并运用统计分析方法确定处理与变异间关系的研究设计方式。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "按照随机化的原则，将研究对象分为实验组和对照组，分别观察两组在干预前后的变化情况，再对变化情况进行分析后得出结论的研究方法。"
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "聚敛式设计",
+   "en": "convergent design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "同时收集和分析定量数据及定性数据，并比较两种结果，对两种数据进行聚合分析（或用两种数据结果相互验证）的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "宫内节育器",
+   "en": "intrauterine device, IUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由医生采用无菌技术放置入宫腔的避孕器具。该器具通过改变/抑制精子移动和卵子运输起作用，并作为异物引起无菌性炎症反应使胚泡着床受阻。是一种安全、高效、长效及可逆的避孕措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

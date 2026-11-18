@@ -1,0 +1,112 @@
+{
+ "key": "nothingness",
+ "term": "nothingness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:54:48+00:00",
+ "status": "ok",
+ "note": "variant=nothingness; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=5; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "独享型体系结构",
+   "en": "shared-nothing architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0107",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "并行数据库系统中每台计算机具有独立的处理器、内存、磁盘和操作系统。必要时才与其他计算机通信的一种体系结构。"
+  },
+  {
+   "cn": "无共享多处理机系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0065",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机类型",
+   "subjectName": "计算机类型",
+   "publishYear": "2018",
+   "definition": "一种多处理机系统，每个处理机都是一个单独、自给的机器，不共享系统主存或磁盘等资源，运行操作系统的一个副本，处理机之间靠通信联系。"
+  },
+  {
+   "cn": "有或无继电器",
+   "en": "all-or-nothing relay",
+   "source": "电气工程名词",
+   "wordNumber": "14.046",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "万法唯识",
+   "en": "wan fa wei shi;everything is the transformation of Vijñāna;all phenomena are nothing but mind",
+   "source": "中国古代史名词",
+   "wordNumber": "5.251",
+   "subjectFullName": "中国古代史_隋唐五代_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "中国佛教宗派唯识宗的主要教理。认为一切现象均非客观存在，而是依赖主观意识，由心识转化而成，其终极根源在于第八识阿赖耶识。"
+  },
+  {
+   "cn": "无共享的多处理器系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无往不复",
+   "en": "Nothing That Disappears Fails to Reappear.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "顺无不行，果无不彻",
+   "en": "When What You Say Is Justified, There Is Nothing You Cannot Accomplish. When You Act Decisively, You Will Succeed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

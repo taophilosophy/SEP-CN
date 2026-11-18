@@ -1,0 +1,752 @@
+{
+ "key": "another instance",
+ "term": "another instance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:00:21+00:00",
+ "status": "ok",
+ "note": "variant=another instance; 审定公布名词库=880; 海峡两岸名词对照库=438; 其他来源数据库=117; 预公布名词数据库=155; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "又音",
+   "en": "another pronunciation",
+   "source": "语言学名词",
+   "wordNumber": "09.151",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "古代注音用语。指某字另外的读音。某个多音字，先注明一个读音，其他读音再用“又音某”或者“又某某切”注出。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "yacc编译器",
+   "en": "yet another compiler compiler,yacc",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0078",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种用来生成编译器的编译器。它接受文法以及和文法规则相联系的动作作为输入，生成能分析该文法所描述语言的语法分析程序。"
+  },
+  {
+   "cn": "相杀",
+   "en": "counteract toxicity of another drug",
+   "source": "兽医学名词",
+   "wordNumber": "19.301",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "一种药物能减轻或消除另一种药物的毒性或副作用的配伍关系。"
+  },
+  {
+   "cn": "相杀",
+   "en": "counteract toxicity of another drug",
+   "source": "中医药学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "一药能减轻或消除另一药毒性或副作用的配伍关系。"
+  },
+  {
+   "cn": "互见中",
+   "en": "in sight of one another",
+   "source": "航海科技名词",
+   "wordNumber": "09.0170",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "JAK激酶",
+   "en": "just another kinase,Janus kinase,JAK",
+   "source": "免疫学名词",
+   "wordNumber": "2.692",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "非受体型蛋白酪氨酸激酶家族。包括JAK1、JAK2、JAK3、Tyk2四个成员，在细胞因子受体超家族成员的信号转导中发挥重要作用。"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0072",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一阶逻辑的一类定理证明方法。通过生成实例、在命题逻辑中检查不可满足性来证明一阶逻辑问题的不可满足性，从而证明一阶逻辑表述的相应定理。"
+  },
+  {
+   "cn": "倒罐",
+   "en": "transportation oil from one tank to another",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.177",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "用泵或压缩机通过工艺管道，将一个储罐内的油品抽出并存入另一个储罐的过程。"
+  },
+  {
+   "cn": "过经",
+   "en": "disease transmitting from one channel to another",
+   "source": "中医药学名词",
+   "wordNumber": "03.791",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "伤寒六经病证中，邪离本经，传入他经。"
+  },
+  {
+   "cn": "并病",
+   "en": "disease of one channel involving another channel",
+   "source": "中医药学名词",
+   "wordNumber": "03.794",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "伤寒一经病变未解，又出现另一经的病变，两经病证同时存在。"
+  },
+  {
+   "cn": "起兴",
+   "en": "reference to one thing to introduce another thing",
+   "source": "语言学名词",
+   "wordNumber": "08.087",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞方法的一种。先言他物以引起所咏之辞，一般用于诗文的开头以加强语言表现力。有比喻、创造意境、押韵等作用。例如，“一对对山羊串串走，谁和我相好手拉手。”用“山羊”起兴，引起谁和我相好之事。"
+  },
+  {
+   "cn": "嵌字",
+   "en": "Chinese characters or words embedded for another implication",
+   "source": "语言学名词",
+   "wordNumber": "08.230",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "镶嵌的一种。把特定的字或词嵌入句中，以暗含另一层意思。例如，“苦旱唤雷雨。日出怜梦沉。寄情蜕变日。长忆北京人。”嵌进曹禺的四个剧本名。"
+  },
+  {
+   "cn": "国际联运车辆过轨",
+   "en": "transferring of car from one rail-way to another for international  through traffic",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0194",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "三星一线",
+   "en": "the moon and another celestial body with the earth arrange along a straight line",
+   "source": "地球物理学名词",
+   "wordNumber": "11.0051",
+   "subjectFullName": "地球物理学_灾害学",
+   "subjectName": "灾害学",
+   "publishYear": "2022",
+   "definition": "由月亮、地球与另一天体构成一条线，或者由太阳、地球与另一天体构成一条线的现象。另一天体是指黄道面的七大行星或黄道面的一等亮星。 "
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相互接近",
+   "en": "approaching one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "互见中",
+   "en": "in sight of one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互见中的船舶",
+   "en": "vessel in sight of one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相杀",
+   "en": "counteract the toxicity of another drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "花药",
+   "en": "anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "底着药（=基着药）",
+   "en": "basifixed anther\",\"innate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基着药，底着药",
+   "en": "basifixed anther\",\"innate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背着药",
+   "en": "dorsifixed anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单室花药",
+   "en": "unilocular anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丁字药",
+   "en": "versatile anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶着药",
+   "en": "apicifixed anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "个字药",
+   "en": "divergent anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广歧药",
+   "en": "divaricate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花药壁",
+   "en": "anther wall",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花药培养",
+   "en": "anther culture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离室药",
+   "en": "distractile anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "允许再次试举",
+   "en": "grant another attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干扰其他船只",
+   "en": "interfere with another boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转院",
+   "en": "to transfer to another hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推己及人",
+   "en": "Put Oneself in Another’s Place",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他山之石，可以攻玉",
+   "en": "Use Stones from Another Mountain to Polish One’s Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "父母之邦",
+   "en": "Mother Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克会歌",
+   "en": "Olympic anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长跑运动员",
+   "en": "distance man\",\"long-distance runner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "他者",
+   "en": "other",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的研究对象，在学科发展的不同时空语境下有不同的所指。因他者作为主体以外的一个不熟悉的对立面的客体存在，主体的权威才得以界定。基于这样的思想指导下，早期的人类学家以异文化研究为主，试"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "只有子女，无法定配偶的女性，包括未婚妈妈，离异妈妈，丧偶妈妈。"
+  },
+  {
+   "cn": "母语",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0145",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话人认同的所属民族的语言，通常也是个人出生后首先习得并熟练掌握的语言。"
+  },
+  {
+   "cn": "母方言",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0066",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "个人出生后首先习得并熟练掌握的所属地区的方言，有别于民族共同语或标准语。"
+  },
+  {
+   "cn": "其他类罐头",
+   "en": "other cans",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "不属于上述畜肉类、禽类、水产类、水果类、蔬菜类等类别的罐藏食品。"
+  },
+  {
+   "cn": "其他残疾",
+   "en": "other disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "除言语残疾、视力残疾、智力残疾、听力残疾、肢体残疾、精神残疾、多重残疾以外的残疾。"
+  },
+  {
+   "cn": "其他食品",
+   "en": "other food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "其他类饮料",
+   "en": "other beverages",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "包装饮用水、果蔬汁类及其饮料、蛋白饮料、碳酸饮料、特殊用途饮料之外的饮料。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "社会本能",
+   "en": "social instinct",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类在长期共同生活中通过进化形成的、不学就会的种种进行共同生活的本性和能力。如道德心、民族情感、群体意识（合群性）、同胞友爱等。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

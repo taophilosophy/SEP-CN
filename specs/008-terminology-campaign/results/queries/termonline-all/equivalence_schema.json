@@ -1,0 +1,702 @@
+{
+ "key": "equivalence schema",
+ "term": "equivalence schema",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:49:27+00:00",
+ "status": "ok",
+ "note": "variant=equivalence schema; 审定公布名词库=885; 海峡两岸名词对照库=244; 其他来源数据库=14; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "行为医学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种特殊的心理结构。是帮助人知觉、组织、获得和利用信息的认知结构。"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0007",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的结构与特征的具体表示与描述。其反映了数据内在结构与数据间的关系。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "心理学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为图式指一种特殊的心理结构，或一种组织起来的理解经验的方式。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "档案学名词",
+   "wordNumber": "06.02.009",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "表示元数据元素之间关系的逻辑架构。规定元数据的使用及管理规则，尤其是关于语义、语法及赋值的规则。"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.539",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在与环境交互的认知过程中，一系列以自己的身体为意向对象的意向状态。如知觉、心理表征及信念等的复合。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.897",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "包括描述、管理、服务、保存等各种元数据规范，以及元数据著录、置标、映射交换等应用规范在内的完整的元数据解决方案。"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库用户的数据视图。即与某一应用有关的数据的逻辑表示。"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0323",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "通过调整模式设计来改善数据库的查询和修改性能。"
+  },
+  {
+   "cn": "模式定理",
+   "en": "schema theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0291",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "遗传算法中，一个部分位置上的基因已经确定，而其他位置上的基因视作空缺参数的染色体模板称为模式。具有阶数低、长度短，并且适应值高的模式将按指数级增长。"
+  },
+  {
+   "cn": "模式演化",
+   "en": "schema evolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0491",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据模式随时间、环境的变化。"
+  },
+  {
+   "cn": "工作流模式",
+   "en": "workflow schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0163",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "用工作流模型中的概念对一个实际业务处理流程进行的抽象描述。"
+  },
+  {
+   "cn": "内模式",
+   "en": "internal schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据的物理结构和存储方式的描述。"
+  },
+  {
+   "cn": "模式集成",
+   "en": "schema integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0492",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "异构多数据源在模式层面的集成。"
+  },
+  {
+   "cn": "关系模式",
+   "en": "relational schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0025",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "对关系的逻辑结构和特征的描述。"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的整体逻辑结构的描述。"
+  },
+  {
+   "cn": "雪花模式",
+   "en": "snowflake schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0505",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据仓库环境中表之间的逻辑组合方式。在实体关系图中这些表组成类似雪花的形状。"
+  },
+  {
+   "cn": "星型模式",
+   "en": "star schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0358",
+   "subjectFullName": "计算机科学技术_数据库_特种数据库",
+   "subjectName": "特种数据库",
+   "publishYear": "2018",
+   "definition": "在数据仓库环境中的一种表的组织方式。包括一个或多个事实表，以及多个关联的维表。"
+  },
+  {
+   "cn": "星座模型",
+   "en": "constellation schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0367",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "多个事实表共享维表的多维数据模型。"
+  },
+  {
+   "cn": "雪花模式",
+   "en": "snowflake schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0366",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "将维表分解为与事实表直接关联的主维度表和与主维度表直接关联而与事实表间接关联的次维度表的星型模式的变种。"
+  },
+  {
+   "cn": "星型模式",
+   "en": "star schema",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0365",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "由一个包含主题的事实表(中央表)和多个以中央表为中心呈放射状分布的非统一规范的维表构成的多维数据模型。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "采样模式，抽样模式",
+   "en": "sampling schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类模式",
+   "en": "classification schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据模式",
+   "en": "data schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元数据模式",
+   "en": "metadata schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质量模式",
+   "en": "quality schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换模式",
+   "en": "transformation schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "等价物",
+   "en": "equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0059",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在价值表现中处于等价形式上的商品。等价物随着价值形式的发展而发展。比如，20码麻布=1件上衣，麻布的价值相对地表现出来，处于相对价值形式，上衣则起等价物的作用或说处于等价形式。"
+  },
+  {
+   "cn": "实质等同性",
+   "en": "substantial equivalence",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.34",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于比较相对安全的风险评估原则，若某个新食品或食品成分与现有的食品或食品成分大体相同，则可认为具有相同的安全性。最早由经济合作与发展组织（OECD)提出用于转基因食品，作为预防风险的补充；现已扩展到食"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "辐射R在器官或组织T中产生的平均吸收剂量DT,R与辐射R的辐射权重因数wR的乘积。符号为HT,R。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量（D）与该点特定辐射的品质因数（Q）的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.31",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用铅作为参考物质时，用铅的厚度来表示的某种物质衰减当量。单位为毫米铅（mm Pb）。"
+  },
+  {
+   "cn": "铝当量",
+   "en": "aluminum equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.19",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "用铝作为参考物质时，用铝的厚度来表示的某种物质衰减当量。单位为毫米铝（mm Al）。"
+  },
+  {
+   "cn": "等效能量",
+   "en": "equivalent energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "与所考虑的多能量辐射有相当特性的单能量辐射的能量。"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0035",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同使用价值按照由社会必要劳动时间决定的价值量进行等量互换的交易行为，是商品经济的基础法则。市场价格围绕市场价值的运动，使价格在趋势上与价值趋于一致，是等价交换原则的表现形式。"
+  },
+  {
+   "cn": "一般等价物",
+   "en": "universal equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0065",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展到一般价值形式时的表现形式，是从商品界分离出来表现其他一切商品价值的商品。随着商品交换的发展，经常出现并成为人们普遍乐意接受的某种商品便逐渐自发地从商品界分离出来，成为一般等价物。"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0066",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在扩大的相对价值形式中，处于等价形式上的一切商品。即在“20码麻布=1件上衣，或=10磅茶叶，或=40磅咖啡，或=其他”这一总和的或扩大的价值形式中，除20码麻布以外的一切商品就都获得了特殊等价物的形"
+  },
+  {
+   "cn": "个别等价物",
+   "en": "individual equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0067",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与个别的简单相对价值形式相对应并表现其它价值的另一个商品，即处于个别等价形式的商品。如在“20码麻布=1件上衣”这一简单相对价值形式中，麻布则是作为个别等价物起作用。"
+  },
+  {
+   "cn": "等效球镜",
+   "en": "spherical equivalent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "“柱镜度数/2+球镜度数”的计算结果。"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.25",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "辐射在器官或组织内产生的平均吸收剂量与辐射权重因数的乘积，符号为希沃特（Sv），单位是J/kg。代表低水平电离辐射对人体（包括辐照食品工作人员）的随机健康影响的剂量学量。"
+  },
+  {
+   "cn": "梯恩梯当量",
+   "en": "TNT equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.42",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "用常规化学炸药梯恩梯(TNT)爆炸威力表示的核爆炸释放的能量威力。"
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_环境冷强度",
+   "subjectName": "环境冷强度",
+   "publishYear": "2025",
+   "definition": "表示与某一有风环境的寒冷程度相当的无风环境的气温。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.26",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量D 与该点特定辐射的品质因子的乘积，符号为希沃特（Sv），单位是J/kg。衡量电离辐射时人体（包括辐照食品工作人员）危害程度的一个物理量。只限于在辐射防护中使用，而不能用于高水平"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "某一组织或器官的平均吸收剂量按辐射权重因子加权的量。"
+  },
+  {
+   "cn": "毒性当量",
+   "en": "toxicity equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价某个化合物异构体的相对毒性强度或健康影响程度的计算和指标"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

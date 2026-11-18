@@ -1,0 +1,542 @@
+{
+ "key": "latin translations",
+ "term": "Latin translations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:58:25+00:00",
+ "status": "ok",
+ "note": "variant=Latin translations; 审定公布名词库=282; 海峡两岸名词对照库=117; 其他来源数据库=14; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "拉丁语",
+   "en": "Latin",
+   "source": "世界历史名词",
+   "wordNumber": "02.0491",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "公元前7世纪，由拉丁人创造并由罗马人使用的一种字母语言。"
+  },
+  {
+   "cn": "拉丁十字形",
+   "en": "Latin cross",
+   "source": "建筑学名词",
+   "wordNumber": "03.0338",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "三面臂长相等，一面臂长较长的十字形。罗马时期开始在教堂建筑平面中盛行，到哥特时期，更被视为唯一正统的天主教堂的型制。"
+  },
+  {
+   "cn": "拉丁美洲",
+   "en": "Latin America",
+   "source": "世界历史名词",
+   "wordNumber": "04.0557",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_拉丁美洲综合",
+   "subjectName": "拉丁美洲综合",
+   "publishYear": "2012",
+   "definition": "美国以南的大片操拉丁语系语言的美洲国家，包括墨西哥、中美洲、南美洲和西印度群岛。"
+  },
+  {
+   "cn": "拉丁帝国",
+   "en": "Latin Empire",
+   "source": "世界历史名词",
+   "wordNumber": "02.0536",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "1204年，西欧国家封建主在罗马教皇号召下发动第四次十字军东征，攻陷拜占庭帝国都城君士坦丁堡后，在拜占庭帝国领土上按西欧形式建立的封建国家，因希腊人称西欧人为拉丁人而得名。"
+  },
+  {
+   "cn": "拉丁矩",
+   "en": "Latin rectangle",
+   "source": "数学名词",
+   "wordNumber": "09.0873",
+   "subjectFullName": "数学_概率论_数理统计_试验设计",
+   "subjectName": "试验设计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拉丁方",
+   "en": "Latin square",
+   "source": "数学名词",
+   "wordNumber": "09.0874",
+   "subjectFullName": "数学_概率论_数理统计_试验设计",
+   "subjectName": "试验设计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "农学名词",
+   "wordNumber": "15.017",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "由成熟mRNA分子中的核苷酸根据遗传密码生成对应氨基酸序列的过程。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0331",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在多种因子辅助下，以mRNA为模板合成多肽链的过程。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "兽医学名词",
+   "wordNumber": "16.199",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "由mRNA分子内的遗传信息指导合成多肽链的过程。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.052",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "将作品从一种语言文字转换成另一种语言文字的著作活动。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "行为医学名词",
+   "wordNumber": "3.168",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "信使核糖核酸（mRNA）在核糖体上合成多肽的过程。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.175",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "以mRNA为模板在核糖体上合成多肽链的过 程。"
+  },
+  {
+   "cn": "平移",
+   "en": "translation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0289",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构运动学",
+   "subjectName": "机构运动学",
+   "publishYear": "2021",
+   "definition": "机构沿空间某一直线移动。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.138",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "成熟mRNA在核糖体上合成多肽的过程。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "运动医学名词",
+   "wordNumber": "04.120",
+   "subjectFullName": "运动医学_运动生化_核酸与运动",
+   "subjectName": "核酸与运动",
+   "publishYear": "2019",
+   "definition": "在蛋白质合成期间将存在于mRNA上代表一个多肽链的核苷酸残基序列转换为多肽链氨基酸残基序列的过程。"
+  },
+  {
+   "cn": "译著",
+   "en": "translation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.057",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "从一种语言文字翻译为另一种语言文字的作品。由于语言结构的不同，翻译的过程近乎再创作。"
+  },
+  {
+   "cn": "平移",
+   "en": "translation",
+   "source": "物理学名词",
+   "wordNumber": "02.0494",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "核医学名词",
+   "wordNumber": "06.0078",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "信使RNA上携带的遗传信息为模板，tRNA为氨基酸运载体，核蛋白体为装配场所，共同协调完成蛋白质合成的过程。"
+  },
+  {
+   "cn": "平移",
+   "en": "translation",
+   "source": "化学名词",
+   "wordNumber": "04.1817",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "按矢量所规定的方向和距离进行整体移动所完成的对称操作。"
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "药学名词",
+   "wordNumber": "05.371",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "以mRNA为直接模板，tRNA为氨基酸运载体，核蛋白体为装配场所，共同协调完成蛋白质生物合成的过程。"
+  },
+  {
+   "cn": "拉丁方",
+   "en": "Latin square",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "translation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译",
+   "en": "translation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "载粉器",
+   "en": "translater",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻译程序，翻译器",
+   "en": "translator\",\"translating program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "切口平移，切口移位",
+   "en": "nick translation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "切口移位（=切口平移）",
+   "en": "nick translation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻译因子",
+   "en": "translation factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译域",
+   "en": "translation domain",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译调节",
+   "en": "translation regulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译起始",
+   "en": "translation initiation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译调节",
+   "en": "translation regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译移码",
+   "en": "translation frameshift",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拉美型打法",
+   "en": "Latin American football",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器翻译",
+   "en": "machine translation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深层次神经网络翻译系统",
+   "en": "deep neural machine translation (NMT) system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中拉命运共同体",
+   "en": "the community with a shared future for China and Latin America",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谱写中拉全面合作伙伴关系新篇章",
+   "en": "jointly writing a new chapter in China-Latin America comprehensive cooperative partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融可疑交易自动化拦截",
+   "en": "automatic interception of suspicious financial  transactions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "供应链金融交易透明度",
+   "en": "transparency of supply chain finance (SCF) transactions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推出更多外汇便利化业务",
+   "en": "to offer more services to facilitate foreign exchange transactions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20141727-T-469 跨境电子商务交易服务规范》",
+   "en": "20141727-T-469 Service specification for cross-border electronic commerce transactions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拉美模式",
+   "en": "latin american model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "阿根廷、墨西哥、巴西等拉丁美洲国家的发展模式。20世纪60年代到80年代初，拉美国家实施进口替代和促进出口的发展战略，经济出现高速增长。但是由于在技术和资金上对西方过于依赖，进入80年代后，经济出现负"
+  },
+  {
+   "cn": "拉美社会主义",
+   "en": "Latin American socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0250",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "19世纪中叶后，社会主义思想开始在拉美广泛传播，民主社会主义、科学社会主义、基督教社会主义、托派社会主义及民族社会主义等流派林立。“二战”后，主要实践包括古巴社会主义、圭亚那合作社会主义、秘鲁马里亚特"
+  },
+  {
+   "cn": "标准翻译",
+   "en": "translation of standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "完整、准确地表达原文信息，无语义差错，把一种语言文字的标准转换成另一种语言文字的标准。"
+  },
+  {
+   "cn": "拉美世纪社会主义",
+   "en": "TwentyFirst century socialism in Latin America",
+   "source": "马克思主义",
+   "wordNumber": "05.0255",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "泛指21世纪以来拉美一批左翼政治家及学者倡导的社会主义理论与实践。基本主张包括反对帝国主义和新自由主义，强调政治民主参与、国家经济干预、社会正义、可持续发展、独立自主外交和第三世界团结合作等。委内瑞拉"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

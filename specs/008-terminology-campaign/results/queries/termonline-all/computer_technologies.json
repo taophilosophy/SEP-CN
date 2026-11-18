@@ -1,0 +1,762 @@
+{
+ "key": "computer technologies",
+ "term": "computer technologies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:49:02+00:00",
+ "status": "ok",
+ "note": "variant=computer technologies; 审定公布名词库=2020; 海峡两岸名词对照库=545; 其他来源数据库=578; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "计算机技术",
+   "en": "computer technology ",
+   "source": "草学名词",
+   "wordNumber": "3.0419",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "计算机技术",
+   "en": "computer technology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0071",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "运用计算机科学的理论和方法解决实际问题的技术。更广的含义包含电子计算机本身的设计和制造技术在内。"
+  },
+  {
+   "cn": "计算机技术",
+   "en": "computer technology",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.122",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "研究计算设备的科学技术。包括计算机硬件、软件及其应用等诸多内容。"
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0071",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "（1）“计算机技术”的又称。（2）包括计算数学内容在内的计算机技术。"
+  },
+  {
+   "cn": "计算机图形技术",
+   "en": "computer-graphics technology",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.235",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "借助计算机来创建、操纵、存储和显示对象及数据的图形表示的方法和技术。"
+  },
+  {
+   "cn": "X射线计算机体层成像技术",
+   "en": "X-ray computed tomography technology; X-CT technology",
+   "source": "农学名词",
+   "wordNumber": "16.117",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据被测物体的x-CT分析其内部结构和状态的技术。常用于植物根系表型分析及瓜果与食品的内部品质分析。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "source": "草学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "计算机科学技术_通论_计算机系统组成",
+   "subjectName": "计算机系统组成",
+   "publishYear": "2018",
+   "definition": "采用机械、机电、电子等方式实现的自动解算装置。主要指电子计算机。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "一种用于高速计算的电子计算机器，可以进行数值计算，又可以进行逻辑计算，还具有存储记忆功能。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "按照一组给定的指令对数据进行处理的过程。"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0918",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "针对某个问题类，存在一个可在有限步内结束的能行计算过程。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "数学名词",
+   "wordNumber": "02.0262",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "数学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类为了满足社会需要而依靠自然规律和自然界的物质、能量和信息，创造、控制、应用和改进人工自然系统的手段和方法。是技术哲学研究的基本内容。"
+  },
+  {
+   "cn": "技术学",
+   "en": "technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.149",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "以技术整体作为研究对象，专门研究技术的特点、本质、作用及其发生、发展规律的学科。"
+  },
+  {
+   "cn": "工艺",
+   "en": "technology",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.001",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "使各种原材料、半成品加工成为产品的方法和过程。"
+  },
+  {
+   "cn": "工艺技术",
+   "en": "technology",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.079",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "产品的加工制造方法。包括从原料投入到产品包装全过程的原料配方、工艺路线、加工流程、消耗指标、操作要点、工艺控制指标等。"
+  },
+  {
+   "cn": "技术",
+   "en": "technology",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0003",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人类为提高社会实践活动的效率和效果而积累、创造并在实践中运用的各种物质手段、工艺程序、操作方法、技能技巧和相应知识的总和。"
+  },
+  {
+   "cn": "技术",
+   "en": "technology",
+   "source": "教育学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "（1）广义指人类活动所采用的所有方法和手段的总和。（2）狭义指以现代科学为基础，为完成研究、生产或服务任务，获得预期成果所设计的执行性方法和手段。"
+  },
+  {
+   "cn": "自然计算",
+   "en": "natural computing,natural computation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "由自然界得到启发开发出新的解决问题方法，或应用计算机综合自然现象的方法，或利用天然材料(如生物大分子)进行计算的方法。"
+  },
+  {
+   "cn": "计算机技术",
+   "en": "computer technology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机图形技术",
+   "en": "computer graphics technology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计算机应用技术",
+   "en": "computer application technology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technology",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概算，初算",
+   "en": "field computation\",\"preliminary  computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "海洋技术",
+   "en": "marine technology\",\"ocean technology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电子计算机",
+   "en": "electronic computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机程序",
+   "en": "computer program",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字计算机",
+   "en": "digital computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机控制",
+   "en": "computer control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合计算机",
+   "en": "hybrid computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机建模",
+   "en": "computer modeling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协同计算技术",
+   "en": "collaborative computing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信计算技术",
+   "en": "trusted computing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信云计算技术",
+   "en": "trusted cloud computing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190805-T-469 信息技术 计算机视觉 术语》",
+   "en": "20190805-T-469 Information technology — Computer vision — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算引擎与知识服务技术",
+   "en": "knowledge computing engine and knowledge service technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190847-T-469 信息技术 云计算 云际计算参考架构》",
+   "en": "20190847-T-469 Information technology — Cloud computing — Reference architecture of joint cloud computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机网",
+   "en": "Computer Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统",
+   "en": "Computer System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字计算机",
+   "en": "digital computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合计算机",
+   "en": "hybrid computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "便携式计算机",
+   "en": "portable computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大型计算机",
+   "en": "mainframe computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "消毒技术",
+   "en": "disinfection technology",
+   "source": "消毒学",
+   "wordNumber": "2",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "用于清除或杀灭环境中和物体上有害微生物，使其达到无害化的物理、化学处理方法。"
+  },
+  {
+   "cn": "技术革命",
+   "en": "technological revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "人类在改造客观世界的生产工具、工艺流程等方面的根本性变革。人类迄今为止经历了三次大的技术革命：始于18世纪60年代的蒸汽动力革命，始于19世纪70年代的电力革命，始于20世纪40、50年代的信息技术革"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "主张依靠科学技术进步来解决所有的生态问题。基于对技术进步的这种认识，认为技术给人类创造了空间的物质利益，尽管同时带来了生态危机的副作用，但它们同样可以用来治理这些副作用。是与自然保护主义相对的一种生态"
+  },
+  {
+   "cn": "卫生技术",
+   "en": "health technology",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "一切以促进健康、提高生存质量和生存期的疾病预防、筛查、诊断、治疗和康复等技术手段。"
+  },
+  {
+   "cn": "技术垄断",
+   "en": "technology monopoly",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "由于医疗卫生服务的技术复杂性，服务供方能够根据自己的信息技术优势，在提供医疗卫生服务过程中形成的垄断权。"
+  },
+  {
+   "cn": "避孕技术",
+   "en": "contraceptive technology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "为帮助妇女暂时避免受孕而应用的各种方法和手段。主要通过控制生殖过程中的三个环节：①抑制精子与卵子产生；②阻止精子与卵子结合；和③使子宫环境不利于精子获能、生存，或者不适宜受精卵着床和发育。"
+  },
+  {
+   "cn": "洗消技术",
+   "en": "decontamination technology",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.5.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_洗消",
+   "subjectName": "洗消",
+   "publishYear": "2025",
+   "definition": "对人员、装备、地面、建筑等实施消毒、消除放射性沾染的军事技术。主要包括洗消装备、洗消剂和洗消方法三部分，是三防技术的重要组成部分。及时、正确地应用此技术可以减少人员或物体的伤害程度。"
+  },
+  {
+   "cn": "栅栏技术",
+   "en": "hurdle technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.3",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "联合控制多种阻碍微生物生长的因素，以减少食品腐败，保证食品卫生与安全性的技术。"
+  },
+  {
+   "cn": "民间技术",
+   "en": "folk technology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0327",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "侧重于各类用品、工具等成品的制作，同时又往往具有一定的艺术性，即便是手工工具如刀、斧、凿、锯等，民间制品也大都具有功能要求与艺术性相统一的特点。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "将大量的核酸分子以大规模阵列形式排布在很小的载体上，通过与标记的样品进行杂交，检测杂交信号的强弱进而判断样品中被检分子的数量的技术。"
+  },
+  {
+   "cn": "放射性示踪技术",
+   "en": "radioactive tracer technology",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.15",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "采用放射性同位素标记化合物为示踪剂的示踪测试技术。"
+  },
+  {
+   "cn": "技术决定一切",
+   "en": "technology decides everything",
+   "source": "马克思主义",
+   "wordNumber": "04.0083",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在1931年2月4日一次演说中提出的口号。在苏联进行社会主义改造的初期，痛感缺乏技术的时候，首先解决技术问题对改变落后状况、彻底消灭城乡资本主义成分、满足国民经济日益增长需要具有决定性意义。这一"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

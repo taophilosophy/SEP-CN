@@ -1,0 +1,752 @@
+{
+ "key": "visual information",
+ "term": "visual information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:50:23+00:00",
+ "status": "ok",
+ "note": "variant=visual information; 审定公布名词库=4200; 海峡两岸名词对照库=907; 其他来源数据库=631; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "信息可视化",
+   "en": "information visualization",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.325",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_现代图书情报技术",
+   "subjectName": "现代图书情报技术",
+   "publishYear": "2019",
+   "definition": "利用计算机图形学和图像处理技术，在对信息数据进行分析的基础上，以图形、图像、虚拟现实等易为人们所辨识的方式展现原始数据间的复杂关系、潜在信息及发展趋势的技术。"
+  },
+  {
+   "cn": "信息可视化",
+   "en": "information visualization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0675",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "面向大规模、非结构化、抽象的信息数据的可视化方法。"
+  },
+  {
+   "cn": "资源信息可视化",
+   "en": "visualization for resources information ",
+   "source": "草学名词",
+   "wordNumber": "3.0378",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "资源信息可视化",
+   "en": "visualization for resource information",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "利用可视化技术，并结合资源信息的特点以人们易于理解和接受的图形和图像形式，将资源科学研究、资源开发、利用和保护等活动展现出来的过程。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "用于创建图形、图像或动画，以便交流沟通信息的任何技术和方法。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0066",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理信息学",
+   "subjectName": "地球物理信息学",
+   "publishYear": "2022",
+   "definition": "利用计算机图形学和图像处理技术，将数据转换成图形或图像并在屏幕上显示，可以进行交互处理的工作。 "
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0673",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "利用计算机图形和图像处理技术，将数据转换成图形或图像在屏幕上显示出来，并进行交互处理，以增强人类对这些数据所蕴含现象或规律的理解和认知。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将抽象的数据符号化表示的计算和处理方法，使用户能看见所模拟和计算的结果。"
+  },
+  {
+   "cn": "海洋信息可视化技术",
+   "en": "visualization technique of marine information",
+   "source": "海洋科技名词",
+   "wordNumber": "03.1055",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋信息技术",
+   "subjectName": "海洋信息技术",
+   "publishYear": "2007",
+   "definition": "显示海洋环境要素变化过程和空间结构，揭示海洋过程及变化规律的计算机多维动画、多媒体技术及仿真和虚拟现实技术等的集成。"
+  },
+  {
+   "cn": "目测",
+   "en": "visual measurement,visual observation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1045",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle",
+   "source": "风景园林名词",
+   "wordNumber": "05.0186",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "从物体两端（上、下或左、右）引出的光线在人眼光心处所成的夹角。"
+  },
+  {
+   "cn": "视域",
+   "en": "visual field",
+   "source": "风景园林名词",
+   "wordNumber": "05.0184",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "人在某一观赏点处视线所及而成的视力范围。特指人在观赏点通过视觉感知所能体验到的景观视觉空间地域。"
+  },
+  {
+   "cn": "视距",
+   "en": "visual distance",
+   "source": "风景园林名词",
+   "wordNumber": "05.0185",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "人的观赏点与景观景物之间的距离。"
+  },
+  {
+   "cn": "目测法",
+   "en": "visual positioning",
+   "source": "风景园林名词",
+   "wordNumber": "08.0172",
+   "subjectFullName": "风景园林_风景园林工程_风景园林种植",
+   "subjectName": "风景园林种植",
+   "publishYear": "2025",
+   "definition": "在设计图上无固定点的绿化种植，如灌木丛、树群等，可用坐标定位和仪器测放划出种植范围，每株树的位置可根据设计要求目测法定点的方法。定点时应注意植株的生态要求和自然美观。"
+  },
+  {
+   "cn": "视觉走廊",
+   "en": "visual corridor",
+   "source": "风景园林名词",
+   "wordNumber": "05.0197",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "一种视觉空间的延续，或多种连续的视野，也是任一视觉或明显的空间体验。这是一种包含了时间与运行动作的连续性空间体验，也是一种动感的美感体验。"
+  },
+  {
+   "cn": "目视测光",
+   "en": "visual photometry",
+   "source": "天文学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "以人眼为探测器的测光。"
+  },
+  {
+   "cn": "目视星等",
+   "en": "visual magnitude",
+   "source": "天文学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "用目视波段的亮度计算出的星等。"
+  },
+  {
+   "cn": "可视化工厂",
+   "en": "visual factory",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.159",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "以工厂内一切实体为对象，对所有目标及情况实时显示和管理，及时发现现场的问题，达到及时解决或预防的目的。"
+  },
+  {
+   "cn": "视色蛋白",
+   "en": "visual chromoprotein",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0686",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "存在于视网膜中的含色素蛋白质。如视紫红质。"
+  },
+  {
+   "cn": "目视星",
+   "en": "visual star",
+   "source": "天文学名词",
+   "wordNumber": "08.456",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "仅用肉眼就可以观测的恒星。"
+  },
+  {
+   "cn": "空间信息可视化",
+   "en": "visualization of spatial information",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视色素",
+   "en": "visual pigment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视细胞",
+   "en": "visual cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视野",
+   "en": "visual field",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "目测",
+   "en": "visual observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视觉显示",
+   "en": "visual display",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视色素",
+   "en": "visual pigment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉区",
+   "en": "visual area",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉疲劳",
+   "en": "visual fatigue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉编码",
+   "en": "visual coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视崖",
+   "en": "visual cliff",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视野",
+   "en": "visual field",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉适应",
+   "en": "visual adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉系统",
+   "en": "visual system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉失认症",
+   "en": "visual agnosia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉搜索",
+   "en": "visual search",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉记忆",
+   "en": "visual memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息可视化",
+   "en": "information visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可视化分析",
+   "en": "visual analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉编码",
+   "en": "visual coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可视密码",
+   "en": "visual cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉信号",
+   "en": "visual signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化",
+   "en": "data visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流场可视化",
+   "en": "flow visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体可视化",
+   "en": "volume visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市画像",
+   "en": "visualized urban data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "影像民族志",
+   "en": "visual ethnography",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种以视觉符号为主要表现手段的人类学文本及话语形式。影视民族志以人类学田野工作和电影语言作为两翼，致力于有人类学田野及伦理支撑的影视作品的生产。"
+  },
+  {
+   "cn": "视觉发育",
+   "en": "visual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "将视觉信息传入大脑，理解周围世界，获取周围环境的信息能力随年龄增长的发展变化过程。视觉系统功能出生后3年内基本发育成熟。"
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视力损失或视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉测评",
+   "en": "visual assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.24",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "应用视觉心理物理学检查（如视力、视野、色觉、暗适应、立体视觉、对比敏感度等）及视觉电生理检查进行评估的过程。"
+  },
+  {
+   "cn": "影视民族志",
+   "en": "visual ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0268",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影视人类学为学科基础的田野作业与文化表达体系。影视民族志不仅能形象地展示社会文化群体的整体性文化样貌，对于其政治结构、经济体系、亲属制度、宗教信仰等人类学研究的传统分支领域进行深度描述，还可运用视听"
+  },
+  {
+   "cn": "影视人类学",
+   "en": "visual anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0265",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影像和影视手段表现文化人类学（民族学）原理，记录、展示和诠释一个民族或族群的文化或尝试建立跨文化比较的交叉学科。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "裸眼视力",
+   "en": "uncorrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "未矫正视力，未经任何光学镜片矫正所测得的视力，包括裸眼远视力和裸眼近视力。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "视力残疾鉴定",
+   "en": "visual disability identification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "确定视力残疾的原因、类型、程度的活动。"
+  },
+  {
+   "cn": "视敏度残疾",
+   "en": "visual acuity disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视敏度损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视野残疾",
+   "en": "visual field disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视力残疾分类",
+   "en": "visual disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致视力残疾的原因以及视力残疾的程度对视力残疾类型的划分。"
+  },
+  {
+   "cn": "视力残疾分级",
+   "en": "visual disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据视力损伤程度和视野大小，对视力残疾划分的等级。"
+  },
+  {
+   "cn": "本顿视觉保留",
+   "en": "Benton visual retention",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "一种短时视觉记忆测验，只利用其几何图形识别部分而省去运动反应分，评价受试者视感知/记忆能力。"
+  },
+  {
+   "cn": "视力残疾一级",
+   "en": "visual disability grade Ⅰ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "双眼无光感，或最佳校正视力<0.02，或视野半径<5度。"
+  },
+  {
+   "cn": "视力残疾二级",
+   "en": "visual disability grade Ⅱ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.02≤双眼最佳校正视力<0.05,或视野半径<10度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

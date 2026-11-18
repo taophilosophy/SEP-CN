@@ -1,0 +1,792 @@
+{
+ "key": "manipulation cases",
+ "term": "manipulation cases",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:56:46+00:00",
+ "status": "ok",
+ "note": "variant=manipulation cases; 审定公布名词库=582; 海峡两岸名词对照库=106; 其他来源数据库=36; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.128",
+   "subjectFullName": "中医药学_骨伤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "以手为主，在体表特定部位或穴位上施以不同的动作技巧，以调节人体生理、病理状态，从而达到防治疾病的方法的总称。"
+  },
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "中医药学_推拿学、养生学、康复学",
+   "subjectName": "推拿学、养生学、康复学",
+   "publishYear": "2004",
+   "definition": "操作者用手足刺激患病部位和运动肢体，达到治疗、保健作用的规范化技巧动作。"
+  },
+  {
+   "cn": "手法治疗",
+   "en": "manipulation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0206",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "推拿[术]",
+   "en": "manipulation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.246",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.333",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备",
+   "subjectName": "工艺装备与设备",
+   "publishYear": "2021",
+   "definition": "能够移动和控制焊接机头、焊枪或焊件，按照选定的焊接速度沿规定的轨迹进行焊接的装置。"
+  },
+  {
+   "cn": "操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0443",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "用来抓取和(或)移动物体、由一些相互铰接或相对滑动的构件组成的多自由度机器。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0980",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "能模仿人手和手臂的某些动作功能。用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "化学名词",
+   "wordNumber": "06.0251",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "能模仿人手和臂的某些动作功能，按固定程序或按操作人员的动作来抓取、搬运物件或操作工具的装置。在核领域，用于在屏蔽墙外操作放射性物质，进行维修、拆除、更换设备、搬用物品等作业，使操作人员与被操作的放射性"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.292",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。如远距离操作放射性物质。是最早出现的工业机器人和现代机器人，它可代替人的繁重劳动以实现生产的机械化和自动化，能在有害"
+  },
+  {
+   "cn": "操纵器",
+   "en": "manipulator",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0261",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_零部件与机构",
+   "subjectName": "零部件与机构",
+   "publishYear": "2013",
+   "definition": "集中操纵钻车、钻机及钻架作业的机构。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.001",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "自动化名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "case,Case",
+   "source": "语言学名词",
+   "wordNumber": "04.240",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "①一种语法范畴。在有形态变化的语言中用词形变化所表示的名词性词语（有的语言包括形容词，如俄语）与其他词之间的不同句法关系。根据形态变化，一般分为主格、宾格、属格等等。②格语法术语。属于深层结构的概念，"
+  },
+  {
+   "cn": "书壳",
+   "en": "case",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.112",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "采用丝织品、布、革等材料，粘贴在硬纸板表面而制成的精装书的封面。"
+  },
+  {
+   "cn": "情态",
+   "en": "case",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0688",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统运行的每一时刻，所有含标码的库所元素构成的集合称为网系统在该时刻的情态。"
+  },
+  {
+   "cn": "格",
+   "en": "case",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0487",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子中名词性成分所充当的角色。包括句法角色（表层格）和语义角色（深层格）。"
+  },
+  {
+   "cn": "案例",
+   "en": "case",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0342",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "对已解决问题的一种描述方式，可以是成功的也可以是失败的。包括对问题特征、属性和原因的描述，解决问题时所用到的知识和方法，以及结果状态等。"
+  },
+  {
+   "cn": "箱",
+   "en": "case",
+   "source": "建筑学名词",
+   "wordNumber": "09.0394",
+   "subjectFullName": "建筑学_建筑设计_室内设计",
+   "subjectName": "室内设计",
+   "publishYear": "2014",
+   "definition": "收藏衣物或其他什物的方形或长方形家具。"
+  },
+  {
+   "cn": "管壳",
+   "en": "case",
+   "source": "电气工程名词",
+   "wordNumber": "15.077",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "气缸",
+   "en": "casing",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0295",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机",
+   "subjectName": "结构和辅机",
+   "publishYear": "2013",
+   "definition": "透平或压气机部件，为圆筒形静止结构。它容纳工质、支承和安装透平或压气机的其他静止零件。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因操作",
+   "en": "gene manipulation\",\"genetic manipulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传操作,基因操作",
+   "en": "genetic manipulation\",\"gene manipulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "护罩",
+   "en": "casing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机壳",
+   "en": "casing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "超微量化学操作",
+   "en": "ultramicrochemical manipulation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代操纵",
+   "en": "parental manipulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基因操作",
+   "en": "genetic manipulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性操作",
+   "en": "attribute manipulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据操作",
+   "en": "data manipulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形操作处理",
+   "en": "graphic manipulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对比度操纵",
+   "en": "contrast manipulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伪造检测",
+   "en": "manipulation detection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因操作",
+   "en": "genetic manipulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操纵变量",
+   "en": "manipulating variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数据可操作性",
+   "en": "data manipulability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据可操作性",
+   "en": "data manipulability",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外壳",
+   "en": "enclosure\",\"case",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "弹壳",
+   "en": "case",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散在病例/散发病例",
+   "en": "sporadic cases ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疑似病例",
+   "en": "suspected cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症",
+   "en": "severe cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "案件画像",
+   "en": "case profiling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二代病例",
+   "en": "second-generation cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床诊断病例",
+   "en": "clinically diagnosed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮箱",
+   "en": "air case\",\"canvas",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程案件会商",
+   "en": "remote case consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子卷宗",
+   "en": "electronic case file",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能案例推送",
+   "en": "intelligent case-push",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弓盒",
+   "en": "bow case\",\"ground quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "已办案件信息数据库",
+   "en": "closed case information database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无症状感染者",
+   "en": "asymptomatic cases/infections; asymptomatic carriers ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "案件评查辅助系统",
+   "en": "auxiliary system for case evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "案件受理辅助系统",
+   "en": "auxiliary system for case acceptance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操纵",
+   "en": "manipulation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在服务对象与服务提供者的关系中，为使服务对象顺应服务提供者的目的而控制其自主决定的行为，包括为了取得某种效果而精心安排事实，不提供信息、夸大、歪曲事实真相或者撒谎。是同社会工作专业尊重个人自由和案主自"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "病例",
+   "en": "case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "人群中可计数的实例或者具有某种特定疾病、存在健康问题或被调查的人群或研究群体"
+  },
+  {
+   "cn": "门诊病例数",
+   "en": "outpatient cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定期间一定区域内，在门诊就诊的患某种疾病的人数。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "社区病例数",
+   "en": "community cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定期间一定区域内，在社区中患某种疾病的人数。"
+  },
+  {
+   "cn": "住院病例数",
+   "en": "inpatient cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定期间一定区域内，因患某种疾病已办理入院手续或未办理入院手续而实际入院的人数。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对发生在某一或较少数自然条件下的社会现象进行深入理解的研究策略。"
+  },
+  {
+   "cn": "转介",
+   "en": "case referral",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对一些本机构或者社会工作者个人无法提供服务的个案，经过必要的程序转送到其他机构或者个人，以使求助者能够得到适当的服务。个案工作中常用的方法。"
+  },
+  {
+   "cn": "个案工作",
+   "en": "case work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "以个人或家庭为对象（案主）的社会工作专业方法。"
+  },
+  {
+   "cn": "个案管理",
+   "en": "case management",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "个案工作的一种模式，即结合各种不同专业的工作人员为案主提供服务的过程，社会工作者在其中主要负责服务协调的工作。包括申请、结案，调查、诊断，计划拟定，执行计划，监督、协调，评估、结案6个程序。"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将案例和一些列思考题提供给学习者，要求学习者根据自己的认知（所学过的知识、生活经验、价值观等）进行思考和分析讨论，提出自己的看法和办法的教学方法。"
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "个案工作",
+   "en": "case work",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.4.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "社会工作者帮助个人和家庭改善其社会生活功能的社会工作方法及其过程。例如为失业个体提供就业咨询。"
+  },
+  {
+   "cn": "个案调查",
+   "en": "case investigation",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.8.4.1",
+   "subjectFullName": "军事预防医学_军队流行病学_军队突发公共卫生事件",
+   "subjectName": "军队突发公共卫生事件",
+   "publishYear": "2025",
+   "definition": "针对军队发生的单个病例进行的流行病学调查工作。目的是核实病例发病实际情况、查明其基本信息，以确定发生原因和影响因素。"
+  },
+  {
+   "cn": "病例报告",
+   "en": "case report",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对某种疾病在临床上出现的未报道过的疾病或治疗现象的详细介绍，是描述性研究中最基本的一种形式，属于定性研究的范畴。"
+  },
+  {
+   "cn": "病例搜索",
+   "en": "case searching",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "死亡病例",
+   "en": "death case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，某种疾病导致死亡的确诊病例。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对特定个体或组织进行观察和调查，在充分认识问题或事件的特殊性的基础上来考虑普遍性的研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

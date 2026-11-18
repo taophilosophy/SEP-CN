@@ -1,0 +1,792 @@
+{
+ "key": "traditional conception",
+ "term": "traditional conception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:49:38+00:00",
+ "status": "ok",
+ "note": "variant=traditional conception; 审定公布名词库=868; 海峡两岸名词对照库=293; 其他来源数据库=60; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "兽医学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发生妊娠的行为。开始于精子和卵子的 结合。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0040",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "男女性交，两精结合，合而成形的生理过程。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.504",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "以符号或词的形式对事物本质进行的描述。包括内涵和外延，是构成命题性思想的基本要素。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "反映对象本质属性的思维形式。人类把所感知的事物的共同本质特点抽象出来并加以概括，就成为概念。表达概念的语言形式是词或词组。概念都有内涵和外延，即其含义和适用范围。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0647",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "客观事物基本属性的思维抽象，也是知识和推理的最基本组成单元，通常用一个词语加以概括。它可以通过内涵（对其本质的描述）或外延（所代表的对象的总和）来描述。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "心理学名词",
+   "wordNumber": "02.614",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以符号/词的形式对客观事物本质的描述。包括内涵和外延。"
+  },
+  {
+   "cn": "任脉",
+   "en": "conception channel,conception vessel",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0032",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "起于胞中，主胞宫和妊娠，并主一身之阴经，下出会阴，向上前行至阴毛部位，沿腹部和胸部正中线直上，经咽喉，至下颌，环绕口唇，沿面颊，分行至目眶下。"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "source": "语言学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "直接揭示所指事物的本质或属性的词。例如“电子计算机”（“电脑”属比喻说法）。"
+  },
+  {
+   "cn": "上位概念",
+   "en": "upperseat concept,upper concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.285",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "与“下位概念”相对。具有从属关系的几个概念间，外延较大的概念。它的外延完全包含着另一个概念的外延。"
+  },
+  {
+   "cn": "传统村落",
+   "en": "traditional village",
+   "source": "风景园林名词",
+   "wordNumber": "05.0242",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "形成较早，拥有较丰富的文化和自然资源，具有一定历史、文化、科学、艺术、社会、经济价值，应予以保护的村落。传统村落中蕴藏着丰富的历史信息和文化景观，是中国农耕文明留下的最大遗产。"
+  },
+  {
+   "cn": "传统农业",
+   "en": "traditional agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "主要采用传统农具和机械，以人力和畜力为基本动力，凭借精耕细作和经验知识体系从事生产活动的农业形态。"
+  },
+  {
+   "cn": "传统媒体",
+   "en": "traditional media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.036",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播媒介与传播过程",
+   "subjectName": "大众传播媒介与传播过程",
+   "publishYear": "2022",
+   "definition": "媒体分类的一种。以大众传播方式，即通过某种专业技术设备定期向社会公众发布信息或提供娱乐、教育等功能的媒体，主要包括报刊、广播、电视等媒体。与“网络媒体”或新媒体相对。"
+  },
+  {
+   "cn": "传统媒体",
+   "en": "traditional media",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.207",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "以单向的大众传播方式定期向社会公众发布信息的媒体。"
+  },
+  {
+   "cn": "传统医学",
+   "en": "traditional medicine",
+   "source": "行为医学名词",
+   "wordNumber": "1.032",
+   "subjectFullName": "行为医学_总论_行为医学概念与相关学科",
+   "subjectName": "行为医学概念与相关学科",
+   "publishYear": "2022",
+   "definition": "基于植物、动物、矿物的药物疗法、精神疗法、躯体疗法，利用在实践中逐步获得的多种方法（技术）进行疾病预防、诊断和治疗，维持躯体健康的医学。"
+  },
+  {
+   "cn": "传统引导",
+   "en": "traditional guidance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.141",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "前现代社会通过讲家史、神话、传说、吟唱等形式传播相对稳定的社会价值观，以影响舆论的引导类型。"
+  },
+  {
+   "cn": "传统产业",
+   "en": "traditional industry",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "相对新兴产业而言，主要是资源型、劳动密集型产业等以传统技术进行生产和服务的产业类型。"
+  },
+  {
+   "cn": "传统村落",
+   "en": "traditional village",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.249",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "（1）形成历史较长，拥有较丰富的文化与自然资源，具有一定历史、文化、科学、艺术、经济、社会价值的村落。（2）经国家有关部门确认，列入中国传统村落名录的村落。"
+  },
+  {
+   "cn": "传统农耕",
+   "en": "traditional farming",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.285",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "以人、畜劳动和传统经验为主导的自给自足的农村生产方式。"
+  },
+  {
+   "cn": "传统风貌建筑",
+   "en": "traditional building",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "除文物保护单位、历史建筑外，具有一定建成历史，对历史地段整体风貌特征形成具有价值和意义的建（构）筑物。"
+  },
+  {
+   "cn": "传统格局",
+   "en": "traditional pattern",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "历史形成的由街巷、建筑物、构筑物本身特征结合自然景观构成的布局结构及其形态。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传统陶瓷",
+   "en": "traditional ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统病",
+   "en": "traditional diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统语法",
+   "en": "traditional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传统药",
+   "en": "traditional drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "传承字",
+   "en": "traditional Hanzi\",\"traditional Chinese character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念发展",
+   "en": "concept development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念学习",
+   "en": "concept learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间概念",
+   "en": "time concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间概念",
+   "en": "space concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念形成",
+   "en": "concept formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件概念",
+   "en": "conditional concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合取概念",
+   "en": "conjunctive concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念结构",
+   "en": "concept structure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我概念",
+   "en": "self concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整体概念",
+   "en": "holistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "个体论概念",
+   "en": "individualistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网概念模型",
+   "en": "IoT concept model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new concept for development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中医治疗",
+   "en": "TCM (traditional Chinese medicine) therapy",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新型亚洲安全观",
+   "en": "the new Asian security concept",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济全球化观",
+   "en": "the concept of economic globalization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "the concept of global governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "境生象外",
+   "en": "Aesthetic Conception Transcends Concrete Objects Described.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家中医药管理局",
+   "en": "National Administration of Traditional Chinese Medicine (NATCM)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正确义利观",
+   "en": "the correct concept of justice and interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统金融机构智慧化",
+   "en": "application of smart technology in traditional financial institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统",
+   "en": "tradition",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在现代化理论中与“现代”相对的一种农业的、乡村的、专制的、落后的社会状态。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "世代相传的社会文化因素在社会建构中获得沿袭并占有突出地位、人们的行为主要受此影响的前现代社会。与“现代社会”相对。"
+  },
+  {
+   "cn": "传统教育",
+   "en": "traditional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "泛指在一定历史时期形成的流行的、具有影响的教育思想、制度和方法。"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0012",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自给自足的自然经济为基础和家庭伦理关系为基本纽带的前工业化社会形态，与现代社会相对应。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "小传统",
+   "en": "little tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "复杂社会中具有地方社区或地域性特色的文化模式。由美国人类学家雷德菲尔德(R.Redfield）于1956年首先创用。与“大传统”相对。"
+  },
+  {
+   "cn": "口头传承",
+   "en": "oral tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "无文字社会的主要信息来源及有文字社会集体心性的重要媒介。以耳听口传为特征的表述通过多人参与，依赖于话语场及说、听双方的互动实现的传递。大部分情况下声音的传递是在有多数听众场合下的集体传递，而且信息反复"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "口头传统",
+   "en": "oral tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0333",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在一个民族中长期口耳相传的口头文化表达形式，如史诗、叙事诗、歌谣、说唱、神话、传说、故事等口头文类以及与之相关的表达文化和口头艺术，它不仅是民族文化传统的重要组成部分，也是全人类共同的文化遗产和精神财"
+  },
+  {
+   "cn": "文化传统",
+   "en": "cultural tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0034",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个国家、民族在历史中形成的具有相对稳定性的文化精神和文化价值成分，贯穿于一个国家、民族各个历史阶段的各类文化之中，是一种民族文化区别于其他民族文化的重要标志。"
+  },
+  {
+   "cn": "大传统与小传统",
+   "en": "great tradition and small tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0553",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家雷德菲尔德（Robert Redfield）提出的一种二元分析框架，用来说明在复杂社会中存在的两个不同文化层次的传统。大传统是指以城市为中心，社会中少数上层人士、知识分子所代表的文化；小传"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "基于当前人们对生育行为的科学认识，育龄夫妇有意识地对自己妊娠行为做出的安排。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "健康研究中的一种理论框架。用于直观地描述健康相关问题的关键要素及其相互关系。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "支配人们进行道德判断、评价和道德活动的意识。它是社会物质生活条件的反映，具有时代性、民族性和阶级性。"
+  },
+  {
+   "cn": "中国传统节日",
+   "en": "traditional Chinese festivals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0172",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中华民族的古老传统节日，涵盖了原始信仰、祭祀文化、天文历法、易理术数等人文与自然文化内容，蕴含着深邃丰厚的文化内涵。"
+  },
+  {
+   "cn": "中国戏曲",
+   "en": "traditional Chinese opera",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0398",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统戏剧形式，由民间歌舞、说唱和滑稽戏三种不同的艺术形式综合形成。从近代学家王国维开始，把“戏曲”用来作为包括宋元南戏、元明杂剧、明清传奇以至近代的京剧和所有地方戏在内的中国传统戏剧文化的通称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

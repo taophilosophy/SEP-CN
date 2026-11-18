@@ -1,0 +1,622 @@
+{
+ "key": "chemical reactions",
+ "term": "chemical reactions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:00:46+00:00",
+ "status": "ok",
+ "note": "variant=chemical reactions; 审定公布名词库=2476; 海峡两岸名词对照库=968; 其他来源数据库=66; 预公布名词数据库=167; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0116",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "组成物质的原子重新排列组合产生新物质的过程。是旧化学键被打断，新化学键生成的过程。"
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0037",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "物质中分子、原子相互作用变化得到新产物的过程。"
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.001",
+   "subjectFullName": "化工（二）_反应与三剂_反应",
+   "subjectName": "反应",
+   "publishYear": "2019",
+   "definition": "原子重新排列组合生成新物质的过程。"
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "化学名词",
+   "wordNumber": "01.0331",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "物质发生变化而产生新物质的过程。在化学反应中，组成物质的原子的排列组合发生变化，旧的化学键被打断，新的化学键生成。化学反应除物质发生变化外，还常常伴随光、热等效应。"
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "计量学名词",
+   "wordNumber": "15.043",
+   "subjectFullName": "计量学_化学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "一种或多种物质改变化学组成、性质和特征成为与原来不同的另一种或多种物质的变化。"
+  },
+  {
+   "cn": "化学反应平衡",
+   "en": "chemical reaction equilibrium",
+   "source": "电力名词",
+   "wordNumber": "01.604",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在可逆化学反应过程中,当正向反应与逆向反应速度达到相等时的状态。"
+  },
+  {
+   "cn": "化学反应等温式",
+   "en": "chemical reaction isotherm",
+   "source": "冶金学名词",
+   "wordNumber": "04.0098",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "在定温下，在给定某化学反应的始末态时，所得的反应吉布斯能<img src='/root/syzx/static/spz/yejin2.04.0098.01.png'/>变化与温度的关系式：<img s"
+  },
+  {
+   "cn": "化学迁移反应",
+   "en": "chemical migration reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0046",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "在一定条件下，含有杂质的金属与某一物质反应生成气态或挥发性强的金属化合物，该化合物在另一条件下，分解为纯金属及反应物质，使金属得到提纯的过程。"
+  },
+  {
+   "cn": "化学控制的反应",
+   "en": "chemical-controlled reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0334",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "化学反应的阻力远比其他步骤的阻力大得多的反应。"
+  },
+  {
+   "cn": "化学反应等温式",
+   "en": "chemical reaction isotherm",
+   "source": "化学名词",
+   "wordNumber": "04.0164",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "在等温条件下，化学反应的吉布斯自由能变化的计算公式。"
+  },
+  {
+   "cn": "化学反应法",
+   "en": "chemical reaction method",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1877",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_晶体生长",
+   "subjectName": "晶体生长",
+   "publishYear": "2011",
+   "definition": "通过多组元的化学反应，形成一种单质或者化合物，并使其按照一定的晶体结构排列，获得晶体材料的晶体生长方法。"
+  },
+  {
+   "cn": "化学反应流",
+   "en": "chemical reaction flow",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应速率",
+   "en": "chemical reaction rate",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应工程",
+   "en": "chemical reaction engineering",
+   "source": "化学工程名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应路径综合",
+   "en": "chemical reaction path synthesis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "优选给定原料转换为规定产品的反应步骤的方法。"
+  },
+  {
+   "cn": "化学反应工程学",
+   "en": "chemical reaction engineering science",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0004",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "以工业反应过程原理为核心，以反应技术开发、反应器设计和操作、反应过程优化和调控为主要目的的一门化学工程分支学科。"
+  },
+  {
+   "cn": "化学反应亲和势",
+   "en": "affinity of chemical reaction",
+   "source": "化学名词",
+   "wordNumber": "04.0167",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "用以判断化学反应方向与限度的物理量。其定义为：<img src='/root/syzx/static/spz/huaxue2.04.0167.1.png'/>,式中<img src='/root/sy"
+  },
+  {
+   "cn": "化学反应蓄热",
+   "en": "chemical reaction heat regeneration",
+   "source": "建筑学名词",
+   "wordNumber": "14.1053",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "利用蓄热物质的可逆化学反应热进行储能的蓄热方式。"
+  },
+  {
+   "cn": "化学反应真空精炼",
+   "en": "chemical reaction vacuum refining",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "13.0273",
+   "subjectFullName": "机械工程_流体机械_真空获得与应用设备_真空冶金",
+   "subjectName": "真空冶金",
+   "publishYear": "2013",
+   "definition": "不希望有的成分通过与添加物的化学反应，与要求成分得到分离的一种真空精炼。在化学反应时，添加物同待分离成分一起形成挥发性化合物。"
+  },
+  {
+   "cn": "激光诱导化学反应",
+   "en": "laser induced chemical reaction",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0476",
+   "subjectFullName": "材料科学技术_半导体材料_半导体材料制备",
+   "subjectName": "半导体材料制备",
+   "publishYear": "2011",
+   "definition": "利用激光光子能量有选择地激励的化学反应。"
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应",
+   "en": "chemical reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可逆化学反应",
+   "en": "reversible chemical reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应平衡",
+   "en": "chemical reaction equilibrium",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应工程",
+   "en": "chemical reaction engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝热化学反应",
+   "en": "adiabatic chemical reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应稳定性",
+   "en": "chemical reaction stability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆化学反应",
+   "en": "irreversible chemical reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应法",
+   "en": "chemical reaction method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应等温式",
+   "en": "chemical reaction isotherm",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "激光诱导化学反应",
+   "en": "laser induced chemical reaction",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应亲和势",
+   "en": "affinity of chemical reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应式灭火器",
+   "en": "chemical reaction fire extinguisher\",\"chemical fire extinguisher",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "化学反应平衡判据",
+   "en": "criterion for chemical reaction equilibrium",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学品",
+   "en": "chemical",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学物质",
+   "en": "chemicals\",\"chemical substance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反作用",
+   "en": "reaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学外加剂",
+   "en": "chemical additive\",\"chemical admixture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "化学清洗",
+   "en": "chemical cleaning\",\"chemical picking",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "化学战",
+   "en": "chemical warfare",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "化学再生",
+   "en": "chemical recycling",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.24",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "再生过程中，回收塑料的基础聚合物分子分解为单体/其他起始物、低聚物，再重新聚合成基础聚合物的再生技术。"
+  },
+  {
+   "cn": "化学灾害",
+   "en": "chemical disaster",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学灾害",
+   "subjectName": "化学灾害",
+   "publishYear": "2025",
+   "definition": "由于人为、技术、战争或者自然的因素所造成的化学物生产、贮存、运输和使用过程中发生的重大和特大突发性化学品泄露事故，并由此引起的人员伤害和社会危害。"
+  },
+  {
+   "cn": "化学监测",
+   "en": "chemical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用化学指示物对灭菌过程或灭菌效果进行的监测。"
+  },
+  {
+   "cn": "化学消毒",
+   "en": "chemical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "使用化学制剂清除或杀灭有害微生物，以预防控制感染发生和传染病传播的处理。"
+  },
+  {
+   "cn": "化学指示物",
+   "en": "chemical indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "根据暴露于某种灭菌（消毒）程序所产生的化学或物理变化，在一个或多个预定程序参数上显现变化的指示器材。"
+  },
+  {
+   "cn": "化学性废物",
+   "en": "chemical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.6",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "具有毒性、腐蚀性、易燃性、反应性的废弃化学物品。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学蚀刻",
+   "en": "chemical etching",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "固体核径迹探测器的辐射损伤经过化学试剂蚀刻形成可观察径迹的过程。"
+  },
+  {
+   "cn": "化学剂量计",
+   "en": "chemical dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "将含有稀溶质的溶液密封在辐照容器内制成的一类剂量计的总称。"
+  },
+  {
+   "cn": "化学去污",
+   "en": "chemical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.11",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "用化学方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "化学性环境污染",
+   "en": "chemical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由于自然灾害、工业生产、人类活动等使地区环境的化学组成发生变化，使得对人体有害的化学物质成分增加。"
+  },
+  {
+   "cn": "化学分析法",
+   "en": "chemical analysis",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过收集食物消费量，并在实验室中测定被调查对象一日内全部食物的营养成分，准确地获得各种营养素和生物活性成分摄入量的膳食调查方法。"
+  },
+  {
+   "cn": "化学性污染",
+   "en": "chemical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由各种有毒有害的有机和无机化学物质对食品造成的污染。"
+  },
+  {
+   "cn": "化学侦检法",
+   "en": "chemical detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "根据毒剂与化学试剂反应后生成的不同颜色、沉淀或荧光等判断有无毒剂存在、鉴别毒剂种类及染毒程度的方法。"
+  },
+  {
+   "cn": "化学洗消法",
+   "en": "chemical decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "通过消毒剂与毒剂的化学反应破坏毒剂原有结构，使之成为无毒或毒性较低的物质的洗消方法。"
+  },
+  {
+   "cn": "化学膨松剂",
+   "en": "chemical leavener",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.9.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品加工过程中加入的，能通过化学反应产生气体，从而使食品形成致密多孔组织并具备膨松、柔软或酥脆等特性的物质。"
+  },
+  {
+   "cn": "化学武器",
+   "en": "chemical weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "化学毒剂、装填化学毒剂的弹药以及施放这些弹药的器材的合称。"
+  },
+  {
+   "cn": "化学恐怖",
+   "en": "chemical terrorism",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学恐怖",
+   "subjectName": "化学恐怖",
+   "publishYear": "2025",
+   "definition": "直接或间接利用化学毒剂进行恐怖主义袭击的犯罪活动，其处置涉及对毒物的化学侦检、个人防护、毒物消除和紧急医疗救护等诸多方面。"
+  },
+  {
+   "cn": "化学战",
+   "en": "chemical warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战",
+   "subjectName": "化学战",
+   "publishYear": "2025",
+   "definition": "为了达到杀伤有生力量、扰乱或迟滞敌方行动而使用化学毒剂的军事行为。"
+  },
+  {
+   "cn": "化学推进剂",
+   "en": "chemical propellants",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.4.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "在化学推进中，参加化学反应的全部组分，主要用作火箭和各种导弹的燃料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

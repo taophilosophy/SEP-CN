@@ -1,0 +1,742 @@
+{
+ "key": "human subjectivity",
+ "term": "human subjectivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:44:21+00:00",
+ "status": "ok",
+ "note": "variant=human subjectivity; 审定公布名词库=1044; 海峡两岸名词对照库=134; 其他来源数据库=85; 预公布名词数据库=122; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "受试者保护",
+   "en": "protection for human subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.158",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "1974年美国总统尼克松为回应塔斯基吉研究签署了《国家研究法案》，其中明确要求所有以人作为受试者的研究都必须经过所在机构的伦理委员会的审查，以进一步确保对人类受试者的保护。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.191",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一个核心哲学概念，与意识、能动/施为(agency)、人格、现实和真理相关，存在多种定义。三个常见的定义认为，主体性意味着以下的质量或条件：①狭义上意味着一个拥有有意识的经验，如视觉、感觉、信念和欲"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "心理学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "作为主体的人的自主性、能动性和创造性。在认识方面表现为选择性、建构性与预见性。"
+  },
+  {
+   "cn": "受试对象",
+   "en": "subject    ",
+   "source": "核医学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "接受试验的对象。包括健康人、患者，临床前研究时包括其他动物。"
+  },
+  {
+   "cn": "对象",
+   "en": "subject",
+   "source": "核医学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "进行任何操作、行为或思考时作为目标的人或事物。"
+  },
+  {
+   "cn": "主题",
+   "en": "subject",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在较高层次上将组织信息系统中的数据综合、归类并进行分析利用的抽象。在逻辑意义上，对应于组织中某一宏观分析领域所涉及的分析对象。"
+  },
+  {
+   "cn": "科目",
+   "en": "subject",
+   "source": "教育学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "与相对独立的学科知识领域相对应的课程。如语文、数学、艺术等。"
+  },
+  {
+   "cn": "主语",
+   "en": "subject",
+   "source": "语言学名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“谓语”相对。句法成分之一。通常由体词性成分充当，也可以由谓词性成分充当。通常位于谓语的前边，是谓语陈述的对象。例如，“我看见他了”“做学问需要扎实的基础”。"
+  },
+  {
+   "cn": "学科馆员",
+   "en": "subject librarian,subject specialist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "拥有专业知识、业务经验和从业资格，从事特定学科领域的专门信息服务，包括文献选择与评价、书目指导、专题信息导航和参考咨询等工作的图书馆员。"
+  },
+  {
+   "cn": "主题检索",
+   "en": "subject search,subject retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "以一个或多个主题词作为检索入口，在某一信息集合中把含有该词及其具有同一含义的词的内容查找出来的一种检索方法。"
+  },
+  {
+   "cn": "主题词",
+   "en": "subject term,subject word",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.241",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "各种主题法中用来表达文献主题内容的索引词的总称。一般包括标题词、单元词、叙词等规范化的索引词，有时还包括关键词等未经规范化处理的索引词。我国图书情报领域通常把“叙词”称为“主题词”。"
+  },
+  {
+   "cn": "人文地图",
+   "en": "humanities human map",
+   "source": "测绘学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映社会和上层建筑各个领域的事物和现象，即人文现象的各种地图。"
+  },
+  {
+   "cn": "人力资源生活性",
+   "en": "human resource humanism",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源以人身作为天然载体，蕴藏在生命个体之中，是一种活的资源，并与人的自然生理特征相联系，具有生活性。要维持发展现有的人力资源，就必须保证人力资源拥有者的生活条件与费用。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "humanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.310",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "狭义为专业术语。广义是对文艺复兴时期出现的文化思想、文化理想的一种概括性总结。作为一种新思想理念，是对中世纪基督教会强权统治的一种反动，核心内容是“人”，亦称人本主义。主要内容包括：主张人性、人权，否"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "心理学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于人文关怀价值取向的哲学思潮与流派。"
+  },
+  {
+   "cn": "人文学科",
+   "en": "humanities",
+   "source": "教育学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "拉丁文原意为“人性、教养”，欧洲14—15世纪文艺复兴运动中指以人和自然为对象的世俗学问。同“神学学科”相对。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "Humanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1193",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪后期出现的，社会价值取向倾向于对人的个性的关怀，注重强调维护人性尊严，提倡宽容，反对暴力，主张自由平等和自我价值体现的一种哲学思潮与世界观。"
+  },
+  {
+   "cn": "风景园林学一级学科",
+   "en": "level 1 subject",
+   "source": "风景园林名词",
+   "wordNumber": "10.0006",
+   "subjectFullName": "风景园林_风景园林教育_风景园林教育发展",
+   "subjectName": "风景园林教育发展",
+   "publishYear": "2025",
+   "definition": "2011年3月国务院学位委员会、教育部公布的《学位授予和人才培养学科目录（2011）》中的110个一级学科之一，风景园林学（学科编号0831）列在工学门类，可授工学、农学学位。"
+  },
+  {
+   "cn": "主观测听法",
+   "en": "subjective audiometry",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "观察受试者对声音刺激主观判断的测听法。如耳语检查法、秒表检查法、音叉检查法、听力计检查法等。"
+  },
+  {
+   "cn": "主观性耳鸣",
+   "en": "subjective tinnitus",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.9.3.1",
+   "subjectFullName": "耳科_耳鸣耳聋",
+   "subjectName": "耳鸣耳聋",
+   "publishYear": "2025",
+   "definition": "在无声源的环境下，仅患者本人能听到，检查者不能听到的耳部响声。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试",
+   "en": "subject",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验预报",
+   "en": "subjective forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观分析",
+   "en": "subjective analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观评价，主观估计",
+   "en": "subjective assessment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观概率",
+   "en": "subjective probability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主观轮廓",
+   "en": "subjective contour",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一主题",
+   "en": "first subject",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试变量",
+   "en": "subject variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主观测验",
+   "en": "subjective test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "论题选择器",
+   "en": "subject selector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观信息",
+   "en": "subjective information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主题探查",
+   "en": "subject probe",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观异名",
+   "en": "subjective synonym",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "人体解剖学",
+   "en": "human anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人体胚胎学",
+   "en": "human embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人类气候",
+   "en": "human climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气候学",
+   "en": "human bioclimatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气象学",
+   "en": "human biometeorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据主体",
+   "en": "data subject",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律主体",
+   "en": "subject of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类免疫缺陷  病毒",
+   "en": "human immunodeficiency virus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0158",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义在批判地改造旧哲学基础上，认为主体性是人的一种功能属性，是人在一定实践、认识、价值、审美等活动中所表现出的主导地位、决定作用、支配态势，其核心是人的主动性、能动性、自主性和创造性。"
+  },
+  {
+   "cn": "主观性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0163",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）认识的片面性、独断性，从主观臆测或“先入之见”观察和分析问题的思想方法，是主观主义思想方法。（2）概念、范畴等逻辑思维形式的一种特性，具有抽象性、分隔性、主体性、意识能动性特征。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0598",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "被意识建构的自我认知。主体性在人类学中超越了法国哲学家笛卡尔的身心二元对立学说引发了互为主体的讨论。人类学传统上以研究异文化的他者为主，研究者与被研究者这种主体双方的关系在它的学术“基因”中就已存在。"
+  },
+  {
+   "cn": "主体",
+   "en": "subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0157",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与客体相对应的一个功能性范畴，指实践、认识、价值、审美等对象性关系的主导者、支配者。马克思说“主体是人，客体是自然”，但并非任何人都是主体，主体是有意识、能思维、从事社会实践活动和认识活动的个人或社会"
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "个体主体",
+   "en": "individual subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0159",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个体主体是相对于群体主体、人类主体、社会主体而言的，指个人在社会、政治、经济等生活中获得主体地位和独立属性。个体主体是历史地生成的，群体活动、需求、性能必须通过个体主体才能得到实现和确证。"
+  },
+  {
+   "cn": "主觉验光",
+   "en": "subjective refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用单纯插片法或综合验光仪法，通过判断被检者对不同屈光状态微小变化的反应情况确定屈光参数的一种主观测量方法。"
+  },
+  {
+   "cn": "旅游主体",
+   "en": "tourism subject",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0195",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游者，旅游者把旅游动机转变为旅游行为是与旅游相关的一切社会现象和关系发生的基础，因而旅游者在旅游活动中处于中心地位。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "人体形态学",
+   "en": "human morphology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0066",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "阐明人体器官的各种形态、结构、成因、相互关系及其发展规律的学科，分为人体学和测量学。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
