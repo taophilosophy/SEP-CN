@@ -1,0 +1,722 @@
+{
+ "key": "logical deduction",
+ "term": "logical deduction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:22:04+00:00",
+ "status": "ok",
+ "note": "variant=logical deduction; 审定公布名词库=2945; 海峡两岸名词对照库=713; 其他来源数据库=138; 预公布名词数据库=239; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "坐支",
+   "en": "payment by deduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.059",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业脱离银行监督，直接支用业务收入（如门市销售收入）的现金的行为。按照国家现金管理的有关规定，企业一般不得坐支，如有特殊情况，须报经开户银行同意后，在规定的用途和金额范围内坐支，并应在“现金日记账”上"
+  },
+  {
+   "cn": "根岑式演绎",
+   "en": "Gentzen-style deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "根岑（Gentzen）于1934年提出的证明论中一族用于形式证明的系统，区别于希尔伯特演绎系统，它们对每个联接或量词都有简单明了的推理规则。"
+  },
+  {
+   "cn": "线性归结演绎",
+   "en": "linear resolution deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0084",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种归结策略。初始子句为原始子句集中子句，其余每步归结中的一个子句是刚生成的归结式，另一个子句或者是原始子句集中的子句，或者是之前生成的归结式。"
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "地理学名词",
+   "wordNumber": "27.155",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "通过由综合性地图、演绎派生单要素地图形成对制图对象各组成部分质量与数量特征及其分布规律的认识。"
+  },
+  {
+   "cn": "推力减额分数",
+   "en": "thrust deduction fraction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "推力减额(ΔT)与螺旋桨推力(T)的比值。一般以t表示：t=ΔT/T"
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "船舶工程名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船的总阻力(RT)与螺旋桨推力(T)的比值。一般以1-t表示:1－t=RT/T"
+  },
+  {
+   "cn": "假说-演绎法",
+   "en": "hypothetical-deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "提出可以解释问题的假说，以假说为前提进行演绎推理得出结论，再通过实验检验这一结论，并在此基础上决定接受或拒绝假说。"
+  },
+  {
+   "cn": "演绎建模法",
+   "en": "deductive modeling method",
+   "source": "自动化名词",
+   "wordNumber": "04.575",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "可抵扣暂时性差异",
+   "en": "deductible temporary difference",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0158",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在确定未来收回资产或清偿负债期间的应纳税所得额时，将导致产生可抵扣金额的暂时性差异。"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "假说-演绎推理",
+   "en": "hypothetico deductive reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎综合方法",
+   "en": "deductive synthesis method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "探测效率",
+   "en": "detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在一定的探测条件下，探测器探测到的某种辐射的粒子数与在同一时间间隔内放射源所发射出的该种辐射粒子数的比值。"
+  },
+  {
+   "cn": "探测限",
+   "en": "detection limit",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "使某一测量装置所测样品中有感兴趣的事件存在时所对应的一个最小值。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,751 @@
  "key": "howard",
  "term": "Howard",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:19:23+00:00",
- "status": "error",
- "note": "variant=Howard; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Howard: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:40+00:00",
+ "status": "ok",
+ "note": "variant=Howard; 审定公布名词库=980; 海峡两岸名词对照库=392; 其他来源数据库=94; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "危害",
+   "en": "hazard",
+   "source": "农学名词",
+   "wordNumber": "18.040",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农产品中潜在的对人类和动植物的健康或环境产生不良效应的生物性、化学性或物理性因子。"
+  },
+  {
+   "cn": "危险源",
+   "en": "hazard",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.072",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "可能导致人身伤害、财产损失和环境破坏的根源、状态、行为或其组合。"
+  },
+  {
+   "cn": "转发",
+   "en": "forward",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "在网络中将来自他人的信息转发给其他方的行为。"
+  },
+  {
+   "cn": "危害",
+   "en": "hazard",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0266",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "食品中对人类健康产生的不良作用。"
+  },
+  {
+   "cn": "危险源",
+   "en": "hazard",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.022",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "可能导致人身伤害、财产损失和环境破坏的根源、状态、行为或其组合。"
+  },
+  {
+   "cn": "危险",
+   "en": "hazard",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0640",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "可能导致伤害或疾病、财产损失、工作环境破坏或这些情况组合的根源或状态。"
+  },
+  {
+   "cn": "奖赏",
+   "en": "reward",
+   "source": "心理学名词",
+   "wordNumber": "05.210",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "通过食物、药物、金钱等物质或心理刺激使个体产生愉悦感，从而强化行为的过程。"
+  },
+  {
+   "cn": "危险",
+   "en": "hazard",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.255",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "危险",
+   "en": "hazard",
+   "source": "电气工程名词",
+   "wordNumber": "29.032",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "前",
+   "en": "forward",
+   "source": "航海科技名词",
+   "wordNumber": "08.0009",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "发出",
+   "en": "forward",
+   "source": "航海科技名词",
+   "wordNumber": "14.0133",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "板材",
+   "en": "board",
+   "source": "林学名词",
+   "wordNumber": "11.176",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "宽度尺寸为厚度尺寸2倍以上的锯材。"
+  },
+  {
+   "cn": "板材",
+   "en": "board",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0516",
+   "subjectFullName": "材料科学技术_天然材料_木材_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "宽度尺寸为厚度尺寸2倍以上的锯材。分薄板、中板、厚板和特厚板几种。"
+  },
+  {
+   "cn": "纸板",
+   "en": "board",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0284",
+   "subjectFullName": "材料科学技术_天然材料_纸",
+   "subjectName": "纸",
+   "publishYear": "2011",
+   "definition": "定量相对较高的纸种。"
+  },
+  {
+   "cn": "薄板",
+   "en": "board",
+   "source": "土木工程名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "土木工程_工程材料_建筑木材、竹材",
+   "subjectName": "建筑木材、竹材",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "纸板",
+   "en": "board",
+   "source": "电气工程名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "板件",
+   "en": "board,panel",
+   "source": "林学名词",
+   "wordNumber": "11.563",
+   "subjectFullName": "林学_木材科学与技术_家具与木制品",
+   "subjectName": "家具与木制品",
+   "publishYear": "2016",
+   "definition": "长度和宽度尺寸大于等于厚度尺寸3倍的木制品零部件。"
+  },
+  {
+   "cn": "板材",
+   "en": "plank,board",
+   "source": "建筑学名词",
+   "wordNumber": "12.0231",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "由原木锯解成矩形截面，宽度与厚度之比不小于规定值的木材。"
+  },
+  {
+   "cn": "病房",
+   "en": "ward",
+   "source": "建筑学名词",
+   "wordNumber": "02.0588",
+   "subjectFullName": "建筑学_建筑类型及组成_医疗卫生建筑",
+   "subjectName": "医疗卫生建筑",
+   "publishYear": "2014",
+   "definition": "入院病人接受观察、护理、治疗的用房。"
+  },
+  {
+   "cn": "向日扇区",
+   "en": "toward sector",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0238",
+   "subjectFullName": "地球物理学_空间物理学_行星际与太阳",
+   "subjectName": "行星际与太阳",
+   "publishYear": "2022",
+   "definition": "磁场方向指向太阳的行星际磁场扇形区域。 "
+  },
+  {
+   "cn": "霍华德，莱斯利",
+   "en": "Howard\",\"Leslie(澳大利亚)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "汉森",
+   "en": "Hanson\",\"Howard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陶布曼",
+   "en": "Taubman\",\"Howard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弗格森",
+   "en": "Ferguson\",\"Howard(爱尔兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蓝顿, 罗宾斯",
+   "en": "Landon\",\"Howard Chandler Robbins(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冒险",
+   "en": "hazard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报酬",
+   "en": "reward",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发出",
+   "en": "forward",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "科沃德",
+   "en": "Coward\",\"Henry(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "休厄德",
+   "en": "Heward\",\"Leslie(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "板材",
+   "en": "board",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纸板",
+   "en": "board",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "板",
+   "en": "board",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "霜凇",
+   "en": "air hoar\",\"hard rime",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺向进料",
+   "en": "forward feeding\",\"forward feed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward reasoning\",\"forward chained reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艏吃水",
+   "en": "fore draft\",\"draught forward\",\"forward draft\",\"forward draught",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "正向引物",
+   "en": "forward primer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "前向散射",
+   "en": "forward scatter",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上升气流",
+   "en": "upward flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "翻上",
+   "en": "upward circle\",\"upward movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前进步",
+   "en": "forward step",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前舱板",
+   "en": "forward deck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋线",
+   "en": "forward line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前摆",
+   "en": "swing forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前空翻",
+   "en": "forward salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前滚翻",
+   "en": "forward roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向内跳水",
+   "en": "inward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前跳水",
+   "en": "forward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "危害",
+   "en": "hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当生物、系统或（亚）人群暴露于某种因素或状况时，该因素或状况具有引起有害作用的天然属性。"
+  },
+  {
+   "cn": "危害特征描述",
+   "en": "hazard characterization",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "对食品中生物、化学、物理因素所产生的不良健康影响进行的定性和（或）定量评估。"
+  },
+  {
+   "cn": "危害评估",
+   "en": "hazard assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.16",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估设施、活动或源有关的危害，以确定可能需要采取防护行动和其他响应行动的那些事件和相关领域，以及可有效减轻事件后果的行动。"
+  },
+  {
+   "cn": "风险率",
+   "en": "hazard rate",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.143",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "给定观测值已经存续了t-1个时期，那么到第t个时期观测值无法存续的比率。"
+  },
+  {
+   "cn": "上升流动",
+   "en": "upward mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "人们从较低地位等级的职业、阶级或阶层流动到较高地位等级的职业、阶级或阶层。也指人们从较低收入群体跃升为较高收入群体。"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "健康保险的第三方付费，引起参保者或医疗机构健康态度和行为上的改变，导致健康服务需求额外增加的行为"
+  },
+  {
+   "cn": "职业性有害因素",
+   "en": "occupational hazard",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "在职业活动中产生和（或）存在的，可能对职业人群健康、安全和作业能力造成不良影响的因素或条件。包括化学、物理、生物等因素。"
+  },
+  {
+   "cn": "危害特征描述",
+   "en": "hazard characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在食品中能对健康造成不良影响的生物、化学或物理性物质的性质进行定性和/或定量判断的过程"
+  },
+  {
+   "cn": "激光危害",
+   "en": "laser hazard",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.7.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "激光对生物组织的损害效应，主要有热效应、光化学效应、压强效应、电磁场效应及弱激光刺激效应。损伤程度与辐射强度、照射时间、生物组织特性及激光波长、类型等相关，对人体的主要靶器官是眼睛和皮肤。"
+  },
+  {
+   "cn": "潜在危害",
+   "en": "potential hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.21",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，可能存在但危害程度相对较低或发生可能性较小的危害。如不加以预防，将有可能发生的食品安全危害。"
+  },
+  {
+   "cn": "危害分析",
+   "en": "hazard analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "找出与食品原料有关和与食品加工过程有关的可能危及产品安全的潜在危害，然后确定这些潜在危害中可能发生的显着危害，并对每种显着危害制定预防措施的过程。"
+  },
+  {
+   "cn": "危害识别",
+   "en": "hazard identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据流行病学、动物实验、体外试验、结构-活性关系等科学数据和文献信息，确定生物、系统或（亚）人群暴露于某一因素或状况后发生有害作用的类型和属性的过程。"
+  },
+  {
+   "cn": "食品危害",
+   "en": "food hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.7",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "食品中所含有的对健康有潜在不良影响的生物、化学以及物理因素。"
+  },
+  {
+   "cn": "显着危害",
+   "en": "significant hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，有极大可能发生的生物、化学或物理危害，且一旦发生将对消费者造成不可接受的健康危险，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "危害评估",
+   "en": "hazard assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "确定某种因素或状况对生物、系统或（亚）人群可能产生有害作用的过程。包括危害识别和危害表征。"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.032",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "某些道德原则和规范在现实生活中的推行、实践有可能导致不理想效果或负面影响的危险性，亦指可能的道德行为在实际过程中的不确定性。它植根于人的存在特性及其动机与效果的不对等性，与人在道德和行为上的探求活动密"
+  },
+  {
+   "cn": "虫害",
+   "en": "insect hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.10",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "对食品生产和产品造成不良影响的昆虫（如苍蝇、蟑螂、谷螟等）、鸟类（如麻雀等）、啮齿类（如老鼠等）等动物。"
+  },
+  {
+   "cn": "危害识别",
+   "en": "hazard identification",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "对食品中可能产生不良健康影响的生物、化学、物理因素进行的确定。"
+  },
+  {
+   "cn": "规格板",
+   "en": "dimension board",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "涂抹采样时用于准确定量采样面积的实验器材。多以金属板或塑料制成，中间镂空的50mm×50mm的正方形。"
+  },
+  {
+   "cn": "斯大林奖金",
+   "en": "Stalin award",
+   "source": "马克思主义",
+   "wordNumber": "04.0114",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林奖金是根据1939年12月苏联人民委员会决议设立的一项奖金，旨在鼓励科学技术发明和文学艺术创作。从1941年起开始颁发，一年一次。由有关单位和各方面的著名人士组成委员会，对已提出的候选人进行评选"
+  }
+ ],
+ "error": null,
  "raw": null
 }

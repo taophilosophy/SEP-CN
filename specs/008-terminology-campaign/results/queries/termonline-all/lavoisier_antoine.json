@@ -2,10 +2,441 @@
  "key": "lavoisier, antoine",
  "term": "Lavoisier, Antoine",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:17+00:00",
- "status": "error",
- "note": "variant=Lavoisier, Antoine; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lavoisier, Antoine: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:33:09+00:00",
+ "status": "ok",
+ "note": "variant=Lavoisier, Antoine; 审定公布名词库=39; 海峡两岸名词对照库=64; 其他来源数据库=4; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "安托万方程",
+   "en": "Antoine equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0124",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "计算液体饱和蒸气压与温度关系的方程。"
+  },
+  {
+   "cn": "安托万方程",
+   "en": "Antoine equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "化学工程_化工热力学_流体的P-T-V关系",
+   "subjectName": "流体的P-T-V关系",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "安托万·奥古斯丁·古诺",
+   "en": "Antoine Augustin Cournot（1801—1877）",
+   "source": "经济学名词",
+   "wordNumber": "16.029",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "法国经济学家、数学家，数理经济学派先驱者。出生于法国格雷。1821年进入巴黎高等师范学校学习数学，1829年获该校理学博士学位。1831年任巴黎大学副教授；1834年任里昂大学数学力学教授；1835年"
+  },
+  {
+   "cn": "黄嘌呤",
+   "en": "xanthine",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0009",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸化学组成_碱基和核糖",
+   "subjectName": "碱基和核糖",
+   "publishYear": "2024",
+   "definition": "嘌呤碱基的一种代谢物。广泛存在于动植物体中。在黄嘌呤氧化酶的作用下转换为尿酸。"
+  },
+  {
+   "cn": "硬鳞质",
+   "en": "ganoine",
+   "source": "动物学名词",
+   "wordNumber": "6.0153",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "硬麟表层类似釉质的结构。"
+  },
+  {
+   "cn": "苯胺",
+   "en": "aniline",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.163",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/huagongII1.02.163.01.png'/>，由硝基苯加氢制得。主要用于制造染料、药物、树脂等。"
+  },
+  {
+   "cn": "硬鳞质",
+   "en": "ganoine",
+   "source": "古生物学名词",
+   "wordNumber": "03.0053",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2009",
+   "definition": "硬鳞最上层发亮的釉质结构。见于软骨硬磷鱼类和全骨鱼类。传统上认为其来源于中胚层，为一种特殊的似釉质结构。最近研究表明，硬鳞质来源于皮肤外胚层，属于釉质结构。"
+  },
+  {
+   "cn": "苯胺",
+   "en": "aniline",
+   "source": "石油名词",
+   "wordNumber": "07.0242",
+   "subjectFullName": "石油_石油化工_石油化工产品与中间体",
+   "subjectName": "石油化工产品与中间体",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "抗排卵肽",
+   "en": "antide",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "9.0143",
+   "subjectFullName": "生物化学与分子生物学_激素与维生素_激素_人和脊椎动物激素",
+   "subjectName": "人和脊椎动物激素",
+   "publishYear": "2024",
+   "definition": "一种十一肽。是促黄体素释放素或促性腺素释放素的强拮抗剂。有抗卵巢排卵作用。用于阻止促黄体素释放素或促性腺素释放素诱发的卵巢肿瘤细胞的增殖。"
+  },
+  {
+   "cn": "辐",
+   "en": "actine",
+   "source": "动物学名词",
+   "wordNumber": "5.056",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "骨针的中心放射轴。含一个轴或轴管。"
+  },
+  {
+   "cn": "内壁",
+   "en": "intine",
+   "source": "植物学名词",
+   "wordNumber": "15.0008",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "花粉或孢子内面的壁。位于外壁之下，紧贴于细胞质膜上，主要由纤维素组成，经醋酸酐分解或在化石孢粉中不能保存。"
+  },
+  {
+   "cn": "花粉内壁",
+   "en": "intine",
+   "source": "细胞生物学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "细胞生物学_细胞结构与细胞外基质",
+   "subjectName": "细胞结构与细胞外基质",
+   "publishYear": "2009",
+   "definition": "花粉粒壁的内壁，相当于初生壁。"
+  },
+  {
+   "cn": "内壁",
+   "en": "intine",
+   "source": "古生物学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "花粉壁最内层，在外壁内层之下，和细胞质表面作界。"
+  },
+  {
+   "cn": "苯胺染料",
+   "en": "aniline dye",
+   "source": "精细化工名词",
+   "wordNumber": "04.0036",
+   "subjectFullName": "精细化工_染料与颜料",
+   "subjectName": "染料与颜料",
+   "publishYear": "2025",
+   "definition": "分子中含苯胺结构的染料。"
+  },
+  {
+   "cn": "黄嘌呤氧化酶",
+   "en": "xanthine oxidase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0207",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_氧化还原酶",
+   "subjectName": "氧化还原酶",
+   "publishYear": "2024",
+   "definition": "催化由黄嘌呤形成尿酸以及由次黄嘌呤形成黄嘌呤的氧化过程的酶。是一种含钼的黄素蛋白。也能催化醛类的氧化。编号：EC 1.17.3.2。"
+  },
+  {
+   "cn": "苯胺点",
+   "en": "aniline point",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0412",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "等体积苯胺与待测油样混合物相互溶解的最低平衡溶解温度。"
+  },
+  {
+   "cn": "苯胺点",
+   "en": "aniline point",
+   "source": "电力名词",
+   "wordNumber": "12.397",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "油品在规定条件下和等体积的苯胺完全混溶时的最低温度,单位为°C。"
+  },
+  {
+   "cn": "苯胺点",
+   "en": "aniline point",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1240",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "等体积苯胺与待测油样混合物相互溶解的最低平衡溶解温度。"
+  },
+  {
+   "cn": "黄嘌呤氧化酶",
+   "en": "xanthine oxidase",
+   "source": "化学名词",
+   "wordNumber": "01.0665",
+   "subjectFullName": "化学_无机化学_生物无机",
+   "subjectName": "生物无机",
+   "publishYear": "2016",
+   "definition": "能将核酸降解产物之一的黄嘌呤催化氧化为尿酸，在生物体内普遍存在的一类钼转氧酶。"
+  },
+  {
+   "cn": "黄嘌呤结石",
+   "en": "xanthine stone",
+   "source": "泌尿外科学名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "泌尿外科学_尿石症",
+   "subjectName": "尿石症",
+   "publishYear": "2014",
+   "definition": "主要因黄嘌呤氧化酶缺乏及肾小管漏出，以致产生黄嘌呤尿，严重者形成以黄嘌呤为主要成分的泌尿系结石。临床上极罕见。"
+  },
+  {
+   "cn": "安托万方程",
+   "en": "Antoine equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夏邦蒂埃，马克-安托万内",
+   "en": "Charpentier\",\"Marc-Antoine(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺",
+   "en": "aniline",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "黄嘌呤",
+   "en": "xanthine",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内壁",
+   "en": "intine",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗排卵肽",
+   "en": "antide",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花粉内壁",
+   "en": "intine",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺染料",
+   "en": "aniline dye",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺绿",
+   "en": "aniline green",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺紫",
+   "en": "aniline violet",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺蓝",
+   "en": "aniline blue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺橙",
+   "en": "aniline orange",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺点",
+   "en": "aniline point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺红",
+   "en": "aniline red",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺革",
+   "en": "aniline leather",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "黄嘌呤氧化酶",
+   "en": "xanthine oxidase",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黄嘌呤氧化酶",
+   "en": "xanthine oxidase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺蓝",
+   "en": "aniline blue",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "黄嘌呤氧化酶",
+   "en": "xanthine oxidase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺油墨",
+   "en": "aniline ink",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "法立，有犯而必施；令出，唯行而不返",
+   "en": "Once enacted, a law must be enforced and anyone who violates it must be held to account.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "有法可依，有法必依，执法必严，违法必究",
+   "en": "ensure that laws are put in place, observed, and strictly enforced and that anyone who violates the law is held to account",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "黄嘌呤氧化酶抑制剂",
+   "en": "xanthine oxidase inhibitors,XOI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "一类抑制尿酸生成的降尿酸药物。主要通过抑制黄嘌呤氧化酶的活性，阻断次黄嘌呤和黄嘌呤向尿酸的代谢转化，从而减少尿酸生成。临床常用药物有别嘌呤醇、非布司他等。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

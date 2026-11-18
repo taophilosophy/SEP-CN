@@ -1,0 +1,432 @@
+{
+ "key": "spacetime geometry",
+ "term": "spacetime geometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:12:42+00:00",
+ "status": "ok",
+ "note": "variant=spacetime geometry; 审定公布名词库=251; 海峡两岸名词对照库=85; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "时空几何",
+   "en": "spacetime geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0241",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空",
+   "en": "spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0008",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空流形",
+   "en": "spacetime manifold",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.361",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "由所有可能的和实际的时空点所构成的四维可微分流形。"
+  },
+  {
+   "cn": "时空观",
+   "en": "spacetime view",
+   "source": "物理学名词",
+   "wordNumber": "06.0090",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空奇点",
+   "en": "spacetime singularity",
+   "source": "物理学名词",
+   "wordNumber": "06.0089",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空弯曲",
+   "en": "spacetime bending",
+   "source": "物理学名词",
+   "wordNumber": "06.0326",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空反演",
+   "en": "spacetime inversion",
+   "source": "物理学名词",
+   "wordNumber": "09.1391",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空点",
+   "en": "spacetime point",
+   "source": "物理学名词",
+   "wordNumber": "06.0225",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平直时空",
+   "en": "flat spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0217",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "弯曲时空",
+   "en": "curved spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0218",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空对称性",
+   "en": "spacetime symmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1417",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "时空均匀性",
+   "en": "homogeneity of spacetime,uniformity of spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0115",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维时空",
+   "en": "four-dimensional spacetime",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.359",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "由三维的空间加上一维的时间所构成的时空连续统。具有闵可夫斯基结构。"
+  },
+  {
+   "cn": "时空拓扑",
+   "en": "topology of spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0273",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空曲率",
+   "en": "curvature of spacetime",
+   "source": "物理学名词",
+   "wordNumber": "06.0258",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何学",
+   "en": "structural geometry",
+   "source": "地质学名词",
+   "wordNumber": "09.01.003",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究不同尺度构造的形状、产状、方位、大小，以及各构造要素之间和相关构造之间的几何和空间关系的构造地质学分支学科。是构造运动学和动力学分析的基础。"
+  },
+  {
+   "cn": "射线几何学",
+   "en": "ray geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波传播过程中从源到达接收点的射线的几何学。 "
+  },
+  {
+   "cn": "分形几何学",
+   "en": "fractal geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2247",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以不规则几何形态为研究对象的几何学。 "
+  },
+  {
+   "cn": "旁线装置",
+   "en": "broadside geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0201",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "当发射与接收两线圈一起移动逐点观测时，称为动源系统、动源式装置，其中收发线圈分别在测线与旁线上称为旁线装置。 "
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水力几何形态",
+   "en": "hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欧几里得几何学",
+   "en": "Euclidean geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行星几何学",
+   "en": "planetary geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参数几何",
+   "en": "parametric geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何",
+   "en": "constructive geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何[学]",
+   "en": "computational geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子几何[结构]",
+   "en": "molecular geometry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "坐标几何",
+   "en": "coordinate geometry\",\"COGO",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "河相关系",
+   "en": "river hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "坐标几何",
+   "en": "coordinate geometry(COGO)",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矿体几何[学]",
+   "en": "mineral deposits geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平时卫生统计",
+   "en": "health statistics in peacetime",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队平时医疗卫生保障工作数质量情况进行的原始登记、数据上报及统计分析，主要包括部队人员健康统计、部队疾病统计和部队卫生工作统计等方面，为上级机关汇总数据、指导部队基层卫生工作提供客观依据。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

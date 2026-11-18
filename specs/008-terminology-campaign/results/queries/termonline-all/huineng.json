@@ -2,10 +2,81 @@
  "key": "huineng",
  "term": "Huineng",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:29:54+00:00",
- "status": "error",
- "note": "variant=Huineng; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Huineng: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:51+00:00",
+ "status": "ok",
+ "note": "variant=Huineng; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "遂宁组",
+   "en": "Suining Formation",
+   "source": "地质学名词",
+   "wordNumber": "07.04.663",
+   "subjectFullName": "地质学_地史学与地层学_岩石地层学",
+   "subjectName": "岩石地层学",
+   "publishYear": "2026",
+   "definition": "分布于川、滇、黔、陕、鄂等省。选层型为四川蓬溪高坪黄朝门-中江广福凤凰寨剖面。为红色、鲜紫红色、砖红色泥岩、页岩夹砂岩、粉砂岩。含双壳类、叶肢介、介形类、轮藻等化石。时代属晚侏罗世。"
+  },
+  {
+   "cn": "惠阳胡须鸡",
+   "en": "Huiyang bearded chicken",
+   "source": "畜牧学名词",
+   "wordNumber": "03.094",
+   "subjectFullName": "畜牧学_家畜家禽品种_鸡品种_地方鸡品种",
+   "subjectName": "地方鸡品种",
+   "publishYear": "2020",
+   "definition": "属肉用型品种。羽毛黄色。单冠，冠、耳叶红色。无肉髯，髯羽发达。虹彩橙黄色。喙、胫黄色。皮肤浅黄色。蛋壳浅褐色。原产地是广东省惠阳地区。"
+  },
+  {
+   "cn": "麝香追风膏",
+   "en": "shexiang zhuifeng plaster",
+   "source": "中医药学名词",
+   "wordNumber": "07.558",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：麝香、独活、香加皮、海风藤、苏木、海桐皮、延胡索、生川乌、生草乌、威灵仙、血竭、木香、乳香、没药、乌药、红花、当归、熟地黄、地黄、麻黄、牛膝、冰片、樟脑、桉油、肉桂油、丁香罗勒油、水杨酸甲脂"
+  },
+  {
+   "cn": "惠能分解",
+   "en": "Huynen decomposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雅典的废墟",
+   "en": "Ruinen von Athen\",\"Die",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  },
+  {
+   "cn": "哈密回王府",
+   "en": "Huiwang Palace of Hami",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0615",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "哈密维吾尔族首领住所。1698 年，第一世回王额贝都拉从京城请来工匠修建王府，费时7年竣工，此后又经历代哈密回王修缮。哈密回王府融合了中原地区建筑艺术的特点，是当时新疆规模最大、最有特色的一座王宫建筑"
+  }
+ ],
+ "error": null,
  "raw": null
 }

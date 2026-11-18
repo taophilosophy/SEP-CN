@@ -1,0 +1,762 @@
+{
+ "key": "market economy",
+ "term": "market economy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:09+00:00",
+ "status": "ok",
+ "note": "variant=market economy; 审定公布名词库=2538; 海峡两岸名词对照库=1043; 其他来源数据库=365; 预公布名词数据库=292; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "市场经济",
+   "en": "market economy",
+   "source": "经济学名词",
+   "wordNumber": "06.142",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "一个企业的生产，或一个社会里各个行业的生产，主要是为了满足市场的需要而进行的。"
+  },
+  {
+   "cn": "社会主义市场经济",
+   "en": "socialist market economy",
+   "source": "经济学名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "把市场经济与社会主义制度相结合的，不仅具有市场经济的一般规定和特征，同时又与社会主义基本制度相结合的市场经济。社会主义市场经济是在积极有效的国家宏观调控下，市场对资源配置起决定性作用，能够实现效率与公"
+  },
+  {
+   "cn": "自由经济",
+   "en": "liberal market economy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0022",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "政府对经济活动较少管制，主要依靠市场机制发挥作用的经济制度。"
+  },
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "经济学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会物质资料的生产和再生产过程。包括物质资料的直接生产过程以及由它决定的交换、分配和消费过程，其内容包括生产力和生产关系两个方面。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "农学名词",
+   "wordNumber": "19.098",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "发生商品和服务交易的系统或场所。既包括由参与商品和服务交换的主体、行为、规则和程序等交易要素及其维护制度组成的系统，也包含具备交易要素及发生交易行为的具体物理空间意义上的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0013",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务所有现实和潜在顾客的集合。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "古代贸易的场所。据《考工记》中“面朝后市”的记载，说明战国时期市已成为城市的重要组成。西汉长安有九个市场，市的平面为方形，四周有墙，墙上设门。市内有十字或井字形街道，两侧分列商铺；其中心设市楼，为市政"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "02.0595",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "聚集大量出租性、综合、独立的店铺进行货物交易买卖的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "世界历史名词",
+   "wordNumber": "02.0524",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "中世纪西欧规模较小的贸易集市，是城市与周围地区进行商品交换的媒介。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "地理学名词",
+   "wordNumber": "18.210",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "商品交换的场所。"
+  },
+  {
+   "cn": "林业经济",
+   "en": "forestry economy",
+   "source": "风景园林名词",
+   "wordNumber": "13.0040",
+   "subjectFullName": "风景园林_其他_林学",
+   "subjectName": "林学",
+   "publishYear": "2025",
+   "definition": "以森林资源为基础，从事森林资源保护、开发与利用的一种经济活动体系。是国民经济体系中的一个重要组成部分。"
+  },
+  {
+   "cn": "原子经济性",
+   "en": "atom economy",
+   "source": "精细化工名词",
+   "wordNumber": "07.0169",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "在化学合成设计中，设法使原料分子中的所有原子全部变成最终目标产物中的原子，不伴随副产物及废料的生成，实现化学反应过程废料的零排放。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "农学名词",
+   "wordNumber": "19.202",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产目的主要是以商品交换为目的的经济形态。"
+  },
+  {
+   "cn": "二元经济",
+   "en": "dual economy",
+   "source": "农学名词",
+   "wordNumber": "19.203",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "发展中国家中现代工业部门和传统农业部门并存的经济形态。"
+  },
+  {
+   "cn": "混合经济",
+   "en": "mixed economy",
+   "source": "农学名词",
+   "wordNumber": "19.204",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "明显包含不同经济运行体制的经济形态。"
+  },
+  {
+   "cn": "合作经济",
+   "en": "cooperative economy",
+   "source": "农学名词",
+   "wordNumber": "19.209",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "劳动者通过自愿联合、民主管理及共同经营来获得服务和利益的经济形式。"
+  },
+  {
+   "cn": "集体经济",
+   "en": "collective economy",
+   "source": "农学名词",
+   "wordNumber": "19.210",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产资料和劳动产品归组织内劳动群众集体共同所有的公有制经济形式。"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）于1996年正式提出。指以知识和信息资源的拥有、配置、产出和"
+  },
+  {
+   "cn": "非物质经济",
+   "en": "immaterial economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "在20世纪末生态文明建设进入新的历史阶段对物质主义之观念系统反思的产物。强调非物质在社会经济生活中的重要性及作用，在现代社会经济运行进程中合理协调物质文明与精神文明的关系，满足全社会对精神价值的生产和"
+  },
+  {
+   "cn": "绿色经济",
+   "en": "green economy",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "以市场为导向、以传统产业经济为基础、以经济与环境的和谐为目的而发展起来的一种新的经济形式。是产业经济为适应人类环保与健康需要而产生并表现出来的一种发展状态。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "蒸汽经济",
+   "en": "steam economy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "循环经济",
+   "en": "circular economy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋经济",
+   "en": "marine economy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集聚经济",
+   "en": "agglomeration economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间经济",
+   "en": "spatial economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性经济体制",
+   "en": "destructive economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "学习[型]经济",
+   "en": "learning economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "本地化经济",
+   "en": "localization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化经济",
+   "en": "urbanization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "外部经济",
+   "en": "external economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场篮子",
+   "en": "market basket",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本密集型经济",
+   "en": "capital intensive economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "范畴经济",
+   "en": "economy of scope",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义市场经济体制",
+   "en": "the socialist market economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节用",
+   "en": "Economy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络经济",
+   "en": "network economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能经济",
+   "en": "smart economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零工经济",
+   "en": "gig economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济",
+   "en": "Digital Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云经济",
+   "en": "cloud economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型经济",
+   "en": "Sharing Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用经济",
+   "en": "credit economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济",
+   "en": "Platform Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享经济",
+   "en": "sharing economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群经济",
+   "en": "community economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济体",
+   "en": "platform economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济体",
+   "en": "Digital Economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场经济",
+   "en": "market economy",
+   "source": "马克思主义",
+   "wordNumber": "03.0596",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以市场机制作为配置社会资源基本手段的一种经济体制。它是高度发达的、与社会化大生产相联系的商品经济，其最基本的特征是经济资源商品化、经济关系货币化、市场价格自由化和经济系统开放化。市场经济体制下的国家对"
+  },
+  {
+   "cn": "社会市场经济",
+   "en": "social market economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.57",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "德国第二次世界大战后所采取的经济制度。其基本理念是社会经济发展有两个不可分的领域——带来效率的市场以及提供社会保障、社会公正和社会进步的社会福利市场，在经济政策制定上要把两者结合起来。"
+  },
+  {
+   "cn": "资本主义市场经济",
+   "en": "capitalist market economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0409",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以生产资料资本主义私有制为主体,以资本家获取剩余价值为生产目的的一种市场配置资源的经济制度。它表现出三个基本特征：生产资料私人所有；追求私人利润在生产决策中居于支配地位；依靠市场决定资源配置。"
+  },
+  {
+   "cn": "社会主义市场经济",
+   "en": "socialist market economy",
+   "source": "马克思主义",
+   "wordNumber": "03.0592",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在中国共产党的领导下，社会主义公有制主体和按劳分配主体的经济制度与市场经济相结合的经济体制。与以私有制和按资分配为主体的资本主义市场经济体制有根本的不同。"
+  },
+  {
+   "cn": "社会主义定向的市场经济",
+   "en": "socialistoriented market economy",
+   "source": "马克思主义",
+   "wordNumber": "05.0240",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "2001年越共九大上提出的越南经济体制改革的目标。核心内容是把市场经济规律和社会主义制度相结合，意在建立起按照市场规律运行的，同时朝着社会主义方向发展的经济制度。"
+  },
+  {
+   "cn": "自由市场经济",
+   "en": "liberal market economies",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.54",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "企业遵循交易成本的原则，经由等级权威制或市场竞争来协调其经济行动的经济形态。市场关系特点是通过竞争、以正式合同的形式进行公平交易，行动者接受市场上的价格信号，进行边际收益/成本的计算，来调整自己对特定"
+  },
+  {
+   "cn": "协调市场经济",
+   "en": "coordinated market economies",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.55",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "企业主要依赖非市场关系来协调彼此的行为决策，建构自己的核心竞争力的经济形态。这些合作的非市场模式通常包括关系合同、在社会网络中借助私人信息交换而操纵网络，主要依赖合作关系而非竞争关系来打造企业的竞争优"
+  },
+  {
+   "cn": "社会主义市场经济体制",
+   "en": "socialist market economy system",
+   "source": "马克思主义",
+   "wordNumber": "02.0419",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义公有制主体与国家主要按照市场经济规律组织和管理经济相结合的体制。这种体制使市场在国家调节下对一般经济资源配置起决定性作用。"
+  },
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0152",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们生产、流通、分配、消费一切物质精神资料的总称，人类经济活动就是创造、转化、实现价值，满足人类物质文化生活需要的活动。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "临时或定期集中一地进行的贸易活动。也指城市中划定的贸易之所或商业区。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "马克思主义",
+   "wordNumber": "02.0226",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换关系的总和，是商品经济的必然产物。有时也指某种特定交易场所或机制，如消费品、生产资料、货币、劳动力等交换空间或机制。"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "狭义上是商品交换的场所，广义上为商品交换关系的总和。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "买卖双方进行商品交换的场所。经济人类学认为市场并非自然的存在，“市场的自我调节功能”是经济学上的一个假设，而非实然的真理。"
+  },
+  {
+   "cn": "民族经济",
+   "en": "ethnic economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "狭义上指多民族国家少数民族的经济；广义上主要是指一国家或地区为单位的民族经济。"
+  },
+  {
+   "cn": "殖民地经济",
+   "en": "colonial economy",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "受宗主国控制的附属国家或地区在经济发展上服从于宗主国的利益，工商业发展受到宗主国限制，经济结构单一，和宗主国存在着能源、原材料、劳动力和资本、工业制成品之间的不平等贸易的经济发展模式。"
+  },
+  {
+   "cn": "全球化经济",
+   "en": "global economy",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "主要的生产要素打破国界限制，形成了全球范围内的经济体系。20世纪80年代以来，主要由于贸易自由化和信息技术的迅猛发展，资本和劳动力都越来越打破国界限制，形成了全球性的生产、运输、贸易、消费网络。"
+  },
+  {
+   "cn": "实质经济学",
+   "en": "substantive economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "基于人类生存活动的实在主义范畴，即维持人的活动或者社会的存续而调用物质资源的过程，进行的经济学研究。这些范畴包括人类与自然之间以物质资源为媒介的互动，以及这些物质资源在人类社会内部的流动。在卡尔·波兰"
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.46",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "自20世纪末期以来围绕或源自特定产业（主要是信息技术、金融业，及生物科技）的经济形态。新经济的主要特征是信息主义、网络化和全球化。卡斯特尔(Manuel Castells)提出的概念。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "采集经济",
+   "en": "gathering economy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.29",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "以采集大自然中天然生长的动植物为生存条件的经济，是农耕和畜牧的生产手段出现之前人类获得食物的最基本手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

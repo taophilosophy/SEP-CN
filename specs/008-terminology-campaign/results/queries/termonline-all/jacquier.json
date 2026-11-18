@@ -2,10 +2,411 @@
  "key": "jacquier",
  "term": "Jacquier",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:13:27+00:00",
- "status": "error",
- "note": "variant=Jacquier; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jacquier: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:30+00:00",
+ "status": "ok",
+ "note": "variant=Jacquier; 审定公布名词库=35; 海峡两岸名词对照库=19; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "真石漆",
+   "en": "lacquer",
+   "source": "风景园林名词",
+   "wordNumber": "08.1132",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "能模拟大理石、花岗岩，主要采用各种颜色的天然石粉配制而成，应用于建筑外墙的具有仿石材效果的涂料。"
+  },
+  {
+   "cn": "光盘保护胶",
+   "en": "lacquer",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.033",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "涂敷在光盘表面保护反射层免受氧化的化学材料。"
+  },
+  {
+   "cn": "亮漆膜",
+   "en": "lacquer",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0339",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "润滑中，燃料和润滑剂高温氧化或聚合而在摩擦表面上形成的沉积物。"
+  },
+  {
+   "cn": "生漆",
+   "en": "Chinese lacquer,raw lacquer",
+   "source": "林学名词",
+   "wordNumber": "12.515",
+   "subjectFullName": "林学_林产化学加工_树木分泌物与提取物",
+   "subjectName": "树木分泌物与提取物",
+   "publishYear": "2016",
+   "definition": "漆树树干韧皮部割口分泌的乳白色或黄色黏稠液体。主要成分为漆酚、漆酶、树胶质、含氮物质和水分等。"
+  },
+  {
+   "cn": "生漆",
+   "en": "Chinese lacquer,raw lacquer",
+   "source": "建筑学名词",
+   "wordNumber": "12.0266",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "中国的传统涂料。从漆树上采割的乳白色胶状液体，将其涂刷于物体表面，在空气中干燥变为黑色。"
+  },
+  {
+   "cn": "天然[大]漆",
+   "en": "raw lacquer",
+   "source": "风景园林名词",
+   "wordNumber": "08.1074",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "以漆树汁为原料经加工而成的涂料。是我国特产，主要应用于涂饰建筑物、木器。"
+  },
+  {
+   "cn": "硝化棉光油",
+   "en": "nitrocellulose lacquer",
+   "source": "精细化工名词",
+   "wordNumber": "08.1368",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "由硝化棉纤维经增塑或化学改性而制得的一类成膜剂。其耐磨、耐刮，光亮度高，主要用作光亮剂。"
+  },
+  {
+   "cn": "胶盘",
+   "en": "lacquer disk",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.01.040",
+   "subjectFullName": "编辑与出版学_音像复制_唱片复制",
+   "subjectName": "唱片复制",
+   "publishYear": "2022",
+   "definition": "在金属底板两面涂敷硝酸素的录音用圆片。"
+  },
+  {
+   "cn": "胶盘原版",
+   "en": "lacquer original",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.01.043",
+   "subjectFullName": "编辑与出版学_音像复制_唱片复制",
+   "subjectName": "唱片复制",
+   "publishYear": "2022",
+   "definition": "用于以电镀方法生产金属头版的录音胶盘。"
+  },
+  {
+   "cn": "保护胶旋涂",
+   "en": "lacquer coating",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.034",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "将保护胶旋转涂敷至光盘表面的光盘生产工艺过程。一般包括旋转涂敷和紫外烘干两个步骤。"
+  },
+  {
+   "cn": "熟漆",
+   "en": "ripe lacquer",
+   "source": "林学名词",
+   "wordNumber": "12.516",
+   "subjectFullName": "林学_林产化学加工_树木分泌物与提取物",
+   "subjectName": "树木分泌物与提取物",
+   "publishYear": "2016",
+   "definition": "生漆经过氧化聚合、脱水制得的产物。"
+  },
+  {
+   "cn": "生漆",
+   "en": "raw lacquer",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0757",
+   "subjectFullName": "材料科学技术_天然材料_木材_林产化工材料",
+   "subjectName": "林产化工材料",
+   "publishYear": "2011",
+   "definition": "将漆树树干韧皮部割破，收集流出的乳白色黏稠液体，经滤去杂质而得到的漆。为中国特产。主要成分是漆酚，还有漆酶、树胶质、含氮物质和水分等。"
+  },
+  {
+   "cn": "熟漆",
+   "en": "ripe lacquer",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0758",
+   "subjectFullName": "材料科学技术_天然材料_木材_林产化工材料",
+   "subjectName": "林产化工材料",
+   "publishYear": "2011",
+   "definition": "生漆在搅拌下经日晒或低温烘烤，进行氧化聚合，并脱去一部分水而得。含水量约6%~8%，颜色为紫红或深棕色。如加入颜料，可制成各种色漆。"
+  },
+  {
+   "cn": "大漆",
+   "en": "Chinese lacquer",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0906",
+   "subjectFullName": "材料科学技术_高分子材料_胶黏剂与涂料_涂料",
+   "subjectName": "涂料",
+   "publishYear": "2011",
+   "definition": "从漆树分泌物得到的清漆树脂。其主要成分为漆酚、漆酶、树脂质和水。"
+  },
+  {
+   "cn": "漆中毒",
+   "en": "lacquer poisoning",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1390",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "因漆入目或皮肤接触所致的中毒病。"
+  },
+  {
+   "cn": "干漆",
+   "en": "dried lacquer",
+   "source": "中医药学名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "漆树科植物漆树"
+  },
+  {
+   "cn": "雕漆家具",
+   "en": "carved lacquer furniture",
+   "source": "风景园林名词",
+   "wordNumber": "11.0244",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "以天然漆料在素漆家具胎骨上反复上漆若干道涂出一定厚度，再在漆胎上雕刻花纹，剔除纹骨外漆料制成的家具。“雕漆”工艺又称“剔漆”，有红、黄、绿、黑等单色或间色漆涂刷，故家具、器物惯以漆色命名“剔红”“剔黑"
+  },
+  {
+   "cn": "推光漆",
+   "en": "refined Chinese lacquer",
+   "source": "风景园林名词",
+   "wordNumber": "08.1075",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "由天然漆经加热脱水加入氢氧化铁（或少量顺丁烯二酸酐树脂）制成的涂料。主要用于古建筑和特种工艺品、高级木器的涂饰。具有漆膜光亮、丰满、保光性和耐水性好，干燥快的优点。有透明推光漆、半透明推光漆和黑色推光"
+  },
+  {
+   "cn": "刻灰家具",
+   "en": "carved lacquer furniture",
+   "source": "风景园林名词",
+   "wordNumber": "11.0250",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "采用刻灰工艺制作的大漆家具。“刻灰”是北京地区称法，又名“大雕填”，扬州称“深刻”，苏州、上海称“款彩”“刻漆”。是在素漆地上深挖出低陷的图案，保留所有花纹轮廓，轮廓内填色漆或色油或金、银，不与漆地齐"
+  },
+  {
+   "cn": "堆灰家具",
+   "en": "embossed lacquer furniture",
+   "source": "风景园林名词",
+   "wordNumber": "11.0249",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "在素漆家具表面用漆或漆灰堆起塑成各式花纹，于花纹上雕刻细加工，再经过髹饰或描金等工序制成的家具。花纹隆起，高低错落，有如浮雕。经过描金工序又称“隐起描金”“识文描金”。"
+  },
+  {
+   "cn": "盘购方，兼并方",
+   "en": "acquirer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "需方",
+   "en": "acquirer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漆",
+   "en": "lacquer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纤维素喷漆",
+   "en": "cellulose lacquer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生漆",
+   "en": "raw lacquer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "大漆",
+   "en": "Chinese lacquer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "熟漆",
+   "en": "ripe lacquer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "防震涂料",
+   "en": "shock proof lacquer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蒂博",
+   "en": "Thibaud\",\"Jacques(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "让森",
+   "en": "Jansen\",\"Jacques(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伊贝尔",
+   "en": "Ibert\",\"Jacques(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥芬巴赫",
+   "en": "Offenbach\",\"Jacques(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿列维",
+   "en": "Halévy\",\"Jacques-François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卢梭，让-雅克",
+   "en": "Rousseau\",\"Jean-Jacques(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉穆若，琼",
+   "en": "Lamoureux\",\"Jean Jacques(加拿大)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "尚博尼埃",
+   "en": "Chambonnières\",\"Jacques Champion de(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罗德",
+   "en": "Rode\",\"(Jacques-) Pierre(Joseph)(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雅凯·德·拉·盖尔",
+   "en": "Jacquet de la Guerre\",\"Elisabeth(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抗艾滋病药",
+   "en": "anti-acquied immunodeticiency syndrome drug(anti-AIDS drug)",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "格物致知",
+   "en": "Study Things to Acquire Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,782 @@
+{
+ "key": "essentialist reading",
+ "term": "essentialist reading",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:11:02+00:00",
+ "status": "ok",
+ "note": "variant=essentialist reading; 审定公布名词库=2652; 海峡两岸名词对照库=540; 其他来源数据库=72; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "要素主义课程论",
+   "en": "essentialist curriculum",
+   "source": "教育学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "产生于第二次世界大战前后的一种课程理论。主张课程应当以文化要素为基础，强调人类遗产中所存在的永恒不变的共同要素是知识的核心，学科设置与教材编排都要注重严格的学术标准，体现这些共同要素。代表人物为美国教"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.055",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "文本接收者赋予文本意义的过程。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.001",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "读者从读物中获取信息，并进行加工，产生理解与情感效应的精神活动。"
+  },
+  {
+   "cn": "文章审读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.053",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过对样报样刊的通读，发现编校问题，提升报刊质量的编辑活动。"
+  },
+  {
+   "cn": "读数",
+   "en": "reading",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0046",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理观测技术",
+   "subjectName": "地球物理观测技术",
+   "publishYear": "2022",
+   "definition": "仪表、机器上，由指针或水银柱等指出的刻度的数目。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "一种从书面语言和其他书面符号中获得意义的社会行为、实践过程和心理过程。阅读能提高人们的社会文化素质，加强社会意识，促进思想交流，是促进社会健康发展的一项重要人类活动。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "遗传学名词",
+   "wordNumber": "03.461",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "蛋白质合成时密码子被译码为相应的氨基酸。"
+  },
+  {
+   "cn": "测序片段",
+   "en": "reads",
+   "source": "生物物理学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "高通量测序技术产生的短核苷酸序列。常为几十到数百个碱基。"
+  },
+  {
+   "cn": "读长",
+   "en": "reads",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0132",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "一次测序能够完成的DNA片段的核苷酸数。"
+  },
+  {
+   "cn": "阅览空间",
+   "en": "reading room,reading space,reading corner",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.111",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅览服务",
+   "subjectName": "阅览服务",
+   "publishYear": "2019",
+   "definition": "读者在图书馆内阅读书刊资料的场所。"
+  },
+  {
+   "cn": "阅读辅导",
+   "en": "reading guidance,reading instruction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.079",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "对读者的阅读目的、内容与方法给予积极影响的阅读引导活动。目的在于提高读者查找与运用文献的能力，从而提高阅读效果。"
+  },
+  {
+   "cn": "全民阅读",
+   "en": "nation-wide reading,national reading,reading society",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.092",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "一个国家或地区公众整体的阅读求知行为及活动。"
+  },
+  {
+   "cn": "读心术",
+   "en": "mind-reading",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.499",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "常人所具备的“读懂”他人心理状态与活动的技能。对这种能力的解释主要有两种：人们对这一能力的运用是基于常识心理学的基本理论所做的推理，是为“理论观”；人们在理解和预测他人的心理和行为时，是以自身的心理结"
+  },
+  {
+   "cn": "读框",
+   "en": "reading frame",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0354",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "DNA或RNA分子中一组连续的、不重叠的三个核苷酸密码子。每一条mRNA共有3条可能的读框，至于哪3个核苷酸成为一个密码子由起始密码子AUG决定。"
+  },
+  {
+   "cn": "导读题",
+   "en": "reading guidance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.209",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "放在靠前的版面(通常是头版)，对后面版面的内容加以提示的标题。导读题的作用是展示其他版面的精彩内容，吸引读者阅读。"
+  },
+  {
+   "cn": "阅读学",
+   "en": "reading studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.005",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究阅读的目的、方法、过程和其间心理、思想、智慧活动规律的学科。"
+  },
+  {
+   "cn": "阅读史",
+   "en": "reading history",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.005",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "读者在阅读过程中，对书籍等出版物的反应的心理文化史，这种反应主要在阅读经验与实际人生经验、理解出版文本和理解生活这两个区间展开。个体阅读史主要关注阅读在什么情境下发生、读者怎样理解文本、阅读有何影响等"
+  },
+  {
+   "cn": "通读",
+   "en": "through reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.03.005",
+   "subjectFullName": "编辑与出版学_编辑_审稿",
+   "subjectName": "审稿",
+   "publishYear": "2022",
+   "definition": "对稿件从头到尾进行审读的编辑活动。"
+  },
+  {
+   "cn": "协商式解读",
+   "en": "negotiated reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.061",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "受众对媒介信息进行解码时，根据个人立场或某些具体的社会情境，在一定程度上修正了编码者的诠释架构。由斯图亚特·霍尔在1964年提出。"
+  },
+  {
+   "cn": "反抗式解读",
+   "en": "oppositional reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.062",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "受众对媒介信息进行解码时，会根据自身的立场建立另一个诠释架构，使得解码结果与编码者所欲传达的意义完全背道而驰，从而彻底颠覆了编码者的传播意图。由斯图亚特·霍尔在1964年提出。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "读",
+   "en": "read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性读出",
+   "en": "destructive reading\",\"destructive read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反读",
+   "en": "reverse read\",\"backward read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阅读理解",
+   "en": "reading comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读障碍",
+   "en": "reading disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读准备",
+   "en": "reading readiness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读测验",
+   "en": "reading test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "读框",
+   "en": "reading frame",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒镜读数",
+   "en": "reversed reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地图阅读",
+   "en": "map reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数镜",
+   "en": "reading glass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数显微镜",
+   "en": "reading microscope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数线",
+   "en": "reading line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概略读数",
+   "en": "rough reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "记录高差仪",
+   "en": "reading statoscope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "逆时针方向读数，反时针方向读数",
+   "en": "anticlockwise reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "像片阅读",
+   "en": "photographic reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "正镜读数",
+   "en": "direct reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "正像读数",
+   "en": "right-reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "沉潜讽诵",
+   "en": "Focused Study Through Reading and Recitation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "涵泳",
+   "en": "Be Totally Absorbed (in Reading and Learning)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "读万卷书，行万里路",
+   "en": "Read Ten Thousand Books and Travel Ten Thousand Li",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "头球射门",
+   "en": "heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领骑组",
+   "en": "leading bunch\",\"leading group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头球",
+   "en": "header\",\"heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "导航线",
+   "en": "leading line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一集团",
+   "en": "leading group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前导腿",
+   "en": "leading leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补给食物",
+   "en": "feeding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方位",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寝具",
+   "en": "bedding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骟马",
+   "en": "gelding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刈",
+   "en": "reap\",\"reaping\",\"skipping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领骑者",
+   "en": "leader\",\"leading rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头球",
+   "en": "head\",\"header\",\"heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "症候阅读法",
+   "en": "symptomatic reading",
+   "source": "马克思主义",
+   "wordNumber": "05.0066",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞（Louis Althusser）《读〈资本论〉》依据症候的阅读。依据文本表现出的各种“症候”，包括沉默、缺失、空白和严格性上的疏漏等，来揭示文本的深层结构，这一方法是阿尔都塞从精神分析"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0069",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与日本汉字读音的“训读”相对。指由古代中国直接或间接传入日本的基于汉语的汉字读音。如“木”读“もく”[moku]或“ぼく”[boko]。依汉字传入时间和地点的不同可分为古音、吴音、汉音、新汉音、唐音、"
+  },
+  {
+   "cn": "交叉参照",
+   "en": "read across",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据源化学物质的终点信息预测另一种结构相似的化学物质相同终点信息的方法。"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.141",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为每个实体都有一组对于其同一性和功能来说是充分必要的属性。"
+  },
+  {
+   "cn": "本质论",
+   "en": "essentialism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0154",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "反对主流经济学的理性选择假设和资源有限假设的一个流派，也是一种经济人类学立场，与“形式论”相对应。本质论流派最突出的特点是不赞同关于经济行为和经济制度的形式主义看法，而主张从社会、生态自然环境与人类之"
+  },
+  {
+   "cn": "性别本质主义",
+   "en": "gender essentialism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "与性别建构论相对立的性别观，将社会性别归之于不同性别与生俱来、超越社会历史的一种天然本质，是基于生理差异而产生的稳定的、具有普适性的内在特质。女性主义的性别本质主义者往往强调妇女较之男性更具有天然优势"
+  },
+  {
+   "cn": "领导阶级",
+   "en": "leading class",
+   "source": "马克思主义",
+   "wordNumber": "03.0110",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中在经济、政治和意识形态等各个领域占据统治地位和领导地位的阶级。不同社会的领导阶级是不同的。奴隶社会是奴隶主阶级；封建社会是地主阶级；进入资本主义社会后是资产阶级；社会主义社会是无产阶级。在社"
+  },
+  {
+   "cn": "抚养制度",
+   "en": "child-rearing system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.29",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "有关家庭中长辈对未成年晚辈（包括无行为能力人）进行抚育和教养的制度规范。"
+  },
+  {
+   "cn": "家庭养育评估",
+   "en": "family rearing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "了解影响儿童心理行为发展相关家庭环境因素的一类评估。家庭环境因素包括家庭类型、父母或抚养人的文化水平、经济收入、养育方式、亲子依恋关系、父母的婚姻稳定性、是否单亲家庭与家庭养育环境等。"
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith healing",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过修正和改变人的世界观、人生观，塑造信仰体系，从而恢复或者强化患者的心理能力，以达到治愈心理疾病目的的治疗方法。"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双耳不同程度的永久性听力障碍，听不到或听不清周围环境声以及言语声，以致影响日常生活和社会参与。"
+  },
+  {
+   "cn": "婴儿喂养",
+   "en": "infant feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "根据婴儿吸吮、吞咽、咀嚼和消化系统功能的不断发育成熟，提供0～12月龄体格生长和心理行为发育所需的喂养方法。"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "替代喂养",
+   "en": "substitute feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以内的婴儿由于各种原因不能进行母乳喂养时，完全采用配方奶或其它兽乳等的喂哺方法。"
+  },
+  {
+   "cn": "特殊喂养",
+   "en": "Special feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "早产儿、低出生体重儿和其他患病婴儿，或哺乳母亲患病，以及在自然的或人为的紧急情况(如地震、海啸、洪水、干旱、风暴、工业事故、恐怖暴力事件等)时的喂养。"
+  },
+  {
+   "cn": "配方乳喂养",
+   "en": "formula feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "婴儿早期由于各种原因不能进行母乳喂养时，完全采用配方乳的喂哺。是替代喂养的一种形式。"
+  },
+  {
+   "cn": "幼儿喂养",
+   "en": "toddler's feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "根据幼儿期饮食行为的不断发育成熟，提供幼儿(13～36月龄)主动进食的方法。"
+  },
+  {
+   "cn": "积极喂养",
+   "en": "active feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人对孩子的提示和信号做出反应，并加以鼓励和表扬的喂养方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

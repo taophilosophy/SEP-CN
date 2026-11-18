@@ -1,0 +1,692 @@
+{
+ "key": "correspondence relation",
+ "term": "correspondence relation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:13:28+00:00",
+ "status": "ok",
+ "note": "variant=correspondence relation; 审定公布名词库=3663; 海峡两岸名词对照库=1311; 其他来源数据库=153; 预公布名词数据库=208; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "对应",
+   "en": "correspondence",
+   "source": "数学名词",
+   "wordNumber": "01.0113",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "为新闻机构采写新闻、反映情况并按稿计酬的编外新闻报道者。"
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.018",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报刊社聘请的经常为其反映情况、提供线索、撰写通讯报道的非专职新闻工作人员。"
+  },
+  {
+   "cn": "对应规则",
+   "en": "correspondence rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "包含理论术语和观察术语的语句。通过这些规则，可以在经验上间接地、部分地解释一个理论术语。"
+  },
+  {
+   "cn": "读者来信专栏",
+   "en": "correspondence column",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.107",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登作者以第一人称反映现实生活中的新情况、新问题和新经验的一种报道形式栏目。"
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0422",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "格点对应",
+   "en": "lattice correspondence",
+   "source": "物理学名词",
+   "wordNumber": "08.0231",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "生物物理学名词",
+   "wordNumber": "02.391",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "多变量统计分析的一种数学方法。将对图像集合中图像矢量(N个像素，即N维度)的分析转换成对像素矢量(M张图像，即M维度)的分析，将高维度(N维)的矩阵分析简化为低维度(M维)的矩阵分析，是一种基于卡方分"
+  },
+  {
+   "cn": "函授学校",
+   "en": "correspondence school",
+   "source": "教育学名词",
+   "wordNumber": "12.062",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式提供教育机会、展开教学活动的教育机构。"
+  },
+  {
+   "cn": "函授学院",
+   "en": "correspondence college",
+   "source": "教育学名词",
+   "wordNumber": "12.061",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用函授方式举办高等教育的机构。学习者以自学函授教材为主，以通信方式接受教学指导，教师采取巡回方式给予学习者少量的面授辅导。一般承担本科或专科的学历教育，同时也举办高等单科或继续教育。"
+  },
+  {
+   "cn": "函授教育",
+   "en": "correspondence education",
+   "source": "教育学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式，面向成人开设的一种远距离教育。办学机构通常为函授学校、普通高等院校专设的函授部，或经相关部门批准设立的函授教育机构。学员以自学为主，面授为辅。"
+  },
+  {
+   "cn": "函授课程",
+   "en": "correspondence course",
+   "source": "教育学名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "由函授学校通过通信联络等方式向函授学员提供的课程。"
+  },
+  {
+   "cn": "伽罗瓦对应",
+   "en": "Galois correspondence",
+   "source": "数学名词",
+   "wordNumber": "04.0429",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "数学名词",
+   "wordNumber": "09.0760",
+   "subjectFullName": "数学_概率论_数理统计_多元统计分析",
+   "subjectName": "多元统计分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "边界对应",
+   "en": "boundary correspondence",
+   "source": "数学名词",
+   "wordNumber": "05.0489",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "射影对应",
+   "en": "projective correspondence",
+   "source": "数学名词",
+   "wordNumber": "08.0343",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "记者站",
+   "en": "correspondents station",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.031",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "新闻媒体在其总部之外设立的派出机构。从事与本媒体业务范围一致的新闻采编活动。"
+  },
+  {
+   "cn": "特约记者",
+   "en": "special correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.015",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻出版单位聘用的编外记者。"
+  },
+  {
+   "cn": "通信结点登记",
+   "en": "correspondent registration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0932",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在移动IPv6中移动结点向通信结点所做的关于它的关照地址和家乡地址的绑定的登记。其安全性通过使用返回路由过程及其产生的绑定管理密钥而得以保证。"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "相关点",
+   "en": "correlation correspondence",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信",
+   "en": "public correspondence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理行",
+   "en": "correspondent banking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理银行",
+   "en": "bank correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①国外往来客户 ②国外代理银行",
+   "en": "foreign correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对应态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对比状态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对应点",
+   "en": "corresponding point",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信业务",
+   "en": "public correspondence service",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应因子分析",
+   "en": "correspondence factor analysis",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论理论",
+   "en": "correspondent inference theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同名核线",
+   "en": "corresponding epipolar line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "通过分析由定性变量构成的交互汇总表来揭示变量间的联系，揭示同一变量的各个类别之间的差异，以及不同变量各个类别之间的对应关系的一种多元相依变量的统计分析技术。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "工伤",
+   "en": "work-related injury",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "劳动者在从事生产劳动或职业活动或者与职业活动有关活动时受到的伤害，既包括意外事故导致的伤害，也包括职业病。为“职业性伤害”的简称。"
+  },
+  {
+   "cn": "健康相关行为",
+   "en": "health-related behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "一切与个体、群体的健康和疾病有关的行为，一般分为健康促进行为和健康危险行为。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

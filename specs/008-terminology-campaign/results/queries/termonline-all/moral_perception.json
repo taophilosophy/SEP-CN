@@ -1,0 +1,792 @@
+{
+ "key": "moral perception",
+ "term": "Moral Perception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:16:23+00:00",
+ "status": "ok",
+ "note": "variant=Moral Perception; 审定公布名词库=651; 海峡两岸名词对照库=216; 其他来源数据库=48; 预公布名词数据库=97; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.575",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "处在外部环境的有机体，基于环境对感觉器官的刺激，形成的对环境特征的觉知过程。是有机体对外部环境信息的一种提取。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "行为医学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "人体对感觉信息进行加工和解释的过程。是对事物整体属性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生理学名词",
+   "wordNumber": "03.262",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "精神医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "计划生育名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "综合某一客观事物的各种属性，作为一个整体的综合性映像在大脑中的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生物物理学名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "皮质对外界客体和事件的一系列感觉信息的处理、分析和整合过程。有整体性、恒常性和选择性的特征。 "
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0078",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "将感觉信息组成有意义的对象，在已储存的知识经验的参与下把握刺激意义的过程。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "心理学名词",
+   "wordNumber": "02.362",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对感觉信息的加工和解释的过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.211",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "人对客观事物各部分或属性的整体反映，是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "电气工程名词",
+   "wordNumber": "22.108",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.013",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception,shape perception",
+   "source": "心理学名词",
+   "wordNumber": "02.390",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对接收到的关于外界客体形状信息的知觉。"
+  },
+  {
+   "cn": "感知层",
+   "en": "perception layer",
+   "source": "农学名词",
+   "wordNumber": "16.096",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "担负信息感知与采集功能的物联网体系组成部分。一般由无线传感器网络构成。"
+  },
+  {
+   "cn": "妄想性知觉",
+   "en": "delusional perception",
+   "source": "急救医学名词",
+   "wordNumber": "03.965",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "在正常知觉体验的同时产生的一种与此知觉毫无关系的妄想。常是原发性妄想的组成部分。"
+  },
+  {
+   "cn": "感知觉",
+   "en": "sensory perception",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人脑对当前作用于感觉器官的客观事物的反映。人类可通过视觉、听觉、嗅觉、触觉等获得性相关感觉信息，并通过大脑的整合产生相应的性心理活动。"
+  },
+  {
+   "cn": "感知过程",
+   "en": "perception process",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "通过图片、声音、文字、感觉、气味等，为来自视觉、听觉、嗅觉、味觉、触觉等感官渠道的信息赋予意义的知觉系统活动。包括选择、组织、解释等三个阶段。"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spatial perception",
+   "source": "行为医学名词",
+   "wordNumber": "4.023",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对物体大小、距离、形状和方位等三维特性的感知。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "触知觉",
+   "en": "tactile perception\",\"haptic perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception\",\"shape perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spatial perception\",\"space perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阈下知觉",
+   "en": "subliminal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性知觉",
+   "en": "selective perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小知觉",
+   "en": "size perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度知觉",
+   "en": "depth perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方位知觉",
+   "en": "orientation perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "跨通道知觉,跨感官知觉",
+   "en": "intermodal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听知觉",
+   "en": "auditory perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主动知觉",
+   "en": "active perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间知觉",
+   "en": "time perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉分析者",
+   "en": "perception analyzer",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视知觉",
+   "en": "visual perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据感知",
+   "en": "Data Perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器感知",
+   "en": "machine perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态感知",
+   "en": "multimodal perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数觉",
+   "en": "perception of numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智感知",
+   "en": "swarm intelligence perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网感知仓库",
+   "en": "warehouse based on IoT perception technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "社会知觉",
+   "en": "social perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "包括对人知觉和自我知觉。前者为人们了解他人（个人或群体），利用各种可能的信息资料形成对他人印象、判断的过程。后者为对自身形成印象和判断的过程。"
+  },
+  {
+   "cn": "人际知觉",
+   "en": "interpersonal perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "对人与人之间关系的知觉。包括对人的外部特征、个性特点了解、对人行为的判断和理解。这种知觉主要是在人际交往中发生的，以各种交际行为为知觉对象。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spacial perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对物体的形状、大小、方位、距离等构成空间关系要素的感知和判断"
+  },
+  {
+   "cn": "时间知觉",
+   "en": "time perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对客观现象延续性和顺序性的感知和判断能力。"
+  },
+  {
+   "cn": "风险认知",
+   "en": "risk perception",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "个体对存在于外界各种客观风险的主观感受和认识。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "道德共同体",
+   "en": "moral community",
+   "source": "马克思主义",
+   "wordNumber": "05.0065",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "晚年萨特在变革世界的方式上开始从暴力转向道德，希望用道德共同体来为个体自由和希望奠定基础。他把追寻道德的努力和消除匮乏的努力视作两种主要的合乎人性的态度，并指出道德的可能性基础在于兄弟关系的普遍性，即"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "健康保险的第三方付费，引起参保者或医疗机构健康态度和行为上的改变，导致健康服务需求额外增加的行为"
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体心理发展的一个方面。个体认识社会伦理道德规则和准则，形成道德认知、道德情感和道德行为的过程。既受到个体周围社会文化环境的影响，也受到个体成熟、认知及情绪发展，特别是其从事的交往活动和道德教育的制约"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

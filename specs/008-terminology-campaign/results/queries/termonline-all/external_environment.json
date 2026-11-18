@@ -1,0 +1,772 @@
+{
+ "key": "external environment",
+ "term": "external environment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:11:40+00:00",
+ "status": "ok",
+ "note": "variant=external environment; 审定公布名词库=3094; 海峡两岸名词对照库=880; 其他来源数据库=72; 预公布名词数据库=251; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "外环境",
+   "en": "external environment",
+   "source": "生理学名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外环境",
+   "en": "external environment",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0008",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系统以外与之相关的物质和空间。"
+  },
+  {
+   "cn": "外环境",
+   "en": "external environment",
+   "source": "呼吸病学名词",
+   "wordNumber": "11.016",
+   "subjectFullName": "呼吸病学_体液、电解质与酸碱平衡_体液与电解质平衡",
+   "subjectName": "体液与电解质平衡",
+   "publishYear": "2018",
+   "definition": "机体生存的外部环境。"
+  },
+  {
+   "cn": "外部环境",
+   "en": "external environment; EE",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0031",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "人类活动在外部所处的环境。 "
+  },
+  {
+   "cn": "人力资源外部环境",
+   "en": "human resource external environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0329",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源战略与规划",
+   "subjectName": "人力资源战略与规划",
+   "publishYear": "2016",
+   "definition": "影响人力资源管理活动的市场需求状况及用人政策等外部因素。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.008",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以人类为主体的外部世界，即人类赖以生存和发展的外部条件的总和。是人类生存发展的基础，也是人类开发利用的对象。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0017",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素总体。包括大气、水、海洋、土地、矿藏、森林、草原、野生动物、自然古迹、人文遗迹、自然保护区、风景名胜区、城市和乡村等。 "
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "动物学名词",
+   "wordNumber": "7.0018",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物生存的空间以及空间中直接或间接影响生物生活和发展的外部条件的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电力名词",
+   "wordNumber": "24.124",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "植物学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物周围所有要素的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0648",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "组织运行的外部存在。包括空气、水、土地、自然资源、植物、动物、人，以及它们之间的相互关系。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "人群周围的境况及其中可以直接、间接影响人类生活和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.251",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电气工程名词",
+   "wordNumber": "27.001",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "外",
+   "en": "external",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "对人体的空腔脏器而言，远离内腔者为外。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.153",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或组织的行为导致其他人或组织受损或受益的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externalities",
+   "source": "经济学名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "对他人产生的有利或者不利的影响，但不需要他人为此支付报酬或进行补偿性活动。当私人成本或收益不等于社会成本或收益时，就会产生外部性问题。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0740",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "阐释和发展包含于隐性知识中的概念，将隐性知识转化成显性知识的过程。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1006",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "某个企业的经济行为(或者某个人的消费行为)，经过非价格手段，直接地、不可避免地影响到其他企业的生产(或者其他人的效用)，并且成为后者自己所不能加以控制的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "一个经济主体的经济活动对另一个经济主体所产生的有害或有益的影响。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外[的]",
+   "en": "external",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内环境",
+   "en": "internal environment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "半深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环境",
+   "en": "atmospheric environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候",
+   "en": "environment climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候学",
+   "en": "environment climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environment capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "physical environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等温环境",
+   "en": "isothermal environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物学环境",
+   "en": "biological environment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生理环境",
+   "en": "physiological environment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "激流环境",
+   "en": "lotic environment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化环境",
+   "en": "unstructured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场外区域",
+   "en": "external space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外力干扰",
+   "en": "external interference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文明",
+   "en": "sound cyberspace environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水环境改善",
+   "en": "water environment improvement",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生态修复",
+   "en": "water environment restoration",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自动体外除颤器",
+   "en": "Automated External Defibrillator",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外存储子系统",
+   "en": "external storage subsystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境大数据",
+   "en": "big data of environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算环境管理",
+   "en": "cloud computing environment management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态环境与保护",
+   "en": "marine ecological environment protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效飞越空间之外",
+   "en": "exterior space\",\"external space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学校外部环境",
+   "en": "external environment of schools",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "毗邻学校的用地设计或规划布局。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0068",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "内在的、精神性的东西转化为物质性的东西。德国哲学家黑格尔常用的哲学术语，主要指物质由绝对精神外化而来。马克思主义哲学中，外化是指通过人类社会实践将主体的人的思想、观念的力量转化为对象性的物质存在形式。"
+  },
+  {
+   "cn": "外在性",
+   "en": "externality",
+   "source": "马克思主义",
+   "wordNumber": "01.0070",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物显露在外的性质与特征。"
+  },
+  {
+   "cn": "组织环境",
+   "en": "organization environment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "存在于组织界限以外的能够影响组织及其成员行为的所有因素的总和，包括自然环境与社会环境两大类。其中社会环境包括组织所必须应对的各种社会力量和制度设施。"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "家庭环境",
+   "en": "family environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "家庭为其成员的成长和发展所提供的物质和精神条件。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "高山环境",
+   "en": "alpine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海拔3000m 以上的高原和高山自然环境形态，具有缺氧、寒冷、干燥、温差大、辐射强和气候多变等特点。"
+  },
+  {
+   "cn": "高气压环境",
+   "en": "hyperbaric environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "压力高于海平面大气压力的特殊环境，人体暴露时会引起机体一系列复杂的功能改变。"
+  },
+  {
+   "cn": "健康环境",
+   "en": "healthy environment",
+   "source": "社会医学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "有助于维护和促进人体健康的自然和社会环境。"
+  },
+  {
+   "cn": "阵地环境",
+   "en": "battlefield environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "军队在战斗中的兵力兵器部署、工事构筑区域的自然地理条件，以及由人工活动、战斗等影响而形成的所有物理、化学、生物因素的总和。"
+  },
+  {
+   "cn": "航海环境",
+   "en": "navigational environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船在海上航行时所处的内部和外部环境，包括舰船内的物理、化学及生物学因素，以及海洋气象条件和海上风浪等外部环境。"
+  },
+  {
+   "cn": "海上环境",
+   "en": "marine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海水淹没的地球海洋水域自然环境形态，具有低温、高盐、温差小、湿度大等特点。"
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "水下环境",
+   "en": "underwater environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "水面以下作用于人体的各种客观条件的总称。"
+  },
+  {
+   "cn": "热环境",
+   "en": "thermal environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "由太阳辐射、气温、周围物体表面温度、相对湿度与气流速度等物理因素组成的作用于人、影响人的冷热感和健康的环境。"
+  },
+  {
+   "cn": "寒区",
+   "en": "cold environments",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "从南极圈（南纬66º34'）至南极和北极圈（北纬66º34'）至北极的区域内，无太阳直射，导致地面获得的太阳辐射量极少、气候非常寒冷的地区。其特点为冬季漫长，寒潮侵袭频繁、降雪期长、积雪深、结冰期长、"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "存在于体外的电离辐射源对机体的照射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "possible existence",
+ "term": "possible existence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:02+00:00",
+ "status": "ok",
+ "note": "variant=possible existence; 审定公布名词库=99; 海峡两岸名词对照库=37; 其他来源数据库=12; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "source": "数学名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "source": "建筑学名词",
+   "wordNumber": "01.0098",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "取决于人及其群体在其中的实际存在状况或存在方式的客观性空间。挪威建筑师诺伯格–舒尔茨(C.?Norberg-Schulz)所提出的关于存在空间的要素，以及从宏观到微观不同阶段的知觉图式体系等概念，丰富"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1194",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定试验条件下，测得燃料的蒸发残留物。是判断油品安定性的指标，用mg/100mL表示。"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "石油名词",
+   "wordNumber": "06.0331",
+   "subjectFullName": "石油_石油炼制_石油炼制产品性质及评价",
+   "subjectName": "石油炼制产品性质及评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "原地形标高",
+   "en": "existing elevation",
+   "source": "风景园林名词",
+   "wordNumber": "08.0065",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "原有地面的相对或绝对高度。"
+  },
+  {
+   "cn": "存在约束",
+   "en": "existing constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0217",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "键属性的值不能为空的一种约束。"
+  },
+  {
+   "cn": "现有竞争者",
+   "en": "existing rivalry",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0614",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "同行业中，已经存在的服务于同一目标市场的企业竞争对手。"
+  },
+  {
+   "cn": "既有线",
+   "en": "existing line",
+   "source": "土木工程名词",
+   "wordNumber": "08.141",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "既有铁路",
+   "en": "existing railway",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "现有公路",
+   "en": "existing highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "旧桥",
+   "en": "existing bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "可能世界语义",
+   "en": "possible world semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "利用“可能世界”的思想去定义逻辑上可能性、必然性和偶然性的一种语义。"
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful\",\"ED",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生存竞争",
+   "en": "struggle for existence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现行特惠关税",
+   "en": "existing preferential duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能碰撞点",
+   "en": "possible point of collision\",\"PPC",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "资源存在价值",
+   "en": "existence value of natural resources",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "既有线站场测量",
+   "en": "survey of existing station yard survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尽最大可能控制疫情波及范围",
+   "en": "to make every possible effort to curb the spread of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "做好返程人员疫情防控",
+   "en": "to take measures to help returnees from infected regions in order to prevent any possible spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不可能三角",
+   "en": "impossible trinity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协和万邦",
+   "en": "Coexistence of All in Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "和平共处",
+   "en": "peaceful coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0274",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年底列宁提出的社会主义国家处理与不同社会制度国家间关系的原则。其主要内容是：社会主义国家在忠实履行无产阶级国际主义义务的前提下，除了对帝国主义发动侵略战争进行必要自卫外，争取用和平方式解决彼此"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0503",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中华人民共和国处理国家之间关系的基本原则，这五项原则是：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。该原则最早是由周恩来于1953年12月31日在中国和印度两国政府"
+  },
+  {
+   "cn": "三和路线",
+   "en": "Peaceful coexistence peace contests and peaceful transition lines",
+   "source": "马克思主义",
+   "wordNumber": "05.0220",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "赫鲁晓夫在苏共20大提出的和平共处、和平竞赛、和平过渡的统称。是赫鲁晓夫时期苏联对外战略的主要内容。1956年在苏共二十大上，赫鲁晓夫全面系统地阐述了其对外政策主张：与西方国家和平共处，在和平竞赛中超"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,681 @@
  "key": "jutla, charanjit s.",
  "term": "Jutla, Charanjit S.",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:18:01+00:00",
- "status": "error",
- "note": "variant=Jutla, Charanjit S.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jutla, Charanjit S.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:22+00:00",
+ "status": "ok",
+ "note": "variant=Jutla, Charanjit S.; 审定公布名词库=2068; 海峡两岸名词对照库=804; 其他来源数据库=318; 预公布名词数据库=159; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "(s,S)策略",
+   "en": "(s,S) policy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0560",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "一旦库存水平小于s，立即发出一个订单，其订货量使得订货时刻的库存水平达到S，否则不订货的策略。"
+  },
+  {
+   "cn": "尖后段",
+   "en": "apicoposterior segment,SⅠ+SⅡ",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.142",
+   "subjectFullName": "呼吸病学_解剖和组织学_肺结构与肺组织",
+   "subjectName": "肺结构与肺组织",
+   "publishYear": "2018",
+   "definition": "左肺上叶尖后段支气管及其所属的肺组织。左上叶支气管分成上支和下支。上支立即又分为尖后段和前段支气管。"
+  },
+  {
+   "cn": "尖后段",
+   "en": "apicoposterior segment,SⅠ+SⅡ",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0618",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "包括肺尖及上叶后上部的肺段。前下方与前段相邻，下方借斜裂面与下叶上段相邻，后外侧面为肋面，内侧面是椎旁面。"
+  },
+  {
+   "cn": "S2分潮",
+   "en": "S2-component,S2-constituent",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0277",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "太阳主要半日分潮，主要由太阳的引潮力引起的半日潮，其周期为12.000平太阳时。"
+  },
+  {
+   "cn": "西[门子]",
+   "en": "siemens,S",
+   "source": "电气工程名词",
+   "wordNumber": "01.889",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "S细胞",
+   "en": "S cell",
+   "source": "普通外科学名词",
+   "wordNumber": "18.019",
+   "subjectFullName": "医学_普通外科学_小肠外科",
+   "subjectName": "小肠外科",
+   "publishYear": "2026",
+   "definition": "分布于十二指肠和空肠，具有分泌促胰液素，促进胰导管分泌水和碳酸氢根、中和胃酸功能的内分泌细胞。"
+  },
+  {
+   "cn": "秒",
+   "en": "second; s",
+   "source": "天文学名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "国际制时间单位。铯-133原子基态的两个超精细能级之间跃迁所辐射电磁波的周期的9 192 631 770倍。"
+  },
+  {
+   "cn": "s过程",
+   "en": "s-process",
+   "source": "天文学名词",
+   "wordNumber": "07.144",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种核合成过程，在相对较低的中子密度和温度条件下核素以较慢的速率吸收中子，在两次中子吸收间发生衰变，最终形成某种重核素。一般认为主要是在AGB恒星中发生。"
+  },
+  {
+   "cn": "S型星",
+   "en": "S star",
+   "source": "天文学名词",
+   "wordNumber": "08.388",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱型为S型的恒星。光谱特征类似M型巨星，但突出的分子带属Zr，Y，Ba等的氧化物。"
+  },
+  {
+   "cn": "蛋白S",
+   "en": "protein S",
+   "source": "血液学名词",
+   "wordNumber": "2.157",
+   "subjectFullName": "血液学_基础_血浆成分_抗凝系统",
+   "subjectName": "抗凝系统",
+   "publishYear": "2022",
+   "definition": "一种维生素K依赖性抗凝物质。是活化蛋白C的辅因子。"
+  },
+  {
+   "cn": "S期",
+   "en": "S phase",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.365",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "细胞周期间期中DNA合成的时期。此期可使DNA总量增加一倍。"
+  },
+  {
+   "cn": "S-卵黏蛋白",
+   "en": "S-ovomucin",
+   "source": "畜牧学名词",
+   "wordNumber": "06.440",
+   "subjectFullName": "畜牧学_畜产品与加工_蛋_蛋的构造及组成",
+   "subjectName": "蛋的构造及组成",
+   "publishYear": "2020",
+   "definition": "将卵黏蛋白用琼脂糖电泳时，泳动慢的组分。"
+  },
+  {
+   "cn": "S基因",
+   "en": "S gene",
+   "source": "感染病学名词",
+   "wordNumber": "03.0459",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "乙型肝炎病毒编码外膜蛋白的基因。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value",
+   "source": "核医学名词",
+   "wordNumber": "02.0481",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "在内照射剂量估算法中使用的计算因子。物理意义为在给定放射性核素的源器官及靶器官条件下，源器官的单位累积活度在靶器官中产生的吸收剂量值。"
+  },
+  {
+   "cn": "S完备化",
+   "en": "S-completion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0682",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "对基本网结构（ B,E,F）的一种操作，设（B,E,F）为一个简单网，在保持E元素不变的情况下，通过添加B 元素（以及相应的连接弧）的做法使之变成一个S完备网。"
+  },
+  {
+   "cn": "S图",
+   "en": "S-graph",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0588",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "若一个网中每个变迁的前集和后集都恰有一个元素，这个网就称为S图。"
+  },
+  {
+   "cn": "S不变量",
+   "en": "S-invariant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0589",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "设 c为网N=(S,T;F)的关联矩阵，若非平凡的m维（m=|S|）非负整数向量y满足<img src='/root/syzx/static/spz/jsjkx3.02.0589.001.png'/>"
+  },
+  {
+   "cn": "氯磺酚S",
+   "en": "chlorosulfophenol S",
+   "source": "化学名词",
+   "wordNumber": "03.0505",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "用作光度法测定钢和矿石中的钨、铀、铍以及合金和岩矿中的铌的显色剂。其结构简式为：<img src='/root/syzx/static/spz/huaxue2.03.0505.1.png'/>"
+  },
+  {
+   "cn": "S曲线",
+   "en": "S-curve",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0147",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "一种技术发展预测曲线，即随着时间的推移，技术产品的发展过程分为引入期、成长期，之后进入曲线的峰值——成熟期，最后会进入衰退期，以至最终被淘汰，过程状如S形曲线。"
+  },
+  {
+   "cn": "s过程",
+   "en": "s-process",
+   "source": "化学名词",
+   "wordNumber": "06.0768",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "核素缓慢俘获中子生成另一核素的过程。即元素X的核<img src='/root/syzx/static/spz/huaxue2.06.0768.1.png'/>俘获1个中子后生成的不稳定核<img s"
+  },
+  {
+   "cn": "S细胞",
+   "en": "S cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "杀稻瘟菌素S",
+   "en": "blasticidin-S",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "s过程",
+   "en": "s-process",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "仙女S超新星",
+   "en": "S Andromedae",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "S型星",
+   "en": "S star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "短杆菌肽S",
+   "en": "gramicidin S",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "s过程",
+   "en": "s-process",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "S波（=次波）",
+   "en": "S-wave",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "S期,合成期",
+   "en": "S phase",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "木鳖毒蛋白S",
+   "en": "momorcochin S",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "S-腺苷基高半胱氨酸",
+   "en": "S-adenosylhomocysteine",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "S期",
+   "en": "S phase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "S波段",
+   "en": "S band",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "S不变量[式]",
+   "en": "S-invariant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "S完备化",
+   "en": "S completion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "S-57格式",
+   "en": "S-57 Format",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "S1核酸酶",
+   "en": "S1 nuclease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "35S启动子",
+   "en": "35S promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S1评分",
+   "en": "S1 score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平凡",
+   "en": "Banalités",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Poulenc, Francis"
+  },
+  {
+   "cn": "男子组",
+   "en": "gentlemen’s class\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员掷球",
+   "en": "referee’s ball\",\"referee’s throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员手势",
+   "en": "official’s signal\",\"referee’s signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "women’s category\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子比赛",
+   "en": "men’s category\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子比赛",
+   "en": "gentlemen’s class\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "S型冠状病毒",
+   "en": "S-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S.亚伦斯基",
+   "en": "S.Alinsky",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.28",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "蜚声国际的研究社会行动的权力战术的美国学者和专家，其社会行动思想和策略对全球的社会行动产生了深远影响。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "企业主收入",
+   "en": "entrepreneur s income",
+   "source": "马克思主义",
+   "wordNumber": "02.0238",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "产业资本家获得的利润扣除利息以后的余额。生息资本的形成，使得利息表现为资本所有权的果实，利润减去利息是职能资本家留给自己的利润，表现为他用资本所执行的职能的果实。"
+  },
+  {
+   "cn": "萨奇曼模式",
+   "en": "Suchman's model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.073",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "由美国医学社会学家马克·萨奇曼（Mark Suchman）提出，用于分析患者如何理解、解释和应对疾病，强调疾病认知的社会文化建构性，主张患者的疾病行为（如就医、服药、康复）不仅受生物医学因素影响，更与"
+  },
+  {
+   "cn": "霍恩法",
+   "en": "Horner's method",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.7",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "根据剂量对数与死亡率的转换数呈直线关系而确定急性经口毒性的试验方法。"
+  },
+  {
+   "cn": "寇氏法",
+   "en": "Karber's method",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.9",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "根据剂量对数与死亡率呈S型曲线包含的面积推导出死亡率平均为50%时的剂量的一种急性经口毒性试验方法。"
+  },
+  {
+   "cn": "伯克森偏倚",
+   "en": "Berkson's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当以医院患者作为研究对象进行研究时，由于各种疾病入院率不同导致病例组与对照组的某些特征与源人群中的特征存在差异，从而产生的系统误差。"
+  },
+  {
+   "cn": "奈曼偏倚",
+   "en": "Neyman's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在进行现况调查或病例对照研究时，选择的病例一般是研究时的现患病例或存活病例，而不包括死亡病例和病程短、轻型或不典型病例，致使研究因素与疾病的关联被错误估计，从而产生的系统误差。"
+  },
+  {
+   "cn": "妇女解放",
+   "en": "women’s liberation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "妇女摆脱受压迫处境和从属地位，实现性别平等的过程和结果。"
+  },
+  {
+   "cn": "女性研究",
+   "en": "women’s studies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "诞生于20世纪70年代西方女性主义运动的一个跨学科研究领域，倡导女性的主体地位以及社会性别视角。最初旨在揭示女性受压迫状况和性别不平等的根源，后转为批判学术界以及知识领域的性别主义倾向，试图建构女性主"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "妇女赋权",
+   "en": "women’s empowerment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "性别与发展理论中的一个重要概念。指通过赋予妇女在政治、经济和社会参与等方面与男子同等的权利和机会，转变那些存在性别歧视和不平等的结构和制度，提高妇女的社会、政治和经济地位，让妇女成为发展的主体。"
+  },
+  {
+   "cn": "妇女地位",
+   "en": "women’s status",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "妇女相对于男人而言的社会位置，是对妇女在政治、经济、劳动就业、教育、健康、家庭等不同领域所处位置的综合评价，可以用复杂的指标体系来衡量，是衡量性别平等程度和社会人权状况的一个重要指标。在男性中心社会中"
+  },
+  {
+   "cn": "发现者情结",
+   "en": "discoverer’s complex",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家中普遍存在的追求科学发现优先权的心理情结，即对“最先发现”的强调和追求。"
+  },
+  {
+   "cn": "服务对象价值",
+   "en": "client’s value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "服务对象自身持有的价值观，它们既可能与社会价值一致也可能有所差异。"
+  },
+  {
+   "cn": "机构价值",
+   "en": "organization’s value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会工作者所在服务机构持有的价值观。一般来说其与社会价值特别是社会的主流价值是一致的，但也可能存在不同。"
+  },
+  {
+   "cn": "妇联",
+   "en": "women’s federation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.56",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下代表妇女的人民团体。其基本职能是团结、动员广大妇女参与经济建设和社会发展，代表和维护妇女利益，促进男女平等。"
+  },
+  {
+   "cn": "波普尔的世界1,2,3",
+   "en": "Popper’s world 1,2,3",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.156",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "K. 波普尔（K. Popper）提出的术语。世界1是物理世界：指客观世界的一切物质客体及其各种现象。世界2是精神世界：指人的一切精神活动，以及感性和理性的认识活动。世界3是客观知识世界：指一切见诸客"
+  },
+  {
+   "cn": "赫伯登结节",
+   "en": "Heberden’s node",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.29",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "手指远端指间关节的关节软骨退行性改变，表现为骨性膨大及增生，是手骨关节炎的典型表现。"
+  },
+  {
+   "cn": "布夏尔结节",
+   "en": "Bouchard’s node",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.30",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "位于双手近端指间关节的骨性膨大，性质同赫伯登结节，是手骨关节炎的典型表现。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

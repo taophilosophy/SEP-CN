@@ -1,0 +1,782 @@
+{
+ "key": "second-order quantification",
+ "term": "second-order quantification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:47+00:00",
+ "status": "ok",
+ "note": "variant=second-order quantification; 审定公布名词库=1392; 海峡两岸名词对照库=491; 其他来源数据库=183; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "量化",
+   "en": "quantification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "赋予影像中各个像素相应数值的过程。影像数字化处理中，采样得到的像素灰度值必须进行量化，即分成有限的灰阶，才能编码送入计算机进行运算和处理。"
+  },
+  {
+   "cn": "二阶弹性",
+   "en": "second-order elasticity",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0031",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "考虑结构二阶变形对内力产生的影响，根据位移后的结构建立平衡条件，按弹性阶段分析结构内力及位移。"
+  },
+  {
+   "cn": "二阶应力",
+   "en": "second-order stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0513",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "晶体尺度的应力。 "
+  },
+  {
+   "cn": "二阶电路",
+   "en": "second order circuit",
+   "source": "电力名词",
+   "wordNumber": "01.282",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "用二阶微分方程描述的动态电路。"
+  },
+  {
+   "cn": "二级反应",
+   "en": "second order reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0226",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "反应速率与浓度的平方或两个反应物浓度的乘积成正比的反应。"
+  },
+  {
+   "cn": "二级相干性",
+   "en": "second-order coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1263",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二级相变",
+   "en": "second-order transformation",
+   "source": "冶金学名词",
+   "wordNumber": "07.0256",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "系统自由能函数对某些约束变量的二阶偏导数在相变点出现不连续性的转变。"
+  },
+  {
+   "cn": "二阶项",
+   "en": "second order term",
+   "source": "物理学名词",
+   "wordNumber": "01.0381",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二阶效应",
+   "en": "second order effect",
+   "source": "物理学名词",
+   "wordNumber": "01.0382",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二阶关联",
+   "en": "second order correlation",
+   "source": "物理学名词",
+   "wordNumber": "05.0890",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二阶图",
+   "en": "second-order graph",
+   "source": "核医学名词",
+   "wordNumber": "03.0580",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "对图像数据进行二阶导数变换后所获得的坐标图。"
+  },
+  {
+   "cn": "二级图谱",
+   "en": "second order spectrum",
+   "source": "化学名词",
+   "wordNumber": "03.2236",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "在自旋耦合系统中，两核间化学位移差以Hz计，与其之间的耦合常数之比相近(比如小于6)时产生的图谱称为二级图谱。其自旋系统为强耦合系统。"
+  },
+  {
+   "cn": "二级反应",
+   "en": "second order reaction",
+   "source": "化学名词",
+   "wordNumber": "04.0264",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "反应级数为2的反应。"
+  },
+  {
+   "cn": "二阶电路",
+   "en": "second order circuit",
+   "source": "计量学名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "以二阶微分方程描述的电路。含有两个独立储能元件(两个电容或两个电感，或一个电容和一个电感)的动态电路都是二阶电路。"
+  },
+  {
+   "cn": "二级反应",
+   "en": "second-order reaction",
+   "source": "药学名词",
+   "wordNumber": "02.217",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "反应速率与反应物浓度的二次方相关的反应。"
+  },
+  {
+   "cn": "二级河流",
+   "en": "second-order stream",
+   "source": "生态学名词",
+   "wordNumber": "16.039",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "两条一级河流汇合后的河流。"
+  },
+  {
+   "cn": "二阶理论",
+   "en": "second order theory",
+   "source": "土木工程名词",
+   "wordNumber": "06.133",
+   "subjectFullName": "土木工程_桥梁工程_桥梁设计",
+   "subjectName": "桥梁设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "二阶算术",
+   "en": "second-order arithmetic",
+   "source": "数学名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二阶过程",
+   "en": "second-order process",
+   "source": "数学名词",
+   "wordNumber": "09.0198",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二阶效率",
+   "en": "second-order efficiency",
+   "source": "数学名词",
+   "wordNumber": "09.0591",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二阶系统",
+   "en": "second-order system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二阶流体",
+   "en": "second-order fluid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二阶响应",
+   "en": "second-order response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级结晶",
+   "en": "second order crystallization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级滞后",
+   "en": "second order lag",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级成核作用",
+   "en": "second order nucleation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级转变",
+   "en": "second order transition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "次级条件作用",
+   "en": "second order conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "二级反应",
+   "en": "second order reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二级图谱",
+   "en": "second order spectrum",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二级河流",
+   "en": "second-order stream",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二等导线",
+   "en": "second order traverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "二等三角测量",
+   "en": "second order triangulation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "二等水准测量",
+   "en": "second order leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "二阶逻辑",
+   "en": "second-order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二阶系统",
+   "en": "second-order system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次矩",
+   "en": "second order moment\",\"second moment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级相变",
+   "en": "second-order phase transformation\",\"second-order phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "定量限",
+   "en": "quantification limit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二级气候站",
+   "en": "second order climatological station",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "second",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二姿势",
+   "en": "seconde",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二姿势防守",
+   "en": "seconde",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half\",\"second period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二回合!",
+   "en": "Second round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二助手",
+   "en": "assistant second",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二节",
+   "en": "second quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二局！",
+   "en": "Second round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二腾空",
+   "en": "second flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二套比赛服",
+   "en": "second suit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球",
+   "en": "second serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球",
+   "en": "second service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球队员",
+   "en": "second server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球!",
+   "en": "Second service!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二性",
+   "en": "second sex",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "源自法国哲学家、女权主义先驱者西蒙·波伏娃在20世纪中叶出版的同名著作，用于描述妇女作为“他者”在社会和文化中所处的生存处境和附属地位的著名概念。与作为第一性和主体的男性相比，妇女只是被动的第二性。"
+  },
+  {
+   "cn": "第二条战线",
+   "en": "second front",
+   "source": "马克思主义",
+   "wordNumber": "03.0367",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争时期国民党统治区广大爱国学生、工人、市民及其它阶层人民，在中国共产党领导下，反对美军暴行，反对蒋介石政权的内战、独裁、卖国政策的爱国民主运动。相对于中国共产党领导的军事斗争，称第二条战线。"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第二语言",
+   "en": "second language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0182",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第一语言”相对。双语人或多语人第一语言以外的其他语言。也指使用除母语外的第二种语言。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "苏联第二个五年计划",
+   "en": "second fiveyear plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0307",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联1933—1937年的国民经济发展计划。1934年1月联共（布）第十七次代表大会通过。1936年第二个五年计划提前完成，1937年该计划超额完成。"
+  },
+  {
+   "cn": "第二国际左派",
+   "en": "Second International Left",
+   "source": "马克思主义",
+   "wordNumber": "04.0402",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末在国际工人运动中出现的同爱德华·伯恩斯坦（Eduard Bernstein）等右派相对立的马克思主义派别。随着19世纪末伯恩斯坦公开举起了修正主义的旗帜，在德国社会民主党内部，倍倍尔（Aug"
+  },
+  {
+   "cn": "第二产程延长",
+   "en": "protracted second stage",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "初产妇从宫口开全到胎儿娩出>3小时，经产妇>2小时（硬膜外麻醉镇痛分娩时，初产妇>4小时，经产妇>3小时），产程（胎头下降和旋转）无进展的状况。"
+  },
+  {
+   "cn": "第二次民族大调查",
+   "en": "second ethnic survey",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0419",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "进入改革开放和中国特色社会主义现代化建设时期，为了对少数民族在改革开放中面临的问题形成准确认识并提出建议，以1992 年中央民族工作会议精神为遵循，中国社会科学院实施了“中国少数民族现状与发展调查项目"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "第二国际第二次代表大会",
+   "en": "Second Congress of the Second International in Brussels",
+   "source": "马克思主义",
+   "wordNumber": "04.0486",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1891年8月16-22日在比利时布鲁塞尔召开的国际社会主义者代表大会。来自15个国家的380名代表出席了大会。在挫败可能派再次企图篡夺 第二国际领导权的活动后，会议的主题仍然是工人运动的行动纲领与策"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "二级价格歧视",
+   "en": "second-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者购买的商品量来确定价格的定价策略。"
+  },
+  {
+   "cn": "孕中期",
+   "en": "second trimester of pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠第13周至27周末的间期。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

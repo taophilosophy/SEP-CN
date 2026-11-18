@@ -1,0 +1,712 @@
+{
+ "key": "indeterminate perception",
+ "term": "indeterminate perception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:24:19+00:00",
+ "status": "ok",
+ "note": "variant=indeterminate perception; 审定公布名词库=236; 海峡两岸名词对照库=97; 其他来源数据库=26; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "未定元",
+   "en": "indeterminate",
+   "source": "数学名词",
+   "wordNumber": "04.0514",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非决定论",
+   "en": "indeterminism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "主张一切事物和现象都具有偶然性而没有客观、普遍、必然的因果联系的学说。在物理学中表现为一些复杂现象不满足像牛顿力学那样的严格决定性。如经典热力学统计物理中所表现的那样。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.575",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "处在外部环境的有机体，基于环境对感觉器官的刺激，形成的对环境特征的觉知过程。是有机体对外部环境信息的一种提取。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "行为医学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "人体对感觉信息进行加工和解释的过程。是对事物整体属性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生理学名词",
+   "wordNumber": "03.262",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "精神医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "计划生育名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "综合某一客观事物的各种属性，作为一个整体的综合性映像在大脑中的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生物物理学名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "皮质对外界客体和事件的一系列感觉信息的处理、分析和整合过程。有整体性、恒常性和选择性的特征。 "
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0078",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "将感觉信息组成有意义的对象，在已储存的知识经验的参与下把握刺激意义的过程。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "心理学名词",
+   "wordNumber": "02.362",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对感觉信息的加工和解释的过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.211",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "人对客观事物各部分或属性的整体反映，是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "电气工程名词",
+   "wordNumber": "22.108",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.013",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "无限生长［型］",
+   "en": "indeterminate growth",
+   "source": "农学名词",
+   "wordNumber": "08.082",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "植物主茎顶端分化花芽或形成花序后，不断由其下面的侧芽代替主茎继续生长并持续开花结果、无限延续的生长方式。"
+  },
+  {
+   "cn": "未定类麻风",
+   "en": "indeterminate leprosy",
+   "source": "病理学名词",
+   "wordNumber": "01.284",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "麻风病的早期改变。病变呈非特异性，仅在皮肤血管或小神经周围有灶性淋巴细胞浸润。之后多数病例转变为结核样型，少数转变为瘤型麻风。"
+  },
+  {
+   "cn": "无限花序",
+   "en": "indeterminate inflorescence",
+   "source": "林学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "林学_林学基础_森林植物",
+   "subjectName": "森林植物",
+   "publishYear": "2016",
+   "definition": "花序轴下部或外围生成花，以后随着花序轴的继续伸长，花序轴上部或中心部分陆续成花的一种花序类型。开花顺序由上至下，由外向内。常见的有总状花序、伞房花序、伞形花序、穗状花序、头状花序、柔荑花序、肉穗花序等"
+  },
+  {
+   "cn": "未定类麻风",
+   "en": "indeterminate leprosy",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0187",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "未定类麻风",
+   "en": "indeterminate leprosy",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.253",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不定方程",
+   "en": "indeterminate equation",
+   "source": "数学名词",
+   "wordNumber": "04.0176",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无限生长",
+   "en": "indeterminate growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无限增长",
+   "en": "indeterminate growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不定期特许",
+   "en": "indeterminate franchise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不定型卵裂",
+   "en": "indeterminate cleavage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不定型卵裂",
+   "en": "indeterminate cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "触知觉",
+   "en": "tactile perception\",\"haptic perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception\",\"shape perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spatial perception\",\"space perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阈下知觉",
+   "en": "subliminal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性知觉",
+   "en": "selective perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小知觉",
+   "en": "size perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度知觉",
+   "en": "depth perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方位知觉",
+   "en": "orientation perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "跨通道知觉,跨感官知觉",
+   "en": "intermodal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听知觉",
+   "en": "auditory perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主动知觉",
+   "en": "active perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据感知",
+   "en": "Data Perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器感知",
+   "en": "machine perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态感知",
+   "en": "multimodal perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数觉",
+   "en": "perception of numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智感知",
+   "en": "swarm intelligence perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网感知仓库",
+   "en": "warehouse based on IoT perception technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知机",
+   "en": "perceptron",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "deception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多层感知器",
+   "en": "multilayer perceptron (MLP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程接访",
+   "en": "remote reception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "service reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "service reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "deception\",\"trompement\",\"feint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫球",
+   "en": "bump reception\",\"dig",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "社会知觉",
+   "en": "social perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "包括对人知觉和自我知觉。前者为人们了解他人（个人或群体），利用各种可能的信息资料形成对他人印象、判断的过程。后者为对自身形成印象和判断的过程。"
+  },
+  {
+   "cn": "人际知觉",
+   "en": "interpersonal perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "对人与人之间关系的知觉。包括对人的外部特征、个性特点了解、对人行为的判断和理解。这种知觉主要是在人际交往中发生的，以各种交际行为为知觉对象。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spacial perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对物体的形状、大小、方位、距离等构成空间关系要素的感知和判断"
+  },
+  {
+   "cn": "时间知觉",
+   "en": "time perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对客观现象延续性和顺序性的感知和判断能力。"
+  },
+  {
+   "cn": "风险认知",
+   "en": "risk perception",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "个体对存在于外界各种客观风险的主观感受和认识。"
+  },
+  {
+   "cn": "感知觉发育",
+   "en": "sensory perception development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对作用于感觉器官客观事物的反映能力随年龄增长的发展变化过程。包括视觉、味觉、听觉、嗅觉、触觉、运动觉、空间时间知觉等的发展变化过程。"
+  },
+  {
+   "cn": "净观",
+   "en": "Dag snang（Pure Perception）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0461",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。密宗金刚乘视外境为佛剎、视自他为本尊、视音声为咒语、视思想为智慧之展现的观点。"
+  },
+  {
+   "cn": "欺骗",
+   "en": "deception",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.114",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无视道德规范的制约，以非正当手段获得或占有为目的，利用他人的弱点或社会、组织的缺陷，通过虚构或隐瞒事实真相等言论或行动的方法，侵害他人或社会利益，使个人或组织的私欲得以满足的行为。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

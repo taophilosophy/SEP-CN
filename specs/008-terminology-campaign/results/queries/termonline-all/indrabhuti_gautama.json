@@ -2,10 +2,341 @@
  "key": "indrabhuti gautama",
  "term": "Indrabhūti Gautama",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:56:56+00:00",
- "status": "error",
- "note": "variant=Indrabhūti Gautama; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Indrabhūti Gautama: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:16+00:00",
+ "status": "ok",
+ "note": "variant=Indrabhūti Gautama; 审定公布名词库=5; 海峡两岸名词对照库=8; 其他来源数据库=21; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Ti质粒",
+   "en": "Ti plasmid ",
+   "source": "草学名词",
+   "wordNumber": "5.0155",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "Ti质粒",
+   "en": "Ti-plasmid",
+   "source": "遗传学名词",
+   "wordNumber": "03.646",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "根瘤农杆菌染色体外的环状双链DNA质粒，能诱导植物产生异常氨基酸和冠瘿碱或二者之一，并诱生冠瘿瘤。"
+  },
+  {
+   "cn": "角膜小滴",
+   "en": "corneal gutata",
+   "source": "医学名词 第五分册",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学_眼科学_眼科疾病",
+   "subjectName": "眼科疾病",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "高墨达暴动",
+   "en": "Revolt of Gaumata",
+   "source": "世界历史名词",
+   "wordNumber": "02.0199",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "公元前522年，爆发于波斯国内阿卡德里什山的一次暴动，因暴动领导者高墨达而得名。"
+  },
+  {
+   "cn": "单线继电半自动闭塞",
+   "en": "single track all-relay semi-automa- tic block system",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0326",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "Ti载体",
+   "en": "Ti vector",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Ti质粒（=致瘤质粒）",
+   "en": "tumor-inducing plasmid\",\"Ti plasmid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "Ti质粒(=致瘤质粒)",
+   "en": "[]",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "致瘤质粒, Ti质粒",
+   "en": "tumor-inducing plasmid\",\"Ti plasmid",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "小型Ti质粒",
+   "en": "mini-Ti plasmid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Ti质粒,根癌诱导质粒",
+   "en": "tumor inducing plasmid\",\"Ti plasmid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "根癌诱导质粒（=Ti质粒）",
+   "en": "[]",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "致瘤质粒，肿瘤诱导质粒，Ti质粒",
+   "en": "tumor-inducing plasmid\",\"Ti plasmid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "四方固",
+   "en": "shiho-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚固",
+   "en": "ashi-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枕袈裟固",
+   "en": "makura-kesa-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "袈裟固",
+   "en": "kesa-gatame\",\"scarf hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕挫腋固",
+   "en": "ude-hishigi-waki-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕挫膝固",
+   "en": "ude-hishigi-hiza-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕挫十字固",
+   "en": "ude-hishigi-juji-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕挫腕固",
+   "en": "ude-hishigi-ude-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕挫腹固",
+   "en": "ude-hishigi-hara-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十字固",
+   "en": "cross arm-lock\",\"juji-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腹固",
+   "en": "hara-gatame\",\"stomach arm-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膝固",
+   "en": "hiza-gatame\",\"knee arm-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后袈裟固",
+   "en": "ushiro-kesa-gatame\",\"reverse scarf hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "崩袈裟固",
+   "en": "kuzure-kesa-gatame\",\"modified scarf hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腋固",
+   "en": "armpit arm-lock\",\"armpit hold\",\"waki-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕固",
+   "en": "arm crush\",\"straight arm-lock\",\"ude-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肩固",
+   "en": "kata-gatame\",\"shoulder hold\",\"shoulder scarf hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "崩上四方固",
+   "en": "kuzure-kami-shiho-gatame\",\"modified upper four-quarter hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上四方固",
+   "en": "kami-shiho-gatame\",\"upper four quarters\",\"upper four-quarter hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横四方固",
+   "en": "lateral four-quarter hold-down\",\"side four quarters\",\"yoko-shiho-gatame",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
  "raw": null
 }

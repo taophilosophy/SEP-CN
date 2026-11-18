@@ -2,10 +2,691 @@
  "key": "kelvin, lord",
  "term": "Kelvin, Lord",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:45:02+00:00",
- "status": "error",
- "note": "variant=Kelvin, Lord; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kelvin, Lord: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:51+00:00",
+ "status": "ok",
+ "note": "variant=Kelvin, Lord; 审定公布名词库=2002; 海峡两岸名词对照库=422; 其他来源数据库=43; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "开[尔文]",
+   "en": "Kelvin",
+   "source": "计量学名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "计量学_温度_温度和温标",
+   "subjectName": "温度和温标",
+   "publishYear": "2015",
+   "definition": "水三相点热力学温度的 1/273.16。是热力学温度单位，符号为 K。"
+  },
+  {
+   "cn": "神职议员",
+   "en": "Lords Spiritual",
+   "source": "世界历史名词",
+   "wordNumber": "03.0313",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国上议院中由26名大主教或主教担任的议员。"
+  },
+  {
+   "cn": "俗职议员",
+   "en": "Lords Temporal",
+   "source": "世界历史名词",
+   "wordNumber": "03.0314",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国上议院中主要由贵族担任的议员。"
+  },
+  {
+   "cn": "开[尔文]",
+   "en": "kelvin,K",
+   "source": "电气工程名词",
+   "wordNumber": "01.894",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文波",
+   "en": "Kelvin wave",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0077",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "发生在大气或者海洋中的、迎向地形边界而平衡科里奥利力的波动现象。 "
+  },
+  {
+   "cn": "开尔文模型",
+   "en": "Kelvin model",
+   "source": "化学名词",
+   "wordNumber": "05.0952",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "以服从虎克定律的弹簧和服从牛顿流体的黏壶并联组合，由此得到的黏弹性应力ε和应变σ关系力学模型，其运动方程为：σ(t)=Eε+ηdε/dt，式中E,η分别为虎克弹簧的杨氏模量和牛顿流体的黏度，t为时间。"
+  },
+  {
+   "cn": "开尔文公式",
+   "en": "Kelvin equation",
+   "source": "化学名词",
+   "wordNumber": "04.1562",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "表征弯曲液面蒸气压(P)与液面曲率半径(r)及表面张力(γ)的关系式：<img src='/root/syzx/static/spz/huaxue2.04.1562.1.png'/>。式中<img s"
+  },
+  {
+   "cn": "开尔文波",
+   "en": "Kelvin wave",
+   "source": "大气科学名词",
+   "wordNumber": "05.258",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "赤道地区在经向风为零，纬向风和气压以赤道为轴呈对称分布的情况下，自西向东传播的行星尺度大气重力波。"
+  },
+  {
+   "cn": "开尔文波",
+   "en": "Kelvin wave",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0520",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "赤道地区，在经向风为零、纬向风和气压以赤道为轴呈对称分布的情况下，自西向东传播的行星尺度大气重力波。"
+  },
+  {
+   "cn": "开尔文电桥",
+   "en": "Kelvin bridge",
+   "source": "电气工程名词",
+   "wordNumber": "26.074",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文问题",
+   "en": "Kelvin problem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文定理",
+   "en": "Kelvin theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文体",
+   "en": "Kelvin body",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文函数",
+   "en": "Kelvin function",
+   "source": "数学名词",
+   "wordNumber": "06.0699",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "甸",
+   "en": "dian;frontier lord",
+   "source": "中国古代史名词",
+   "wordNumber": "2.142",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "起源于边境垦田之官的外服诸侯。甸与侯一样，同是商王室的主要诸侯。西周甸已罕见。后世泛指某些边远地区。"
+  },
+  {
+   "cn": "上议院",
+   "en": "House of Lords",
+   "source": "世界历史名词",
+   "wordNumber": "03.0310",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国议会的组成部分，议员不经选举，由各类贵族担任。"
+  },
+  {
+   "cn": "开尔文-亥姆霍兹收缩",
+   "en": "Kelvin-Helmholtz contraction",
+   "source": "天文学名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在自引力作用下的收缩过程。"
+  },
+  {
+   "cn": "开尔文-沃伊特体",
+   "en": "Kelvin-Voight body",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0536",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "用以描述固体物质的黏弹性质，由一个弹簧和一个阻尼器并联组成的一种简化理论模型。 "
+  },
+  {
+   "cn": "开尔文[双]电桥",
+   "en": "Kelvin [double] bridge",
+   "source": "电力名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "通过与四端标准电阻比较来测量四端电阻器阻值的六臂测量电桥,所有臂都是电阻器,其中至少有一个可调。"
+  },
+  {
+   "cn": "开尔文-沃伊特模型",
+   "en": "Kelvin-Voigt model",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0342",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "研究蠕变特性的模型。由胡克体和阻尼体并联组成。当模型全体受应力σ作用时,阻尼体和胡克体所发生的应变相同,所受的应力σ为两者所受应力之和。"
+  },
+  {
+   "cn": "开尔文波",
+   "en": "Kelvin wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文定理",
+   "en": "Kelvin theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文模型",
+   "en": "Kelvin model",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文波",
+   "en": "Kelvin wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文温度",
+   "en": "Kelvin temperature",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绝对温标",
+   "en": "Kelvin scale",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "年轻的贵族",
+   "en": "Junge Lord\",\"Der",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Henze, Hans Werner"
+  },
+  {
+   "cn": "罗德豪隆起",
+   "en": "Lord Howe Rise",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "K-H波状云，开尔文-亥姆霍兹大波",
+   "en": "Kelvin-Helmholtz billows",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹波",
+   "en": "Kelvin-Helmholtz wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹不稳定",
+   "en": "Kelvin-Helmholtz instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文环流定理",
+   "en": "Kelvin circulation theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文温标",
+   "en": "Kelvin temperature scale",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沃伊特-开尔文模型",
+   "en": "Voigt-Kelvin model",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹不稳定性",
+   "en": "Kelvin-Helmholtz instability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹收缩",
+   "en": "Kelvin-Helmholtz contraction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海洋开尔文波",
+   "en": "ocean Kelvin wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开氏温标",
+   "en": "Kelvin scale(K)",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "首座星",
+   "en": "lord of the ascendant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹时标",
+   "en": "Kelvin-Helmholtz time scale",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "君",
+   "en": "Lord / Nobility / Monarch",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民主",
+   "en": "Lord of the People / Democracy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "装弹！",
+   "en": "Load!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装弹",
+   "en": "load",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凯林赛",
+   "en": "Keirin race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装弹",
+   "en": "charge\",\"load",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加重",
+   "en": "load\",\"weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篮网",
+   "en": "cord\",\"net",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开氏温标",
+   "en": "Kelvin's thermometric scale",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1.4.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "标准大气压下，将绝对零度定为0K，纯水液态、固态、气态同时存在的温度定为273.16K 的温标。由英国数学物理学家威廉·汤姆森于1824 年提出，是国际单位制七个基本物理量之一。"
+  },
+  {
+   "cn": "猪油",
+   "en": "lard",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.1",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "由猪脂肪中提炼的一种初始状态为黄色半透明液体、常温下为白色柔软固体的食用油脂。"
+  },
+  {
+   "cn": "盆腔因素性不孕",
+   "en": "pelvic infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "盆腔部位异常所致女性不能受孕的一类生育障碍。"
+  },
+  {
+   "cn": "满载",
+   "en": "full load",
+   "source": "消毒学",
+   "wordNumber": "1.2.10.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "按照灭菌装置生产厂家说明书规定方式摆放的最高允许装载量。"
+  },
+  {
+   "cn": "空腔负载",
+   "en": "hollow load",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "含有管腔结构的物品，腔体内直径≥2mm，腔体部分的长度不大于其内直径的1500倍。"
+  },
+  {
+   "cn": "运动负荷",
+   "en": "exercise load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在生理运动测试中，用于评估个体病理生理变化的一个量化指标。"
+  },
+  {
+   "cn": "学习负荷",
+   "en": "learning load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "学习时脑力工作的强度和时间。与教学内容的难度、数量，教学时间和方法及学生身心健康状况等有关。"
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.04",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人在生前或临终时用口头或书面形式嘱咐身后各事应如何处理的话或字据。"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①亲属语言之间有语音对应规律的共同来源的词。例如古代汉语的ŋa（吾）、miuk（目）和古代藏语的ŋa（我）、miɡ（眼睛）是汉语和藏语的同源词。②同一语言内部由同一根词直接或间接派生出来的词。例如汉语"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "某些社会群体、行业集团或秘密组织出于隐蔽行为的特需而约定的秘密交际语。它的使用者不是黑话流行的黑社会，而是违法犯罪团伙之外的各种群体。"
+  },
+  {
+   "cn": "姿势负荷",
+   "en": "posture load",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "不管采取何种姿势，人体都要承受由于保持某种姿势所产生的负荷。这种负荷来自于相应的体段所产生的力矩，大小取决于该体段的质量及质心与相应支点的垂直距离。"
+  },
+  {
+   "cn": "军事训练负荷",
+   "en": "military training load",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "机体承受一定军事训练模式的刺激，及其引起机体内部在生理、心理、生物学等方面反应和变化的总称；通常用训练心率为测评指标，用于科学训练指导和训练效果评价。"
+  },
+  {
+   "cn": "脐带消毒剂",
+   "en": "umbilical cord disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.17.6",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以碘伏、碘酊为杀菌成分，专用于新生儿脐带消毒的皮肤消毒剂。"
+  },
+  {
+   "cn": "小负载单元",
+   "en": "small load unit",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.13.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测试低温蒸汽甲醛灭菌周期的正常运行情况，由三个用于评价灭菌过程有效性的构成特定抗力的装置组成的测试小负载质量的组成测试单元。"
+  },
+  {
+   "cn": "满负载单元",
+   "en": "full load unit",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.13.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "低温蒸汽甲醛灭菌器灭菌效果鉴定试验中，由特定规格和质量的PVC软管、聚酰胺棒、不锈钢管等组成的测试最大负载质量的组成测试单元。"
+  },
+  {
+   "cn": "双词句阶段",
+   "en": "two-word stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从1.5岁左右开始说出由2-3个词组合起来的语句时期。此阶段婴幼儿词语大量增加，可脱离具体情境，把词与物体或动作联系起来，词语特有的功能初步形成。"
+  },
+  {
+   "cn": "运动负荷监测",
+   "en": "exercise load monitoring",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "主动采集学生运动负荷数据并分析结果,从而精准分析和评价学生运动能力的方法。"
+  },
+  {
+   "cn": "学习负荷评价",
+   "en": "learning load assessment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "评估学习时脑力工作的强度和时间的过程。"
+  },
+  {
+   "cn": "脐带脱垂",
+   "en": "prolapse of cord",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.31",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎膜破裂时脐带脱出于宫颈口外，降至阴道内甚至露于外阴部的现象。"
+  },
+  {
+   "cn": "脐带结扎",
+   "en": "umbilical cord clamping",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.33",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "新生儿出生后对其脐带进行剪断和结扎的处理方法，包括棉线结扎、气门芯套扎、钳夹法和脐带剪断器结扎等。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

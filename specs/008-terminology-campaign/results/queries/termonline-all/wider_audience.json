@@ -1,0 +1,632 @@
+{
+ "key": "wider audience",
+ "term": "wider audience",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:24:50+00:00",
+ "status": "ok",
+ "note": "variant=wider audience; 审定公布名词库=217; 海峡两岸名词对照库=53; 其他来源数据库=26; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "受众",
+   "en": "audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.047",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "媒体信息的接受者。参见“用户”条。"
+  },
+  {
+   "cn": "受众",
+   "en": "audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.051",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "在信息传播过程中，对“接受”一方的读者、听众、观众的总称。"
+  },
+  {
+   "cn": "受众",
+   "en": "audience",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.071",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "在传播过程中接受信息的个体或团体的总称。"
+  },
+  {
+   "cn": "受众",
+   "en": "audience",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.124",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_风险沟通",
+   "subjectName": "风险沟通",
+   "publishYear": "2014",
+   "definition": "可能受到风险影响或者认为可能受到影响的人。"
+  },
+  {
+   "cn": "广义惠更斯原理",
+   "en": "Huyghens principle in wider sense",
+   "source": "数学名词",
+   "wordNumber": "06.0367",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "广播电视受众",
+   "en": "broadcasting audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.165",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "广播听众和电视观众的总称。受众是广播电视节目的接收者、反馈者和参与者。"
+  },
+  {
+   "cn": "受众细分",
+   "en": "audience segmentation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.166",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "媒体和受众双向发生的分化过程。从媒体视角界定，就是媒体依据不同的特征和需求对受众进行的细化分类，以求更有针对性、更精准地为目标受众定制内容产品和提供传播服务。"
+  },
+  {
+   "cn": "受众调查",
+   "en": "audience survey",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.105",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "以读者、听众、观众为对象，为了解他们对新闻传播的需求、态度、意见和建议而进行的社会调查活动的总称。"
+  },
+  {
+   "cn": "受众构成",
+   "en": "audience composition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.106",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "大众媒介使用者的人数、性别、年龄、职业、经济情况等的组合方式。"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience research",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.015",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播学研究的五大领域之一，对传播信息的接受主体的各种心理活动与行为规律的专门研究。"
+  },
+  {
+   "cn": "受众理论",
+   "en": "audience theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.052",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "研究者从受众为本体的视角出发观察传播过程，在对受众行为、心理等方面的分析基础上提炼出的理论。克劳斯·布鲁恩·詹森(Klaus Bruhn Jensen)和卡尔·埃里克·罗森格伦(Karl E.Rose"
+  },
+  {
+   "cn": "受众分层",
+   "en": "audience fragmentation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.053",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "同样数量的受众注意力被分散到越来越多的媒介源中去的过程。这个概念假设受众对媒介源的选择是一种个体化的选择，而媒介源的增加，在理论上，将导致最大限度的多元化和个体化，因此，分层的出现意味着作为社会集合体"
+  },
+  {
+   "cn": "主动受众",
+   "en": "active audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.054",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "认为受众在传媒信息接收中具有主动性和选择性的受众观。在20世纪60年代以后逐渐成为受众研究的主流观点。"
+  },
+  {
+   "cn": "被动受众",
+   "en": "passive audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.055",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "认为受众在情感和态度方面容易受到媒体支配和操控的受众观。早期受众研究的一种常见观点。"
+  },
+  {
+   "cn": "目标受众",
+   "en": "target audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.052",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "营销或者传播针对的接受人群。"
+  },
+  {
+   "cn": "核心受众",
+   "en": "core audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.053",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "每天阅读报纸、杂志等达到一定时间的受众。"
+  },
+  {
+   "cn": "潜在受众",
+   "en": "potential audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.054",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "目前尚无受传行为但在一定时间内可能创造受传条件成为受众的人群。"
+  },
+  {
+   "cn": "实在受众",
+   "en": "real audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.055",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "对大众传播媒介已经有受传行为的受众。"
+  },
+  {
+   "cn": "有意受众",
+   "en": "intended audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.056",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "自觉或比较自觉地把自己的受传需要与传媒联系起来，有意识地参与传播过程的受众。"
+  },
+  {
+   "cn": "无意受众",
+   "en": "unintended audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.057",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "虽然有受传行为，但参与传播的自觉性较差，对传媒的视听往往是无意识的，非稳定的受众。"
+  },
+  {
+   "cn": "广范围投资",
+   "en": "wider range investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "观众",
+   "en": "audience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观众效应",
+   "en": "audience effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观众心理学",
+   "en": "audience psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "游码",
+   "en": "rider",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表面卷取机",
+   "en": "surface winder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "盘线装置",
+   "en": "line winder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "盘线装置",
+   "en": "line winder",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "驼峰",
+   "en": "rider peak",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "远距双星",
+   "en": "wide binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宽磁道",
+   "en": "wide track",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搭便车效应",
+   "en": "free rider effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "支线起线机",
+   "en": "branch line winder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "宽禁带半导体",
+   "en": "wide bandgap semiconductor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "宽砧锻造",
+   "en": "wide anvil forging",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "大视场成像",
+   "en": "wide-field imaging",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大视场底片",
+   "en": "wide-angle plate",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大视场望远镜",
+   "en": "wide-field telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广角望远镜",
+   "en": "wide-angle telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广角照相机",
+   "en": "wide-angle camera",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球人群定向库",
+   "en": "global audience targeting repository",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20182200-T-414 互动广告 第6部分：用户数据保护要求》",
+   "en": "20182200-T-414 Interactive advertising — Part 6: Audience data protection requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "男骑手",
+   "en": "horseman\",\"rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑手",
+   "en": "horseman\",\"rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地板清洁员",
+   "en": "floor wiper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先大部队车手",
+   "en": "breakaway rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地板清洁员",
+   "en": "floor wiper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地板清洁员",
+   "en": "floor wiper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地板清洁员",
+   "en": "floor wiper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宽握",
+   "en": "wide grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车运动员",
+   "en": "cyclist\",\"racer\",\"rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领骑者",
+   "en": "leader\",\"leading rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坠马",
+   "en": "throw the rider",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广域网",
+   "en": "wide area network (WAN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界账本",
+   "en": "World Wide Ledger (WWL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界自然基金会",
+   "en": "World Wide Fund for Nature",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "具有场外风险事故",
+   "en": "accident with wider consequences",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "放射性物质向环境释放，等效放射性物质量达到1014Bq～1015Bq131I的情况。需要采取局部场外应急响应以降低对人群健康的影响。"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience studies",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "对大众媒介的传播对象的研究。通过社会调查或社会科学的各种统计和分析技术把握大众传播对象的各项特征，如年龄、性别、教育程度、心理特点等，了解传播信息对接受者的影响和接受程度，以便改善和提升传播效果。"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来"
+  },
+  {
+   "cn": "大撒网式检查",
+   "en": "wide range inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床诊断中盲目使用或扩大辅助检查手段及范围的违背诊疗道德规范的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

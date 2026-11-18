@@ -2,10 +2,731 @@
  "key": "kanovich, max",
  "term": "Kanovich, Max",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:30:01+00:00",
- "status": "error",
- "note": "variant=Kanovich, Max; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kanovich, Max: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:32+00:00",
+ "status": "ok",
+ "note": "variant=Kanovich, Max; 审定公布名词库=1592; 海峡两岸名词对照库=831; 其他来源数据库=101; 预公布名词数据库=77; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "最大反差",
+   "en": "max contrast",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.062",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "原稿或复制品中最亮区域和最暗区域之间的阶调关系或差异程度。"
+  },
+  {
+   "cn": "马克斯·韦伯",
+   "en": "Max Weber（1864—1920）",
+   "source": "经济学名词",
+   "wordNumber": "16.036",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "德国著名社会学家，经济学家和经济史学家。出生于德国埃尔福特。早年求学于海德堡大学和柏林大学，1891年获柏林大学博士学位。先后执教于弗莱堡大学、海德堡大学和慕尼黑大学。1904年起担任《社会科学和社会"
+  },
+  {
+   "cn": "大豆",
+   "en": "soybean,Glycine max",
+   "source": "畜牧学名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "双子叶植物纲豆科大豆属一年生草本植物。"
+  },
+  {
+   "cn": "最大连续转速",
+   "en": "max continuous speed",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.325",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "压缩机制造完成并测试后能连续操作的最高转速。对于变速运行的压缩机，最大连续转速是额定转速的105%。"
+  },
+  {
+   "cn": "最小–最大系统",
+   "en": "min-max system",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0252",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由最小点(订货点)、最大点(最大库存水平)两个参数来控制订货的一种订货系统。订货量是变化的，它等于最大库存减去现有库存。当现有库存量等于或小于最小点时，就要提出订货。"
+  },
+  {
+   "cn": "转向器最大输出扭矩",
+   "en": "max working pressure",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.447",
+   "subjectFullName": "机械工程_汽车_底盘_转向",
+   "subjectName": "转向",
+   "publishYear": "2013",
+   "definition": "设计中规定的转向器允许的最大输出扭矩。"
+  },
+  {
+   "cn": "额定最大风速",
+   "en": "max. wind rating",
+   "source": "石油名词",
+   "wordNumber": "12.0167",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "最大钩载",
+   "en": "max. hook load",
+   "source": "石油名词",
+   "wordNumber": "12.0037",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "最高泵压",
+   "en": "max. pump pressure",
+   "source": "石油名词",
+   "wordNumber": "12.0231",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "麻杏石甘汤",
+   "en": "maxing shigan decoction",
+   "source": "兽医学名词",
+   "wordNumber": "19.515",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "《伤寒论》方，组成：麻黄，杏仁，炙甘草，石膏。为末，开水冲调，候温灌服，或煎汤服。辛凉泄热，宣肺平喘。主治肺热气喘。"
+  },
+  {
+   "cn": "峰浓度",
+   "en": "peak concentration;C max",
+   "source": "兽医学名词",
+   "wordNumber": "17.152",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "动物给药后，血中药物达到的最高浓度。"
+  },
+  {
+   "cn": "峰时",
+   "en": "peak time;T max",
+   "source": "兽医学名词",
+   "wordNumber": "17.153",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "动物给药后，血药浓度达到峰浓度所需的 时间。"
+  },
+  {
+   "cn": "大钩最大静载",
+   "en": "max. static hook load",
+   "source": "石油名词",
+   "wordNumber": "12.0166",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "转盘最大转速",
+   "en": "max. speed of rotary",
+   "source": "石油名词",
+   "wordNumber": "12.0181",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "最大钻柱载荷",
+   "en": "max. weight of drill stem,max.  drilling string load",
+   "source": "石油名词",
+   "wordNumber": "12.0038",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "最小/最大市场份额比",
+   "en": "min / max market share index",
+   "source": "电力名词",
+   "wordNumber": "06.429",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "供应者的最小市场份额与最大市场份额的比值。"
+  },
+  {
+   "cn": "镜质组平均最大反射率",
+   "en": "mean max reflectance of vitrinite",
+   "source": "冶金学名词",
+   "wordNumber": "05.0028",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "用煤的镜质组平均最大反射率表征煤化程度的指标，镜质组是煤的主要组分。颗粒较大而表面均匀，其反射率易于测定。它不受煤的岩相组成变化影响，因此是公认的较理想的煤化度指标。"
+  },
+  {
+   "cn": "转向阻力矩",
+   "en": "steering gear max output torque",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.446",
+   "subjectFullName": "机械工程_汽车_底盘_转向",
+   "subjectName": "转向",
+   "publishYear": "2013",
+   "definition": "转向轮转向时，地面作用于转向轮上的阻力矩。"
+  },
+  {
+   "cn": "栽培大豆",
+   "en": "cultivated soybean; Glycine max (L.) Merr.",
+   "source": "农学名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "粮食作物_豆类作物",
+   "subjectName": "豆类作物",
+   "publishYear": "2025",
+   "definition": "由野生大豆经过长期人工选择和自然选择而来的大豆类型。与野生大豆缺少种的区别，无生殖隔离现象，但性状差异很大。"
+  },
+  {
+   "cn": "秣食豆",
+   "en": "wild soybean; Glycine max (L.) Merr.",
+   "source": "农学名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "饲用作物_豆科饲用作物",
+   "subjectName": "豆科饲用作物",
+   "publishYear": "2025",
+   "definition": "大豆属饲用作物。一年生草本。茎初直立，后上部蔓生；总状花序腋生；荚果矩圆形，种子扁椭圆形。适于青饲，加工青贮、草粉。"
+  },
+  {
+   "cn": "最大[覆盖]范围",
+   "en": "max extent",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "马沙尔克",
+   "en": "Marschalk\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雷格，马克斯",
+   "en": "Reger\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "福格利希",
+   "en": "Vogrich\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罗斯塔尔",
+   "en": "Rostal\",\"Max(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布鲁赫",
+   "en": "Bruch\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "洛伦茨",
+   "en": "Lorenz\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "菲德勒，马克斯",
+   "en": "Fiedler\",\"Max(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保尔，马克斯",
+   "en": "Pauer\",\"Max(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最小/最大比例尺",
+   "en": "min/max scale",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "劳德埃-马克思量化",
+   "en": "Lloyd-Max quantization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迪布瓦，皮埃尔",
+   "en": "Dubois\",\"Pierre Max(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冯·施林斯",
+   "en": "Schillings\",\"Max von(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人机结合",
+   "en": "man-machine mix",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "格林卡",
+   "en": "Glinka\",\"Mikhail(Ivanovich)(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "梅特纳",
+   "en": "Medtner\",\"Nikolai Karlovich(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "夏利亚宾",
+   "en": "Chaliápin\",\"Fyodor Iranovich(Shalyapin\",\"Fyodor)(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人与生物圈自然保护区",
+   "en": "Man and Biosphere Reserve\",\"MAB Reserve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人与生物圈自然保护区",
+   "en": "Man and Biosphere Reserve\",\"MAB Reserve",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "蜡[质]",
+   "en": "wax",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上蜡",
+   "en": "wax",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫子",
+   "en": "mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "man-to-man checking\",\"man-to-man marking\",\"man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "man-to-man defense\",\"man-to-man marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔道垫",
+   "en": "mat\",\"tatami",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔道垫",
+   "en": "mat\",\"tatami",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "individual marking\",\"man-to-man marking\",\"man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破人盯人防守",
+   "en": "man-to-man offense\",\"offense against man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小人",
+   "en": "Petty Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大丈夫",
+   "en": "Great Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大摄氧量",
+   "en": "maximal oxygen uptake, VO2max",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体在进行有大量肌肉群参加的长时间剧烈活动中，当氧运输系统功能和肌肉利用氧的能力达到最高水平时，每分钟所能摄取的氧量。"
+  },
+  {
+   "cn": "满族",
+   "en": "Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。分布于全国各地，以辽宁省最多。人口1042.33 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。语言属阿尔泰语系满–通古斯语族满语支；满文是16 世纪参照蒙古文字母创制的，后"
+  },
+  {
+   "cn": "马姆人",
+   "en": "Mam",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0359",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲危地马拉境内第二大土著人民，主要分布在危地马拉的西部，少数居住在墨西哥境内。人口约64 万。属佩努蒂语族。大部分居民信仰天主教，但又保留某些土著人原始宗教成份。多数马姆人从事农业生产和进入咖啡园"
+  },
+  {
+   "cn": "东谢蛮",
+   "en": "Dongxie Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0141",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。主要分布于当今黔东南及黔南一带。因其首领姓谢而得名。"
+  },
+  {
+   "cn": "巴西棕榈蜡",
+   "en": "carnauba wax",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.18.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "从巴西棕榈的叶或叶芽中提取精制得到的蜡质材料，主要由脂肪酸酯和羟基脂肪酸酯的混合物组成。具有熔点高、硬度大和不透水的特点，可用作果蔬和糖果的被膜剂。"
+  },
+  {
+   "cn": "五水蛮",
+   "en": "Wushui Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0154",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代中南地区少数民族总称。最早作为“五方之民”（东夷、南蛮、西戎、北狄）之一，见于周《礼记》，与苗、僚、濮、越相关，包涵苗瑶、壮侗、氐羌、土家等族系之先民。亦有融于汉族者。"
+  },
+  {
+   "cn": "玛尔巴",
+   "en": "Mar pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0405",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1012 年—1097 年）藏传佛教塔波噶举派奠基人。西藏洛扎秋切卓窝隆（今洛扎境内）人。原名塔玛旺秋，法名却吉罗追。1026 年赴牛古垅寺从卓弥释迦意喜学习梵文等。后于洛扎卓窝隆收徒传教，并从事译"
+  },
+  {
+   "cn": "石蜡",
+   "en": "paraffin wax",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.15",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "由长链饱和烃形成的蜡状物质。可作为中子慢化材料，密度为0.89g·cm-3。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "社会人",
+   "en": "social man",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.23",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "一切经过社会化和文化教化，不仅具有自然属性而且还获得社会属性的人。特指人们在社会经济活动中不仅谋求自身的物质利益，而且更重视其社会情义（友谊、互信、互爱、归属感等等）的人。与 “经济人”相对。"
+  },
+  {
+   "cn": "税收",
+   "en": "tax revenue",
+   "source": "马克思主义",
+   "wordNumber": "02.0252",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力机构为了维持其存在和活动、向社会提供公共产品、满足社会共同需要、参与社会产品的分配，运用权力征收的财富以及货币。税收是剩余价值的派生形式之一，是国民收入再分配的一种形式。"
+  },
+  {
+   "cn": "粮食税",
+   "en": "grain tax",
+   "source": "马克思主义",
+   "wordNumber": "02.0311",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1921年，俄共（布）第十次代表大会通过了以粮食税代替余粮收集制的决定，标志着从战时共产主义政策向新经济政策的过渡。农民按国家规定交纳一定的粮食税，超过税额的余粮归个人所有，大大减轻了农民的负担。"
+  },
+  {
+   "cn": "单向度的人",
+   "en": "onedimensional man",
+   "source": "马克思主义",
+   "wordNumber": "05.0033",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自马尔库塞（Herbert Marcuse）《单向度的人》。认为当代发达工业社会是单向度的社会，生存于其中的人是单向度的人。资本主义社会已成为全面异化的社会，以技术为中介，文化、政治和经济融合成一个"
+  },
+  {
+   "cn": "五月风暴",
+   "en": "May storm",
+   "source": "马克思主义",
+   "wordNumber": "05.0217",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1968年5月，因一系列社会问题在法国巴黎所爆发的社会运动。整个过程，由学生运动开始，继而演变成社会危机，最后甚至导致政治危机,给法国社会带来了深远影响。"
+  },
+  {
+   "cn": "乌浒蛮",
+   "en": "Wuhu Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0153",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "东汉至隋唐时期中国南方古族名。中心居住区在今广西左、右江流域与钦州、合浦、玉林等地。有鼻饮、击铜鼓、住干栏、打牙等习俗；为瓯骆人后裔，今壮族及周边部分壮侗民族之先民。"
+  },
+  {
+   "cn": "板楯蛮",
+   "en": "Bandun-Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0128",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。巴人之别称。因使用虎皮木盾而得名。分布于巴子国境内（四川东北部的营山、阆中、巴中、渠县等广大地区）。以賨布为赋，故又称賨人。崇拜白虎。尚武喜舞，创“巴渝舞”。与当今之土家族有亲缘关系。"
+  },
+  {
+   "cn": "武陵蛮",
+   "en": "Wuling Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0156",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "汉武陵郡之少数民族，又以居地得名。秦称黔中蛮；分布于今湖南沅江流域、澧水流域与洞庭湖西北。与今苗瑶、土家有渊源关系。"
+  },
+  {
+   "cn": "西赵蛮",
+   "en": "Xizhao Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0142",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。因首领赵姓而得名，其分布地域约在今贵州省东部思南县以南地区。"
+  },
+  {
+   "cn": "蛮",
+   "en": "Man people",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0151",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代南方民族之泛称，种类繁多，合称分称各异，如蛮夷、南蛮、苗蛮、蛮僚等。先秦时，有荆蛮；秦汉时，以槃瓠蛮、廪君蛮、板楯蛮、五溪蛮最为著名。直至唐宋时，仍作为西南民族之泛称。"
+  },
+  {
+   "cn": "江夏蛮",
+   "en": "Jiangxia-Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0129",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "汉代对江夏郡少数民族的泛称。江夏郡属荆州刺史管辖，其地包括湖北东部及河南东南部一小部分。江夏蛮亦是古代荆蛮支系，部分属于秦朝灭巴国后迁入江夏之移民。与今日之土家族、苗族有族源关联。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,651 @@
  "key": "kagan, shelly",
  "term": "Kagan, Shelly",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:22:31+00:00",
- "status": "error",
- "note": "variant=Kagan, Shelly; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kagan, Shelly: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:25+00:00",
+ "status": "ok",
+ "note": "variant=Kagan, Shelly; 审定公布名词库=602; 海峡两岸名词对照库=159; 其他来源数据库=15; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "壳相",
+   "en": "shelly facies",
+   "source": "地质学名词",
+   "wordNumber": "07.01.107",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以含丰富的具有厚重外壳的底栖生物，如腕足动物、双壳类、腹足类、三叶虫等密集堆积为特征的生物相。指示有氧、正常含盐度的滨浅海环境。"
+  },
+  {
+   "cn": "壳相",
+   "en": "shelly facies",
+   "source": "古生物学名词",
+   "wordNumber": "05.0027",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "以含有丰富的具有厚重外壳的底栖生物为特征的生物相。"
+  },
+  {
+   "cn": "壳相",
+   "en": "shelly facies",
+   "source": "地质学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "小壳化石",
+   "en": "small shelly fossil",
+   "source": "古生物学名词",
+   "wordNumber": "01.0140",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "寒武纪最早期海相地层中大量涌现的个体微小的原始带壳动物化石。包括软舌螺类、单板类、腹足类、喙壳类等，分化程度甚高，还有许多分类位置不明的类群。"
+  },
+  {
+   "cn": "轨头剥离",
+   "en": "gage line shelly cracks",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0176",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "喀山密谋",
+   "en": "Kazan Conspiracy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0172",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "为支持1863-1864年波兰起义，俄国驻波兰军官委员会等组织密谋于1863年春在伏尔加河流域举行农民起义。密谋遭叛徒出卖而失败。"
+  },
+  {
+   "cn": "喀山远征",
+   "en": "Kasan Campaign",
+   "source": "世界历史名词",
+   "wordNumber": "02.0796",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1545-1552年，俄军4次征讨喀山汗国，最终将其消灭的军事行动。"
+  },
+  {
+   "cn": "喀山汗国",
+   "en": "Khanate of Kazan",
+   "source": "世界历史名词",
+   "wordNumber": "02.0772",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1438-1552年，位于伏尔加河中游的封建国家，由金帐汗国分出。后被俄国吞并。"
+  },
+  {
+   "cn": "喀山示威",
+   "en": "Kazan Demonstration of 1876",
+   "source": "世界历史名词",
+   "wordNumber": "05.0193",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1876年12月，在彼得堡喀山大教堂广场举行地点群众示威活动，是俄国第一次有工人参加的政治性游行示威，由“土地和自由社”组织。"
+  },
+  {
+   "cn": "版子",
+   "en": "shell",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.01.042",
+   "subjectFullName": "编辑与出版学_音像复制_唱片复制",
+   "subjectName": "唱片复制",
+   "publishYear": "2022",
+   "definition": "用电镀方法直接或间接获得的录音胶盘的金属复制品。"
+  },
+  {
+   "cn": "外环",
+   "en": "shell",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1299",
+   "subjectFullName": "机械工程（一）_传动_液力传动_叶轮及结构参数",
+   "subjectName": "叶轮及结构参数",
+   "publishYear": "2021",
+   "definition": "叶轮流道的外壁面。"
+  },
+  {
+   "cn": "壳瓣",
+   "en": "shell",
+   "source": "动物学名词",
+   "wordNumber": "5.1883",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "贝甲类、枝角类、介形类、蔓足类以及叶虾类甲壳动物的头胸甲特别延长扩大，向身体腹侧弯曲，形成的一块由左右瓣合成的蚌壳形甲壳。"
+  },
+  {
+   "cn": "壳层",
+   "en": "shell",
+   "source": "物理学名词",
+   "wordNumber": "07.0044",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "命令解释程序",
+   "en": "shell",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0610",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统中运行在用户态下，用于接收、解释、执行用户输入的操作管理计算机系统的命令。"
+  },
+  {
+   "cn": "锅壳",
+   "en": "shell",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0374",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_锅筒、集箱及锅筒内部装置",
+   "subjectName": "锅筒、集箱及锅筒内部装置",
+   "publishYear": "2013",
+   "definition": "锅壳式锅炉中用以进行蒸汽净化、组成水循环回路和蓄水的筒形压力容器。"
+  },
+  {
+   "cn": "壳",
+   "en": "shell",
+   "source": "土木工程名词",
+   "wordNumber": "02.190",
+   "subjectFullName": "土木工程_工程力学_弹塑性力学",
+   "subjectName": "弹塑性力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "壳",
+   "en": "shell",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.137",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程结构（水利）",
+   "subjectName": "工程结构（水利）",
+   "publishYear": "1997",
+   "definition": "由上下两个几何曲面围成的厚度很薄的、主要承受中面内的法向力和切向力，有时也承受垂直于中面的弯矩、剪力和扭矩的曲面构件。"
+  },
+  {
+   "cn": "壳",
+   "en": "shell",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "蛋的耐压度",
+   "en": "shell strength,shell hardness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.464",
+   "subjectFullName": "畜牧学_畜产品与加工_蛋_蛋的性质",
+   "subjectName": "蛋的性质",
+   "publishYear": "2020",
+   "definition": "禽蛋能最大程度承受的压力。单位为Pa。"
+  },
+  {
+   "cn": "未满壳层",
+   "en": "unfilled shell,incomplete shell",
+   "source": "物理学名词",
+   "wordNumber": "09.0336",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "系浮标的投海货物",
+   "en": "lagan",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "科冈",
+   "en": "Kogan\",\"Leonid(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法甘",
+   "en": "Fagan\",\"Gideon(南非)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外壳",
+   "en": "shell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞滋养层壳",
+   "en": "cytotrophoblast shell\",\"cytotrophoblastic shell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "无骨材壳体",
+   "en": "unframed shell\",\"unstiffened shell",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有骨材壳体",
+   "en": "framed shell\",\"stiffened shell",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贝壳",
+   "en": "conch\",\"shell",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "卵壳",
+   "en": "chorion\",\"shell",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "壳状区",
+   "en": "shell zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单［壳式］蒸馏釜",
+   "en": "shell still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "壳平衡",
+   "en": "shell balance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "发烟弹",
+   "en": "smoke shell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预应力外壳",
+   "en": "stressed shell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "壳模铸造",
+   "en": "shell molding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "炮弹休克,弹震症",
+   "en": "shell shock",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "壳芯",
+   "en": "shell core",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "壳状凝固",
+   "en": "shell solidification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "磁壳",
+   "en": "magnetic shell",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "壳状星系",
+   "en": "shell galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "弹颈",
+   "en": "shell neck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虫胶",
+   "en": "shellac",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腹部",
+   "en": "belly",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舷外桨架",
+   "en": "outrigger\",\"racing shell\",\"rigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "希里转体",
+   "en": "Healy twist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "甲骨文",
+   "en": "Inscriptions on Bones or Tortoise Shells",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "划桨模拟器",
+   "en": "mock-up of a shell\",\"rowing tank",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团结定能胜利。（援助法国，源自雨果）",
+   "en": "United we shall overcome. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "道氏浪涌级表",
+   "en": "Douglas sea-and-swell scale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违背比赛连续性原则",
+   "en": "violation of the principle that play shall be continuous",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未来三部曲（《必然》《失控》《科技想要什么》）（〔美〕凯文·凯利）",
+   "en": "The Future Trilogy — The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future; Out of Control: The New Biology of Machines, Social Systems, and the Economic World; What Technology Wants (Kevin Kelly, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《晶珠本草》",
+   "en": "Shel gong shel phreng",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0347",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族医学名著，分《治病伏魔药物功能直讲•无垢晶球》及《甘露药物物名称功能详解•无垢晶鬘》两部分内容，简称《晶球论》和《品鬘论》。作者为杜玛格西•丹增彭措，约于1735年成书。共收载药物二千二百九十四种"
+  },
+  {
+   "cn": "素食",
+   "en": "foods for vegetarians, vagan",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.28",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "使用谷物粉类、蔬菜、干鲜果品、植物油、豆制品、淀粉、食用菌类和藻类等植物性原料，仅使用或不使用乳和乳制品、蛋和蛋制品两类动物性原料加工制作而成的食品。"
+  },
+  {
+   "cn": "紫胶",
+   "en": "shellac",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.18.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "紫胶虫吸食树液后分泌的天然树脂，是一类多羟基羧酸的内酯和交酯组成的复杂混合物。主要成分为紫胶桐酸、壳脑酸和壳脑醛酸。可作为被膜剂涂于果蔬、糖果等食品。"
+  },
+  {
+   "cn": "避孕胶冻",
+   "en": "contraceptive jelly",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一种胶冻形式的外用避孕药。半透明的糊状物，性交前通过专用的置入器注入阴道深部。"
+  },
+  {
+   "cn": "蜂王浆",
+   "en": "royal jelly",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.13",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂咽下腺和上颚腭腺等腺体分泌的，主要用于饲喂蜂王和蜂幼虫的半透明的乳白色、淡黄色或浅橙色乳浆状半流体物，具有独特香气，微甜、酸涩、辛辣"
+  },
+  {
+   "cn": "屏气发作",
+   "en": "breath holding spell",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童在剧烈哭闹时突然出现呼吸暂停的现象。表现为情感爆发，剧烈哭闹时屏住呼吸，致使发绀或苍白，意识丧失，甚至癫痫发作，最后恢复意识并正常呼吸。"
+  },
+  {
+   "cn": "食品保质期",
+   "en": "food shelf life",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.33",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "预包装食品在标签标明的贮存条件下，保持品质的期限。"
+  },
+  {
+   "cn": "王浆片",
+   "en": "royal jelly tablet",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.15",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "快速冻结的鲜蜂王浆在真空条件下水分子冷冻升华后得到的干片。"
+  },
+  {
+   "cn": "蜂王浆冻干粉",
+   "en": "lyophilized royal jelly",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.14",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "蜂王浆通过真空冷冻干燥加工工艺处理，除去其中大部分水分得到的结晶状粉末。"
+  },
+  {
+   "cn": "蜂乳晶",
+   "en": "royal jelly crystal",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.16",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "蜂王浆配以白砂糖、少量蜂蜜和其他辅料制成的颗粒制剂。"
+  },
+  {
+   "cn": "经销代销",
+   "en": "sell on commission sale by proxy",
+   "source": "马克思主义",
+   "wordNumber": "02.0359",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义改造中对私营商业实行国家资本主义的初级形式。经销是指私营商业对国营商业全部或大部分掌握货源的商品，根据国营商业的供应计划用现款进货，按照规定的供应办法和零售牌价出售，从批零差价中获得收入。代销"
+  },
+  {
+   "cn": "溶血-肝功能异常-血小板减少综合征",
+   "en": "Hemolysis-elevated liver enzymes-low platelet count syndrome, HELLP syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.7.17",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在子痫前期基础上，出现溶血、肝酶升高和血小板减少的妊娠并发症。"
+  },
+  {
+   "cn": "HELLP综合征",
+   "en": "hemolysis elevated liver enzymes and low platelet count syndrome，HELLP syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.36",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "以溶血（hemolysis，H）、肝酶升高（elevated liver enzymes，EL）和血小板减少（low plalete count，LP）为特点的妊娠期高血压疾病的严重并发症。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,741 @@
  "key": "butler, joseph",
  "term": "Butler, Joseph",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T15:08:47+00:00",
- "status": "error",
- "note": "variant=Butler, Joseph; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Butler, Joseph: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:20+00:00",
+ "status": "ok",
+ "note": "variant=Butler, Joseph; 审定公布名词库=1131; 海峡两岸名词对照库=272; 其他来源数据库=39; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "巴特勒-福尔默方程",
+   "en": "Butler-Volmer equation",
+   "source": "冶金学名词",
+   "wordNumber": "04.0472",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "描述稳态电化学极化时，电极反应的速率与电极电势(超电势)、温度、反应的得失电子数之间关系的动力学公式。"
+  },
+  {
+   "cn": "巴特勒-褔尔默方程",
+   "en": "Butler-Volmer equation",
+   "source": "化学名词",
+   "wordNumber": "04.0521",
+   "subjectFullName": "化学_物理化学_电化学",
+   "subjectName": "电化学",
+   "publishYear": "2016",
+   "definition": "表达电极反应不存在浓差极化情况下电流与过电势关系的方程。"
+  },
+  {
+   "cn": "约瑟夫病",
+   "en": "Joseph disease",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.391",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "马查多-约瑟夫病",
+   "en": "Machado-Joseph disease",
+   "source": "神经病学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "神经病学_神经系统变性疾病",
+   "subjectName": "神经系统变性疾病",
+   "publishYear": "2020",
+   "definition": "一种常见的遗传性共济失调。1972年根据首例患者家系成员马查多（Machado）和约瑟夫（Joseph）命名。为常染色显性遗传，基因定位于染色体14q24.3—q32.1，由MJD1基因编码区的CAG"
+  },
+  {
+   "cn": "约瑟夫·斯蒂格利茨",
+   "en": "Joseph E. Stiglitz（1943—）",
+   "source": "经济学名词",
+   "wordNumber": "16.108",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "美国当代经济学家，2001年度诺贝尔经济学奖获得者之一。出生于美国印第安纳州加里市。1964年获阿默斯特学院文学士学位；1966年获麻省理工学院哲学博士学位。1966年起先后执教于麻省理工学院、耶鲁大"
+  },
+  {
+   "cn": "皮埃尔·约瑟夫·蒲鲁东",
+   "en": "Pierre-Joseph Proudhon（1809—1865）",
+   "source": "经济学名词",
+   "wordNumber": "16.013",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "法国小资产阶级经济学家，无政府主义的创始人之一。出生于法国贝桑松。早年当过雇工，做过排字工人，经营过小印刷所。1837年进入贝桑松专科学校学习，随后迁居巴黎从事理论活动，1848年“二月革命”后当选为"
+  },
+  {
+   "cn": "约瑟夫·熊彼特",
+   "en": "Joseph A. Schumpeter (1883—1950)",
+   "source": "经济学名词",
+   "wordNumber": "16.048",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "当代美籍奥地利经济学家，现代创新理论创始人。出生于奥匈帝国。早年在维也纳大学学习，随后游学伦敦。早年曾先后执教于奥地利切克诺维茨大学和克拉兹大学、德国波恩大学。曾出任奥地利财政部长和比得曼银行董事长。"
+  },
+  {
+   "cn": "缓冲器",
+   "en": "buffer,bumper",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0147",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_安全和指示装置",
+   "subjectName": "安全和指示装置",
+   "publishYear": "2013",
+   "definition": "吸收动能、缓和冲撞的装置。"
+  },
+  {
+   "cn": "锅炉燃烧器试验",
+   "en": "boiler burner test",
+   "source": "船舶工程名词",
+   "wordNumber": "12.272",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "对锅炉喷油器的喷油、燃烧性能等的综合试验。"
+  },
+  {
+   "cn": "燃烧室出口温度",
+   "en": "burner outlet temperature,combustor outlet temperature",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0638",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "在燃烧室出口截面处工质的质量流量加权平均总温度。包括任何泄漏进入工质所产生的影响。"
+  },
+  {
+   "cn": "锅炉排烟温度",
+   "en": "boiler outlet gas temperature",
+   "source": "建筑学名词",
+   "wordNumber": "14.0942",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "锅炉运行时，其最末一级受热面出口处的平均烟气温度。"
+  },
+  {
+   "cn": "锅炉燃油泵",
+   "en": "boiler fuel oil pump,boiler burner pump",
+   "source": "航海科技名词",
+   "wordNumber": "15.0417",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "奶油",
+   "en": "butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.365",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "乳分离后，经成熟、搅拌、压炼制成的乳制品。"
+  },
+  {
+   "cn": "牛油",
+   "en": "butter",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0896",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_食用油",
+   "subjectName": "食用油",
+   "publishYear": "2020",
+   "definition": "(1)牛乳制品，是奶油的通俗名称。(2)从牛的脂肪组织中提炼出来的油脂。"
+  },
+  {
+   "cn": "重制奶油",
+   "en": "processed butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.368",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "用稀奶油、甜性奶油和酸性奶油，经过熔融，除去蛋白质和水分后的奶油。具有特有的脂香味，含脂肪98%以上，含水分不超过2%。"
+  },
+  {
+   "cn": "无水奶油",
+   "en": "anhydrous butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.369",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "稀奶油制成奶油粒后，经熔化，用分离机脱水和脱除蛋白质，再经过真空浓缩的奶油。含乳脂肪高达99.9%。"
+  },
+  {
+   "cn": "酪乳",
+   "en": "butter milk",
+   "source": "畜牧学名词",
+   "wordNumber": "06.370",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "奶油生产的副产品，在奶油生产过程中稀奶油通过搅拌所产生的液体。"
+  },
+  {
+   "cn": "硬质奶油",
+   "en": "firm butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.371",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "以十八碳烯酸(即油酸)含量少的乳脂肪为原料加工成的奶油。"
+  },
+  {
+   "cn": "乳清奶油",
+   "en": "whey butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.372",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "以从干酪副产品—乳清中分离出的稀奶油为原料制成的奶油。"
+  },
+  {
+   "cn": "加盐奶油",
+   "en": "salted butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.375",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "加入食盐的奶油制品。"
+  },
+  {
+   "cn": "约瑟夫效应",
+   "en": "Joseph effect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约瑟夫的故事",
+   "en": "Josephs Legende",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "埃尔斯纳",
+   "en": "Elsner\",\"Joseph(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蒂哈契克",
+   "en": "Tichatschek\",\"Joseph(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "富克斯，约瑟夫",
+   "en": "Fuchs\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "西尔弗斯坦",
+   "en": "Silverstein\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "康特卢布",
+   "en": "Canteloube\",\"Joseph(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "西盖蒂",
+   "en": "Szigeti\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "席林格",
+   "en": "Schillinger\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "凯尔贝特",
+   "en": "Keilberth\",\"Joseph(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍洛维兹，约瑟夫",
+   "en": "Horovitz\",\"Joseph(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "马克思，约瑟夫",
+   "en": "Marx\",\"Joseph(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容根，约瑟夫",
+   "en": "Jongen\",\"Joseph(比利时)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿克隆",
+   "en": "Akhron\",\"Joseph(立陶宛)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "约阿希姆",
+   "en": "Joachim\",\"Joseph(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卡利什斯坦",
+   "en": "Kalichststein\",\"Joseph(以色列)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伍德，亨利",
+   "en": "Wood\",\"Henry(Joseph)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利平斯基",
+   "en": "Lipinski\",\"Carl Joseph(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罗帕尔茨",
+   "en": "Ropartz\",\"Joseph Guy(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉夫",
+   "en": "Raff\",\"Joseph Joachim(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "异常值",
+   "en": "outlier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹头",
+   "en": "bullet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶员",
+   "en": "puller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "箭支收集员",
+   "en": "puller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹头",
+   "en": "bullet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水槽",
+   "en": "gutter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水槽",
+   "en": "gutter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汲水器",
+   "en": "bailer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "投掷运动员",
+   "en": "putter\",\"thrower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球员",
+   "en": "batter\",\"hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球员",
+   "en": "batter\",\"hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单桅多帆船",
+   "en": "sloop\",\"cutter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汲水器",
+   "en": "bailer\",\"scoop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "牛油",
+   "en": "butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "从牛的脂肪组织中提炼出来的油脂。"
+  },
+  {
+   "cn": "可可脂",
+   "en": "cocoa butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.1.16",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以纯可可豆为原料，经清理、筛选、焙炒、脱壳、磨浆、机榨等工艺制成的产品。"
+  },
+  {
+   "cn": "可可脂",
+   "en": "cocoa butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.29",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以纯可可豆为原料，经清理、筛选、脱壳、磨浆、机榨等工艺提取出的天然植物油脂，液态时呈琥珀色，固态时呈淡黄色。"
+  },
+  {
+   "cn": "游离值",
+   "en": "outlier",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.89",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "“逸出值”。同其他观测值距离非常远的观测值。"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.31",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "能部分模拟天然可可脂特点并加以部分或全部替代的硬化油脂。如氧化植物油，但其脂肪酸组成与构型不同于可可脂，可能含有反式脂肪酸，且缺少多晶型特性。"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter substitute",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.9",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "来源于可可之外的植物油脂，可全部或部分代替可可脂。"
+  },
+  {
+   "cn": "类可可脂",
+   "en": "cocoa butter equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.30",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以植物脂肪（如棕榈油、牛油树脂、沙罗脂等）为原料，经过适当的提纯、蒸馏、改性与组合，在各方面与天然可可脂极为接近但不含反式脂肪酸的巧克力专用油脂。"
+  },
+  {
+   "cn": "出风口",
+   "en": "air outlet",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.5",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "输送集中空调系统处理的空气到室内的风管出口。"
+  },
+  {
+   "cn": "缓冲带",
+   "en": "buffer zone",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "在等级性阶级结构中处于工人阶级与中产阶级之间的低层白领职业人群。该概念由社会学家帕金（Frank Parkin）提出。由于这一群体的存在，以及它在社会流动中能为下层社会成员提供上升流动的机会，使得阶级"
+  },
+  {
+   "cn": "苦陷症",
+   "en": "bitter pit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "苹果由于高氮低钙营养失调而引起果肉微苦，果实表面出现凹陷圆斑的症状。"
+  },
+  {
+   "cn": "缓冲区",
+   "en": "buffer area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.25",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "原材料或半成品未经过正常制造流程而直接进入管制作业区时，为避免管制作业区直接与外界相通，于入口处所设置的场所。"
+  },
+  {
+   "cn": "磷酸盐缓冲液",
+   "en": "phosphate buffer solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由无水磷酸氢二钠和磷酸二氢钾配制成的pH值为7.2，浓度为0.03mol/L的中性缓冲液。"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Muller counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "一种专门探测电离辐射(α粒子、β粒子、γ射线)强度的计数仪器。由充气的管或小室作探头，当向探头施加的电压达到一定范围时，射线在管内每电离产生一对离子，就能放大产生一个相同大小的电脉冲并被相连的电子装置"
+  },
+  {
+   "cn": "代可可脂巧克力制品",
+   "en": "chocolate products with cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.18",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以代可可脂为主要原料（质量分数≥25%），与其他食品按一定比例混合，经特定工艺制成的固态、半固态食品。"
+  },
+  {
+   "cn": "中子弹损伤",
+   "en": "injuries of neutron bullet",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "中子辐射能够对人体和其他生物的细胞造成严重损伤，破坏DNA 和细胞结构，导致细胞死亡和器官功能衰竭的损伤。中子辐射的穿透能力和杀伤力很强，可以穿透人体和建筑物，对内部人员造成严重伤害。"
+  },
+  {
+   "cn": "盖格-米勒计数管",
+   "en": "Geiger-Muller counter tube",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "工作在盖革-米勒区的气体电离探测器，优点为灵敏度高、输出脉冲幅度大（几伏至几十伏）、无需放大可记录、稳定性高、电源要求低、低成本、便携；缺点是死时间为0～500μs，不适用高计数率测量。"
+  },
+  {
+   "cn": "代可可脂巧克力",
+   "en": "chocolate with cocoa butter alternatives, compound chocolate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.17",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以代可可脂为主要原料（超过5%），添加或不添加可可制品（可可液块、可可粉、可可脂）、食糖和或甜味剂、乳制品及食品添加剂，经特定工艺制成的固态、半固态并具有巧克力风味和性状的食品。"
+  },
+  {
+   "cn": "盖革-米勒计数管坪",
+   "en": "plateau of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "在盖革-米勒计数管特征曲线上，计数率基本不随外加电压变化的电压工作区间。"
+  },
+  {
+   "cn": "盖革-米勒计数管死时间",
+   "en": "dead time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "盖革-米勒计数管从某一电离事件产生脉冲开始，对后继的电离事件不能响应的一段时间间隔。"
+  },
+  {
+   "cn": "盖革-米勒计数管恢复时间",
+   "en": "recovery time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "从一个被计数脉冲的起点，到它完全恢复到初始状态，并能对输入事件给出最大幅度脉冲所需要的时间。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

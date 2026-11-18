@@ -1,0 +1,772 @@
+{
+ "key": "mind-independent reality",
+ "term": "mind-independent reality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:17:01+00:00",
+ "status": "ok",
+ "note": "variant=mind-independent reality; 审定公布名词库=3659; 海峡两岸名词对照库=881; 其他来源数据库=148; 预公布名词数据库=137; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "心智",
+   "en": "mind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.560",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "与心理及智能活动相关的一切精神现象。如意识、知觉、思想、记忆、注意、意志、情绪、感受等。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "行为医学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "人脑对客观现实的主观反映。属于脑的功能，在实践活动中不断发生与发展。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "计划生育名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人的头脑对客观规律的反映。包括感觉、知觉、记忆、思维、意志和情绪等。也可泛指人的内心活动。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "心理学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "人脑对客观现实的主观反映。是脑的功能，在实践活动中不断地发生和发展。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.008",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "能进行深入观察的觉照。当完全地觉知并深入地观察某个对象时，能观和所观的界限就逐渐消失，能观和所观成为一体。是一种消解压力、自我放松的方法。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "行为医学名词",
+   "wordNumber": "20.066",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过有目的地将注意力集中于当下，不加评判地觉知一个又一个瞬间所呈现的体验而涌现的一种觉知力。包括状态正念、特质正念、正念训练和正念认识过程。"
+  },
+  {
+   "cn": "独立[的]",
+   "en": "independent",
+   "source": "数学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立派",
+   "en": "Independents",
+   "source": "世界历史名词",
+   "wordNumber": "03.0325",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国资产阶级革命中的一个清教派别，主要代表中等贵族和中等资产阶级利益。"
+  },
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "读心术",
+   "en": "mind-reading",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.499",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "常人所具备的“读懂”他人心理状态与活动的技能。对这种能力的解释主要有两种：人们对这一能力的运用是基于常识心理学的基本理论所做的推理，是为“理论观”；人们在理解和预测他人的心理和行为时，是以自身的心理结"
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.216",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "围绕一个中心主题，把相关各级主题用辐射线的形式相连，图文并用，用层级图形式表现各级主题的相关关系，实现发散性思维的一种图形思维工具。"
+  },
+  {
+   "cn": "思想管理者",
+   "en": "mind manager",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "控制和监督人们的思想、为统治集团利益服务的媒体、政府信息生产部门以及教育部门。这一概念由美国传播学者赫伯特·席勒(Herbert Schiller)在其1973年出版的《思想管理者》(The Mind"
+  },
+  {
+   "cn": "理念识别",
+   "en": "mind identity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.106",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系技术",
+   "subjectName": "公关关系技术",
+   "publishYear": "2022",
+   "definition": "企业在长期的经营实践活动中形成的与其他企业不同的价值观、宗旨、精神等，涉及企业如何确认“我是谁”“我的愿景是什么”，以及企业如何在信念层面看待自我与他者、自我与社会、自我与自然的关系。"
+  },
+  {
+   "cn": "意守",
+   "en": "mind concentration",
+   "source": "运动医学名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "摄心归一，专其一处，即气功练习中，在身心安静的情况下，把意念“放”在身体的某一部位的练功形式。"
+  },
+  {
+   "cn": "读心症",
+   "en": "mind-reading",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.081",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "读者心理",
+   "en": "reader minds",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.027",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "引发读者购买和阅读出版物行为的内心活动。"
+  },
+  {
+   "cn": "五志",
+   "en": "five minds",
+   "source": "行为医学名词",
+   "wordNumber": "2.148",
+   "subjectFullName": "行为医学_行为医学基本理论_中医行为医学思想",
+   "subjectName": "中医行为医学思想",
+   "publishYear": "2022",
+   "definition": "喜、怒、思、忧、恐五种情志活动。中医认为情志的变动和五脏的功能有关，心志为喜，肝志为怒，脾志为思，肺志为忧，肾志为恐。"
+  },
+  {
+   "cn": "五志",
+   "en": "five minds",
+   "source": "中医药学名词",
+   "wordNumber": "03.091",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "喜、怒、思、忧、恐五种主要情志活动的合称。"
+  },
+  {
+   "cn": "独立学院",
+   "en": "independent college,independent institute",
+   "source": "教育学名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "教育学_高等教育_院校组织",
+   "subjectName": "院校组织",
+   "publishYear": "2013",
+   "definition": "主要指中国由普通本科高校与社会力量合作举办的进行本科层次教育的高等教育机构。其性质尚在演变中。"
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心身关系",
+   "en": "mind body relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心身问题",
+   "en": "mind body problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理理论",
+   "en": "theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主动发育",
+   "en": "independent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "独立分配（=自由组合）",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合，独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立样本",
+   "en": "independent sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "独立反应",
+   "en": "independent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立自我",
+   "en": "independent self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独立产额",
+   "en": "independent yield",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independent",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "独立投资项目",
+   "en": "independent project",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独立平台",
+   "en": "platform independent",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合,独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "独立潮",
+   "en": "independent tide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "独立取样",
+   "en": "independent sampling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成心",
+   "en": "Biased Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正心",
+   "en": "Rectify One’s Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解蔽",
+   "en": "Clear the Mind of Enigmas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "半独立报酬系统",
+   "en": "semi-independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.18",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中，创造性的生产者分配符号性报酬，而消费者分配物质性报酬。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "统一性和独立性相结合",
+   "en": "combination of unity and independence",
+   "source": "马克思主义",
+   "wordNumber": "02.0379",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的统一性和独立性是对立的统一的思想。要有统一性，也要有独立性。各个生产单位都要有一个与统一性相联系的独立性，才会发展的更加活泼。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "独立自主的山地游击战",
+   "en": "independent guerrilla struggle in the mountains",
+   "source": "马克思主义",
+   "wordNumber": "03.0428",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中提出的人民军队在抗日战争时期的基本战略方针。在整个抗日战争中，人民军队在敌后开展的独立自主的山地游击战，既是对正规战争的配合，又由于在敌后建立抗日根"
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "工农武装割据",
+   "en": "armed independent regime of workers and peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0355",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为主要代表的中国共产党人建立红色政权的实践和思想。它的基本内容是在中国共产党的领导下, 以农民武装斗争为主要形式,以土地革命为主要内容,以农村革命根据地为主要阵地，三者密切结合，进行反对帝国主"
+  },
+  {
+   "cn": "三严三实专题教育",
+   "en": "special subject education of Three stricts and three realities",
+   "source": "马克思主义",
+   "wordNumber": "04.0278",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按照党中央关于在县处级以上领导干部中开展“三严三实”专题教育的部署，中共中央政治局于12月28日至29日召开专题民主生活会，围绕中央政治局带头践行严以修身、严以用权、严以律己、谋事要实、创业要实、做人"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

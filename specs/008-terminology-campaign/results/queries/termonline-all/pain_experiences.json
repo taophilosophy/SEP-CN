@@ -1,0 +1,692 @@
+{
+ "key": "pain experiences",
+ "term": "Pain experiences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:20:29+00:00",
+ "status": "ok",
+ "note": "variant=Pain experiences; 审定公布名词库=2298; 海峡两岸名词对照库=643; 其他来源数据库=92; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "麻醉学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛分类",
+   "subjectName": "疼痛分类",
+   "publishYear": "2024",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的感觉和情绪、情感体验，或与此相似的经历。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "兽医学名词",
+   "wordNumber": "10.407",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "痛觉神经末梢发出的神经冲动，沿传入纤维进入大脑某些部位的神经细胞后而被机体感知的一种不舒适自觉症状。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.064",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_其他症状",
+   "subjectName": "其他症状",
+   "publishYear": "2022",
+   "definition": "可由疾病、创伤或潜在伤害性刺激引起的不愉快的主观体验。是一种复杂的生理、心理活动，也是临床上最常见的症状之一。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "手外科学名词",
+   "wordNumber": "05.1018",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "一种不愉快的感觉和情绪上的感受，伴随现有的或潜在的组织损伤。疼痛是主观性的，是身体局部或整体的感觉。"
+  },
+  {
+   "cn": "痛",
+   "en": "pain",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.035",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "气血凝滞、阻塞不通的反应。其增剧与减轻又常为病势进展与消退的标志。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.003",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸疼痛",
+   "en": "testicular pain;testicle pain",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "发生于一侧或双侧睾丸的疼痛。"
+  },
+  {
+   "cn": "射精痛",
+   "en": "ejaculation pain;painful ejaculation",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "射精时发生在性器官及会阴、下腹等部位的疼痛。生殖道炎症是常见原因。"
+  },
+  {
+   "cn": "手术后疼痛",
+   "en": "postoperative pain",
+   "source": "普通外科学名词",
+   "wordNumber": "13.133",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "手术后出现的手术部位及其相关区域的疼痛。属急性疼痛的一种，主要由手术本身造成的急性创伤和（或）内脏器官损伤及刺激引起，也可由引流物刺激引起。一般高峰期是术后24～48小时。"
+  },
+  {
+   "cn": "顽固性疼痛",
+   "en": "intractable pain",
+   "source": "神经外科学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "传入神经因物理与化学性刺激感受器产生的痛觉或传入神经感应产生的持续存在的疼痛反应。"
+  },
+  {
+   "cn": "去传入性疼痛",
+   "en": "deafferent pain",
+   "source": "神经外科学名词",
+   "wordNumber": "10.014",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "由于周围或中枢感觉神经损伤或者传入中枢神经系统的痛知觉信息消失，导致其上游神经元或伴行的传导慢痛的神经纤维异常放电引起的神经病理性疼痛。"
+  },
+  {
+   "cn": "残肢痛",
+   "en": "stump pain",
+   "source": "神经外科学名词",
+   "wordNumber": "10.018",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "残存指端或肢端发生的慢性疼痛。多由炎症、神经粘连、神经瘤、骨端过长和骨刺使皮肤受压导致血运不良而造成。不仅影响假肢的安装和使用，而且疼痛剧烈。"
+  },
+  {
+   "cn": "放射痛",
+   "en": "radiating pain",
+   "source": "普通外科学名词",
+   "wordNumber": "22.116",
+   "subjectFullName": "医学_普通外科学_胆道外科",
+   "subjectName": "胆道外科",
+   "publishYear": "2026",
+   "definition": "病变刺激内脏引起远隔浅表部位的疼痛。即内脏痛觉信号传至相应脊髓节段，引起该节段支配的体表部位疼痛。"
+  },
+  {
+   "cn": "钻顶样疼痛",
+   "en": "drilling pain",
+   "source": "普通外科学名词",
+   "wordNumber": "22.117",
+   "subjectFullName": "医学_普通外科学_胆道外科",
+   "subjectName": "胆道外科",
+   "publishYear": "2026",
+   "definition": "蛔虫进入胆管的机械性刺激引发肝胰壶腹括约肌剧烈收缩或痉挛导致的疼痛。"
+  },
+  {
+   "cn": "自发痛",
+   "en": "spontaneous pain",
+   "source": "普通外科学名词",
+   "wordNumber": "25.356",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "肢体在静止状态时仍持续存在的弥漫性、不易定位、灼烧样疼痛。夜间平卧时加重。其病因是慢性缺血性神经病变和感觉神经体位性异常灌注，常提示肢体动、静脉病变及缺血的程度加重。"
+  },
+  {
+   "cn": "产后宫缩痛",
+   "en": "after pain",
+   "source": "急救医学名词",
+   "wordNumber": "03.734",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_产褥期与急症",
+   "subjectName": "产褥期与急症",
+   "publishYear": "2025",
+   "definition": "产后子宫收缩引起的阵发性腹痛。经产妇较初产妇明显，哺乳者较不哺乳者明显。一般不需要特殊用药，必要时可酌情给予镇痛剂。"
+  },
+  {
+   "cn": "钻顶样痛",
+   "en": "drilling pain",
+   "source": "肝病学名词",
+   "wordNumber": "3.4.2.6.1",
+   "subjectFullName": "肝病学_感染性肝病_寄生虫感染性肝病",
+   "subjectName": "寄生虫感染性肝病",
+   "publishYear": "2024",
+   "definition": "胆道蛔虫病的特征性表现。患者中上腹钻顶样剧烈疼痛，并且右肩及右背部亦同时发生疼痛，疼痛通常难以忍受。"
+  },
+  {
+   "cn": "分娩痛",
+   "en": "labor pain",
+   "source": "麻醉学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "麻醉学_专科麻醉_产科麻醉",
+   "subjectName": "产科麻醉",
+   "publishYear": "2024",
+   "definition": "产妇临产后，由于宫缩和宫颈扩张造成的疼痛。表现为宫缩时的腹部阵发性疼痛，尤以耻骨上区疼痛显著，伴有腰痛和骶尾部疼痛。"
+  },
+  {
+   "cn": "快痛",
+   "en": "fast pain",
+   "source": "麻醉学名词",
+   "wordNumber": "07.003",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛分类",
+   "subjectName": "疼痛分类",
+   "publishYear": "2024",
+   "definition": "皮肤表层因受到针刺、电脉冲等刺激短促作用而引起的痛觉。"
+  },
+  {
+   "cn": "慢痛",
+   "en": "slow pain",
+   "source": "麻醉学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛分类",
+   "subjectName": "疼痛分类",
+   "publishYear": "2024",
+   "definition": "皮肤深层或肌肉、筋膜和内脏等部位受到足够强度刺激而产生的痛觉。"
+  },
+  {
+   "cn": "痛觉感受器",
+   "en": "pain receptor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "慢性疼痛",
+   "en": "chronic pain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛管理",
+   "en": "pain management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛障碍",
+   "en": "pain disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "慢痛,钝痛",
+   "en": "slow pain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "佩因",
+   "en": "Paine\",\"John Knowles(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生存世界",
+   "en": "erlebnis\",\"experience",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "顿悟经验",
+   "en": "“Aha” experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "用户体验",
+   "en": "user experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顶峰体验,巅峰体验",
+   "en": "peak experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间经验",
+   "en": "spatial experience",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交叉试验",
+   "en": "crossover experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值实验",
+   "en": "numerical experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工程实验",
+   "en": "engineering experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型试验",
+   "en": "prototype experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "现场实验",
+   "en": "field experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然实验",
+   "en": "natural experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类比实验,模拟实验",
+   "en": "analogue experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扭抓",
+   "en": "painful hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "痛客",
+   "en": "pain-point seeker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲知",
+   "en": "Knowledge from Personal Experience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子互联网实验",
+   "en": "new quantum Internet experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的身体局部或整体的感觉。"
+  },
+  {
+   "cn": "胸痛",
+   "en": "chest pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "颈部与胸廓下缘之间的疼痛。主要由胸部疾病引起，少数由其他部位的病变所致。"
+  },
+  {
+   "cn": "腹痛",
+   "en": "abdominal pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.13",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "腹部的疼痛,可由各种原因的腹腔内外脏器病变引起，也可为非器质性原因"
+  },
+  {
+   "cn": "疼痛控制",
+   "en": "pain control",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.042000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "使用止痛药物或联合非药物疗法等综合措施，减轻患者疼痛体验，提高其生存质量的医疗行为。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "足跟痛",
+   "en": "heel pain，HP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "跟骨结节周围的急性或慢性疼痛。临床表现为足跟一侧或两侧疼痛，负重后加重，严重者可出现行走困难，可由骨折、肌腱炎、关节炎、骨肿瘤、应激等多种因素引起。"
+  },
+  {
+   "cn": "肾区叩击痛",
+   "en": "renal percussive pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.18",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "患者取站立位、坐位或侧卧位，检查者用左手掌平放于患者的肾区（肋脊角），右手握拳用由轻到中等强度的力量叩击左手背，当肾脏有病变时，肾区可有不同程度的叩击痛的体征。"
+  },
+  {
+   "cn": "肌筋膜疼痛综合征",
+   "en": "myofascial pain syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.16",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "反复发作的肌肉和筋膜的慢性无菌性炎症反应综合征，肌纤维触发点存在于两块或两块以上肌肉或肌群，以肌筋膜组织局部疼痛、固定压痛和肌肉紧张而僵硬等症状为特征。以枕、颈、肩、下背以及股部受累较为多见。"
+  },
+  {
+   "cn": "分娩镇痛",
+   "en": "labor pain management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.30",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产程中为缓解产妇因子宫收缩导致的疼痛不适而采取的系列支持措施，包括非药物镇痛和药物性镇痛两大类。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体为提高自身的道德水平，在道德实践中根据一定的理论、原则和规范，自觉地进行自我培养的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "下背痛",
+   "en": "low back pain， LBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "腰背部组织的局部炎症、创伤或附近器官疾病引起的腰部疼痛感。"
+  },
+  {
+   "cn": "炎性腰背痛",
+   "en": "inflammatory back pain，IBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "由于骶髂关节/腰椎炎症引起的一种特殊类型的腰背痛。临床表现为反复腰背疼痛和晨僵。多采用2009年ASAS标准诊断：40岁前起病、起病隐匿、夜间痛、活动后症状改善、休息后症状无改善，5条标准中至少符合4"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

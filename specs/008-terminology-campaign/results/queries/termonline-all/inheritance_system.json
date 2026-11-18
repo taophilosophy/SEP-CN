@@ -1,0 +1,782 @@
+{
+ "key": "inheritance system",
+ "term": "inheritance system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:16:19+00:00",
+ "status": "ok",
+ "note": "variant=inheritance system; 审定公布名词库=8006; 海峡两岸名词对照库=2367; 其他来源数据库=519; 预公布名词数据库=370; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "植物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代在同一性状上的相似性。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "超类与子类之间的一个关系。表明子类自动地拥有其超类的全部属性和操作。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类的对象拥有其一般类的全部属性和服务。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物世代之间的连续性和相似性。"
+  },
+  {
+   "cn": "新构造运动继承性",
+   "en": "neotectonics inheritance",
+   "source": "地质学名词",
+   "wordNumber": "09.07.005",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "新构造运动在类型、方向性、空间分布和周期韵律性方面与老构造运动(先前构造运动)的某些联系。许多新构造运动一方面受老构造的控制，在其形成的新构造中，带有老构造的某些特点；另一方面，在一定程度上改造了老构"
+  },
+  {
+   "cn": "继承性新断裂",
+   "en": "inheritance fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.070",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "迁就、利用和改造了已有的老断裂，在老断裂的基础上于新构造运动期形成的断裂。"
+  },
+  {
+   "cn": "质量遗传",
+   "en": "qualitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由单基因或少数几个基因控制的性状遗传模式。"
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，表现为连续分布性状的遗传模式。"
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在F₂或以后的世代中，由于基因重组而在某种性状上出现超越亲本个体的遗传模式。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "性状由亲代向子代传递的现象或过程。遗传方式主要包括单基因遗传、多基因遗传等。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由多个基因的微效作用及累加效应导致遗传性状改变或疾病的遗传方式。该遗传方式还受环境因素的影响。"
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由线粒体DNA决定遗传性状或遗传病的遗传方式。具有母系遗传、半自主复制、遗传瓶颈、阈值效应和线粒体DNA突变率高等特点。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "两个具有相对性状的亲本杂交，不论正交或反交，子代总是表现为母系性状的遗传方式。是细胞质遗传的主要特征。如线粒体DNA通过卵细胞将其中的遗传信息传给下一代，使得子代中线粒体DNA序列和母亲一致。"
+  },
+  {
+   "cn": "父系遗传",
+   "en": "paternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "父系性状传给子代的一种遗传方式。如父系Y染色体可以通过男性后代而代代相传，线粒体DNA也可由父系遗传。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "共显性遗传",
+   "en": "codominance inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.122",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "一对等位基因之间，没有显性和隐性的区别，在杂合子个体中两种基因的作用都能表现出来的一种遗传方式。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.173",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "人类受精卵中的线粒体绝大部分来自母亲的卵母细胞，即母亲将线粒体DNA（mtDNA）传递给儿子和女儿，但只有女儿能将其mtDNA传递给下一代的遗传方式。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.198",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "由多个微效基因的累加效应控制遗传性状或疾病的遗传方式。"
+  },
+  {
+   "cn": "细胞质遗传",
+   "en": "cytoplasmic inheritance ",
+   "source": "草学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "multigenic inheritance\",\"polygenic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核外遗传（=[细]胞质遗传）",
+   "en": "extranuclear inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "母体遗传（=[细]胞质遗传）",
+   "en": "maternal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体外遗传（=[细]胞质遗传）",
+   "en": "extrachromosomal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞质遗传",
+   "en": "cytoplasmic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质体遗传",
+   "en": "plastid inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假染色体遗传",
+   "en": "pseudoautosomal inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "延迟遗传",
+   "en": "delayed inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因",
+   "en": "Inherit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-1-1阵型",
+   "en": "4-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-1-2阵型",
+   "en": "3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-2-1阵型",
+   "en": "3-2-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-1-1阵型",
+   "en": "5-3-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-4-3-2阵型",
+   "en": "1-4-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-1-2阵型",
+   "en": "4-3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-3-3-3阵型",
+   "en": "1-3-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "2-3-5阵型",
+   "en": "2-3-5 system\",\"pyramidal system\",\"pyramide",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "女子继承制",
+   "en": "female inheritance system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0407",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期通行的继承制度。母系氏族早期和中期，实行外婚制群婚，子女只知其母不知其父，致使世系只能按母系计算。于是，财产、职业、职位等均按照母系继承。母系氏族晚期，实行对偶婚，但居住方式是从妻居，遂仍"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "民俗传承",
+   "en": "inheritance of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民众在日常生活中把他们累积的日常生活的知识和经验、意愿和文化心理传递给后人的过程，它在历时性的向度上使得民俗文化保持稳定并不断延伸的运动过程；传承是一种文化行为，广大民众传承民俗文化而不使文化传统发生"
+  },
+  {
+   "cn": "民俗传承论",
+   "en": "inheritance theory of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0464",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "探索充满俗民生活中的传承习俗及其观念，并通过这种研究阐释民俗的历史意义及现代意义。主要包括两个方面：一个是以传承资料为基础，研究俗民从古至今传递下来的人类生活方式、思想观念，以总结并追寻俗民的日常心态"
+  },
+  {
+   "cn": "社会继替",
+   "en": "social inherit and supersede",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "与人类代际更迭相关的，各种社会位置、身份、角色既有替换（出缺与填补）又有继承（承传）的方式或过程。"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0295",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立前景颇族实行的一种政治制度。山官是当地汉族的称呼，景颇语是贡萨统、杜、杜瓦之意。山官作为统治者在当地的一定辖区内有独立的行使权，他们以山岭、河流等自然标志为界限，山官有大中小三类，大"
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "对整个系统或市场造成广泛影响和损失的风险。在食品安全领域着重于由结构缺陷、管理漏洞或外部冲击引起的广泛性、连锁性危害，可能导致重大公共卫生事件、经济冲击和社会信任危机。这类风险具有跨区域、跨环节、跨主"
+  },
+  {
+   "cn": "剂量测定系统",
+   "en": "dosimetry system",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "在辐射研究工作中，用来测定剂量准确性的系统，从而得到正确的辐射化学产额。"
+  },
+  {
+   "cn": "安全系统",
+   "en": "safety system",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.6",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "在核设施预计运行事件及事故工况情况下，发挥安全功能，保证反应堆安全停堆、从堆芯排出余热和限制放射性后果的系统。包括保护系统、安全执行系统和安全系统辅助设施。"
+  },
+  {
+   "cn": "标准体系",
+   "en": "standard system",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "一定范围内的标准按其内在联系形成的科学的有机整体。"
+  },
+  {
+   "cn": "社会系统",
+   "en": "social system",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会相互联系的同类事物或（要素）按一定关系和规则有序组成的整合性的有机整体。"
+  },
+  {
+   "cn": "文化系统",
+   "en": "cultural system",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "由物质文化、制度文化和精神文化三个子系统有机结合而成的更大的系统，即各种文化活动的统一体。"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "广义指个人或企业在自愿互利的基础上进行各种生产要素的联合的一种成员共有的集体所有制产权或组织管理形式。狭义指按合作社基本原则建立的经济组织制度，其典型形态是现代合作社，它既是集体所有、实行民主管理的经"
+  },
+  {
+   "cn": "委员会制",
+   "en": "committee system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "具有民主参与管理和治理特质的组织规范和模式。其中，政治性的委员会制，主张权力在委员会内受到制约而至平衡，进行集体议事，决议依据投票结果而做出，并且实行集体负责，以便防止出现个人专权等现象；经济性的委员"
+  },
+  {
+   "cn": "分层体系",
+   "en": "stratification system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "一套系统的社会分层制度。如，资本主义社会的阶级分层体系；前资本主义社会的喀斯德分层体系(caste system）、伊斯得特分层体系(estate system）、奴隶制分层体系等。"
+  },
+  {
+   "cn": "身份制",
+   "en": "status system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "针对中国1960和1970年代社会分层特殊性提出的概念。李强等人认为，当时的中国社会分层表现出一种以国家行政制度（户籍制度、单位制和行政档案分类）为基础的制度，依据个人在这些制度中的地位状况区分出社会"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

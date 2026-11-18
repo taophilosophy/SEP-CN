@@ -2,10 +2,531 @@
  "key": "hoogerbeets, rombout",
  "term": "Hoogerbeets, Rombout",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:10:22+00:00",
- "status": "error",
- "note": "variant=Hoogerbeets, Rombout; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Hoogerbeets, Rombout: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:33+00:00",
+ "status": "ok",
+ "note": "variant=Hoogerbeets, Rombout; 审定公布名词库=146; 海峡两岸名词对照库=11; 其他来源数据库=43; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "自动执行工作的机器装置，包括一切模拟人类行为或思想与模拟其他生物的机械。可按给定程序工作，或根据环境因素自主决策行动。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "靠自身动力和控制能力实现各种功能的可编程的和多功能的操作机，是具有拟人功能的机械电子装置。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.416",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_妇科肿瘤内镜检查_腹腔镜",
+   "subjectName": "腹腔镜",
+   "publishYear": "2022",
+   "definition": "自动执行工作的机器装置。既可以接受人类指挥，又可以运行预先编排的程序，也可以根据人工智能技术制定的原则纲领行动。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0405",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "具有两个或两个以上可编程的轴，以及一定程度的自主能力，可在其环境内运动以执行预期任务的机构。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0979",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "自动执行工作的机器装置。既可以接受人类指挥，又可以运行预先编排的程序，也可以根据以人工智能技术制定的原则纲领行动。机器人的主要任务是协助或取代人类的工作，例如生产业、建筑业，或是危险的工作。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.003",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "电子学名词",
+   "wordNumber": "23.023",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "自动化名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "履带式机器人",
+   "en": "crawler robot,tracked robot",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0440",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "利用履带实现移动的机器人。"
+  },
+  {
+   "cn": "直角坐标型机器人",
+   "en": "rectangular robot,Cartesian robot",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0982",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "运动自由度间成空间直角坐标关系的机器人。其工作空间为长方体。"
+  },
+  {
+   "cn": "移动式机器人",
+   "en": "mobile robot,locomotive robot",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.006",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标型机器人",
+   "en": "rectangular robot,Cartesian robot",
+   "source": "自动化名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "关节型机器人",
+   "en": "revolute robot,articulated robot",
+   "source": "自动化名词",
+   "wordNumber": "05.171",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "医用机器人",
+   "en": "medical robot",
+   "source": "整形外科名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "整形外科_整形外科数字化技术_医用机器人",
+   "subjectName": "医用机器人",
+   "publishYear": "2026",
+   "definition": "可以自动执行程序和辅助相关医疗操作的机器人。可分为临床医疗用机器人、护理机器人、教学机器人和为残疾人服务机器人等。"
+  },
+  {
+   "cn": "喷涂机器人",
+   "en": "spray robot",
+   "source": "精细化工名词",
+   "wordNumber": "05.0269",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "工件或喷枪可进行多轴向移动和旋转，可喷涂外形复杂的工件的可编程喷涂装置。"
+  },
+  {
+   "cn": "农业机器人",
+   "en": "agricultural robot",
+   "source": "农学名词",
+   "wordNumber": "14.391",
+   "subjectFullName": "农业工程_智慧农业工程",
+   "subjectName": "智慧农业工程",
+   "publishYear": "2025",
+   "definition": "与农业生产相关的拥有像手臂一样多自由度且具有高度感知与判断等功能的自动机械，以及虽然外形仍为传统农业机械但可自主移动和作业的机械统称。可以应用到农业生产的田间管理、栽培管理、收获及加工等各个环节。"
+  },
+  {
+   "cn": "采摘机器人",
+   "en": "picking robot",
+   "source": "农学名词",
+   "wordNumber": "14.392",
+   "subjectFullName": "农业工程_智慧农业工程",
+   "subjectName": "智慧农业工程",
+   "publishYear": "2025",
+   "definition": "基于机器视觉等多传感器信息融合技术获取水果或蔬菜的位置、大小、颜色及成熟度等信息，采用智能分析与智能控制技术引导机械手臂完成识别、定位、抓取、切割和回收任务的高度协同自动化机器人。"
+  },
+  {
+   "cn": "移栽机器人",
+   "en": "transplanting robot",
+   "source": "农学名词",
+   "wordNumber": "14.393",
+   "subjectFullName": "农业工程_智慧农业工程",
+   "subjectName": "智慧农业工程",
+   "publishYear": "2025",
+   "definition": "采用机械手（取苗手）将穴盘苗从育苗盘取出，进行移栽种植的高度灵活性机器人。"
+  },
+  {
+   "cn": "焊接机器人",
+   "en": "welding robot",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.334",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备",
+   "subjectName": "工艺装备与设备",
+   "publishYear": "2021",
+   "definition": "具有三个或三个以上可自由编程的轴，并能将焊接工具按要求送到预定空间位置，按要求轨迹及速度移动焊接工具的机器。包括弧焊机器人、激光焊接机器人、点焊机器人等。"
+  },
+  {
+   "cn": "切割机器人",
+   "en": "cutting robot",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.342",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备",
+   "subjectName": "工艺装备与设备",
+   "publishYear": "2021",
+   "definition": "用于热切割操作的工业机器人。可进行火焰切割、激光切割、等离子弧切割等操作。"
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标机器人",
+   "en": "rectangular robot\",\"Cartesian robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水下机器人",
+   "en": "underwater robot",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "机器人工程",
+   "en": "robot engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动机器人",
+   "en": "mobile robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "intelligent robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重现机器人",
+   "en": "playback robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柱面坐标[型]机器人",
+   "en": "cylindrical robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水下机器人",
+   "en": "underwater robot",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操纵性工业机器人",
+   "en": "manipulating industrial robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇",
+   "en": "rowboat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇",
+   "en": "boat\",\"skiff\",\"rowboat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "Intelligent Robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人传感器",
+   "en": "robot sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人效应器",
+   "en": "robot effector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人处理器",
+   "en": "robot processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人运动学",
+   "en": "robot kinematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人控制",
+   "en": "robot control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类人型机器人",
+   "en": "humanoid robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作机器人",
+   "en": "collaborative robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人技术",
+   "en": "robot technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人税",
+   "en": "robot tax",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业机器人",
+   "en": "agricultural robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教学机器人",
+   "en": "robot teacher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人术语",
+   "en": "Robot Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人致动器",
+   "en": "robot actuator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能消毒机器人",
+   "en": "intelligence disinfection robot",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在特定的程序操控下，可代替人力实现消毒操作并达到消毒效果的设备。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,612 @@
+{
+ "key": "explanatory priority",
+ "term": "explanatory priority",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:11:44+00:00",
+ "status": "ok",
+ "note": "variant=explanatory priority; 审定公布名词库=152; 海峡两岸名词对照库=85; 其他来源数据库=5; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "说明能力",
+   "en": "explanatory power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "理论或假说可以有效说明所涉及主题的多少。"
+  },
+  {
+   "cn": "说明的还原论",
+   "en": "explanatory reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "认为某层次或形式的说明可由另一层次或形式的说明推导得出。"
+  },
+  {
+   "cn": "解释鸿沟",
+   "en": "explanatory gap",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "J. 莱文（J. Levine）对物理知识无法说明主观意识体验的感受特性的一种反物理主义的知识论描述。无论我们掌握多少物理世界的知识，在概念上我们仍然无法解释某种复杂的大脑状态或计算过程，以及会让人感"
+  },
+  {
+   "cn": "题解",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "说明书籍或文章的作者、内容、版本等情况的辅文。"
+  },
+  {
+   "cn": "释义注",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.068",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对正文中的语句、用词进行说明的注释。"
+  },
+  {
+   "cn": "解释变量",
+   "en": "explanatory variable",
+   "source": "经济学名词",
+   "wordNumber": "10.049",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "着重研究的自变量，是研究者重点考查对因变量有何影响的变量。"
+  },
+  {
+   "cn": "解释性妄想",
+   "en": "explanatory delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者的歪曲感受显得合理的妄想。如受检者感到很多陌生人都对自己跟踪盯梢，解释为这是一个组织串通了迫害他的证据。"
+  },
+  {
+   "cn": "一般参照",
+   "en": "explanatory reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.640",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "一种概括性地指明标目的选取原则的方法。它向读者提供关于某个事项的一项普通说明或一条分类编目通例，使读者遵照它去查阅目录。凡是图书分类、著录规则或目录组织规则，需进一步说明时，都可编制一般参照卡片。采用"
+  },
+  {
+   "cn": "解释方式",
+   "en": "explanatory style",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对事件做出某种归因的相对稳定的倾向，特别是与抑郁有关的倾向。"
+  },
+  {
+   "cn": "解释性对等词",
+   "en": "explanatory equivalent",
+   "source": "语言学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“翻译对等词”相对。在处理目标语中缺失的文化特色词时，双语词典为解释词头所提供的释义性短语。"
+  },
+  {
+   "cn": "解释充分性",
+   "en": "explanatory adequacy",
+   "source": "语言学名词",
+   "wordNumber": "01.130",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "见“观察充分性”。"
+  },
+  {
+   "cn": "解释性词典",
+   "en": "explanatory dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。对所收录词汇的意义、语法和语用等信息给予详细解释。一般指普通单语词典，也指那种帮助用户理解外语文本的双语词典。"
+  },
+  {
+   "cn": "解释性释义",
+   "en": "explanatory definition",
+   "source": "语言学名词",
+   "wordNumber": "06.306",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。构造一个与释义对象意义和语法功能相同的子句或短语来解释其意义。"
+  },
+  {
+   "cn": "说明款目",
+   "en": "general explanatory entry",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.473",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "用于解释标目的选择方法、组织原则、目录使用方法、指导读者查找和选择有关标目的说明性款目。 "
+  },
+  {
+   "cn": "说明记录",
+   "en": "general explanatory record",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.662",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "引导读者查找一般类目或特定类目的说明性记录。通常采用格式化或范例性形式，用于解释检索点的选择方法、组织原则和使用方法，指导读者查找和选择有关检索点。 "
+  },
+  {
+   "cn": "详解组配词典",
+   "en": "explanatory and combinatorial dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。基于意义—篇章理论，用一系列的科学释义原则，把被释义词意义分解成更小、更简单、更接近意义初始元的意义单位，以语义单元、例证单元和结构短语单元的形式详述语词的各种语义功能，并从句法组配和"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家取得同行关于其首次做出某项科学发现的承认。是科学家从发现中能得到的唯一所有权。科学家只有得到承认才能确立其在科学共同体中的地位，从而获得科学研究所需的重要资源。"
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0387",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在资源分配和调度算法中，表示一个对象被优先选择的顺序。与优先数的大小一致或相反。"
+  },
+  {
+   "cn": "优先律",
+   "en": "priority",
+   "source": "微生物学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "命名法规中以发表时间的先后来确定分类单元名称正确使用的规定。"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "数学名词",
+   "wordNumber": "011.0500",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释性地理学",
+   "en": "explanatory geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图外说明",
+   "en": "explanatory note",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "优先律，优先权",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权（=优先律）",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "进口优先权",
+   "en": "import priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉优先级",
+   "en": "snapping priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图优先级",
+   "en": "drawing priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "作业优先级",
+   "en": "job priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序优先级",
+   "en": "program priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "当前优先级",
+   "en": "current priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态优先级",
+   "en": "dynamic priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对换优先级",
+   "en": "swapping priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分派优先级",
+   "en": "dispatching priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高优先级",
+   "en": "high priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "战略优先领域",
+   "en": "strategic priorities",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "根据战略目标、环境、资源能力和竞争态势，确定需优先投入资源、重点关注的战略方向。对食品安全未来发展进行系统研究基础上，充分权衡食品安全发展趋势、国家发展目标以及社会经济和科技资源限制等因素后确立的未来"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "优先发展重工业",
+   "en": "give priority to the development of heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "03.0312",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "联共（布）中央为实现苏联社会主义工业化而提出的发展国民经济的重要指导方针。1925年联共（布）第十四次代表大会提出：“优先发展重工业是实现社会主义工业化的实质和关键。”"
+  },
+  {
+   "cn": "流动和留守儿童优先策略",
+   "en": "priority strategy for migrant and left-behind children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_流动儿童和留守儿童健康促进",
+   "subjectName": "流动儿童和留守儿童健康促进",
+   "publishYear": "2025",
+   "definition": "通过确定流动和留守儿童公共卫生问题和需优先解决的问题，设计并实行干预的策略。"
+  },
+  {
+   "cn": "效率优先兼顾公平",
+   "en": "giving priority to efficiency with due consideration to fairness",
+   "source": "马克思主义",
+   "wordNumber": "02.0406",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1993年11月中国共产党第十四届中央委员会第三次全体会议通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》中所确立的社会主义初级阶段的收入分配原则。坚持效率优先就要以承认一定差别为前提提高"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "以农轻重为序安排国民经济",
+   "en": "arranging national economy in the priority order of agriculture light industry and heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0373",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的原则和方法。制订国民经济和社会发展计划，必须首先安排好农业的发展速度和生产规模，安排好农业内部的生产，安排好各业的结构和比例关系；其次安排好轻工业的发展速度和生产规模及其"
+  },
+  {
+   "cn": "党执政兴国的第一要务",
+   "en": "It is essential for the Party to give top priority to development in governing and rejuvenating the country",
+   "source": "马克思主义",
+   "wordNumber": "03.0627",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "所谓“第一要务”，是相对于其他各种要务而言的。把发展作为党执政兴国的第一要务，是由我们党的宗旨和根本任务所规定的，说明在党面临的各种繁重任务中，发展始终是第一位的任务、根本的任务、中心的任务。"
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  },
+  {
+   "cn": "探索性因子分析",
+   "en": "exploratory factor analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.127",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "探索观测变量之间共同性的统计程序。有时亦包含个案分组。"
+  },
+  {
+   "cn": "探索性序列设计",
+   "en": "exploratory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先用定性研究探索研究问题，在此基础上进行第二阶段的定量研究，对定量研究的结果进行分析，最终形成有效的定量研究工具或干预设计，用于正式定量研究的定性、定量混合研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

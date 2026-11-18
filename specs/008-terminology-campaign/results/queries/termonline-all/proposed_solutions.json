@@ -1,0 +1,632 @@
+{
+ "key": "proposed solutions",
+ "term": "proposed solutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:17:16+00:00",
+ "status": "ok",
+ "note": "variant=proposed solutions; 审定公布名词库=634; 海峡两岸名词对照库=212; 其他来源数据库=14; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "议案",
+   "en": "proposal",
+   "source": "档案学名词",
+   "wordNumber": "02.01.058",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "会议文件的一种。适用于各级人民政府按照法律程序向同级人民代表大会或者人民代表大会常务委员会提请审议事项。"
+  },
+  {
+   "cn": "建议书",
+   "en": "proposal",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0543",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "在咨询协议书中指咨询人员或公司进行服务的报价。在设计–施工合同中指投标人提供工程的建议文件。"
+  },
+  {
+   "cn": "意向图",
+   "en": "image,proposal",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.221",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "概念性表达对现状认知或未来情景的一种图纸。"
+  },
+  {
+   "cn": "项目建议书",
+   "en": "project proposal",
+   "source": "风景园林名词",
+   "wordNumber": "03.0154",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "项目建设筹建单位或项目法人，根据国民经济的发展、国家和地方中长期规划、产业政策、生产力布局、国内外市场、所在地的内外部条件，提出的某一具体项目的建议文件，是对拟建项目提出的框架性的总体设想。"
+  },
+  {
+   "cn": "项目建议书",
+   "en": "project proposal",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（五）_通类",
+   "subjectName": "通类",
+   "publishYear": "2021",
+   "definition": "项目承建单位或项目法人就某一具体新建、改建、扩建项目提出的项目建议文件，是对拟建项目提出的框架性的总体设想。"
+  },
+  {
+   "cn": "项目申请报告",
+   "en": "project proposal",
+   "source": "电力名词",
+   "wordNumber": "03.043",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "供国家或地方建设主管部门核准的拟兴建项目的文件。包括规划布局、环境保护、资源利用、对国家技术发展、投资等综合因素进行评价,并依法办理环境保护、土地使用、资源利用、安全生产、城市规划等许可手续。"
+  },
+  {
+   "cn": "方案征集",
+   "en": "proposal solicitation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0245",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "企业购买过程的一个阶段，在该阶段购买者邀请符合资质的供应商提交方案。"
+  },
+  {
+   "cn": "项目建议书",
+   "en": "project proposal",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0061",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "项目建设筹建单位或项目法人提出的对拟建项目框架性的总体设想。"
+  },
+  {
+   "cn": "项目建议书",
+   "en": "project proposal",
+   "source": "建筑学名词",
+   "wordNumber": "06.0071",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计前期阶段",
+   "subjectName": "设计前期阶段",
+   "publishYear": "2014",
+   "definition": "建设项目立项的重要依据，重点论证项目建设的必要性，提出初步建设方案的文书。"
+  },
+  {
+   "cn": "选题",
+   "en": "new title proposal",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.01.007",
+   "subjectFullName": "编辑与出版学_编辑_选题",
+   "subjectName": "选题",
+   "publishYear": "2022",
+   "definition": "拟选择的出版方案，包括题名、内容、读者对象、编辑意图、效益预测等内容。"
+  },
+  {
+   "cn": "应急预案",
+   "en": "emergency response proposal",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.677",
+   "subjectFullName": "化工（五）_工程建设_施工准备",
+   "subjectName": "施工准备",
+   "publishYear": "2021",
+   "definition": "针对项目可能遇到的突发事件，如自然灾害、重特大事故、环境公害等制定的应急管理、指挥、救援计划等。"
+  },
+  {
+   "cn": "应急预案",
+   "en": "emergency response proposal",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.098",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "针对项目可能遇到的突发事件，如自然灾害、重特大事故、环境公害等制定的应急管理、指挥、救援计划等。"
+  },
+  {
+   "cn": "需求建议书",
+   "en": "request for proposal",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0067",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "客户向承约商发出的，用来说明如何满足其已识别的需求的建议书。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "地质学名词",
+   "wordNumber": "05.01.051",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由至少两种物质组成的均一、稳定的混合物。被分散的物质(溶质)以分子或更小的质点分散于另一物质(溶剂)中。根据溶液状态，可分为气体溶液、固体溶液和液体溶液，一般的溶液都专指液体溶液。"
+  },
+  {
+   "cn": "解决方案",
+   "en": "solution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.246",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "针对某些已经体现出的或者预期出现的问题、需求等，所提出的一个解决整体问题的方案，同时能够确保加以有效地执行。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "冶金学名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "两种或两种以上的物质均匀混合，彼此以分子(或原子)大小的数量级均匀分布而构成的连续相物质。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "化学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "由两种或两种以上物质组成的均匀、稳定的分散体系。溶液由溶质和溶剂组成。固体状态的溶液，如某些合金。液态溶液如盐水、糖水。气态溶液如纯净空气。通常所指的溶液是液态溶液。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "药学名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "一种或几种物质分散到另一种物质里，形成的均一的、稳定的混合物。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.036",
+   "subjectFullName": "中医药学_皮肤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "将单味药或复方加水煎熬或溶解到一定浓度，过滤所得的液体制剂。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0061",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷剂和载冷剂",
+   "subjectName": "制冷剂和载冷剂",
+   "publishYear": "2013",
+   "definition": "由溶质和溶剂组成的均匀液体。未指明溶剂时一般指水溶液。"
+  },
+  {
+   "cn": "招标",
+   "en": "request for proposal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "溶解",
+   "en": "solution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方案",
+   "en": "solution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等渗溶液",
+   "en": "isotonic solution\",\"isoosmotic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution\",\"perfect solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔溶液",
+   "en": "molal solution\",\"molar solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "低渗溶液",
+   "en": "hypotonic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高渗溶液",
+   "en": "hypertonic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克诺普溶液",
+   "en": "Knop solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "培养液",
+   "en": "culture solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡溶液",
+   "en": "balanced solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无菌溶液",
+   "en": "sterile solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "营养液",
+   "en": "nutrient solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "议对",
+   "en": "Commentary and Proposal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解空间",
+   "en": "solution space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据场景方案",
+   "en": "data scenario solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒液",
+   "en": "disinfectant; antiseptic solution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准新工作项目提案",
+   "en": "new work item proposal for international standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新技术工作领域提案",
+   "en": "proposal for new field of technical activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链反腐",
+   "en": "blockchain-based integrity solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下一代网络安全解决方案（中国）",
+   "en": "Next-generation Cybersecurity Solution (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电商全链路解决方案",
+   "en": "e-commerce full-link solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四议两公开",
+   "en": "four proposed two open",
+   "source": "马克思主义",
+   "wordNumber": "03.0771",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即“4+2”工作法，该工作法由河南省邓州市率先提出。这种工作法主张，农村所有村级重大事项都必须在村党组织领导下，按照“四议”、“两公开”的程序决策实施。“四议”包括党支部会提议、“两委”会商议、党员大"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "储存溶液",
+   "en": "storage solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "比使用浓度高，使用前需要稀释的浓标准溶液。"
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能使生物体着色的化学物质。"
+  },
+  {
+   "cn": "脱色液",
+   "en": "destaining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能够除去染色后的细菌菌体上的染色剂，从而对细菌进行鉴别的试剂。"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "煤酚皂溶液",
+   "en": "saponated cresol solution",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由邻位甲酚、间位甲酚、对位甲酚三种甲酚异构体与皂液组成。为棕黄色或红色粘稠液体，有酚臭味，甲酚含量约50%（v/v)，溶于水和乙醇，呈碱性，性能稳定。"
+  },
+  {
+   "cn": "磷酸盐缓冲液",
+   "en": "phosphate buffer solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由无水磷酸氢二钠和磷酸二氢钾配制成的pH值为7.2，浓度为0.03mol/L的中性缓冲液。"
+  },
+  {
+   "cn": "胰蛋白胨生理盐水溶液",
+   "en": "tryptone saline solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "胰蛋白胨和氯化钠溶于蒸馏水制成的pH值为7.0±0.2的试验试剂。常用做试验菌的稀释用液。"
+  },
+  {
+   "cn": "放射性标准溶液",
+   "en": "radioactive standard solution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.32",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "已准确标定过放射性浓度的溶液。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

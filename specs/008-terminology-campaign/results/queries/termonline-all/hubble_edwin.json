@@ -2,10 +2,581 @@
  "key": "hubble, edwin",
  "term": "Hubble, Edwin",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:22:24+00:00",
- "status": "error",
- "note": "variant=Hubble, Edwin; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Hubble, Edwin: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:44+00:00",
+ "status": "ok",
+ "note": "variant=Hubble, Edwin; 审定公布名词库=301; 海峡两岸名词对照库=152; 其他来源数据库=16; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "哈勃定律",
+   "en": "Hubble law; Hubble’s law; Hubble relation",
+   "source": "天文学名词",
+   "wordNumber": "07.281",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "星系远离观测者的速度与它们到观测者的距离成正比的规律，是宇宙膨胀的特征。"
+  },
+  {
+   "cn": "哈勃星系图册",
+   "en": "Hubble Atlas",
+   "source": "天文学名词",
+   "wordNumber": "07.025",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由阿兰·桑迪奇(Alan Sandage)整理的哈勃星系分类图册，展示了哈勃分类各类的典型星系图像。"
+  },
+  {
+   "cn": "哈勃分类",
+   "en": "Hubble classification",
+   "source": "天文学名词",
+   "wordNumber": "07.048",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "哈勃对星系依照形态加以分类的方法。"
+  },
+  {
+   "cn": "哈勃序列",
+   "en": "Hubble sequence",
+   "source": "天文学名词",
+   "wordNumber": "07.049",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "美国天文学家哈勃于20世纪20年代中期提出的星系形态分类序列。哈勃原来的星系形态分类图上该序列的左端是椭圆星系(E)，中间经透镜状星系(S0)过渡到右端的旋涡星系(S)和棒旋星系(SB)。今常将不规则"
+  },
+  {
+   "cn": "哈勃距离",
+   "en": "Hubble distance",
+   "source": "天文学名词",
+   "wordNumber": "07.265",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "光在哈勃时间内行经的距离，即c/H0。"
+  },
+  {
+   "cn": "哈勃图",
+   "en": "Hubble diagram",
+   "source": "天文学名词",
+   "wordNumber": "07.279",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "通常以河外天体的距离或视星等为横坐标，退行速度或红移为纵坐标，反映哈勃关系的图。"
+  },
+  {
+   "cn": "哈勃流",
+   "en": "Hubble flow",
+   "source": "天文学名词",
+   "wordNumber": "07.280",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "天体由于宇宙膨胀而具有的运动，与其固有运动相区别。"
+  },
+  {
+   "cn": "哈勃常数",
+   "en": "Hubble constant",
+   "source": "天文学名词",
+   "wordNumber": "07.282",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "哈勃关系中的比例常数，常用H0表示。"
+  },
+  {
+   "cn": "哈勃参数",
+   "en": "Hubble parameter",
+   "source": "天文学名词",
+   "wordNumber": "07.283",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "表征宇宙膨胀速度的量。在红移0时即为哈勃常数，对于非零红移，一般称为哈勃参数。"
+  },
+  {
+   "cn": "哈勃时间",
+   "en": "Hubble time",
+   "source": "天文学名词",
+   "wordNumber": "07.288",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种宇宙学时标，是哈勃常数的倒数。"
+  },
+  {
+   "cn": "哈勃年龄",
+   "en": "Hubble age",
+   "source": "天文学名词",
+   "wordNumber": "07.289",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由哈勃时间给出的宇宙年龄估计。"
+  },
+  {
+   "cn": "哈勃常数",
+   "en": "Hubble constant",
+   "source": "物理学名词",
+   "wordNumber": "06.0343",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃时间",
+   "en": "Hubble time",
+   "source": "物理学名词",
+   "wordNumber": "11.0041",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃星云",
+   "en": "Hubble Nebula; Hubble’s Nebula",
+   "source": "天文学名词",
+   "wordNumber": "08.551",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "一个扇形的反射星云，被左下方明亮的麒麟R星照亮，距离地球约2 500光年。因美国天文学家哈勃首先注意到它的光变而得名。"
+  },
+  {
+   "cn": "哈勃深场",
+   "en": "Hubble Deep Field",
+   "source": "天文学名词",
+   "wordNumber": "07.043",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "哈勃北深场和哈勃南深场的总称。哈勃北深场，是大熊星座里2.5角秒见方的一小块区域，哈勃望远镜1995年对该区进行了多次曝光观测。此外，还有哈勃南深场，是杜鹃座一小块区域，哈勃望远镜1998年进行了多次"
+  },
+  {
+   "cn": "哈勃音叉图",
+   "en": "Hubble tuning fork",
+   "source": "天文学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "将哈勃序列画出后形似音叉的图形。"
+  },
+  {
+   "cn": "哈勃太空望远镜",
+   "en": "Hubble Space Telescope",
+   "source": "物理学名词",
+   "wordNumber": "11.0267",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃定律",
+   "en": "Hubble's law",
+   "source": "物理学名词",
+   "wordNumber": "06.0342",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃空间望远镜",
+   "en": "Hubble Space Telescope; HST",
+   "source": "天文学名词",
+   "wordNumber": "06.623",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "美国1990年4月24日发射，设置在地球轨道上、通光口径2.4m的反射式天文望远镜。用于从紫外到近红外(90～2 400nm)探测宇宙目标。为纪念美国天文学家哈勃而得名。"
+  },
+  {
+   "cn": "哈勃极深场",
+   "en": "Hubble ultra-deep field",
+   "source": "天文学名词",
+   "wordNumber": "07.044",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "位于天炉座里的一小块天区，哈勃望远镜2003～2004年对该区域进行了多次曝光观测。"
+  },
+  {
+   "cn": "菲舍尔，埃德温",
+   "en": "Fischer\",\"Edwin(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罗克斯伯",
+   "en": "Roxburgh\",\"Edwin(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伊文斯一世，艾德文",
+   "en": "Evans\",\"Edwin(Ⅰ)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伊文斯二世，艾德文",
+   "en": "Evans\",\"Edwin(Ⅱ)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃半径",
+   "en": "Hubble radius",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃参数",
+   "en": "Hubble parameter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃常数",
+   "en": "Hubble constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃分类参数",
+   "en": "Hubble stage",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃关系",
+   "en": "Hubble relation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃距离",
+   "en": "Hubble distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃流",
+   "en": "Hubble flow",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃年龄",
+   "en": "Hubble age",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃时间",
+   "en": "Hubble time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃图",
+   "en": "Hubble diagram",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃序列",
+   "en": "Hubble sequence",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃定律",
+   "en": "Hubble law\",\"Hubble's law",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃空间望远镜",
+   "en": "Hubble Space Telescope\",\"HST",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃深场",
+   "en": "Hubble Deep Field\",\"HDF",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃极深场",
+   "en": "Hubble Ultra Deep Field",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃[星系]分类",
+   "en": "Hubble classification [of galaxies]",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "栏架",
+   "en": "hurdle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船头橡皮球",
+   "en": "ball\",\"bobble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栏",
+   "en": "gate\",\"hurdle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跨栏",
+   "en": "clearing the hurdle\",\"hurdle jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "讽谕",
+   "en": "Subtle Admonition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "妙悟",
+   "en": "Subtle Insight",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "含蓄",
+   "en": "Subtle Suggestion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨栏比赛",
+   "en": "hurdle race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍赛障碍",
+   "en": "steeplechase hurdle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍",
+   "en": "barrier\",\"hurdle\",\"fence\",\"obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贫不学俭，卑不学恭",
+   "en": "Poor People Do Not Need to Learn Frugality, and Humble People Do Not Need to Learn Respectfulness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道义可尊，无择负贩",
+   "en": "A Person Who Leads a Moral and Righteous Life Commands Respect Even If He Is a Humble Peddler.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "富贵不能淫，贫贱不能移，威武不能屈",
+   "en": "never be corrupted by wealth or status, depart from principle due to poverty or humble position, or bow down to power or force",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "气泡室",
+   "en": "bubble chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种探测高能加速粒子径迹的仪器。通常由室主体、膨胀系统、照相系统和热调节系统等部分组成。"
+  },
+  {
+   "cn": "气泡探测器",
+   "en": "bubble detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "一种可以直接读数的中子探测器。探测器由在弹性聚合物中悬置过热小滴制备而成。中子通过这种材料时，产生可见的蒸汽气泡，根据气泡的数量可得到中子剂量。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "栅栏技术",
+   "en": "hurdle technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.3",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "联合控制多种阻碍微生物生长的因素，以减少食品腐败，保证食品卫生与安全性的技术。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

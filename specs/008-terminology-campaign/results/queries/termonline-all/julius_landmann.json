@@ -2,10 +2,451 @@
  "key": "julius landmann",
  "term": "Julius Landmann",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:15:00+00:00",
- "status": "error",
- "note": "variant=Julius Landmann; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Julius Landmann: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:18+00:00",
+ "status": "ok",
+ "note": "variant=Julius Landmann; 审定公布名词库=231; 海峡两岸名词对照库=209; 其他来源数据库=7; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "凯撒独裁",
+   "en": "Gaius Julius Caesar Autarchy",
+   "source": "世界历史名词",
+   "wordNumber": "02.0468",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "凯撒于公元前46年获得元老院任命的为期十年的独裁官权力，并于公元前44年获得终身独裁官权力之后实施的统治。"
+  },
+  {
+   "cn": "地标",
+   "en": "landmark",
+   "source": "风景园林名词",
+   "wordNumber": "05.0194",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "每个空间单元的标志性景观要素，或者能够充分体现该单元风貌及发展建设的区域。如建筑、标识牌或山峰，被用来构建人们的城乡景观意向。"
+  },
+  {
+   "cn": "现场标志",
+   "en": "landmark",
+   "source": "急救医学名词",
+   "wordNumber": "02.057",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "呼叫救护车时患者所在现场地址附近的明显标志物。"
+  },
+  {
+   "cn": "地标",
+   "en": "landmark",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.374",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "具有鲜明特色且易被人识别的建（构）筑物或自然物。"
+  },
+  {
+   "cn": "地标",
+   "en": "landmark",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0503",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "用于移动机器人定位的、在环境地图上可辨别的人工或自然物体。"
+  },
+  {
+   "cn": "界标",
+   "en": "landmark",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "在减影影像中显示骨组织结构背景的解剖结构。为减影影像提供一个解剖学标志，对病变区域的血管准确定位，为疾病诊断或外科手术提供参考。"
+  },
+  {
+   "cn": "界标",
+   "en": "landmark",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.211",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "格兰茨曼血小板功能不全",
+   "en": "Glanzmann thrombasthenia",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.152",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种罕见的常染色体隐性遗传性血液病。患者血小板缺乏糖蛋白Ⅱb/Ⅲa，因此在血液凝结过程中无法与血浆纤维蛋白原、粘连蛋白和玻璃体结合蛋白等连接，致使出血时间大大延长。症状包括鼻出血、月经过多、手术后出血"
+  },
+  {
+   "cn": "林德曼机理",
+   "en": "Lindemann mechanism",
+   "source": "化学名词",
+   "wordNumber": "04.0271",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "林德曼(Lindemann)对单分子气体反应A→P提出的反应机理。反应分子A首先通过碰撞产生活化分子<img src='/root/syzx/static/spz/huaxue2.04.0267.1."
+  },
+  {
+   "cn": "陆标",
+   "en": "landmark,terrestrial object",
+   "source": "航海科技名词",
+   "wordNumber": "02.0156",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "外标记匹配",
+   "en": "external landmark matching",
+   "source": "核医学名词",
+   "wordNumber": "03.0610",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "在成像对象外表加人工标记，通过外部标记点配准取得的参数进行的图像配准方法。"
+  },
+  {
+   "cn": "陆标定位",
+   "en": "fixing by landmark",
+   "source": "航海科技名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "纵沟",
+   "en": "sulcus",
+   "source": "动物学名词",
+   "wordNumber": "5.0174",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "腰鞭类鞭毛虫中位于横沟下按自后至前纵行，在赤道水平与横沟汇合的沟。沟内发出一根拖曳鞭毛。"
+  },
+  {
+   "cn": "脑沟",
+   "en": "sulcus",
+   "source": "动物学名词",
+   "wordNumber": "6.1203",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "哺乳动物大脑表面深浅不一的沟。"
+  },
+  {
+   "cn": "槽",
+   "en": "sulcus",
+   "source": "植物学名词",
+   "wordNumber": "15.0091",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "位于花粉远极或近极横长的萌发孔。如木兰科植物花粉。"
+  },
+  {
+   "cn": "脑沟",
+   "en": "sulcus",
+   "source": "核医学名词",
+   "wordNumber": "04.0710",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "位于大脑回之间深浅不一的沟裂。其中中央沟、外侧裂和顶枕裂将大脑半球分为额叶、顶叶、枕叶、颞叶和脑岛五部分。"
+  },
+  {
+   "cn": "槽",
+   "en": "sulcus",
+   "source": "古生物学名词",
+   "wordNumber": "02.0391",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "大而深的沟。"
+  },
+  {
+   "cn": "中槽",
+   "en": "sulcus",
+   "source": "古生物学名词",
+   "wordNumber": "02.0836",
+   "subjectFullName": "古生物学_古无脊椎动物学_腕足动物门",
+   "subjectName": "腕足动物门",
+   "publishYear": "2009",
+   "definition": "沿壳体纵轴部发育的凹沟，多见于腹壳。"
+  },
+  {
+   "cn": "古陆",
+   "en": "old land;old landmass",
+   "source": "地质学名词",
+   "wordNumber": "10.01.093",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地质历史上，高出海平面的古老的陆地。长期遭受剥蚀，并给周边盆地及相邻的海洋提供沉积物源的地区。大陆漂移说指中生代大规模漂移以前的大陆，如劳亚古陆、冈瓦纳古陆等。"
+  },
+  {
+   "cn": "林德曼[熔化]判据",
+   "en": "Lindemann criterion [of melting]",
+   "source": "物理学名词",
+   "wordNumber": "08.1469",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "凯撒大帝",
+   "en": "Julius Caesar",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Händel, Georg Friedrich"
+  },
+  {
+   "cn": "鲁德尔",
+   "en": "Rudel\",\"Julius(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "舒尔霍夫，尤利乌斯",
+   "en": "Schulhoff\",\"Julius(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卡琴",
+   "en": "Katchen\",\"Julius(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克伦格尔，尤利乌斯",
+   "en": "Klengel\",\"Julius(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伊色利斯，尤利乌斯",
+   "en": "Isserlis\",\"Julius(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱泼斯坦",
+   "en": "Epstein\",\"Julius(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "帕察克",
+   "en": "Patzak\",\"Julius(奧地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伦琴",
+   "en": "Röntgen\",\"Julius(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "界标",
+   "en": "landmark",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地标",
+   "en": "landmark",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "陆标",
+   "en": "landmark",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "陆标",
+   "en": "landmark",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "林德曼机理",
+   "en": "Lindemann mechanism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "陆标要素",
+   "en": "landmark feature",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "冯塔纳，朱利安",
+   "en": "Fontana\",\"Julian(Jules)(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陆标定位",
+   "en": "fixing by landmark",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "槽",
+   "en": "sulcus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "朱利安",
+   "en": "Julien",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Charpentier, Marc-Antoine"
+  },
+  {
+   "cn": "沟",
+   "en": "sulcus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地雷战",
+   "en": "landmine warfare",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "Julia语言",
+   "en": "Julia language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兀鲁思",
+   "en": "Ulus",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0219",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "蒙古语音译，原意为 “百姓”，后引申为“国家”、“领民”或“领地”。行用于蒙古、哈萨克等民族中。"
+  },
+  {
+   "cn": "伊利汗国",
+   "en": "Il-qagantu ulus",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0194",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "蒙古四大汗国之一。成吉思汗四子托雷之子旭烈兀在中亚波斯地方所建。旭烈兀及其继承者自称伊利汗，后得忽必烈正式册封。1388 年，被帖木儿汗国所灭。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,762 @@
+{
+ "key": "maximize utility",
+ "term": "maximize utility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:11:48+00:00",
+ "status": "ok",
+ "note": "variant=maximize utility; 审定公布名词库=715; 海峡两岸名词对照库=117; 其他来源数据库=24; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "经济学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。从基数效用论的角度看，给定预算约束和偏好的情况下，消费者通过选择商品消费量来使得不同商品的边际效用"
+  },
+  {
+   "cn": "消费者效用最大化静态模型",
+   "en": "static consumer utility maximization model",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.189",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "在不考虑代际效用的影响下，实现消费者效用最大化时需满足的要素等量关系的模型。即利益分配应使得每个人的边际效用相等。在资源经济研究领域，消费者效用就是社会福利。"
+  },
+  {
+   "cn": "极大化",
+   "en": "maximization",
+   "source": "数学名词",
+   "wordNumber": "011.0024",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "求极大[值]",
+   "en": "maximizing",
+   "source": "数学名词",
+   "wordNumber": "011.0027",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "经济学名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。效用表明的是商品与个人愉悦或痛苦程度之间的关系，它在很大程度上是个人福利的同义词。"
+  },
+  {
+   "cn": "公用工程",
+   "en": "utility",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.084",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "维持化工装置正常运行的辅助设施的总称。主要包括给水排水、供气（汽）、供电、供暖、制冷等。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0197",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在有风险的情况下，为使决策者所作的决策符合其价值，达到预期的最优效果，对各种决策后果(包括决策者对后果的偏爱)进行量化赋以某种数值的一种度量。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "药学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "消费者在消费商品时所感受到的满足程度。"
+  },
+  {
+   "cn": "利用率",
+   "en": "utilance",
+   "source": "电气工程名词",
+   "wordNumber": "22.277",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "局部极大点",
+   "en": "local maximizer",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "对于优化问题可行域内的一点，若存在该点的一个开邻域，其中所有可行点的目标函数值均不大于（即小于或等于）该点的目标函数值，则称该点为局部极大点。"
+  },
+  {
+   "cn": "全局极大点",
+   "en": "global maximizer",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.065",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "对于优化问题可行域内的一点，若可行域内所有点的目标函数值均不大于（即小于或等于）该点的目标函数值，则称该点为全局极大点。"
+  },
+  {
+   "cn": "最大回路",
+   "en": "maximal loop",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "有向图中具有如下特点的回路：图中的其他回路或者含于该回路内，或者与该回路没有共同的节点。有向图中的最大回路可以不止一个。"
+  },
+  {
+   "cn": "极大性论题",
+   "en": "maximality thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "机器可以生成的所有功能（根据限定的指令程序在限定的输入上工作），这些功能都可以通过图灵机计算。"
+  },
+  {
+   "cn": "大中取大准则",
+   "en": "maximal criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中采用乐观和冒险原则进行决策。其基本原则是在所有可选择的方案中，从最好的结果着想，再从最好的结果中选取最好的结果作为决策方案。"
+  },
+  {
+   "cn": "极量",
+   "en": "maximal dose",
+   "source": "麻醉学名词",
+   "wordNumber": "02.071",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "人体所能耐受的最大治疗量。有一次极量和一日极量，应予以区别。"
+  },
+  {
+   "cn": "最大刺激",
+   "en": "maximal stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "给予可兴奋细胞阈上刺激时，刺激效果随刺激强度增强而增大，但当刺激强度增强到一定水平时，刺激效果不再随之增大的阈上刺激。"
+  },
+  {
+   "cn": "极量",
+   "en": "maximal dose",
+   "source": "兽医学名词",
+   "wordNumber": "17.088",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "药物产生最大药理效应的量。临床应用药物剂量应小于极量。"
+  },
+  {
+   "cn": "交谈准则",
+   "en": "conversational maxims",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "为促成谈话目的的有效实现，沟通者所遵循相互合作的谈话行为与相互接受的会话规则。1975年由美国学者格里斯(Grice)提出的具体规则：(1)表达要简明易懂，(2)真实、不虚假，(3)避免歧义，(4)简"
+  },
+  {
+   "cn": "利润最大化",
+   "en": "profit maximization",
+   "source": "经济学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商寻求最大可能利润的过程。其一般原则是边际收益等于边际成本，具体表现为利润最大化的产量－价格决策原则：产品边际收益＝产品边际成本，即<img src='/root/syzx/static/spz/j"
+  },
+  {
+   "cn": "最大刺激",
+   "en": "maximal stimulus",
+   "source": "神经病学名词",
+   "wordNumber": "05.177",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "在神经传导测定过程中，当以一定强度进行刺激获得诱发电位后，即使再增加刺激强度，诱发电位的波幅也不会再增加。"
+  },
+  {
+   "cn": "最大获利者",
+   "en": "maximizer",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公用设施",
+   "en": "utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序",
+   "en": "utility program\",\"utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "utilities",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利用",
+   "en": "utilization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "肖斯塔科维奇，马克辛",
+   "en": "Shostakovich\",\"Maxim(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公用服务事业",
+   "en": "utility service",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "common utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施流程图",
+   "en": "utility flowsheet",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "效用理论",
+   "en": "utility theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公用事业基金",
+   "en": "utility fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公用事业债券",
+   "en": "utility bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地方效用",
+   "en": "place utility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施测量",
+   "en": "utility surveying",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "格式化实用程序",
+   "en": "formatting utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公用设施标记",
+   "en": "utility marker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序包",
+   "en": "utility package",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实用功能",
+   "en": "utility function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实用软件",
+   "en": "utility software",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络公用设施",
+   "en": "network utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大用",
+   "en": "Maximal Functioning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铭箴",
+   "en": "Epigraph and Maxim",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectation maximization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人数据利用",
+   "en": "personal data utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最大信息系数",
+   "en": "maximal information coefficient (MIC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "限制利用",
+   "en": "limitations in the utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法利用信息网络罪",
+   "en": "crime of illegally utilizing information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制天命而用之",
+   "en": "Grasp and Utilize the Endowments of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷性",
+   "en": "agility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创新敏捷化",
+   "en": "innovation agility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。"
+  },
+  {
+   "cn": "效用最大化模型",
+   "en": "utility maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定医院决策者追求服务数量与质量两个目标最大化的模型"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "健康效用",
+   "en": "health utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "人们对特定健康水平或生命质量的满意或偏好程度。"
+  },
+  {
+   "cn": "利润最大化模型",
+   "en": "profit maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定所有医院目标都是谋求利润最大化的模型。为了实现该目标，医院应选择在需求曲线上边际成本曲线与边际收益曲线相交点的价格。"
+  },
+  {
+   "cn": "收入最大化模型",
+   "en": "income maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定医院的服务目标是实现业务收入最大化的模型。"
+  },
+  {
+   "cn": "最大心率",
+   "en": "maximal heart rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在进行运动负荷时，随着运动量的增加，耗氧量和心率也增加，在最大负荷强度时，耗氧量和心率不能继续增加时心率达到的最高水平。"
+  },
+  {
+   "cn": "最大摄氧量",
+   "en": "maximal oxygen uptake",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "采用直接测定法（自行车功率计、运动平台等）或间接测定法（踏阶法），获得机体心肺功能发挥到最大水平时的氧耗量。"
+  },
+  {
+   "cn": "科学的效用",
+   "en": "utility of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.26",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学在现实生活中，包括宗教、经济、技术、军事、乃至自我发展等方面所能产生的功用。"
+  },
+  {
+   "cn": "边际效用曲线",
+   "en": "marginal utility curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "用图表示不同条件下每增加一单位商品的数量的边际效用的变化情况的曲线。"
+  },
+  {
+   "cn": "预期效用理论",
+   "en": "expected utility theory",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "决策者在面对风险或不确定的前景时，基于期望效用最大化原则，通过比较期望效用值来做出期望效用最大化的决策行为。"
+  },
+  {
+   "cn": "成本效用分析",
+   "en": "cost-utility analysis",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.10",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "通过比较卫生服务项目投入的成本与经生命质量调整的健康产出（如质量调整生命年），评估卫生项目或治疗措施效率的一种经济学分析方法。"
+  },
+  {
+   "cn": "效用原则",
+   "en": "principle of utility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以促进个体或集体福祉最大化为目的的公共卫生伦理原则。"
+  },
+  {
+   "cn": "卫生服务效用",
+   "en": "health service utility",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "卫生服务满足人们健康需求或提升生活质量的能力，或个体因接受该服务而获得的主观满意程度的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

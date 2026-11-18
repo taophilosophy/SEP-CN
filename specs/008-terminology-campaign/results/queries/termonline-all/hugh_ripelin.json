@@ -2,10 +2,801 @@
  "key": "hugh ripelin",
  "term": "Hugh Ripelin",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:26:54+00:00",
- "status": "error",
- "note": "variant=Hugh Ripelin; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Hugh Ripelin: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:47+00:00",
+ "status": "ok",
+ "note": "variant=Hugh Ripelin; 审定公布名词库=2218; 海峡两岸名词对照库=626; 其他来源数据库=102; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "休斯手术",
+   "en": "Hughes operation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0565",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "休-利夫森培养基",
+   "en": "Hugh-Leifson medium",
+   "source": "微生物学名词",
+   "wordNumber": "09.136",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "由蛋白胨、无机盐、较高浓度葡萄糖，以及pH指示剂配成的半固化琼脂培养基，用于检测微生物对糖类利用时是否有分子态氧参与反应。"
+  },
+  {
+   "cn": "管道高后果区管理",
+   "en": "management pipeline high consequence",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.298",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "依据高后果区识别的结果，进行的一系列的管理活动。"
+  },
+  {
+   "cn": "管道高后果区识别",
+   "en": "pipeline high consequence area identification",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.297",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "通过分析管道的基础数据，找出管道的高后果区，识别高后果区存在的威胁，明确完整性管理重点。"
+  },
+  {
+   "cn": "管道",
+   "en": "pipeline",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "1.0005",
+   "subjectFullName": "化工（八）_通类",
+   "subjectName": "通类",
+   "publishYear": "2021",
+   "definition": "用管子、管子组成件及支承件等组成的用于输送、分配、混合、分离、排放气体、液体或带固体颗粒的流体的装置。"
+  },
+  {
+   "cn": "长输管道",
+   "en": "pipeline",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.077",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "产地、储存库、用户间的用于输送油、气商品介质的管道。包括管道线路、站场及辅助设施等。"
+  },
+  {
+   "cn": "陈化",
+   "en": "ripening",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0166",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_乳化与均质",
+   "subjectName": "乳化与均质",
+   "publishYear": "2020",
+   "definition": "溶质中较小型的结晶或溶胶颗粒溶解并再次沉积到较大型的结晶或溶胶颗粒上的现象。"
+  },
+  {
+   "cn": "涟[波]子",
+   "en": "ripplon",
+   "source": "物理学名词",
+   "wordNumber": "08.2933",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "熟化",
+   "en": "ripening",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0103",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "结晶过程中，悬浮晶浆中小的晶体粒子溶解后溶质重新沉积在大的粒子上，导致大粒子进一步长大的现象。"
+  },
+  {
+   "cn": "流水线",
+   "en": "pipeline",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0266",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "把每个处理过程分成若干个顺序的操作，由多个部件顺序重叠执行。"
+  },
+  {
+   "cn": "熟化",
+   "en": "ripening",
+   "source": "化学名词",
+   "wordNumber": "05.1066",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "黏胶纤维生产中，把溶解终了的黏胶在室温下(15~22℃)存放30~60h，使其发生一系列化学变化和物理变化，并使之更适应随后纺丝要求的过程。"
+  },
+  {
+   "cn": "管路",
+   "en": "pipeline",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.218",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "节肢弹性蛋白",
+   "en": "risilin",
+   "source": "昆虫学名词",
+   "wordNumber": "08.130",
+   "subjectFullName": "昆虫学_昆虫生理与生化",
+   "subjectName": "昆虫生理与生化",
+   "publishYear": "2000",
+   "definition": "节肢动物运动关节间的一种特殊蛋白质，富弹性。"
+  },
+  {
+   "cn": "海底管道",
+   "en": "submerged pipeline,undersea pipeline",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0121",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋工程",
+   "subjectName": "海洋工程",
+   "publishYear": "2007",
+   "definition": "布设在海底用于输送液体、气体或者松散固体的管道及其支撑结构。"
+  },
+  {
+   "cn": "艾帕素",
+   "en": "apelin",
+   "source": "生理学名词",
+   "wordNumber": "05.294",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吕珀尔阶",
+   "en": "Rupelian Stage",
+   "source": "地质学名词",
+   "wordNumber": "07.03.321",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "渐新统第一个阶。位于始新统普利亚本阶之上，夏特阶之下。底界以有孔虫Hantkenina和 Cribrohantkenina消失为标志与始新统分界。全球界线层型剖面和点位(GSSP)是意大利 Ancon"
+  },
+  {
+   "cn": "管道附件",
+   "en": "pipeline accessory",
+   "source": "风景园林名词",
+   "wordNumber": "08.0878",
+   "subjectFullName": "风景园林_风景园林工程_风景园林给水",
+   "subjectName": "风景园林给水",
+   "publishYear": "2025",
+   "definition": "为满足管道正常运行和维修需要而设置的各类阀门、计量和测压仪表等的总称。"
+  },
+  {
+   "cn": "促宫颈成熟",
+   "en": "cervical ripening",
+   "source": "妇产科学名词",
+   "wordNumber": "18.051",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "采用药物或机械方式以促进宫颈变软、变薄并扩张，降低引产失败率，缩短从引产到分娩时间的方法。"
+  },
+  {
+   "cn": "纹波模",
+   "en": "rippling mode",
+   "source": "核科学技术名词",
+   "wordNumber": "3.174",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "等离子体电阻率的空间不均匀性引起的不稳定‍性。"
+  },
+  {
+   "cn": "性腺管道",
+   "en": "gonad pipeline",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.153",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科胚胎学_女性生殖管道发育",
+   "subjectName": "女性生殖管道发育",
+   "publishYear": "2022",
+   "definition": "性腺发育过程中形成的各种管道样结构。包括中肾管、中肾旁管、泄殖腔等。"
+  },
+  {
+   "cn": "比恩，休",
+   "en": "Bean\",\"Hugh(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "波动的",
+   "en": "rippling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "伊尔美林",
+   "en": "Irmelin",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Delius, Frederick"
+  },
+  {
+   "cn": "熟化",
+   "en": "ripening",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "流水线",
+   "en": "pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节肢弹性蛋白",
+   "en": "risilin",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "海底管道",
+   "en": "submerged pipeline\",\"undersea pipeline",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "后熟[作用]",
+   "en": "after-ripening",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工催熟",
+   "en": "artificial ripening",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管路网络",
+   "en": "pipeline network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "短期熟成",
+   "en": "short ripening",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底管道",
+   "en": "submarine pipeline",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标量流水线",
+   "en": "scalar pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态流水线",
+   "en": "dynamic pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非线性流水线",
+   "en": "nonlinear pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静态流水线",
+   "en": "static pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流水线处理",
+   "en": "pipeline processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流水线处理器",
+   "en": "pipeline processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流水线计算机",
+   "en": "pipeline computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流水线控制",
+   "en": "pipeline control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "管道管理",
+   "en": "pipeline management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传高球",
+   "en": "high ball\",\"high pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抱住",
+   "en": "hug",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高传",
+   "en": "high pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高射",
+   "en": "high shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高抛靶房",
+   "en": "high house",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高运球",
+   "en": "high dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高桥",
+   "en": "high bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高杠",
+   "en": "high bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顶点",
+   "en": "high point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳高运动员",
+   "en": "high jumper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳高",
+   "en": "high jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高压球",
+   "en": "high volley",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高远球",
+   "en": "high clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "狂浪",
+   "en": "high sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高塔式",
+   "en": "high tower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上线部位",
+   "en": "high line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高位",
+   "en": "high post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级骑术学校",
+   "en": "high school",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后熟",
+   "en": "after ripening",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.15",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "肌肉在内源性酶的作用下，糖原减少，乳酸增加，肉质变软多汁的过程。"
+  },
+  {
+   "cn": "果实催熟",
+   "en": "accelerated ripening of fruits",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.23",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "通过物理或化学方法加速果实成熟的过程。"
+  },
+  {
+   "cn": "哈夫单位",
+   "en": "Haugh unit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.18",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "根据蛋重和浓厚蛋白的高度，按以下公式计算出的指标，HU=100*lg[h+7.57-1.7*(w⁰˙³⁷)]，h 为测定蛋品摊在平台上蛋白高度（mm），w 为测量蛋品整蛋的质量（g）。是蛋品质量评价的"
+  },
+  {
+   "cn": "高文化",
+   "en": "high culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "经由学院派组织并提炼出来的抽象意义系统。艺术、宗教、科学均属于这一范畴。区别于草根或大众文化，通常被精英、贵族所把持。"
+  },
+  {
+   "cn": "高食物量消费人群",
+   "en": "high consumer",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种食物消费量在人群分布中位于第95 百分位数及以上的人群。"
+  },
+  {
+   "cn": "食物消费量高端人群",
+   "en": "high consumer",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.125",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "代表一种食品消费量的第90、95、97.5 及以上百分位数（仅消费者）的食物消费量，来自食物消费量调查中的个人消费人日。"
+  },
+  {
+   "cn": "高原",
+   "en": "high altitude",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "使人体产生明显生物学效应的海拔3000米以上地域。地理学上，海拔在500 米以上、地势起伏较小的广阔地区。"
+  },
+  {
+   "cn": "高变体",
+   "en": "high variety",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0129",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“低变体”相对。双言制社会中声望高的语言或方言。高变体通常是规范的书面语。"
+  },
+  {
+   "cn": "高过载负荷",
+   "en": "high overload",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "在航空作业中，由于加速度在短时间内增长到高水平，从而使人体受到超过耐受限值的负荷。"
+  },
+  {
+   "cn": "高原习服",
+   "en": "high altitude acclimatization",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体为适应高原环境而产生的一系列适应性改变。"
+  },
+  {
+   "cn": "高原作业",
+   "en": "high altitude work",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "在海拔3000m 以上的高原环境中从事的作业。"
+  },
+  {
+   "cn": "高原病",
+   "en": "high altitude disease",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "人体进入高原或由高原进入更高海拔地区的当时或数天内发生的因高原低氧环境引起的疾病。"
+  },
+  {
+   "cn": "高氧膜",
+   "en": "high oxygen filter",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "吸收有二氧化氯等强氧化剂的复合型过滤材料。能吸附分解空气中的挥发性有机物，过滤空气中的颗粒物并杀灭有害微生物，具有强氧化作用。"
+  },
+  {
+   "cn": "高水平消毒剂",
+   "en": "high level disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有细菌繁殖体包括分枝杆菌、病毒、真菌及其孢子和绝大多数细菌芽孢，达到消毒合格要求的消毒剂。"
+  },
+  {
+   "cn": "高水平消毒",
+   "en": "high level disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "杀灭所有细菌繁殖体包括分枝杆菌、病毒、真菌及其孢子和绝大多数细菌芽孢，达到消毒合格要求所进行的消毒。"
+  },
+  {
+   "cn": "高温处置",
+   "en": "high temperature disposal",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "利用焚烧、干热和蒸汽等高温技术对医疗废物的处置。"
+  },
+  {
+   "cn": "高压发生器",
+   "en": "high-voltage generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.23",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线发生装置中，控制和产生馈供X射线电能的部件的组合。通常由高压变压器组件和控制器组件组成。"
+  },
+  {
+   "cn": "脉冲高电压",
+   "en": "pulse high voltage",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.12",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "电压从零很快上升至很高电压（几千伏到几兆伏）并维持较短时间（几纳秒至几毫秒）后又降至零的脉动电压。"
+  },
+  {
+   "cn": "高危儿",
+   "en": "high risk infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "产前、产时和产后存在生物、心理、社会环境等生存危险因素的新生儿，如早产儿、极低体重儿、小于胎龄儿、新生儿严重疾病（缺血缺氧性脑病、持续头颅B超、CT/MRI异常、母孕期TORCH感染）等医学情况者。"
+  },
+  {
+   "cn": "高危人工流产",
+   "en": "high-risk abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.7",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "受术对象存在某些可能会增加手术过程中发生严重并发症风险的特征和/或健康问题，需在术前通过询问病史和体检及早发现，做好预案的一种人工流产特殊情况。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

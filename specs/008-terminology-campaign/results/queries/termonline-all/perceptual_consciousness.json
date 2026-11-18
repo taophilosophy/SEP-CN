@@ -1,0 +1,662 @@
+{
+ "key": "perceptual consciousness",
+ "term": "perceptual consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:25:04+00:00",
+ "status": "ok",
+ "note": "variant=perceptual consciousness; 审定公布名词库=119; 海峡两岸名词对照库=39; 其他来源数据库=8; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "感知节点",
+   "en": "perceptual node",
+   "source": "农学名词",
+   "wordNumber": "16.099",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "无线传感器网络中承担信息感知功能，并将其转化为数字信号进行传输与转发的器件、装置或设备。一般集成了传感器模块、信息处理模块、无线通信模块和能量供应模块。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.576",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在距离、方位、光照等因素发生变化时，人和动物将事物感知为具有恒常的大小、形状、颜色等属性的现象。是人和动物在变化的知觉情境中对某些环境特征的稳定感知。"
+  },
+  {
+   "cn": "知觉内容",
+   "en": "perceptual content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.577",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "知觉经验将世界表征成的样子。通常用命题来表达。预设了知觉的表征论。"
+  },
+  {
+   "cn": "知觉扭曲",
+   "en": "perceptual distortion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.185",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体对外界事物整体属性的错误认知。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "测绘学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "知觉的稳定不变性。即当客观条件在一定范围内改变时，知觉映象在相当程度上倾向于保持其原样不变的心理作用。"
+  },
+  {
+   "cn": "视觉感受效果",
+   "en": "perceptual effect",
+   "source": "测绘学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "视觉变量引起的视觉感受的多种效果。一般归纳为整体感、等级感、数量感、质量感、动感和立体感。"
+  },
+  {
+   "cn": "类别视觉感受",
+   "en": "perceptual grouping",
+   "source": "测绘学名词",
+   "wordNumber": "04.115",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将观察对象区分出不同类别的视觉效果。"
+  },
+  {
+   "cn": "感知障碍",
+   "en": "perceptual disorder",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物的感知方面存在紊乱和异常的精神障碍。主要包括幻觉和妄想。"
+  },
+  {
+   "cn": "感知失认",
+   "en": "perceptual agnosia",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物不能用感觉器官去感受和识别的病理状态。如视觉性或听觉性认识不能。"
+  },
+  {
+   "cn": "知觉划消",
+   "en": "perceptual cancellation",
+   "source": "生物物理学名词",
+   "wordNumber": "04.166",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "韦克斯勒儿童智力量表第四版中增加的备用测试项目之一。是在一个随机排列的数字表上，在限定时间内划去某一数字，根据正确率及所需时间测验被试者智力水平的方法。"
+  },
+  {
+   "cn": "知觉定势",
+   "en": "perceptual set",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0080",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "后续知觉受先前知觉的直接影响，并产生某种准备倾向的现象。"
+  },
+  {
+   "cn": "感知图",
+   "en": "perceptual map",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0214",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "代表消费者如何基于特定的因素或属性看待各种相比较的产品的图表。"
+  },
+  {
+   "cn": "知觉防御",
+   "en": "perceptual defense",
+   "source": "心理学名词",
+   "wordNumber": "02.365",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对引发恐惧或感到具有威胁的刺激回避、阻滞或反应缓慢的倾向。"
+  },
+  {
+   "cn": "知觉警觉",
+   "en": "perceptual vigilance",
+   "source": "心理学名词",
+   "wordNumber": "02.366",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体潜意识中对微弱刺激产生知觉的现象。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.381",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对物理刺激变化而保持稳定知觉的特性。主要包括颜色恒常性、形状恒常性、大小恒常性等。"
+  },
+  {
+   "cn": "知觉组织",
+   "en": "perceptual organization",
+   "source": "心理学名词",
+   "wordNumber": "02.376",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "分辨那些信息应该属于一个整体而把这些信息组织成一个独立目标的过程。"
+  },
+  {
+   "cn": "知觉歪曲",
+   "en": "perceptual distortion",
+   "source": "心理学名词",
+   "wordNumber": "02.430",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对物体的知觉经验不完全符合或完全脱离物体本身特征的心理现象。"
+  },
+  {
+   "cn": "知觉后效",
+   "en": "perceptual aftereffect",
+   "source": "心理学名词",
+   "wordNumber": "02.424",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "知觉到的对象消失后人脑中产生的对其相反的印象发生的效应。"
+  },
+  {
+   "cn": "感知障碍",
+   "en": "perceptual disorder",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.094",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "脑损伤后在感觉输入系统完整的情况下，大脑对感觉刺激的分析、认识和整合障碍。表现为失认症和失用症。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.569",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "觉知到外部对象或内在自我的一种心理状态。包括知觉、体验、感受、觉醒的能力。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉不平衡",
+   "en": "perceptual disequilibrium",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉防御",
+   "en": "perceptual defense",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉警觉",
+   "en": "perceptual vigilance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉广度",
+   "en": "perceptual span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉平衡",
+   "en": "perceptual equilibrium",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉组织",
+   "en": "perceptual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉歪曲",
+   "en": "perceptual distortion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉图",
+   "en": "perceptual map",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉敏感度",
+   "en": "perceptual sensitivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知研究",
+   "en": "perceptual studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感受效果",
+   "en": "perceptual effect",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "类别视觉感受",
+   "en": "perceptual groupings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知觉组织律",
+   "en": "laws of perceptual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识",
+   "en": "self consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知控制域",
+   "en": "perceptual control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生生",
+   "en": "Perpetual Growth and Change",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "知觉发育",
+   "en": "perceptual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对感觉信息的加工和解释能力随年龄增长的发展变化过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "有两层含义：一是指群体经验或有关群体的集体意识，如群体成员共享的信仰、 价值观念和规范准则等；另一是指群体成员资格在群体成员的自我意象及经验中的地位。"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0167",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会存在即社会物质生活及其过程在社会精神领域中的反映，是精神现象的总和，包括各种社会意识形式和社会心理。是历史唯物主义最基本的范畴之一。社会意识取决于社会存在，在阶级社会具有鲜明的阶级性。同时，社会意"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "国家意识",
+   "en": "national consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0144",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的国家认同，即公民作为国家一分子维护国家统一、领土完整、安全发展等方面利益的意识。"
+  },
+  {
+   "cn": "公民意识",
+   "en": "civic consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0145",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的公民身份认同，即公民作为一国公民，并承担国家规定的公民权利义务的意识。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "race ethnicity",
+ "term": "race ethnicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:17:54+00:00",
+ "status": "ok",
+ "note": "variant=race ethnicity; 审定公布名词库=3206; 海峡两岸名词对照库=1005; 其他来源数据库=182; 预公布名词数据库=339; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "民族性",
+   "en": "ethnicity",
+   "source": "地理学名词",
+   "wordNumber": "17.042",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "某一个体所确定个人身份的方式以及某一具有共同起源的人群所形成的社会阶层类型。"
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "动物学名词",
+   "wordNumber": "2.0055",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "有地理分异的种群或种群的集合。它们在形态上区别于该物种的其他宗，在分类学上常常处理为亚种。"
+  },
+  {
+   "cn": "滚道",
+   "en": "race",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0347",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "接合元件(滚柱与外圈或内圈)接触的圆柱表面。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "计划生育名词",
+   "wordNumber": "01.179",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "具有形态上和生理上的特点，以及语言、习俗等历史文化因素组成的有区域性特点的群体。"
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "植物学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "有地理分异的种群或种群的集合。它们在形态上区别于该物种的其他宗，在分类学上常常处理为亚种或变种。"
+  },
+  {
+   "cn": "竞争",
+   "en": "race",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0830",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "由于多个输入信号在传输和处理过程中经由不同途径到达某一会合点的时间有先有后而导致输出信号出现不正确瞬态值的现象。"
+  },
+  {
+   "cn": "小种",
+   "en": "race",
+   "source": "林学名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "树种内不同种源间或者产地间，经试验证明存在真实遗传差异的那些种源或产地。"
+  },
+  {
+   "cn": "小种",
+   "en": "race",
+   "source": "微生物学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "在特定寄主植物类群上有相似致病力或无致病力的植物病原菌类型。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "古生物学名词",
+   "wordNumber": "03.0611",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_古人类学",
+   "subjectName": "古人类学",
+   "publishYear": "2009",
+   "definition": "人种或种族是根据体质上某些能遗传的性状而划分的人群。人类的各种性状一方面受到遗传因素的影响，另一方面又受到环境因素的作用。因此世界上不同的人群有着不同的基因频率，从而产生了人种的差别。"
+  },
+  {
+   "cn": "族群",
+   "en": "ethnic group or ethnicity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.029",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "基于历史、文化、语言、地域、宗教、血缘等因素构成的社会文化共同体。"
+  },
+  {
+   "cn": "竞渡",
+   "en": "boat race",
+   "source": "风景园林名词",
+   "wordNumber": "11.0418",
+   "subjectFullName": "风景园林_风景园林艺术_园居活动",
+   "subjectName": "园居活动",
+   "publishYear": "2025",
+   "definition": "在园林中或其他水域举行划船比赛的竞技活动。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "农学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "病原物不同菌株间在一组鉴别品种上表现致病性分化差异的类群。在形态上无明显差异。"
+  },
+  {
+   "cn": "军备竞赛",
+   "en": "arms race",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.402",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "相互对立的国家、国家集团或拥有武装力量的其他行为体，为保证自身安全或谋求军事优势、争夺地区乃至世界主导权，而在军备方面进行的、相对激烈的动态互反馈竞争。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race ",
+   "source": "草学名词",
+   "wordNumber": "7.0302",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "地理小种",
+   "en": "geographic race",
+   "source": "林学名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "树种内的不同种源或产地，经长期自然选择适应于某一类(如海拔、气候和土壤因子等)特殊生境、遗传上具有明显的适应性分化特征的变异类型。"
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "林学名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "林学_森林保护_森林病理",
+   "subjectName": "森林病理",
+   "publishYear": "2016",
+   "definition": "病原物种内、变种内或专化型内存在着对寄主植物的不同品种致病力不同的类群。"
+  },
+  {
+   "cn": "赛马场",
+   "en": "race course",
+   "source": "建筑学名词",
+   "wordNumber": "02.0470",
+   "subjectFullName": "建筑学_建筑类型及组成_体育建筑",
+   "subjectName": "体育建筑",
+   "publishYear": "2014",
+   "definition": "具有环形跑道供速度赛马用的场地。为观看表演和比赛，通常设有观众看台。"
+  },
+  {
+   "cn": "滚道",
+   "en": "rolling race",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "17.0068",
+   "subjectFullName": "机械工程_工程机械_混凝土机械及混凝土制品机械",
+   "subjectName": "混凝土机械及混凝土制品机械",
+   "publishYear": "2013",
+   "definition": "使滚锥在其内(外)锥面上滚动以产生振动的金属套。"
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "昆虫学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "种内适应本地区生态条件的种群集合。"
+  },
+  {
+   "cn": "民族村寨",
+   "en": "ethnic village",
+   "source": "风景园林名词",
+   "wordNumber": "05.0245",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "民族文化的原生地，集物质文化遗产和非物质文化遗产于一体，具有丰富的文化内涵，是展示一个地方、一个民族的微缩景观。"
+  },
+  {
+   "cn": "民族性",
+   "en": "ethnicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宗",
+   "en": "race",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋桨空转",
+   "en": "racing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographical race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学宗",
+   "en": "chemical race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候宗",
+   "en": "climatic race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographic race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物宗",
+   "en": "biological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生理小种",
+   "en": "physiological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographic race",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地理宗",
+   "en": "geographical race",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态宗",
+   "en": "ecological race",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "环境伦理",
+   "en": "environmental ethnics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民俗旅游",
+   "en": "ethnic tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族地理学",
+   "en": "ethnic geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族聚居区",
+   "en": "ethnic enclaves",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "飞车",
+   "en": "propeller racing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "径赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参加帆船比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛",
+   "en": "abandoned race\",\"canceled race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跨栏比赛",
+   "en": "hurdle race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "径赛主任",
+   "en": "race director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参赛包",
+   "en": "race packet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "race referee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车赛",
+   "en": "road race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛事主任",
+   "en": "race director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追逐赛",
+   "en": "pursuit race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人自行车赛",
+   "en": "tandem race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凯林赛",
+   "en": "Keirin race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段赛",
+   "en": "stage race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计分赛",
+   "en": "points race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "族群性",
+   "en": "ethnicity",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "一个族群与其他族群相互区别开来的独有特征。美国文化多元主义研究提出，不同集团成员在交流互动中具有区分自我和他者的主观或客观标准，这些构成了族群认同的基础。"
+  },
+  {
+   "cn": "族性",
+   "en": "ethnicity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0422",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "拥有某种族群的认同并认为是其中一员，并因为这种隶属关系而同特定其他群体具有排他性。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "基于体质特征或遗传特点的差异而建构的关于人类的分类概念。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0068",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "具有区别于其他人群的共同遗传体质特征的人群；主要是根据人类体质的外表性状，如肤色、眼色、发色、发型、头型、面部特征、身材及血型等生理生化特性划分的。"
+  },
+  {
+   "cn": "社会主义民族",
+   "en": "Socialist ethnicity",
+   "source": "马克思主义",
+   "wordNumber": "04.0094",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在推翻资本主义制度以后，对旧式民族进行社会主义改造后形成的新型民族。由列宁1916年在《关于自决问题的争论总结》一文中提出。苏联十月革命建立了苏维埃制度，消灭了民族压迫，根本改造了旧式民族即资本主义民"
+  },
+  {
+   "cn": "资本主义民族",
+   "en": "capitalist ethnicity",
+   "source": "马克思主义",
+   "wordNumber": "04.0095",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "资本主义上升时期，或已进入资本主义社会的民族。马克思恩格斯在《共产党宣言》中称之为“资产阶级的民族”。认为它比资本主义以前民族的特征有了充分得多的发展。列宁和斯大林在有关著作中称之为“现代民族”或“资"
+  },
+  {
+   "cn": "种族主义",
+   "en": "race racism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "将区别于其他人种的某些共同遗传和体质特征扩大到社会与文化领域的一种解释,并以人种这一社会差异和政治经济不平等的象征符号为核心概念发展出的意识形态和涉及广泛的社会现象。"
+  },
+  {
+   "cn": "民族过程",
+   "en": "ethnic process",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0011",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "20 世纪60 到70 年代，苏联民族学界提出的一种民族理论，强调民族是一种历史过程，我国民族理论界一般将其理解为民族的形成、发展和消亡过程。"
+  },
+  {
+   "cn": "民族服装",
+   "en": "ethnic costume",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0121",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "具有传统民族形式的服装，是民族政治、经济、思想、文化的反映，体现着民族心理素质。民族服装在特定的社会生活及自然环境中形成，符合民族的生活习惯和审美意识。其民族特征主要表现于服装的造型、款式、色彩、材料"
+  },
+  {
+   "cn": "民族经济",
+   "en": "ethnic economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "狭义上指多民族国家少数民族的经济；广义上主要是指一国家或地区为单位的民族经济。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "ethnic issue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族形成、发展直到消亡之前的各个历史阶段里，不同民族和民族集团间在社会生活的各个领域发生的各种矛盾与冲突的总称，是社会总问题的一部分。民族问题具有普遍性、长期性、复杂性、国际性和重要性。"
+  },
+  {
+   "cn": "民族政策",
+   "en": "ethnic policy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0023",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "政党（尤其执政党）、国家及其他政治团体在一定时期为实现或服务于一定政治、经济、文化、社会目标所采取的政治准则，是为民族发展和协调民族关系采取的一系列相关法令、规定、措施、办法、方法、条例等的总和。是多"
+  },
+  {
+   "cn": "族裔文化",
+   "en": "ethnic culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.5",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "以一个国家、社会或地区向另一个国家、社会或地区迁徙或移居的社会群体形成的处于居住地的主流文化外围的文化形态。这种文化形态往往具有明显的特征，如共同祖先、共同的群体意识和文化实践形式。"
+  },
+  {
+   "cn": "民族音乐",
+   "en": "ethnic music",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "具有族群文化传统的民间音乐，特别指那些在社会中处于边缘、低位的族群在音乐方面的文化创造和实践。"
+  },
+  {
+   "cn": "族群",
+   "en": "ethnic group",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "小于国家大于家族或超越国境而存在的集团，由民族和种族自己聚集而结合在一起的群体。此一概念早期指归属同一社会，拥有共同语言和信仰的群体，二战后开始用于代替早期的“部族”、“种族”等。"
+  },
+  {
+   "cn": "民族政策",
+   "en": "ethnic policy",
+   "source": "马克思主义",
+   "wordNumber": "04.0089",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "国家和政党为调节民族关系，处理民族问题而采取的相关措施、规定等的总和。世界范围内，民族政策的实质和作用有积极和消极之分，前者如民族平等、民族发展政策；后者如种族歧视政策。列宁在《无产阶级革命和民族自决"
+  },
+  {
+   "cn": "民族乡",
+   "en": "ethnic township",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0052",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国在少数民族聚居的地方建立的乡级行政区域。一般在散居民族地区设立。"
+  },
+  {
+   "cn": "少数民族",
+   "en": "ethnic minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0028",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "新中国汉族之外的其他55 个民族的总称，因其人口规模或55 个民族的整体人口规模相对汉族人口规模较少而得名。1953 年人口普查各少数民族人口约占全国总人口6%，2020年人口普查各少数民族人口约占全"
+  },
+  {
+   "cn": "民族文物",
+   "en": "ethnic relics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0319",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "反映各民族生产、生活具有历史、经济、科学、艺术与一切文化价值的所有实物资料的总称。广义的民族文物，指各民族历史上遗留下来的一切实物，主要包括出土品、传世品和现代仍在使用的各种物品，狭义的民族文物，则主"
+  },
+  {
+   "cn": "民族融合",
+   "en": "ethnic fusion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0014",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "两个或更多民族在文化和人口上的相互吸收和融会，由此形成新的民族的历史现象，是马克思主义民族理论的基本主题之一，是民族演进过程的必然结果和进步现象。马克思主义民族观认为，民族融合是指各民族随着社会高度发"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,591 @@
  "key": "kamm, f.m.",
  "term": "Kamm, F.M.",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:25:31+00:00",
- "status": "error",
- "note": "variant=Kamm, F.M.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kamm, F.M.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:29+00:00",
+ "status": "ok",
+ "note": "variant=Kamm, F.M.; 审定公布名词库=62; 海峡两岸名词对照库=37; 其他来源数据库=4; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "ＫＡＭ环面",
+   "en": "KAM torus",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "T-H糖蛋白",
+   "en": "Tamm-Horsfall glycoprotein",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0264",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "人尿中的主要糖蛋白。在牛和大鼠中也发现。其亚基（约80kDa）含有25%糖，以及少量的脂质。"
+  },
+  {
+   "cn": "塔姆表面态",
+   "en": "Tamm surface state",
+   "source": "物理学名词",
+   "wordNumber": "08.2753",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "T-H蛋白",
+   "en": "Tamm-Horsfall protein",
+   "source": "医学名词 第四分册",
+   "wordNumber": "02.302",
+   "subjectFullName": "医学_肾脏病学",
+   "subjectName": "肾脏病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "沙砾碛",
+   "en": "sand and gravel mound,kame",
+   "source": "林学名词",
+   "wordNumber": "08.221",
+   "subjectFullName": "林学_水土保持与荒漠化防治_荒漠化防治",
+   "subjectName": "荒漠化防治",
+   "publishYear": "2016",
+   "definition": "在冰、水、风等多种营力单一或共同作用下，由沙、石等基础物质复合形成的天然堆积物。体量、形态迥异。"
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry, FCM",
+   "source": "感染病学名词",
+   "wordNumber": "01.0550",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "以高能量激光照射高速流动状态下被荧光色素染色的单细胞或颗粒，测量其产生的散射光和发射荧光的强度，从而对细胞(或微粒)进行定性或定量检测的一种细胞分析技术。"
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry,FCM",
+   "source": "结核病学名词",
+   "wordNumber": "03.670",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_分子生物学与免疫学诊断",
+   "subjectName": "分子生物学与免疫学诊断",
+   "publishYear": "2019",
+   "definition": "以高能量激光照射高速流动状态下被荧光色素染色的单细胞或颗粒，测量其产生的散射光和发射荧光的强度，从而对细胞（或微粒）进行定性或定量检测的一种细胞分析技 术。"
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry,FCM",
+   "source": "生物物理学名词",
+   "wordNumber": "13.177",
+   "subjectFullName": "生物物理学_技术与方法_单细胞检测",
+   "subjectName": "单细胞检测",
+   "publishYear": "2018",
+   "definition": "一种用于细胞计数、细胞分类、生物标志物检测和蛋白质工程的技术。将荧光标记或有自身固有荧光细胞悬液通过喷嘴喷射出以单细胞流动的液流，用波长可调的激光照射并逐一探测、记录和分析每一个细胞的荧光，能以每秒几"
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry,FCM",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "用荧光剂对细胞特定成分染色后，以流式细胞仪对处在快速、直线、流动状态中的单细胞或生物颗粒进行多参数、快速定量分析，并能对特定群体加以分选的现代细胞分析技术。"
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry,FCM",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.195",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "用荧光剂对细胞特定成分染色，利用流式细胞仪对处在快速、直线、流动状态中的单细胞或生物颗粒进行多参数、快速定量分析，并能对特定群体加以分选的现代细胞分析技术。"
+  },
+  {
+   "cn": "流式细胞仪",
+   "en": "flow cytometer,FCM",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.196",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "将流体喷射技术、激光技术、空气技术、γ射线能谱术及电子计算机等技术与显微荧光光度计密切结合的一种非常先进的检测仪器。通过测量细胞及其他生物颗粒的散射光和标记荧光强度，来快速分析颗粒的物理或化学性质，并"
+  },
+  {
+   "cn": "流式细胞计量术",
+   "en": "flow cytometry,FCM",
+   "source": "水产名词",
+   "wordNumber": "05.258",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "一种自动分离和分析各类细胞、微生物或混合群体的细胞器的技术。"
+  },
+  {
+   "cn": "流式细胞仪",
+   "en": "flow cytometer,FCM",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.634",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry;FCM",
+   "source": "血液学名词",
+   "wordNumber": "4.205",
+   "subjectFullName": "血液学_常用检查_血液病理检测_流式细胞术相关",
+   "subjectName": "流式细胞术相关",
+   "publishYear": "2022",
+   "definition": "应用流式细胞仪对悬浮于液流中的单个细胞或其他生物粒子进行多参数定量分析和分选的技术。集单克隆抗体技术、免疫细胞化学、光学和电子计算机等多种学科为一体，在多学科领域的研究中发挥重要作用。"
+  },
+  {
+   "cn": "调频-调频遥测系统",
+   "en": "FM-FM telemetering system",
+   "source": "自动化名词",
+   "wordNumber": "04.540",
+   "subjectFullName": "自动化科学技术_控制技术_空间运动体控制",
+   "subjectName": "空间运动体控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "调频－调频遥测系统",
+   "en": "FM-FM telemetering system",
+   "source": "自动化名词",
+   "wordNumber": "04.539",
+   "subjectFullName": "自动化科学技术_控制技术_空间运动体控制",
+   "subjectName": "空间运动体控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "熔丝沉积成形",
+   "en": "fused deposition modeling,FDM",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "08.010",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_近净成形与快速制造",
+   "subjectName": "近净成形与快速制造",
+   "publishYear": "2021",
+   "definition": "塑料或者蜡等丝材从喷头中挤出，喷头会把丝材加热至熔解温度，从而确保从喷头流出后立刻凝固的工艺过程。当喷头沿着控制的轨迹移动时，被挤出熔化的丝材形成了截面。通过累加截面最终成形出零件。"
+  },
+  {
+   "cn": "四波混频",
+   "en": "four-wave mixing,FWM",
+   "source": "光学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "介质中四个不同波长的光波在非线性材料中相互作用所产生的非线性光学效应。"
+  },
+  {
+   "cn": "标准乳",
+   "en": "fat-corrected milk,FCM",
+   "source": "畜牧学名词",
+   "wordNumber": "02.153",
+   "subjectFullName": "畜牧学_饲养管理_牛饲养",
+   "subjectName": "牛饲养",
+   "publishYear": "2020",
+   "definition": "按等能量计算的乳。国际上以乳脂率4%的乳作为标准乳。通常将不同含脂率的乳都换算成标准乳，换算公式：FCM=M×(0.4+0.15F)，式中F为含脂率，M为产乳量。"
+  },
+  {
+   "cn": "家族性偏瘫型偏头痛",
+   "en": "familial hemiplegic migraine,FHM",
+   "source": "神经病学名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "神经病学_头痛",
+   "subjectName": "头痛",
+   "publishYear": "2020",
+   "definition": "表现为反复发作的伴随偏瘫的偏头痛。至少有一个一级或二级亲属有相同疾病，为先兆偏头痛的少见亚型。多在儿童期发病，偏瘫可与其他偏头痛先兆同时发生，亦可单独发生。在偏头痛消退后，偏瘫仍可持续一段时间。多为常"
+  },
+  {
+   "cn": "冰砾阜",
+   "en": "kame",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冰砾阜群",
+   "en": "kame complex",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冰砾阜阶地",
+   "en": "kame terrace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "T-H糖蛋白",
+   "en": "Tamm-Horsfall glycopotein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "卡穆",
+   "en": "Kamu\",\"Okko(芬兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调频-频分多路复用",
+   "en": "frequency modulation/frequency division mutiplex\",\"FM/FDM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry\",\"FCM",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞术",
+   "en": "flow cytometry\",\"FCM",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞仪",
+   "en": "flow cytometer\",\"FCM",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞仪",
+   "en": "flow cytometer， FCM",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有限元法",
+   "en": "finite element method\",\"FEM",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "场离子显微镜[法]",
+   "en": "field ion microscope\",\"FIM",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纤分复用",
+   "en": "fiber division multipexing\",\"FDM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限元法",
+   "en": "finite element method\",\"FEM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新科",
+   "en": "new family\",\"fam. nov.",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调频连续波",
+   "en": "FM continuous-wave\",\"FM-CW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场致发射显微镜[学]",
+   "en": "field emission microscopy，FEM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频分复用",
+   "en": "frequency division multiplexing，FDM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非线性调频",
+   "en": "nonlinear FM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调频测距法",
+   "en": "FM ranging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "崩上四方固",
+   "en": "kuzure-kami-shiho-gatame\",\"modified upper four-quarter hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上四方固",
+   "en": "kami-shiho-gatame\",\"upper four quarters\",\"upper four-quarter hold-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流式细胞检测",
+   "en": "flowcytometry, FCM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以高能量激光照射高速流动状态下被荧光色素染色的单细胞或颗粒，测量其产生的散射光和发射荧光的强度，从而对细胞（或微粒）进行定性或定量检测的一种细胞分析技术。"
+  },
+  {
+   "cn": "侗台语族",
+   "en": "Kam-Tai group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系的语族之一。分布在中国和泰国、老挝、缅甸、越南等国。中国侗台语族语言主要在贵州、广西、云南等省区。分四个语支：壮傣语支、侗水语支、黎语支、仡央语支。"
+  },
+  {
+   "cn": "多康六区",
+   "en": "Mdo kams sgang drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0545",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "古代地区名称。古代藏文典籍中将西康、青海、西藏为上中下三区。下区青康一带，依水流和山势起伏情形，又分色莫岗、擦瓦岗、玛康岗、绷波岗、马杂岗和木雅热岗，通称下部多康六岗。"
+  },
+  {
+   "cn": "食品接触材料最大使用量",
+   "en": "maximum use level of FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.49",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在生产食品接触材料及制品时所加入的某种或某类物质的最大允许量，以质量分数（%）表示。"
+  },
+  {
+   "cn": "食品接触材料及制品",
+   "en": "food contact material and article, FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，各种已经或预期可能与食品或食品添加剂（以下简称食品）接触、或其成分可能转移到食品中的材料和制品，包括食品生产、加工、包装、运输、贮存、销售和使用过程中用于食品的包装材料、容器、工具和"
+  },
+  {
+   "cn": "食品用洗涤剂",
+   "en": "detergent used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.3",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用洗涤剂",
+   "subjectName": "食品用洗涤剂",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "食品接触材料特定迁移限量",
+   "en": "specific migration limit of FCM，SML",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.51",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "从食品接触材料及制品迁移到与其接触的食品或食品模拟物中的某种或某类物质的最大允许量，以每千克食品或食品模拟物中迁移物质的毫克数（mg/kg），或食品接触材料及制品与食品或食品模拟物接触的每平方分米面积"
+  },
+  {
+   "cn": "食品用消毒剂",
+   "en": "disinfectant used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "食品接触材料最大残留量",
+   "en": "maximum residual level of FCM，QM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.50",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "食品接触材料及制品中某种或某类残留物质的最大允许量，以每千克食品接触材料及制品中残留物质的毫克数（mg/kg），或食品接触材料及制品与食品接触的每平方分米面积中残留物质的毫克数（mg/dm²）表示。"
+  },
+  {
+   "cn": "食品用洗涤消毒剂",
+   "en": "detergent disinfectant for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "用于食品表面以及餐具、饮具、食品工具、设备、包装材料、容器等与食品直接接触表面，兼有洗涤和消毒作用的制剂。"
+  },
+  {
+   "cn": "食品接触材料总迁移限量",
+   "en": "overall migration limit of FCM，OML",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.53",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "从食品接触材料及制品中迁移到与之接触的食品模拟物中的所有非挥发性物质的最大允许量，以每千克食品模拟物中非挥发性迁移物的毫克数（mg/kg），或每平方分米接触面积迁出的非挥发性迁移物的毫克数（mg/dm"
+  },
+  {
+   "cn": "食品接触材料特定迁移总量限量",
+   "en": "total specific migration limit of FCM，SML(T)",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.52",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "从食品接触材料及制品中迁移到与之接触的食品或食品模拟物中的两种或两种以上物质的最大允许总量，以每千克食品或食品模拟物中指定的某种或某类迁移物质（或基团）的毫克数（mg/kg），或食品接触材料及制品与食"
+  },
+  {
+   "cn": "食品用洗涤剂原料",
+   "en": "ingredient of detergent used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用洗涤剂",
+   "subjectName": "食品用洗涤剂",
+   "publishYear": "2025",
+   "definition": "用于生产洗涤食品、餐具以及直接接触食品的工具、设备或者食品包装材料和容器的洗涤剂原料。"
+  },
+  {
+   "cn": "食品消毒剂原料",
+   "en": "ingredient of disinfectant used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2.7",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "用于生产食品用消毒剂的原料。包括食品用消毒剂有效成分和辅助成分"
+  },
+  {
+   "cn": "食品消毒剂有效成分",
+   "en": "active ingredient of disinfectant used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2.8",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "在食品用消毒剂配方中，对病原微生物具有杀灭作用的物质。如次氯酸钠、过氧化氢。"
+  },
+  {
+   "cn": "食品消毒剂辅助成分",
+   "en": "auxiliary ingredient of disinfectant used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2.9",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "在食品用消毒剂配方中，具有防腐蚀、护肤、稳定、调解酸碱度、调味和着色等辅助作用的物质。如氢氧化钠、氯化钠。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

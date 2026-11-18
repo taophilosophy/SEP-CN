@@ -1,0 +1,492 @@
+{
+ "key": "mathematical platonism",
+ "term": "mathematical Platonism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:27:40+00:00",
+ "status": "ok",
+ "note": "variant=mathematical Platonism; 审定公布名词库=122; 海峡两岸名词对照库=34; 其他来源数据库=19; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "数学柏拉图主义",
+   "en": "Platonism in mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.244",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学对象的存在和数学命题的真假不能还原为物理世界、人类心灵和数学家的活动，每个数学命题，包括独立于公理集合论系统的那些命题，都有确定的真值。数学柏拉图主义最重要的代表人物是哥德尔。"
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常指施于自然数的归纳证明方法。第一，证明最小的自然数具有某性质（归纳基始）；第二，证明后继运算保持该性质（归纳推步）。由上两步即得：所有的自然数具有该性质。"
+  },
+  {
+   "cn": "数学猜想",
+   "en": "mathematical conjecture",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.257",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "基于部分证据而提出，但尚未被证明也未被证伪的数学命题。如黎曼猜想、哥德巴赫猜想等。"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学仅仅是一种有用的工具，而不是对某种客观实在的描述。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "数学自然主义",
+   "en": "mathematical naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "方法论自然主义在数学领域的推广。认为数学具有方法论上的自主性，既不接受数学之外的批判，也不需要数学之外的证成。"
+  },
+  {
+   "cn": "数学方法",
+   "en": "mathematical method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "利用数学提供的概念、理论和规律，对客观事物进行分析、推导和计算，以揭示其内在规律和本质联系的方法。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical imitation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据模型与原型之间在数学形式方面的某些相似来进行的模拟。"
+  },
+  {
+   "cn": "数学形态学",
+   "en": "mathematical morphology",
+   "source": "光学名词",
+   "wordNumber": "17.046",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "研究不同类别的图像中不同像元之间特定的关联性构成的图像结构特征(形态)的理论和方法。这种结构特征也被称为结构元素。"
+  },
+  {
+   "cn": "数学制图学",
+   "en": "mathematical cartography",
+   "source": "测绘学名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "用数学方法研究地球椭球面与地图平面之间、地面要素的复杂性与地图图形的抽象性之间的变换和表达的学科。"
+  },
+  {
+   "cn": "数理经济学",
+   "en": "mathematical economics",
+   "source": "经济学名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "广义上指运用数学模型来进行经济分析，解释经济学现象的理论。从狭义上来说，是特指瓦尔拉斯（Walras）开创的一般均衡理论体系。通常可分为静态分析与动态分析。"
+  },
+  {
+   "cn": "数理统计",
+   "en": "mathematical statistics",
+   "source": "经济学名词",
+   "wordNumber": "10.069",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "随着研究随机现象规律性的科学-概率论的发展，应用概率论的结果更深入地分析研究统计资料，通过对某些现象的频率的观察来发现该现象的内在规律性，并做出一定精确程度的判断和预测。将这些研究的某些结果加以归纳整"
+  },
+  {
+   "cn": "柏拉图年",
+   "en": "Platonic year",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学，地图投影学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数理语言学",
+   "en": "mathematical linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "钚",
+   "en": "plutonium",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.7.2",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子序数为94 的元素，元素符号Pu，是原子能工业的一种重要原料，可作为核燃料和核武器的裂变剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

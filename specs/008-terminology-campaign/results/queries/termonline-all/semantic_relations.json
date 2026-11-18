@@ -1,0 +1,702 @@
+{
+ "key": "semantic relations",
+ "term": "semantic relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:14:25+00:00",
+ "status": "ok",
+ "note": "variant=semantic relations; 审定公布名词库=1066; 海峡两岸名词对照库=265; 其他来源数据库=78; 预公布名词数据库=97; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "农学名词",
+   "wordNumber": "16.226",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用语义模型进行信息检索的方法。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "为特定符号或者单词赋予意义的约定俗成的规则。"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "一个关联句法结构的过程，从词组、分句、句子、段落、整篇文章，到独立于语言的意义。"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.687",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由丹尼尔·丹尼特（Daniel Dennett）提出的。用于指代语义遵从语法的自动形式系统。其是智能的充分必要条件。"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.688",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "语法上恰当排列的有意义的数据所组成的信息，其所携带的意义即信息的语义。"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "用来表达复杂的概念及其之间的相互关系，其顶点表示概念，而边则表示概念间的语义关系，从而形成一个由节点和弧组成的语义网络描述图。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.007",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "沟通者双方给语言符号赋予特定意义的方式与约定。缺少语义规则，沟通是不可能实现的。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义启动",
+   "en": "semantic priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义码",
+   "en": "semantic code",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义转换器",
+   "en": "semantic Translator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义场",
+   "en": "semantic field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义词典",
+   "en": "semantic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义检查",
+   "en": "semantic test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义距离",
+   "en": "semantic distance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义理论",
+   "en": "semantic theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

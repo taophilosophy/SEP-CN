@@ -2,10 +2,351 @@
  "key": "hoffe, otfried",
  "term": "Höffe, Otfried",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T02:59:52+00:00",
- "status": "error",
- "note": "variant=Höffe, Otfried; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Höffe, Otfried: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:30:26+00:00",
+ "status": "ok",
+ "note": "variant=Höffe, Otfried; 审定公布名词库=19; 海峡两岸名词对照库=9; 其他来源数据库=0; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "楼",
+   "en": "storied building",
+   "source": "风景园林名词",
+   "wordNumber": "07.0147",
+   "subjectFullName": "风景园林_风景园林建筑_传统建筑类型",
+   "subjectName": "传统建筑类型",
+   "publishYear": "2025",
+   "definition": "两层以上的房屋。可以作为居住之用，亦可作为其他用途，如常见的城楼、钟楼、鼓楼等，以及供人们登临游览的名楼，如黄鹤楼、望江楼等。"
+  },
+  {
+   "cn": "叠生形成层",
+   "en": "storied cambium",
+   "source": "植物学名词",
+   "wordNumber": "03.0853",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "原始细胞在弦向切面上呈同一水平横向排列的维管形成层。如刺槐属植物。"
+  },
+  {
+   "cn": "叠生射线",
+   "en": "storied ray",
+   "source": "植物学名词",
+   "wordNumber": "03.0997",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "在次生维管组织中弦切面上呈水平层次排列的射线。如刺槐属植物。"
+  },
+  {
+   "cn": "叠生木栓",
+   "en": "storied cork",
+   "source": "植物学名词",
+   "wordNumber": "03.0827",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "单子叶植物中的一种特殊保护组织。栓质化细胞经数次平周分裂，在横切面上木栓层细胞径向排列成叠生状。如朱蕉。"
+  },
+  {
+   "cn": "叠生芽",
+   "en": "storied bud",
+   "source": "植物学名词",
+   "wordNumber": "03.0098",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "上下着生在一处的几个腋芽。如紫穗槐。"
+  },
+  {
+   "cn": "楼阁",
+   "en": "storied building",
+   "source": "林学名词",
+   "wordNumber": "09.143",
+   "subjectFullName": "林学_风景园林_风景园林建筑与工程",
+   "subjectName": "风景园林建筑与工程",
+   "publishYear": "2016",
+   "definition": "中国古代建筑中的多层建造物。"
+  },
+  {
+   "cn": "立体农业",
+   "en": "multi-storied agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "在一定区域范围内，进行种养业时间和空间优化布局，建立多物种共栖、多层次配置、多时序交错、多级质能转化的农业生产方式。"
+  },
+  {
+   "cn": "立体农业",
+   "en": "multi-storied agriculture",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.300",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "在一定区域范围内，多种互利共生的农业生物种群优化组合配置，在空间、时间和功能上多层次综合利用的高效的农业模式。"
+  },
+  {
+   "cn": "复层林分",
+   "en": "multi-storied stand",
+   "source": "林学名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "乔木树冠形成两个或两个以上明显林冠层次的林分。"
+  },
+  {
+   "cn": "楼阁",
+   "en": "multi-storied building",
+   "source": "建筑学名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "中国古代的多层建筑，多为木结构。早期楼与阁有区别，楼指重屋，多面宽大于进深，在建筑群中处于次要位置；阁指居于高台之上或下部架空、底层高悬的建筑，在建筑群中居主要位置。后来两者互通，无严格区分。"
+  },
+  {
+   "cn": "立体农业",
+   "en": "multi-storied agriculture",
+   "source": "生态学名词",
+   "wordNumber": "15.014",
+   "subjectFullName": "生态学_农业生态学",
+   "subjectName": "农业生态学",
+   "publishYear": "2006",
+   "definition": "在单位面积土地上(水域中)或在一定区域范围内，进行立体种植、立体养殖或立体复合种养，并巧妙地借助模式内人工的投入，提高能量的循环效率、物质转化率及第二性物质的生产量，建立多物种共栖，多层次配置，多时序"
+  },
+  {
+   "cn": "炒米",
+   "en": "fried rice ",
+   "source": "草学名词",
+   "wordNumber": "8.0124",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "土炒",
+   "en": "fried with earth",
+   "source": "中医药学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "中医药学_中药学_炮制",
+   "subjectName": "炮制",
+   "publishYear": "2004",
+   "definition": "净药材或切制品加灶心土共拌炒的炮制方法。"
+  },
+  {
+   "cn": "真空油炸脱水机",
+   "en": "vacuum fried dehydrated machine",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0771",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_薯类与薯类制品",
+   "subjectName": "薯类与薯类制品",
+   "publishYear": "2020",
+   "definition": "集加热、油炸、储油、脱油、脱水、油过滤一体化，在负压状态下，以油为传热媒介，使食品内部的水分急剧蒸发而喷出，形成疏松多孔结构的设备。"
+  },
+  {
+   "cn": "虎皮蛋",
+   "en": "deep-fried boiled egg",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1015",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_蛋与蛋制品",
+   "subjectName": "蛋与蛋制品",
+   "publishYear": "2020",
+   "definition": "以新鲜的鸡蛋为原料，经煮熟、剥壳、油炸、装罐、杀菌等工艺加工而成的一种蛋类制品。"
+  },
+  {
+   "cn": "加辅料炒",
+   "en": "fried with adjuvant material",
+   "source": "中医药学名词",
+   "wordNumber": "06.107",
+   "subjectFullName": "中医药学_中药学_炮制",
+   "subjectName": "炮制",
+   "publishYear": "2004",
+   "definition": "净药材或切制品加麸、米、土、砂、蛤粉、滑石粉等固体辅料，或酒、醋、盐水、姜汁、蜜等液体辅料同炒的炒制法。"
+  },
+  {
+   "cn": "哈伯勒的国际贸易学说",
+   "en": "Gottfried Haberler's theory on international trade",
+   "source": "经济学名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "哈伯勒是国际贸易机会成本说的倡导人。认为机会成本来源于为做某件事而牺牲的其他机会。他认为，按照比较成本说，两国间只要存在比较成本的差异，就有相互进行贸易的基础；只要两国机会成本不同，就有进行贸易的可能"
+  },
+  {
+   "cn": "楼阁式塔",
+   "en": "multi-storied pagoda in louge style",
+   "source": "建筑学名词",
+   "wordNumber": "03.0210",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "中国古代佛塔类型之一。从我国传统多层木构架建筑发展而来的佛塔。塔身为多层楼阁形式，通常内置楼梯，每层设门窗、平坐，供登临眺览。最早见于汉末，初期采用木造，由于木塔不能防火，唐以后多改用砖石，但仍仿木构"
+  },
+  {
+   "cn": "荷叶离褶伞",
+   "en": "fried chicken mushroom; Lyophyllum decastes (Fr.) Singer",
+   "source": "农学名词",
+   "wordNumber": "05.290",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "离褶伞科离褶伞属食用菌。自然分布于东北、华北和华中地区，可全国栽培。子实体幼小时，颜色和形状类似鹿角，丛生或簇生；菌盖呈扁半球形，灰白色或灰黄色；有锁状联合。口感脆，味道浓。"
+  },
+  {
+   "cn": "叠生木栓",
+   "en": "storied cork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠生射线",
+   "en": "storied ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠生芽",
+   "en": "storied bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "立体农业",
+   "en": "multi-storied agriculture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "叠生形成层",
+   "en": "storied cambium\",\"stratified cambium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "埃卡特",
+   "en": "Eckard\",\"Johann Gottfried(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "里特尔，奥古斯特",
+   "en": "Ritter\",\"August Gottfried(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "费里德",
+   "en": "Fried\",\"Oskar(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾内姆",
+   "en": "Einem\",\"Gottfried von(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非油炸水果",
+   "en": "non-fried fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以水果为原料，经（或不经）切片（条、块）后，采用非油炸脱水工艺制成的口感酥脆的水果加工制品。"
+  },
+  {
+   "cn": "油炸方便面",
+   "en": "fried instant noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.7",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "采用油炸工艺干燥的方便面，包括泡面、干吃面和煮面。"
+  },
+  {
+   "cn": "含油型膨化食品",
+   "en": "fried puffed foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.12",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "用食用油脂煎炸或产品中添加和（或）喷洒食用油脂的膨化食品。"
+  },
+  {
+   "cn": "非含油型膨化食品",
+   "en": "fried-free puffed foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.13",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "产品中不添加或不喷洒食用油脂的膨化食品。"
+  },
+  {
+   "cn": "虎皮蛋",
+   "en": "deep-fried boiled egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.13",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以新鲜的鸡蛋为原料，经煮熟、剥壳、油炸、装罐、杀菌等工艺加工而成的一种蛋类制品。"
+  },
+  {
+   "cn": "非油炸方便面",
+   "en": "fried-free instant noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.8",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "采用除油炸以外的其他工艺（如微波、真空和热风等）干燥的方便面，包括泡面、干吃面和煮面。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

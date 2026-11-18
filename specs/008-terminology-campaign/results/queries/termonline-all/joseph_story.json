@@ -2,10 +2,551 @@
  "key": "joseph story",
  "term": "Joseph Story",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:10:30+00:00",
- "status": "error",
- "note": "variant=Joseph Story; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Joseph Story: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:15+00:00",
+ "status": "ok",
+ "note": "variant=Joseph Story; 审定公布名词库=315; 海峡两岸名词对照库=157; 其他来源数据库=21; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "约瑟夫病",
+   "en": "Joseph disease",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.391",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层",
+   "en": "stratum,story",
+   "source": "植物学名词",
+   "wordNumber": "13.0232",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "群落中植物冠层位于某垂直高度范围或相对位置的植物总体。如林冠层、亚冠层、灌木层、草本层等。"
+  },
+  {
+   "cn": "楼层",
+   "en": "floor,story",
+   "source": "建筑学名词",
+   "wordNumber": "02.0011",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "多、高层建筑物中，除底层外沿高度方向水平分隔的空间。"
+  },
+  {
+   "cn": "人物故事纹样",
+   "en": "story pattern",
+   "source": "风景园林名词",
+   "wordNumber": "11.0392",
+   "subjectFullName": "风景园林_风景园林艺术_装饰纹样",
+   "subjectName": "装饰纹样",
+   "publishYear": "2025",
+   "definition": "以人物历史典故、神话和社会生活等为题材，经过绘画、雕刻等工艺加工而成的图纹或装饰物。多以彩绘、雕刻等方式出现在园林彩画、建筑构件上。"
+  },
+  {
+   "cn": "通讯",
+   "en": "news story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.086",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "通过详细、生动的描述呈现新闻事实的一种报道体裁。"
+  },
+  {
+   "cn": "封面报道",
+   "en": "cover story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.095",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在杂志封面或报纸头条出现的新闻报道。一般用大图片和大标题显示，是一期杂志或报纸最重要的报道作品。"
+  },
+  {
+   "cn": "署名文章",
+   "en": "byline story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.098",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "权威人士实名在报纸或杂志上发表的文章。代表了该权威人士或其所代表的组织在某一问题或领域的观点和态度。"
+  },
+  {
+   "cn": "预发新闻",
+   "en": "advance story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.125",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "对按照预定时间发生的新闻事实的报道。"
+  },
+  {
+   "cn": "头条",
+   "en": "frontline story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.213",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "报纸上每个版面位于最上部左侧的一篇(一组)稿件。因其居于一个版面最醒目位置，因而也是这个版面最重要的稿件。头版头条是整份报纸最重要的稿件。"
+  },
+  {
+   "cn": "消息",
+   "en": "news story",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.094",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报道事情的概貌而不讲述详细经过和细节，以简要的语言文字迅速传播新近事实的新闻体裁。"
+  },
+  {
+   "cn": "新闻故事",
+   "en": "news story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.047",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "①一种新闻体裁。以文学故事的结构写作(制作)新闻，易于吸引人。但生活中的事实大多不具有生动、曲折的情节，因而这种体裁容易诱发记者的想象和编造事实的细节。②新闻报道。"
+  },
+  {
+   "cn": "转换层",
+   "en": "transfer story",
+   "source": "建筑学名词",
+   "wordNumber": "13.0146",
+   "subjectFullName": "建筑学_建筑结构_结构体系选型",
+   "subjectName": "结构体系选型",
+   "publishYear": "2014",
+   "definition": "承担上部楼层与下部楼层结构形式或布置转变的结构构件所在的楼层。"
+  },
+  {
+   "cn": "层高",
+   "en": "story height",
+   "source": "建筑学名词",
+   "wordNumber": "01.0130",
+   "subjectFullName": "建筑学_总论_建筑模数及基本参数",
+   "subjectName": "建筑模数及基本参数",
+   "publishYear": "2014",
+   "definition": "建筑物各层之间以楼、地面面层(完成面)计算的垂直距离。屋顶层由该层楼面面层(完成面)至平屋面的结构面层或至坡顶的结构面层与外墙外皮延长线的交点计算的垂直距离。"
+  },
+  {
+   "cn": "架空层",
+   "en": "elevated story",
+   "source": "建筑学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "仅有结构支撑而无外围护结构的开敞空间层。"
+  },
+  {
+   "cn": "故事树",
+   "en": "story tree",
+   "source": "语言学名词",
+   "wordNumber": "11.086",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "用来描述故事的篇章结构的树形结构。包括背景和各种情节，主要用于研究记忆和语篇理解。"
+  },
+  {
+   "cn": "楼",
+   "en": "storied building",
+   "source": "风景园林名词",
+   "wordNumber": "07.0147",
+   "subjectFullName": "风景园林_风景园林建筑_传统建筑类型",
+   "subjectName": "传统建筑类型",
+   "publishYear": "2025",
+   "definition": "两层以上的房屋。可以作为居住之用，亦可作为其他用途，如常见的城楼、钟楼、鼓楼等，以及供人们登临游览的名楼，如黄鹤楼、望江楼等。"
+  },
+  {
+   "cn": "组织故事",
+   "en": "organizational stories",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.022",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "通过对情节跌宕起伏的旧业、旧事、先例、典故等含义过程的描述，让组织成员清楚知道组织推崇的目标及其实现的途径。它可以给所有组织成员以安慰、支持、指导，并为组织成员带来希望。"
+  },
+  {
+   "cn": "叠生形成层",
+   "en": "storied cambium",
+   "source": "植物学名词",
+   "wordNumber": "03.0853",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "原始细胞在弦向切面上呈同一水平横向排列的维管形成层。如刺槐属植物。"
+  },
+  {
+   "cn": "叠生射线",
+   "en": "storied ray",
+   "source": "植物学名词",
+   "wordNumber": "03.0997",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "在次生维管组织中弦切面上呈水平层次排列的射线。如刺槐属植物。"
+  },
+  {
+   "cn": "叠生木栓",
+   "en": "storied cork",
+   "source": "植物学名词",
+   "wordNumber": "03.0827",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "单子叶植物中的一种特殊保护组织。栓质化细胞经数次平周分裂，在横切面上木栓层细胞径向排列成叠生状。如朱蕉。"
+  },
+  {
+   "cn": "约瑟夫效应",
+   "en": "Joseph effect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约瑟夫的故事",
+   "en": "Josephs Legende",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "埃尔斯纳",
+   "en": "Elsner\",\"Joseph(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蒂哈契克",
+   "en": "Tichatschek\",\"Joseph(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "富克斯，约瑟夫",
+   "en": "Fuchs\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "西尔弗斯坦",
+   "en": "Silverstein\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "康特卢布",
+   "en": "Canteloube\",\"Joseph(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "西盖蒂",
+   "en": "Szigeti\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "席林格",
+   "en": "Schillinger\",\"Joseph(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "凯尔贝特",
+   "en": "Keilberth\",\"Joseph(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍洛维兹，约瑟夫",
+   "en": "Horovitz\",\"Joseph(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "马克思，约瑟夫",
+   "en": "Marx\",\"Joseph(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容根，约瑟夫",
+   "en": "Jongen\",\"Joseph(比利时)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿克隆",
+   "en": "Akhron\",\"Joseph(立陶宛)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "约阿希姆",
+   "en": "Joachim\",\"Joseph(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卡利什斯坦",
+   "en": "Kalichststein\",\"Joseph(以色列)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层",
+   "en": "stratum\",\"story",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "故事语法",
+   "en": "story grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "故事分析",
+   "en": "story analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "叠生木栓",
+   "en": "storied cork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "讲好中国故事",
+   "en": "Tell China's stories",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诗话",
+   "en": "Criticism on Poetry / Shihua (Story-telling with Song and Speech)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词话",
+   "en": "Criticism on Ci Poetry / Cihua (Story-telling with Song and Speech)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传奇",
+   "en": "<p class=\"MsoNormal\"> <i>Chuanqi</i>&nbsp;(Legendary Story / Legendary Play)</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "10级风",
+   "en": "storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字商店",
+   "en": "digital store",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "11级风",
+   "en": "violent storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "键值存储",
+   "en": "key-value store",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm计算框架",
+   "en": "Storm computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm Trident方式框架",
+   "en": "Storm Trident framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国“网络风暴”演习",
+   "en": "Cyber Storm exercise (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "说书",
+   "en": "story telling",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0413",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国曲艺类型之一，“说书”类曲艺以叙事为主要审美特征，包括徒口讲说表演的评书评话类“大书”形式如北京评书、四川评书、湖北评书、苏州评话、扬州评话等，说唱相间表演的弹词鼓书和道情琴书类“小书”形式如苏州"
+  },
+  {
+   "cn": "五月风暴",
+   "en": "May storm",
+   "source": "马克思主义",
+   "wordNumber": "05.0217",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1968年5月，因一系列社会问题在法国巴黎所爆发的社会运动。整个过程，由学生运动开始，继而演变成社会危机，最后甚至导致政治危机,给法国社会带来了深远影响。"
+  },
+  {
+   "cn": "风暴时期的领袖",
+   "en": "leaders of storm periods",
+   "source": "马克思主义",
+   "wordNumber": "04.0084",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "实践精神很强但理论素养很弱的无产阶级领袖。斯大林在《列宁是俄国共产党的组织者和领袖》中指出：“历史上有过一些无产阶级领袖，风暴时期的领袖，实践家领袖，他们是有自我牺牲和勇敢精神的，但是理论上很弱。”他"
+  }
+ ],
+ "error": null,
  "raw": null
 }

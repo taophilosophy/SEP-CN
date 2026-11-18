@@ -1,0 +1,382 @@
+{
+ "key": "cartesian skepticism",
+ "term": "Cartesian skepticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:16:37+00:00",
+ "status": "ok",
+ "note": "variant=Cartesian skepticism; 审定公布名词库=35; 海峡两岸名词对照库=16; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "谨慎推理",
+   "en": "skeptical reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0032",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种非单调推理模式。只有当一个命题在所有非单调语义模型中为真时，才认为该命题为真。"
+  },
+  {
+   "cn": "笛卡儿坐标",
+   "en": "Cartesian coordinate",
+   "source": "物理学名词",
+   "wordNumber": "01.0345",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿坐标",
+   "en": "Cartesian coordinate",
+   "source": "化学名词",
+   "wordNumber": "04.1168",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "坐标系中若基向量方向不变的称为直线坐标系。基向量长度均为1的直线坐标系称为笛卡儿坐标系。基向量互相垂直的笛卡儿坐标系称为笛卡儿直角坐标系。人们经常把笛卡儿直角坐标系简称为笛卡儿坐标系。空间一点在笛卡儿"
+  },
+  {
+   "cn": "笛卡儿积",
+   "en": "Cartesian product",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "设A与B是两个集合， a与b分别是A与B的任意元素，由所有序偶*(a，b)组成的集合， 称为A与B的笛卡儿积。"
+  },
+  {
+   "cn": "笛卡儿坐标系",
+   "en": "Cartesian coordinate",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "二维平面坐标系统，该坐标系统以X量测水平距离，以Y量测垂直距离，在平面上的每个点均以X、Y坐标来定义。相对距离、面积和方向的测量在笛卡儿坐标平面都是不变的。"
+  },
+  {
+   "cn": "笛卡尔语言学",
+   "en": "Cartesian linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.053",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "受笛卡尔（René Descartes）的哲学思想影响的语言学理论。基本观点是世界上所有语言都以人类共有的思想结构为基础，语言能力是人类所特有的推理能力的一部分。"
+  },
+  {
+   "cn": "笛卡尔图",
+   "en": "Cartesian diagram",
+   "source": "数学名词",
+   "wordNumber": "04.1610",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿卵形线",
+   "en": "Cartesian oval",
+   "source": "数学名词",
+   "wordNumber": "08.0300",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿空间",
+   "en": "Cartesian space",
+   "source": "数学名词",
+   "wordNumber": "08.0204",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿积",
+   "en": "Cartesian product",
+   "source": "数学名词",
+   "wordNumber": "01.0099",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "审计职业怀疑",
+   "en": "audit professional skepticism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务时保持怀疑的一种态度。包括采取质疑的思维方式，对可能表明存在由于错误或舞弊而导致的错报的迹象保持警觉，以及对审计证据进行审慎评价。"
+  },
+  {
+   "cn": "直角坐标型机器人",
+   "en": "rectangular robot,Cartesian robot",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0982",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "运动自由度间成空间直角坐标关系的机器人。其工作空间为长方体。"
+  },
+  {
+   "cn": "直角坐标型机器人",
+   "en": "rectangular robot,Cartesian robot",
+   "source": "自动化名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "自流水斜地",
+   "en": "artesian monoclinal strata;artesian slope",
+   "source": "地质学名词",
+   "wordNumber": "16.01.156",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在盆地一侧由于含水层向深部逐渐尖灭或由于单斜含水层存在而形成承压水聚集的单斜储水构造。"
+  },
+  {
+   "cn": "自流水",
+   "en": "artesian water",
+   "source": "地质学名词",
+   "wordNumber": "16.01.095",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "承压水位高于当地地面，能自行喷出或溢出地表的地下水。"
+  },
+  {
+   "cn": "自流井",
+   "en": "artesian well",
+   "source": "地质学名词",
+   "wordNumber": "16.06.027",
+   "subjectFullName": "地质学_水文地质学_地下水利用与管理",
+   "subjectName": "地下水利用与管理",
+   "publishYear": "2026",
+   "definition": "承压水位高于地面，承压水自行涌出地表的井。"
+  },
+  {
+   "cn": "承压水",
+   "en": "artesian water",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0083",
+   "subjectFullName": "地球物理学_地壳流体科学_地下水类型",
+   "subjectName": "地下水类型",
+   "publishYear": "2022",
+   "definition": "地下充满两个隔水层之间含水层中的地下水。 "
+  },
+  {
+   "cn": "承压水层",
+   "en": "artesian aquifer",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0165",
+   "subjectFullName": "地球物理学_地壳流体科学_地下水",
+   "subjectName": "地下水",
+   "publishYear": "2022",
+   "definition": "两个隔水层之间水饱和的含水层。 "
+  },
+  {
+   "cn": "涌泉",
+   "en": "artesian spring",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0171",
+   "subjectFullName": "地球物理学_地壳流体科学_地下水",
+   "subjectName": "地下水",
+   "publishYear": "2022",
+   "definition": "在适宜的水文地质形条件下，承压水自然溢到地表的泉。 "
+  },
+  {
+   "cn": "笛卡儿坐标",
+   "en": "Cartesian coordinates",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿积",
+   "en": "Cartesian product",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿坐标系",
+   "en": "Cartesian coordinate",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿坐标",
+   "en": "Cartesian coordinates",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿积",
+   "en": "Cartesian product",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿坐标系",
+   "en": "Cartesian coordinate system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "直角坐标机器人",
+   "en": "rectangular robot\",\"Cartesian robot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笛卡儿直角坐标系",
+   "en": "rectangular Cartesian coordinate  system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "斜笛卡儿坐标系",
+   "en": "oblique Cartesian coordinates  system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自流含水层",
+   "en": "artesian aquifer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自流井",
+   "en": "artesian well",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自流水盆地",
+   "en": "artesian basin",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自流水盆地",
+   "en": "artesian basin",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝氏拟态",
+   "en": "Batesian mimicry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝氏拟态",
+   "en": "Batesian mimicry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贝氏拟态",
+   "en": "Batesian mimicry",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "有组织的怀疑",
+   "en": "organized skepticism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.9",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，指一种制度化的对科学家同行工作的批评态度，具体包括对已确立的规则、权威、既定程序的某些基础以及一般的神圣领域提出疑问。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

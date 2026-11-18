@@ -1,0 +1,802 @@
+{
+ "key": "gender equality",
+ "term": "gender equality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:40+00:00",
+ "status": "ok",
+ "note": "variant=gender equality; 审定公布名词库=2658; 海峡两岸名词对照库=776; 其他来源数据库=206; 预公布名词数据库=201; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "计划生育名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "在性别上，男女两方在政治、经济、地位等各个方面享有同等的权利和对待。"
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.003",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "男女两性存在的多种特征性差异。是生物学上对人类两性的区分。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.03",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "与“性”(sex,又译作生理性别)是一组对照词。女权主义理论家对西蒙波娃“女人不是天生的而是生成的”著名观点的理论回应，用来指称社会文化中形成的对男女差异的解释。20世纪70年代以来，女权主义理论用性"
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "行为医学名词",
+   "wordNumber": "3.094",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "雌雄异体多细胞生物的生殖类型。人类指男女两性的区别。"
+  },
+  {
+   "cn": "性",
+   "en": "gender",
+   "source": "语言学名词",
+   "wordNumber": "04.238",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "一种语法范畴。用词形变化来表现诸如阳性、阴性、中性，或有生命、无生命这类对比。作为语法范畴的性与真实世界的自然性别无关。例如，无生命物体没有性别之分，可是在俄语里，“桌子”属于阳性名词，“书”属于阴性"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "地理学名词",
+   "wordNumber": "24.045",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人的性别被从自然属性转变为文化属性，而成为社会角色。"
+  },
+  {
+   "cn": "等式",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0043",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相等",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0044",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.261",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)在模拟传输中，为了减少传输信号的线性失真，针对信道传递函数偏离其理想形状而进行的补偿过程。(2)在数字传输中，为了减少传输信道中因失真而导致符号间干扰的一种措施。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.579",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "实现均衡的器件。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.300",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "将瞬间要求确定的故障监控阈低值与依据不一致性要求确定的故障监控阈高值，进行综合均衡处理的技术措施。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.331",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_振动测量仪器_振动测量仪测试方法",
+   "subjectName": "振动测量仪测试方法",
+   "publishYear": "2003",
+   "definition": "调整电子放大器和控制系统的增益，使在所要求的频谱内，各输出的振幅与输入的信号幅值之比为常数。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "16.179",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均压线",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "07.202",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均衡梁",
+   "en": "equalizer",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0214",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电子学名词",
+   "wordNumber": "03.438",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sex,gender",
+   "source": "计划生育名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "男女两性存在的多种特征性差异。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.004",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "个体对自己是男性还是女性身份的认知。是性角色的内在体验。"
+  },
+  {
+   "cn": "性别不一致",
+   "en": "gender incongruence",
+   "source": "男科及性医学名词",
+   "wordNumber": "19.002",
+   "subjectFullName": "男科及性医学_性心理障碍",
+   "subjectName": "性心理障碍",
+   "publishYear": "2023",
+   "definition": "个体因为生理性别或与性别相关的身体特征与心理性别（即性别认同）不匹配而持续感到不适或痛苦的心理障碍。ICD-11已不再认为该类疾病是精神障碍性疾病，而被归入“与性健康相关的状况”中。"
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别一致性",
+   "en": "gender consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别发展",
+   "en": "gender development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别类型化，性别特征形成",
+   "en": "gender typing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别刻板印象",
+   "en": "gender stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别恒常性",
+   "en": "gender constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别稳定性",
+   "en": "gender stability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别心理学",
+   "en": "gender psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别地理学",
+   "en": "gender geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "等式约束",
+   "en": "equality constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "等二叉分枝，等二歧分枝",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等二歧分枝（=等二叉分枝）",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equal division",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡阀",
+   "en": "equalizing valve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡槽",
+   "en": "equalization tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压力平衡器",
+   "en": "pressure equalizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩相同",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据平权",
+   "en": "equal rights to data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字机会均等化",
+   "en": "Equalization of Digital Opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十二平均律",
+   "en": "The Twelve-tone Equal Temperament",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均无贫",
+   "en": "With Equality, There Is No Poverty.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见贤思齐",
+   "en": "When Seeing a Person of High Caliber, Strive to Be His Equal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法者天子所与天下公共也",
+   "en": "The Law Must Be Respected Equally by the Son of Heaven and All the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会医学名词",
+   "wordNumber": "3.12",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "两性在社会文化的建构下形成的性别特征和差异, 即社会文化形成的对男女差异的理解, 以及在社会文化中形成的属于男性或女性的群体特征和行为方式。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0218",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类社会在人的生理差异基础上建构出的两性文化差异。"
+  },
+  {
+   "cn": "社会性别化",
+   "en": "gendered",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "从社会性别视角出发，社会性别的建构无处不在，无论是社会结构、制度安排、文化规范还是个人身份认同、行为规范等，均具有社会性别意义。在男权社会和文化中，这一过程具有男性中心主导的倾向。"
+  },
+  {
+   "cn": "平等",
+   "en": "equality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.125",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间在经济、政治、文化等方面处于同等地位，具有同等发展机会，享有同等的权利。"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0219",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对男性、女性及具有其他社会性别属性认同者持有某些固定的成见。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "基于对性别的偏狭理解所导致的关于不同性别及其关系的不公正看法，通常与性别文化中形成的关于不同性别的刻板印象有关。"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "社会制度和文化规范中有关男女两性的不同分工和责任安排。比如多数社会中男性更多扮演公共的、养家糊口的角色，而女性更多扮演私人的、相夫教子的角色，由此决定了两性之间在家庭和社会中的不同地位。这种的角色分工"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "性别意识形态",
+   "en": "gender ideology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "大众文化中已上升为主流、占据主导地位的关于性别的认知和观念。包括性别规范中关于性别角色分工和价值地位的设定等，是推进性别平等或导致性别不平等的重要社会—文化因素。"
+  },
+  {
+   "cn": "性别关系",
+   "en": "gender relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别在社会中的互动性、互动形态及特质等。受性别观念、制度和文化等多重因素影响。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  },
+  {
+   "cn": "性别暴力",
+   "en": "gender violence",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.18",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别因素而对他人（包括异性和同性）实施的暴力行为，包括身体暴力、精神暴力、语言暴力、性暴力、经济控制、行为控制等多种形式。"
+  },
+  {
+   "cn": "性别建构论",
+   "en": "gender constructuralism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "一种后现代主义的性别观。反对关于生理性别、社会性别的二元区分，认为所有性别都是社会文化建构的产物，因而归根到底并不存在纯粹意义上的天然性别。性别的自然性和社会性的融合比它们之间的区分更有意义。"
+  },
+  {
+   "cn": "性别本质主义",
+   "en": "gender essentialism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "与性别建构论相对立的性别观，将社会性别归之于不同性别与生俱来、超越社会历史的一种天然本质，是基于生理差异而产生的稳定的、具有普适性的内在特质。女性主义的性别本质主义者往往强调妇女较之男性更具有天然优势"
+  },
+  {
+   "cn": "社会性别分析",
+   "en": "gender analysis",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义研究的一种基本工具和分析方法。通过对性别概念的重新诠释，试图将社会和知识构成中被边缘化或掩埋于无形的弱势性别群体经验和议题挖掘出来，在对原有知识框架中的性别偏见进行批判的基础上，构建起一个符合"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

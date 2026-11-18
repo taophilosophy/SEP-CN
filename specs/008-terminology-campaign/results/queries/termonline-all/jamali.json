@@ -2,10 +2,71 @@
  "key": "jamali",
  "term": "Jamāli",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:16:27+00:00",
- "status": "error",
- "note": "variant=Jamāli; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jamāli: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:34+00:00",
+ "status": "ok",
+ "note": "variant=Jamāli; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Li波",
+   "en": "Li wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0701",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "类似于Lg波但其存在不如 Lg波那样被广泛认可的一种可能与大陆地壳下部相联系的波，波速约 3.8km/s，比 Lg波略大(Lg波的速度约 3.5km/s)。 "
+  },
+  {
+   "cn": "芥毛",
+   "en": "famulus,famuli",
+   "source": "昆虫学名词",
+   "wordNumber": "11.411",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "具有光毛质鞘的中空小毛，向前指，终端形状有多种变化，毛基总是大而明显，多见于辐毛总目的第一对足跗节。"
+  },
+  {
+   "cn": "翅钩",
+   "en": "hamulus,hamuli (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "03.373",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "膜翅目昆虫后翅前缘上的一系列小钩，飞行时用以挂住前翅的后缘。"
+  },
+  {
+   "cn": "脉幅调制",
+   "en": "pulse-ampli tude modulation,PAM",
+   "source": "电子学名词",
+   "wordNumber": "03.232",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "芥毛",
+   "en": "famulus\",\"famuli(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "翅钩",
+   "en": "hamule\",\"hamulus\",\"hamuli(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  }
+ ],
+ "error": null,
  "raw": null
 }

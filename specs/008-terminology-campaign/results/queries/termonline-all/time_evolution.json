@@ -1,0 +1,772 @@
+{
+ "key": "time evolution",
+ "term": "time evolution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:55+00:00",
+ "status": "ok",
+ "note": "variant=time evolution; 审定公布名词库=5109; 海峡两岸名词对照库=1790; 其他来源数据库=374; 预公布名词数据库=296; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "时间演化算符",
+   "en": "time evolution operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0701",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.070",
+   "subjectFullName": "自然辩证法_总论_自然图景",
+   "subjectName": "自然图景",
+   "publishYear": "2024",
+   "definition": "事物朝向预期的目标演变或发展，从一种状态过渡到另一种状态的过程。19世纪以后，通常用来指生物进化，即一切生命形态发生、发展的演变过程。生物进化论正是基于这一观念而产生。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution ",
+   "source": "草学名词",
+   "wordNumber": "2.0093",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "动物学名词",
+   "wordNumber": "2.0211",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "动物从低级向高级、由简单到复杂、由水生到陆生等的演变过程。"
+  },
+  {
+   "cn": "演化",
+   "en": "evolution",
+   "source": "物理学名词",
+   "wordNumber": "09.1286",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "植物学名词",
+   "wordNumber": "02.0151",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物物种为了适应时间和空间的改变，在形态结构和遗传组成上与祖先有所差异的现象。"
+  },
+  {
+   "cn": "演化",
+   "en": "evolution",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0058",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由于投资者学习而使其在不同的投资期内表现出不同的投资偏好、信念等特征渐进的变化和发展过程。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "遗传学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "在选择压力下，生物群体的遗传组成随时间而发生优胜劣汰的改变，并导致相应的表型的改变。在大多数情况下，这种改变使生物适应其生存环境。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "生态学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "生物的演化过程。生物与其生存环境相互作用，其遗传结构发生改变，并产生相应的表型。"
+  },
+  {
+   "cn": "露旋",
+   "en": "evolute",
+   "source": "动物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "有孔虫房室平旋式壳生成的一种方式。彼此不包裹，可见所有房室，所有旋圈在两侧外露，可从两侧看到初房。"
+  },
+  {
+   "cn": "渐屈线",
+   "en": "evolute",
+   "source": "数学名词",
+   "wordNumber": "08.0957",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量子式进化",
+   "en": "quantum evolution,tachytelic evolution",
+   "source": "遗传学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "处于不平衡状态的生物群体较快地变到明显不同于其祖先的平衡状态，在短时间内迅速完成一些重大的进化。"
+  },
+  {
+   "cn": "星系演化",
+   "en": "galaxy evolution; galactic evolution",
+   "source": "天文学名词",
+   "wordNumber": "07.246",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在宇宙时标上，星系的密度、光度和其他特征量变化的过程。"
+  },
+  {
+   "cn": "岩浆演化",
+   "en": "magmatic evolution",
+   "source": "地质学名词",
+   "wordNumber": "04.01.041",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "原生岩浆通过各种地质变化产生不同的派生岩浆，进而生成不同类型火成岩的演变过程。可分为两类：封闭体系的演化(如结晶分异作用、熔离作用、气体搬运作用、分离结晶作用等)和开放体系的演化(包括岩浆混合作用和同"
+  },
+  {
+   "cn": "地球化学演化",
+   "en": "geochemical evolution",
+   "source": "地质学名词",
+   "wordNumber": "13.01.052",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地球形成演化过程中，各圈层物质的化学组成、物理状态在时空上的变化规律。"
+  },
+  {
+   "cn": "植被演化",
+   "en": "vegetation evolution",
+   "source": "地质学名词",
+   "wordNumber": "08.03.010",
+   "subjectFullName": "地质学_第四纪地质学_第四纪古生态学",
+   "subjectName": "第四纪古生态学",
+   "publishYear": "2026",
+   "definition": "随着地球上自然地理环境的变迁，植物界中占优势地位的类型逐渐被另一类植物所取代的变化过程。"
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "农学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "在进化过程中因突变、重组、转位和染色体结构重排而引起的基因或基因组序列不断变化的过程。"
+  },
+  {
+   "cn": "微进化",
+   "en": "micro-evolution",
+   "source": "农学名词",
+   "wordNumber": "06.020",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "在较短时期内，由于突变、选择、基因流和遗传漂变导致群体内等位变异发生的改变。"
+  },
+  {
+   "cn": "宏进化",
+   "en": "macro-evolution",
+   "source": "农学名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "种及种以上水平的进化关系。如禾本科物种间的进化关系。"
+  },
+  {
+   "cn": "基因组进化",
+   "en": "genome evolution",
+   "source": "农学名词",
+   "wordNumber": "06.022",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "基因组大小和结构变化的历史。如基因组复制、重组、大片段PAV的形成及染色体融合等。"
+  },
+  {
+   "cn": "进化，演化",
+   "en": "evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化（=进化）",
+   "en": "evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演变",
+   "en": "evolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化,演化",
+   "en": "evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化， 演化",
+   "en": "evolution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进化,演化",
+   "en": "evolution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发展",
+   "en": "evolution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "爆发式进化",
+   "en": "explosive evolution\",\"eruptive evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "退行进化,退行演化",
+   "en": "regressive evolution\",\"retrogressive evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爆发式进化",
+   "en": "explosive evolution\",\"eruptive evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子式进化",
+   "en": "quantum evolution\",\"tachytelic evolution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "跳跃式进化（=量子[式]进化）",
+   "en": "saltational evolution (=quantum evolution)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断进化",
+   "en": "punctuated evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐进式进化",
+   "en": "progressive evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化压",
+   "en": "evolution pressure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合进化",
+   "en": "combinatorial evolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据进化论",
+   "en": "data evolution theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天演",
+   "en": "evolution",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过自由竞争，社会和群体进一步适应环境，产生有利于物种、智力和精神的变异，发展出更高阶段的现象。严复译自赫胥黎《进化论与伦理学》中的evolution，但是综合了斯宾塞的社会进化论和儒家的体用、气、神"
+  },
+  {
+   "cn": "社会演化",
+   "en": "social evolution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会被认为是像生物有机体那样合乎规律地由简单到复杂、由低级向高级发展。一种把生物进化概念应用于社会研究，进而解释社会变迁与发展的社会学概念。"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilateral evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "认为人类所有文化基于单一的发展路线，并以同样的发展模式划分不同的发展阶段进行排序的理论。这一理论的代表有拉伯克(J.Lubbock）、马瑞特(Robert R.Marett）等。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "一般进化",
+   "en": "general evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0581",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“特殊进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。一般进化即人类文化依据某种绝对尺度从"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilineal evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0499",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，文化进化的动因是单一的，过程是由一阶段到另一阶段的单一发展，由简单到复杂、由原始到高级的直线进化，同文化的发展基本上都经历相同的顺序。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "文化进化",
+   "en": "cultural evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0036",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类文化由简单到复杂、由低级到高级逐渐演变进化的过程。"
+  },
+  {
+   "cn": "多线进化论",
+   "en": "multiline evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0577",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian Haynes Steward）提出“多线进化”来解释文化间的差异和相似的问题，目的是寻求文化变迁的原因。该观点认为由于世界上的多种生态环境，形成了世界多种文化形态及"
+  },
+  {
+   "cn": "生物进化论",
+   "en": "biological evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种物种起源假说，由法国博物学家布封（Georges Louis Leclere de Buffon）和生物学家拉马克（Jean-Baptiste Lamarck）最早提出，英国生物学家达尔文（Cha"
+  },
+  {
+   "cn": "法律的演化",
+   "en": "evolution of law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "法律随着社会发展而发生变化的过程。"
+  },
+  {
+   "cn": "抵制和平演变",
+   "en": "resist peaceful evolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0498",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "和平演变是20世纪50年代初美国的国务卿杜勒斯提出的对社会主义国家的一种“超越遏制战略”，以促使社会主义国家崩溃瓦解。毛泽东在1959年提出防止和平演变战略问题，并一直强调这个问题,号召共产党人同这种"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "马克思主义",
+   "wordNumber": "01.0027",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的持续性、顺序性和间隔性，时间具有一维性，即不可逆性。"
+  },
+  {
+   "cn": "防止和平演变",
+   "en": "preventing the peaceful evolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0157",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "防止西方国家运用价值观、意识形态、生活方式影响和改变社会主义中国。帝国主义搞和平演变是一项长期战略。邓小平称这是一场“没有硝烟”的战争。要防止和平演变就要把我们的军队教育好，把我们的专政机构教育好，把"
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个体在面对不同时间点的收益或损失时，倾向于高估近期收益、低估远期收益的现状，适用于疾病经济负担评估中一些时间跨度长的评估。"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.19",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用辐照的方式进行消毒的作用时间。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

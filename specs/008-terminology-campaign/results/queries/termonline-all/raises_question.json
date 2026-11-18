@@ -1,0 +1,772 @@
+{
+ "key": "raises question",
+ "term": "raises question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:16:41+00:00",
+ "status": "ok",
+ "note": "variant=raises question; 审定公布名词库=500; 海峡两岸名词对照库=113; 其他来源数据库=55; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "天井",
+   "en": "raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0569",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "连接上，下两个水平的垂直或倾斜的通道。用于下放矿石或废石，提升和下放设备、工具、材料，通风，行人以及用于充填等。"
+  },
+  {
+   "cn": "反向凿井",
+   "en": "raising",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.174",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷掘进",
+   "subjectName": "井巷掘进",
+   "publishYear": "1996",
+   "definition": "由下向上掘凿井筒。"
+  },
+  {
+   "cn": "上山",
+   "en": "rise,raise",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.075",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "位于开采水平以上,为本水平或采区服务的倾斜巷道。"
+  },
+  {
+   "cn": "偏芯",
+   "en": "core raised",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.416",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸件质量",
+   "subjectName": "铸件质量",
+   "publishYear": "2021",
+   "definition": "由于型芯在金属液作用下漂浮移动，铸件内孔位置偏错，使形状、尺寸不符合要求的缺陷。"
+  },
+  {
+   "cn": "空铺地面",
+   "en": "raised flooring",
+   "source": "建筑学名词",
+   "wordNumber": "09.0234",
+   "subjectFullName": "建筑学_建筑设计_建筑构造",
+   "subjectName": "建筑构造",
+   "publishYear": "2014",
+   "definition": "将地面的面层架空铺设在结构层上的地面。"
+  },
+  {
+   "cn": "升高甲板",
+   "en": "raised deck",
+   "source": "船舶工程名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "部分升高的一段甲板。多设于内河船的艏、艉部。"
+  },
+  {
+   "cn": "突起分隔带",
+   "en": "raised separator",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.448",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "升高肋板",
+   "en": "raised floor",
+   "source": "航海科技名词",
+   "wordNumber": "08.0237",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "抬型",
+   "en": "cope raise",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.404",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸件质量",
+   "subjectName": "铸件质量",
+   "publishYear": "2021",
+   "definition": "浇注过程中，由于金属液的浮力，使上型或砂芯局部或全部抬起，铸件高度增加，在分型面部位产生厚大的披缝的现象。"
+  },
+  {
+   "cn": "爬罐",
+   "en": "raise climber",
+   "source": "冶金学名词",
+   "wordNumber": "02.1143",
+   "subjectFullName": "冶金学_采矿_矿山机电",
+   "subjectName": "矿山机电",
+   "publishYear": "2019",
+   "definition": "沿井壁导轨爬行升降罐式平台进行凿岩和装药爆破作业的天井掘进机械。"
+  },
+  {
+   "cn": "分支天井",
+   "en": "branch raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0572",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "在不同分段水平与主溜井相连通的分支斜溜井。"
+  },
+  {
+   "cn": "吊罐",
+   "en": "raise cage",
+   "source": "冶金学名词",
+   "wordNumber": "02.1142",
+   "subjectFullName": "冶金学_采矿_矿山机电",
+   "subjectName": "矿山机电",
+   "publishYear": "2019",
+   "definition": "用绞车在上部水平通过中心钻孔悬吊升降平台，进行凿岩和装药爆破作业的天井掘进机械。"
+  },
+  {
+   "cn": "设备井",
+   "en": "equipment raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0769",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "在一个阶段范围内吊装采掘设备进出各个分段的垂直井筒。"
+  },
+  {
+   "cn": "充填井",
+   "en": "filling raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0512",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "用于溜放充填材料的竖井或斜井。也可用于储存干式充填材料。"
+  },
+  {
+   "cn": "电梯井",
+   "en": "elevator raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0768",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "在一阶段范围内供人员进出各个分段并装有轿厢的垂直井筒。"
+  },
+  {
+   "cn": "采场天井",
+   "en": "stope raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0758",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "为矿块的人行、通风和运料等目的服务的，与运输水平和通风巷道连通的垂直或倾斜巷道。"
+  },
+  {
+   "cn": "切割天井",
+   "en": "slot raise",
+   "source": "冶金学名词",
+   "wordNumber": "02.0760",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "用于形成切割槽的垂直巷道。"
+  },
+  {
+   "cn": "天井钻机",
+   "en": "raise drill",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.127",
+   "subjectFullName": "水利科学技术_水利工程施工_施工机械（水利）",
+   "subjectName": "施工机械（水利）",
+   "publishYear": "1997",
+   "definition": "利用旋转钻进破岩成孔并能反向扩孔的井筒开挖机械。"
+  },
+  {
+   "cn": "生产区",
+   "en": "raising area",
+   "source": "畜牧学名词",
+   "wordNumber": "02.347",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜牧场饲养畜禽的主要场所。包括畜舍、饲料调制和贮存建筑物(包括饲料加工间、青贮塔、青贮壕、干草棚等)。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "fund raising",
+   "source": "电力名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "企业为进行生产建设和经营活动而筹措和集中所需资金的工作。"
+  },
+  {
+   "cn": "超高曲线",
+   "en": "raised curve",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "升余弦",
+   "en": "raised cosine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "沉船打捞",
+   "en": "wreck raising",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "升正弦波频谱",
+   "en": "raised sine spectrum",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高位沼泽",
+   "en": "high-moor\",\"raised bog",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升余弦滚降滤波器",
+   "en": "raised cosine-rolloff filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "升余弦脉波形状",
+   "en": "raised cosine pulse shape",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉升高甲板船",
+   "en": "raised quarter-deck vessel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沉船打捞",
+   "en": "raising of a wreck",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浮筒打捞",
+   "en": "raising with salvage pontoons",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "充塞泡沫塑料打捞",
+   "en": "raising by injection plastic foam",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封舱抽水打捞",
+   "en": "raising by sealing patching and pumping",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压气排水打捞",
+   "en": "raising by dewatering with compressed air",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索常数",
+   "en": "quest constant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排遗",
+   "en": "egestion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排泄",
+   "en": "excretion\",\"egestion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "狂犬病",
+   "en": "rabies",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "举手",
+   "en": "raise the hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搭弓",
+   "en": "raise the bow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举棍",
+   "en": "raise the stick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举起杠铃",
+   "en": "lift the barbell\",\"raise the barbell",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强收治能力",
+   "en": "to raise the hospital admission capacity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强农惠农富农",
+   "en": "strengthen agriculture, benefit farmers, and raise rural living standards",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弓把",
+   "en": "handle\",\"riser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丧礼",
+   "en": "Mourning Rites",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散在病例/散发病例",
+   "en": "sporadic cases ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疑似病例",
+   "en": "suspected cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症",
+   "en": "severe cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "射礼",
+   "en": "Rites of Archery",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意识觉醒小组",
+   "en": "consciousness-raising group",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "美国在20世纪60-70年代女权运动中流行的一种组织活动方式。妇女们聚在一起讲述自己的生活经历、遭遇的不公以及抗争，进而使她们长期受蒙蔽和受压抑的自我无意识得以觉醒，实现自我赋权。"
+  },
+  {
+   "cn": "公募基金会",
+   "en": "public raising foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "面向公众募捐的基金会。按照募捐的地域范围，分为全国性公募基金会和地方性公募基金会。全国性公募基金会的公开募捐活动可以在全国范围内开展，地方性公募基金会的公开募捐活动只能在登记注册地行政区域内开展。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "非公募基金会",
+   "en": "non-public raising foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "不可以直接面向公众募捐的基金会。一般由企业或个人出资或筹募资金来成立和运作。"
+  },
+  {
+   "cn": "龙抬头",
+   "en": "Dragon Head Raising Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0184",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统节日，节期在农历二月初二，“龙抬头”意味着阳气生发、万物生机盎然。故自古以来，人们在龙抬头时节，会举行敬龙祈雨、放生，以求一年吉祥丰收，并将龙抬头时节作为一个纳祥转运的日子。中国民间有剃龙头、"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "群众",
+   "en": "masses",
+   "source": "马克思主义",
+   "wordNumber": "03.0140",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "当泛称“人民群众”时，它是一个与英雄史观相对应的概念。唯物史观认为在人类社会发展过程中对社会进步起决定论推动作用的是广大人民群众。杰出人物、英雄人*物或领袖人物顺应历史潮流能发挥推动作用，但不能单独改"
+  },
+  {
+   "cn": "从群众中来到群众中去",
+   "en": "from the masses to the masses",
+   "source": "马克思主义",
+   "wordNumber": "01.0251",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的领导方法和工作方法，党的群众路线的重要内容。从认识论上说，也是调查研究的过程。将群众的分散的无系统的意见集中起来，经过研究，化为集中的系统的意见，又到群众中去作宣传解释，化为群众的意见，使"
+  },
+  {
+   "cn": "四大危险",
+   "en": "four risks",
+   "source": "马克思主义",
+   "wordNumber": "03.0785",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是精神懈怠的危险，能力不足的危险，脱离群众的危险，消极腐败的危险。这四大危险，充分表明中国共产党的忧患意识，以及加强党的先进性和纯洁性建设的自觉意识"
+  },
+  {
+   "cn": "门诊病例数",
+   "en": "outpatient cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定期间一定区域内，在门诊就诊的患某种疾病的人数。"
+  },
+  {
+   "cn": "包装气体",
+   "en": "packaging gases",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "在填充食品之前、过程中或之后装入容器内，用于保护食品（如防止氧化或腐坏）的气体。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "社区病例数",
+   "en": "community cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定期间一定区域内，在社区中患某种疾病的人数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

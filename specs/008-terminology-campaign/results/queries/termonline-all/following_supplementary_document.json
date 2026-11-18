@@ -1,0 +1,802 @@
+{
+ "key": "following supplementary document",
+ "term": "following supplementary document",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:28:14+00:00",
+ "status": "ok",
+ "note": "variant=following supplementary document; 审定公布名词库=476; 海峡两岸名词对照库=135; 其他来源数据库=48; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "被领导者",
+   "en": "follower",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.112",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "在组织共同活动中处于被管理地位的人员。是执行决策方案、命令、任务，实现组织传播目标的具体执行者。"
+  },
+  {
+   "cn": "从板",
+   "en": "follower",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0573",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "［人工］补光",
+   "en": "supplementary lighting",
+   "source": "农学名词",
+   "wordNumber": "14.184",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "自然光照不能满足作物生产时，人为增加光照的行为。"
+  },
+  {
+   "cn": "辅助授粉",
+   "en": "supplementary pollination",
+   "source": "农学名词",
+   "wordNumber": "06.265",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "克服异花授粉植物因环境条件限制而降低传粉和受精的措施。"
+  },
+  {
+   "cn": "补火",
+   "en": "supplementary firing",
+   "source": "农学名词",
+   "wordNumber": "17.273",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "在制品茶或需匀堆装箱(袋)的茶叶的最后一道干燥。"
+  },
+  {
+   "cn": "补充采访",
+   "en": "supplementary interview",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.059",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在初次采访完成后，因发现材料有误、遗漏了较重要内容或者报道对象在采访后发生了较大改变而再次对原采访对象进行的采访。"
+  },
+  {
+   "cn": "补记",
+   "en": "supplementary note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.086",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "一般置于正文后或卷末，进一步阐明正文主旨或交代其他事项的辅文。"
+  },
+  {
+   "cn": "补订",
+   "en": "supplementary subscription",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.097",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "订户因故未能在期刊收订截止前订到期刊，到邮局申请补办订阅的行为。"
+  },
+  {
+   "cn": "补充草地",
+   "en": "supplementary pasture ",
+   "source": "草学名词",
+   "wordNumber": "2.0525",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "附属草地",
+   "en": "supplementary grassland ",
+   "source": "草学名词",
+   "wordNumber": "3.0021",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "补播机",
+   "en": "supplementary seeder ",
+   "source": "草学名词",
+   "wordNumber": "6.0459",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "补充口孔",
+   "en": "supplementary aperture",
+   "source": "动物学名词",
+   "wordNumber": "5.0232",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "位于有孔虫口面或缘周的次生口孔。根据发育位置可分为面补充口孔、壳缘补充口孔、脐部残留口孔、缝合线次生口孔。"
+  },
+  {
+   "cn": "副须",
+   "en": "supplementary bristle",
+   "source": "动物学名词",
+   "wordNumber": "6.024",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鸟纲",
+   "subjectName": "鸟纲",
+   "publishYear": "2021",
+   "definition": "鸟类头部除嘴须以外的成排小须。依着生部位可分鼻须、颏须等。"
+  },
+  {
+   "cn": "补助饲喂",
+   "en": "supplementary feeding",
+   "source": "畜牧学名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "对缺少蜂蜜的蜂群喂以大量高浓度的蜂蜜或糖浆，使蜂群免于饥饿，维持正常生活。方法有补助蜜脾、饲喂蜂蜜和饲喂白糖等。"
+  },
+  {
+   "cn": "附属资本",
+   "en": "supplementary capital",
+   "source": "经济学名词",
+   "wordNumber": "12.172",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "银行资本基础中扣除核心资本之外的其他资本成分。是衡量银行资本充足状况的指标。"
+  },
+  {
+   "cn": "附加绝缘",
+   "en": "supplementary insulation",
+   "source": "电力名词",
+   "wordNumber": "26.040",
+   "subjectFullName": "电力_用电安全",
+   "subjectName": "用电安全",
+   "publishYear": "2020",
+   "definition": "基本绝缘之外使用的独立绝缘。可在基本绝缘损坏的情况下仍有效地防止电击。"
+  },
+  {
+   "cn": "增刊",
+   "en": "supplementary issue",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.158",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "报刊逢纪念日或有某种需要时增加的篇幅或另出的册子。增刊的主管单位、主办单位和刊号都与正常周期出版的刊物完全一致。大众期刊的增刊一般用来出版专刊、合集或纪念特刊。学术期刊通常把一些具有相当水准，但又无法"
+  },
+  {
+   "cn": "补充要素",
+   "en": "supplementary element",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0860",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "提供附加信息以帮助理解或使用标准的要素。包括标准的资料性附录、参考文献和索引等。"
+  },
+  {
+   "cn": "补充教育",
+   "en": "supplementary education",
+   "source": "教育学名词",
+   "wordNumber": "05.225",
+   "subjectFullName": "教育学_比较教育_俄罗斯教育",
+   "subjectName": "俄罗斯教育",
+   "publishYear": "2013",
+   "definition": "通过实施补充教育大纲，提供补充教育服务而开展的基本教育大纲之外的教育教学过程。含补充普通教育和补充职业教育两部分。系俄罗斯国民教育体系新增加成分。具有国家认证资质的补充教育机构可颁发国家统一样式的毕业"
+  },
+  {
+   "cn": "辅助润滑",
+   "en": "supplementary lubrication",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0492",
+   "subjectFullName": "机械工程_动力机械_内燃机_润滑系统",
+   "subjectName": "润滑系统",
+   "publishYear": "2013",
+   "definition": "任何起辅助作用的用以增加润滑发动机零件的润滑油供给量的润滑方法。"
+  },
+  {
+   "cn": "补充观测",
+   "en": "supplementary observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附加股息，增发股息",
+   "en": "supplementary dividend",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加融资",
+   "en": "supplementary financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加投标",
+   "en": "supplementary bid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加投入",
+   "en": "supplementary input",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "补充曝光",
+   "en": "supplementary exposure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "补充业务，附加业务",
+   "en": "supplementary service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助集",
+   "en": "supplementary set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助平面",
+   "en": "supplementary plane",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加维修",
+   "en": "supplementary maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副须(鸟)",
+   "en": "supplementary bristle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "副齿",
+   "en": "supplementary tooth",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辅助片",
+   "en": "supplementary plate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "补充报告",
+   "en": "supplementary report",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "顺浪",
+   "en": "following sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随浪",
+   "en": "following sea",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后继丛",
+   "en": "follower constellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲线跟随器",
+   "en": "curve follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射极输出器",
+   "en": "emitter follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天线跟踪器",
+   "en": "antenna follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加停顿",
+   "en": "supplementary stop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的跟随者",
+   "en": "authorized follower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“回头看，，",
+   "en": "follow-up checks",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随球",
+   "en": "follow the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随行车",
+   "en": "escort car\",\"following van",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按规定路线进行比赛",
+   "en": "follow the prescribed course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "XML文件",
+   "en": "XML document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档存储",
+   "en": "document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档数据库",
+   "en": "document database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  随访和复诊",
+   "en": "follow-up and subsequent visits",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "继足",
+   "en": "follow-foot stepping\",\"tsugi-ashi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "follow a wheel\",\"take shelter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "榜样学习",
+   "en": "following example",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学习、崇敬和模仿某种理想人格，指导支配自身的言行。榜样一般由社会主流文化提倡或塑造，符合某种政治要求、道德标准和社会效益。"
+  },
+  {
+   "cn": "健康随访",
+   "en": "health follow-up",
+   "source": "社会医学名词",
+   "wordNumber": "7.13",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康随访",
+   "publishYear": "2025",
+   "definition": "专业人员对个体或群体的健康状况开展的持续性追踪观察访问，旨在评估健康状况、干预效果及疾病转归，并进行保健指导的一种服务方式。"
+  },
+  {
+   "cn": "后续跟进安排",
+   "en": "follow-up plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结案后社会工作者对于服务对象相关事宜的安排。一般来说，社会工作者要根据实际需要与服务对象讨论结案后的跟进事宜，并选择适合服务对象的跟进方式。"
+  },
+  {
+   "cn": "辅食引入",
+   "en": "introduction of supplementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿6月龄后，随着对营养素需要量的增加，以及消化系统功能发育和心理行为发育的需要，逐渐添加母乳或配方奶之外其他富含能量和各种营养素的半固体食物（泥状食物）和固体食物的实践。"
+  },
+  {
+   "cn": "医学随访",
+   "en": "medical follow-up observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.24",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "以发现电离辐射远后效应为目的，对受到超剂量限值照射者和意外辐射事故照射者进行系统的长期医学追踪观察。"
+  },
+  {
+   "cn": "失访",
+   "en": "lost to follow-up",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "随访期间，研究对象由于迁走、不愿继续参与研究、死于其他疾病或意外等原因脱离了观察，导致其结局资料缺失的现象。"
+  },
+  {
+   "cn": "标准跟踪评价",
+   "en": "standard follow-up evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.43",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "了解食品安全标准实施情况、听取各方意见建议并进行分析和研究,提出标准实施和标准修订相关建议的过程。"
+  },
+  {
+   "cn": "预防接种不良反应",
+   "en": "adverse events following immunization,AEFI",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.5.2.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "在预防接种后发生的怀疑与预防接种有关的反应或事件。"
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "标准化文件",
+   "en": "standardizing document",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "通过标准化活动制定的文件。"
+  },
+  {
+   "cn": "护理文件",
+   "en": "nursing document",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.018",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士在护理活动中形成的文字、符号、图表等资料的总和。是护士对患者进行病情观察、实施护理治疗措施的原始文件记载。"
+  },
+  {
+   "cn": "氡跟踪测量",
+   "en": "follow-up measurement of radon",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "一种对筛选测量中发现的可能超标的房屋进行的验证式的氡浓度测量程序，以确定被测房屋的氡浓度是否符合国家标准规定的水平，为可能进行的干预和治理提供依据。"
+  },
+  {
+   "cn": "早产儿随访管理",
+   "en": "follow-up management of preterm infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.7.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "对早产儿开展的儿童保健系统管理，包括体格检查、生长发育监测、预见性指导和其它综合干预技术。"
+  },
+  {
+   "cn": "核损害补充赔偿公约",
+   "en": "Convention on Supplementary Compensation for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.14",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1997年12月举行的国际原子能机构第41届大会上获得通过的全球性法律文件。其主要目的是建立一个独立的、全球性的核损害补充赔偿机制，规定了一个额外的资金筹集制度，补充有关缔约国国内法规定可获得的赔偿。"
+  },
+  {
+   "cn": "体内污染者医学随访",
+   "en": "medical follow up for the internal-contaminated person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.42",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对受到放射性核素内污染量大于5个年摄入量限值的工作人员，除采取有关的治疗措施外，需要进行长期医学随访观察，以便更早发现或预防可能的远期健康危害。"
+  },
+  {
+   "cn": "计划经济为主市场调节为辅",
+   "en": "leading role of the planned economy and the supplementary role of market regulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0396",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党第十二次全国代表大会确立的经济体制改革的重要原则。在这一原则下，由指令性计划和指导性计划构成的计划经济是主要部分和手段；市场调节被纳入计划经济的总框架内运行，是计划经济的补充，处于从属地位。"
+  },
+  {
+   "cn": "孕产期保健系统管理规范",
+   "en": "regulation document for systematic management of maternal healthcare",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "用于明确各级卫生行政部门和各级妇幼保健机构在孕产期保健工作中的管理职能，强调各级各类医疗保健机构在孕产期保健工作网络中的职责与功能的规范文件。"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  },
+  {
+   "cn": "流动浸泡消毒",
+   "en": "flowing immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "用流动的消毒液对污染物品进行浸泡的处理。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

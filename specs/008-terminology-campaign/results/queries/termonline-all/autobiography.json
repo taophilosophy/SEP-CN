@@ -1,0 +1,32 @@
+{
+ "key": "autobiography",
+ "term": "Autobiography",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:11:20+00:00",
+ "status": "ok",
+ "note": "variant=Autobiography; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "教师自传",
+   "en": "teacher autobiography",
+   "source": "教育学名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师对自我教育、教学、教研和教管等经历的叙述或记载。"
+  },
+  {
+   "cn": "自传",
+   "en": "autobiography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "某人关于自己的生活的讲述或档案记录。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

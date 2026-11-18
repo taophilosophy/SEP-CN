@@ -2,10 +2,31 @@
  "key": "jamgyal rinpoche",
  "term": "Jamgyal Rinpoche",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:23:57+00:00",
- "status": "error",
- "note": "variant=Jamgyal Rinpoche; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jamgyal Rinpoche: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:41+00:00",
+ "status": "ok",
+ "note": "variant=Jamgyal Rinpoche; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "阿穆亚尔",
+   "en": "Amoyal\",\"Pierre(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大司徒仁波切",
+   "en": "Tai Situ Rinpoche",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0532",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派活佛转世系统称号，1407 年噶举派高僧却吉坚参（第一世）被明成祖封为“广定大司徒”，这一名称遂被沿用。“大司徒”源于梵文Mahāsiddhas 的译语，意为“大成就者”，此活佛体系被认"
+  }
+ ],
+ "error": null,
  "raw": null
 }

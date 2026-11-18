@@ -1,0 +1,672 @@
+{
+ "key": "ethical judgments",
+ "term": "ethical judgments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:06+00:00",
+ "status": "ok",
+ "note": "variant=ethical judgments; 审定公布名词库=176; 海峡两岸名词对照库=8; 其他来源数据库=36; 预公布名词数据库=165; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "判断力",
+   "en": "judgment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物、信息的分析决断能力。"
+  },
+  {
+   "cn": "自我判断",
+   "en": "self-judgment",
+   "source": "行为医学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体为自己行为确立某个目标，以此来判断自己的行为与“标准”之间的差距，并引起肯定或否定自我评价的过程。"
+  },
+  {
+   "cn": "道威判据",
+   "en": "Dove judgment",
+   "source": "光学名词",
+   "wordNumber": "14.275",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "一个定义光学系统分辨能力的判据，即两个相邻像点之间的衍射斑中心距为0.85倍的艾里斑半径时，这两个点恰好被光学系统分辨。"
+  },
+  {
+   "cn": "专家判断",
+   "en": "expert judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0246",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "根据在应用领域、知识领域、专业学科、行业等的专长对于当前活动提供的适当判断。"
+  },
+  {
+   "cn": "审美判断",
+   "en": "aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对审美对象给予美丑等评价的心理过程。"
+  },
+  {
+   "cn": "专家判断法",
+   "en": "expert judgment",
+   "source": "药学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "向具有特定专业知识的人征求意见的方法。通常采用小组座谈的方式，其目的在于当某些变量难以获得时，利用专家经验做出快速评估。"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "教育学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "依据一定的道德行为准则对自己或他人的行为作出是非、善恶评定的逻辑思维形式。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "审计职业判断",
+   "en": "audit professional judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0352",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在审计准则、财务报告编制基础和职业道德要求的框架下，审计师综合运用相关知识、技能和经验，做出的适合审计业务具体情况的、有根据的行动决策。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体通过知觉感悟或理性论证，对特定观赏对象的审美特性和价值进行分析和概括的审美思维过程。它不同于逻辑认知判断和道德判断，是一种具有审美主体的情感因素和个性特征的主观判断。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0034",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "伦理可行性",
+   "en": "ethical feasibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "自然辩证法_科技伦理_高技术伦理",
+   "subjectName": "高技术伦理",
+   "publishYear": "2024",
+   "definition": "通常用于工程技术领域，指对工程技术项目的规则和方案各环节进行系统的伦理评估论证。以保证能够达到预期目的。现代工程技术特别是高技术的伦理可行性分析必须考虑项目计划对环境可持续性、生命安全、生活质量、公平"
+  },
+  {
+   "cn": "道德困境",
+   "en": "ethical dilemmas",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.046",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "道德行为主体必须要在两种或两种以上的道德情境中做出一种选择，这些道德情境涉及道德规范、道德需求或者道德利益的冲突，使行为主体陷入两难困境，往往非此即彼。比较典型的道德困境包括“囚徒困境”“电车困境”等"
+  },
+  {
+   "cn": "伦理评估",
+   "en": "ethical assessment",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.082",
+   "subjectFullName": "自然辩证法_科技伦理_科技伦理教育",
+   "subjectName": "科技伦理教育",
+   "publishYear": "2024",
+   "definition": "对可能出现的伦理问题和伦理风险进行预测和评价，并且基于评估的结果采取相应的防范措施和手段。包括预测性的伦理评估和阶段性的伦理评估。"
+  },
+  {
+   "cn": "伦理咨询",
+   "en": "ethical consultation",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.111",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "医院伦理委员会通过识别、分析、论证临床伦理问题，为医护人员、患者及家属的临床决策提供伦理建议与帮助的程序。以预防医患冲突或纠纷，疏解当事人的临床困惑，促进医患和谐，提高医疗服务质量。"
+  },
+  {
+   "cn": "伦理氛围",
+   "en": "ethical climate",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0269",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织结构与文化",
+   "subjectName": "组织结构与文化",
+   "publishYear": "2016",
+   "definition": "组织气氛的一个重要维度，是内部成员对于什么是符合伦理的行为以及如何解决伦理困境的一致性认知。"
+  },
+  {
+   "cn": "伦理行为",
+   "en": "ethical behavior",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0016",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "在人际活动、职业关系和商务工作中以诚实、公平和公正的方式行事。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境判断测验",
+   "en": "situational judgment test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判断",
+   "en": "judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "韵律诗篇歌",
+   "en": "metrical psalm",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "度量摄影测量",
+   "en": "metrical photogrammetry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "裁定",
+   "en": "judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge\",\"referee\",\"judgment\",\"refereeing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运用之妙，存乎一心",
+   "en": "The Skillful Use of Tactics Depends on the Thinking and Judgment of the Commander.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国互联网行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Internet Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the AI Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.031",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "根据道德标准或道德直觉判定自己或他人行为及其结果的善恶与道德责任的过程。是对道德现象作出断定的思维活动。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "伦理绝对主义",
+   "en": "ethical absolutism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1520000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人的道德观念、道德情感、道德情操和道德品质源于永恒不变的神性、理性或人的自然性，是绝对完美的；否定道德发展的相对性、历史性、民族性和进步性，主张建立一种适用于一切历史时代和一切民族的绝对的道德真理"
+  },
+  {
+   "cn": "伦理性宗教",
+   "en": "ethical religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.8",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "以伟大导师所形成的价值理想或模范、伦理约束力为核心的宗教，佛教、儒教和道教被认为是其典型。"
+  },
+  {
+   "cn": "伦理两难",
+   "en": "ethical dilemmas",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "当专业核心价值观和伦理守则中对专业人员的责任与义务要求发生相互之间冲突的情形时，社会工作者必须决定何种价值优先考虑而出现的困难。常见的有：为案主保守秘密与生命价值优先原则；个人价值与职业价值之间、个人"
+  },
+  {
+   "cn": "伦理社会主义",
+   "en": "ethical socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0328",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于德国的一种以康德唯心主义伦理思想为基础的“社会主义”学说。主要代表人物是新康德主义者赫尔曼·柯亨（（Hermann Cohen）等。认为社会由低级到高级的发展不是不同的社会制度的更替,"
+  },
+  {
+   "cn": "伦理困境",
+   "en": "ethical dilemma",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.063",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在特定的伦理境遇下，依据不同的伦理学理论、原则和规范，存在相互矛盾的解决方案而面临的困境。是不同道德体系冲突的集中反映。"
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "伦理客观主义",
+   "en": "ethical objectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1540000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用客观主义观点认识和解释道德现象、道德本质的伦理学理论。认为道德现象的产生与道德判断是独立于人的，与人们的需要、利益没有任何关联。"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "伦理相对主义",
+   "en": "ethical relativism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.153",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德现象的认识、理论和评价没有绝对的对与错，只有因立场不同、条件差异而相互对立的伦理学理论。在涉及伦理困境的境遇中，这种理论有一定的适用性。其实质是主观唯心主义的，不承认道德的历史继承性，最终会导"
+  },
+  {
+   "cn": "伦理主观主义",
+   "en": "ethical subjectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.155",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用主观主义观点认识和解释道德本质与道德判断的伦理观点。认为道德是人的精神产物，道德判断必须以人们对各种道德现象的反映方式、道德心理为基础。"
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "伦理学体系",
+   "en": "ethical system",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.004",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "伦理学范畴、理论、原则、规范、准则及伦理实践的统一体。"
+  },
+  {
+   "cn": "伦理评价",
+   "en": "ethical evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.036",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准，对行为进行善恶判断或褒贬的活动。主要通过社会舆论、内心信念、传统习俗等途径来实现，对人具有道德激励和道德谴责的作用。是促使道德主体将道德观念转化为道德实践的重要环节。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

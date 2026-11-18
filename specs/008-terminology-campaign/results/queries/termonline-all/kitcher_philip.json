@@ -2,10 +2,531 @@
  "key": "kitcher, philip",
  "term": "Kitcher, Philip",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T06:04:33+00:00",
- "status": "error",
- "note": "variant=Kitcher, Philip; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kitcher, Philip: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:33:06+00:00",
+ "status": "ok",
+ "note": "variant=Kitcher, Philip; 审定公布名词库=125; 海峡两岸名词对照库=49; 其他来源数据库=32; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "菲利普王之战",
+   "en": "King Philip's War",
+   "source": "世界历史名词",
+   "wordNumber": "03.0004",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1675-1677年马萨诸塞殖民地的印第安人反抗英国殖民者的战争，因其领导人被英国人称为“菲利普王”而得名。"
+  },
+  {
+   "cn": "腓力二世改革",
+   "en": "Reforms of Philip II of Macedonia",
+   "source": "世界历史名词",
+   "wordNumber": "02.0362",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "马其顿国王腓力二世(公元前359-前336年在位)进行的全面改革。"
+  },
+  {
+   "cn": "瓶状叶",
+   "en": "pitcher",
+   "source": "植物学名词",
+   "wordNumber": "03.0196",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "食虫植物形如瓶状的变态叶。瓶内具消化昆虫的消化液。如猪笼草。"
+  },
+  {
+   "cn": "厨房",
+   "en": "kitchen",
+   "source": "建筑学名词",
+   "wordNumber": "02.0043",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "加工制作及烹饪食品的炊事用房。"
+  },
+  {
+   "cn": "开沟机",
+   "en": "ditcher",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0460",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "厨房",
+   "en": "kitchen",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0757",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "菲莱号彗星着陆器",
+   "en": "Philae",
+   "source": "天文学名词",
+   "wordNumber": "06.566",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "欧洲空间局搭载罗塞塔号彗星探测器的人类首颗彗星着陆器。2014年在楚留莫夫-格拉希门克彗星的彗核软着陆，三天后进入休眠状态。"
+  },
+  {
+   "cn": "工业厨房",
+   "en": "industrial kitchen",
+   "source": "建筑学名词",
+   "wordNumber": "02.0909",
+   "subjectFullName": "建筑学_建筑类型及组成_工业建筑",
+   "subjectName": "工业建筑",
+   "publishYear": "2014",
+   "definition": "大规模、机械化加工和生产为庞大人群供应正餐份饭、盒饭的建筑空间。"
+  },
+  {
+   "cn": "营养厨房",
+   "en": "dietary kitchen",
+   "source": "建筑学名词",
+   "wordNumber": "02.0591",
+   "subjectFullName": "建筑学_建筑类型及组成_医疗卫生建筑",
+   "subjectName": "医疗卫生建筑",
+   "publishYear": "2014",
+   "definition": "为住院病人制作食品的厨房。"
+  },
+  {
+   "cn": "厨房辩论",
+   "en": "Kitchen Debate",
+   "source": "世界历史名词",
+   "wordNumber": "05.0492",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1959年7月，赫鲁晓夫与到访的美国副总统尼克松在莫斯科就共产主义和资本主义经济体系的优劣进行的辩论。"
+  },
+  {
+   "cn": "厨房电器",
+   "en": "kitchen appliance",
+   "source": "电气工程名词",
+   "wordNumber": "23.066",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "厨房车",
+   "en": "kitchen car",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0735",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "皱折",
+   "en": "pincher",
+   "source": "冶金学名词",
+   "wordNumber": "09.1149",
+   "subjectFullName": "冶金学_金属加工_产品缺陷",
+   "subjectName": "产品缺陷",
+   "publishYear": "2019",
+   "definition": "钢板表面上形成的不规则皱纹及波浪形折皱。"
+  },
+  {
+   "cn": "补节机",
+   "en": "patcher",
+   "source": "林学名词",
+   "wordNumber": "11.700",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "用于单板或板材节子修补的专用设备。主要是单板的补节。"
+  },
+  {
+   "cn": "反铲[挖掘机]",
+   "en": "backhoe [shovel],ditcher",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.260",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_露天采矿机械",
+   "subjectName": "露天采矿机械",
+   "publishYear": "1996",
+   "definition": "铲斗背向上安装在斗臂前端，主要用于下挖的单斗挖掘机。"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0847",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一类构成细菌菌毛的纤维状蛋白质。通过N端的长α螺旋组装成多聚体结构。常见于革兰氏阴性细菌表面。参与细菌附着于宿主细胞表面或细菌之间遗传物质的传递等过程。"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "source": "微生物学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "以亚基形式线性重复构成菌毛的蛋白质。"
+  },
+  {
+   "cn": "抖动器",
+   "en": "dither",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.185",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "菲利普斯曲线",
+   "en": "Phillips curve",
+   "source": "经济学名词",
+   "wordNumber": "07.033",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "1958年，菲利普斯通过考察1861—1957年间英国的失业率和货币工资增长率之间的关系，发现二者之间存在一种此消彼长的负相关关系。新古典综合派经济学家据此推演出失业率和通货膨胀率之间的负相关关系，即"
+  },
+  {
+   "cn": "菲力普斯曲线",
+   "en": "Phillips curve",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.228",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "表明失业与通货膨胀相互关系的一种曲线。"
+  },
+  {
+   "cn": "拉德克利夫",
+   "en": "Radcliffe\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格拉斯",
+   "en": "Glass\",\"Philip(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克兰默",
+   "en": "Cranmer\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "坎农",
+   "en": "Cannon\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "苏萨",
+   "en": "Sousa\",\"John Philip(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "瓶状叶",
+   "en": "pitcher",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "齐特尔琴",
+   "en": "zither",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "施皮塔",
+   "en": "Spitta\",\"Philipp(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "菲利普",
+   "en": "Philipp\",\"Isidor(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "菌毛蛋白，伞毛蛋白",
+   "en": "pilin\",\"fimbrillin",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "盐捕集器",
+   "en": "salt catcher",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "费歇尔投影式",
+   "en": "Fischer projection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "岩芯捕捉器",
+   "en": "core catcher",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "费歇尔投影式",
+   "en": "Fischer projection",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获能腔",
+   "en": "catcher resonator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "克里格，约翰·菲利普",
+   "en": "Krieger\",\"Johann Philipp(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特勒曼",
+   "en": "Telemann\",\"Georg Philipp(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颤动信号",
+   "en": "dither signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "费歇尔卡宾配合物",
+   "en": "Fischer carbene complex",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投手",
+   "en": "pitcher",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能厨房",
+   "en": "smart kitchen",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "败战投手",
+   "en": "losing pitcher",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获胜投手",
+   "en": "winning pitcher",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先发投手",
+   "en": "starter\",\"starting pitcher",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "候援投手",
+   "en": "relief pitcher\",\"reliefer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守门员鞋",
+   "en": "kicker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球手",
+   "en": "catcher\",\"receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卫星厨房",
+   "en": "satellite kitchen",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.33",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "依托于配餐公司的中央厨房，统一的采购、检测、储藏、生产和运输配送，就近提供配餐的一种新模式。"
+  },
+  {
+   "cn": "中央厨房",
+   "en": "central kitchen",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.32",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "由餐饮单位建立的，具有独立场所及设施设备，集中完成食品成品或者半成品加工制作并配送的食品经营者。"
+  },
+  {
+   "cn": "明厨亮灶",
+   "en": "see-through kitchen",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "餐饮服务提供者采用透明、视频等方式，向社会公众展示餐饮服务相关过程的一种形式。"
+  },
+  {
+   "cn": "另起炉灶",
+   "en": "set up a separate kitchen",
+   "source": "马克思主义",
+   "wordNumber": "03.0500",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年春提出的一项外交方针。与“打扫干净屋子再请客”“一边倒”，共同构成新中国成立初期三大外交方针。周恩来在解释“另起炉灶”时说：“就是不承认国民党政府同各国建立的旧的外交关系,而要在新的"
+  }
+ ],
+ "error": null,
  "raw": null
 }

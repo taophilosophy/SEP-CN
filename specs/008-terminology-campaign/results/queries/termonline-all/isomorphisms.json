@@ -1,0 +1,342 @@
+{
+ "key": "isomorphisms",
+ "term": "isomorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:22:12+00:00",
+ "status": "ok",
+ "note": "variant=isomorphisms; 审定公布名词库=64; 海峡两岸名词对照库=12; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.179",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体结构中某些质点(离子、原子或分子)被其他类似的质点代替，仅使晶格常数发生不大的变化，而结构形式并不改变的现象。影响元素位置置换能力的因素包括离子类型及键能、离子或原子半径、原子价数、置换的能量效应"
+  },
+  {
+   "cn": "同[晶]形性",
+   "en": "isomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0501",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "两个数学对象之间双向唯一且保持对象结构不变的映射。"
+  },
+  {
+   "cn": "类质同晶型",
+   "en": "isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1893",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "晶体中的原子、离子被相似性质的原子、离子彻底取代或部分取代后，其组分原子、键型和物理化学性质皆相似，晶体结构型式相同(晶胞参数仅微小变动)的现象。"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "药学名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "化学组成类似的不同物质形成结构相同或很相近似的晶体的现象。"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0118",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0132",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "形态学上类似并且有相同形状和结构的物体、物质或机体。"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism,allomerism",
+   "source": "地质学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.182",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，相互替代的离子的电价相等。"
+  },
+  {
+   "cn": "异价类质同象",
+   "en": "heterovalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.183",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，由电价不等的离子(原子)进行置换所形成的类质同象。由于异价替代将引起电荷不平衡，必须采用成对替代以保持电价平衡，这种替代方式又称耦合替代。"
+  },
+  {
+   "cn": "极性类质同象",
+   "en": "polarity isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.184",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在形成类质同象混晶时，元素间的置换具有一定方向性而极少成反方向置换关系的现象。"
+  },
+  {
+   "cn": "补偿类质同象",
+   "en": "compensation isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.185",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "当形成类质同象混晶时，介质中形成某晶体的某种元素浓度不足时,由介质中性质近似的其他元素以类质同象置换方式进入晶格进行补偿的现象。"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0775",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定两个图<img src='/root/syzx/static/spz/jsjkx3.02.0775.001.png'/>，若它们的顶点集合<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "反类质同晶",
+   "en": "anti-isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1894",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在离子晶体结构中，处在非等当位置的正负离子，替换为电价绝对值不变、电价符号相反的其他离子，而晶体结构型式不变的现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "化学名词",
+   "wordNumber": "05.0834",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "相同共聚物链或不同均聚物链之间，不同组成重复单元的共晶现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0222",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "共聚物链内或链间，或不同均聚物链间，不同重复单元形成共晶的现象。"
+  },
+  {
+   "cn": "序同构",
+   "en": "order isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0222",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "格同构",
+   "en": "lattice isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0243",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶同构",
+   "en": "dual isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0249",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群同构",
+   "en": "group isomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1763",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网同构",
+   "en": "net isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图的非同构",
+   "en": "graph non-isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形世代交替",
+   "en": "isomorphic alternation of generations",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多重同晶置换",
+   "en": "multiple isomorphous replacement\",\"MIR",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图同构的交互式证明系统",
+   "en": "graph isomorphism interactive proof system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形反应",
+   "en": "isomorphic response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.15",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "原本外观正常的皮肤在创伤、搔抓、针刺或手术等刺激后发生银屑病皮损的现象。主要见于银屑病，特别是病情活动期或急性加重期。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

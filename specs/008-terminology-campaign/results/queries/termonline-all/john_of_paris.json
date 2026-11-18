@@ -2,10 +2,701 @@
  "key": "john of paris",
  "term": "John of Paris",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:59:53+00:00",
- "status": "error",
- "note": "variant=John of Paris; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "John of Paris: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:04+00:00",
+ "status": "ok",
+ "note": "variant=John of Paris; 审定公布名词库=10000; 海峡两岸名词对照库=7490; 其他来源数据库=1834; 预公布名词数据库=2690; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "动物学名词",
+   "wordNumber": "5.2061",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "蔓足类甲壳动物壳板的中间部分。"
+  },
+  {
+   "cn": "巴黎和约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0392",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "法国与反法联盟成员国于1814年、1815年两次签订的和平条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1783年9月3日，北美殖民地与英国在巴黎签署的结束美国独立战争的和平条约，英国承认美国的独立。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟",
+   "subjectName": "欧洲联盟",
+   "publishYear": "2012",
+   "definition": "1951年4月18日，法国、西德、意大利、荷兰、卢森堡、比利时在巴黎签署的建立欧洲煤钢共同体的条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1856年2月为结束克里米亚战争签署的条约。"
+  },
+  {
+   "cn": "巴黎起义",
+   "en": "Paris Uprising of 1944",
+   "source": "世界历史名词",
+   "wordNumber": "03.0558",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1944年7月，巴黎人民解放首都的武装起义。"
+  },
+  {
+   "cn": "巴黎绿",
+   "en": "Paris green",
+   "source": "风景园林名词",
+   "wordNumber": "08.1082",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "用砷和铜的化合物制成的颜料。具有翡翠绿颜色的结晶粉末。于空气中对光和热都稳定，对酸和碱不稳定，遇硫化氢变黑。可做杀虫剂、木材防腐剂和颜料。"
+  },
+  {
+   "cn": "巴黎分型",
+   "en": "Paris classification",
+   "source": "消化内镜学名词",
+   "wordNumber": "14.076",
+   "subjectFullName": "消化内镜学_食管疾病_食管肿瘤和肿瘤样病变",
+   "subjectName": "食管肿瘤和肿瘤样病变",
+   "publishYear": "2021",
+   "definition": "消化道早期癌形态学经典分型方法。早期食管癌内镜下主要分为隆起型（0-Ⅰ型）、平坦型（0-Ⅱ型）和凹陷型（0-Ⅲ型）。用于初步评估病变的浸润深度和内镜下的可切除性。"
+  },
+  {
+   "cn": "巴黎原则",
+   "en": "Paris Principles",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.354",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "1961年10月9日至18日国际图书馆协会联合会（IFLA）主持的在巴黎召开的会议上通过的“原则声明”的统称。规定了目录的职能与结构、款目的种类、各种款目的职能与使用、标目的选择等。"
+  },
+  {
+   "cn": "巴黎学派",
+   "en": "Paris school",
+   "source": "心理学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "强调催眠等心理现象的生理、病理原因的学派。以沙尔科(J. M. Charcot)、雅内(P. Janet)为代表。"
+  },
+  {
+   "cn": "巴黎协定",
+   "en": "Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0457",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1973年1月，美国同越南三方在巴黎签订的协议。"
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "世界历史名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1871年普法战争期间，巴黎工人阶级于3月18日革命后建立的政权。是世界上第一个工人阶级政权。"
+  },
+  {
+   "cn": "重楼",
+   "en": "paris root",
+   "source": "中医药学名词",
+   "wordNumber": "06.477",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "百合科植物云南重楼"
+  },
+  {
+   "cn": "帕里斯公式",
+   "en": "Paris formula",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "约翰·洛克",
+   "en": "John Locke（1632—1704）",
+   "source": "经济学名词",
+   "wordNumber": "16.003",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "英国哲学家，古典政治经济学产生时期的经济学家。出生于英国西南部一个律师和清教徒家庭。曾求学于威斯敏斯特公学。1652年进入牛津大学基督学院，1658年获该校硕士学位并留校教授道德哲学。1666年起卷入"
+  },
+  {
+   "cn": "伦敦—巴黎协定",
+   "en": "London-Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0451",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1954年10月，美英等国为重新武装德国接纳其加入北约而签订的协定。"
+  },
+  {
+   "cn": "巴黎和会",
+   "en": "Paris Peace Conference",
+   "source": "世界历史名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "①第一次世界大战结束后胜负双方于1919年1月在巴黎举行的和平会议。②1946年7月反法西斯同盟国为同德国的盟国签署和约在巴黎召开的国际会议。"
+  },
+  {
+   "cn": "建筑石膏",
+   "en": "plaster of Paris,calcined gypsum",
+   "source": "土木工程名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "土木工程_工程材料_石灰、石膏",
+   "subjectName": "石灰、石膏",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "词对轮排",
+   "en": "paried keyword permutation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.785",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "将标引语句中的入口词进行两两组合构成词对，将每个词对进行有序排列，轮流作为主标题和副标题的一种索引款目排列方法。"
+  },
+  {
+   "cn": "约翰·康芒斯",
+   "en": "John R.Commons（1862—1945）",
+   "source": "经济学名词",
+   "wordNumber": "16.047",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "美国经济学家，制度学派早期代表人物。出生于美国俄亥俄州。1885年获奥伯林学院法学博士学位。1888—1932年先后执教于约翰·霍普金斯大学、奥伯林学院、印第安纳大学、锡腊丘兹大学、威斯康星大学。代表"
+  },
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎交响曲集",
+   "en": "Paris Symphonies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "巴黎俱乐部[即十国集团]",
+   "en": "Paris Club",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎证券交易所",
+   "en": "Paris Bourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "麦科马克",
+   "en": "McCormack\",\"John(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布朗宁",
+   "en": "Browning\",\"John(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "哈比森",
+   "en": "Harbison\",\"John(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "祖伯特",
+   "en": "Joubert\",\"John(南非)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "邓斯泰布",
+   "en": "Dunstable\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比尔德",
+   "en": "Beard\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱尔兰",
+   "en": "Ireland\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布尔，约翰",
+   "en": "Bull\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普里查德",
+   "en": "Pritchard\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道兰",
+   "en": "Dowland\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "米尔顿",
+   "en": "Milton\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科里利亚诺",
+   "en": "Corigliano\",\"John(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "麦凯布",
+   "en": "McCabe\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾迪生",
+   "en": "Addison\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "凯奇，约翰",
+   "en": "Cage\",\"John(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥格登",
+   "en": "Ogdon\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点顺序",
+   "en": "order of arrival\",\"order of finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺少练习",
+   "en": "lack of practice\",\"lack of training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逃剑",
+   "en": "absence of blade\",\"absence of contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "order of calling\",\"order of lifting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾空期",
+   "en": "moment of suspension\",\"period of suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0400",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月法国巴黎的无产阶级和革命群众举行反对资产阶级统治的武装起义并建立的无产阶级政府。1871年3月28日巴黎公社宣告成立。它是无产阶级专政的第一次尝试，实施了一系列带有社会主义性质的措施，但"
+  },
+  {
+   "cn": "约翰牛",
+   "en": "John bull",
+   "source": "马克思主义",
+   "wordNumber": "04.0036",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原是18世纪英国作家约翰·阿布什诺特（John Arbuthnot）在《约翰·布尔的历史》中所创造的形象——一个矮胖愚笨的绅士，用来讽刺当时辉格党的战争政策。由于“布尔”在英文中是牛的意思，故译为“约"
+  },
+  {
+   "cn": "巴黎公社革命",
+   "en": "Paris Commune Revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0217",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月18日法国巴黎无产阶级推翻资产阶级、建立工人政权的第一次伟大尝试。起义者选举产生了巴黎公社委员会，采取了一系列社会主义性质的措施。由于种种原因革命失败。马克思在《法兰西内战》一书中系统地"
+  },
+  {
+   "cn": "巴黎公社原则",
+   "en": "Principles of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0252",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年巴黎公社革命中工人阶级创造的、反映无产阶级革命运动中带有普遍意义的基本经验。马克思认为，巴黎公社的基本原则是无产阶级必须打碎资产阶级的国家机器，建立自己的革命专政。工人阶级不能简单地掌握现成"
+  },
+  {
+   "cn": "巴黎公社一周年纪念大会",
+   "en": "First Anniversary Commemoration of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0475",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1872年3月18日，“国际”会员和前公社社员以及前来参会的工人群众聚集在巴黎公社流亡者协会住所，隆重地举行了纪念巴黎公社革命一周年大会。会议通过了马克思在1872年3月13—18日起草的《巴黎公社一"
+  },
+  {
+   "cn": "巴黎国际社会主义者代表大会",
+   "en": "International Socialist Workers Congress  in Paris",
+   "source": "马克思主义",
+   "wordNumber": "04.0485",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1889年7月14日(法国大革命攻占巴士底监狱一百周年纪念日)在巴黎举行的国际社会主义者代表大会。出席大会的有22个国家的393名代表，其中很多人是各国工人运动的活动家和领导人。恩格斯因为忙于《资本论"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "source": "马克思主义",
+   "wordNumber": "05.0306",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1993年10月22日成立。该党宣称是苏联的摩尔达维亚苏维埃社会主义共和国共产党的继承党。该党以马克思、恩格斯、列宁、布哈林、葛兰西等理论家所阐释的马克思主义为指导思想。致力于恢复摩尔多瓦的经济、巩固"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "source": "马克思主义",
+   "wordNumber": "05.0310",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "南斯拉夫社会主义时期执政党，前身为1919年成立的南斯拉夫共产党，1952年改称为“南斯拉夫共产主义者联盟”。在铁托领导下坚持社会主义自治制度和不结盟外交政策。1990年南共联盟宣告解散。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "犯罪功能论",
+   "en": "theory of functions of crime",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的关于犯罪作用的理论。他认为犯罪不仅是社会中的正常现象，而且也是社会所需要的现象。犯罪在社会中发挥着重要的功能，对社会的进步起着有益的作用，主要表"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

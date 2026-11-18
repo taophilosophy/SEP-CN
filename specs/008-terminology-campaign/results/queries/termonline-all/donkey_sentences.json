@@ -1,0 +1,782 @@
+{
+ "key": "donkey sentences",
+ "term": "donkey sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:27:15+00:00",
+ "status": "ok",
+ "note": "variant=donkey sentences; 审定公布名词库=252; 海峡两岸名词对照库=161; 其他来源数据库=26; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关中驴",
+   "en": "Guanzhong donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.464",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属大型驴品种。毛色以黑色为主，栗色和青色次之。公驴平均体高一般在140cm左右，母驴平均体高137cm左右。主产于陕西省关中地区。"
+  },
+  {
+   "cn": "德州驴",
+   "en": "Dezhou donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.465",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属大型驴品种。毛色有“黑三粉”和“乌头”两种。公驴平均体高135cm，母驴平均体高140cm左右。产于山东省北部平原。"
+  },
+  {
+   "cn": "晋南驴",
+   "en": "Jinnan donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.466",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属大型驴品种。毛色以黑色有“三白”特征为主。公驴平均体高一般在134cm左右，母驴平均体高130cm左右。产于山西省南部运城市和临汾市。"
+  },
+  {
+   "cn": "广灵驴",
+   "en": "Guangling donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.467",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属大型驴品种。毛色以“黑五白”为主。公驴平均体高一般在133cm左右，母驴平均体高127cm左右。产于山西省广灵县、灵丘县。"
+  },
+  {
+   "cn": "佳米驴",
+   "en": "Jiami donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.468",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "乘挽驮兼用型。属中型驴品种。毛色以黑燕皮色为主。公驴平均体高127cm，母驴平均体高124cm左右。产于陕西省佳县、米脂县、绥德县。"
+  },
+  {
+   "cn": "泌阳驴",
+   "en": "Biyang donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.469",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽用型。属中型驴品种。毛色以黑色有“三白”特征为主。体高一般在119cm左右。产于河南省泌阳县。"
+  },
+  {
+   "cn": "庆阳驴",
+   "en": "Qingyang donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.470",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属中型驴品种。毛色以黑色为主。公驴平均体高139cm，母驴平均体高131cm左右。产于甘肃省庆阳市、平凉市。"
+  },
+  {
+   "cn": "新疆驴",
+   "en": "Xinjiang donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.471",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "驮用型。属小型驴品种。毛色以白青色或白色毛中夹有红褐色毛和黑色毛为主。体高一般在100cm左右。产于新疆维吾尔自治区塔里木绿洲。"
+  },
+  {
+   "cn": "华北驴",
+   "en": "Huabei donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.472",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "乘挽驮兼用型。属小型驴品种。毛色以灰色为主。体高一般在110cm以下。产于黄河中下游、淮河和海河流域。"
+  },
+  {
+   "cn": "阳原驴",
+   "en": "Yangyuan donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.474",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "役肉兼用型。属中型驴品种。毛色以黑色为主。公驴体高在133cm，母驴体高在123cm左右。产于河北省桑干河和洋河流域。"
+  },
+  {
+   "cn": "太行驴",
+   "en": "Taihang donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.475",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "驮挽兼用型。适于山区地理环境和粗放管理的小型驴品种。毛色以浅灰色居多，粉黑色和黑色次之，眼耳腹部有“三白”。体高一般在104～114cm。产于太行山区和燕山山区。"
+  },
+  {
+   "cn": "临县驴",
+   "en": "Linxian donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.476",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。属中型驴品种。毛色以黑色为主。体高一般在124cm左右。产于山西省临县。"
+  },
+  {
+   "cn": "库伦驴",
+   "en": "Kulun donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.477",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "乘挽驮兼用型。属小型驴品种。毛色以黑色、灰色为多，眼口腹部有“三白”特征。公驴体高在121cm，母驴体高在110cm左右。产于内蒙古自治区库伦旗和奈曼旗。"
+  },
+  {
+   "cn": "苏北驴",
+   "en": "Subei donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.479",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "役肉兼用型。属小型驴品种。毛色多以灰色、黑色为主。体高一般在120cm左右。产于江苏省连云港市、徐州市、宿迁市。"
+  },
+  {
+   "cn": "云南驴",
+   "en": "Yunnan donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.480",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "役肉兼用型。属山地小型驴品种。是我国体格最小的驴种之一。毛色以灰色、栗色为主。体高一般在93cm左右。产于云南省大理白族自治州、楚雄彝族自治州、丽江市等地。"
+  },
+  {
+   "cn": "陕北驴",
+   "en": "Shaanbei donkey",
+   "source": "畜牧学名词",
+   "wordNumber": "03.481",
+   "subjectFullName": "畜牧学_家畜家禽品种_地方驴品种",
+   "subjectName": "地方驴品种",
+   "publishYear": "2020",
+   "definition": "挽驮兼用型。分为山地型和沙地型两个类型。属善走山路与沙路的小型驴品种。毛色以黑色为主。体高一般在112cm左右。产于陕西省榆林市北部和延安市北部地区。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅锅炉",
+   "en": "donkey boiler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅锅炉",
+   "en": "auxiliary boiler\",\"donkey boiler",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马传染性贫血驴白细胞活疫苗",
+   "en": "equine infectious anemia donkey leukocyte live vaccine",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三统历",
+   "en": "Three Sequences Calendar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蜜胃，蜜囊",
+   "en": "honey stomach\",\"honey sac",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "保证金",
+   "en": "security money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保证金",
+   "en": "warrant money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "本国货币",
+   "en": "home money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球运动",
+   "en": "field hockey\",\"hockey",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红客",
+   "en": "Honker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轮滑球",
+   "en": "rink-hockey\",\"roller hockey",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球运动员",
+   "en": "hockey player\",\"hockeyist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广义货币供应量",
+   "en": "Broad Money",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狭义货币供应量",
+   "en": "Money Supply",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用货币",
+   "en": "credit money",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可编程货币",
+   "en": "programmable money",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际曲棍球联合会",
+   "en": "International Hockey Federation\",\"FIH",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱",
+   "en": "anti-money laundering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络洗钱",
+   "en": "online money laundering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱工具",
+   "en": "anti-money laundering instrument",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情景转账",
+   "en": "scenario-based money transfer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱监管",
+   "en": "anti-money laundering supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "货币",
+   "en": "money",
+   "source": "马克思主义",
+   "wordNumber": "02.0068",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "固定充当一般等价物的商品，是在商品交换过程中从多种特殊商品中分离出来具有特殊职能的商品。货币具有价值尺度、流通手段、贮藏手段、支付手段和世界货币五种职能。"
+  },
+  {
+   "cn": "蜂蜜",
+   "en": "honey",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.1",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "蜜蜂采集植物的花蜜、分泌物或蜜露，与自身分泌物混合后，经充分酿造而成的天然甜味，主要成分为葡萄糖、果糖及各种维生素、矿物质、氨基酸等。"
+  },
+  {
+   "cn": "主币与辅币",
+   "en": "standard money and subsidiary money",
+   "source": "马克思主义",
+   "wordNumber": "02.0079",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "主币即“本位货币”，是一种国家法定的计价、结算货币单位。与“主币”相对应，是国家发行的、本位货币单位以下的小额货币，多用铜、镍等贱金属或其合金铸造，专供零星交易或找补零头之用。马克思也称之为银记号或铜"
+  },
+  {
+   "cn": "蜂蜜糊精",
+   "en": "honey dextrin",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.26",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "蜂蜜中天然在的果糖低聚物，与高浓度乙醇混合后析出。"
+  },
+  {
+   "cn": "纸币",
+   "en": "paper money",
+   "source": "马克思主义",
+   "wordNumber": "02.0078",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由国家发行的、作为法定流通手段的货币符号，是由货币执行流通手段的职能中产生的。纸币本身并没有价值，它是代表金银货币执行流通手段这一货币职能的。纸币的发行限于它象征地代表的金（或银）的实际流通的数量。"
+  },
+  {
+   "cn": "世界货币",
+   "en": "universal money",
+   "source": "马克思主义",
+   "wordNumber": "02.0086",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一，货币越出国内流通领域在世界市场和各国之间的国际支付周转中起一般等价物的作用。充当世界货币的只能是直接以重量计算的金或银，不能是价值不足的铸币，也不能是没有价值的纸币。"
+  },
+  {
+   "cn": "货币工资",
+   "en": "money wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0149",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“实物工资”相对应。即以货币形式支付的工资。由于物价变动等因素，货币工资的变动与用货币工资所能买到的生活资料数量的变动并不一定完全一致。因此，货币工资只能是名义工资，不能确切地反映工人的实际生活水平"
+  },
+  {
+   "cn": "货币资本",
+   "en": "money capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0183",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以货币形式存在的资本。资本在反复循环中不断变换形式来增殖自己的价值。资本价值作为这一过程增殖着的主体，首先需要一个独立的形式。只有在货币形式上它才具有这种独立形式。货币资本是每个价值增殖运动过程的起点"
+  },
+  {
+   "cn": "货币经济",
+   "en": "money economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0184",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以与货币交换为特征的经济形式。它属于商品经济的范畴。货币经济是一切商品生产所共有的，随着商品经济的发展而产生和发展。"
+  },
+  {
+   "cn": "货币地租",
+   "en": "money rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0276",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以货币形式缴纳的地租，是封建地租的一种形式。货币地租下，直接生产者的产品的一部分必须当作商品来出售，农民对市场的依赖增加。货币地租促进了自然经济的瓦解和商品经济的发展，是封建地租的最后形式和解体形"
+  },
+  {
+   "cn": "货币拜物教",
+   "en": "money fetishism",
+   "source": "马克思主义",
+   "wordNumber": "04.0008",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由商品拜物教发展而来。是把物在社会生产过程中获得的社会经济性质变为一种自然的、由这些物质本性产生的性质。货币出现之后，商品经济的社会关系，又进一步被物的外衣所掩盖。货币可以买到任何商品，由此造成一种假"
+  },
+  {
+   "cn": "蜂蜜胶体",
+   "en": "honey colloid",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.27",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "在蜂蜜中分散均匀且稳定存在不能被沉淀析出的蛋白质、蜂蜡、戊聚糖等形成的胶体质颗粒。"
+  },
+  {
+   "cn": "多花种蜂蜜",
+   "en": "multifloral honey",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.5",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集两种或两种以上植物的花蜜或分泌物酿造的蜂蜜，或两种及以上单花种蜂蜜的混合物。"
+  },
+  {
+   "cn": "单花种蜂蜜",
+   "en": "monofloral honey",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.4",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂主要采集一种植物的花蜜或分泌物酿造的蜂蜜。"
+  },
+  {
+   "cn": "成熟蜂蜜",
+   "en": "ripe honey",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.2",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "经蜜蜂充分酿造，贮存在封盖的巢房内含水量在18%以下的蜂蜜或从中分离出来的蜂蜜。"
+  },
+  {
+   "cn": "蜂蜜酸度",
+   "en": "honey acidity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.28",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "在规定的条件下，与中和100 克蜂蜜中酸性物质所消耗的碱性物质相当的氢离子的量（以毫摩尔计）。"
+  },
+  {
+   "cn": "未成熟蜂蜜",
+   "en": "unripe honey",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.3",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "贮存在封盖的巢房内尚在酿造的蜂蜜或从中分离出来的分离蜜。"
+  },
+  {
+   "cn": "蜂蜜掺假",
+   "en": "honey adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.30",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "天然蜂蜜中加入淀粉类糖浆（大米糖浆、玉米糖浆、羧甲基纤维素）等替代材料或劣质蜂蜜及色素、香精等，达到以次充好、掺杂使假的目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

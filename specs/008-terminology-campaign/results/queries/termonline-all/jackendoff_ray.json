@@ -2,10 +2,651 @@
  "key": "jackendoff, ray",
  "term": "Jackendoff, Ray",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:08:56+00:00",
- "status": "error",
- "note": "variant=Jackendoff, Ray; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jackendoff, Ray: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:27+00:00",
+ "status": "ok",
+ "note": "variant=Jackendoff, Ray; 审定公布名词库=1854; 海峡两岸名词对照库=643; 其他来源数据库=92; 预公布名词数据库=124; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0769",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "高频信号的实用的近似与简化，认为在三维空间中波的能量传播路径如同质点沿射线传播一样，是处处与波阵面垂直且指向波传播方向的线。 "
+  },
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "电力名词",
+   "wordNumber": "17.023",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "由各种放射性核素发射出的、具有特定能量的粒子或光子束流。反应堆工程中常碰到的有α射线、β射线、γ射线和中子射线。"
+  },
+  {
+   "cn": "伞幅",
+   "en": "ray",
+   "source": "植物学名词",
+   "wordNumber": "03.0509",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "伞形花序的分枝。"
+  },
+  {
+   "cn": "射枝",
+   "en": "ray",
+   "source": "植物学名词",
+   "wordNumber": "04.0163",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "丽藻属和鸟巢藻属藻类着生在主枝茎节上的小枝。其顶端反复产生辐射状分叉。"
+  },
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "物理学名词",
+   "wordNumber": "04.0064",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "植物学名词",
+   "wordNumber": "03.0989",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "由维管形成层的射线原始细胞产生的一种组织。在次生木质部和次生韧皮部中呈不同高度和宽度，并径向伸长呈带状，具横向输导和贮藏功能。"
+  },
+  {
+   "cn": "放射枝",
+   "en": "ray",
+   "source": "昆虫学名词",
+   "wordNumber": "11.299",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "瘿螨羽状爪两侧的小分枝，放射状。"
+  },
+  {
+   "cn": "γ射线",
+   "en": "γ-ray",
+   "source": "天文学名词",
+   "wordNumber": "04.522",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "波长短于 0.01nm 的电磁波，相应光子能量大于100keV。"
+  },
+  {
+   "cn": "γ 射线",
+   "en": "gamma ray,γ-ray",
+   "source": "物理学名词",
+   "wordNumber": "09.0115",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "α 射线",
+   "en": "alpha ray,α-ray",
+   "source": "物理学名词",
+   "wordNumber": "09.0113",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "β 射线",
+   "en": "beta ray,β-ray",
+   "source": "物理学名词",
+   "wordNumber": "09.0114",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "主光线",
+   "en": "chief ray,principal ray",
+   "source": "物理学名词",
+   "wordNumber": "04.0656",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "髓射线",
+   "en": "medullary ray,pith ray",
+   "source": "植物学名词",
+   "wordNumber": "03.0990",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "位于初生结构维管束之间，连接初生皮层与髓部的薄壁组织区域。"
+  },
+  {
+   "cn": "木射线",
+   "en": "wood ray,xylem ray",
+   "source": "林学名词",
+   "wordNumber": "11.019",
+   "subjectFullName": "林学_木材科学与技术_木材性质",
+   "subjectName": "木材性质",
+   "publishYear": "2016",
+   "definition": "在木材横切面上从髓心向树皮呈辐射状排列的射线薄壁组织。来源于形成层中的射线原始细胞，是树木体内的一种贮藏组织。从排列形式分单列、双列、多列；从细胞组成分同形和异形；针叶材有纺锤形。"
+  },
+  {
+   "cn": "紫外线",
+   "en": "ultraviolet ray",
+   "source": "整形外科名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电治疗基本概念及原理",
+   "subjectName": "光声电治疗基本概念及原理",
+   "publishYear": "2026",
+   "definition": "波长为180～400nm的电磁波。分为短波紫外线（波长180～280nm）、中波紫外线（波长280～320nm）和长波紫外线（波长320～401nm）。"
+  },
+  {
+   "cn": "红外线",
+   "en": "infrared ray",
+   "source": "整形外科名词",
+   "wordNumber": "7.008",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电治疗基本概念及原理",
+   "subjectName": "光声电治疗基本概念及原理",
+   "publishYear": "2026",
+   "definition": "波长为700nm～1mm的电磁波。分为红外线A（700～1400nm）、红外线B（1400～3000nm）和红外线C（3000nm～1mm）。"
+  },
+  {
+   "cn": "常光",
+   "en": "ordinary ray",
+   "source": "地质学名词",
+   "wordNumber": "02.00.219",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "光在一轴晶中传播时，发生双折射而产生两种互相垂直振动的偏光(两个光学主轴)，其中振动方向垂直光轴的光。用Nₒ表示，其折射率为恒定值。"
+  },
+  {
+   "cn": "非常光",
+   "en": "extraordinary ray",
+   "source": "地质学名词",
+   "wordNumber": "02.00.220",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "一轴晶中，与常光振动方向垂直的光。用Nₑ表示。"
+  },
+  {
+   "cn": "宇宙射线",
+   "en": "cosmic ray",
+   "source": "农学名词",
+   "wordNumber": "15.123",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "来自于宇宙中的一种极高能量的带电粒子流。包括太阳宇宙射线和来自于太阳系以外的宇宙射线。"
+  },
+  {
+   "cn": "日冕射线",
+   "en": "coronal ray",
+   "source": "天文学名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "冕流外部的细长射线状结构。"
+  },
+  {
+   "cn": "伞幅，伞形花序枝",
+   "en": "ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伞形花序枝（=伞幅）",
+   "en": "ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "射枝",
+   "en": "ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐射束骨针",
+   "en": "ray",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "射线",
+   "en": "ray",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "放射枝",
+   "en": "ray",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "木射线",
+   "en": "xylem ray\",\"wood ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "髓射线",
+   "en": "medullary ray\",\"pith ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "髓放线",
+   "en": "medullary ray",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "指放线",
+   "en": "digital ray",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "边花",
+   "en": "ray flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧射枝",
+   "en": "lateral ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单列射线",
+   "en": "uniseriate ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠生射线",
+   "en": "storied ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多列射线",
+   "en": "multiseriate ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纺锤射线",
+   "en": "fusiform ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚合射线",
+   "en": "aggregate ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "韧皮射线",
+   "en": "phloem ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "射线薄壁组织",
+   "en": "ray parenchyma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伽玛射线",
+   "en": "Gamma Ray",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《奇点临近》（〔美〕雷·库兹韦尔）",
+   "en": "The Singularity Is Near: When Humans Transcend Biology (Ray Kurzweil, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枣红马",
+   "en": "bay",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道",
+   "en": "Dao (Way)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拉伊人",
+   "en": "Rai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0109",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "尼泊尔民族之一，为“基兰蒂人”的一支。人口约为66.78 万（2011 年）。主要分布在特莱平原以及阿龙河两岸地带，少数人分布在印度、不丹境内。属蒙古人种南亚类型。操基兰蒂语的拉伊方言，属汉藏语系藏缅"
+  },
+  {
+   "cn": "χ射线",
+   "en": "χ-rays",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.7",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "高能电子被强大的电场或磁场加速、减速或转向时发射的短波长电磁辐射。"
+  },
+  {
+   "cn": "β射线",
+   "en": "β-rays",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "放射性物质发生β衰变所释放出的高能量电子。"
+  },
+  {
+   "cn": "γ射线",
+   "en": "γ-rays",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "放射性物质在核衰变过程中所发射的短波长电磁辐射（光子）。"
+  },
+  {
+   "cn": "γ射线",
+   "en": "gamma ray",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.55",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "放射性核素发生γ衰变时从核内发射的射线。性质和X 射线相似，其电离作用弱于α和β射线，但具有极强的穿透力。"
+  },
+  {
+   "cn": "γ射线探伤",
+   "en": "γ-ray radiography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "使用密封放射源发射的γ射线用于发现物体内部缺陷的一种无损检测方法。"
+  },
+  {
+   "cn": "蓝光试验",
+   "en": "blue ray test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用血液中过氧化物酶，在有过氧化氢时，催化隐色化合物氧化发生颜色改变，通过颜色变蓝显示残留血液程度，检测残留在医疗器械上血渍清洗效果的试验。"
+  },
+  {
+   "cn": "X射线诊断",
+   "en": "X-ray diagnosis",
+   "source": "放射卫生学",
+   "wordNumber": "2.11.1",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "利用X射线的穿透等性质取得人体内器官与组织的影像信息以诊断疾病的技术。"
+  },
+  {
+   "cn": "γ射线计数器",
+   "en": "gamma-ray counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "用于测量γ射线强度的计数器。其探测效率与计数管壁的材料有关，用原子序数大的管壁材料可以提高其探测效率。"
+  },
+  {
+   "cn": "X射线体层摄影",
+   "en": "X-ray tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "借助机械结构使X射线管在曝光过程中与影像探测器做对向运动，使影像中的部分层面清晰、部分层面模糊的一种数字X射线特殊成像技术。"
+  },
+  {
+   "cn": "X射线管",
+   "en": "X-ray tube",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "由阴极产生的电子经电场加速轰击阳极靶而产生X射线辐射的高真空器件。"
+  },
+  {
+   "cn": "X射线模拟定位机",
+   "en": "X-ray simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "用于在正式放射治疗前模拟患者治疗状态，获取患者解剖或功能信息的X射线影像设备。"
+  },
+  {
+   "cn": "X射线污染",
+   "en": "X-ray contamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "用电子束治疗时，由X射线引起的电子束最大射程以外吸收剂量增加的现象。"
+  },
+  {
+   "cn": "X射线探伤",
+   "en": "X-ray radiography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.6",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "对物体内部结构进行X射线摄影或断层检查，利用X射线穿透物体后在感光底片上产生影像，来检查分析物体内部缺陷的种类、大小、分布等的一种无损检测方法。"
+  },
+  {
+   "cn": "X线检查",
+   "en": "X-ray examination",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用X线的生物效应进行疾病检查的方法。检查方法有透视、常规摄影、高千伏摄影、体层摄影、造影等。是风湿免疫病学影像诊断的主要方法之一。"
+  },
+  {
+   "cn": "初级宇宙射线",
+   "en": "primary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "由初级银河系宇宙辐射和初级太阳系宇宙辐射所构成的高能电离辐射，主要是高能质子、氦原子核和重带电粒子。"
+  },
+  {
+   "cn": "次级宇宙射线",
+   "en": "secondary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "初级宇宙射线进入大气层与空气中原子核发生反应产生的次级电离辐射，包括中子、质子、π介子和K介子等。"
+  },
+  {
+   "cn": "半导体X射线和γ射线谱仪",
+   "en": "semiconductor X ray and gamma ray spectrometer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "用半导体探测器测量X射线和γ射线能谱的仪器。"
+  },
+  {
+   "cn": "地面γ测量",
+   "en": "ground gamma ray survey",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "使用便携式γ辐射仪，沿地面测量地质体的γ射线总量和圈定γ异常的一种放射性勘探方法。"
+  },
+  {
+   "cn": "移动式X射线设备",
+   "en": "mobile X-ray equipment",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "用于开展床旁X射线摄影或透视检查等操作的可移动的医用X射线设备。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,672 @@
+{
+ "key": "sensory information",
+ "term": "sensory information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:25:22+00:00",
+ "status": "ok",
+ "note": "variant=sensory information; 审定公布名词库=3929; 海峡两岸名词对照库=759; 其他来源数据库=579; 预公布名词数据库=109; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "感觉教育",
+   "en": "sensorial education,sensory education",
+   "source": "教育学名词",
+   "wordNumber": "06.098",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "有目的、有计划地形成与发展幼儿的感知觉与观察力，培养幼儿正确运用感官认识周围环境，为幼儿思维活动的形成和发展奠定良好基础的教育活动。是学前儿童智育的重要组成部分。"
+  },
+  {
+   "cn": "感觉性失语症",
+   "en": "sensory aphasia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "以听力理解障碍为主要特征的失语症。患者自发言语流畅，对他人和自己的话语均不能理解，语量多、语调正常、错语较多，伴有复述障碍、听写障碍，以及不同程度的命名、朗读和文字理解障碍。"
+  },
+  {
+   "cn": "感觉性共济失调",
+   "en": "sensory ataxia",
+   "source": "急救医学名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "由深感觉传导路径受损产生关节位置觉、振动觉障碍而导致的共济失调。临床表现为站立不稳，行走时有踩棉花样感觉，视觉辅助可使症状减轻。因此，患者在黑暗处症状加重，睁眼时症状减轻，闭目难立征阳性。见于脊髓型遗"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory dysfunction",
+   "source": "急救医学名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "感觉传导通路受损导致的感觉异常。感觉传导通路不同部位受损时其临床症状不同，为定位诊断提供了重要的线索。"
+  },
+  {
+   "cn": "感官特性",
+   "en": "sensory attribute",
+   "source": "农学名词",
+   "wordNumber": "18.055",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "由感觉器官感知的产品特性。一般包括外观、质地、香气、滋味、风味和口感等。"
+  },
+  {
+   "cn": "感知觉",
+   "en": "sensory perception",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人脑对当前作用于感觉器官的客观事物的反映。人类可通过视觉、听觉、嗅觉、触觉等获得性相关感觉信息，并通过大脑的整合产生相应的性心理活动。"
+  },
+  {
+   "cn": "感觉阈",
+   "en": "sensory threshold",
+   "source": "兽医学名词",
+   "wordNumber": "04.509",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "能引起感受器兴奋，产生感觉的最低刺激 强度。"
+  },
+  {
+   "cn": "感觉适应",
+   "en": "sensory adaptation",
+   "source": "兽医学名词",
+   "wordNumber": "04.512",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "较长时间给予感受器固定强度和频率的刺激作用时，所发生的感受阈逐渐增高，而感受功能逐渐下降的现象。"
+  },
+  {
+   "cn": "感觉上皮",
+   "en": "sensory epithelium",
+   "source": "兽医学名词",
+   "wordNumber": "08.057",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "分布于感觉器官的上皮组织。如味蕾、嗅上皮、内耳，感受各种刺激。"
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "兽医学名词",
+   "wordNumber": "08.158",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "可感受内、外环境刺激并转变为神经冲动，再传到脑或脊髓的神经元。多为假单极神经元，胞体主要位于脑脊神经节内，其周围突的末梢分布在皮肤和肌肉等处。"
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "行为医学名词",
+   "wordNumber": "3.117",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "刺激作用于感觉器官产生的一种短暂记忆或信息痕迹。特点是信息容量大、处于未经加工的原始状态、保持时间短。"
+  },
+  {
+   "cn": "感觉遗传学",
+   "en": "sensory genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.233",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "研究与感觉相关的基因结构、功能及其变异、传递和表达规律的学科。是遗传学分支学科之一。"
+  },
+  {
+   "cn": "感觉器官",
+   "en": "sensory organ",
+   "source": "行为医学名词",
+   "wordNumber": "3.267",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "机体与外界环境发生联系，感知周围事物变化的器官。主要包括眼、耳、鼻、舌、皮肤等。"
+  },
+  {
+   "cn": "感觉阈",
+   "en": "sensory threshold",
+   "source": "行为医学名词",
+   "wordNumber": "4.021",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "刚刚能够引起某种感觉的刺激强度。分为绝对感觉阈和差别感觉阈。与感受性成反比。"
+  },
+  {
+   "cn": "感觉反馈",
+   "en": "sensory feedback",
+   "source": "行为医学名词",
+   "wordNumber": "4.08",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "个体通过身体的反馈活动激活和放大某些情绪状态，进而增强情绪和情感体验的过程。"
+  },
+  {
+   "cn": "感官鉴定",
+   "en": "sensory identification ",
+   "source": "草学名词",
+   "wordNumber": "6.0207",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "感觉高敏",
+   "en": "sensory hypersensitivity",
+   "source": "消化病学名词",
+   "wordNumber": "17.05",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "感觉阈值降低，生理状态下的刺激引发疼痛等难以耐受的不适。"
+  },
+  {
+   "cn": "感觉上皮",
+   "en": "sensory epithelium",
+   "source": "动物学名词",
+   "wordNumber": "3.0069",
+   "subjectFullName": "动物学_动物组织学_上皮组织",
+   "subjectName": "上皮组织",
+   "publishYear": "2021",
+   "definition": "能感受某种物理因素或化学物质刺激或特殊感觉功能的特化上皮。"
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "动物学名词",
+   "wordNumber": "3.0288",
+   "subjectFullName": "动物学_动物组织学_神经组织",
+   "subjectName": "神经组织",
+   "publishYear": "2021",
+   "definition": "可接受体内外各种刺激并将信息传入中枢神经系统的神经元。一般多为假单极和双极神经元。"
+  },
+  {
+   "cn": "感觉细胞",
+   "en": "sensory cell",
+   "source": "动物学名词",
+   "wordNumber": "5.067",
+   "subjectFullName": "动物学_无脊椎动物学_刺胞动物门",
+   "subjectName": "刺胞动物门",
+   "publishYear": "2021",
+   "definition": "分散在皮肌细胞之间，特别在口周围、触手和基盘上的体积小、细胞质浓、端部有感觉毛，基部与神经纤维连接的细胞。细胞体长形，垂直于体表。"
+  },
+  {
+   "cn": "感觉层",
+   "en": "sensory layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉根",
+   "en": "sensory root",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉交叉",
+   "en": "sensory decussation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉区",
+   "en": "sensory area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉上皮",
+   "en": "sensory epithelium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经节",
+   "en": "sensory ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉细胞",
+   "en": "sensory cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉纤维",
+   "en": "sensory fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉反馈",
+   "en": "sensory feedback",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉剥夺",
+   "en": "sensory deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉编码",
+   "en": "sensory coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉登记",
+   "en": "sensory register",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经",
+   "en": "sensory nerve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉阈限",
+   "en": "sensory threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉通路",
+   "en": "sensory pathway",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉器官",
+   "en": "sensory organ",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "感觉行为",
+   "en": "sensory behavior",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息高速公路",
+   "en": "information highway",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "视觉、听觉、触觉信息的输入，以未加工处理的形式在脑中短暂的保留过程。"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "通过感觉系统获取信息的过程中出现困难和异常的现象。主要表现为感觉过敏、感觉减退、感觉缺失、感觉倒错和内感性不适。可造成知觉障碍，使运动反馈信息紊乱而导致运动功能失调。"
+  },
+  {
+   "cn": "感知觉发育",
+   "en": "sensory perception development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对作用于感觉器官客观事物的反映能力随年龄增长的发展变化过程。包括视觉、味觉、听觉、嗅觉、触觉、运动觉、空间时间知觉等的发展变化过程。"
+  },
+  {
+   "cn": "感觉讯息处理评估",
+   "en": "sensory processing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.25",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对儿童通过不同的感觉系统（前庭平衡、本体觉、视觉、听觉、触觉、嗅觉、味觉等）接收外界及自身的讯息，并经由中枢神经传送到脑部加以处理、分析、整合以及作出反应的能力进行评估的过程。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "儿童感觉统合治疗",
+   "en": "child sensory integration therapy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.5.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "基于儿童发育过程中神经系统的可塑性, 对感觉统合失调儿童提供一种感觉输入的控制，使其能够统合这些感觉, 促进脑神经生理发展, 达到改善儿童运动协调、语言功能等目的的一类心理治疗方法。"
+  },
+  {
+   "cn": "食品感官检查",
+   "en": "sensory examination of food",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.4",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "利用感觉器官进行食品感观质量评价。包括食品视觉上的澄清、混浊，组织状态上的软、硬、松，色、香、味，以及其他凭感觉所能判定的性质和状态。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

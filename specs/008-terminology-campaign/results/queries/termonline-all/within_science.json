@@ -1,0 +1,762 @@
+{
+ "key": "within science",
+ "term": "within science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:14:56+00:00",
+ "status": "ok",
+ "note": "variant=within science; 审定公布名词库=5132; 海峡两岸名词对照库=330; 其他来源数据库=236; 预公布名词数据库=202; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "会商",
+   "en": "consulting within system",
+   "source": "档案学名词",
+   "wordNumber": "02.03.006",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "发文处理的环节之一。当公文文稿内容涉及其他有关同级或不相属机关或部门的职权范围,需征得其同意或配合时所进行的协商活动。"
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.33",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "位于另一个基因内含子中的基因。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within family selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.413",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在每个家系内根据个体表型值和家系均值的偏差进行选择的方法。"
+  },
+  {
+   "cn": "预处理渣的去除",
+   "en": "deslag within pretreatment",
+   "source": "冶金学名词",
+   "wordNumber": "05.1305",
+   "subjectFullName": "冶金学_钢铁冶金_炉外精炼",
+   "subjectName": "炉外精炼",
+   "publishYear": "2019",
+   "definition": "预处理产生的渣必须在预处理时去除，避免和铁水一同倒入炼钢炉而造成回硫、回磷的措施。"
+  },
+  {
+   "cn": "批内误差",
+   "en": "within-batch error",
+   "source": "核医学名词",
+   "wordNumber": "03.0749",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "由于实验条件的变化导致整批样品不同阶段的测定值偏差。质控样品是监测批内误差的主要依据。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "selection within family",
+   "source": "林学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在家系间选择的基础上，于最优良家系内进行最优良个体的选择育种方法。"
+  },
+  {
+   "cn": "组内变异性",
+   "en": "variation within laboratory",
+   "source": "化学名词",
+   "wordNumber": "03.0155",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在短时间内用相同的方法在相同的测量条件下对同一被测定量进行连续多次测量时，所得到的各测量值之间的差异。"
+  },
+  {
+   "cn": "组内方差",
+   "en": "variance within laboratory",
+   "source": "化学名词",
+   "wordNumber": "03.0191",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在短时间内用相同的方法在相同的测量条件下对同一被测定量进行连续多次测量时所得到的方差。"
+  },
+  {
+   "cn": "组内设计",
+   "en": "within-group design",
+   "source": "心理学名词",
+   "wordNumber": "02.081",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "将每个被试轮流分配到所有自变量或自变量水平的实验设计方法。"
+  },
+  {
+   "cn": "批内变异",
+   "en": "within-lot variation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.408",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "同批内的探测元件或产品的某一特性的波动程度。"
+  },
+  {
+   "cn": "森林流域",
+   "en": "forest within watershed",
+   "source": "资源科学技术名词",
+   "wordNumber": "11.008",
+   "subjectFullName": "资源科学技术_森林资源学",
+   "subjectName": "森林资源学",
+   "publishYear": "2008",
+   "definition": "分布森林的天然流域。"
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "遗传学名词",
+   "wordNumber": "08.111",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "一个基因位于另一个基因的内含子中。"
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within-family selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在每个家系内根据个体表型和家系均值的偏差进行选择的方法。"
+  },
+  {
+   "cn": "生境内多样性",
+   "en": "within-habitat diversity",
+   "source": "生态学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一具体生境内的物种多样性。"
+  },
+  {
+   "cn": "群落内多样性",
+   "en": "within-community diversity",
+   "source": "生态学名词",
+   "wordNumber": "06.047",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一群落内的物种多样性和生境多样性。"
+  },
+  {
+   "cn": "采点内精度",
+   "en": "within-sites precision",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "厂中厂",
+   "en": "plant within a plant,factory within a factory",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0144",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在一个大厂内通过创造自治经营单位来改进管理重心和提高整体效率的方法。"
+  },
+  {
+   "cn": "采样点内精度",
+   "en": "within-sites pre-cision",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0193",
+   "subjectFullName": "地球物理学_地球电磁学_古地磁学",
+   "subjectName": "古地磁学",
+   "publishYear": "2022",
+   "definition": "采样点内不同样品剩磁方向费歇尔统计平均的精度参数。指示同一采点内不同样品间的离散程度。 "
+  },
+  {
+   "cn": "场内遗传评估",
+   "en": "within-herd genetic evaluation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.524",
+   "subjectFullName": "畜牧学_遗传育种_育种技术",
+   "subjectName": "育种技术",
+   "publishYear": "2020",
+   "definition": "在场内对动物个体进行遗传性状测定，评估结果仅限于场内个体间的比较。"
+  },
+  {
+   "cn": "科学引文索引",
+   "en": "Science Citation Index,SCI",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.243",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "一种国际性的、多学科的综合性引文索引。涉及的学科有数、理、化、农、林、医和生物学等。创刊于1961年，最初由美国人尤金·加菲尔德创立的美国科学情报研究所编辑出版。它不仅是一种大型的文献检索工具，还是引"
+  },
+  {
+   "cn": "组内变异",
+   "en": "within group variance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试内设计",
+   "en": "within subjects design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组内方差",
+   "en": "variance within laboratory",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限定区域内的贸易",
+   "en": "trade within area",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "栖息地内多样性",
+   "en": "within-habitat diversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群落内多样性",
+   "en": "within-community diversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "家系内选择",
+   "en": "within family selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生境内多样性（=α多样性）",
+   "en": "within-habitat diversity (=alpha diversity)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "子城",
+   "en": "small city within larger one",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为科学",
+   "en": "behavioral science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "海内",
+   "en": "Within the Four Seas/ Within the Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咫尺有万里之势",
+   "en": "Power of Landscape Within Inches",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "把权力关进制度的笼子",
+   "en": "confining power within an institutional cage",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发纤秾于简古，寄至味于淡泊",
+   "en": "Intricacy Within Plainness, and Intensity Beneath Quietude",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外师造化，中得心源",
+   "en": "Draw Artistic Inspiration from Both Within and Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原始数据不离平台原则",
+   "en": "principle of keeping raw data within the platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身处其中的局外人",
+   "en": "outsiders within",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义对于边缘或底层弱势群体尴尬处境的一种描述。认为一方面他们需要在主流社会制定的规则中生存，另一方面他们又被排斥在主流世界之外。但女性主义认为这种处境也使边缘弱势群体具有了认识论上的优势。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "限期改正",
+   "en": "make correction within a prescribed time",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行政主体责令违法行为人停止和纠正违法行为，以恢复原状，维持法定的秩序或者状态，具有事后救济性。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "暴露科学",
+   "en": "exposure science",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集和分析所需定量和定性的信息，以了解受体与物理、化学或生物应激之间的暴露情况的科学"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  },
+  {
+   "cn": "科学史",
+   "en": "history of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "研究人类对自然界和社会的科学理解和认知发展过程的一门学问。科学史利用了思想史和社会史两个面向的历史研究方法，可分为内部史和外部史研究。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "科学社会学",
+   "en": "sociology of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "以科学活动的内部社会关系、科学和社会之间的相互关系、科学和其他社会建制之间的相互作用以及科学活动中的人为研究对象的一门分支社会学。"
+  },
+  {
+   "cn": "科学文化",
+   "en": "culture of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家或“科学共同体”成员关于应当如何去从事相关研究的共同信念或观念。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

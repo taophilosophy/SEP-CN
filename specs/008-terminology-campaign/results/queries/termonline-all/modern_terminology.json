@@ -1,0 +1,812 @@
+{
+ "key": "modern terminology",
+ "term": "modern terminology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:28:10+00:00",
+ "status": "ok",
+ "note": "variant=modern terminology; 审定公布名词库=3370; 海峡两岸名词对照库=1035; 其他来源数据库=184; 预公布名词数据库=242; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.807",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "从启蒙运动开始确立的一整套社会结构以及与之相匹配的生活方式和思维方式。这种社会结构体现在每个个体为自己的选择负责，传统的权威与共同体认同被瓦解并趋向于原子化，理性、科学与产业的进步推动社会变革。"
+  },
+  {
+   "cn": "现代主义",
+   "en": "modernism",
+   "source": "心理学名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "现代西方文艺、哲学思潮和派别的总称。表现为基础主义、本质主义与个体主义等特征。"
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "地理学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "一种新的、与以前不同的社会秩序。强调创新、变化和进步的一个权力、知识与社会实践的特殊聚合体。"
+  },
+  {
+   "cn": "术语",
+   "en": "term,terminology",
+   "source": "语言学名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各门学科的专门用语，在专业范围内表示单一的专门概念，如语言学术语“主语”、哲学术语“物质”、政治经济学术语“商品”等。在一定条件下，某些术语可由专门意义引申出一般的意义，从而获得全民性，成为一般词语。"
+  },
+  {
+   "cn": "地层术语",
+   "en": "stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.023",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "各地层类别中使用的地层单位术语。可分为正式地层术语和非正式地层术语两类。"
+  },
+  {
+   "cn": "图书馆术语",
+   "en": "library terminology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "图书馆及相关领域用来表示概念的词或短语的集合。用来正确标记图书馆及其相关领域中的事物、现象、特性、关系和过程，具有专业性、系统性、单义性和科学性的特点。"
+  },
+  {
+   "cn": "术语服务",
+   "en": "terminology service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对词表元数据和词表内容以及其他知识组织资源（如规范文档、分类表等）进行浏览、查询、应用等各种万维网服务的统称。术语服务通过万维网应用程序接口（API）支持计算机对词表及其内容的访问和调用，是在网络环境"
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "信息抽取研究领域的一部分。目的是从给定语料中抽取出有关术语（表达概念的词语）及其定义。"
+  },
+  {
+   "cn": "术语标准",
+   "en": "terminology standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0893",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "以各种专用术语为对象所制定的标准。包括术语、定义(或解释性说明)和外文对应的词等。"
+  },
+  {
+   "cn": "术语库",
+   "en": "terminology bank",
+   "source": "语言学名词",
+   "wordNumber": "11.275",
+   "subjectFullName": "语言学_计算语言学_语言资源",
+   "subjectName": "语言资源",
+   "publishYear": "2011",
+   "definition": "存储专业术语的数据库。数据库中的每条记录是一个专业术语和与该术语有关的各种信息。例如，注释、类别、出处、语言学特征、其他语种的译名等。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.018",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典",
+   "en": "terminological dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。汇集某一学科或专业门类术语，并给出定义的词典。"
+  },
+  {
+   "cn": "正式地层术语",
+   "en": "formal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "根据地层规范，给予恰当定义和命名的地层单位术语。"
+  },
+  {
+   "cn": "非正式地层术语",
+   "en": "informal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.025",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "仅作为普通名称使用，而不属于已明确定义的地层单位术语。如砂质组、笔石带等。非正式地层单位术语不必给予地理专名。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "现代裂谷",
+   "en": "modern rift",
+   "source": "地质学名词",
+   "wordNumber": "09.07.100",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "伸展构造环境下发育的一种至今仍在活动的裂陷构造。常伴有火山活动和地震活动。大陆上规模最大的现代裂谷为东非大裂谷，据研究近期仍以每年几毫米至几十毫米的速度扩张。"
+  },
+  {
+   "cn": "现代铅",
+   "en": "modern lead",
+   "source": "地质学名词",
+   "wordNumber": "13.03.210",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "以现代太平洋软泥中锰结核和红黏土为代表的铅同位素组成。其组成为：²⁰⁶Pb/²⁰⁴Pb=18.93，²⁰⁷Pb/²⁰⁴Pb=15.72，²⁰⁸Pb/²⁰⁴Pb=38.80。"
+  },
+  {
+   "cn": "近现代公园",
+   "en": "modern park",
+   "source": "风景园林名词",
+   "wordNumber": "02.0037",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "自1840年鸦片战争，特别是1911年辛亥革命后，由于西方造园艺术的传入，中国集中出现对公众开放的园林，包括将皇家苑囿和坛庙开放以及新建的公园等。"
+  },
+  {
+   "cn": "现代农业",
+   "en": "modern agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.005",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "应用现代科学技术、现代工业装备和现代管理方式进行生产的高效率商品化农业形态。"
+  },
+  {
+   "cn": "近代科学",
+   "en": "modern science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.045",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "15世纪下半叶萌芽至19世纪末成熟的自然科学。其特征是建立在实验基础上，把系统的观察和实验同严密的逻辑体系结合起来，形成以实验事实为根据的、系统的科学理论。代表人物包括伽利略、开普勒、牛顿等。"
+  },
+  {
+   "cn": "现代主义",
+   "en": "modernism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语[数据]库，专业词库",
+   "en": "terminological database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典，专业词典",
+   "en": "terminological dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代沉积物",
+   "en": "modern sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现代病",
+   "en": "modern diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代地理学",
+   "en": "modern geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代药",
+   "en": "modern drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "次中音提琴",
+   "en": "alto moderne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地名术语",
+   "en": "terminology of geographical names",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现代城市设想",
+   "en": "conceptual modern city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代宏观经济学",
+   "en": "modern macro-economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代理性形上学",
+   "en": "modern rational metaphysics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代建筑国际学派",
+   "en": "international school of modern architecture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代达尔文主义（=综合进化论）",
+   "en": "modern Darwinism (=synthetic theory of evolution)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "制图符号学",
+   "en": "cartographic seminology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何相似船模",
+   "en": "geometrically similar ship models\",\"geometrically similar model",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人术语",
+   "en": "Robot Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网术语",
+   "en": "IoT Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据术语",
+   "en": "Big Data Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算术语",
+   "en": "Cloud Computing Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据术语标准",
+   "en": "data terminology standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现代五项运动",
+   "en": "modern pentathlon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理术语",
+   "en": "unstructured data management terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现代金融服务体系",
+   "en": "Modern Financial Service System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现代环境治理体系",
+   "en": "modern environmental management system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "建设现代化经济体系",
+   "en": "developing a modernized economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20190851-T-469 信息技术 人工智能 术语》",
+   "en": "20190851-T-469 Information technology — Artificial intelligence — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190805-T-469 信息技术 计算机视觉 术语》",
+   "en": "20190805-T-469 Information technology — Computer vision — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20173817-T-469 信息技术 穿戴式设备 术语》",
+   "en": "20173817-T-469 Information technology — Wearable device — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 33847-2017 信息技术 中间件术语》",
+   "en": "GB/T 33847-2017 Information technology — Middleware terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 35295-2017 信息技术 大数据 术语》",
+   "en": "GB/T 35295-2017 Information technology — Big data — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "率先基本实现现代化引领区",
+   "en": "pioneer zone in basically achieving modernization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际现代五项和冬季两项联盟",
+   "en": "International Modern Pentathlon and Biathlon Union\",\"UIPMB",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代化",
+   "en": "modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "人类历史上向现代社会过渡的巨大社会变迁，以从传统农业社会向现代工业社会的转变为轴心，包括产业工业化、经济市场化、社会城市化、政治民主化、文化世俗化等社会全面变革的历史过程。"
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.5",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "继承启蒙运动的的理性精神，并力图以此来认识世界和改造世界的一种思潮，主张包括社会现象在内的一切现象都是可知的，都可以做理性探究，一切事物都必然具有因果联系、因而具有一定的规律性存在；而人是世界的中心，"
+  },
+  {
+   "cn": "现代化",
+   "en": "modernization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "现代化是指工业社会以来的社会发展变迁，是一个涵盖政治、经济、社会、文化等的系统过程。"
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terminology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "用于指称各类亲属的称谓制度。在一些民族中有对称和引称的区分。"
+  },
+  {
+   "cn": "默多克亲属制度分类法",
+   "en": "Murdock kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0405",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家默多克（George Peter Murdock）将世界所有的亲属称谓制度归纳为六类。①夏威夷式：夏威夷型的称谓只用性别和辈份来区分亲属，即同性别同辈分是一种称谓，同性别不同辈分或同辈分不"
+  },
+  {
+   "cn": "摩尔根亲属制度",
+   "en": "Morgan kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0403",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国民族学家摩尔根（Lewis Henry Morgan）是亲属制度的创始者，他先后在《人类家庭的血亲和姻亲制度》《古代社会》等名著中介绍和阐述了人类历史上存在过的三种亲属制度：马来亚式、图兰尼亚式和"
+  },
+  {
+   "cn": "罗维亲属制度",
+   "en": "Lowio kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0404",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家（Robert Lowie）以尊一辈的血亲为基础，辅以支系、旁系之别，提出“四分法”。①行辈型：把旁系的亲属称谓依辈分全部纳入直系的亲属称谓体系中。②二分合并式：把旁系的亲属称谓一分为二，"
+  },
+  {
+   "cn": "现代民族",
+   "en": "modern nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0033",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "马克思主义经典作家对近代以来民族所做的界定，具体包括资本主义民族和社会主义民族，前者指资本主义上升时期的民族或已进入资本主义社会的民族，后者是在推翻资本主义制度以后，在对旧式民族进行社会主义改造的基础"
+  },
+  {
+   "cn": "现代社会",
+   "en": "modern society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "伴随传统社会、文化因素衰落形成的后传统的现代性社会，亦即深受不断创新的现代主义和工业主义渗透的社会-文化因素在社会建构中居主导地位的新型文明社会。西方历史中特指中世纪以后、尤其是启蒙运动以来逐渐形成的"
+  },
+  {
+   "cn": "现代唯物主义",
+   "en": "modern materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0109",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在马克思、恩格斯和列宁的著作中，现代唯物主义既是指马克思主义哲学与一切唯心主义和形而上学的旧唯物主义的原则区别，也是指包括辩证唯物主义和历史唯物主义在内的整个马克思主义哲学，已经具有唯物主义的科学形态"
+  },
+  {
+   "cn": "现代社会",
+   "en": "modern society",
+   "source": "马克思主义",
+   "wordNumber": "03.0203",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义语境中“资本主义社会”的代名词。马克思写作《资本论》的最终目的就是揭示现代社会的经济运动规律,得出结论:资本主义私有制的丧钟就要敲响了,剥夺者就要被剥夺了。"
+  },
+  {
+   "cn": "现代生物技术",
+   "en": "modern biotechnology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.17",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "采用基因操作等生产食品及其原料的新技术。其克服了天然生理繁殖或重组屏障，区别于传统品种选育技术。包括DNA 重组、将核酸直接注射到细胞或者细胞器中体外核酸技术，分类上跨物种的细胞融合。"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "内生型现代化",
+   "en": "endogenous Modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "从一国内部自然生成、自发演进的现代化类型。英国的现代化是典型，法国、美国等国家的现代化有时也被人们归入此种类型。与“外生型现代化”相对。"
+  },
+  {
+   "cn": "外生型现代化",
+   "en": "ectogenous modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在外力的压迫下，或者说是在内生型现代化国家的“诱导”下，被动地走上现代化发展轨道的现代化类型。如德国、俄国、日本、中国等国的现代化即属此种类型。与“内生型现代化”相对。"
+  },
+  {
+   "cn": "人的现代化",
+   "en": "individual modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "从传统人转变为现代人的过程。在此过程中，个人获得一些现代性的基本特征，从而实现从传统人格到现代人格的转变。美国社会学家英克尔斯对此作过著名研究。"
+  },
+  {
+   "cn": "后现代性",
+   "en": "post-modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种与现代性相悖的思潮，质疑启蒙运动理性精神及其在社会进程中的体现。"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.6",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "工业社会变化悄无声息地在未经计划的情况下紧随着正常的、自主的现代化过程而来，社会秩序和经济秩序完好无损，这种社会变化意味着现代化的激进化，这种激进化打破了工业社会的前提并开辟了通向另一种现代性的道路。"
+  },
+  {
+   "cn": "生态现代化",
+   "en": "ecological modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种针对环境危害的新的发展理念。以发挥生态优势推进现代化进程，实现经济发展和环境保护的双赢，加快推进发展模式由先污染后治理向生态亲和型转变，决不能以牺牲环境为代价换取一时的发展。"
+  },
+  {
+   "cn": "四个现代化",
+   "en": "four modernizations",
+   "source": "马克思主义",
+   "wordNumber": "03.0393",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业、农业、国防和科学技术的现代化。1959年末至1960年初，毛泽东在读苏联《政治经济学教科书》笔记中完整地提出“实现社会主义四个现代化”口号。周恩来根据毛泽东的提议，在全国人大三届一次会议的《政府"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

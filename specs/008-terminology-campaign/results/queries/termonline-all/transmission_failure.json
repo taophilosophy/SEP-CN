@@ -1,0 +1,742 @@
+{
+ "key": "transmission failure",
+ "term": "transmission failure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:15:41+00:00",
+ "status": "ok",
+ "note": "variant=transmission failure; 审定公布名词库=1396; 海峡两岸名词对照库=315; 其他来源数据库=45; 预公布名词数据库=62; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0219",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品丧失完成规定功能能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电力名词",
+   "wordNumber": "25.003",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统丧失完成规定功能的能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.064",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "功能单元失去执行其自身功能的能力或者以非要求的方式运行。"
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0196",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "发动机的功能、零部件或整机的失效或损坏的一种现象。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "设备执行所需功能的能力已经终止。失效标志着从一种状态变到另一种状态。失效之后，设备即有故障。"
+  },
+  {
+   "cn": "破坏",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.099",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.135",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "产品在使用中由于自身质的变化导致产品丧失了预定的工作能力或其性能已劣化成不合格的状态。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.072",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.065",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "传播",
+   "en": "transmission",
+   "source": "兽医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "病原微生物由传染源排出后，经一定的方式再侵入其他易感动物的过程。"
+  },
+  {
+   "cn": "传递",
+   "en": "transmission",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.005",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "信源发出的信息经过传播渠道到达信宿的过程。强调信宿与信源的一致，也用于社会性传播。该词出自信息工程学。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0581",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "地震波在传播过程中遇到不同介质的分界面时，有一部分能量穿过界面继续向前，在另一种介质传播的现象。 "
+  },
+  {
+   "cn": "传播",
+   "en": "transmission ",
+   "source": "草学名词",
+   "wordNumber": "7.0296",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "变速器",
+   "en": "transmission",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0010",
+   "subjectFullName": "机械工程（一）_传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用于改变转速和转矩的机构。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "光学名词",
+   "wordNumber": "01.476",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波入射到物体表面、经过折射并穿过物体后出射的现象。"
+  },
+  {
+   "cn": "传递",
+   "en": "transmission",
+   "source": "生理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传播",
+   "en": "transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0295",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "病原体从已感染者排出，经过一定的途径，传入易感者而形成新的传染的过程。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "穿透",
+   "en": "transmission",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传导",
+   "en": "transmission",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传送",
+   "en": "transmission",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "发射",
+   "en": "transmission",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传输",
+   "en": "transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传动，传输",
+   "en": "transmission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可传性",
+   "en": "transmissibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传输模式",
+   "en": "transmission mode\",\"transmission pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "提升传输，加重传输",
+   "en": "emphasis transmission\",\"slope transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排卵障碍",
+   "en": "ovulation failure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "提取失败",
+   "en": "retrieval failure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏附破坏",
+   "en": "adhesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效包线",
+   "en": "failure envelope",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效分析",
+   "en": "failure analysis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "疲劳失效",
+   "en": "fatigue failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传动装置",
+   "en": "gear\",\"transmission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据传输",
+   "en": "data transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传输介质",
+   "en": "transmission medium",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线传输",
+   "en": "wireless transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二级传播（继发性传播）",
+   "en": "secondary transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "飞沫传播",
+   "en": "droplet transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气溶胶传播",
+   "en": "aerosol transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传染性",
+   "en": "transmissibility; infectivity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光传输网",
+   "en": "optical transmission network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.21",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "电离辐射穿过物质时其辐射强度虽减弱，但方向未发生改变的现象。"
+  },
+  {
+   "cn": "变色失败",
+   "en": "discoloration failure",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物未达到终点色的现象。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "市场配置资源方式无法有效地实现公共物品的最优配置。通常由于垄断、信息不对称的存在导致市场在配置资源方面的无效率。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "市场缺陷（market failure）”。由于市场机制不能充分地发挥作用而导致的资源配置缺乏效率或资源配置失当的情况。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "避孕失败",
+   "en": "contraceptive failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用某种避孕方法过程中，由于该方法本身的原因或使用者未严格按照使用说明规范正确使用，而未能获得应有的避孕效果，发生意外妊娠的现象。"
+  },
+  {
+   "cn": "介水传播",
+   "en": "waterborne transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.2.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "以水为媒介或经病原体污染的水所致感染的传播过程。"
+  },
+  {
+   "cn": "医源性传播",
+   "en": "iatrogenic transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在医学服务中因病原体传播引起的感染。"
+  },
+  {
+   "cn": "输血传播",
+   "en": "transfusion transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.4.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "通过输血过程引起的病原体传播。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "传播途径",
+   "en": "transmission route",
+   "source": "消毒学",
+   "wordNumber": "4.6.8",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体从传染源排出体外，经过一定的传播方式，到达与侵入新的易感者的过程。"
+  },
+  {
+   "cn": "飞沫传播",
+   "en": "droplet transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "感染者在咳嗽、打喷嚏或说话时产生含病原微生物的飞沫，扩散到他人的呼吸道黏膜和眼黏膜导致疾病传播的过程。"
+  },
+  {
+   "cn": "空气传播",
+   "en": "airborne transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有感染性病原体的微粒子（≤5μm）通过空气流动导致疾病传播的过程。"
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体通过手、媒介直接或间接接触导致传播的过程。"
+  },
+  {
+   "cn": "垂直传播",
+   "en": "vertical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "也称“母婴传播”。婴儿出生前、出生过程中或出生后，病原体经母体卵巢、子宫或胎盘、初乳等传给子代的过程。"
+  },
+  {
+   "cn": "媒介生物传播",
+   "en": "vector transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "被病原体感染的吸血节肢动物，如蚊、人虱、白玲、鼠蚤、蜱和螨等，叮咬时把病原体传给易感者的过程。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "透射系数",
+   "en": "transmission coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.24",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之后某关心点处的射线量占初始射线的份额，是衰减倍数的倒数。"
+  },
+  {
+   "cn": "药品市场失灵",
+   "en": "drug market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品市场",
+   "subjectName": "药品市场",
+   "publishYear": "2025",
+   "definition": "市场机制无法实现药品资源最优配置的情况，由信息不对称、产品外部性和市场垄断等因素导致。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

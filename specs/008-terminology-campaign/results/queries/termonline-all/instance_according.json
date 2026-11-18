@@ -1,0 +1,772 @@
+{
+ "key": "instance according",
+ "term": "instance according",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:13:00+00:00",
+ "status": "ok",
+ "note": "variant=instance according; 审定公布名词库=888; 海峡两岸名词对照库=420; 其他来源数据库=109; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "谐香",
+   "en": "accord",
+   "source": "精细化工名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "由为数不多的几种香料在一定配比下，所形成的一个既和谐而又有一定香气特征的香气组合。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "别洛韦日协议",
+   "en": "Belavezha Accords",
+   "source": "世界历史名词",
+   "wordNumber": "05.0524",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1991年12月8日，苏联俄罗斯、白俄罗斯和乌克兰三个加盟共和国领导人在别洛韦日签署了《关于成立独立国家联合体的协议》，苏联实际上停止存在。"
+  },
+  {
+   "cn": "奥斯陆协议",
+   "en": "Oslo Accord",
+   "source": "世界历史名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "1993年9月13日，巴勒斯坦解放组织主席阿拉法特和以色列总理拉宾在华盛顿正式签署的有关加沙—杰里科先行自治的协议，确立 “以土地换和平”的巴以和谈原则。即《临时自治安排原则宣言》。"
+  },
+  {
+   "cn": "博洛尼亚协定",
+   "en": "Bologna Accord",
+   "source": "世界历史名词",
+   "wordNumber": "02.1214",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "1516年，法国宗教改革期间弗朗西斯一世与教皇利奥十世签订的协定，法国国王取得了任命高级神职人员的权力，但须经教皇批准。"
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0072",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一阶逻辑的一类定理证明方法。通过生成实例、在命题逻辑中检查不可满足性来证明一阶逻辑问题的不可满足性，从而证明一阶逻辑表述的相应定理。"
+  },
+  {
+   "cn": "戴维营协议(1978)",
+   "en": "1978 Camp David Accords",
+   "source": "世界历史名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "1978年9月18日，埃及总统萨达特同以色列总理贝京、美国总统卡特在戴维营签署的《关于实现中东和平的纲要》和《关于签订一项埃及同以色列之间的和平条约的纲要》两份文件的统称。"
+  },
+  {
+   "cn": "依法补偿",
+   "en": "compensation according to law",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.079",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "国家依照法律法规规定，对城乡规划行政主管部门及其工作人员依法进行的城乡规划管理行为对相对人合法权益造成损害所进行的给付救济。"
+  },
+  {
+   "cn": "按劳分配",
+   "en": "distribution according to work",
+   "source": "经济学名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "分配个人消费品的社会主义原则。即在生产资料社会主义公有制条件下，对社会总产品做了各项必要的社会扣除以后，按照各人提供给社会的劳动的数量和质量分配个人消费品。"
+  },
+  {
+   "cn": "状态修",
+   "en": "repair according to condition",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0919",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "国际建筑师协会认同书推荐导则",
+   "en": "UIA Accord Recommended Guidelines",
+   "source": "建筑学名词",
+   "wordNumber": "06.0009",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_主管部门与学会、协会",
+   "subjectName": "主管部门与学会、协会",
+   "publishYear": "2014",
+   "definition": "国际建筑师协会关于建筑实践中职业主义的推荐国际标准认同书制定了一系列推荐导则对政策进行诠释。目前已经通过13项推荐导则，内容包括建筑教育评估和认证，实践经验/培训/实习，专业知识和能力证明，注册/执照"
+  },
+  {
+   "cn": "国际建筑师协会认同书政策",
+   "en": "International Union of Architects Accord Policies,UIA Accord Policies ",
+   "source": "建筑学名词",
+   "wordNumber": "06.0008",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_主管部门与学会、协会",
+   "subjectName": "主管部门与学会、协会",
+   "publishYear": "2014",
+   "definition": "国际建筑师协会关于建筑实践中职业主义的推荐国际标准认同书制定了一系列政策对认同书进行诠释。目前已经通过17条政策，包括建筑实践、建筑师、对一名建筑师的基本要求、教育、建筑教育的评估和认证、实践经验/培"
+  },
+  {
+   "cn": "本校法",
+   "en": "collation method according to context",
+   "source": "档案学名词",
+   "wordNumber": "04.03.084",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "陈垣在《元典章校补释例》中总结的校法四例之一，即以本书前后互证，校出异同，断其是非的校勘方法。"
+  },
+  {
+   "cn": "适地适树",
+   "en": "planting according to the environment",
+   "source": "建筑学名词",
+   "wordNumber": "08.0167",
+   "subjectFullName": "建筑学_风景园林_园林工程",
+   "subjectName": "园林工程",
+   "publishYear": "2014",
+   "definition": "因立地条件和小气候而选择相适应的植物品种进行的绿化。"
+  },
+  {
+   "cn": "依法治教",
+   "en": "administering education according to law",
+   "source": "教育学名词",
+   "wordNumber": "01.105",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "依法治国方略在教育中的体现。依照法律来管理教育事业、实施教育教学活动，保证各项教育工作进行的制度化、规范化、程序化。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手风琴",
+   "en": "accordion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "折叠地图",
+   "en": "accordion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "录制",
+   "en": "recording",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "和弦配置",
+   "en": "chording",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "和弦唱准",
+   "en": "chording",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自记雨量计",
+   "en": "recording pluviometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "记录式气压计",
+   "en": "recording barometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记录设备",
+   "en": "recording equipment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记录材料",
+   "en": "recording materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记录图表",
+   "en": "recording chart",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "磁记录",
+   "en": "magnetic recording",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁性录制",
+   "en": "magnetic recording",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光记录",
+   "en": "optical recording",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录方式",
+   "en": "recording mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录密度",
+   "en": "recording density",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录头",
+   "en": "recording head",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "循名责实",
+   "en": "Hold Actualities According to Its Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依法不予开放",
+   "en": "access rejected according to the law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "率性",
+   "en": "Acting in Accordance with Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱人以德",
+   "en": "Love the People in Accordance with Rules of Moral Conduct",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀乐中节",
+   "en": "Express Grief and Joy in Accordance with the Rules of Propriety",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“一国两制”，依法办事",
+   "en": "to uphold the principle of \"one country, two systems,\" act in accordance with the law",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁记录设备",
+   "en": "magnetic recording equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铺瓦式写记录",
+   "en": "shingled write recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "叠瓦式磁记录",
+   "en": "shingled magnetic recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "长跑运动员",
+   "en": "distance man\",\"long-distance runner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别洛韦日协定",
+   "en": "Belavezha accords",
+   "source": "马克思主义",
+   "wordNumber": "04.0251",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1991年12月8日，苏联的3个加盟共和国领导人--俄罗斯总统叶利钦、乌克兰总统克拉夫丘克、白俄罗斯最高苏维埃主席舒什克维奇在白俄罗斯的别洛韦日丛林秘密会晤，签署了关于建立独立国家联合体（简称独联体）"
+  },
+  {
+   "cn": "按劳分配",
+   "en": "distribution according to work",
+   "source": "马克思主义",
+   "wordNumber": "02.0141",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会主义公有制的个人消费品的分配原则。即在对社会总产品作了各项必要的社会扣除以后，企业按照个人的劳动数量和质量分配个人消费品或收入。"
+  },
+  {
+   "cn": "按需分配",
+   "en": "distribution according to needs",
+   "source": "马克思主义",
+   "wordNumber": "03.0025",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会高级阶段个人消费品的分配原则。即在迫使个人奴隶般地服从分工的情形已经消失，劳动成了生活的第一需要，随着个人的全面发展，生产力高度发达，“集体财富的一切源泉都充分涌流”之后，实行各人尽其所能"
+  },
+  {
+   "cn": "按生产要素分配",
+   "en": "distribution according to factors of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0412",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依据生产要素产权关系进行收益分配的方式和原则。与多种所有制共同发展相联系。"
+  },
+  {
+   "cn": "依法治国",
+   "en": "rule the country in accordance with law",
+   "source": "马克思主义",
+   "wordNumber": "03.0648",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的党的第三代领导集体在我国社会经济步入新的发展时期所提出的重要治国方略，其主要内容是指广大人民群众在党的领导下，依照宪法和法律规定，通过各种途径和形式管理国家事务，管理经济文化事业，管理"
+  },
+  {
+   "cn": "按劳分配主体型分配方式",
+   "en": "distribution systerm both main distribution according to work and a variety of distribution methods",
+   "source": "马克思主义",
+   "wordNumber": "02.0388",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按劳分配为主体、多种分配方式并存的社会主义初级阶段的基本分配制度。多种分配方式指除按劳动分配外，还包括按其它生产要素分配。它是由我国现阶段的公有制为主体、多种所有制经济共同发展的根本经济制度所决定的。"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "食物记录法",
+   "en": "food recording method",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食物消费量调查方法，要求被调查者（或调查者）报告一段时期内消费的所有食物（通常是7天或更少）。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "社会本能",
+   "en": "social instinct",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类在长期共同生活中通过进化形成的、不学就会的种种进行共同生活的本性和能力。如道德心、民族情感、群体意识（合群性）、同胞友爱等。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

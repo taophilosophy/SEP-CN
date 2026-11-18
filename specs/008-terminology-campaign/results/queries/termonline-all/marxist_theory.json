@@ -1,0 +1,642 @@
+{
+ "key": "marxist theory",
+ "term": "Marxist theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:17:46+00:00",
+ "status": "ok",
+ "note": "variant=Marxist theory; 审定公布名词库=2156; 海峡两岸名词对照库=742; 其他来源数据库=171; 预公布名词数据库=286; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "马克思主义新闻学",
+   "en": "Marxist journalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.021",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "中国特色社会主义条件下新闻学的一个研究门类。主要研究马克思主义经典作家及中国共产党主要领导人的新闻传播思想与实践，以及国际共产主义运动中各政党(包括中国共产党)的新闻传播思想与实践。"
+  },
+  {
+   "cn": "马克思主义教育学",
+   "en": "marxist pedagogy",
+   "source": "教育学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "产生于19世纪末，以马克思主义基本原理为理论基础，以马克思主义经典作家关于教育问题的论述为基本内容，运用马克思主义基本立场、观点和方法研究教育现象和问题的教育学说。"
+  },
+  {
+   "cn": "马克思主义史学",
+   "en": "Marxist history",
+   "source": "世界历史名词",
+   "wordNumber": "01.0028",
+   "subjectFullName": "世界历史_综合_世界历史学派、分支学科",
+   "subjectName": "世界历史学派、分支学科",
+   "publishYear": "2012",
+   "definition": "以马克思主义的唯物主义历史观为理论基础的历史科学。"
+  },
+  {
+   "cn": "马克思主义地理学",
+   "en": "Marxist geography",
+   "source": "地理学名词",
+   "wordNumber": "17.011",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "应用马克思主义的分析观点、概念和理论框架，主要对资本主义社会的各种地理问题进行的研究。"
+  },
+  {
+   "cn": "马克思主义心理学",
+   "en": "Marxist psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以马克思主义哲学为指导的心理学。曾在苏俄、中国心理学界得到广泛的研究。"
+  },
+  {
+   "cn": "马克思主义的思想来源",
+   "en": "Marxist Ideological Sources",
+   "source": "世界历史名词",
+   "wordNumber": "01.0059",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "德国的古典哲学，英国的古典政治经济学，法国的空想社会主义三种学说。"
+  },
+  {
+   "cn": "马克思主义自然哲学",
+   "en": "Marxist philosophy of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "自然辩证法_自然哲学_自然哲学类别",
+   "subjectName": "自然哲学类别",
+   "publishYear": "2024",
+   "definition": "马克思主义关于自然的哲学思想。是在马克思自然观、恩格斯自然辩证法基础上合理演绎而成。坚持辩证唯物主义自然观，研究有关自然的本体论和认识论，以及人与自然关系的哲学问题。包括系统自然观、人工自然观和生态自"
+  },
+  {
+   "cn": "马克思主义新闻观",
+   "en": "Marxist viewpoints on journalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.117",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "以马克思主义为指导，对新闻、新闻事业、新闻传播规律等的认识和看法。特指马克思主义经典作家关于新闻、宣传工作的认识；中国共产党对所领导的新闻、宣传、舆论等传播领域工作性质和作用，以及关于传播政策、宣传纪"
+  },
+  {
+   "cn": "马克思主义教育哲学",
+   "en": "marxist philosophy of education",
+   "source": "教育学名词",
+   "wordNumber": "01.085",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育哲学的流派之一。以马克思主义为理论基础研究教育问题，主要关注人的全面发展及其途径、教育的社会功能等问题。"
+  },
+  {
+   "cn": "西方马克思主义教育哲学",
+   "en": "western marxist philosophy of education",
+   "source": "教育学名词",
+   "wordNumber": "01.086",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育哲学的流派之一。以西方马克思主义为理论基础研究教育问题，揭示和批判西方现代教育制度隐含的各种结构关系、文化霸权和等级制度。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "物理学名词",
+   "wordNumber": "01.0104",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "数学名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "θ理论",
+   "en": "heta theory,thematic theory,θ theory",
+   "source": "语言学名词",
+   "wordNumber": "01.078",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "转换生成语法，特别是管辖与约束理论的一个重要理论。主要是关于论旨角色的指派问题，规定每个论元必须指派而且只能指派一个论旨角色。"
+  },
+  {
+   "cn": "波动说",
+   "en": "undulatory theory,wave theory",
+   "source": "物理学名词",
+   "wordNumber": "04.0028",
+   "subjectFullName": "物理学_光学、声学",
+   "subjectName": "光学、声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory,pseudoanthium theory",
+   "source": "植物学名词",
+   "wordNumber": "01.0197",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "解释被子植物起源的一种假说。认为被子植物的花来源于裸子植物单性孢子叶球，雄蕊和心皮分别相当于一个极端退化的雄花和雌花，因而设想被子植物是由裸子植物买麻藤类植物演化而来。"
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory,euanthium theory",
+   "source": "植物学名词",
+   "wordNumber": "01.0196",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "解释被子植物起源的一种假说。认为被子植物的花来自一个具多个螺旋状排列的两性孢子叶球，因此设想被子植物是由已灭绝裸子植物本内苏铁类演化而来。"
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory;emboitement theory",
+   "source": "动物学名词",
+   "wordNumber": "4.0014",
+   "subjectFullName": "动物学_动物胚胎学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "胚胎发育的一种假说。认为动物的卵子中包含有它将出生的所有后代，一个世代包着另一世代，就像大盒套着小盒。这个假说已被科学发展所否定。"
+  },
+  {
+   "cn": "X理论–Y理论",
+   "en": "X theory-Y theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0173",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由麦格雷戈(Douglas McGregor)提出的关于人们工作源动力的理论。"
+  },
+  {
+   "cn": "理论地球化学",
+   "en": "theory geochemistry",
+   "source": "地质学名词",
+   "wordNumber": "13.01.036",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究地球化学作用发生、发展的物理化学条件和形成机理的地球化学分支学科。"
+  },
+  {
+   "cn": "米兰科维奇理论",
+   "en": "Milankovitch theory",
+   "source": "地质学名词",
+   "wordNumber": "08.02.065",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "关于冰期起源的理论。20世纪20年代末由南斯拉夫数学家米兰科维奇提出。从日地关系的地球轨道三要素考虑气候变化，从全球尺度上研究日射量与地球气候之间关系的天文理论。认为北半球高纬夏季太阳辐射变化(地球轨"
+  },
+  {
+   "cn": "马克思行动主义",
+   "en": "Marxist activism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义地理学",
+   "en": "Marxist geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义激进份子",
+   "en": "Marxist radicals",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义经济学",
+   "en": "Marxist economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后马克思主义社会学",
+   "en": "post-marxist sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory\",\"pseudoanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory\",\"euanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后成论，渐成论",
+   "en": "postformation theory\",\"epigenesis theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肌源说",
+   "en": "myogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎系统发育说",
+   "en": "phylembryogenesis theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经源说",
+   "en": "neurogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学说",
+   "en": "cell theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "先成论，预成论",
+   "en": "preformation theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导学说",
+   "en": "induction theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "预成论（=先成论）",
+   "en": "preformation theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "捕食学说",
+   "en": "predation theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成花素学说",
+   "en": "florigen theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等级理论",
+   "en": "hierarchy theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集合论",
+   "en": "set theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义理论",
+   "en": "Marxist theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以马克思主义的基本理论为指导而形成的一套社会工作理论。与激进人文主义相似，主张从社会存在、经济基础、阶级压迫中寻找社会问题产生的根源，认为社会工作的任务就是与服务对象一道，通过阶级斗争或其他集体行动改"
+  },
+  {
+   "cn": "马克思主义民族理论",
+   "en": "Marxist ethno-national theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0001",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "无产阶级认识民族现象、解决民族问题的指导思想。党的十八大以来，以习近平为核心的党中央把铸牢中华民族共同体意识作为新时代党的民族工作的主线、作为民族地区各项工作的主线，进一步拓展中国特色解决民族问题的正"
+  },
+  {
+   "cn": "马克思主义哲学",
+   "en": "Marxist philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0002",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的关于自然界、人类社会和思维发展最一般规律的科学，是无产阶级的世界观和方法论，是马克思主义学说的理论基础和重要组成部分。"
+  },
+  {
+   "cn": "自称马克思主义者",
+   "en": "selfproclaimed Marxist",
+   "source": "马克思主义",
+   "wordNumber": "04.0325",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70-80年代德国、法国一些无产阶级政党内自称“马克思主义者”，却将马克思主义加以歪曲。马克思反对这种对其理论的教条式理解或歪曲，曾数次说过：“我只知道我自己不是马克思主义者”。马克思逝世后，"
+  },
+  {
+   "cn": "马克思主义人类学",
+   "en": "Marxist anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0587",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对19 世纪末以来受马克思或马克思主义影响的人类学学说统称，这一指称包含诸种产生自不同时期、地区和思想背景下的马克思主义人类学思潮。马克思主义人类学可被具体归纳为如下3 种类型：19 世纪末期马克思和"
+  },
+  {
+   "cn": "马克思主义伦理学",
+   "en": "marxist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1640000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "以辩证唯物主义和历史唯物主义为指导，依循社会存在与社会意识、经济基础与上层建筑的关系来理解和把握道德，确定社会的道德原则和规范，从而培养人们高尚的道德品质并不断提高人们的道德水平的伦理体系。是马克思主"
+  },
+  {
+   "cn": "马克思主义民族学",
+   "en": "Marxist ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.059",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯运用辩证唯物主义和历史唯物主义的观点方法奠定了马克思主义民族学的基础。马克思的《摩尔根“古代社会”一书摘要》和恩格斯的《家庭、私有制和国家的起源》是真正科学的民族学建立的里程碑，列宁和斯"
+  },
+  {
+   "cn": "马克思主义学习型政党",
+   "en": "Marxist learning Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0791",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党通过理论与实践相结合的不断学习，运用科学理论加以武装，具有世界眼光、善于把握规律、富有创新精神。是十七届四中全会从全面推进中国特色社会主义事业和党的建设新的伟大工程全局出发提出的一项重大战略"
+  },
+  {
+   "cn": "西方马克思主义人类学",
+   "en": "Western Marxist Anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0586",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "现代西方社会出现的一股打着“重新解释”“修改”“补充”与“发展”马克思主义旗号的资产阶级社会思潮。该思潮产生于20 世纪20 年代初期。1929 年，西方资本主义世界爆发了空前严重的经济危机，在这个恐"
+  },
+  {
+   "cn": "印度共产党马克思主义",
+   "en": "Communist Party of India marxist",
+   "source": "马克思主义",
+   "wordNumber": "05.0294",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "印度共产党1964年分裂的产物。印共（马）现有党员104万，是印度最大的左翼政党，也是资本主义世界最大的共产党组织。该党积极参加议会选举，曾在印度的喀拉拉邦和西孟加拉邦执政20多年。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

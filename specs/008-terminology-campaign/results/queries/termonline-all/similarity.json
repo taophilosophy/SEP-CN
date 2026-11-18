@@ -1,0 +1,442 @@
+{
+ "key": "similarity",
+ "term": "similarity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:15:07+00:00",
+ "status": "ok",
+ "note": "variant=similarity; 审定公布名词库=114; 海峡两岸名词对照库=54; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "动物学名词",
+   "wordNumber": "7.0464",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "群落间或样方间的相似程度。"
+  },
+  {
+   "cn": "相似[性]",
+   "en": "similarity",
+   "source": "物理学名词",
+   "wordNumber": "01.0474",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "生物物理学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "两条序列做对位排列比对时，在同一位置上出现同一种氨基酸或不同氨基酸，但却具有相似的特性。是对两条序列关系的定量描述。相似性程度用相同或相似氨基酸数目相加的总数占比对序列的氨基酸总数的百分比表示。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "药学名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "不同的物质在理化性质上具有相近或相似的性质。就是“相似者相溶”原理的应用。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "自动化名词",
+   "wordNumber": "04.567",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "相似[的]",
+   "en": "similar",
+   "source": "数学名词",
+   "wordNumber": "08.0120",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.105",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "说明自然界和工程中各相似现象相似原理的学说。是研究自然现象中个性与共性，或特殊与一般的关系以及内部矛盾与外部条件之间的关系的理论。"
+  },
+  {
+   "cn": "相似性检索",
+   "en": "similarity retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.095",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "在给定的样本文献集合中查找出与检索词内容相似的文献的过程。"
+  },
+  {
+   "cn": "相似性测度",
+   "en": "similarity measure",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "衡量一篇文献是否满足一个特定的用户提问，或者衡量文献向量空间中任意两篇文献相类似的程度。"
+  },
+  {
+   "cn": "相似群",
+   "en": "similarity group",
+   "source": "物理学名词",
+   "wordNumber": "01.0485",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似定理",
+   "en": "similarity theorem",
+   "source": "冶金学名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "判断相似的规则。由三个定理组成。相似第一定理即相似正定理，提出彼此相似的物理现象必定具有数值相同的特征数（即相似准数）。相似第二定理即白金汉(Buckingham)定理，为彼此的物理相似现象中的特征数"
+  },
+  {
+   "cn": "相似原理",
+   "en": "similarity principle",
+   "source": "物理学名词",
+   "wordNumber": "01.0475",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似变换",
+   "en": "similarity transformation",
+   "source": "物理学名词",
+   "wordNumber": "01.0476",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似匹配",
+   "en": "similarity matching",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0342",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "根据内容特征的多媒体检索系统，一般以相似匹配来代替精确匹配，用户在进行检索时，只要先将所需信息的大致特征描述出来，就可以找出与检索提问具有类似特征的多媒体信息，然后在结果中进一步地查询以得到获得符合要"
+  },
+  {
+   "cn": "相似性连接",
+   "en": "similarity join",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0499",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以记录相似性为连接条件的连接操作。"
+  },
+  {
+   "cn": "相似度查询",
+   "en": "similarity query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0500",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反馈和输入数据项相似数据的查询方式。"
+  },
+  {
+   "cn": "相似系数",
+   "en": "similarity coefficient",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0471",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "在数量分类学中，表示作为对象的两个分类单位间相似程度的指标。"
+  },
+  {
+   "cn": "相似准则",
+   "en": "similarity criterion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1148",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "对塑性加工过程进行模拟时，判定试验模型与原型是否具有相似性的判据。这些判据包括几何相似、力相似、物理量相似等。"
+  },
+  {
+   "cn": "相似参数",
+   "en": "similarity parameter",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.405",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相似性准则",
+   "en": "similarity criterion",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.406",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似变换",
+   "en": "similarity transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性解",
+   "en": "similarity solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似准则",
+   "en": "similarity criterion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "相似[性]查找，相似[性]搜索",
+   "en": "similarity search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性测度",
+   "en": "similarity measure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性度量",
+   "en": "similarity measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性弧",
+   "en": "similarity arc",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性指数",
+   "en": "similarity index",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动力相似",
+   "en": "dynamic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谱相似[性]",
+   "en": "spectral similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动学相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不似之似",
+   "en": "Dissimilar in Form but Similar in Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

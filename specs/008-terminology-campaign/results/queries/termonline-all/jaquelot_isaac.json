@@ -2,10 +2,101 @@
  "key": "jaquelot, isaac",
  "term": "Jaquelot, Isaac",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:28:28+00:00",
- "status": "error",
- "note": "variant=Jaquelot, Isaac; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jaquelot, Isaac: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:44+00:00",
+ "status": "ok",
+ "note": "variant=Jaquelot, Isaac; 审定公布名词库=3; 海峡两岸名词对照库=6; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "艾萨克综合征",
+   "en": "Isaac syndrome",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.267",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿望远镜",
+   "en": "(1)Isaac Newton telescope; INT; (2)Newtonian telescope",
+   "source": "天文学名词",
+   "wordNumber": "06.061",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "(1)英国建造的、以牛顿命名的一架口径2.5m的光学望远镜。(2)在反射望远镜主镜的焦点前放置一块与光轴倾斜为 45°的平面镜，将焦面引出到镜筒一侧便于进行观测的一种反射望远镜。"
+  },
+  {
+   "cn": "牛顿望远镜Hα测光巡天",
+   "en": "Isaac Newton telescope photometric H-alpha survey",
+   "source": "天文学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "用牛顿望远镜对北半球天空中行星状星云进行的氢(Hα)发射线巡天项目。"
+  },
+  {
+   "cn": "斯特恩",
+   "en": "Stern\",\"Isaac(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伊萨克",
+   "en": "Isaac\",\"Heinrich(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亚伯拉罕与以撒",
+   "en": "Abraham and Isaac",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "阿尔贝尼斯",
+   "en": "Albéniz\",\"Isaac(西班牙)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿望远镜",
+   "en": "Isaac Newton Telescope\",\"INT",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杜那耶夫斯基",
+   "en": "Dunayevsky\",\"Issac(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,692 @@
+{
+ "key": "selection process",
+ "term": "selection process",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:12:31+00:00",
+ "status": "ok",
+ "note": "variant=selection process; 审定公布名词库=6713; 海峡两岸名词对照库=2260; 其他来源数据库=222; 预公布名词数据库=179; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "选择性脱硫工艺",
+   "en": "selective desulfurization process",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.508",
+   "subjectFullName": "化工（二）_工艺过程与设备_煤化工",
+   "subjectName": "煤化工",
+   "publishYear": "2019",
+   "definition": "在含有硫化物与<img src='/root/syzx/static/spz/huagongII1.04.508.01.png'/>的气体混合物中，仅脱除硫化物的过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "农学名词",
+   "wordNumber": "06.275",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "物种进化过程中或现代育种工作中，自然界或人工选择优良的变异个体的行为。择优去劣，是物种进化的主要动力，也是创造新品种和改良现有品种的重要手段。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "使用特殊培养条件使只具备某种特殊表型（如繁殖力或生活力）的细胞得以存活的方 式。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "动物学名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "对有利变异的保留和对有害变异淘汰的过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.296",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "任何作用于一个群体中某种基因型(或个体)生存力和繁殖力的自然或人工过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "植物学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "对有利变异保留和对有害变异淘汰的过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "遗传学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "不同基因型(或个体)有不同的繁殖力或生活力的现象。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "生态学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "任何作用于一个群体中某个基因型个体生存力和繁殖力的自然或人工过程。"
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "水产名词",
+   "wordNumber": "05.159",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "使种群个体非随机交配，以提高群体内有利基因的频率，降低不利基因的频率的一种育种方法。"
+  },
+  {
+   "cn": "分选",
+   "en": "selecting",
+   "source": "水产名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "食品按品种、大小、质量等进行挑选分类或分级。"
+  },
+  {
+   "cn": "选择",
+   "en": "selecting",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0853",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "选择性甲苯歧化工艺",
+   "en": "selective toluene disproportionation process",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.382",
+   "subjectFullName": "化工（二）_工艺过程与设备_石油化工",
+   "subjectName": "石油化工",
+   "publishYear": "2019",
+   "definition": "通过分子筛催化剂的孔道择形效应，高选择性生产对二甲苯的甲苯歧化工艺。"
+  },
+  {
+   "cn": "选择性催化氧化硫回收工艺",
+   "en": "selective catalytic oxidation process",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0787",
+   "subjectFullName": "化工（一）_加工工艺_硫磺回收",
+   "subjectName": "硫磺回收",
+   "publishYear": "2017",
+   "definition": "利用催化剂将克劳斯尾气中的硫化氢直接氧化为硫的工艺。"
+  },
+  {
+   "cn": "文选",
+   "en": "selection;selected works",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.128",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "选录文章而编成的图书集合。"
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "农学名词",
+   "wordNumber": "18.022",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "测量系统按规定的测量程序使用并提供一个或多个被测量的测得量值时，每个被测量的值与其他被测量或所研究的对象、物体或物质中的其他量无关的特性。"
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.073",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "一定量的物质，经化学反应或加工过程后，获得目标产物的比率。"
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0017",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "生成目的产物所消耗的某组分量占已转化该组分量的百分含量。"
+  },
+  {
+   "cn": "选取",
+   "en": "select",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0128",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "从指定关系中筛选出满足条件的所有元组的一种关系代数运算。"
+  },
+  {
+   "cn": "选择",
+   "en": "select",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1022",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "从同类物体中选取其中一个的动作。从寻找的终点即为选择的起点开始，到物体被选出结束。"
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "化学名词",
+   "wordNumber": "03.0073",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "样品中能与检测分析物产生响应的反应或分析方法也产生相同或相似响应的共存组分数目的多少。是表征1个反应和分析方法抗干扰能力的1个参数。能产生相同或相似响应的数目越少，表示该反应或分析方法的选择性愈高。"
+  },
+  {
+   "cn": "选择性信息加工",
+   "en": "selective information processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选取，选择",
+   "en": "select",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分裂选择,歧化选择",
+   "en": "disruptive selection\",\"diversifying selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文选择（=正选择）",
+   "en": "Darwinian selection (=positive selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净化选择（=负选择）",
+   "en": "purifying selection (=negative selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "歧化选择（=分裂选择）",
+   "en": "diversifying selection (=disruptive selection)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "择伐",
+   "en": "selective cutting\",\"selective felling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志",
+   "en": "selectable marker\",\"selective marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分裂选择",
+   "en": "disruptive selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负选择",
+   "en": "negative selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化选择",
+   "en": "evolutionary selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡选择",
+   "en": "balancing selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场逆向选择",
+   "en": "adverse selection in the market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行进",
+   "en": "proceed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "基本药物遴选",
+   "en": "essential medicine selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "按照“突出基本、防治必需、保障供应、优先使用、保证质量、降低负担”的功能定位，坚持中西药并重、临床首选的原则，参照国际经验合理确定基本药物品种（剂型）的过程。"
+  },
+  {
+   "cn": "供体选择准则",
+   "en": "donor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.05",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选器官、组织或细胞移植供体的医学、伦理及安全性标准。"
+  },
+  {
+   "cn": "营址选择",
+   "en": "camp site selection",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.1.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为满足部队任务需要，综合考虑自然气候、地理环境条件及环境卫生状况等实际情况，确定部队营区展开的空间范围。"
+  },
+  {
+   "cn": "受体选择准则",
+   "en": "receptor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.049",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在器官、细胞或组织移植过程中，用于评估和筛选合适受体的医学、伦理及社会标准。"
+  },
+  {
+   "cn": "选择培养基",
+   "en": "selective culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "用来促进或抑制一定类型的生物体（如细胞或细菌等）的培养基。"
+  },
+  {
+   "cn": "选择性流产",
+   "en": "sex-selective abortion",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "孕妇或相关者有选择地进行人工流产、终止妊娠的行为，包括性别选择性流产、病理选择性流产、社会文化原因选择性流产等。而性别选择性流产大多受男孩偏好的影响，会导致男性新生婴儿性别比偏高的不良后果，这在中国是"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "选择性IgA缺乏症",
+   "en": "selective IgA deficiency,SIgAD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "原发性免疫缺陷中最常见的类型，血清IgA持续低于0.05g/L，而血清IgG、IgM水平正常或升高，且能排除药物等其它原因所导致的血清IgA低下。可无症状，或伴慢性呼吸道感染、消化道感染、过敏性疾病和"
+  },
+  {
+   "cn": "儿童选择性缄默症",
+   "en": "selective mutism in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "具有正常或接近正常言语或语言能力的儿童经常在被期待发言的社交场合（如学校）无法发言的一种精神疾病，多见于年幼儿童。"
+  },
+  {
+   "cn": "过程",
+   "en": "process",
+   "source": "马克思主义",
+   "wordNumber": "01.0092",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在时间上的持续和在空间上的广延，是矛盾存在和发展的形式。唯物辩证法认为，过程是物质、运动和时间、空间的辩证统一。任何事物都是过程的集合体，都是作为过程而出现并向前发展的。"
+  },
+  {
+   "cn": "野营地选择",
+   "en": "site selection of field camp",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在满足部队行动目标及训练要求的前提下，综合考虑野营方式、时间、自然气候和地理环境条件及环境卫生状况等要素，而确定野营营区展开的空间范围。"
+  },
+  {
+   "cn": "选择性雌激素受体调节剂",
+   "en": "selective estrogen receptor modulators, SERMs",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.18",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "一类结构多样的化合物，能与雌激素受体结合，依据靶组织和激素内环境的不同，表现为雌激素激动剂和（或）雌激素拮抗剂。用于防治绝经后骨质疏松症、高血脂、更年期综合征和预防乳腺癌等，且不增加子宫内膜癌的危险。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

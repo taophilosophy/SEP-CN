@@ -1,0 +1,562 @@
+{
+ "key": "empirical significance",
+ "term": "empirical significance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:19:29+00:00",
+ "status": "ok",
+ "note": "variant=empirical significance; 审定公布名词库=171; 海峡两岸名词对照库=61; 其他来源数据库=4; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "理论的经验意义",
+   "en": "empirical significance of theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.222",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "理论可以推导出可观察命题，在经验上有可检验性。"
+  },
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据科学事实和经验知识而建立的模型。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "经验预见",
+   "en": "empirical prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "科学理论对经验事实的预见。包括对经验事实、经验规律的重复性预见以及对未知的新颖事实的预见。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "Empirical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.167",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "形成于20世纪初，以功能主义为主要理论指导，在传播研究中注重经验材料和实证考察。该学派以美国传播研究学者为主。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "经验延迟",
+   "en": "empirical delay",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "根据经验值设定扫描延迟时间的方法。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0757",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过数理统计处理实测数据，实现定量描述输入和输出变量之间关系的一种数学模型。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "物理学名词",
+   "wordNumber": "01.0092",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0038",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "由实测数据归纳而得到的定量描述因变量与自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0049",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "人们从生活经验中归纳获得的关于事物因果关系或属性状态的法则或知识。"
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0033",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "科学实验和生产实践中从一组实验数据出发建立的近似表达式。"
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "化学名词",
+   "wordNumber": "01.0009",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "表示化合物中各原子最简比例的方式。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验洪水公式",
+   "en": "empirical flood formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实证效标计分法",
+   "en": "empirical criterion keying",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验杂波模式",
+   "en": "empirical clutter model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验正交函数",
+   "en": "empirical orthogonal function\",\"EOF",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半经验气候模式",
+   "en": "semi-empirical climate model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "千年大计、国家大事",
+   "en": "national project of millennial significance",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从总体中得到的样本统计量的概率或似然估计客观地评判研究假设能否为数据所支持的统计方法。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从统计的意义上来说，在一定的显著性水平之下，样本统计量可以拒绝虚无假设的显著性。与“实质显著性”相对。"
+  },
+  {
+   "cn": "实质显著性",
+   "en": "substantive significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从现实的意义上来说，一个统计结论具有现实意义的显著性。与“统计显著性”相对。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "假设检验达到统计学显著性的标准，即P 值小于预先设定的检验水准α或者置信区间不包括零假设界值。"
+  },
+  {
+   "cn": "生物学意义",
+   "en": "biological significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物对生物体健康具有实质性或显著影响（正面或负面）的统计学显著性效应"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significant level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在统计假设检验中，用样本资料推断总体时，犯拒绝虚无假设错误的可能性大小。通常以表示，是一个临界概率值；越小，犯拒绝虚无假设的错误可能性越小。"
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant others",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "对一个人的生活和幸福有着特别重要影响的任何他人，影响个体的自我评价和对重要社会规范的接受与认可。"
+  },
+  {
+   "cn": "显著疲劳",
+   "en": "significant fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第二阶段。机理是大脑皮层的保护性抑制加深和扩散，表现兴奋泛化和内抑制障碍同时出现。主要表现有：上课时打呵欠和瞌睡；对条件刺激的错误反应增多，反应量减少，反应时延长。"
+  },
+  {
+   "cn": "显着危害",
+   "en": "significant hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，有极大可能发生的生物、化学或物理危害，且一旦发生将对消费者造成不可接受的健康危险，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "最小有意义活度",
+   "en": "minimum significant activity",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对特定的测量方法，测量值大于本底响应的最小的有意义的数值。"
+  },
+  {
+   "cn": "最小有效活度",
+   "en": "minimum significant activity，MSA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平下，与本底有显著性区别的放射性活度值。"
+  },
+  {
+   "cn": "意义未明的单克隆丙种球蛋白血症",
+   "en": "monoclonal gammopathy of undetermined significance，MGUS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.24",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一类血液中可以检测到异常升高的单克隆蛋白（M蛋白），骨髓浆细胞比例小于10%，但无全身症状和明确脏器损伤的良性疾病。部分患者可能会主诉感觉麻木、疲乏等非特异性症状。少数MGUS可能在相当长的时间后进展"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

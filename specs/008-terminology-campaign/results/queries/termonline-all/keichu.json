@@ -2,10 +2,211 @@
  "key": "keichu",
  "term": "Keichū",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T05:42:02+00:00",
- "status": "error",
- "note": "variant=Keichū; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Keichū: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:32:48+00:00",
+ "status": "ok",
+ "note": "variant=Keichū; 审定公布名词库=10; 海峡两岸名词对照库=7; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "假潮",
+   "en": "seiche",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0306",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "在封闭或半封闭水域中具有该水域固有振荡周期的驻波。"
+  },
+  {
+   "cn": "湖震",
+   "en": "seismic seiche",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "由湖底震动、气压变化 (如强风)和潮汐等原因，或由地震或海啸引起的不连通水体(如湖泊、水池、水槽、河流、入口狭窄的海湾等 )水面的长周期激荡的地震。周期为几分钟至几小时，与由湖水的大小、水深分布决定的"
+  },
+  {
+   "cn": "假潮灾害",
+   "en": "seiche disaster",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0193",
+   "subjectFullName": "海洋科学技术_其他_海洋灾害",
+   "subjectName": "海洋灾害",
+   "publishYear": "2007",
+   "definition": "由大气的、海洋的或者地震扰动力引起的封闭或半封闭水体的共振现象导致的水位急剧变化。"
+  },
+  {
+   "cn": "湖振",
+   "en": "lake seiche",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "水利科学技术_水文、水资源_陆地水文学（水利）",
+   "subjectName": "陆地水文学（水利）",
+   "publishYear": "1997",
+   "definition": "湖泊整个水体发生振荡的现象。"
+  },
+  {
+   "cn": "湖震",
+   "en": "seismic seiche",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "第三帝国",
+   "en": "Third Reich",
+   "source": "世界历史名词",
+   "wordNumber": "03.0634",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "希特勒统治下的德意志帝国(1933-1945)的非正式名称。"
+  },
+  {
+   "cn": "国体明征运动",
+   "en": "Kokutai Meicho Movement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0116",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1935年，日本以右翼势力、军部为中心扼杀“天皇机关说”的法西斯政治运动。"
+  },
+  {
+   "cn": "大前研一的战略思想",
+   "en": "strategy thought of Ohmae Kenichi",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0583",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "大前研一(Ohmae Kenichi)对日本企业战略思想的解释不同于他人，认为其具有非线性、非理性的直观、创新等特征，战略是由顾客、公司自身、竞争对手之间的三角关系决定的。"
+  },
+  {
+   "cn": "库恩-托马斯-赖歇加和规则",
+   "en": "Kuhn-Thomas-Reiche sum rule",
+   "source": "化学名词",
+   "wordNumber": "04.1285",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "处于某指定状态的原子，其吸收跃迁的振子强度之和减去发射跃迁的振子强度之和等于参与这些跃迁的电子数。"
+  },
+  {
+   "cn": "国家重建法",
+   "en": "Act to Rebuild the Reich",
+   "source": "世界历史名词",
+   "wordNumber": "03.0642",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1934年1月30日，纳粹德国颁布的改行中央集权制的法令。"
+  },
+  {
+   "cn": "荡漾",
+   "en": "seiche",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假潮， 静振",
+   "en": "seiche",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "赖克",
+   "en": "Reich\",\"Steve(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赖希",
+   "en": "Reich\",\"Willi(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假潮灾害",
+   "en": "seiche disaster",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二帝国",
+   "en": "Second Reich",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "莱夏",
+   "en": "Reicha\",\"Antonin(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双桅小帆船",
+   "en": "ketch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凯克齐人",
+   "en": "Kekchi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0366",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲危地马拉境内的土著人，居住在危地马拉东部，人口约80 万（2002 年）。属佩努蒂语族。"
+  },
+  {
+   "cn": "基切人",
+   "en": "K’iche",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0358",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲危地马拉境内最大的土著人民，主要分布在危地马拉的西部，人口大约62.3 万。基切人也是美洲最大的玛雅人族群之一。在与其他玛雅族群和西班牙殖民者融合的过程中，基切人文化也逐步体现了多元性。一些基切"
+  }
+ ],
+ "error": null,
  "raw": null
 }

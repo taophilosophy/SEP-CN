@@ -1,0 +1,682 @@
+{
+ "key": "possible solutions",
+ "term": "possible solutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:27:44+00:00",
+ "status": "ok",
+ "note": "variant=possible solutions; 审定公布名词库=627; 海峡两岸名词对照库=227; 其他来源数据库=18; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "可能世界语义",
+   "en": "possible world semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "利用“可能世界”的思想去定义逻辑上可能性、必然性和偶然性的一种语义。"
+  },
+  {
+   "cn": "可照时数",
+   "en": "possible sunshine duration",
+   "source": "建筑学名词",
+   "wordNumber": "10.0155",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "在一定的时间段内，太阳光照射在某一特定地点的建筑物上的累计时间。"
+  },
+  {
+   "cn": "生产可能性曲线",
+   "en": "production possibility curve",
+   "source": "经济学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "表示经济社会在既定资源和技术条件下所能生产的各种商品最大数量的组合。该曲线反映了资源稀缺性与选择性的经济学特征。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "地质学名词",
+   "wordNumber": "05.01.051",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由至少两种物质组成的均一、稳定的混合物。被分散的物质(溶质)以分子或更小的质点分散于另一物质(溶剂)中。根据溶液状态，可分为气体溶液、固体溶液和液体溶液，一般的溶液都专指液体溶液。"
+  },
+  {
+   "cn": "解决方案",
+   "en": "solution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.246",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "针对某些已经体现出的或者预期出现的问题、需求等，所提出的一个解决整体问题的方案，同时能够确保加以有效地执行。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "冶金学名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "两种或两种以上的物质均匀混合，彼此以分子(或原子)大小的数量级均匀分布而构成的连续相物质。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "化学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "由两种或两种以上物质组成的均匀、稳定的分散体系。溶液由溶质和溶剂组成。固体状态的溶液，如某些合金。液态溶液如盐水、糖水。气态溶液如纯净空气。通常所指的溶液是液态溶液。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "药学名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "一种或几种物质分散到另一种物质里，形成的均一的、稳定的混合物。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.036",
+   "subjectFullName": "中医药学_皮肤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "将单味药或复方加水煎熬或溶解到一定浓度，过滤所得的液体制剂。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0061",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷剂和载冷剂",
+   "subjectName": "制冷剂和载冷剂",
+   "publishYear": "2013",
+   "definition": "由溶质和溶剂组成的均匀液体。未指明溶剂时一般指水溶液。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "化学工程名词",
+   "wordNumber": "03.408",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_吸收",
+   "subjectName": "吸收",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "解",
+   "en": "solution",
+   "source": "数学名词",
+   "wordNumber": "01.0051",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "溶解",
+   "en": "solution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方案",
+   "en": "solution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等渗溶液",
+   "en": "isotonic solution\",\"isoosmotic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution\",\"perfect solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔溶液",
+   "en": "molal solution\",\"molar solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "低渗溶液",
+   "en": "hypotonic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高渗溶液",
+   "en": "hypertonic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克诺普溶液",
+   "en": "Knop solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解空间",
+   "en": "solution space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据场景方案",
+   "en": "data scenario solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒液",
+   "en": "disinfectant; antiseptic solution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区块链反腐",
+   "en": "blockchain-based integrity solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下一代网络安全解决方案（中国）",
+   "en": "Next-generation Cybersecurity Solution (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电商全链路解决方案",
+   "en": "e-commerce full-link solution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尽最大可能控制疫情波及范围",
+   "en": "to make every possible effort to curb the spread of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "做好返程人员疫情防控",
+   "en": "to take measures to help returnees from infected regions in order to prevent any possible spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不可能三角",
+   "en": "impossible trinity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "储存溶液",
+   "en": "storage solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "比使用浓度高，使用前需要稀释的浓标准溶液。"
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能使生物体着色的化学物质。"
+  },
+  {
+   "cn": "脱色液",
+   "en": "destaining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能够除去染色后的细菌菌体上的染色剂，从而对细菌进行鉴别的试剂。"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "煤酚皂溶液",
+   "en": "saponated cresol solution",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由邻位甲酚、间位甲酚、对位甲酚三种甲酚异构体与皂液组成。为棕黄色或红色粘稠液体，有酚臭味，甲酚含量约50%（v/v)，溶于水和乙醇，呈碱性，性能稳定。"
+  },
+  {
+   "cn": "磷酸盐缓冲液",
+   "en": "phosphate buffer solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由无水磷酸氢二钠和磷酸二氢钾配制成的pH值为7.2，浓度为0.03mol/L的中性缓冲液。"
+  },
+  {
+   "cn": "胰蛋白胨生理盐水溶液",
+   "en": "tryptone saline solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "胰蛋白胨和氯化钠溶于蒸馏水制成的pH值为7.0±0.2的试验试剂。常用做试验菌的稀释用液。"
+  },
+  {
+   "cn": "放射性标准溶液",
+   "en": "radioactive standard solution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.32",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "已准确标定过放射性浓度的溶液。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "neural activity",
+ "term": "neural activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:26:13+00:00",
+ "status": "ok",
+ "note": "variant=neural activity; 审定公布名词库=3664; 海峡两岸名词对照库=1188; 其他来源数据库=127; 预公布名词数据库=261; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "神经网络",
+   "en": "neural net,neural network",
+   "source": "电子学名词",
+   "wordNumber": "03.449",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "神经纤维脂肪瘤",
+   "en": "neural fibrolipoma",
+   "source": "神经外科学名词",
+   "wordNumber": "6.233",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "一种由神经外膜、脂肪和纤维组织过度增生引起的肿瘤。多发生于掌、腕和前臂屈侧。也可发生于足部，颅内少见。好发于儿童和青年人。"
+  },
+  {
+   "cn": "神经变性",
+   "en": "neural degeneration",
+   "source": "神经外科学名词",
+   "wordNumber": "15.024",
+   "subjectFullName": "医学_神经外科学_周围神经肿瘤_周围神经系统结构及其他疾病",
+   "subjectName": "周围神经系统结构及其他疾病",
+   "publishYear": "2026",
+   "definition": "神经系统的结构和功能障碍。表现为细胞或细胞间质内出现异常物质或正常物质（如蛋白质、脂质、糖类）的异常堆积，失去脑内稳态平衡，晚期有反应性星形胶质细胞增生，髓鞘与轴突丢失，加剧神经元损伤甚至死亡。"
+  },
+  {
+   "cn": "神经中枢",
+   "en": "neural center",
+   "source": "兽医学名词",
+   "wordNumber": "04.452",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "与调节某一生理活动有关的，分布在中枢神经系统不同水平的神经细胞群。"
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest",
+   "source": "兽医学名词",
+   "wordNumber": "07.128",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "起源于胚胎早期发育阶段神经管外层的细胞，沿发育中的神经管背部两侧形成的神经外胚层细胞带。聚集成簇，发育成脊神经背根神经节细胞、自主神经节细胞、肾上腺髓质嗜铬细胞、神经膜细胞和皮肤色素细 胞等。"
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "兽医学名词",
+   "wordNumber": "07.226",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "脊索动物原肠胚期，背侧外胚层正中增厚形成的外胚层板。经神经褶、神经管等的发育过程发育成神经系统。"
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "兽医学名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "脊索动物发生初期在神经板正中走行的一条浅沟。在其下面，脊索原基与外胚层紧密结合在一起。"
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold",
+   "source": "兽医学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "主要是在脊索动物的发生初期（神经胚期），包围在神经板周围的外胚层隆起。将来形成间充质、软骨、色素细胞和脊神经节等组织。"
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube",
+   "source": "兽医学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "在脊椎动物胚胎发育早期，神经板闭合形成的管状物。位于脊索的背面，沿脊索纵行，以后形成中枢神经系统和脊椎动物的眼睛。"
+  },
+  {
+   "cn": "神经龙骨",
+   "en": "neural keel",
+   "source": "动物学名词",
+   "wordNumber": "4.0349",
+   "subjectFullName": "动物学_动物胚胎学_原肠胚形成",
+   "subjectName": "原肠胚形成",
+   "publishYear": "2021",
+   "definition": "位于脊索中胚层正上方的上胚层是预定神经系统细胞，先形成神经板，再形成的一条与脊索中胚层走向相同的长条状结构。"
+  },
+  {
+   "cn": "神经外胚层",
+   "en": "neural ectoderm",
+   "source": "动物学名词",
+   "wordNumber": "4.0413",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "分化为神经板、最终分化为神经组织的一部分外胚层。位于脊索中胚层的背方、胚胎的前后轴上，将发育成为神经管和神经嵴。"
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "动物学名词",
+   "wordNumber": "4.0419",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "胚盘背侧中线的外胚层增厚，形成的一个头端宽尾端窄的椭圆形细胞板。将来形成神经管，分化为神经系统。"
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold",
+   "source": "动物学名词",
+   "wordNumber": "4.042",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "神经板两侧边缘形成的隆起。中央为神经沟。"
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "动物学名词",
+   "wordNumber": "4.0421",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "神经板中央下陷形成的一条U形沟。"
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube",
+   "source": "动物学名词",
+   "wordNumber": "4.0422",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "神经沟闭合形成的一条贯穿胚体全长的结构。为神经系统的原基，其头段将分化为脑，尾段将分化为脊髓。"
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest",
+   "source": "动物学名词",
+   "wordNumber": "4.0427",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "脊椎动物在神经管形成过程中，位于神经板两侧、不参与神经管闭合的细胞团。可分化成成体多种不同的细胞谱系，如脊神经节、胶质细胞和嗜铬细胞等。"
+  },
+  {
+   "cn": "神经[传导]通路",
+   "en": "neural pathway",
+   "source": "手外科学名词",
+   "wordNumber": "05.0739",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "传导神经冲动的通路。包括感觉传导路和运动传导路。"
+  },
+  {
+   "cn": "神经黏合剂",
+   "en": "neural adhesive",
+   "source": "手外科学名词",
+   "wordNumber": "05.0846",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "一种修复神经的生物黏合材料。通过运用黏合剂和酶黏合剂吻合周围神经。"
+  },
+  {
+   "cn": "神经黏合术",
+   "en": "neural adhesion",
+   "source": "手外科学名词",
+   "wordNumber": "05.0847",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "采用黏合剂进行周围神经黏合的技术。所采用的黏合剂系纤维蛋白胶或医用生物黏合剂（多为α-氰基丙烯酸酯类）。"
+  },
+  {
+   "cn": "神经变性",
+   "en": "neural degeneration",
+   "source": "生理学名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经回路",
+   "en": "neural circuit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经棘",
+   "en": "neural spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经培养",
+   "en": "neural culture",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经通路",
+   "en": "neural pathway",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经回路",
+   "en": "neural circuit",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经再生",
+   "en": "neural regeneration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经可塑性",
+   "en": "neural plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经微电路",
+   "en": "neural microcircuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络芯片",
+   "en": "neural network chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络算法",
+   "en": "neural network algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络学习",
+   "en": "neural network learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霍普菲尔德神经网络",
+   "en": "Hopfield neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播神经网络",
+   "en": "backpropagation neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卷积神经网络",
+   "en": "convolutional neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度神经网络",
+   "en": "deep neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自组织神经网络",
+   "en": "self-organizing neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络语言模型",
+   "en": "neural network language model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "神经型食物中毒",
+   "en": "neural type food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "由于进食含有外毒素（如肉毒梭菌毒素）的食物而引起的急性中毒疾病"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "胆碱酯酶活性",
+   "en": "cholinesterase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.3",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "用于评价有机磷中毒的重要指标之一，轻度中毒时全血胆碱酯酶活性约为正常的50%~70%，中度中毒时约为正常的30~50%，重度中毒时低于30%。"
+  },
+  {
+   "cn": "戊二醛活化",
+   "en": "glutaraldehyde activation",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在灭菌前，戊二醛水溶液中加入碱或表面活性剂将其碱化的过程，以提高灭菌效果。"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

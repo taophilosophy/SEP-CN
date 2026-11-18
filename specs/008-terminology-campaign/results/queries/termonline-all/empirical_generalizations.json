@@ -1,0 +1,682 @@
+{
+ "key": "empirical generalizations",
+ "term": "empirical generalizations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:16:52+00:00",
+ "status": "ok",
+ "note": "variant=empirical generalizations; 审定公布名词库=1787; 海峡两岸名词对照库=485; 其他来源数据库=126; 预公布名词数据库=103; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据科学事实和经验知识而建立的模型。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "经验预见",
+   "en": "empirical prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "科学理论对经验事实的预见。包括对经验事实、经验规律的重复性预见以及对未知的新颖事实的预见。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "Empirical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.167",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "形成于20世纪初，以功能主义为主要理论指导，在传播研究中注重经验材料和实证考察。该学派以美国传播研究学者为主。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "经验延迟",
+   "en": "empirical delay",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "根据经验值设定扫描延迟时间的方法。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0757",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过数理统计处理实测数据，实现定量描述输入和输出变量之间关系的一种数学模型。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "物理学名词",
+   "wordNumber": "01.0092",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0038",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "由实测数据归纳而得到的定量描述因变量与自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0049",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "人们从生活经验中归纳获得的关于事物因果关系或属性状态的法则或知识。"
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0033",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "科学实验和生产实践中从一组实验数据出发建立的近似表达式。"
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "化学名词",
+   "wordNumber": "01.0009",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "表示化合物中各原子最简比例的方式。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "empirical school",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0433",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "管理丛林学派之一，以戴尔(Ernest Dale)为代表，主张通过分析经验来研究管理，认为管理是一门艺术而不是科学，从有价值的经验中提取一般结论。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经验洪水公式",
+   "en": "empirical flood formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实证效标计分法",
+   "en": "empirical criterion keying",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验杂波模式",
+   "en": "empirical clutter model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "综合",
+   "en": "generalization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自生",
+   "en": "Spontaneous Generation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本生成",
+   "en": "text generation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用数据",
+   "en": "general data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "臭氧发生器",
+   "en": "ozone generator",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过介质阻挡放电、紫外线照射或电解方式产生臭氧的装置。"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "放射性核素发生器",
+   "en": "radionuclide generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.5",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "可以从较长半衰期的放射性核素（母体）中分离出由它衰变而产生的较短半衰期放射性核素（子体）的一种装置。"
+  },
+  {
+   "cn": "中子发生器",
+   "en": "neutron generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.26",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用各种发生器产生某些带电粒子（如质子和氘等）并予以加速，用它们去轰击靶原子核产生中子的装置。"
+  },
+  {
+   "cn": "通用准则",
+   "en": "generic criteria",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "应当采取防护行动和其他响应行动的预期剂量或已接受剂量水平。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  },
+  {
+   "cn": "代沟",
+   "en": "generation gap",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "不同的人因年龄差距而产生的价值观、行为模式、规范认同等层面的差距，是社会变迁在人的心理层面的反映。产生的年龄差距与社会变迁的速度成反比。"
+  },
+  {
+   "cn": "代际流动",
+   "en": "generation mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "上一代人（通常是父亲）的阶级或阶层地位相较下一代人（子女）的阶级或阶层地位发生了改变。社会学家通过其判断某一社会的阶级阶层结构变化和社会的开放程度。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "总体资本家",
+   "en": "general capitalist",
+   "source": "马克思主义",
+   "wordNumber": "02.0125",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义社会中，单个资本之间互相联系、互相依存形成总社会资本，总社会资本的人格化就是总体资本家。这一概念从社会整体的宏观角度来考察资本同劳动的对立，揭示资产阶级对无产阶级的剥削和压迫的总体关系。"
+  },
+  {
+   "cn": "一般商品",
+   "en": "general commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0191",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的一种特殊的社会职能。货币，作为固定地充当一般等价物的商品，它是价值额的独立表现，可以衡量一切商品的价值，具有与一切商品直接交换的能力，这种社会职能使它成为作为一般等价物的一般商品。"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

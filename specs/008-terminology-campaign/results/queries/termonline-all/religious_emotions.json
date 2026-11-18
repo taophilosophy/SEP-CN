@@ -1,0 +1,742 @@
+{
+ "key": "religious emotions",
+ "term": "religious emotions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:26:40+00:00",
+ "status": "ok",
+ "note": "variant=religious emotions; 审定公布名词库=548; 海峡两岸名词对照库=164; 其他来源数据库=32; 预公布名词数据库=74; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "兽医学名词",
+   "wordNumber": "04.547",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "人类和动物对客观环境刺激所表达的一种特殊的心理体验与某种固定形式的躯体行为表现。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.193",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对内外信息的态度体验及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。狭义上是指需要是否被满足而产生的暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤"
+  },
+  {
+   "cn": "情感",
+   "en": "emotion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.033",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种有生理感觉与非言语行为反应的情绪表达与心理状态的沟通体验。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "行为医学名词",
+   "wordNumber": "4.061",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "对内外信息的态度体验及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "生理学名词",
+   "wordNumber": "03.656",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "精神医学名词",
+   "wordNumber": "02.206",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "计划生育名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们对客观事物的态度或人接触客观事物时所引起的体验。情绪反应可伴有一定的机体变化。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.186",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对客观事物的态度体验。包括情感。狭义上是指因需要是否满足产生暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤、厌恶 等。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0146",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "对人或物的强烈情感。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "心理学名词",
+   "wordNumber": "02.720",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.012",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随着基督教会组织体系的建立而产生的档案管理机构。教会档案馆起源于4世纪中叶，负责保存教皇的命令、信件和账目，以及与教皇特权和恩赐有关的文件，从13世纪起其发展成为一种馆藏国际化的档案管理机构。"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有关宗教及宗教内容的公开发行的或宗教团体内部性资料的出版物的统称。"
+  },
+  {
+   "cn": "宗教控制",
+   "en": "religious control",
+   "source": "行为医学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "以教规和宗教仪式作为社会控制手段，通过教育和惩罚两种方式约束其信徒的行为。"
+  },
+  {
+   "cn": "宗教地图",
+   "en": "religious map",
+   "source": "测绘学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映宗教种类、分布及文化特点的地图。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious architecture",
+   "source": "建筑学名词",
+   "wordNumber": "02.1130",
+   "subjectFullName": "建筑学_建筑类型及组成_农业建筑",
+   "subjectName": "农业建筑",
+   "publishYear": "2014",
+   "definition": "供安置神祇、进行宗教活动及教徒修行、居住的场所。在建筑文化史上是一种重要的建筑类型。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "教育学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）在一些国家学校中开设的宗教知识教育，旨在帮助学生发展认同感和归属感，同时理解、尊重不同宗教信仰，促进不同宗教之间的和谐相处。（2）宗教院校开展的以培养宗教人才为目的的教育。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.1201",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪，从德国开始漫延欧洲诸国的反对罗马天主教会的社会运动，提出以信仰得救为核心和建立廉俭教会的系统理论。"
+  },
+  {
+   "cn": "宗教骑士团",
+   "en": "Religious Chivalry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "第一次十字军东侵之后，西欧天主教会与封建主为保卫其在东方侵占的领地而组织的宗教性封建军事团体。"
+  },
+  {
+   "cn": "宗教活动",
+   "en": "religious activities",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.193",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "宗教信徒举行的各种宗教与法事活动。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情绪控制",
+   "en": "emotion control",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向情绪",
+   "en": "positive emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪调节",
+   "en": "emotion regulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动情绪",
+   "en": "sport emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负面情绪",
+   "en": "negative emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感建模",
+   "en": "emotion modeling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情绪不稳定性",
+   "en": "emotional instability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "emotional expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪依恋",
+   "en": "emotional attachment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪维度",
+   "en": "emotional dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪稳定性",
+   "en": "emotional stability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪虐待",
+   "en": "emotional abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪智力",
+   "en": "emotional intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪关注应对，情绪聚焦应对",
+   "en": "emotion focused coping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪聚焦疗法",
+   "en": "emotion focused therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识情绪",
+   "en": "self conscious emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪智商，情商",
+   "en": "emotional quotient\",\"EQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性情绪反应,制约化情绪反应",
+   "en": "conditioned emotional response\",\"CER\",\"conditional emotional reaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "六志",
+   "en": "Six Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天情",
+   "en": "Innate Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情商",
+   "en": "Emotional Quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗缘情",
+   "en": "Poetry Springs from Emotions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气骨",
+   "en": "Qigu (Emotional Vitality and Forcefulness)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为情而造文 / 为文而造情",
+   "en": "Produce a Piece of Writing for Emotions / Produce Emotions for a Piece of Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗穷而后工",
+   "en": "<div> A Good Poem Is the Product of Pent-up Emotions.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "各个宗教及其派别所实践的、具有特定含义、规则和功能等的典礼或仪轨。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "宗教激动",
+   "en": "religious thrill",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.24",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "由某一信仰或崇拜导致强烈的生理、心理的体验。"
+  },
+  {
+   "cn": "宗教共同体",
+   "en": "religious community",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "从宗教的共同行动、团体生活中产生关联纽带，将个体团结在群体之中，由此所形成的具有凝聚力的团结的共同体。"
+  },
+  {
+   "cn": "宗教组织",
+   "en": "religious organization",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以特定信仰或宗教形式为基础形成的各种组织形式的总称。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "宗教膜拜",
+   "en": "religious cult",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以某一或某些特定的上帝或神灵、甚至圣人或具有通灵能力的个人为对象的宗教信仰与实践，往往与社会的某些宗教制度有关，但表现形式较为新奇或特异。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "宗教教派",
+   "en": "religious denominations",
+   "source": "马克思主义",
+   "wordNumber": "04.0027",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "宗教社会学用语。从一种较大的宗教团体中分裂出来的小团体。自认为其信仰是唯一真正的信仰，并负有恢复宗教真面貌的使命。在教派中，一般有较强烈的共同情感与宗教上的自我认同感。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "马克思主义",
+   "wordNumber": "04.0028",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的宗教教育指一切与宗教有关的教育制度和活动；狭义的宗教教育指直接由宗教组织承办、以培养宗教神职人员为目的、以宗教神学知识为内容的教育制度。"
+  },
+  {
+   "cn": "宗教人类学",
+   "en": "religious anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0298",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一门研究宗教现象的文化人类学（民族学）分支学科，关注宗教信仰、仪式、神话、宗教实践等方面的社会文化现象，并试图理解它们对个体和社会的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,511 @@
  "key": "hypatia",
  "term": "Hypatia",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T03:46:25+00:00",
- "status": "error",
- "note": "variant=Hypatia; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Hypatia: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:02+00:00",
+ "status": "ok",
+ "note": "variant=Hypatia; 审定公布名词库=689; 海峡两岸名词对照库=67; 其他来源数据库=3; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "麻醉学名词",
+   "wordNumber": "05.247",
+   "subjectFullName": "麻醉学_重症监护与治疗_氧气疗法",
+   "subjectName": "氧气疗法",
+   "publishYear": "2024",
+   "definition": "由于组织的氧气供应不足或用氧障碍，组织的代谢、功能和形态结构发生异常变化的病理过程。"
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "兽医学名词",
+   "wordNumber": "10.437",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "由于组织（细胞）氧的供给不足或氧的利用障碍，引起的器官组织功能、代谢和形态的异常变化。"
+  },
+  {
+   "cn": "低氧",
+   "en": "hypoxia",
+   "source": "生理学名词",
+   "wordNumber": "06.158",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "烧伤学名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "烧伤学_烧伤概论_烧伤后病理生理变化",
+   "subjectName": "烧伤后病理生理变化",
+   "publishYear": "2019",
+   "definition": "当组织的氧供应不足或氧利用障碍时，导致组织代谢、功能和形态结构发生异常变化的病理过程。"
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "感染病学名词",
+   "wordNumber": "04.0281",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_感染性休克",
+   "subjectName": "感染性休克",
+   "publishYear": "2019",
+   "definition": "当组织的氧供应不足或利用氧障碍时，导致组织的代谢、功能和形态结构发生异常变化的病理过程。"
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "生物物理学名词",
+   "wordNumber": "10.050",
+   "subjectFullName": "生物物理学_自由基生物学_抗氧化剂与氧化还原反应",
+   "subjectName": "抗氧化剂与氧化还原反应",
+   "publishYear": "2018",
+   "definition": "机体整体或特定组织或细胞由于氧供不足介导的病理变化。"
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "呼吸病学名词",
+   "wordNumber": "10.092",
+   "subjectFullName": "呼吸病学_氧和二氧化碳代谢_氧代谢",
+   "subjectName": "氧代谢",
+   "publishYear": "2018",
+   "definition": "氧的供给不能满足机体的代谢需要或由于氧化过程障碍，机体不能正常地利用氧的病理状态。缺氧使机体发生代谢、功能和形态结构等方面的变化。"
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "医学名词 第一分册",
+   "wordNumber": "05.256",
+   "subjectFullName": "医学_呼吸病学",
+   "subjectName": "呼吸病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "肝棘球蚴病",
+   "en": "hepatic hydatid disease",
+   "source": "病理学名词",
+   "wordNumber": "02.429",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "由细粒棘球绦虫或多房棘球绦虫虫卵经粪-口途径感染所引起的肝脏疾病。属于人畜共患传染病。根据致病原不同分为肝囊型囊肿和肝泡型囊肿两类。肝囊型囊肿由细粒棘球绦虫棘球蚴感染引起，多为单发，与正常组织界限清晰"
+  },
+  {
+   "cn": "伊帕季编年史",
+   "en": "Hypatian Codex",
+   "source": "世界历史名词",
+   "wordNumber": "02.0775",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "15世纪编纂成的俄国史料汇编，源于13世纪末的南俄编年史。"
+  },
+  {
+   "cn": "肝压迹",
+   "en": "impression hepatica;hepatic impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.049",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "受周围脏器的挤压，肝表面形成的凹陷。"
+  },
+  {
+   "cn": "肝华支睾吸虫病",
+   "en": "hepatic clonorchiasis sinensis;clonorchiasis hepatica",
+   "source": "消化内镜学名词",
+   "wordNumber": "19.04",
+   "subjectFullName": "消化内镜学_肝脏疾病_肝脏炎性疾病",
+   "subjectName": "肝脏炎性疾病",
+   "publishYear": "2021",
+   "definition": "由华支睾吸虫寄生于肝内胆管所引起的寄生虫病。常因食用未经煮熟的含有华支睾吸虫囊蚴的淡水鱼或虾而被感染。轻者可无症状，重者可有肝脾大、腹水、上腹部疼痛、黄疸等表现。"
+  },
+  {
+   "cn": "肝淋巴管瘤[病]",
+   "en": "hepatic lymphangioma,hepatic lymphangiomatosis",
+   "source": "病理学名词",
+   "wordNumber": "02.584",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "一种由海绵状或囊性扩张的淋巴管构成的良性肿瘤。常表现为单发或多发性病灶。"
+  },
+  {
+   "cn": "肝圆韧带",
+   "en": "hepatic round ligament，ligamentum teres hepatis（拉）",
+   "source": "肝病学名词",
+   "wordNumber": "1.1.2.2.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏解剖学",
+   "subjectName": "肝脏解剖学",
+   "publishYear": "2024",
+   "definition": "位于肝圆韧带裂中，为脐静脉闭锁形成的韧带。向上连接肝镰状韧带的游离缘。"
+  },
+  {
+   "cn": "肝门静脉",
+   "en": "hepatic portal vein，vena portae hepatis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.323",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "由胃十二指肠静脉、脾静脉、肠系膜前静脉、肠系膜后静脉汇集而成的静脉。位于后腔静脉腹侧，为引导胃、脾、胰、小肠、大肠（直肠后段除外）的静脉血入肝的粗短静脉干。"
+  },
+  {
+   "cn": "肝门",
+   "en": "porta hepatis，porta hepatis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "位于肝面中央的结构。有肝管、肝固有动脉、肝门静脉和肝的神经、淋巴管等出入。"
+  },
+  {
+   "cn": "肝衰竭",
+   "en": "hepatic failure",
+   "source": "普通外科学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "多种因素引起的严重肝脏损害，导致其合成、解毒、排泄和生物转化等功能发生严重障碍或失代偿，出现以凝血机制障碍和黄疸、肝性脑病、腹水等为主要表现的临床综合征。"
+  },
+  {
+   "cn": "肝蒂",
+   "en": "hepatic pedicle",
+   "source": "普通外科学名词",
+   "wordNumber": "20.055",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "出入第一肝门的肝管、血管、淋巴管和神经被结缔组织包绕形成的结构。"
+  },
+  {
+   "cn": "肝巨噬细胞",
+   "en": "hepatic macrophage",
+   "source": "普通外科学名词",
+   "wordNumber": "20.086",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "定植于肝内的巨噬细胞。来自血液单核细胞，是体内固定型巨噬细胞中最大的细胞群体。由德国生物学家卡尔·威廉·冯·库普弗（Karl Wilhelm von Kupffer）于1876年首次描述。"
+  },
+  {
+   "cn": "肝糖原",
+   "en": "hepatic glycogen",
+   "source": "普通外科学名词",
+   "wordNumber": "20.089",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "在肝中以糖原形式储存的葡萄糖聚合物。在调节血糖浓度及维持其稳定中具有重要作用。"
+  },
+  {
+   "cn": "低氧",
+   "en": "hypoxia",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肝静脉",
+   "en": "hepatic vein\",\"vena hepatica",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝小叶",
+   "en": "hepatic lobule\",\"liver lobule\",\"lobulus hepatis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝板",
+   "en": "hepatic plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝丛",
+   "en": "hepatic plexus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝蒂",
+   "en": "hepatic pedicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝动脉",
+   "en": "hepatic artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝沟",
+   "en": "hepatic groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝巨噬细胞",
+   "en": "hepatic macrophage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝裂",
+   "en": "hepatic fissure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝门",
+   "en": "porta hepatis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝憩室",
+   "en": "hepatic diverticulum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝曲",
+   "en": "hepatic flexure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝微循环",
+   "en": "hepatic microcirculation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝腺泡",
+   "en": "hepatic acinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝小梁",
+   "en": "hepatic trabecula",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝支",
+   "en": "hepatic branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肝组织",
+   "en": "hepatic tissue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轴下肌",
+   "en": "hypaxial muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "棘球蚴沙,囊沙",
+   "en": "hydatid sand",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "缺氧",
+   "en": "hypoxia",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.25",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮堆空气中氧气浓度低于2%（含）的状态"
+  },
+  {
+   "cn": "间歇性低氧",
+   "en": "intermittent hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "在一定时间段内，间断地暴露于缺氧-常氧环境的过程。"
+  },
+  {
+   "cn": "低压低氧",
+   "en": "hypobaric hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "随海拔高度升高气压降低，高原的低气压和重力有关，因气体分子受到的压强较小，所以分子间距更大，导致空气相对稀薄，体现在数字上就是气压偏低，导致缺氧。目前通过真空泵、减压舱可以制作人工的此类环境。"
+  },
+  {
+   "cn": "高空缺氧",
+   "en": "altitude hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.2",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "在航空航天活动中，因高空空气压力过低使人体氧分压过低产生的机体缺氧。"
+  },
+  {
+   "cn": "常压低氧",
+   "en": "normobaric hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "压力与外界一致，但氧气比例低于正常比例的低氧环境。一般利用分子膜或分子筛技术将空气中的氧分子“过滤”掉，形成低氧空气，但气压不发生改变。"
+  },
+  {
+   "cn": "肝片吸虫",
+   "en": "fasciola hepatica",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.3.9",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "寄生于牛、羊等反刍动物及人肝脏胆管内的人畜共患吸虫，通过食入被囊蚴污染的水生植物，可致胆管阻塞、肝实质变性、黄疸等。"
+  },
+  {
+   "cn": "急性高空缺氧",
+   "en": "acute altitude hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.2.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "高空低气压环境持续数分钟至数小时所引起的机体缺氧。"
+  },
+  {
+   "cn": "爆发性高空缺氧",
+   "en": "explosive altitude hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.2.2",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "在航空航天中，由于增压密闭舱突然丧失压力，氧气供应突然中断后数秒之内发生的非常迅速又极度严重的机体缺氧。"
+  },
+  {
+   "cn": "低氧诱导因子",
+   "en": "hypoxia inducible factor, HIF",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.11",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "一类具有低氧作用的因子。能使许多蛋白质合成增加，促进肿瘤新生血管形成，增强肿瘤侵袭性。"
+  },
+  {
+   "cn": "寒冷与低氧交叉习服",
+   "en": "cross-acclimatization between cold and hypoxia",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.5.7",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷习服",
+   "subjectName": "冷习服",
+   "publishYear": "2025",
+   "definition": "在寒冷与低氧两种环境因素分别先后暴露或同时暴露过程中，当机体对其中一种环境因素建立习服后，表现出对另一种环境因素耐受能力提高的现象。"
+  }
+ ],
+ "error": null,
  "raw": null
 }

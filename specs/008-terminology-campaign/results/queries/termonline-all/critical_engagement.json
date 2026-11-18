@@ -1,0 +1,712 @@
+{
+ "key": "critical engagement",
+ "term": "critical engagement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:17:30+00:00",
+ "status": "ok",
+ "note": "variant=critical engagement; 审定公布名词库=956; 海峡两岸名词对照库=256; 其他来源数据库=44; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "啮合",
+   "en": "engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0142",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "一对齿轮的齿依次交替地接触，从而实现一定规律的相对运动的过程和形态。"
+  },
+  {
+   "cn": "衔接",
+   "en": "engagement",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.115",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "正常啮合",
+   "en": "normal engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0418",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿与刚轮齿的接触点位于齿廓工作段之内。"
+  },
+  {
+   "cn": "业务约定书",
+   "en": "engagement letter",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所与被审计单位签订的，用以记录和确认审计业务的委托与受托关系、审计目标和范围、双方的责任以及报告的格式等事项的书面协议。"
+  },
+  {
+   "cn": "鉴证业务",
+   "en": "assurance engagement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师对鉴证对象信息做出结论，以增强除责任方之外的预期使用者对鉴证对象信息信任程度的业务。"
+  },
+  {
+   "cn": "邦咯条约",
+   "en": "Pangkor Engagement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0341",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1874年1月，英国殖民者迫使马来半岛霹雳王室在邦咯岛签订的条约，使霹雳成为英国的被保护邦。"
+  },
+  {
+   "cn": "接合机构",
+   "en": "engaging mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0337",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "具有使接合元件产生接合动作的部件。"
+  },
+  {
+   "cn": "接合元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0339",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "能实现主、从动部分离合功能的嵌合副或摩擦副。"
+  },
+  {
+   "cn": "接合过程",
+   "en": "engaging process",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0379",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "操纵离合器后，使从动部分随主动部分运转直至同步的过程。"
+  },
+  {
+   "cn": "接合时间",
+   "en": "engaging time",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0382",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "接合过程所需要的时间。"
+  },
+  {
+   "cn": "接合频率",
+   "en": "engaging frequency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0385",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "离合器单位时间内的接合次数。"
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "换档元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.126",
+   "subjectFullName": "机械工程_汽车_底盘_自动传动系统",
+   "subjectName": "自动传动系统",
+   "publishYear": "2013",
+   "definition": "在换档过程中，以分离或接合来实现换档的元件。如离合器、制动器等。"
+  },
+  {
+   "cn": "啮合力",
+   "en": "engaging force",
+   "source": "电子学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顶缘啮合",
+   "en": "tip edge engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0419",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿顶边缘与刚轮齿廓，或刚轮齿顶边缘与柔轮齿廓相接触的啮合。"
+  },
+  {
+   "cn": "螺纹旋合长度",
+   "en": "thread engagement length",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0292",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "两个相互配合的螺纹沿着螺纹轴向方向相互旋合部分的长度。"
+  },
+  {
+   "cn": "电啮合长度",
+   "en": "electrical engagement length",
+   "source": "电子学名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "胎头入盆",
+   "en": "engagement of head",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.064",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "危害度",
+   "en": "criticality",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.156",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "常闭制动器",
+   "en": "normally engaged brake",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0403",
+   "subjectFullName": "机械工程（一）_机械零件_制动器_各种制动器",
+   "subjectName": "各种制动器",
+   "publishYear": "2021",
+   "definition": "驱动部件停止工作时具有制动功能的制动器。"
+  },
+  {
+   "cn": "解约",
+   "en": "break of engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有约束力发盘",
+   "en": "offer with engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电啮合长度",
+   "en": "electrical engagement length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关键程度",
+   "en": "criticality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical phase\",\"critical period",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region\",\"critical section",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从事捕鱼的船舶",
+   "en": "vessel engaged in fishing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "离合机构",
+   "en": "engaging and disengaging gear",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临界光周期",
+   "en": "critical photoperiod",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical period",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界质壁分离",
+   "en": "critical plasmolysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界波长",
+   "en": "critical wavelength",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界层",
+   "en": "critical layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界高度",
+   "en": "critical height",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界流量",
+   "en": "critical discharge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界速度",
+   "en": "critical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界梯度",
+   "en": "critical gradient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界纬度",
+   "en": "critical latitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界温度",
+   "en": "critical temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重复交锋",
+   "en": "double engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多次转移",
+   "en": "change of engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交锋",
+   "en": "engage\",\"fence\",\"bind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施",
+   "en": "critical information infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施安全",
+   "en": "critical information infrastructure security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美刺",
+   "en": "Extolment and Satirical Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先胜后战",
+   "en": "Be Sure of Winning Before Engaging in War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网关键资源管理体系",
+   "en": "Internet critical resource management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施保护机制",
+   "en": "critical information infrastructure protection mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接案",
+   "en": "engagement，contract",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与潜在的服务对象开始接触、了解其需求、帮助其逐渐成为服务对象并接受服务的过程，是社会工作助人活动的开端。"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入人体无菌组织、器官、脉管系统，或有无菌体液从中流过的物品或接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "意外发生的自持或发散的中子链式反应所造成的能量和放射性释放事件。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "批判实务",
+   "en": "critical practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "在服务过程中重视语言、社会文化环境、意识形态、价值观念、宗教信仰和权力关系对实际工作开展的影响，并通过重构权力和话语以实现助人解放目标的社会工作实务。"
+  },
+  {
+   "cn": "批判主义方法论",
+   "en": "critical methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "起源于马克思主义的研究方法论。其主张明确的价值立场，站在受压迫或弱势群体的立场上进行研究，并将研究活动本身作为促成人们解放及社会公平进步的过程。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "含易裂变材料的系统由于某种意外原因引起的非预计的能量和放射性释放事件。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病各种临床表现明显出现并达到顶峰的阶段。治疗不力者多死亡于此期，主要死亡原因是造血功能衰竭引起的感染和出血。在此期，急性放射病的典型症状均可出现，如患者全身状况变差、严重的出血和感染，等。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "原型批评",
+   "en": "archetypal criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0233",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪五六十年代流行于西方的一个十分重要的批评流派，主要创始人是加拿大文学批评家弗莱（Northrop Frye）。原型批评从人类学立场出发，把文学作为文明的一种象征形式，作为人类整体技艺活动中的"
+  },
+  {
+   "cn": "文化批评",
+   "en": "cultural criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "西方人类学在20 世纪60 年代以后已开始出现对本土社会文化的研究，出现了“后现代人类学”和文化批评的研究倾向。文化批评的两种基本类型：一是哲学上的认识论批评；二是经验主义色彩的研究，对社会构造、文化"
+  },
+  {
+   "cn": "中度危险性物品",
+   "en": "semi-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整黏膜相接触，而不进入人体无菌组织、器官和血流，也不接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能够控制并使某一影响消毒产品质量的因素得到预防、消除或降低到可接受的水平的某一点、某一步骤或程序。"
+  },
+  {
+   "cn": "社会批判理论",
+   "en": "social critical theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0022",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "法兰克福学派发展出的一种致力于现代资本主义批判的理论。这种理论要求在总体上认识和理解社会生活、全面把握社会发展的泉源，力求在马克思主义的名义下实现对现代资本主义社会的全面批判。"
+  },
+  {
+   "cn": "批判性思维能力",
+   "en": "critical thinking skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "开拓思路，以批判的眼光分析信息和以往经验的能力。有助于个体全面、深入地考虑问题，作出合理决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "闪光临界频率",
+   "en": "critical flicker frequency",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "刚刚能够引起闪光融合感觉的刺激的最小频率。表现了视觉系统分辨时间能力的极限。"
+  },
+  {
+   "cn": "关键生命时机",
+   "en": "critical life timing",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生命历程变迁中所发生的某一生活事件何时发生比其是否发生更有意义的学说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

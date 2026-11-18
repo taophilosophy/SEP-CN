@@ -1,0 +1,742 @@
+{
+ "key": "normative commitments",
+ "term": "normative commitments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T15:22:56+00:00",
+ "status": "ok",
+ "note": "variant=normative commitments; 审定公布名词库=169; 海峡两岸名词对照库=57; 其他来源数据库=14; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.151",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种通过文字或口头方式，同意相互约定的条件，以提升人际关系与互动质量与效率的沟通行为。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.222",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞或组织尽管在表型上与未限定细胞没有差别，但其发育命运已经受到限制的状态。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "遗传学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "限定细胞按某一特定命运发育的过程。包括特化和决定这两个阶段。"
+  },
+  {
+   "cn": "提交",
+   "en": "commit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0273",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "正常结束事务执行。"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "特定领域的技术活动所遵守的规则、标准。具有标准性、恒定性和普适性等特点。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "行为医学名词",
+   "wordNumber": "19.007",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "供比较的标准量数。通常由标准化样本测试结果计算得出标准数量，作为比较和解释测验结果时的参照分数标准。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "电力名词",
+   "wordNumber": "13.084",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "单位产品或单位工作中人工、材料、机械和资金消耗量的规定额度。"
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0499",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模方",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0460",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "正常人群取样的平均值。用来做比较的标准，提供客观评价的量表。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "建筑学名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "特指建筑安装工程定额。在正常施工条件下，完成单位合格产品所必需的人工、材料、机械及其资金消耗的数量标准。"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "社会群体的正式或非正式的行为准则。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "03.245",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据标准化样本的测验分数经过统计处理而建立起来的具有参照点和单位的量表。是用于比较和解释测验分数的参照标准。"
+  },
+  {
+   "cn": "范",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "04.0415",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "07.0112",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "定向复合物",
+   "en": "commitment complex",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "含有细胞核前体mRNA和U1 snRNP的复合物。协助U1 snRNP将其结合的内含子剪掉。"
+  },
+  {
+   "cn": "职业承诺",
+   "en": "occupational commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.092",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对组织制度和实践的知觉与组织契约之间的一种认同与接受。它包括情感承诺、留任承诺和规范承诺。情感承诺是组织成员对组织的情绪依恋、认同感和卷入程度；留任承诺是指基于相关组织成员离开组织带来损失的一"
+  },
+  {
+   "cn": "剂量负担",
+   "en": "dose commitment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.173",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "一个计算工具。用符号Ec表示。由于特定事件如一年计划排放的活度所致人均剂量率的无限时间积分。排放率在无限时间内为常数的情况下，特定人群将来人均所受最大年剂量率等于一年的实践剂量负担，不考虑居民人数的变"
+  },
+  {
+   "cn": "安全承诺",
+   "en": "safety commitment",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.032",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在关注安全和追求安全绩效方面，由企业代表全体员工公开做出的具有稳定意愿及实践行动的明确表示。"
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定型，限定",
+   "en": "commitment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资承诺，投资保证",
+   "en": "investment commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输出提交",
+   "en": "output commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位提交",
+   "en": "bit commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向细胞",
+   "en": "committed cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隆礼",
+   "en": "Respect for Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字合作承诺》",
+   "en": "Global Commitment for Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼",
+   "en": "Li (Rites / Social Norms/ Propriety)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼尚往来",
+   "en": "Reciprocity as a Social Norm",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "克己复礼",
+   "en": "Restrain Yourself and Follow Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息生命周期安全规范",
+   "en": "lifecycle security norms of financial information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字信任与安全承诺》",
+   "en": "Global Commitment on Digital Trust and Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "絜矩之道",
+   "en": "Principle for the Application of Rules and Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多行不义必自毙",
+   "en": "He Who Repeatedly Commits Wrongdoing Will Come to No Good End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.09",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "就某事做出肯定性的应允，并保证尽力执行或表示一定努力使其实现的一种不可无故变更的道德允诺。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个体认同并参与某个组织的强度，包括三大要素一是高度信任与接受组织的目标与价值；二是愿意为组织付出努力；三是希望能继续留在组织中，可视为个人对组织的主动关系，即个人愿意努力付出，以协助组织成功，而不仅是"
+  },
+  {
+   "cn": "十四个坚持",
+   "en": "fourteen commitment",
+   "source": "马克思主义",
+   "wordNumber": "03.0809",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出，全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中全面准确贯彻落实，做到十四个坚持，即：一、坚持党对一切工作的领导；二、坚持以人民为中心；三、坚持全面深化改"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.24",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "待积有效剂量和待积当量剂量的统称。评价人体（包括辐照食品工作人员）所受内照射剂量的大小。"
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "规范伦理学",
+   "en": "normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.133",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "伦理学的传统理论形式。通过对人类行为的善恶价值分析，研究道德的起源、本质和发展变化规律，建构人类的道德规范体系，确定人们的行为标准，以调整人与人之间、人与社会之间的关系的伦理学学科。规范伦理学又分为普"
+  },
+  {
+   "cn": "角色规范",
+   "en": "role norm",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会根据需要而期待个体在其所处的身份与地位中，应该达到的行为模式或行为标准。这些规范是在长期的社会生活中形成的，并在个体的社会实践活动中表现出来，是调节个体行为与思想的控制器。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。既可能是在社会互动过程中逐步形成的非正式、不成文规范体系，也可能是基于社会某一群体的意"
+  },
+  {
+   "cn": "谦逊规范",
+   "en": "humility norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.10",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "指科学家对自身研究所表现出的谦恭态度，主要有两种形式：一是承认受惠于前人留下的知识遗产，二是强调自身的局限性和科学知识的局限性。"
+  },
+  {
+   "cn": "普遍主义规范",
+   "en": "universalism norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.11",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，要求根据非个人的标准，而不是个人或社会的属性来对科学中的主张是否为真做出判断，或者借用一些综合性的社会学和认识论的样本个案来描述。该规范表明科学具有一种普遍性，不应受到种族"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "群体规范",
+   "en": "group norm",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体公认的标准或群体活动中自然而然形成的行为准则，对群体成员产生约束力，迫使成员按照群体目标和准则调整自己行为。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。"
+  },
+  {
+   "cn": "有效剂量负担",
+   "en": "effective dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人受到的有效剂量率在无限长时间内的积分，单位是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积当量剂量",
+   "en": "committed equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻器官或组织的当量剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "普通规范伦理学",
+   "en": "general normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1340000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "对行为的善与恶、是与非等问题进行研究与论证，以道德原则来规范人们做事做人的伦理学分支。"
+  },
+  {
+   "cn": "应用规范伦理学",
+   "en": "applied normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.135",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用规范伦理学的一般原则和理论来解释和评判现实中的具体伦理问题的伦理学分支。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

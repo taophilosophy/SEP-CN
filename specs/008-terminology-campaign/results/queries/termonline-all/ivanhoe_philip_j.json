@@ -2,10 +2,481 @@
  "key": "ivanhoe, philip j.",
  "term": "Ivanhoe, Philip J.",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T04:04:26+00:00",
- "status": "error",
- "note": "variant=Ivanhoe, Philip J.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Ivanhoe, Philip J.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-18T15:31:23+00:00",
+ "status": "ok",
+ "note": "variant=Ivanhoe, Philip J.; 审定公布名词库=114; 海峡两岸名词对照库=51; 其他来源数据库=11; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "焦[耳]",
+   "en": "joule,J",
+   "source": "电气工程名词",
+   "wordNumber": "01.886",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "J点",
+   "en": "J point",
+   "source": "兽医学名词",
+   "wordNumber": "13.270",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "QRS波终点与S-T段起始点的衔接处。"
+  },
+  {
+   "cn": "J积分",
+   "en": "J-integral",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1517",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "1967年切列帕诺夫 (G. P. Cherepanov)和 1968年赖斯(J. R. Rice)分别独立提出的弹塑性断裂力学的一种基本方法。定义为有一穿透切口的线性或线弹性体平板，围绕切口顶端按逆"
+  },
+  {
+   "cn": "J积分",
+   "en": "J integral",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0180",
+   "subjectFullName": "机械工程（一）_机械强度_结构断裂",
+   "subjectName": "结构断裂",
+   "publishYear": "2021",
+   "definition": "与积分路径无关的闭合回路或表面积分。用来表征裂纹前缘周围地区的局部应力-应变场，在塑性效应不可忽视的地方提供能量释放速率。对于非线性弹性裂纹体，用来表征对应表观裂纹扩展时的势能变化。"
+  },
+  {
+   "cn": "j因子",
+   "en": "j-factor",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0021",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "奇尔顿（Chilton）和科尔伯恩（Colburn）研究传热、传质与动量传递的类比时所提出的无量纲因子。"
+  },
+  {
+   "cn": "J耦合",
+   "en": "J coupling",
+   "source": "生物物理学名词",
+   "wordNumber": "02.426",
+   "subjectFullName": "生物物理学_分子与结构生物学_核磁共振结构分析",
+   "subjectName": "核磁共振结构分析",
+   "publishYear": "2018",
+   "definition": "连接两个核的电子重叠而在两个核之间产生的耦合。核磁共振条件下测量的J耦合值包含二面角信息。"
+  },
+  {
+   "cn": "J积分",
+   "en": "J-integral",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0733",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料的表征与测试",
+   "subjectName": "材料的表征与测试",
+   "publishYear": "2011",
+   "definition": "围绕裂纹周界的线积分。其控制了裂尖的应力、应变场，是弹塑性应力场强度的度量。"
+  },
+  {
+   "cn": "J链",
+   "en": "J chain",
+   "source": "免疫学名词",
+   "wordNumber": "2.212",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "富含半胱氨酸的多肽链，由浆细胞产生的一种糖蛋白，可将单体IgA连接为二聚体或将单体IgM连接为五聚体。"
+  },
+  {
+   "cn": "Ｊ型管",
+   "en": "J-tube",
+   "source": "船舶工程名词",
+   "wordNumber": "13.249",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "为铺设立管而预先在平台上安装的直径大于立管的Ｊ型导管。"
+  },
+  {
+   "cn": "J链",
+   "en": "J-chain",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.296",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "j因子",
+   "en": "j-factor",
+   "source": "化学工程名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "化学工程_传递过程与单元操作_传递过程与单元操作基本概念",
+   "subjectName": "传递过程与单元操作基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "Ｊ积分",
+   "en": "J-integral",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "菲利普王之战",
+   "en": "King Philip's War",
+   "source": "世界历史名词",
+   "wordNumber": "03.0004",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1675-1677年马萨诸塞殖民地的印第安人反抗英国殖民者的战争，因其领导人被英国人称为“菲利普王”而得名。"
+  },
+  {
+   "cn": "J阻力曲线",
+   "en": "J-R curve",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0182",
+   "subjectFullName": "机械工程（一）_机械强度_结构断裂",
+   "subjectName": "结构断裂",
+   "publishYear": "2021",
+   "definition": "表征金属材料延性断裂行为的一项重要指标,通常采用多试样法求得。"
+  },
+  {
+   "cn": "临界J积分",
+   "en": "critical J integral",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0192",
+   "subjectFullName": "机械工程（一）_机械强度_结构断裂",
+   "subjectName": "结构断裂",
+   "publishYear": "2021",
+   "definition": "当含裂纹材料的裂纹刚开始扩展时的J积分。"
+  },
+  {
+   "cn": "J / ψ 粒子",
+   "en": "J / psi particle",
+   "source": "物理学名词",
+   "wordNumber": "09.0979",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "J / ψ 家族",
+   "en": "J / psi family",
+   "source": "物理学名词",
+   "wordNumber": "09.1187",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "t-J 模型",
+   "en": "t-J model",
+   "source": "物理学名词",
+   "wordNumber": "08.1550",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二维J分解谱",
+   "en": "J-resolved spectrum",
+   "source": "化学名词",
+   "wordNumber": "03.2286",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "把化学位移δ和耦合常数J值同时在两个频率轴上展开得到的谱图。包括同核J-分解谱和异核J-分解谱。"
+  },
+  {
+   "cn": "J调制法",
+   "en": "J-modulation method",
+   "source": "药学名词",
+   "wordNumber": "06.491",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "一种确定碳原子级数(碳原子上相连氢原子的数目)的方法。"
+  },
+  {
+   "cn": "拉德克利夫",
+   "en": "Radcliffe\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格拉斯",
+   "en": "Glass\",\"Philip(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克兰默",
+   "en": "Cranmer\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "坎农",
+   "en": "Cannon\",\"Philip(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "苏萨",
+   "en": "Sousa\",\"John Philip(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "J过程",
+   "en": "J process",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "j因子",
+   "en": "j-factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "J积分",
+   "en": "J-integral",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "J星等",
+   "en": "J-magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "J波段",
+   "en": "J band",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耶路撒冷",
+   "en": "Jérusalem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Verdi, Giuseppe "
+  },
+  {
+   "cn": "J型星",
+   "en": "J-type star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二维J分解谱",
+   "en": "J-resolved spectroscopy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "J调制法",
+   "en": "J-modulation method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "J-调制法",
+   "en": "J-modulation method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "齐克",
+   "en": "Cikker\",\"Ján(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "费伦契克",
+   "en": "Ferencsik\",\"János(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "莱夫斯",
+   "en": "Leifs\",\"Jón(冰岛)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "德穆斯",
+   "en": "Demus\",\"Jörg(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维耶尼亚夫斯基，约瑟夫",
+   "en": "Wieniawski\",\"Józef(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "J形划法",
+   "en": "J stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耶格尔",
+   "en": "Jäger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耶格尔空翻",
+   "en": "Jäger salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《计算机科学概论》（〔美〕J.格伦·布鲁克希尔 等）",
+   "en": "Computer Science: An Overview (J. Glenn Brookshear et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能：一种现代的方法》（〔美〕斯图尔特·罗素 等）",
+   "en": "Artificial Intelligence: A Modern Approach (Stuart J. Rossell et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《计算社会学》（〔美〕马修·萨尔加尼克）",
+   "en": "Bit by Bit: Social Research in the Digital Age (Matthew J. Salganik, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "J.罗斯曼",
+   "en": "J.Rothman",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.27",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "美国社区工作学者。于1979年将美国社区工作实践加以总结，提出社区工作的3大模式：地区发展、社会计划（社会策划）和社会行动。"
+  }
+ ],
+ "error": null,
  "raw": null
 }
