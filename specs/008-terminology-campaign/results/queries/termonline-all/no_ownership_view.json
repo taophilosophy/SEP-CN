@@ -1,0 +1,782 @@
+{
+ "key": "no-ownership view",
+ "term": "no-ownership view",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:51:49+00:00",
+ "status": "ok",
+ "note": "variant=no-ownership view; 审定公布名词库=464; 海峡两岸名词对照库=102; 其他来源数据库=45; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "所有权",
+   "en": "ownership",
+   "source": "农学名词",
+   "wordNumber": "19.220",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "财产的归属。所有权人享有财产占有、使用、收益和处分的权利。"
+  },
+  {
+   "cn": "所有权",
+   "en": "ownership",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.225",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "所有人依法对自己财产所享有的占有、使用、收益和处分的权利。"
+  },
+  {
+   "cn": "所有制",
+   "en": "ownership",
+   "source": "经济学名词",
+   "wordNumber": "05.052",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们对物质资料的占有形式，通常指对生产资料的占有形式，即生产资料所有制。生产资料所有制反映了生产过程中人与人之间在生产资料占有方面的经济关系。生产资料的所有制结构，是指不同的生产资料所有制形式，在一定"
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "林权",
+   "en": "forestry ownership",
+   "source": "风景园林名词",
+   "wordNumber": "13.0045",
+   "subjectFullName": "风景园林_其他_林学",
+   "subjectName": "林学",
+   "publishYear": "2025",
+   "definition": "森林、林木、林地的所有权或使用权。"
+  },
+  {
+   "cn": "确权颁证",
+   "en": "ownership certificate",
+   "source": "农学名词",
+   "wordNumber": "19.224",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "依照法律和政策的规定对一定范围内的土地所有权或承包经营权的隶属关系和他项权利的确认及颁发的具有法律效用的凭证。"
+  },
+  {
+   "cn": "媒体所有制",
+   "en": "media ownership",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.026",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "作为生产者，媒体的生产资料占有形式和法定权属关系。"
+  },
+  {
+   "cn": "媒体所有权",
+   "en": "media ownership",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.023",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "拥有并支配媒体的权利。西方媒体发展历史上，媒体所有权逐渐由教会和党派所拥有转向私人资本所有。20世纪以来，欧美政府迫于私营财团及其游说团体的压力逐渐放宽所有权管制，导致媒体所有权日趋集中，以至于当前的"
+  },
+  {
+   "cn": "建筑物区分所有权",
+   "en": "condominium ownership",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "城乡规划学_社区与住房规划_住房政策与规划",
+   "subjectName": "住房政策与规划",
+   "publishYear": "2021",
+   "definition": "业主对建筑物中自己专有部分具有所有权、对建筑区划内的共有部分具有共有权和共同管理权利的一种所有权形式。"
+  },
+  {
+   "cn": "土地所有权",
+   "en": "land ownership",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.049",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划实施管理",
+   "subjectName": "城乡规划实施管理",
+   "publishYear": "2021",
+   "definition": "土地所有者对土地占有、使用、收益和处分并排除他人干涉的权利。"
+  },
+  {
+   "cn": "权属测量",
+   "en": "ownership survey",
+   "source": "测绘学名词",
+   "wordNumber": "06.126",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "对不动产、行政界线等土地权属进行的测量工作。"
+  },
+  {
+   "cn": "全民所有制",
+   "en": "public ownership",
+   "source": "经济学名词",
+   "wordNumber": "02.115",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "社会全体成员共同占有和支配生产资料的公有制形式, 是同加工工业、采掘工业、交通运输业等部门里的高度社会化的生产和经营活动相适应的一种社会主义公有制。全民所有制的财产包括属于全社会劳动者所有的工厂、农场"
+  },
+  {
+   "cn": "集体所有制",
+   "en": "collective ownership",
+   "source": "经济学名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "部分劳动者共同占有生产资料的所有制形式，是公有制形式之一。在经济体制改革过程中，集体所有制经济的实现形式也在发生变化，出现了许多新的联合体。经营管理上已经不限于生产资料集体所有、统一生产经营、成果实行"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "source": "经济学名词",
+   "wordNumber": "05.054",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "一种相对于公有制的经济制度。在这种制度下生产资料进行个人或集体的排他性占有。马克思主义者认为，私有制是剥削社会(以奴隶社会、封建社会和资本主义社会为代表)的基本标志之一。生产力的发展是私有制产生的最根"
+  },
+  {
+   "cn": "所有制结构",
+   "en": "ownership structure",
+   "source": "经济学名词",
+   "wordNumber": "15.066",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "一国和地区不同所有制经济形态的比重和分布。改革开放以来，中国的所有制结构发生了重大变化。例如，随着私营企业、“三资”企业和股份公司的发展，和原来相比，纯粹的国有制企业其产值、利税和就业等在总量中的比重"
+  },
+  {
+   "cn": "国有制",
+   "en": "state ownership",
+   "source": "经济学名词",
+   "wordNumber": "15.067",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "国家代表全体劳动人民占有生产资料的一种公有制形式。根据中国有关法律，国务院代表国家具体行使其所有权。"
+  },
+  {
+   "cn": "藏书标记",
+   "en": "ownership mark",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆对其藏书所有权的标记。包括藏书章、藏书票、藏书标签以及任何其他标记于文献上表示所有权的记号。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无效果-无报酬",
+   "en": "no cure-no pay",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空载",
+   "en": "no load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳环面观",
+   "en": "girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳面观",
+   "en": "valve view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视因数",
+   "en": "view factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底观光",
+   "en": "submarine view",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "版面视图",
+   "en": "layout view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表视图",
+   "en": "table view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反视立体图",
+   "en": "pseudoscopic view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实现视点",
+   "en": "implementation view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据视图",
+   "en": "data view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "透视视图",
+   "en": "perspective view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "正射视图",
+   "en": "orthographic view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "front view",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "截面图",
+   "en": "sectional view",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "所有权理论",
+   "en": "ownership theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据所有权",
+   "en": "data ownership",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同共有",
+   "en": "co-ownership",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不予共享",
+   "en": "no sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "废靶！",
+   "en": "No bird!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共有产权住房",
+   "en": "shared ownership housing",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一数多权",
+   "en": "multiple ownership of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反腐败无禁区、全覆盖、零容忍",
+   "en": "There are no no-go zones, no ground is left unturned, and no tolerance is shown for corruption.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络域名解析主导权",
+   "en": "ownership of domain name resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试举失败",
+   "en": "no lift\",\"uncompleted attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "野无遗贤",
+   "en": "No Sagacious Person Ignored",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子不可克隆定理",
+   "en": "quantum no-cloning theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "所有权",
+   "en": "ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0008",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过法律确认的经济主体对生产要素等所拥有的占有、使用、收益和处置的权利，是一定的所有制关系的法律表现形式。"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "混合所有制",
+   "en": "mixed ownership",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.51",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织的财产权分属于不同性质所有者的经济形式即不同所有制性质的投资主体共同出资组建的企业的财产关系，比如股份制企业。"
+  },
+  {
+   "cn": "所有制",
+   "en": "ownership system",
+   "source": "马克思主义",
+   "wordNumber": "02.0009",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“生产资料所有制”。对物质生产资料占有、使用、处置并获得收益等一系列经济利益关系的总和，表现生产资料和劳动力的结合方式，反映生产过程中人与人之间在生产资料占有方面的经济关系。"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0011",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“生产资料私有制”。在人类社会的一定发展阶段上，由私人占有生产资料和生产成果的经济形式。私有制在历史上有多种存在形式，可分为个体劳动者私有制和剥削阶级占有的私有制，如奴隶制私有制、封建主义私有制和"
+  },
+  {
+   "cn": "土地所有权",
+   "en": "land ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0266",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地所有制在法律上的用语。反映一定社会制度下人们对土地的占有关系。土地所有权的前提是，一些人占有一定量的土地，把它作为排斥其他一切人的、只服从自己私人意志的领域。"
+  },
+  {
+   "cn": "社会主义所有制",
+   "en": "socialist ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0312",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "生产资料属于全体人民或部分劳动者集体所有的形式。社会主义全民所有制采取社会主义国家所有制的形式。社会主义公有制是社会主义经济制度的基础，它决定劳动者在生产中的互助合作关系和按劳分配关系，是社会主义社会"
+  },
+  {
+   "cn": "混合所有制",
+   "en": "mixed ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0421",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "两种以上不同性质的所有制相结合。如国家所有制、集体所有制、合作所有制和非公所有制的各种资本组合，表现为公有资本控股或私有资本控股或半公半私持股等多种混合所有制企业。"
+  },
+  {
+   "cn": "国家所有制",
+   "en": "state ownership",
+   "source": "马克思主义",
+   "wordNumber": "03.0081",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全民所有的生产资料由代表全民利益的社会主义国家代理的所有制形式。资本主义国家所有制名为国家所有制，实为资产阶级整体所有。"
+  },
+  {
+   "cn": "所有制垄断",
+   "en": "ownership monopoly",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场中生产资料或服务产品的所有权由国家或政府所有，实行公有制保安全的管理体制形成的垄断。"
+  },
+  {
+   "cn": "医院所有制",
+   "en": "hospital ownership ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医院产权的占有形式。"
+  },
+  {
+   "cn": "6",
+   "en": "solvent No.6",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "由石油直馏馏分经精制而得的无色透明液体，馏程在61℃至76℃之间，主要成分为己烷等脂肪属碳氢化合，在食用油脂的提取工艺中用作浸油溶剂"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "混合所有制经济",
+   "en": "diversified ownership economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.52",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "一个国家或地区所有制结构的非单一性。在所有制结构中，既有国有、集体等公有制经济，也有个体、私营、外资等非公有制经济，还包括拥有国有和集体成分的合资、合作经济等。"
+  },
+  {
+   "cn": "所有制形式",
+   "en": "forms of ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0010",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定的生产力性质和水平决定人们对生产资料占有的具体形式，一般根据生产资料与劳动者的结合方式进行划分。人类历史上相继出现过五种基本的所有制形式，即原始公社的、奴隶主的、封建的、资本主义的和社会主义的生产"
+  },
+  {
+   "cn": "资本主义私有制",
+   "en": "capitalist private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0175",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本家占有生产资料并用以剥削雇佣劳动的私有制，社会发展历史中最后一种私有制，是资本主义生产关系和上层建筑的根基。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

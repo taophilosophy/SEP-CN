@@ -1,0 +1,462 @@
+{
+ "key": "reflexivity",
+ "term": "reflexivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:45:45+00:00",
+ "status": "ok",
+ "note": "variant=reflexivity; 审定公布名词库=426; 海峡两岸名词对照库=46; 其他来源数据库=5; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "≤为Y上的二元关系，若对y∈Y，y≤y，则称≤满足自反性。"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "数学名词",
+   "wordNumber": "01.0121",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "急救医学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "神经系统对刺激产生反应的活动。是神经活动的基本方式。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "兽医学名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "在中枢神经系统的参与下，机体对内、外环境刺激所发生的反应。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "行为医学名词",
+   "wordNumber": "3.048",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "在中枢神经系统参与下，机体对内外环境刺激产生的规律性应答反应。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "手外科学名词",
+   "wordNumber": "02.0036",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "神经系统在调节机体活动中，对内外环境刺激做出的适宜反应。是神经系统的基本活动方式。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "在中枢神经系统参与下，机体对内外环境变化做出的规律性应答。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0052",
+   "subjectFullName": "人体解剖学_神经系统_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "神经系统对剌激产生反应的活动。是神经活动的基本方式。"
+  },
+  {
+   "cn": "上曲式",
+   "en": "reflexed",
+   "source": "古生物学名词",
+   "wordNumber": "02.1038",
+   "subjectFullName": "古生物学_古无脊椎动物学_半索动物门",
+   "subjectName": "半索动物门",
+   "publishYear": "2009",
+   "definition": "与上斜式相似，但枝的末端转为平伸。"
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc,reflex pathway",
+   "source": "手外科学名词",
+   "wordNumber": "02.0037",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "反射活动的形态结构基础。包括5个环节，即感受器、传入神经元、神经中枢、传出神经元和效应器。"
+  },
+  {
+   "cn": "多突触反射",
+   "en": "multisynaptic reflex,polysynaptic reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.154",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吞咽反射",
+   "en": "swallowing reflex,deglutition reflex",
+   "source": "生理学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "生理学_胃肠生理学",
+   "subjectName": "胃肠生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拥抱反射",
+   "en": "embrace reflex,Moro reflex",
+   "source": "医学名词 第四分册",
+   "wordNumber": "11.029",
+   "subjectFullName": "医学_儿科学",
+   "subjectName": "儿科学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "抓握反射",
+   "en": "grasp reflex,palmar grasp reflex,grasping reflex,palmar grasping reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.511",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浅反射",
+   "en": "superficial reflex",
+   "source": "神经外科学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "刺激皮肤或黏膜所引起的反射。常见的有角膜反射、咽反射、腹壁反射、提睾反射、跖反射及肛门反射等。传入神经起自体表感受器，经周围神经感觉纤维传入脊髓，与前角细胞形成突触，再经周围神经的运动纤维终于肌肉。"
+  },
+  {
+   "cn": "深反射",
+   "en": "deep reflex",
+   "source": "神经外科学名词",
+   "wordNumber": "4.033",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "肌肉、关节、骨、腱和韧带等位于皮下深处的器官或组织受到刺激时的反射。"
+  },
+  {
+   "cn": "角膜反射",
+   "en": "corneal reflex",
+   "source": "神经外科学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "以棉絮轻触角膜外缘引发双侧瞬目动作的一种脑干反射。传入神经为三叉神经眼支，传出神经为面神经。"
+  },
+  {
+   "cn": "角膜下颌反射",
+   "en": "corneomandibular reflex",
+   "source": "神经外科学名词",
+   "wordNumber": "4.037",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "轻触角膜引起眼轮匝肌收缩闭目，且反射性地引起翼外肌收缩使下颌向对侧移动的一种脑干生理反射。"
+  },
+  {
+   "cn": "头眼反射",
+   "en": "oculocephalogyric reflex",
+   "source": "神经外科学名词",
+   "wordNumber": "4.041",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "将患者头部向左右及上下转动时眼球向头部运动的相反方向移动的反射。可用于判断脑干损害。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "新生儿反射",
+   "en": "neonatal reflex\",\"newborn reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "反射性排卵",
+   "en": "reflex ovulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轴突反射",
+   "en": "axon reflex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "巴宾斯基反射",
+   "en": "Babinski reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视动反射",
+   "en": "optokinetic reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吮吸反射",
+   "en": "sucking reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "退缩反射",
+   "en": "withdrawal reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "牵张反射",
+   "en": "stretch reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非条件反射",
+   "en": "unconditioned reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "莫罗反射",
+   "en": "Moro reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "觅食反射",
+   "en": "rooting reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉反射",
+   "en": "acoustic reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflection\",\"reflex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反折运动",
+   "en": "reflex motion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件反射",
+   "en": "conditional reflex",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "退避反射",
+   "en": "withdrawal reflex",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反射速调管",
+   "en": "reflex klystron",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义方法论的一个基本原则，是对研究过程和主体的一种批判性的自我反思，强调研究主体的对象性和研究对象的主体性，以减少研究过程中的偏见，打破主客体之间的僵化分离，建立与被研究者之间平等而非控制的关系。"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.6",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "工业社会变化悄无声息地在未经计划的情况下紧随着正常的、自主的现代化过程而来，社会秩序和经济秩序完好无损，这种社会变化意味着现代化的激进化，这种激进化打破了工业社会的前提并开辟了通向另一种现代性的道路。"
+  },
+  {
+   "cn": "觅食反射",
+   "en": "rooting reflex",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "在被触摸腮帮时，新生儿会向刺激源做出转头张嘴吮吸的动作。出生后3周这一反射变成有意的转头动作。"
+  },
+  {
+   "cn": "反思人类学",
+   "en": "reflexive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0617",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "后现代人类学的一种，是指一种对人类学学科功能的本质问题加以质疑的人类学风格。具体来说，这种反思人类学，在认识论意义上，其反对把人类学知识当成是脱离社会和经济体系之外的一种纯粹性的真理，而承认人类学家在"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

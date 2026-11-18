@@ -1,0 +1,32 @@
+{
+ "key": "elucidations",
+ "term": "elucidations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:41:15+00:00",
+ "status": "ok",
+ "note": "variant=elucidations; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结构确证",
+   "en": "structure elucidation",
+   "source": "药学名词",
+   "wordNumber": "06.029",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "对于化学全合成或半合成、微生物发酵以及从动、植物中提取的原料药，使用紫外可见吸收光谱、红外吸收光谱、核磁共振谱、质谱、比旋度、X射线单晶衍射或X射线粉末衍射、差示扫描量热法、热重等物理和化学方法，确证"
+  },
+  {
+   "cn": "十四经发挥",
+   "en": "Shisijing Fahui,Elucidation of Fourteen Channels",
+   "source": "中医药学名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医针灸著作，元代滑寿撰。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

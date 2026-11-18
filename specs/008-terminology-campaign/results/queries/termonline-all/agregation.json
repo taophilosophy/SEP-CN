@@ -1,0 +1,462 @@
+{
+ "key": "agregation",
+ "term": "agrégation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:32:37+00:00",
+ "status": "ok",
+ "note": "variant=agrégation; 审定公布名词库=83; 海峡两岸名词对照库=31; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.010",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "高于文件对象层级的任一文件实体的集合。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "动物学名词",
+   "wordNumber": "7.042",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "受环境资源吸引而形成的个体聚群现象。但同种个体暂时性地聚合在一起，其行动并无组织，也无协作的特点。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0093",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "固体表面的液体膜流动聚合形成微小液滴的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "生理学名词",
+   "wordNumber": "02.167",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "物理学名词",
+   "wordNumber": "08.2537",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0552",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "小尺度的粒子相互接触时，在弱的物理作用力下，使得接触面粘在一起，形成更大的团簇粒子。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0119",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据抽象方法的基本概念之一。设有 n个对象<img src='/root/syzx/static/spz/jsjkx3.07.0119.001.png'/>，i =1，2,…，n ，其笛卡儿积<img"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0322",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个二元关系，表示一个类的某些对象实例所描述的事物可作为另一个类的某些对象实例所描述的事物的组成部分。在统一建模语言（UML）中被视为关联的一种特殊情况。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "化学名词",
+   "wordNumber": "04.1513",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "分散系统中的分散相的粒子以某种方式集合在一起的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0233",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的整体与部分的关联关系，A聚合B表示A由B组成，但B可以脱离A独立存在(在某些问题域中这个类的存在有意义)。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "药学名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "悬浮在气体或液体中的固体或液体微粒，由于布朗运动、涡流、热效应或声波等的作用，相互碰撞而团聚成较大颗粒的过程。"
+  },
+  {
+   "cn": "群聚",
+   "en": "aggregation",
+   "source": "古生物学名词",
+   "wordNumber": "05.0067",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "因相同或相似生态要求而聚居在一起的各类生物。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "大气科学名词",
+   "wordNumber": "03.091",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "雪晶在降落时由于碰撞而聚集成块的过程。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "生态学名词",
+   "wordNumber": "06.314",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "由于受环境资源吸引而形成的个体聚群现象。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "昆虫学名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "同种个体暂时性地聚合在一起，但其行动无组织，也无协作的特点。"
+  },
+  {
+   "cn": "团聚[作用]",
+   "en": "aggregation",
+   "source": "土壤学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "由于各种力的作用使土粒团聚在一起的过程。"
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "石油名词",
+   "wordNumber": "05.0219",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "集结",
+   "en": "aggregation",
+   "source": "自动化名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "聚合",
+   "en": "agglomeration,aggregation",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.301",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一组具有相似特性的数据对象组成更高层次的数据对象的过程。例如将临近的区域单元组合成较大的区域单元。"
+  },
+  {
+   "cn": "精子聚集",
+   "en": "aggregation of spermatozoa;sperm aggregation",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "精液射出体外后，发生在不活动的精子之间、活动精子与黏液丝之间、非精子的细胞成分或碎片之间的丛集现象。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集[作用]",
+   "en": "aggregation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群聚，聚集",
+   "en": "aggregation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "细胞聚集",
+   "en": "cell aggregation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "通量聚集，通量聚合",
+   "en": "flux aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集数",
+   "en": "aggregation number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集信息素",
+   "en": "aggregation pheromone",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星集",
+   "en": "[stellar] aggregation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集速度",
+   "en": "aggregation velocity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集指数,群聚指数",
+   "en": "aggregation index",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "空间聚集",
+   "en": "spatial aggregation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "聚合域",
+   "en": "aggregation domain",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性聚集",
+   "en": "attribute aggregation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集汇聚",
+   "en": "data acquisition and aggregation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会集合",
+   "en": "social aggregation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会成员在时空上形成非整合性、非系统性、非组织性和非协作性的毗邻或群居。深层次上反映出人们彼此之间在社会-文化上尚未达到逻辑和意义上的统一。"
+  },
+  {
+   "cn": "家族聚集性",
+   "en": "familial aggregation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "某一或某些生长发育特征在家族成员中出现的概率或在家族成员间的相关性高于全人群的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

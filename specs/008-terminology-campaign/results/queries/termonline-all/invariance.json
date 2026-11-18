@@ -1,0 +1,442 @@
+{
+ "key": "invariance",
+ "term": "invariance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:35:18+00:00",
+ "status": "ok",
+ "note": "variant=invariance; 审定公布名词库=292; 海峡两岸名词对照库=97; 其他来源数据库=4; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "不变性",
+   "en": "invariance",
+   "source": "物理学名词",
+   "wordNumber": "01.0075",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不变量",
+   "en": "invariant",
+   "source": "物理学名词",
+   "wordNumber": "01.0076",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0929",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在特定的计算过程中始终成立的性质。"
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "source": "数学名词",
+   "wordNumber": "04.1885",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不变量",
+   "en": "invariant",
+   "source": "数学名词",
+   "wordNumber": "04.1886",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不变原理",
+   "en": "invariance principle",
+   "source": "数学名词",
+   "wordNumber": "09.0176",
+   "subjectFullName": "数学_概率论_数理统计_极限理论",
+   "subjectName": "极限理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标度不变性",
+   "en": "scale-invariance",
+   "source": "天文学名词",
+   "wordNumber": "07.313",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "某种物理过程的特征不随测量尺度而改变的特性。"
+  },
+  {
+   "cn": "标度不变性",
+   "en": "scaling invariance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1817",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "对各种不同尺度的表现都一样的性质。例如，地震震源参量之间与地震的大小几乎没有关系的性质。 "
+  },
+  {
+   "cn": "旋转不变性",
+   "en": "rotation invariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0716",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "共形不变性",
+   "en": "conformal invariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0283",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相对论[性]不变性",
+   "en": "relativistic invariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0040",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "手征不变性",
+   "en": "chirality invariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0717",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平移不变性",
+   "en": "transitional invariance",
+   "source": "物理学名词",
+   "wordNumber": "08.0121",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "空间不变性",
+   "en": "spatial invariance",
+   "source": "物理学名词",
+   "wordNumber": "04.1331",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "标度不变性",
+   "en": "scaling invariance",
+   "source": "物理学名词",
+   "wordNumber": "05.1090",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "洛伦兹不变性",
+   "en": "Lorentz invariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0041",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "规范不变性",
+   "en": "gauge invariance",
+   "source": "物理学名词",
+   "wordNumber": "03.0713",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "伽利略不变性",
+   "en": "Galilean invariance",
+   "source": "物理学名词",
+   "wordNumber": "02.0149",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "伽利略不变性",
+   "en": "Galilean invariance",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冲激不变法",
+   "en": "impulse invariance",
+   "source": "电子学名词",
+   "wordNumber": "05.202",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量纲不变性",
+   "en": "dimensional invariance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "冲激不变法",
+   "en": "impulse invariance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不变平面",
+   "en": "invariable plane",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "刚度不变量",
+   "en": "stiffness invariant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "柔度不变量",
+   "en": "compliance invariant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱不变量",
+   "en": "Poincar?invariant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黎曼不变量",
+   "en": "Riemann invariant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "恒定链，Ⅱ类分子γ链",
+   "en": "invariant chain",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "S不变量[式]",
+   "en": "S-invariant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "T不变量[式]",
+   "en": "T-invariant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不变码",
+   "en": "invariant codes",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "循环不变式",
+   "en": "loop invariant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非时变系统",
+   "en": "time invariant system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不变代码移出",
+   "en": "invariant code motion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时不变系统，定常系统",
+   "en": "time-invariant system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不变时间系统",
+   "en": "time invarying system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "恒速蒸发区",
+   "en": "vaporization with invariable velocity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "频率不变式线性滤波",
+   "en": "frequency-invariant linear filtering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance (ANOVA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协方差分析",
+   "en": "analysis of covariance，ancova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "检验两组或多组修正均数之间有无差异时，消除混杂因素（协变量）对于分析指标影响的一种多变量统计分析方法。其中，协变量是指会对因变量产生影响，但是却不被研究者关心的变量。"
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance，anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个或多个类别变量对定距或定比尺度的因变量的影响的一组方法的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

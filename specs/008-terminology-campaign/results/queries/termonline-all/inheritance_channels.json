@@ -1,0 +1,762 @@
+{
+ "key": "inheritance channels",
+ "term": "inheritance channels",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:49:18+00:00",
+ "status": "ok",
+ "note": "variant=inheritance channels; 审定公布名词库=1015; 海峡两岸名词对照库=389; 其他来源数据库=26; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "植物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代在同一性状上的相似性。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "超类与子类之间的一个关系。表明子类自动地拥有其超类的全部属性和操作。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类的对象拥有其一般类的全部属性和服务。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物世代之间的连续性和相似性。"
+  },
+  {
+   "cn": "新构造运动继承性",
+   "en": "neotectonics inheritance",
+   "source": "地质学名词",
+   "wordNumber": "09.07.005",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "新构造运动在类型、方向性、空间分布和周期韵律性方面与老构造运动(先前构造运动)的某些联系。许多新构造运动一方面受老构造的控制，在其形成的新构造中，带有老构造的某些特点；另一方面，在一定程度上改造了老构"
+  },
+  {
+   "cn": "继承性新断裂",
+   "en": "inheritance fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.070",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "迁就、利用和改造了已有的老断裂，在老断裂的基础上于新构造运动期形成的断裂。"
+  },
+  {
+   "cn": "质量遗传",
+   "en": "qualitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由单基因或少数几个基因控制的性状遗传模式。"
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，表现为连续分布性状的遗传模式。"
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在F₂或以后的世代中，由于基因重组而在某种性状上出现超越亲本个体的遗传模式。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "性状由亲代向子代传递的现象或过程。遗传方式主要包括单基因遗传、多基因遗传等。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由多个基因的微效作用及累加效应导致遗传性状改变或疾病的遗传方式。该遗传方式还受环境因素的影响。"
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由线粒体DNA决定遗传性状或遗传病的遗传方式。具有母系遗传、半自主复制、遗传瓶颈、阈值效应和线粒体DNA突变率高等特点。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "两个具有相对性状的亲本杂交，不论正交或反交，子代总是表现为母系性状的遗传方式。是细胞质遗传的主要特征。如线粒体DNA通过卵细胞将其中的遗传信息传给下一代，使得子代中线粒体DNA序列和母亲一致。"
+  },
+  {
+   "cn": "父系遗传",
+   "en": "paternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "父系性状传给子代的一种遗传方式。如父系Y染色体可以通过男性后代而代代相传，线粒体DNA也可由父系遗传。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "共显性遗传",
+   "en": "codominance inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.122",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "一对等位基因之间，没有显性和隐性的区别，在杂合子个体中两种基因的作用都能表现出来的一种遗传方式。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.173",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "人类受精卵中的线粒体绝大部分来自母亲的卵母细胞，即母亲将线粒体DNA（mtDNA）传递给儿子和女儿，但只有女儿能将其mtDNA传递给下一代的遗传方式。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.198",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "由多个微效基因的累加效应控制遗传性状或疾病的遗传方式。"
+  },
+  {
+   "cn": "细胞质遗传",
+   "en": "cytoplasmic inheritance ",
+   "source": "草学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "multigenic inheritance\",\"polygenic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核外遗传（=[细]胞质遗传）",
+   "en": "extranuclear inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "母体遗传（=[细]胞质遗传）",
+   "en": "maternal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体外遗传（=[细]胞质遗传）",
+   "en": "extrachromosomal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞质遗传",
+   "en": "cytoplasmic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质体遗传",
+   "en": "plastid inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假染色体遗传",
+   "en": "pseudoautosomal inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "延迟遗传",
+   "en": "delayed inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因",
+   "en": "Inherit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渠道网络化",
+   "en": "channel networking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信通道",
+   "en": "trusted channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽信道",
+   "en": "covert channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色通道",
+   "en": "green channel; fast transport channel  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色融资渠道",
+   "en": "green financing channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽存储通道",
+   "en": "covert storage channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽定时通道",
+   "en": "covert timing channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多渠道灵活就业",
+   "en": "flexible employment through multiple channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网上人才绿色通道",
+   "en": "online green channel for talents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打通人流、物流堵点",
+   "en": "to smooth travel and logistics channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保护、传承、弘扬黄河文化",
+   "en": "to preserve, inherit and promote the Yellow River culture",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电子渠道及互联网金融统一服务平台",
+   "en": "unified service platform for electronic channel and Internet finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "民俗传承",
+   "en": "inheritance of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民众在日常生活中把他们累积的日常生活的知识和经验、意愿和文化心理传递给后人的过程，它在历时性的向度上使得民俗文化保持稳定并不断延伸的运动过程；传承是一种文化行为，广大民众传承民俗文化而不使文化传统发生"
+  },
+  {
+   "cn": "女子继承制",
+   "en": "female inheritance system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0407",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期通行的继承制度。母系氏族早期和中期，实行外婚制群婚，子女只知其母不知其父，致使世系只能按母系计算。于是，财产、职业、职位等均按照母系继承。母系氏族晚期，实行对偶婚，但居住方式是从妻居，遂仍"
+  },
+  {
+   "cn": "沟通途径",
+   "en": "communication channels",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "向大众或特定受众传递信息的渠道。传统的沟通途径包括电子媒体（广播和电视）和印刷媒体（报纸和杂志）。"
+  },
+  {
+   "cn": "消毒通道",
+   "en": "disinfection channel",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.19",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "消毒时，人员和物品进出的路径。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "民俗传承论",
+   "en": "inheritance theory of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0464",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "探索充满俗民生活中的传承习俗及其观念，并通过这种研究阐释民俗的历史意义及现代意义。主要包括两个方面：一个是以传承资料为基础，研究俗民从古至今传递下来的人类生活方式、思想观念，以总结并追寻俗民的日常心态"
+  },
+  {
+   "cn": "社会继替",
+   "en": "social inherit and supersede",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "与人类代际更迭相关的，各种社会位置、身份、角色既有替换（出缺与填补）又有继承（承传）的方式或过程。"
+  },
+  {
+   "cn": "道比法",
+   "en": "channels ratio method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "液体闪烁计数法中猝灭校正方法之一。即在被测样品的能谱范围内选取两个测量窗，用在两窗内的计数之比（道比）从已知猝灭校正曲线算出被测样品的探测效率，进而求出样品活度的方法。"
+  },
+  {
+   "cn": "单道分析器",
+   "en": "single channel analyzer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.54",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种只对脉冲幅度在 V和(V+ΔV)之间的输入信号给出输出信号的核子仪器。虽然它只包含一个脉冲选择通道，但通过阈值的逐点改变可以测量核辐射探测器输出脉冲的幅度分布。"
+  },
+  {
+   "cn": "产科急救绿色通道",
+   "en": "green channel for obstetrics emergency",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为急危重症孕产妇提供快捷高效的服务系统。"
+  },
+  {
+   "cn": "药品“双通道”管理机制",
+   "en": "dual-channel management mechanism for drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "通过定点医疗机构和定点零售药店两个渠道，满足药品供应保障、临床使用等方面的合理需求，并同步纳入医保支付的机制。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "民俗文化变迁",
+   "en": "folk culture changes",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0024",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "有广义和狭义之分。广义的民俗文化变迁泛指整个社会民俗文化的变化，它既指整体民俗文化变化的过程，又指整体民俗文化变化的结果；狭义的民俗文化变迁，特指某群体民俗文化事项的内部结构或功能等的变化，它既指某群"
+  },
+  {
+   "cn": "人口机械变动",
+   "en": "mechanical changes of popualtion",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口在空间位置上的一切移动。从广义上讲，包括改变定居地点的永久性移动，也包括临时寄居和暂时移动；从狭义上讲，仅指改变常住地址的永久性移动。"
+  },
+  {
+   "cn": "呼吸功能改变",
+   "en": "changes of respiratory function",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业引起呼吸频率和肺通气增高，促进气体交换和肺蒸发散热。"
+  },
+  {
+   "cn": "东欧剧变",
+   "en": "drastic changes in Eastern Europe",
+   "source": "马克思主义",
+   "wordNumber": "04.0254",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪80年代末90年代初东欧各个社会主义国家发生的导致政权更迭及政治经济制度根本改变的剧烈社会动荡。这一动荡最先出现在波兰，后扩展到民主德国、捷克斯洛伐克、匈牙利、保加利亚、罗马尼亚等前华沙条约组"
+  },
+  {
+   "cn": "消化系统改变",
+   "en": "changes in the digestive system",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.5",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业时，消化腺分泌减少，消化酶活性下降，胃肠道蠕动、吸收和排空减缓，消化道血供不足，易出现消化不良、食欲缺乏以及消化道疾病患病率增加。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "turing reducibility",
+ "term": "Turing reducibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:35:43+00:00",
+ "status": "ok",
+ "note": "variant=Turing reducibility; 审定公布名词库=1362; 海峡两岸名词对照库=305; 其他来源数据库=45; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "图灵归约",
+   "en": "Turing reducibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0202",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A,B ，如果存在一个图灵机 Φ 使得 A=<img src='/root/syzx/static/spz/jsjkx3.02.0202.001.png'/>，则称 A 图灵归约于 B"
+  },
+  {
+   "cn": "有界图灵归约于",
+   "en": "bounded Turing reducible to",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0223",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A, B ，如果 A 图灵归约于 B ，而且存在这样的一个归约使得在计算中所问到的关于 B 中的问题不超过某一可计算函数，那么称 A 有界图灵归约于 B 。 "
+  },
+  {
+   "cn": "多项式时间图灵归约于",
+   "en": "polynomial time Turing reducible to",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定语言<img src='/root/syzx/static/spz/jsjkx3.02.0335.001.png'/>，如果存在谕示图灵机Φ使得多项式时间可计算的，那么称 X 多项式时间图灵归约于"
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.665",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "图灵于1950年提出的一个关于判断机器是否能够思考的著名思想实验。测试某机器是否能表现出与人等价或无法区分的智能，测试的谈话仅限于使用唯一的文本管道。"
+  },
+  {
+   "cn": "图灵斑图",
+   "en": "Turing pattern",
+   "source": "物理学名词",
+   "wordNumber": "11.0708",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "生物物理学名词",
+   "wordNumber": "07.147",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国数学家、密码专家和数字计算机的奠基人图灵(A. Turing)提出的一种检验某个对象是否有智能的测试方法。向对象提出各种各样的问题，如果提问的人从对象的答复中无法区别对象究竟是一个人还是一台机器时"
+  },
+  {
+   "cn": "图灵可定义性",
+   "en": "Turing definability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0253",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵度结构中可定义的特殊子集。例如一切计算可枚举度在整个图灵度结构中是否可定义就是一个重要未解决问题。"
+  },
+  {
+   "cn": "图灵度",
+   "en": "Turing degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0235",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "利用图灵归约，记为<img src='/root/syzx/static/spz/jsjkx3.02.0224.001.png'/>，可以定义一个等价关系<img src='/root/syzx/st"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0564",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "计算能力最强的自动机，由一个有限控制器和一条可以无限延伸的读写带组成。在当前状态下读到一个带符号（分为输入符号、输出符号、空白符号和边界符号四类）时，实现状态转换，在当前格写上新的符号，读写头向左或向"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "数学名词",
+   "wordNumber": "02.0254",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0299",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "自动化名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "图灵实验",
+   "en": "Turing test",
+   "source": "自动化名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "还原度",
+   "en": "reducibility",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.149",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "某化合物中每克碳原子的有效电子当量数。某些关键元素的还原度为：C （碳） 4，H（氢） 1，N（氮）  3，O（氧）  2。"
+  },
+  {
+   "cn": "减量化",
+   "en": "reduce",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在生产、流通和消费等过程中减少资源消耗和废物产生。是循环经济活动基本原则之一。"
+  },
+  {
+   "cn": "变径段",
+   "en": "reducer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0134",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "对于两个不同直径的圆筒体的连接采用锥形过渡所形成的结构。"
+  },
+  {
+   "cn": "可归约[的]",
+   "en": "reducible",
+   "source": "数学名词",
+   "wordNumber": "02.0277",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "归约-归约冲突",
+   "en": "reduce-reduce conflict",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0131",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "在移进-归约算法执行过程中，同时存在多个可归约项目的情况。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant,reducer,reducing agent",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.210",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "在氧化还原反应中，氧化数升高的反应物。"
+  },
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.640",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自然数上的一个函数如果是可以根据一个算法进行人工计算的，那么也一定是在图灵机上可计算的。"
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测验",
+   "en": "Turing test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异径管",
+   "en": "reducer\",\"pipe reducer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多带图灵机",
+   "en": "multitape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多头图灵机",
+   "en": "multihead Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multidimensional Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非确定型图灵机",
+   "en": "nondeterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离线图灵机",
+   "en": "offline Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定型图灵机",
+   "en": "deterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯正可归约性",
+   "en": "honest reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "库克可归约性",
+   "en": "Cook reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平均归约[性]",
+   "en": "average reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机归约[性]",
+   "en": "random reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "退化器官",
+   "en": "reduced organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "约化网格",
+   "en": "reduced grid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减免企业社会保险费",
+   "en": "to reduce or remit corporate social insurance premiums",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“破、立、降”",
+   "en": "cutting ineffective supply, fostering new growth drivers, and reducing costs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调减市内公交",
+   "en": "to reduce the frequency of bus services in the city",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暂缓或减少留学人员等双向流动",
+   "en": "to postpone or reduce the two-way flow of overseas students ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减免养老、失业以及工伤这三项社会保险单位的缴费",
+   "en": "to reduce or remit required premiums to be paid by employers for their employees’ old-age, unemployment and work-related injury insurances  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拐点",
+   "en": "turning point",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转靶",
+   "en": "turning target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原糖",
+   "en": "reducing sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.23",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "能直接还原裴林试剂，与过量苯肼反应生成脎的糖类，如葡萄糖、果糖等单糖和麦芽糖、乳糖等双糖，是蜂蜜主要甜味成分及主要质量指标。"
+  },
+  {
+   "cn": "还原糖",
+   "en": "reduced sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.65",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原性的糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）的总和，一般以葡萄糖计。"
+  },
+  {
+   "cn": "表观还原糖",
+   "en": "apparent reducing sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.22",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "能直接还原裴林试剂的含醛基或潜在醛基的糖类有机物。"
+  },
+  {
+   "cn": "碱性电解水",
+   "en": "alkaline electrolyzed-reducing water",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解生成酸性氧化电位水的同时，从电解槽阴极一侧生成的负氧化还原电位的碱性水溶液。"
+  },
+  {
+   "cn": "健康不平等改善策略",
+   "en": "strategy to reduce health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "为实现健康公平，世界卫生组织基于健康社会决定因素理论给各国政府提供了一系列具体的政策建议。"
+  },
+  {
+   "cn": "降低孕产妇死亡率和消除新生儿破伤风项目",
+   "en": "project to reduce maternal mortality and eliminate neonatal tetanus",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "以降低孕产妇死亡率和消除新生儿破伤风为目的的卫生项目。由国家出资，国家卫生行政部门和国务院妇女儿童工作委员会共同于2000年至2013年间在中西部地区实施。"
+  },
+  {
+   "cn": "减压沸腾清洗机",
+   "en": "pressure reducing boiling type cleaning machine, decompression boiling cleaning machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.3.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过真空系统对清洗舱内抽真空使清洗液持续沸腾，再从液面以上注入空气，气压上升沸腾停止，使管腔器械内部的水蒸气进行液化，体积迅速变小，管腔外的清洗液迅速流入管腔进行冲刷的清洗设备。"
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.56",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "将盐、糖、酸、酒等辅料渗入食品组织内的过程。"
+  },
+  {
+   "cn": "辐射固化",
+   "en": "radiation curing",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "通过辐射，如紫外光（UV）或电子束（EB），将涂布在基材上的无溶剂活性液体转变为固体的加工过程。"
+  },
+  {
+   "cn": "孕期免疫接种",
+   "en": "immunization during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在孕期用人工方法将免疫原或免疫效应物质输入机体内，使机体通过人工自动免疫或人工被动免疫的方法获得防治某种传染病的能力的方法/措施。理论上孕期可接种灭活的病毒疫苗、菌素、抗毒素。"
+  },
+  {
+   "cn": "孕期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为满足孕妇自身的生理状况和代谢改变及胎儿生长发育需要所摄取各种营养物质的生物学过程。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "妊娠期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在妊娠期为维持生命、保障胎儿生长发育和各种生理活动对营养素需求的生物学过程。"
+  },
+  {
+   "cn": "妊娠期便秘",
+   "en": "constipation during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女由于体内激素变化导致胃肠道蠕动变慢，食物通过胃肠道时间延长，尤其是食物残渣在大肠滞留使水分被吸收，引起排便不畅的现象。"
+  },
+  {
+   "cn": "孕期暴力",
+   "en": "violence during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.7",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "现或前亲密伴侣在女性怀孕期间施加的心理、身体或性虐待的行为。"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "杜林主义",
+   "en": "Duhring doctrine",
+   "source": "马克思主义",
+   "wordNumber": "04.0323",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70年代初出现在德国的一种小资产阶级反动思潮，代表人物是杜林。他著书立说，声称要对哲学、政治经济学和社会主义理论实行“全面的变革”，并且提出了一个用“经济公社”改变分配关系的改造世界的方案。由"
+  },
+  {
+   "cn": "布兴语",
+   "en": "Buxing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0327",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布兴人使用的语言。属南亚语系孟-高棉语族佤-德昂语支。中国的布兴人约有540 人，主要分布在云南省西双版纳傣族自治州勐腊县，部分划归为哈尼族；在老挝、泰国、柬埔寨、越南等国也有分布。"
+  },
+  {
+   "cn": "在岗期间培训",
+   "en": "training during the job",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员在岗期间应定期接受的放射防护有关知识的再培训，两次培训的时间间隔不超过2年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

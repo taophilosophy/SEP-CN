@@ -1,0 +1,782 @@
+{
+ "key": "health equity",
+ "term": "health equity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:38:27+00:00",
+ "status": "ok",
+ "note": "variant=health equity; 审定公布名词库=4630; 海峡两岸名词对照库=980; 其他来源数据库=152; 预公布名词数据库=1139; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "卫生服务公平性",
+   "en": "equity in health service",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "按照卫生需要公正、平等地分配各种可利用的卫生资源，使整个人群(包括不同收入、不同种族、不同性别等)都能有相同机会从中受益的服务。"
+  },
+  {
+   "cn": "公平",
+   "en": "equity",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0351",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "法约尔(Henri Fayol)管理原则之一，以善意和公正形成的行为准则。"
+  },
+  {
+   "cn": "权益",
+   "en": "equity",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0030",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "企业所有者对企业的所有权，即为普通股或优先股的份额，代表公司所有权额度的凭证。"
+  },
+  {
+   "cn": "项目资本金",
+   "en": "equity",
+   "source": "建筑学名词",
+   "wordNumber": "05.0078",
+   "subjectFullName": "建筑学_建筑经济_经济评价",
+   "subjectName": "经济评价",
+   "publishYear": "2014",
+   "definition": "项目发起人、股权投资人以获得投资项目财产权和控制权的方式投入的自有资金。"
+  },
+  {
+   "cn": "公平",
+   "en": "equity",
+   "source": "地理学名词",
+   "wordNumber": "24.038",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人类的公平或公正，通常应用于收入和其他生活机会方面的分配。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "急救医学名词",
+   "wordNumber": "03.879",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "没有疾病和虚弱，且身体、心理和社会各方面都处于相互协调的和谐状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "行为医学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "机体没有疾病和虚弱的状态，包括躯体健康、心理健康、社会适应良好和道德良好4个方面。1990年世界卫生组织把健康定义为，健康不仅是没有疾病，而且包括躯体健康、心理健康、社会适应良好和道德健康。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "计划生育名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_生殖健康",
+   "subjectName": "生殖健康",
+   "publishYear": "2019",
+   "definition": "由世界卫生组织提出，指没有疾病和不适，并且有良好的体质、心理状态及社会适应能力的生命状态。世界卫生组织制定了人体健康的10项标准：①精力充沛，能十分自如地应付和处理日常工作及生活。②精神乐观，态度积极"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "老年医学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "没有疾病和虚弱，且身体、心理和社会各方面都处于相互协调的和谐状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由世界卫生组织提出的，没有疾病或衰弱，且身体、心理都和社会适应的完好状态。"
+  },
+  {
+   "cn": "养生",
+   "en": "health maintenance,health preservation",
+   "source": "老年医学名词",
+   "wordNumber": "08.020",
+   "subjectFullName": "老年医学_传统老年医学",
+   "subjectName": "传统老年医学",
+   "publishYear": "2017",
+   "definition": "是指在中医学理论指导下，研究提高人体健康水平，增强体质，预防疾病，以及延缓衰老、延年益寿的方法。原则是保养正气和防御疾病，主要包括顺时摄生、调摄精神、饮食调养、运动健身、房事有节、起居有常、慎避外邪等"
+  },
+  {
+   "cn": "健康体检",
+   "en": "health examination,health inspection",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "为了早期发现身体潜在的疾病，以便早期诊断、早期治疗，从而达到预防保健的目的而进行的体格检查。"
+  },
+  {
+   "cn": "代际公平",
+   "en": "intergenerational equity",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.253",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "作为代内正义这一伦理原则的延伸，指当代人与后代人享有公正平等的生存和发展权益。当代人在享有生存、发展等合法权益的同时不得损害后代人的基本权益。为了后代人的环境权益，当代人有责任保护好地球环境，并将地球"
+  },
+  {
+   "cn": "自有资金",
+   "en": "equity fund",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.086",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "书刊发行企业由国家和主管部门拨入，企业内部积累形成，可以在经营活动中长期持有和使用，不须偿还的那一部分经营资金，包括自有固定基金、自有流动基金和专用基金等。"
+  },
+  {
+   "cn": "股权投资",
+   "en": "equity investment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.246",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "通过投资拥有被投资单位的股权，投资企业成为被投资单位的股东，按所持股份比例享有权益并承担责任。"
+  },
+  {
+   "cn": "股权激励",
+   "en": "equity incentive",
+   "source": "经济学名词",
+   "wordNumber": "15.081",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "企业为实现激励相容，根据相关员工对企业的作用和贡献，将一定数量的股权作为其报酬或奖励的方式。中国的部分国有制企业和国有控股企业也依照有关规定采用了股权激励的形式。"
+  },
+  {
+   "cn": "股权分置",
+   "en": "equity division",
+   "source": "经济学名词",
+   "wordNumber": "15.085",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "为完善中国的资本市场和推动企业改革，将上市公司中的所有股份分为流通股和非流通股（限售股），后者在此后从规定的时间起才可在二级市场上流通，致使企业股份分批流通的形式。"
+  },
+  {
+   "cn": "信息平等",
+   "en": "information equity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.054",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "所有人在获取、存储、使用、传送信息时拥有相同权利的现象。"
+  },
+  {
+   "cn": "所有者权益",
+   "en": "owners’ equity",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0183",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业资产扣除负债后由所有者享有的剩余权益。"
+  },
+  {
+   "cn": "股权溢价",
+   "en": "equity premium",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0136",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "股票的回报率和无风险利率之差。"
+  },
+  {
+   "cn": "公平",
+   "en": "equity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "内部公平",
+   "en": "internal equity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公平理论",
+   "en": "equity theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "股本衍生工具",
+   "en": "equity derivative",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票市场",
+   "en": "equity market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权凭证",
+   "en": "equity security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权投资",
+   "en": "equity investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权溢价",
+   "en": "equity premium",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权资本",
+   "en": "equity capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "课税公平",
+   "en": "tax equity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康心理学",
+   "en": "health psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康岛",
+   "en": "health island",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康指标",
+   "en": "health indicator",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康与保健地理学",
+   "en": "geography of health and health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "股本溢价之谜",
+   "en": "equity premium puzzle",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际股票投资",
+   "en": "international equity investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "权益报酬率",
+   "en": "return of equity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私募[股权]基金",
+   "en": "private equity fund",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "职业健康心理学",
+   "en": "occupational health psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权益风险",
+   "en": "equity risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康筛查",
+   "en": "health screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生系统",
+   "en": "health system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "股权型众筹",
+   "en": "equity-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": " electronic health record",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "家庭健康系统",
+   "en": "home health system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health QR code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康监控器具",
+   "en": "health monitoring device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报表",
+   "en": "health declaration form",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生检疫",
+   "en": "health and quarantine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿码",
+   "en": "green (health) code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  数字化健康证明",
+   "en": "digital health certificate    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity ",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，均应获得均等的维持和改善健康机会的原则。"
+  },
+  {
+   "cn": "卫生服务利用公平",
+   "en": "equity in health care",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，应获得均等的卫生服务的原则。"
+  },
+  {
+   "cn": "卫生筹资公平",
+   "en": "equity in health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "根据家庭或个人支付能力筹集卫生服务资金,支付能力强的人多支付,支付能力弱的人少支付的原则。"
+  },
+  {
+   "cn": "健康状况公平",
+   "en": "equity in health status",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "减少或消除可以避免的健康状况差异后的最佳健康状况的原则。"
+  },
+  {
+   "cn": "卫生服务公平性",
+   "en": "equity in health care",
+   "source": "社会医学名词",
+   "wordNumber": "8.10",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务公平性",
+   "publishYear": "2025",
+   "definition": "公正、平等地分配各种可利用的卫生资源，使得所有人群，无论其社会、经济、地理等背景如何，都能够有相同的机会获得卫生服务的原则和属性。"
+  },
+  {
+   "cn": "卫生筹资公平",
+   "en": "equity in health financing",
+   "source": "社会医学名词",
+   "wordNumber": "8.10.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务公平性",
+   "publishYear": "2025",
+   "definition": "在卫生服务筹资过程中，确保不同收入和社会经济背景的群体承担的经济负担相对公平的原则。每个人都能够平等地获得所需的健康服务，而不因经济状况的不同而受到不公正的影响。"
+  },
+  {
+   "cn": "卫生服务纵向公平",
+   "en": "vertical equity in health care",
+   "source": "社会医学名词",
+   "wordNumber": "8.10.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务公平性",
+   "publishYear": "2025",
+   "definition": "对于所处健康状态或卫生服务需要不同的个体，应根据其具体情况提供不同水平服务的分配原则。那些健康状况较差、需要更多卫生服务的人应得到更多的资源和服务支持。"
+  },
+  {
+   "cn": "卫生服务利用水平公平性",
+   "en": "horizontal equity in health care",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "有相同卫生服务需要的人群应该得到相同的卫生服务的特性。"
+  },
+  {
+   "cn": "卫生服务利用垂直公平性",
+   "en": "vertical equity in health care",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "不同卫生服务需要的人群应该得到不同的卫生服务或者对于不同健康状况的人应提供不同的卫生服务的特性。"
+  },
+  {
+   "cn": "卫生筹资水平公平",
+   "en": "horizontal equity in health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "支付能力相同的家庭为医疗保健筹资做出同等的贡献的原则。"
+  },
+  {
+   "cn": "卫生筹资垂直公平",
+   "en": "vertical equity in health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "接受同样的卫生服务，支付能力强的家庭或个人支付更多的费用的原则。"
+  },
+  {
+   "cn": "卫生筹资代际公平",
+   "en": "intergenerational equity in health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "当代人和后代人在卫生资金筹集和利用等方面的权利均等，即当代人必须留给后代人卫生资金筹集和利用可持续发展的空间的原则。"
+  },
+  {
+   "cn": "资源配置公平",
+   "en": "equity in health resource allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "卫生资源在区域间或者人群间均等配置的程度的原则。"
+  },
+  {
+   "cn": "卫生服务横向公平",
+   "en": "horizontal equity in health care",
+   "source": "社会医学名词",
+   "wordNumber": "8.10.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务公平性",
+   "publishYear": "2025",
+   "definition": "对于那些具有相同卫生保健需求的人群，应当提供相同类型和水平的卫生服务，不因其他社会经济因素而有所不同的分配原则。"
+  },
+  {
+   "cn": "卫生服务可及性公平",
+   "en": "equity in access to health care ",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，其接受基本卫生服务的机会和条件是均等的，包括地理可及性和服务技术可及性的特性。"
+  },
+  {
+   "cn": "妇幼健康公平性原则",
+   "en": "woman and child health equity principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "最大程度保障妇女儿童获得公平公正的健康服务与良好健康结局的系列措施。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "不仅是没有疾病和衰弱状态，而是一种在身体上、精神上和社会适应上的完好状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "身体、心理和社会适应的完好状态，而不仅仅是没有疾病或虚弱。"
+  },
+  {
+   "cn": "卫生人力资源配置公平",
+   "en": "equity in human resource allocation for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "任何区域或社区，无论其经济发展、地理位置、所处环境等方面有何差异，使其获得均等数量和质量的卫生人力资源的原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

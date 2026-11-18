@@ -1,0 +1,812 @@
+{
+ "key": "plurality score",
+ "term": "plurality score",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:40:04+00:00",
+ "status": "ok",
+ "note": "variant=plurality score; 审定公布名词库=1020; 海峡两岸名词对照库=259; 其他来源数据库=133; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "多样性",
+   "en": "pluralism",
+   "source": "物理学名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多元主义",
+   "en": "pluralism",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "一种社会对抗国家的政治模式，强调社会先于或外在于国家，认为社会是一个区别于国家建制的、自主的活动领域，是一种与国家对等的力量。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "地理学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "有时表示一个社会中的文化多样性，有时表示现代社会中权力得到扩散和均衡的组织多元化。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "传媒多元化",
+   "en": "media pluralism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.143",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在政治学中，“多元化”一词强调权力的竞争、分散、参与与相互制衡。媒介多元化主张发挥民主、公共的特色以达成多元认同主体间的相互尊重，抗拒媒体单一化与集中化，为民众提供更多选择，反映社会差异，落实言论自由"
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "地理学名词",
+   "wordNumber": "24.025",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "共存在同一政治单元中但宗教、文化、语言、思想方式却并不同的人类团体。"
+  },
+  {
+   "cn": "总谱",
+   "en": "score",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.244",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "以多行谱表完整地显示一首多声部音乐作品的乐谱形式。大致可分为大总谱、袖珍总谱、开列总谱、钢琴总谱、声乐总谱、缩编总谱等类别。"
+  },
+  {
+   "cn": "拉伤",
+   "en": "score",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0263",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "在运动方向以擦伤形式出现在表面上的沟槽样机械性损伤。"
+  },
+  {
+   "cn": "拉伤",
+   "en": "score",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.104",
+   "subjectFullName": "机械工程_汽车_汽车维修_故障和损伤",
+   "subjectName": "故障和损伤",
+   "publishYear": "2013",
+   "definition": "沿运动方向以擦伤形式出现在表面上的沟槽样机械性损伤。"
+  },
+  {
+   "cn": "刮伤",
+   "en": "scoring",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.179",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "碱基质量值",
+   "en": "quality score,Q-score",
+   "source": "生物物理学名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "碱基识别出错概率的整数映射。公式为<img src='/root/syzx/static/spz/swwl2.06.095.01.png'/>。式中：P为碱基识别出错的概率。其值越高表明碱基识别越可靠"
+  },
+  {
+   "cn": "宫颈成熟度评分",
+   "en": "Bishop score",
+   "source": "妇产科学名词",
+   "wordNumber": "11.019",
+   "subjectFullName": "产前检查与孕期保健_产前检查",
+   "subjectName": "产前检查",
+   "publishYear": "2025",
+   "definition": "一种判断宫颈成熟度的评分方法。可根据评分选择催引产方法。检查内容包括宫颈的位置、硬度，宫颈管消退程度，宫颈口扩张程度，胎儿先露部位的高低。"
+  },
+  {
+   "cn": "阿普加评分",
+   "en": "Apgar score",
+   "source": "妇产科学名词",
+   "wordNumber": "17.069",
+   "subjectFullName": "正常分娩_先兆临产",
+   "subjectName": "先兆临产",
+   "publishYear": "2025",
+   "definition": "判断有无新生儿窒息及窒息严重程度的方法。以心率、呼吸、肌张力、喉反射及皮肤颜色5项体征为依据，每项为0～2分，满分为10分。"
+  },
+  {
+   "cn": "爱德华兹分级",
+   "en": "Edwards score",
+   "source": "麻醉学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "一种描述麻醉与术中发病率和死亡率关系的分级标准。共分为4级。1级：明确的由麻醉医师实施的用药、管理及其他手段所引起的并发症和死亡。2级：不确定的麻醉实践对结果负全责的并发症和死亡。3级：由麻醉实践和外"
+  },
+  {
+   "cn": "呼吸困难评分",
+   "en": "dyspnea score",
+   "source": "麻醉学名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "一种评价呼吸功能的分级方法。分级标准：0级，无呼吸困难症状；1级，能长距离平面走动；2级，活动受一定限制，走一个或两个街区后需要休息；3级，轻度用力即有呼吸困难；4级，休息时即有呼吸困难。未诊断的2级"
+  },
+  {
+   "cn": "阿普费尔评分表",
+   "en": "Apfel score",
+   "source": "麻醉学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "阿普费尔（Apfel）等创立的术后恶心、呕吐简化风险评分系统。包含以下4种高度预测性危险因素：女性，不吸烟，晕动病史或既往术后恶心、呕吐病史，预期术后给予阿片类药物。存在0、1、2、3和4种危险因素时"
+  },
+  {
+   "cn": "韦尔评分",
+   "en": "Well score",
+   "source": "麻醉学名词",
+   "wordNumber": "03.032",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "深静脉血栓形成风险因素评分系统。评分组成包括瘫痪、轻瘫或近期下肢石膏固定（1分）；近期卧床超过3天，或过去4周内行大手术（1分）；深静脉系统局部压痛（1分）；整个下肢肿胀（1分）；在胫骨粗隆下方10c"
+  },
+  {
+   "cn": "卡普里尼评分",
+   "en": "Caprini score",
+   "source": "麻醉学名词",
+   "wordNumber": "03.033",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "针对住院患者进行的不接受血栓预防时静脉血栓栓塞症风险评分。此量表包含了大约40个不同的危险因素，基本涵盖了住院患者可能发生静脉血栓栓塞症的所有危险因素，最后根据得到的累积分数将患者的深静脉血栓预估基线"
+  },
+  {
+   "cn": "下肢运动阻滞程度评分",
+   "en": "Bromage score",
+   "source": "麻醉学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "麻醉学_专科麻醉_产科麻醉",
+   "subjectName": "产科麻醉",
+   "publishYear": "2024",
+   "definition": "一种针对下肢运动功能的评分。可用于评价运动阻滞程度。1级为不能抬高下肢；2级为不能屈膝；3级为不能屈踝。"
+  },
+  {
+   "cn": "[睾丸活检]约翰逊评分",
+   "en": "Johnson score",
+   "source": "男科及性医学名词",
+   "wordNumber": "14.037",
+   "subjectFullName": "男科及性医学_男性不育与辅助生殖",
+   "subjectName": "男性不育与辅助生殖",
+   "publishYear": "2023",
+   "definition": "一种国际上通行的评价睾丸活检组织生精功能的病理评分。评分从最低1分到最高10分，分别反映睾丸中无生精上皮至生精功能正常的各种病理表现。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "总谱",
+   "en": "score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乐谱",
+   "en": "score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "预报评分",
+   "en": "forecast score\",\"threat score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准分数，Z 分数",
+   "en": "standard score\",\"Z score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "技巧[评]分",
+   "en": "skill score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚评分，系统性误差评分",
+   "en": "bias score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S1评分",
+   "en": "S1 score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导出分数",
+   "en": "derived score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "转换分数",
+   "en": "converted score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临界分数",
+   "en": "cutoff score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "离差分数",
+   "en": "deviation score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原始分数",
+   "en": "raw score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "钢琴缩编谱",
+   "en": "piano score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真分数",
+   "en": "true score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "量表分数",
+   "en": "scale score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "缩编谱",
+   "en": "short score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文化多元主义",
+   "en": "cultural pluralism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "提倡不同文化之间的并存与相互尊重，反对文化同化、文化侵略、文化渗透等可能导致某种文化消失的任何文化过程。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "医学多样性",
+   "en": "medical pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0247",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一个社会或文化中多种医学体系并存现象的描述。在采集渔猎等小型部落社会，对疾病的病因解释及治疗常常是单一的；而在大规模的农业社会或工业化国家，医学体系则多呈现多元并存的现象。"
+  },
+  {
+   "cn": "法律多元论",
+   "en": "legal pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0128",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律一元论相对应的概念，即两种或者多种法律规范，法律体系或法律秩序共存于同一社会领域中的现象。"
+  },
+  {
+   "cn": "危险分数",
+   "en": "risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "通常表示为具有某一危险因素水平的人群死亡概率与人群平均死亡概率的比值。是一种健康风险评估的量化结果，用于衡量特定对象的健康风险水平。"
+  },
+  {
+   "cn": "组合危险分数",
+   "en": "composite risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "当死亡原因存在多种危险因素时计算的危险分数的组合结果，可以反映危险因素之间对健康影响的综合效应。"
+  },
+  {
+   "cn": "角结膜染色评分",
+   "en": "ocular staining score, OSS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "角膜荧光素染色和结膜丽斯胺绿染色联合的染色方法，用于评估干燥综合征等疾病的眼表损伤。"
+  },
+  {
+   "cn": "改良罗德南皮肤评分",
+   "en": "modified Rodnan skin score, MRSS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于评估系统性硬化症皮肤硬化程度的评分系统。"
+  },
+  {
+   "cn": "有效成分质量分数",
+   "en": "quality score of active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.4",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂有效成分的质量与该样品中总物质质量之比，单位以百分数（％）表示。"
+  },
+  {
+   "cn": "伯明翰血管炎活动性评分",
+   "en": "Birmingham vasculitis activity score， BVAS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于评估血管炎疾病活动度的评分系统，包括全身症状（关节痛、关节炎和发热）以及8大器官系统的受累（皮肤、黏膜、耳鼻喉、心血管、肺部、胃肠道、肾脏、神经系统）。每个部位的持续性症状计1分，新发或加重的症状"
+  },
+  {
+   "cn": "强直性脊柱炎疾病活动度评分",
+   "en": "ankylosing spondylitis disease activity score, ASDAS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.2.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "评估强直性脊柱炎疾病活动度的综合指标。包含5个变量：背痛、外周关节痛/肿、晨僵时间、患者总体病情评分、CRP/ESR的计算公式。疾病活动度分为不活动（<1.3）、低度活动(1.3-2.1)、高度活动("
+  },
+  {
+   "cn": "银屑病关节炎疾病活动度评分",
+   "en": "psoriatic arthritis disease activity score， PASDAS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "由银屑病及银屑病关节炎研究评估学组研究制定，用于评估银屑病关节炎疾病活动的评分系统。包括压痛和肿胀关节、医生和患者总体评分、附着点炎、指/趾炎及CRP在内的计算公式。"
+  },
+  {
+   "cn": "标准差分评价法",
+   "en": "standard deviation score method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用标准差分来评价生长发育一种特殊类型的离差法。标准差分是将个体某测量指标实测值与参考样本均值之差除以参考样本的标准差所得，标准差分在-1和1之间评价为中等。"
+  },
+  {
+   "cn": "44关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS44",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "全身44处关节的评估类风湿关节炎疾病活动度的复合指标。包括Ritchie关节指数、肿胀关节总数、血沉和患者基于视觉模拟评分量表做出的总体健康评分（GH），计算公式较复杂。"
+  },
+  {
+   "cn": "28关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS28",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "包括全身28处关节的评估类风湿关节炎疾病活动度的复合指标。包括关节肿胀和压痛数、ESR或CRP及患者总体健康评分。DAS28>5.1：高疾病活动度，DAS28为3.2-5.1：中等疾病活动度，DAS2"
+  },
+  {
+   "cn": "细菌芽孢",
+   "en": "bacterial spore",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "细菌在胞内形成的对不良环境条件具有强抗逆性能和有利于长期存活的无性休眠体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

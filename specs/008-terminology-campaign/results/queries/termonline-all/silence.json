@@ -1,0 +1,742 @@
+{
+ "key": "silence",
+ "term": "silence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:32:09+00:00",
+ "status": "ok",
+ "note": "variant=silence; 审定公布名词库=727; 海峡两岸名词对照库=137; 其他来源数据库=59; 预公布名词数据库=79; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.032",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种不使用语言说话的沟通方式。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0535",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "能够被负性调控因子识别并结合，使邻近基因的表达水平降低的一段短的DNA序列。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.261",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "降低或关闭邻近基因表达活性的一段DNA序列。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "植物学名词",
+   "wordNumber": "16.0152",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "帮助降低或关闭邻近基因表达活性的一段DNA序列。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "建筑学名词",
+   "wordNumber": "10.0315",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "具有吸声衬里或特殊形状的气流管道，可有效地降低气流中的噪声。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_流体机械_气体分离设备_单元设备_净化设备与其他",
+   "subjectName": "净化设备与其他",
+   "publishYear": "2013",
+   "definition": "用以降低气流噪声的设备。其壳体多为钢材。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机",
+   "subjectName": "结构和辅机",
+   "publishYear": "2013",
+   "definition": "衰减燃气轮机噪声的装置。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.348",
+   "subjectFullName": "机械工程_汽车_发动机_进排气系",
+   "subjectName": "进排气系",
+   "publishYear": "2013",
+   "definition": "装在发动机整个排气管系的尾端，通常是接在一些排气净化装置(如催化转化器、颗粒捕集器等)之后，用以降低发动机排气噪声的装置。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "遗传学名词",
+   "wordNumber": "03.498",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "帮助降低或关闭邻近基因表达活性的一段DNA顺式元件序列。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.531",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer,muffler",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_动力机械_内燃机_增压及进排气管系统",
+   "subjectName": "增压及进排气管系统",
+   "publishYear": "2013",
+   "definition": "用以降低发动机进排气口噪声级的装置。"
+  },
+  {
+   "cn": "沉默子序列",
+   "en": "silencer sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "抑制基因转录的DNA序列。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electrical silence",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.44.3",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "由于生物学或非生物学原因，在电生理测定过程中无法记录到电活动的现象。"
+  },
+  {
+   "cn": "精神静默",
+   "en": "mental silence",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.006",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "一种简单易行、自然且不费力的静坐技术。练习者体验到思想过程越来越宁静，直到一种完全静止的精神状态。在这种状态中，注意力超越了日常思想水平。"
+  },
+  {
+   "cn": "有偿不闻",
+   "en": "paid silence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.031",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "新闻从业者以不予曝光负面新闻为交换条件，收受他人、他方的钱财或其他好处的违规违法行为。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electric silence",
+   "source": "手外科学名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "肌肉完全放松时在肌电图上的表现。肌肉完全放松时，没有兴奋过程，不出现肌电位，视波屏上呈一条直线。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electric silence",
+   "source": "神经病学名词",
+   "wordNumber": "05.144",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由于生物学或非生物学原因，在电生理测定过程中，无法记录到电活动的现象。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electrical silence",
+   "source": "显微外科学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤电生理检查",
+   "subjectName": "周围神经损伤电生理检查",
+   "publishYear": "2016",
+   "definition": "当电极插入完全松弛状态下的肌肉内，电极下的肌纤维无动作电位出现，荧光屏上表现为一条直线的现象。"
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.296",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "生物体中特定基因由于种种原因不表达的现象。真核生物细胞基因表达调节的一种重要手段。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electric silence",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.312",
+   "subjectFullName": "物理医学与康复_康复功能评定_肌电图与电诊断检查",
+   "subjectName": "肌电图与电诊断检查",
+   "publishYear": "2014",
+   "definition": "没有可以检测到的生物源性或非生物源性的电活动。记录系统的敏感性和信噪比的水平应考虑进去。"
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子序列",
+   "en": "silencer sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子元件",
+   "en": "silencer element",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无线电寂静",
+   "en": "radio silence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进气消音器",
+   "en": "intake silencer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转基因沉默",
+   "en": "transgene silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转座子沉默",
+   "en": "transposon silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录沉默",
+   "en": "transcription silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子,沉默基因",
+   "en": "silencer\",\"silent gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "静默时间",
+   "en": "silence period\",\"SP",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "默哀三分钟",
+   "en": "to observe three minutes of silence to mourn the deceased",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防民之口，甚于防川",
+   "en": "To Silence the People Is More Harmful than Blocking a River.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民各有心，勿壅惟口",
+   "en": "The People Have Their Own Thoughts; Their Voices Should Not Be Silenced.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络暴力攻击",
+   "en": "cyber violence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学素养",
+   "en": "data science literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学加速器",
+   "en": "data science accelerator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在接受心理咨询时少言寡语，对咨询者的提问无反应的表现。需要咨询者运用真诚和技巧来打破僵局，使咨询顺利进行。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0031",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级斗争或政治活动中一种激烈而强制性的力量。在阶级社会，统治阶级运用国家政权及其军队、警察、监狱等暴力机构维护其统治。被统治阶级通常也通过武装斗争等暴力手段进行反抗。因而暴力具有鲜明的阶级性。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.40",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员之间的身体、精神、性等方面的侵害行为。发生于有血缘、婚姻、收养关系而生活在一起的家庭成员之间，如丈夫对妻子、父母对子女、成年子女对父母等。"
+  },
+  {
+   "cn": "性别暴力",
+   "en": "gender violence",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.18",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别因素而对他人（包括异性和同性）实施的暴力行为，包括身体暴力、精神暴力、语言暴力、性暴力、经济控制、行为控制等多种形式。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "政治暴力",
+   "en": "political violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0217",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为了政治目的而使用的包括军队、警察、法庭、监狱等所有物质力量。它是政治权力的基础和后盾，但不是政治权力本身。政治暴力往往是在政治权力的合法性得不到认同时所诉诸的最后手段。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

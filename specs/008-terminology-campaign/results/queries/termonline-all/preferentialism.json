@@ -1,0 +1,472 @@
+{
+ "key": "preferentialism",
+ "term": "preferentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:46:38+00:00",
+ "status": "ok",
+ "note": "variant=preferentialism; 审定公布名词库=20; 海峡两岸名词对照库=33; 其他来源数据库=2; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "优惠关税",
+   "en": "preferential duty",
+   "source": "农学名词",
+   "wordNumber": "19.172",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "对特定受惠国的进口货物征收低于普通税率的优惠税率关税。"
+  },
+  {
+   "cn": "择优通道",
+   "en": "preferential path",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1720",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "输导系统中最有利于流体运移的通道或路径。"
+  },
+  {
+   "cn": "优先分离",
+   "en": "preferential segregation",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.288",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "减数分裂中产生4个子细胞时，染色体或染色体片段非随机分配，结果某条染色体或染色体片段优先进入卵细胞，而其同源部分则进入不参加合子形成的极体。"
+  },
+  {
+   "cn": "特惠关税",
+   "en": "preferential tariff",
+   "source": "经济学名词",
+   "wordNumber": "11.065",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "进口国对从特定的国家或地区进口的全部或部分商品，给予特别优惠的低税或减免税待遇。此时，其他国家或地区不能根据最惠国待遇原则，要求享受这种优惠待遇。特惠关税的税率一般低于最惠国税率和协定税率。特惠关税分"
+  },
+  {
+   "cn": "择优方向",
+   "en": "preferential direction",
+   "source": "物理学名词",
+   "wordNumber": "08.0916",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "倾向受精",
+   "en": "preferential fertilization",
+   "source": "植物学名词",
+   "wordNumber": "08.0260",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "两个精细胞与卵细胞和中央细胞的结合不是随机的，而是有倾向性的受精方式。但尚未得到普遍证实。"
+  },
+  {
+   "cn": "适宜种",
+   "en": "preferential species",
+   "source": "植物学名词",
+   "wordNumber": "13.0284",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "在若干群落类型中都可以茂盛生长，但在某一群落类型中生长最旺盛或作为优势种的物种。"
+  },
+  {
+   "cn": "择优分凝",
+   "en": "preferential partition",
+   "source": "物理学名词",
+   "wordNumber": "08.0915",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "优先结晶",
+   "en": "preferential crystallization",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0418",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "在过饱和的外消旋体溶液中加入一种对映异构体的晶种，使旋光性与该晶种相同的异构体从溶液中结晶出来的过程。"
+  },
+  {
+   "cn": "择优溅射",
+   "en": "preferential sputtering",
+   "source": "化学名词",
+   "wordNumber": "03.2650",
+   "subjectFullName": "化学_分析化学_仪器分析_能谱分析",
+   "subjectName": "能谱分析",
+   "publishYear": "2016",
+   "definition": "用离子束溅射多组分样品时，因每种元素溅射产额不同而引起样品平衡态时的表面组分变化的现象。"
+  },
+  {
+   "cn": "择优腐蚀",
+   "en": "preferential etching",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0137",
+   "subjectFullName": "材料科学技术_半导体材料_元素半导体材料",
+   "subjectName": "元素半导体材料",
+   "publishYear": "2011",
+   "definition": "沿着特定的结晶学平面，呈现腐蚀速率加快的腐蚀方法。"
+  },
+  {
+   "cn": "优先分离",
+   "en": "preferential segregation",
+   "source": "遗传学名词",
+   "wordNumber": "04.173",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "减数分裂中产生四个子细胞时，染色体或染色体片段非随机分配，结果某条染色体或染色体片段优先进入卵细胞，而其同源部分则进入不参加合子形成的极体。"
+  },
+  {
+   "cn": "优先流",
+   "en": "preferential flow",
+   "source": "土壤学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "在土壤大孔隙中的水流。"
+  },
+  {
+   "cn": "选择性润湿",
+   "en": "preferential wettability",
+   "source": "石油名词",
+   "wordNumber": "11.0084",
+   "subjectFullName": "石油_油气田开发与开采_油层物理",
+   "subjectName": "油层物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "植物偏爱密码子",
+   "en": "plant preferential codon ",
+   "source": "草学名词",
+   "wordNumber": "5.0201",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "互惠关税",
+   "en": "mutually preferential tariff",
+   "source": "经济学名词",
+   "wordNumber": "11.067",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "通过互惠协定实现的关税。是指缔结贸易条约国的双方在平等互利基础上，相互协定给予对等优惠待遇的关税。一般对对方的进口货物相互免征关税或采用比其他国家较低的税率。"
+  },
+  {
+   "cn": "[肾]小管优先重吸收",
+   "en": "preferential tubular reabsorption",
+   "source": "生理学名词",
+   "wordNumber": "08.060",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注视偏好范式",
+   "en": "preferential looking paradigm",
+   "source": "心理学名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "通过考察婴儿对不同刺激的注视时间而研究其知觉发展的方法。"
+  },
+  {
+   "cn": "直捷通路",
+   "en": "thoroughfare channel,preferential channel",
+   "source": "生理学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指称论",
+   "en": "referential theory,referentialism,denotational theory",
+   "source": "语言学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "一种语义理论。认为词义就是所指的客观事物，词义对应的是现实世界中可感知的事物。代表人物有柏拉图（Plato）、罗素（Russell）等。"
+  },
+  {
+   "cn": "优惠关税",
+   "en": "preferential tariff (=preferential duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "倾向受精",
+   "en": "preferential fertilization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适宜种",
+   "en": "preferential species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有择溶解度",
+   "en": "preferential solubility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "择优腐蚀",
+   "en": "preferential etching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "适宜种",
+   "en": "preferential species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "特惠贸易",
+   "en": "preferential trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠区域",
+   "en": "preferential area",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠条款",
+   "en": "preferential clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠制度",
+   "en": "preferential system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠待遇",
+   "en": "preferential treatment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠关税",
+   "en": "preferential duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠票据",
+   "en": "preferential bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠税率",
+   "en": "preferential rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠条件",
+   "en": "preferential terms",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先出口",
+   "en": "preferential export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先进口",
+   "en": "preferential import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债权人",
+   "en": "preferential creditor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先分离,偏向分离",
+   "en": "preferential segregation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地区特惠税",
+   "en": "regional preferential duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠贸易协定",
+   "en": "Preferential Trade Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优惠帮扶举措",
+   "en": "preferential support measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会优待",
+   "en": "social preferential treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家和社会对现、退役军人提供资金或服务的优待性社会保障项目，以及在医疗、交通、住房、就业、入学、入托、生活困难补助、救济等方面提供的优惠待遇，以保障军人及其家属的基本生活水平，并随着社会的不断发展不断"
+  },
+  {
+   "cn": "生产资料优先增长",
+   "en": "preferential growth of means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0314",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种关于在技术进步、资本有机构成提高的扩大再生产条件下，生产资料生产的增长速度快于消费资料生产的增长速度。马克思首先提出了生产资料优先增长的规律。列宁则将马克思的这一思想与资本有机构成的理论及再生产公"
+  },
+  {
+   "cn": "“三项照顾”政策",
+   "en": "Three Preferential Policies for Trade and Finance in Ethnic Areas",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "国家对民族地区的贸易和财政实行的支持政策，包括民族贸易“三项照顾”政策和对民族地区财政“三项照顾”政策两种类型。前者指国家对民族贸易采取的利润留成、自有资金、价格补贴等方面的政策；后者指中央财政给与民"
+  },
+  {
+   "cn": "拥政爱民拥军优属",
+   "en": "support the government and cherish the people support the army and give preferential treatment to families of revolutionary",
+   "source": "马克思主义",
+   "wordNumber": "03.0411",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“拥护政府，爱护人民”“拥护军队，优待抗日军人家属”。在抗日战争相持阶段的艰苦时刻，中国共产党把“双拥”运动作为实现军政军民大团结，渡过难关，夺取抗战胜利的十大政策之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

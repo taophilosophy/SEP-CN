@@ -1,0 +1,752 @@
+{
+ "key": "direct presentations",
+ "term": "direct presentations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:30:25+00:00",
+ "status": "ok",
+ "note": "variant=direct presentations; 审定公布名词库=2476; 海峡两岸名词对照库=627; 其他来源数据库=96; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "胎向",
+   "en": "presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的方向。即胎儿在母体中身体纵轴与母体纵轴的关系。"
+  },
+  {
+   "cn": "产品展示",
+   "en": "presentation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0640",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员将产品的详情讲述给买家，并着重阐述其顾客利益以及展示该产品如何解决顾客问题。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "现在",
+   "en": "present",
+   "source": "物理学名词",
+   "wordNumber": "06.0076",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "急救医学名词",
+   "wordNumber": "03.626",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。头最为常见，另有臀、肩，偶见复合先露。"
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.01",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。"
+  },
+  {
+   "cn": "头先露",
+   "en": "cephalic presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿头部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "枕先露",
+   "en": "occipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿枕骨最先进入母体骨盆入口。胎头俯屈使下颏接近胸部。"
+  },
+  {
+   "cn": "面先露",
+   "en": "face presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿面部最先进入母体骨盆入口。胎头极度仰伸，胎儿枕部与胎背接触。多在临产后发现，经产妇多见。"
+  },
+  {
+   "cn": "额先露",
+   "en": "brow presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.014",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿额骨最先进入母体骨盆入口。胎头部分仰伸。"
+  },
+  {
+   "cn": "臀先露",
+   "en": "breech presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿臀部或胎儿足部最先进入母体骨盆入口。是最常见的异常胎位。可分为单臀先露、完全臀先露、不完全臀先露。以骶骨为指示点，有骶左前、骶左横、骶左后、骶右前、骶右横、骶右后6种胎方位。"
+  },
+  {
+   "cn": "肩先露",
+   "en": "shoulder presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿横产式，胎儿肩部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "复合先露",
+   "en": "compound presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎先露部伴有胎儿肢体同时进入骨盆入口。临床以一手或一前臂沿胎头脱出最常见，多发生于早产者。"
+  },
+  {
+   "cn": "高直位",
+   "en": "sincipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "18.04",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "胎头以不屈不伸的姿势位于骨盆入口，其矢状缝与骨盆入口平面前后径一致的一种胎位异常。"
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.034",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "通过细胞表面的分子与特异性配体结合而使配体浓缩富集，然后提呈给同一细胞或其他细胞上受体的现象。如在脂代谢中蛋白聚糖提呈脂蛋白相关蛋白质的配体载脂蛋白E等。"
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.3.1.5",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "表达于细胞表面的抗原肽-主要组织相容性复合体分子复合物被T细胞识别，从而将抗原肽提呈给T细胞，诱导T细胞活化的过程。"
+  },
+  {
+   "cn": "横向",
+   "en": "transverse presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿纵轴与母体纵轴呈水平垂直的 胎向。"
+  },
+  {
+   "cn": "纵向",
+   "en": "longitudinal presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "在子宫内胎儿身体纵轴与母体身体纵轴平行的胎向。"
+  },
+  {
+   "cn": "竖向",
+   "en": "vertical presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿纵轴与母体纵轴呈上下垂直的 胎向。"
+  },
+  {
+   "cn": "背横向",
+   "en": "dorsotransverse presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿横卧于子宫内,背部朝着母体骨盆入口的胎向。"
+  },
+  {
+   "cn": "背竖向",
+   "en": "dorsovertical presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿竖立于子宫中,背部向着母体骨盆入口,头部在上,头和四肢呈屈曲状态的胎向。"
+  },
+  {
+   "cn": "书写方向",
+   "en": "presentation direction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "求爱行为",
+   "en": "presenting",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "现值",
+   "en": "present value\",\"present worth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双耳呈现",
+   "en": "binaural presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "样品预处理",
+   "en": "sample presentation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交叉提呈",
+   "en": "cross-presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据表达",
+   "en": "data presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形表示[法]",
+   "en": "graphic presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示法",
+   "en": "cartographic presentation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "互补色立体显示",
+   "en": "anaglyphic presentation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表示层",
+   "en": "presentation layer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代气候",
+   "en": "present climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现在天气",
+   "en": "present weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提示银行",
+   "en": "presenting bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现价",
+   "en": "present price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现值",
+   "en": "present value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同现,共存",
+   "en": "co-present",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直刺",
+   "en": "direct hit\",\"direct thrust\",\"straight thrust",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "抗原提呈细胞",
+   "en": "antigen presenting cell, APC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.25",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类参与适应性免疫应答的重要性细胞类型。其功能为：①摄取和加工抗原，并使抗原肽与MHC分子形成复合物而呈现于细胞表面，共T细胞识别；②组成性或诱导性表达多种共刺激分子，通过对T细胞表面相应配体结合而提"
+  },
+  {
+   "cn": "存在死亡危险",
+   "en": "present risk of death",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "在某一种组合危险分数下，因某种疾病死亡的可能危险性。其计算公式为疾病别平均死亡率乘以该疾病危险分数。"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.26",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "仅在炎症因子刺激下才诱导性表达MHCII类分子和共刺激分子,并因此具有抗原提呈功能的细胞。包括内皮细胞、上皮细胞、成纤维细胞等。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "直接抗球蛋白试验",
+   "en": "direct antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.25",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "用于诊断胎儿有核红细胞增多症、新生儿溶血病和自身免疫性溶血性贫血症的试验。依据某些患者红细胞表面含不完全抗体，滴加抗人球蛋白血清后可出现凝集现象。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

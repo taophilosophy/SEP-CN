@@ -1,0 +1,62 @@
+{
+ "key": "resemblance",
+ "term": "resemblance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:34:31+00:00",
+ "status": "ok",
+ "note": "variant=resemblance; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "子宫类似卵巢性索瘤样肿瘤",
+   "en": "uterine tumor resembling ovarian sex cord tumor;UTROSCT",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "7.255",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤疾病_子宫肿瘤_子宫间叶性肿瘤",
+   "subjectName": "子宫间叶性肿瘤",
+   "publishYear": "2022",
+   "definition": "主要或全部由性索样成分构成的子宫肿瘤。类似卵巢性索肿瘤，多种形态单独或混合出现，性索样成分显示多向分化。绝大部分为良性，好发于生育期和绝经后女性，常表现为异常阴道流血和子宫增大。具有低度恶性潜能，少数"
+  },
+  {
+   "cn": "模糊相似关系",
+   "en": "fuzzy similarity relation,fuzzy similar relation,fuzzy resembling relation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0479",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "如果论域U上的模糊关系R满足：①自反性，即R(u, u)=1或<img src='/root/syzx/static/spz/guanlikexue1.02.0479.1.png'/>；②对称性，即R"
+  },
+  {
+   "cn": "相似度",
+   "en": "semblance",
+   "source": "石油名词",
+   "wordNumber": "03.0621",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "家族相似性",
+   "en": "family resemblance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象",
+   "en": "Xiang (Semblance)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

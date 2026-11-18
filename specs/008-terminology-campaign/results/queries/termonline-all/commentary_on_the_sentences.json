@@ -1,0 +1,812 @@
+{
+ "key": "commentary on the sentences",
+ "term": "Commentary on the Sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:41:04+00:00",
+ "status": "ok",
+ "note": "variant=Commentary on the Sentences; 审定公布名词库=5181; 海峡两岸名词对照库=1067; 其他来源数据库=1582; 预公布名词数据库=743; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "独词句",
+   "en": "one word sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.169",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "非主谓句的一种。由一个词加上一种语调构成。例如，“好。”“谁？”“小心！”"
+  },
+  {
+   "cn": "背记",
+   "en": "commentaries written on the back of the roll",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.258",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "卷轴装古籍纸面背后记载的文字。可能与该书内容有关，也可能与该书内容无关。例如《〈春秋后语〉背记》。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "章句",
+   "en": "annotation based on sentences",
+   "source": "语言学名词",
+   "wordNumber": "10.018",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "以句子为基本训释单位，将字词训释嵌入句子的直译之中，进而分析句读、串讲文意、探讨章旨的训诂体式。例如汉代赵岐的《孟子章句》。"
+  },
+  {
+   "cn": "新闻评论",
+   "en": "news commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.252",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "通过新闻媒体发表的，针对新近发生的事件或社会现象进行分析解释并阐明观点立场的新闻文体。"
+  },
+  {
+   "cn": "评论部",
+   "en": "commentary department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.253",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "在报刊中负责评论性内容生产的组织机构。"
+  },
+  {
+   "cn": "政论",
+   "en": "political commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.26",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "报刊上登载的从政治角度阐述和评论当时重大事件和社会问题的议论文。"
+  },
+  {
+   "cn": "配评论",
+   "en": "pairing commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.268",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "编辑为准备刊发的新闻报道或文章撰写针对性的评论并与新闻报道或文章共同发表。"
+  },
+  {
+   "cn": "评论播音",
+   "en": "broadcasting commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.128",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持",
+   "subjectName": "广播电视播音主持",
+   "publishYear": "2022",
+   "definition": "播音员在节目中对某些事物进行评论，发表看法。"
+  },
+  {
+   "cn": "评论",
+   "en": "news commentary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.103",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "论及当前社会最须关注和解决的问题的文章。包括社论、短评、署名评论等。"
+  },
+  {
+   "cn": "思想被评论",
+   "en": "thought commentary",
+   "source": "精神医学名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者报告头脑中出现一种以上思路的精神病理状态。有的思想是异己的、侵入进来的，会评论受检者的思想或者评论受检者所做、所读、所写。与评论性幻听不同，评论性幻听可以作为思想被评论的前体。"
+  },
+  {
+   "cn": "九评",
+   "en": "Nine Commentaries",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.173",
+   "subjectFullName": "新闻学与传播学_新闻史_新闻事件",
+   "subjectName": "新闻事件",
+   "publishYear": "2022",
+   "definition": "1963年9月6日至1964年7月14日，中共中央以《人民日报》和《红旗》杂志编辑部名义，连续发表九篇评论《给苏联各级党组织和全体共产党员的公开信》文章。史称“九评”。"
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正在广播",
+   "en": "on-the-air",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "飞行中",
+   "en": "on the fly",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后八字",
+   "en": "on the quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "前八字",
+   "en": "on the bow",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "运动中",
+   "en": "on the fly",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "沙滩上的爱因斯坦",
+   "en": "Einstein on the Beach",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Philip Glass"
+  },
+  {
+   "cn": "飞击式打印机",
+   "en": "on-the-fly printer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时解压缩，即时解压缩",
+   "en": "on-the-fly decompression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时压缩，即时压缩",
+   "en": "on-the-fly compression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常州词派",
+   "en": "The Changzhou School of Commentary on Ci Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "议对",
+   "en": "Commentary and Proposal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在对角线",
+   "en": "on the diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贴靠围绳",
+   "en": "lean on the ropes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马支撑",
+   "en": "support on the pommel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从内侧超越",
+   "en": "overtake on the inside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从外侧超越",
+   "en": "overtake on the outside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "左路进攻",
+   "en": "attack on the left",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右路进攻",
+   "en": "attack on the right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触剑动作",
+   "en": "action on the blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击打进攻",
+   "en": "attack on the blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色肢",
+   "en": "white on the limbs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在中线",
+   "en": "on the center line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨入水",
+   "en": "catch\",\"grip on the water",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交易过程信息",
+   "en": "information on the trading process",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背后滚球",
+   "en": "roll the ball on back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "出海禁忌",
+   "en": "taboo on the sea",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0057",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们离开大陆来到海洋之后，在生活和生产上的限制和禁止。出海禁忌要求人们出海之后对神圣的或可能带来灾难的人、事、神灵，采取一种避讳态度或禁止性的行为准则；这些禁忌贯穿在衣食住行等方方面面，不同地区渔民的"
+  },
+  {
+   "cn": "国家观",
+   "en": "outlook on the state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0137",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对国家的认知，包括了国家作为一个主权完整领土统一的现代国家的历史、文化、制度和道路的认同和认知，公民个体和国家关系的认知，公民个体在国家中的权利义务的认知。在中国，核心是对中华人民共和国的认同。"
+  },
+  {
+   "cn": "岗位培训",
+   "en": "on-the-job training",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "针对医疗卫生从业人员，为提升其工作能力和岗位相关技能而开展的医学相关教育和培训活动。"
+  },
+  {
+   "cn": "儿童权利公约",
+   "en": "convention on the rights of the child",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "首个具法律约束力的国际公约，涵盖公民、经济、政治、文化和社会领域的所有人权，保障儿童权益。"
+  },
+  {
+   "cn": "卫生总费用",
+   "en": "total expenditure on health,THE",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内（通常是一年），全社会为提供卫生服务所消耗经济资源的货币价值，分为经常性卫生费用和固定资本形成费用。"
+  },
+  {
+   "cn": "啃老族",
+   "en": "youth living on the elder",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "有谋生能力但继续在经济上依赖父母的成年子女。这些成年子女中，有的有工作但仍需父母赞助其支付高房价和高消费；有的则是“自愿性失业”，主动放弃就业、依附父母。"
+  },
+  {
+   "cn": "斯大林军事思想",
+   "en": "Stalins througnts on the military",
+   "source": "马克思主义",
+   "wordNumber": "04.0104",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "继列宁军事理论之后，斯大林在帝国主义和无产阶级革命时代这个新的历史条件下，对无产阶级军事科学的丰富和发展，是马克思列宁主义的重要组成部分。斯大林军事思想的主要贡献：发展了马克思列宁主义关于战争的理论，"
+  },
+  {
+   "cn": "《蛮书》",
+   "en": "Book on the southwest outlyingdistrict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0266",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "唐人樊绰撰，记载南诏史事。共十卷。对今云南地区之自然地理、城镇、交通、里程、物产，特别是对南诏历史、政治、经济、军事、各民族的生活习俗、山川、交通城镇及境外诸国，均有系统阐述。"
+  },
+  {
+   "cn": "摸着石头过河",
+   "en": "grope ones way across the river",
+   "source": "马克思主义",
+   "wordNumber": "03.0522",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年12月在中央工作会议上，陈云讲话称：“我们要改革，但是步子要稳。……随时总结经验，也就是要‘摸着石头过河’”。邓小平对陈云提出的“摸着石头过河说”完全赞同。 邓小平强调“摸着石头过河”, 就"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  },
+  {
+   "cn": "食品安全法实施条例",
+   "en": "Regulation on the Implementation of the Food Safety Law",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "与《中华人民共和国食品安全法》配套的食品法规，进一步细化了各层级的食品安全管理要求。"
+  },
+  {
+   "cn": "《西域水道记》",
+   "en": "Records on the Water Ways in the West of China",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.027",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "历史地理著作。清徐松著。载有西域各条河流之发源、流域、所入湖泊等详细资料。于流域内人文历史、典章制度，亦多有考证。范围包括今嘉峪关以西，直至巴尔咯什湖以东以南广大西北地区。"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "中国共产党党员权利保障条例",
+   "en": "regulations on the protection of the rights of members of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0757",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了发展党内民主，健全党内生活，坚持民主集中制原则，增强党的生机活力，保障党员权利的正常行使和不受侵犯，根据党章而制定的专门条例。作为党员权利保障的基础性法规，早在1995年党中央就印发了试行《条例》"
+  },
+  {
+   "cn": "车载医用X射线诊断设备",
+   "en": "medical X-ray equipment install on the vehicle",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.15",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "安装在可移动运输车辆上的医用X射线诊断设备，用于机动条件下，在远离医院的现场开展X射线诊断检查。"
+  },
+  {
+   "cn": "核材料实物保护公约",
+   "en": "Convention on the Physical Protection of Nuclear Material",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.15",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "《核材料实物保护公约》是民用核材料实物保护领域中唯一的国际法文书，其修订案于2005年在公约缔约国大会上获得通过。该公约各缔约国，确认一切国家有权为和平目的发展和利用核能，并合法享有和平利用核能所可能"
+  },
+  {
+   "cn": "乏燃料管理安全和放射性废物管理安全联合公约",
+   "en": "Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.16",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "加强乏燃料和放射性废物管理安全方面的鼓励性国际公约。1997年9月5日通过，1997年9月29日开放供签署。截至1999年3月10日，已有39个国家签署，6个国家交存了批准书。但按该公约规定，需得到2"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

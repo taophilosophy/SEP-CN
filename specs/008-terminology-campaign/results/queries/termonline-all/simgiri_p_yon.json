@@ -1,0 +1,32 @@
+{
+ "key": "simgiri p'yon",
+ "term": "Simgiri p’yŏn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:29:19+00:00",
+ "status": "ok",
+ "note": "variant=Simgiri p’yŏn; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "杜鹃中毒",
+   "en": "Rhododendron simsii poisoning",
+   "source": "兽医学名词",
+   "wordNumber": "15.249",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "家畜采食杜鹃而引起的，以心律失常、副交感神经兴奋、骨骼肌麻痹为特征的中毒性 疾病。"
+  },
+  {
+   "cn": "杜鹃花",
+   "en": "Azalea; Rhododendron simsii Planch.",
+   "source": "农学名词",
+   "wordNumber": "05.458",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "杜鹃花科杜鹃属灌木或乔木。染色体基数为13，多数为2倍体，2n=2x=26。常绿或落叶灌木，稀为乔木或附生类型；花两性，常多朵组成顶生的伞形总状或短总状花序，偶有单生或簇生；花冠钟状、漏斗状或管状等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

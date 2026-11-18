@@ -1,0 +1,712 @@
+{
+ "key": "negative polarity items",
+ "term": "negative polarity items",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:41:35+00:00",
+ "status": "ok",
+ "note": "variant=negative polarity items; 审定公布名词库=1837; 海峡两岸名词对照库=792; 其他来源数据库=32; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "目",
+   "en": "item",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.035",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍或文章中最小结构单元。"
+  },
+  {
+   "cn": "物项",
+   "en": "item",
+   "source": "电力名词",
+   "wordNumber": "17.574",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "材料、零件、部件、系统、构筑物以及计算机软件等的统称。"
+  },
+  {
+   "cn": "单件",
+   "en": "item",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.361",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目实体物理体现的单一样本。 "
+  },
+  {
+   "cn": "项",
+   "en": "item",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0144",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "可以当作一个信息单位来处理的一组数位或一组字符；一组数据中的一个元素。"
+  },
+  {
+   "cn": "二分项目",
+   "en": "dichotomous items",
+   "source": "心理学名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "在测验中只有答对和答错两种结果的项目。通常答对给1分，答错给0分，如单项选择题、是非题等。"
+  },
+  {
+   "cn": "多重项目",
+   "en": "polytomous items",
+   "source": "心理学名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "在测验中同时提供两个以上选项供被试选择、根据被试反应的不同使用连续整数记分的一类项目。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "测绘学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度相反或色彩为互补色的像片。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "物理学名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "否定[的]",
+   "en": "negative",
+   "source": "数学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "件号",
+   "en": "item number",
+   "source": "档案学名词",
+   "wordNumber": "02.05.027",
+   "subjectFullName": "档案学_文件管理_文件处置",
+   "subjectName": "文件处置",
+   "publishYear": "2024",
+   "definition": "文件的排列顺序编号。"
+  },
+  {
+   "cn": "数据项",
+   "en": "data item",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "数据不可分割的最小单位。数据项的名称有编号、别名、简述、长度、类型、取值范围。数据项是数据记录中最基本的、不可分的有名数据单位，是具有独立含义的最小标识单位。"
+  },
+  {
+   "cn": "费用项目",
+   "en": "expense item",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "在企业日常活动中发生的各种费用的记账分类。如直接或间接用工费用、用料费用等。"
+  },
+  {
+   "cn": "分析项目",
+   "en": "analysis item",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.132",
+   "subjectFullName": "化工（五）_研发与工程化_工程化研究",
+   "subjectName": "工程化研究",
+   "publishYear": "2021",
+   "definition": "化工生产过程中需要通过特定仪器或特定方法进行分析测试的，对产品质量或生产工艺、装置运行可能产生影响的项目。"
+  },
+  {
+   "cn": "明细栏",
+   "en": "item block",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0195",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "由序号、代号、名称、数量、材料、重量、备注等内容组成的栏目。"
+  },
+  {
+   "cn": "税目",
+   "en": "tax item",
+   "source": "经济学名词",
+   "wordNumber": "11.054",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "按照一定的标准和范围对课税对象进行划分从而确定的具体征税品种或项目，是税法中对课税对象的具体化。反映了税收具体的征收范围，代表了征税广度，是每个税种课征制度组成的基本要素。"
+  },
+  {
+   "cn": "经常项目",
+   "en": "current item",
+   "source": "经济学名词",
+   "wordNumber": "12.142",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "本国与外国进行经济交易而经常发生的项目。是国际收支平衡表中最主要的项目，包括对外贸易收支、非贸易往来和无偿转让三个项目。"
+  },
+  {
+   "cn": "分项工程",
+   "en": "work item",
+   "source": "电力名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "是分部工程的进一步划分,如分部工程“固定端结构”中的梁、柱模板工程,梁柱钢筋工程和梁柱混凝土工程等。"
+  },
+  {
+   "cn": "借阅状态",
+   "en": "item status",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "图书、期刊、光盘等馆藏资料在流通过程中所处的状态。一般包括可外借、已借出、不可外借等状态。"
+  },
+  {
+   "cn": "数据项",
+   "en": "data item",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "数据的不可分割的最小单位。一个数据元素可以由若干个数据项组成。"
+  },
+  {
+   "cn": "LR项",
+   "en": "LR-item",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0519",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "设 G 为一个上下文无关文法，在 G 的一个产生式 A→β的右边串β前面、后面或任意两个字符之间加上一个小圆点，称为G 的一个项（LR项）。"
+  },
+  {
+   "cn": "项",
+   "en": "item",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多重项目,多级记分项目",
+   "en": "polytomous items",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "项",
+   "en": "term\",\"item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测验项目",
+   "en": "test item",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目选择",
+   "en": "item selection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目区分度,项目鉴别力",
+   "en": "item discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目参数",
+   "en": "item parameter",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目分析",
+   "en": "item analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调整项目",
+   "en": "reconciliation item",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[关税及贸易总协定]敏感项目",
+   "en": "sensitive item",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币性项目",
+   "en": "monetary item",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有形[贸易]项目",
+   "en": "visible item",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "方程项",
+   "en": "equation item",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据项",
+   "en": "data item",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选单项，菜单项",
+   "en": "menu item",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补充项，增添项",
+   "en": "addition item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合格品",
+   "en": "defective item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不交付项",
+   "en": "nondeliverable item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据项",
+   "en": "data item",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息项标准文档",
+   "en": "information item standard document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准新工作项目提案",
+   "en": "new work item proposal for international standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据开放负面清单制度",
+   "en": "negative list system for open public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新冠病毒检测为阳性/阴性",
+   "en": "to test positive/negative for the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物品消毒",
+   "en": "item disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.2",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "对被病原微生物污染或可能污染的物品进行的消毒。"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入人体无菌组织、器官、脉管系统，或有无菌体液从中流过的物品或接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "条目池",
+   "en": "item bank",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "所有备选的有关条目的集合。"
+  },
+  {
+   "cn": "民俗事象",
+   "en": "items of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0009",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民俗事物的外在形态或民俗活动的表现形式，也可指某一具体的民俗，是考察一个民族的历史、社会形态，心理素质和文化发展的“活化石”。"
+  },
+  {
+   "cn": "中度危险性物品",
+   "en": "semi-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整黏膜相接触，而不进入人体无菌组织、器官和血流，也不接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "项目反应理论",
+   "en": "item response theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "基于测验与潜在特质之间关系而提出的测量理论。认为测验或问卷由一组题项构成，每一个题项都测量了同一潜在心理能力、人格特质或态度的一个方面。项目反应理论使用由N个回答人构成的样本在一组题项上作答得到的数据"
+  },
+  {
+   "cn": "按条目预算",
+   "en": "line-item budget",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.15",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者根据卫生服务提供者在一段特定时间内投入的人力、设备、药品等资源项目或功能分配预算，支付固定的金额。"
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "负染",
+   "en": "negative staining",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于不透光液体标本镜检的染色方法。其染色处理过程并非针对菌体本身，生物膜可用此法进行目测观察。"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "项目反应理论",
+   "en": "item response theory, IRT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "研究个体在测量条目上的反应行为与个体潜在特质之间关系的一种现代测量理论。"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量条目在不同群组的功能表现不一致的现象。其结果是具有相同潜在特质的个体因为属于不同群组（如种族、性别等）对测量条目产生不同反应。"
+  },
+  {
+   "cn": "群体极化",
+   "en": "group polarization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "经过群体讨论后，群体成员所做出的决定往往比他们原先所持有的意见更加极端（例如，更倾向于冒险或者更倾向于保守），从而背离最佳决策的倾向。"
+  },
+  {
+   "cn": "防止两极分化",
+   "en": "prevent polarization",
+   "source": "马克思主义",
+   "wordNumber": "03.0547",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于社会发展和分配领域的一个重要思想。邓小平认为：防止两极分化的关键在于我们的制度和政策。我们遵循两条最重要的原则：第一，公有制经济始终占据主体地位；第二，坚持走共同富裕的道路。一部分地区，一部"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过直接观察指示微生物在液体培养基中的生长情况，来间接确定试验菌的存活情况计算D值的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

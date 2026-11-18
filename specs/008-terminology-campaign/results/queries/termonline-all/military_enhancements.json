@@ -1,0 +1,772 @@
+{
+ "key": "military enhancements",
+ "term": "military enhancements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:47:53+00:00",
+ "status": "ok",
+ "note": "variant=military enhancements; 审定公布名词库=845; 海峡两岸名词对照库=185; 其他来源数据库=31; 预公布名词数据库=201; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "农学名词",
+   "wordNumber": "06.419",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "在基因组中，结合转录因子后，可增强基因表达的DNA调控元件。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0533",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "存在于基因组中对基因表达有增强作用的DNA调控元件。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer ",
+   "source": "草学名词",
+   "wordNumber": "5.0136",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "畜牧学名词",
+   "wordNumber": "04.125",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "增加同它连锁的基因转录活性的DNA序列。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0511",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "一种能够提高转录效率的顺式调控元件。通常长度为100~200bp，也和启动子一样由若干组件构成，基本核心组件常为8~12bp，可以单拷贝或多拷贝串联形式存在。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "植物学名词",
+   "wordNumber": "16.0151",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "发现于真核生物和一些真核生物病毒中的一类调控序列。当位于某个基因上或下游几千碱基对时可以增强这个基因的转录。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "药学名词",
+   "wordNumber": "05.368",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "远离转录起始点(1~30kb)、决定基因的时间、空间特异性表达、增强启动子转录活性的DNA序列。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "存在于基因组中的对基因表达有调控作用的DNA调控元件。位置不定，结合转录因子后，可增强基因表达。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.714",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer;enhancer element",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.267",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "增强真核基因转录的一段DNA序列。与反式作用因子结合而起作用。能够在相对于启动子的任何方向和任何位置（上游或下游）上发挥作用。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer,enhancer element",
+   "source": "遗传学名词",
+   "wordNumber": "03.276",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "增强真核基因转录的一类调节序列。"
+  },
+  {
+   "cn": "军事情报学",
+   "en": "military intelligence,military information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.168",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "以军事情报和军事情报工作实践为研究对象，研究军事情报的搜集、整理、分析、传递及其效用发挥的理论与方法的学科。"
+  },
+  {
+   "cn": "军事技术",
+   "en": "military technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.329",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "以军事应用为目的的科学、技术科学和应用技术的统称。包括武器装备研制、生产、使用、维修与管理过程中所涉及的基础科学知识、技术基础理论、基础技术、应用技术，以及军事工程技术、军事系统工程技术及武器装备的操"
+  },
+  {
+   "cn": "军事装备",
+   "en": "military equipment",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.344",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "用于实施、支援和保障包括作战行动和其他军事活动的武器、武器系统及与之配套的其他军事技术器材，以及军需保障的装备的统称。"
+  },
+  {
+   "cn": "军事工程",
+   "en": "military engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "为军事目的而进行的工程设计、建造、运行和保障活动。也指用于军事目的的构筑物和保障军队作战行动所采取的工程技术措施。"
+  },
+  {
+   "cn": "军事新闻",
+   "en": "military news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.12",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "关于军队和战争等有关事务的新闻报道。"
+  },
+  {
+   "cn": "军事气象学",
+   "en": "military meteorology",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0127",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_军事",
+   "subjectName": "军事",
+   "publishYear": "2022",
+   "definition": "以对军事活动、军事装备运用有影响的气象条件为研究对象的一门气象科学分支学科。 "
+  },
+  {
+   "cn": "军事海洋学",
+   "en": "military oceanography",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0128",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_军事",
+   "subjectName": "军事",
+   "publishYear": "2022",
+   "definition": "以海况与海洋自然规律为研究对象，以服务于军事活动、军事装备运用的一门海洋科学分支学科。 "
+  },
+  {
+   "cn": "军用地图",
+   "en": "military map",
+   "source": "测绘学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "为军事需要制作的各种地图。"
+  },
+  {
+   "cn": "军用海图",
+   "en": "military chart",
+   "source": "测绘学名词",
+   "wordNumber": "07.268",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "为军事需要编制的各种海图。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer\",\"enhancer element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军事气候志",
+   "en": "military climatography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军事气象学",
+   "en": "military meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军事心理学",
+   "en": "military psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "军事海洋学",
+   "en": "military oceanology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "军事地理学",
+   "en": "military geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "军用地图",
+   "en": "military map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "军用地图",
+   "en": "military map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "军用海图",
+   "en": "military chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "军用雷达",
+   "en": "military radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "军事航海",
+   "en": "military navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增强因子",
+   "en": "enhancement factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我提升",
+   "en": "self enhancement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "边缘增强， 边缘强化",
+   "en": "edge enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反差增强",
+   "en": "contrast enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "图像增强",
+   "en": "image enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安理会军事参谋团",
+   "en": "Military Staff Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用增级机制",
+   "en": "credit enhancement mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化口令管理",
+   "en": "enhanced password management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "军民融合大数据",
+   "en": "military-civilian big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "军地对接平台",
+   "en": "military-civilian docking platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准维护增强",
+   "en": "standard maintenance and enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强型移动宽带",
+   "en": "enhanced mobile broadband (eMBB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "军民融合靶场",
+   "en": "military-civilian integration cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "军地信息交流平台",
+   "en": "military-civilian information exchange platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民解放军军事医学科学院",
+   "en": "Academy of Military Medical Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全加强法》（美国）",
+   "en": "Cyber Security Enhancement Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据军民融合",
+   "en": "military-civilian integration in big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法获取军事秘密罪",
+   "en": "crime of illegally obtaining military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意泄露军事秘密罪",
+   "en": "crime of intentionally divulging military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过失泄露军事秘密罪",
+   "en": "crime of negligently betraying military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "军事民主制",
+   "en": "military democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0016",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会后期形成的部落联盟组织制度。是从原始社会向阶级社会过渡时期的一种社会组织形式，适应于当时军事活动的频繁需要而产生。军事民主制是由部落联盟议事会、人民大会、军事首领三者并列组成的机构。"
+  },
+  {
+   "cn": "军事反对派",
+   "en": "Military Oppositionalists",
+   "source": "马克思主义",
+   "wordNumber": "04.0367",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年3月俄共（布）第八次代表大会上出现的反对党的军事路线的派别。其成员主要是过去的“左派共产主义者”集团的成员，也有一部分对托洛茨基在军队中的领导不满的红军指挥员。该派反对在军队中利用旧军事专家"
+  },
+  {
+   "cn": "军队营养",
+   "en": "military nutrition",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养",
+   "subjectName": "军队营养",
+   "publishYear": "2025",
+   "definition": "以军事人员为特定对象，围绕其特殊作业环境、生理负荷和任务需求，通过科学配置饮食与营养支持，保障军人机体功能、提升作战效能、增强环境适应能力，并降低特殊条件下的健康风险。"
+  },
+  {
+   "cn": "军队预防接种",
+   "en": "military vaccination",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.6.2",
+   "subjectFullName": "军事预防医学_军队流行病学_军队传染病预防与控制",
+   "subjectName": "军队传染病预防与控制",
+   "publishYear": "2025",
+   "definition": "在军队人员中接种具有抗原或抗体活性的免疫制品，使群体产生足够的免疫水平，以抵御传染病在军队人群中发生和流行的疾病预防措施。"
+  },
+  {
+   "cn": "军事训练",
+   "en": "military training",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "军事理论教育和作战技能训练的活动。包括学习军事理论、战略战术和军事技术，开展作战相关的体力和智力训练，以及军事专业训练、战术训练、演习演练等，以提高军人和部队的军事素质和战斗力。"
+  },
+  {
+   "cn": "军用食品",
+   "en": "military rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产、供应的各类制式食品，主要供部队不能供应热食时使用，通常由军需部门统一组织生产和调拨，具有营养合理、适口性好、易消化吸收、体积小、重量轻、携带食用方便、安全卫生、耐贮存等特点。"
+  },
+  {
+   "cn": "军事人体工效",
+   "en": "military ergonomics",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事作业中，以作业人员为中心，研究作业人员、军事装备和作业环境之间的相互关系，旨在实现作业人员在军事作业过程中的健康、安全、舒适，同时提高作业效率。"
+  },
+  {
+   "cn": "军事毒理学",
+   "en": "military toxicology",
+   "source": "军事预防医学名词",
+   "wordNumber": "16",
+   "subjectFullName": "军事预防医学_军事毒理学",
+   "subjectName": "军事毒理学",
+   "publishYear": "2025",
+   "definition": "研究化学战剂、放射性核素、军事工业毒物及其他军事活动相关的外源化学物对机体的损害作用、毒作用机制及其医学防护的毒理学分支学科。"
+  },
+  {
+   "cn": "军府制",
+   "en": "Military system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0585",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清朝统一新疆后实行的军事政治制度。1762 年，伊犁将军的设立标志着军府制在新疆的确立。其特点是军政合一。军府制对于清乾隆时期之后新疆地区的社会稳定和经济恢复有一定积极作用。1884 年新疆建省后废弃"
+  },
+  {
+   "cn": "军事劳动",
+   "en": "military work",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.12",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "军队指战员按照军事作训的要求进行的各种脑力和体力活动。"
+  },
+  {
+   "cn": "军队流行病学",
+   "en": "military epidemiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "14",
+   "subjectFullName": "军事预防医学_军队流行病学",
+   "subjectName": "军队流行病学",
+   "publishYear": "2025",
+   "definition": "研究军队人群中疾病或健康的分布、影响因素及预防控制对策和措施的医学学科。"
+  },
+  {
+   "cn": "军事应激",
+   "en": "military stress",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在特殊的军事活动环境中产生的一种特殊情绪状态，是军事作业人员通过对军事作业环境（包括自然环境和社会环境）、军事活动形式（包括平时训练演习和实践等）刺激的认知评价而产生的生理及心理反应。"
+  },
+  {
+   "cn": "促排",
+   "en": "elimination enhancement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.5",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "采用药物和其他物理、化学和生物方法阻止放射性核素的吸收和沉积，并促使已沉积于器官或组织内的放射性核素加速排出体外的过程与操作。"
+  },
+  {
+   "cn": "自我提升",
+   "en": "self-enhancement",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "个体以一种有利于对自己做正面评价的方式收集和解释有关自我的信息，或者说选择性地关注、强调与夸大自我的积极特征，而不是缺点。既是一种促使人们选择性地针对与自我有关的积极信息做出反应的需要或动机，也是在涉"
+  },
+  {
+   "cn": "增味剂",
+   "en": "flavor enhancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "补充或增强食品原有风味的物质。"
+  },
+  {
+   "cn": "碘强化剂",
+   "en": "iodine enhancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.16",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "按规定可以在食用盐中加入的碘酸钾、碘化钾或海藻碘等碘营养强化剂，主要为碘酸钾。"
+  },
+  {
+   "cn": "军队食品卫生",
+   "en": "military food hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.8",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品卫生",
+   "subjectName": "军队食品卫生",
+   "publishYear": "2025",
+   "definition": "为防止军队食品在生产、收获、加工、运输、储存、销售等各个环节被有害物质（包括物理、化学、微生物等方面）污染所采取的各项措施，从而保证军人健康不受损害。"
+  },
+  {
+   "cn": "军事训练伤",
+   "en": "military training injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "军事训练直接导致参训人员的组织器官功能障碍或病理改变。包括软组织损伤、骨关节损伤、器官损伤、特殊环境（因素）损伤四大类。训练的强度、方法、计划、场地、科目，以及参训人员身体素质等是主要致伤因素。"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "军事脑力作业",
+   "en": "military mental work",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事活动过程中，以中枢神经系统为主的作业过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,622 @@
+{
+ "key": "simple infinity",
+ "term": "simple infinity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:36:24+00:00",
+ "status": "ok",
+ "note": "variant=simple infinity; 审定公布名词库=2512; 海峡两岸名词对照库=634; 其他来源数据库=95; 预公布名词数据库=84; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "无穷",
+   "en": "infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "历史上，“无穷”一词有多种模糊的含义，如无限制、无终点、无定形、超越性等。今天，它通常指与自然数的任何前段都没有一一对应的复多。"
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "与实无穷对立的一种无穷观，认为无穷作为一个过程，永远不可完成。以自然数数列0，1，2，3……为例，潜无穷的观点认为，这样的递增过程是无穷无尽的，因此无穷不可视为一个整体。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为可把无穷视作一个整体，是已经完成了构造的实体，与潜无穷的立场不同。"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "source": "天文学名词",
+   "wordNumber": "07.606",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "共形图上的一种边界，由光无限时间传播定义的时空极限。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远空间",
+   "en": "space at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0399",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远点",
+   "en": "point at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0400",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远直线",
+   "en": "line at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0401",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远平面",
+   "en": "plane at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0402",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远[虚]圆",
+   "en": "circle at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0404",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高等财经教育",
+   "en": "higher education infinance",
+   "source": "教育学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等财经院校或系科为主实施的以传授财经学科知识，培养从事财经专业工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "人力资源无限性",
+   "en": "infinity of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.033",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "每一代人所拥有的智力资源都是有限的，但人类一代又一代的延续过程是无限的。每一代人都把他们的知识和技术以及其他认识自然和社会的成果传授给下一代，每一代人都在前一代所达到的认识高度继续向前探索新的领域，而"
+  },
+  {
+   "cn": "无穷远[虚]圆点",
+   "en": "circular points at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0403",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单纯性甲状腺肿",
+   "en": "simple goiter",
+   "source": "普通外科学名词",
+   "wordNumber": "14.163",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "因机体缺碘、存在致甲状腺肿物质或甲状腺激素合成酶缺陷等因素引起的甲状腺代偿性增生肿大的病理现象。多呈地域性分布，也可为散发性，一般无甲状腺功能异常，女性发病率高于男性。"
+  },
+  {
+   "cn": "简单矿石",
+   "en": "simple ore",
+   "source": "地质学名词",
+   "wordNumber": "14.03.052",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "仅能从中提取一种有用组分的矿石。"
+  },
+  {
+   "cn": "单纯乳腺切除术",
+   "en": "simple mastectomy",
+   "source": "整形外科名词",
+   "wordNumber": "18.101",
+   "subjectFullName": "整形外科_乳房整形_乳房切除与再造",
+   "subjectName": "乳房切除与再造",
+   "publishYear": "2026",
+   "definition": "仅切除乳腺组织、乳头乳晕复合体和肿瘤表面皮肤的乳腺切除术。"
+  },
+  {
+   "cn": "单形",
+   "en": "simple form",
+   "source": "地质学名词",
+   "wordNumber": "02.00.070",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "由对称型中全部对称要素联系起来的一组晶面的组合。常用单形符号表示。"
+  },
+  {
+   "cn": "单纯性肥胖",
+   "en": "simple obesity",
+   "source": "整形外科名词",
+   "wordNumber": "19.163",
+   "subjectFullName": "整形外科_躯干及四肢整形_脂肪抽吸与脂肪移植",
+   "subjectName": "脂肪抽吸与脂肪移植",
+   "publishYear": "2026",
+   "definition": "人体摄入的热量超过其消耗的热量，导致脂肪成分在体内积累过多而形成的肥胖。"
+  },
+  {
+   "cn": "简单剪切",
+   "en": "simple shear",
+   "source": "地质学名词",
+   "wordNumber": "09.02.106",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "均匀的平面旋转变形。变形体所有各点沿着剪切力的方向变位而发生的剪切变形。变形过程中，最大应变轴和最小应变轴随着变形的进行而发生旋转，属旋转应变。"
+  },
+  {
+   "cn": "单关节",
+   "en": "simple joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单腺",
+   "en": "simple gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单小叶",
+   "en": "simple lobule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单瓣花",
+   "en": "simple flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单穿孔",
+   "en": "simple perforation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单雌蕊",
+   "en": "simple pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花被",
+   "en": "simple perianth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单毛",
+   "en": "simple hair",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单纹孔",
+   "en": "simple pit",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单叶",
+   "en": "simple leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单子房",
+   "en": "simple ovary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单多胚[现象]",
+   "en": "simple polyembryony",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单花序",
+   "en": "simple inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单扩散",
+   "en": "simple diffusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单木脂素",
+   "en": "simple lignan",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单香豆素",
+   "en": "simple coumarin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单组织",
+   "en": "simple tissue",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单相关",
+   "en": "simple correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单利",
+   "en": "simple interest",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "简单流体",
+   "en": "simple fluid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无穷",
+   "en": "Limitlessness / Infinity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单劳动",
+   "en": "simple labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0054",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "没有任何专长的普通人的机体平均具有的简单劳动力的耗费，即在一定的社会条件下一般劳动者都能胜任，无需特别的技术专长、知识和技能训练的劳动。简单劳动在教育和科技不断发展的社会中会有变化，它与复杂劳动相对应"
+  },
+  {
+   "cn": "简单再生产",
+   "en": "simple reproductoin",
+   "source": "马克思主义",
+   "wordNumber": "02.0153",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产过程在原有规模上的重复进行。在资本主义生产方式下，如果资本家把榨取的剩余价值完全用于他们的个人消费，没有资本积累，生产规模不扩大，那么，在其他条件不变的情况下，这就是资本主义的简单再生产。"
+  },
+  {
+   "cn": "单纯性近视",
+   "en": "simple myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼球在发育期发展形成的近视，发育停止后近视也趋于稳定，屈光度数一般在﹣6.00D之内。其中绝大多数眼底无病理变化，用适当光学镜片即可将视力矫正至正常。"
+  },
+  {
+   "cn": "简单社会",
+   "en": "simple society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工简单，人口规模较小的社会组织形态，与复杂社会相对。简单社会的规模相对较小，其人数由相应狭小地域内的各社会政治单位组合在一起，一般以血缘为基础、以家庭为纽带、以个人为中心。"
+  },
+  {
+   "cn": "物质世界的无限性",
+   "en": "infinity of the material world",
+   "source": "马克思主义",
+   "wordNumber": "01.0029",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界在时间和空间上无始无终，无边无际，不可穷尽。整个物质世界是无限的，但具体事物及其发展过程却是有限的，物质世界的无限性存在于具体事物的有限性之中，无数的有限构成无限。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "单一型香辛料调味品",
+   "en": "simple spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.11",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由单一香辛料制成的调味品。"
+  },
+  {
+   "cn": "简易厕坑",
+   "en": "simple pit latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在一般应超过1.5 米的较大深度厕沟基础上，沿沟缘地面修筑一定高度的完全或不完全围护及开孔顶覆结构，形成的坐式或蹲式厕所。可供较长时间连续使用。"
+  },
+  {
+   "cn": "反应时",
+   "en": "simple reaction time",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "机体从接受刺激到做出反应动作所需的时间，即从刺激到反应的时距。主要反映人体神经于肌肉系统的协调性和快速反应能力。"
+  },
+  {
+   "cn": "简易防护器材",
+   "en": "simple protective equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "利用就便材料制作的一类个人防护器材，包括简易呼吸道和皮肤防护器材两类，如泳镜、雨衣和雨靴等。"
+  },
+  {
+   "cn": "简单的价值形式",
+   "en": "simple form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0061",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的原始阶段。一商品的价值偶然地以另一不同种商品来表现的价值形式。它与原始社会后期原始公社之间偶然地、间或地物物交换阶段相一致。在简单价值形式中，价值形式两极的对立很不固定。"
+  },
+  {
+   "cn": "简单收益率法",
+   "en": "simple rate of return method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "以达到设计产量的年份(即正常年度)所取得的现金净流量与原投资额之比，来确定方案是否可行的决策分析法"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "姻亲",
+   "en": "affinity",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "通过联姻建立的相对稳定的亲属关系及亲属性。反映了亲属制度及其亲属称谓中的横向关系，与表达纵向关系的“血亲”共同构成了亲属制度及其亲属称谓系统。"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "消毒学",
+   "wordNumber": "1.8.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "用以代表总体的少量个体。"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从总体中选取的、加以观察或试验的一部分个体。"
+  },
+  {
+   "cn": "姻亲关系",
+   "en": "relationship by affinity",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.38",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "以婚姻关系为纽带的一种亲属关系。一般包括血亲的配偶、配偶的血亲、配偶的血亲的配偶等。"
+  },
+  {
+   "cn": "采样",
+   "en": "sample collection",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "从大量同类消毒产品实物中抽取一部分作为样品的过程。"
+  },
+  {
+   "cn": "标准样品",
+   "en": "standard sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "足够均匀，具有一个或多个精确特性量值，可作为其他测量值是否准确的参照标准的样品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

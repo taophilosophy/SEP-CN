@@ -1,0 +1,772 @@
+{
+ "key": "location",
+ "term": "location",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:46:00+00:00",
+ "status": "ok",
+ "note": "variant=location; 审定公布名词库=1024; 海峡两岸名词对照库=351; 其他来源数据库=30; 预公布名词数据库=55; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "经济学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某一经济主体为其社会经济活动所占有的场所（如工业区位、居住区位、城市区位等）。经济区位的实质是反映不同的地理坐标（空间位置）所标识的经济利益差别。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0671",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "对应对突发事件的资源等的地址进行论证和决策的过程。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "07.0199",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "城市或建设项目、设施的位置与其他城市、建设项目、设施等空间要素的关系。是影响城市和区域发展的基础性因素。"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地或建筑物、构筑物等所在或所占的地方。"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "航海科技名词",
+   "wordNumber": "14.0168",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "source": "物理学名词",
+   "wordNumber": "08.0685",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0621",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "用于确定位置的一种点的输入设备。"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "source": "语言学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "根据反切上下字确定被切字在切韵图上的音韵地位。"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "source": "地理学名词",
+   "wordNumber": "18.131",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "公司总部所在地。在公司空间结构和治理中起关键作用。"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0416",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震源在地面投影的位置。 "
+  },
+  {
+   "cn": "定位",
+   "en": "spotting,locating",
+   "source": "电力名词",
+   "wordNumber": "22.388",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据已经选好并审定通过的线路路径进行定线和断面测绘,并合理地配置杆塔的位置。"
+  },
+  {
+   "cn": "定位时刻",
+   "en": "location time",
+   "source": "急救医学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度相关时间",
+   "subjectName": "调度相关时间",
+   "publishYear": "2025",
+   "definition": "调度员受理急救电话时在电子地图进行呼叫定位的时间点。"
+  },
+  {
+   "cn": "区位分析",
+   "en": "location analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0093",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "对城市的位置、所属地区、人文环境、气候条件、城市规模和与城市之间的距离等信息的分析。"
+  },
+  {
+   "cn": "档案库位管理",
+   "en": "location management",
+   "source": "档案学名词",
+   "wordNumber": "03.03.023",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "规划档案库房的使用面积和柜架数量、合理布局，便于档案定位的管理活动。"
+  },
+  {
+   "cn": "区位理论",
+   "en": "location theory",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "关于经济活动空间位置选择规律的理论。即探讨区位因素对经济活动布局的影响过程和经济活动最优区位选择的理论。"
+  },
+  {
+   "cn": "形胜",
+   "en": "location advantage",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "（1）古代指地理区位与自然环境优势。（2）尤指地势险要或战略地位。"
+  },
+  {
+   "cn": "地区等级",
+   "en": "location class",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.084",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "以人口密度和人类活动为基础进行分类的地理区域。"
+  },
+  {
+   "cn": "定位尺寸",
+   "en": "location dimension",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0292",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "用来确定几何元素或零件的位置的尺寸。"
+  },
+  {
+   "cn": "定位公差",
+   "en": "location tolerance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0350",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "关联实际要素对基准在位置上所允许的变动全量。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置配置",
+   "en": "location-allocation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "区位比",
+   "en": "location rate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位论",
+   "en": "location theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位三角形",
+   "en": "location triangle",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位选择",
+   "en": "location selection",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置服务",
+   "en": "location service",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置误差",
+   "en": "location error",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定测",
+   "en": "location survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位标石",
+   "en": "location monument",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴",
+   "en": "Evocation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漂浮",
+   "en": "float\",\"flotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳式转动",
+   "en": "catalina rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序",
+   "en": "rotation order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序错误",
+   "en": "error in the rotation order\",\"fault in rotation\",\"rotation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "捐赠型众筹",
+   "en": "donation-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "队伍轮换",
+   "en": "rotation of teams",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转轴",
+   "en": "axis of rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "表现为局灶性皮肤肿胀并逐渐硬化、萎缩而不伴脏器受累。主要分为硬斑病和线状硬皮病两种类型。该病无雷诺现象，无脏器受累，甲褶微循环检查正常，自身抗体阳性率低，一般不进展为系统性硬化症。"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "监测反应堆燃料元件破损的系统。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤部伤类双向构成比",
+   "en": "bidirectional proportion for locations and types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员负伤部位和种类交叉观察，某部位和某种伤类伤员数占伤员总数的百分比，用以深入分析伤员负伤部位和伤类情况，为军政指挥员和卫勤领导改进装备、组织救治提供依据。"
+  },
+  {
+   "cn": "避迁",
+   "en": "relocation",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "将人员从受放射性污染的地区迁出，以避免或减少因地面放射性沉积物的长期累积而产生外照射累积剂量的措施。其返回原地区的时间或为几个月到1年～2年，或难以预计。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "配置规划",
+   "en": "allocation planning",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "对一定时期，区域内医疗器械特别是大型仪器和设备的配备情况进行的规划。"
+  },
+  {
+   "cn": "配置审批",
+   "en": "allocation approval",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "医疗机构获得配置许可证后，方可购置大型医用设备的规定。"
+  },
+  {
+   "cn": "计划配置",
+   "en": "plan allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以政府的指令性计划和行政手段为主对卫生资源进行配置的方式，主要表现为政府统一分配卫生资源，统一安排卫生机构、发展规模、服务项目、收费标准等。是卫生资源配置的重要手段，是较高层次的配置。"
+  },
+  {
+   "cn": "市场配置",
+   "en": "market allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "按市场需求并通过市场机制将卫生资源在不同领域、不同地区、不同部门和不同机构间进行配置的方式。是卫生资源配置的基础手段。"
+  },
+  {
+   "cn": "泌乳期",
+   "en": "lactation period",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩后母亲以自身乳汁哺育婴幼儿的一段时期，即开始哺乳到停止哺乳的间期。倡导婴儿出生后纯母乳喂养至6个月，之后在科学添加辅食的同时，继续母乳喂养至24个月及以上。"
+  },
+  {
+   "cn": "输卵管结扎术",
+   "en": "tube ligation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将输卵管切断或不切断后结扎，阻断输卵管，阻断卵子运送和精卵相遇结合，达到永久性避孕目的的一种手术方法。有多种手术方式，包括经腹、经阴道、腹腔镜下手术等。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "泌乳机理",
+   "en": "lactation mechanism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "母亲分娩后体内雌激素及黄体酮迅速下降，催乳素上升，婴儿吸吮乳头和乳晕，通过神经至脑垂体，促进催乳素和催产素分泌，刺激乳腺细胞分泌乳汁，腺泡和乳腺导管周围平滑肌收缩引起射乳的生物学现象。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "器官分配",
+   "en": "organ allocation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.057",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "按照一定的规则和程序，将可供移植的器官资源划分并分发给特定器官受体的过程。其核心伦理原则是确保器官分配公平、公正、公开且高效。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

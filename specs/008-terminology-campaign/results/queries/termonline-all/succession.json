@@ -1,0 +1,552 @@
+{
+ "key": "succession",
+ "term": "succession",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:41:45+00:00",
+ "status": "ok",
+ "note": "variant=succession; 审定公布名词库=201; 海峡两岸名词对照库=121; 其他来源数据库=11; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "风景园林名词",
+   "wordNumber": "12.0036",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "某一地段上一种生物群落被另一种生物群落所取代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0349",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "动物学名词",
+   "wordNumber": "7.0482",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某一地段上群落由一种类型演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "植物学名词",
+   "wordNumber": "13.0310",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一定地段上一个植物群落被另外一个植物群落替代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "林学名词",
+   "wordNumber": "03.083",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0744",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "某一生物群落被另一生物群落所替代的发展过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "生态学名词",
+   "wordNumber": "06.122",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "地理学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "一个植物群落逐渐被另一个植物群落代替的过程。"
+  },
+  {
+   "cn": "退化演替",
+   "en": "regressive succession,retrogressive succession",
+   "source": "植物学名词",
+   "wordNumber": "13.0317",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "在外因演替中由于人类活动影响或外部环境要素的不利变化导致植物群落逆正常演替方向发展的过程。"
+  },
+  {
+   "cn": "快速演替",
+   "en": "quick succession,rapid succession",
+   "source": "生态学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "演替延续时间为几年或十几年的演替。"
+  },
+  {
+   "cn": "加代",
+   "en": "succession generation ",
+   "source": "草学名词",
+   "wordNumber": "4.0424",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "继任计划",
+   "en": "succession planning",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0347",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源战略与规划",
+   "subjectName": "人力资源战略与规划",
+   "publishYear": "2016",
+   "definition": "识别与开发有能力担任关键管理职位的高潜质员工，并进行跟踪的过程。"
+  },
+  {
+   "cn": "演替格局",
+   "en": "succession pattern",
+   "source": "生态学名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "整个演替过程的演变顺序与规律。"
+  },
+  {
+   "cn": "土壤演替",
+   "en": "soil succession",
+   "source": "农学名词",
+   "wordNumber": "09.137",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "土壤随成土因素的变化或自身的发展，由一个阶段向另一个阶段的顺序更替。"
+  },
+  {
+   "cn": "自然演替",
+   "en": "natural succession",
+   "source": "风景园林名词",
+   "wordNumber": "12.0037",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "随着时间的推移，一种生物群落（或阶段）被另一种生物群落（或阶段）替代的顺序过程。是生物群落与环境相互作用导致生境变化的过程。"
+  },
+  {
+   "cn": "定向演替",
+   "en": "directional succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0043",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "季节演替",
+   "en": "seasonal succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0086",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "季相演替",
+   "en": "aspection succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0087",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏途演替",
+   "en": "deflected succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0142",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "群落演替",
+   "en": "community succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0162",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态演替（=外因演替）",
+   "en": "ecological succession\",\"ecogenic succession (=exogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物性演替（=内因演替）",
+   "en": "plant succession\",\"phytogenic succession (=endogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旱生演替",
+   "en": "xerarch succession\",\"xeric succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生演替",
+   "en": "hydroarch succession\",\"hydrach succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "退化演替",
+   "en": "regressive succession\",\"retrogressive succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旱生演替",
+   "en": "xerarch succession\",\"xeric succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "周期性演替",
+   "en": "periodic succession\",\"cycle succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自发演替",
+   "en": "autogenetic succession\",\"autogenic succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异发演替",
+   "en": "allogenic succession\",\"allogenetic succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水生演替",
+   "en": "hydrarch succession\",\"hydroarch succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异发演替（=外因演替）",
+   "en": "allogenic succession (=exogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自发演替（=内因演替）",
+   "en": "autogenic succession (=endogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次生演替",
+   "en": "secondary succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶极演替",
+   "en": "climax succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效攻击",
+   "en": "successful attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续试举",
+   "en": "attempt in succession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网成功",
+   "en": "successful block\",\"shut out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型冠状病毒成功分离",
+   "en": "successful isolation of a novel coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满招损，谦受益",
+   "en": "Complacency Leads to Failure; Modesty to Success.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战法必本于政胜",
+   "en": "Methods of Warfare Must Be Based on the Success of Politics.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不获全胜决不轻言成功",
+   "en": "We will not proclaim success until we have secured the final victory over COVID-19.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市社区从一种原始的、不稳定的阶段向一种比较永久性或高峰期的有序发展的过程。个体以及整个社区系统会经历一系列清晰可辨的阶段——从取得平衡到平衡被打破到建立新的平衡的过程。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "抗休克成功率",
+   "en": "anti-shock success rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名休克伤员经救治后解除休克的人数，反映各救治机构应急能力和救治水平。"
+  },
+  {
+   "cn": "入世",
+   "en": "accession to the WTO",
+   "source": "马克思主义",
+   "wordNumber": "02.0425",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“加入世界贸易组织”。世界贸易组织取代关贸总协定之后，中国的“入关”、“复关”也改称为“入世”。自1986年申请重返关贸总协定以来，中国经过长达15年的艰苦努力，于2001年12月11日正式加入该"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

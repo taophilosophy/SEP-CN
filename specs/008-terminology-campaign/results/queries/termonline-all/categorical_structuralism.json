@@ -1,0 +1,732 @@
+{
+ "key": "categorical structuralism",
+ "term": "categorical structuralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:40:00+00:00",
+ "status": "ok",
+ "note": "variant=categorical structuralism; 审定公布名词库=2385; 海峡两岸名词对照库=525; 其他来源数据库=65; 预公布名词数据库=79; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "source": "语言学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "主客观相互作用对事物进行分类的过程，其结果就是认知范畴。范畴化是人类对世界万物进行分类的一种高级认知活动。"
+  },
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "source": "数学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.330",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "表型可清晰地分为若干类型的性状。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0328",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由买方的各种职能部门(工程、生产、质量等)提供意见，并将其综合分类，来选择和评价供应商的一种方法。"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "心理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象表面特征将其归入特定类别的知觉。"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "通过确定每个观察单位的某项特征的性质或类别得到的数据。其变量值是定性的，表现为互不相容的类别或属性，没有度量衡单 位。"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "source": "语言学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "说话人意识不到但又不会违反的规则。例如汉语普通话的“上声＋上声”读为“阳平＋上声”的规则。"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "指同义词之间共有的那部分意义。例如，“优异”“优秀”“优良”中“好”义为范畴义。"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "source": "数学名词",
+   "wordNumber": "02.0318",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0726",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "按照功能在满足使用者需求方面的不同属性、重要程度、以及功能之间的相互关系等原则，对全部功能所进行的类别划分。"
+  },
+  {
+   "cn": "范畴文法",
+   "en": "categorical grammar,CG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0483",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种以自然语言为描述对象的词汇化的文法形式系统。每个基本语法符号由一组范畴（类型）刻画，语法符号串的范畴则可以由类型推导规则推得。基于有限的原子范畴，通过在词典中详细定义每个词条的范畴表达式，并通过有"
+  },
+  {
+   "cn": "分类反应数据",
+   "en": "categorical response data",
+   "source": "心理学名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "反应结果用类别变量编码的数据。"
+  },
+  {
+   "cn": "毒性分级回归",
+   "en": "toxicity categorical regression",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.231",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "合并所有可以利用的体内实验毒性资料做综合性分析，而不是仅取最敏感的资料，将多项研究(各种种系、生物终点和暴露时间)观察到的反应分为不同的严重等级，预测特定剂量所致效应严重等级。其缺点是未对亚群做专门的"
+  },
+  {
+   "cn": "范畴数据分析",
+   "en": "categorical data analysis",
+   "source": "地理学名词",
+   "wordNumber": "25.102",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "范畴数据指有限和可数个数据并可以划分为若干范畴组，范畴组的变量取值为离散的。范畴数据分析是针对范畴数据的统计方法。"
+  },
+  {
+   "cn": "新闻类型化",
+   "en": "categorization of news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.091",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "按照固化的叙事模式，或偏执于某个特定角度呈现新闻事实。在类型化的新闻叙事中，尽管报道中的人物、地点、具体情形不一样，但是叙述思路、结构相同。"
+  },
+  {
+   "cn": "突发事件分级管理",
+   "en": "categorized emergency management",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0483",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "政府按照突发事件的威胁和危害程度、影响范围等因素，将其划分为若干等级，并按照等级决定进入何种应对状态的突发事件管理方式。"
+  },
+  {
+   "cn": "科目汇总表",
+   "en": "categorized accounts summary",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0054",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据记账凭证定期汇总编制的，列示有关总分类账户的本期发生额，据以登记总分类账的一种表格。"
+  },
+  {
+   "cn": "纲目分类法",
+   "en": "categorical classification of archives",
+   "source": "档案学名词",
+   "wordNumber": "08.02.035",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "档案分类方法之一。仿美国国会图书馆分类法编制而成。具体做法是固定以组织机构和职掌为一、二两级分类原则。首先将档案按组织机构分成若干类，然后按各机构的业务职能分成若干纲，以下层次则视具体情况而定。"
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语音类别知觉",
+   "en": "categorical speech perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴数据分析",
+   "en": "categorical data analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "造构",
+   "en": "structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "θ结构",
+   "en": "θ-structure",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "针状组织",
+   "en": "acicular structure\",\"needle structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "结构基因",
+   "en": "structural gene\",\"structure gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural hole",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构化",
+   "en": "data structuring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构",
+   "en": "Data Structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化数据",
+   "en": "structured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储结构",
+   "en": "storage structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性结构",
+   "en": "nonlinear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在社会情景中，人们根据不同的情况，把处于该情景中的个人归于不同的社会类别中的过程。例如区分男性/女性、年轻人/老年人、中国人/外国人等。"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在各种社会情景下，个人会主动把自己归于不同的类别/群体当中，接受相应的规范并采取相应的行为的现象和过程，是与社会类别化相对应的一个社会认知过程。一般认为这一过程是群体行为形成的基本条件。"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.108",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以定类或定序变量作为因变量的统计分析。"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《放射源分类办法》（国家环境保护总局公告 2005年第62号）和国际原子能机构《放射性物质的危险量》（EPR-D-values 2006），根据放射源对人体健康和环境的潜在危害程度进行分类，分为："
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "由法国人类学家列维-斯特劳斯(C.Lévi-Strauss）在乔姆斯基(A.N.Chomsky）语言学的基础上发展并加以运用的结构分析理论及方法。这一流派认为，一旦文化的各个不同方面被还原成它们的结构"
+  },
+  {
+   "cn": "结构化",
+   "en": "structuration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "主张社会结构与行动具有相互构成的性质，而居于二者之间的个人则成为克服这种对立的一种手段。"
+  },
+  {
+   "cn": "结构过程",
+   "en": "structuring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0211",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家萧凤霞（Helen Siu）、中国历史学家刘志伟提出的概念，即个人透过他们有目的的行动，织造了关系和意义（结构）的网络，这一网络又进一步帮助或限制他们作出某些行动，这是一个永无止境的过程。"
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《射线装置分类》（环境保护部、国家卫生计生委公告2017年第66号），根据射线装置对人体健康和环境可能造成危害的程度，分为Ⅰ类（高危险射线装置）、Ⅱ类（中危险射线装置）、Ⅲ类（低危险射线装置）。"
+  },
+  {
+   "cn": "结构主义人类学",
+   "en": "structuralism anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0564",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪30 年代末和50 年代初西方出现的人类学理论，主要代表人物是法国人类学家列维-斯特劳斯（Claude Levi-Strauss）。结构主义实际上是一种方法论，他们认为各民族表面社会结构之后"
+  },
+  {
+   "cn": "结构主义方法",
+   "en": "structuralism approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "结构主义试图为各门科学提供一种普遍有效的方法，依据这种方法，人们可以把自己所遇到的现象整理成系统的整体；它不仅要解决某一系统内现象之间的相互关系，而且要找出各个系统、各个领域现象之间的关系，打破这些现"
+  },
+  {
+   "cn": "结构屏蔽",
+   "en": "structural shield",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "能达到辐射防护目的，纳入建筑结构整体设计的一种屏蔽方式。"
+  },
+  {
+   "cn": "结构式访谈",
+   "en": "structured interview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在访谈前已经设计好访谈中访谈员将要提出的问题和回答人将要使用的回答选项类别的访谈方法。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "结构型问卷",
+   "en": "structured questionnaire",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.61",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对问题的措词方式以及它们在问卷中被问及的顺序都做了明确规定的问卷。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "组织结构",
+   "en": "organizational structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各组成部分之间关系的稳定形态及结合方式，可达成组织职能和权力的配置，主要包括职位、目标、权威和角色等四大要素。可分为正式结构和非正式结构。"
+  },
+  {
+   "cn": "垂直结构",
+   "en": "vertical structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.14",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "某种集权组织结构形式，自上而下形成垂直的易于控制的领导系统，信息纵向流通快，管理成本低，效率较高，但下级的权限和自主性较低。"
+  },
+  {
+   "cn": "扁平结构",
+   "en": "flat structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.15",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "管理层次少而管理幅度大的一种组织结构形态，有利于缩短上下级距离，被管理者有较大的自主性、积极性和满足感，但由于管理幅度较宽，权力分散，不易实施严密控制，加重了对下属组织及人员进行协调的负担。"
+  },
+  {
+   "cn": "阶级结构化",
+   "en": "class structuration",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "通过某些行动和过程使阶级（或群体）之间的差异制度化和固定化，制度化和固定化的阶级结构反过来影响个体行动。结构化是吉登斯(Anthony Giddens）提出的一个概念，他采用该理论来解释阶级以及阶级结"
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural hole",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "由美国学者伯特(Burt)提出的概念，意指社会网络中将两个原本无连接的节点连接起来的独特位置。该连接位置就像网络结构中的洞穴，可以给居于此位置的行动者带来巨大的竞争优势。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

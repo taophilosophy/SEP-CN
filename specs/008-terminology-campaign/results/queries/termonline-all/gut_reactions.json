@@ -1,0 +1,652 @@
+{
+ "key": "gut reactions",
+ "term": "gut reactions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:37:06+00:00",
+ "status": "ok",
+ "note": "variant=gut reactions; 审定公布名词库=2847; 海峡两岸名词对照库=913; 其他来源数据库=230; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "肠功能障碍",
+   "en": "gut function barrier,gut insufficiency,gut dysfunction",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "肠实质和(或)功能的损害，导致消化、吸收营养和(或)屏障功能发生严重障碍的现象。可分为三型：①功能性小肠长度绝对减少型，如短肠综合征(SBS)。②小肠实质广泛损伤型，如放射性肠损伤、炎性肠病所致的肠功"
+  },
+  {
+   "cn": "肠道屏障",
+   "en": "gut barrier",
+   "source": "普通外科学名词",
+   "wordNumber": "19.050",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "肠道能够防止肠内的有害物质如细菌和毒素穿过肠黏膜进入人体内其他组织、器官和血液循环的结构及功能的总和。由肠黏膜机械屏障、免疫屏障、化学屏障与生物屏障共同构成。"
+  },
+  {
+   "cn": "原肠",
+   "en": "primitive gut",
+   "source": "兽医学名词",
+   "wordNumber": "07.186",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "哺乳动物早期胚胎发育中，胚盘向腹侧卷折形成圆柱状的胚体。内胚层被卷入胚体内形成一条头尾走向的封闭管道。"
+  },
+  {
+   "cn": "肠道稳态",
+   "en": "gut homeostasis",
+   "source": "消化病学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "消化病_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2022",
+   "definition": "宿主、肠道内环境、营养和代谢产物等相互作用所构成的动态平衡状态。受环境、生活方式、饮食习惯等多种因素影响。"
+  },
+  {
+   "cn": "胃肠道反射",
+   "en": "gut reflex",
+   "source": "消化病学名词",
+   "wordNumber": "17.014",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "胃肠神经系统及上级中枢神经系统对外界刺激所做出的有规律的应答。基本要素包括感受器、传入神经、中间神经元、传出神经和效应器。是一切胃肠道相关的心理与行为的生物学基础。"
+  },
+  {
+   "cn": "胃肠伤害感受",
+   "en": "gut nociception",
+   "source": "消化病学名词",
+   "wordNumber": "17.051",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "大脑对胃肠伤害性刺激的疼痛感觉及对潜在组织损伤的预警感知。"
+  },
+  {
+   "cn": "胃肠内脏高敏",
+   "en": "gut hypersensitivity",
+   "source": "消化病学名词",
+   "wordNumber": "17.053",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "生理状态下正常程度的伤害性刺激就可以引起明显甚至剧烈的内脏痛和（或）内脏功能调控的过度反应。"
+  },
+  {
+   "cn": "胃肠痛觉异常",
+   "en": "gut allodynia",
+   "source": "消化病学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "胃肠受到如碰触、压力、针刺、冷和热等刺激后产生的不愉快的感觉。"
+  },
+  {
+   "cn": "胃肠痛觉过敏",
+   "en": "gut hyperalgesia",
+   "source": "消化病学名词",
+   "wordNumber": "17.055",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "机体对疼痛的反应性增高，低水平伤害性刺激即引发明显甚至剧烈的疼痛感知。多见于丘脑或周围神经病变，常伴有神经衰弱、癔症、疑病症、更年期综合征等。"
+  },
+  {
+   "cn": "胃肠躯体化",
+   "en": "gut somatization",
+   "source": "消化病学名词",
+   "wordNumber": "17.059",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "实属精神心理问题，但表现为胃肠道功能和（或）不适症状的形式。胃肠道的客观检查（包括消化内镜检查）不能发现足以解释患者消化道症状的病因及严重程度的异常。"
+  },
+  {
+   "cn": "肠道微生态",
+   "en": "gut microbiota",
+   "source": "消化病学名词",
+   "wordNumber": "17.064",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "定居于肠道中的细菌或真菌等正常菌群及其所生活的环境。通过影响食物消化吸收、调控机体免疫和维护肠黏膜屏障，参与维持人体功能和肠道内环境的稳定。"
+  },
+  {
+   "cn": "微肠漏",
+   "en": "leaky gut",
+   "source": "消化病学名词",
+   "wordNumber": "17.067",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "应激状态下肠黏膜屏障功能受损，肠道通透性增加，使食物颗粒、细菌、毒素等大分子通过肠道直接入血的现象。常见于肠易激综合征、克罗恩病、乳糜泻、食物过敏等疾病。"
+  },
+  {
+   "cn": "原肠",
+   "en": "primitive gut",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "25.001",
+   "subjectFullName": "组织学与胚胎学_胚胎学_消化系统和呼吸系统的发生",
+   "subjectName": "消化系统和呼吸系统的发生",
+   "publishYear": "2014",
+   "definition": "人胚发育第3周末，由于三胚层胚盘向腹侧卷折，胚体逐渐由扁盘状变为圆柱状。内胚层被卷入胚体内，形成一条纵行的封闭管道。原肠头端起自口咽膜，尾端止于泄殖腔膜。"
+  },
+  {
+   "cn": "蚕肠线",
+   "en": "silkworm gut",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.566",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "短肠",
+   "en": "short gut",
+   "source": "医学名词 第四分册",
+   "wordNumber": "03.105",
+   "subjectFullName": "医学_胃肠病学",
+   "subjectName": "胃肠病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "脑-肠轴",
+   "en": "brain-gut axis",
+   "source": "神经外科学名词",
+   "wordNumber": "2.144",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_传导束",
+   "subjectName": "传导束",
+   "publishYear": "2026",
+   "definition": "大脑与肠道间的双向交流网络。包括神经交互通路、神经内分泌和神经免疫途径、肠道微生物群等。"
+  },
+  {
+   "cn": "脑肠肽",
+   "en": "brain-gut peptide",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "09.019",
+   "subjectFullName": "脂质代谢性疾病_肥胖_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "胃肠道和神经系统双重分布、具有调节胃肠道功能的肽类物质。"
+  },
+  {
+   "cn": "蜗牛肠酶",
+   "en": "snail gut enzyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0605",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_水解酶",
+   "subjectName": "水解酶",
+   "publishYear": "2024",
+   "definition": "存在于蜗牛消化道中，能分解细胞壁、含有多种酶的混合物。"
+  },
+  {
+   "cn": "肠肝轴",
+   "en": "gut-liver axis",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "肠道与肝脏经胆管、门静脉和体循环进行双向交流的通路。肠道功能受损，肠道内细菌和内毒素经门静脉系统大量进入肝脏，激活肝脏释放一系列炎性细胞因子，进一步造成肠道黏膜及远隔器官损伤。肝脏功能损伤也可激活炎性"
+  },
+  {
+   "cn": "脑-肠肽",
+   "en": "brain gut peptide",
+   "source": "兽医学名词",
+   "wordNumber": "04.311",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "某些在消化道内和中枢神经系统中双重分布的肽类物质。起调节消化吸收作用。"
+  },
+  {
+   "cn": "肠",
+   "en": "intestine\",\"gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "咽肠",
+   "en": "pharyngeal gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "原肠",
+   "en": "primitive gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "蚕胶丝",
+   "en": "silkworm gut",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "消化道内含物",
+   "en": "gut content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "蜗牛肠酶",
+   "en": "snail gut enzyme",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反作用",
+   "en": "reaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大统一理论",
+   "en": "grand unified theory\",\"GUT",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "肠相关淋巴组织",
+   "en": "gut-associated lymphoid tissue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单分子反应",
+   "en": "monomolecular reaction\",\"unimolecular reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气化反应",
+   "en": "gasification reaction\",\"gasifying reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成反应",
+   "en": "synthesis reaction\",\"synthetic reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应黏合",
+   "en": "reaction adhesion\",\"reaction bonding",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction\",\"additive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "连串反应",
+   "en": "consecutive reaction\",\"successive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偶联反应",
+   "en": "coupled reaction\",\"coupling reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同反应",
+   "en": "synergic reaction\",\"concerted reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "布莱克曼反应（=暗反应）",
+   "en": "Blackman reaction (=dark reaction)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原肠腔",
+   "en": "gastrocoel\",\"cavity of primitive gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "肠相关淋巴组织",
+   "en": "gut-associated lymphoid tissue，GALT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.7.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "消化管壁的淋巴组织。包括淋巴小结、上皮和固有层内的淋巴细胞以及肠系膜淋巴小结等。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗体或活化淋巴细胞不仅与其诱生抗原发生特异性结合，也可与其他非诱生抗原中相同或相似的表位发生特异性结合的现象。"
+  },
+  {
+   "cn": "光触媒反应",
+   "en": "photocatalytic reaction",
+   "source": "消毒学",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在光催化剂作用下进行的化学反应。"
+  },
+  {
+   "cn": "核反应",
+   "en": "nuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.22",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "用粒子轰击原子核引起原子核的状态发生变化或形成新的原子核的过程。"
+  },
+  {
+   "cn": "光核反应",
+   "en": "photonuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.42",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子轰击靶核发生的核反应。均为吸热反应，典型的反应阈能约在10MeV。通常发射中子，是医用加速器防护中常考虑的问题。"
+  },
+  {
+   "cn": "放射反应",
+   "en": "radiation reaction",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "接触射线时间不长（一般几个月到2年），受照剂量不大或短期超剂量照射，机体出现某些无力型神经衰弱症状；自身对照白细胞数增加或减少，或波动幅度较大，分类可有嗜酸性或嗜碱性粒细胞增加，而又无其他原因可寻者，"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人处于需要超过寻常的能力才能应对的处境时作出的反应。"
+  },
+  {
+   "cn": "应激反应",
+   "en": "stress reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "机体受到伤害性刺激时，以血液中促肾上腺皮质激素和糖皮质激素水平急剧升高为标志，引起的一系列生理、心理、行为等方面的非特异性适应性全身反应。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.21",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "抗原(或抗体)除与其相应抗体(或抗原)发生特异性反应外，还与其他抗体(或抗原)发生反应的现象。"
+  },
+  {
+   "cn": "阿蒂斯反应",
+   "en": "Arthus reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.19",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "即向动物皮下多次注射相同的无毒性抗原，局部可出现炎症细胞浸润，并继发水肿、出血、坏死等剧烈炎症反应。抗原刺激机体产生大量抗体，后续注入的相同抗原由皮下向血管内渗透，而血流中相应抗体向血管外弥散，二者在"
+  },
+  {
+   "cn": "生化反应",
+   "en": "biochemical reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.55",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "使用化学或生物学方法，检测细菌对糖、蛋白质等基质的分解能力和代谢产物，用于鉴别细菌的反应"
+  },
+  {
+   "cn": "特异质反应",
+   "en": "idiosyncratic reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对外源化学物的异常敏感或异常不敏感的一种遗传性异常反应。"
+  },
+  {
+   "cn": "美拉德反应",
+   "en": "maillard reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.70",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "还原糖与游离氨基酸或蛋白质分子中的游离氨基，在高温等条件下发生的一系列反应。可产生一些风味物质，并生成类黑精等深棕色大分子物质。"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由文件规定或已经确立和证实，对指示物无显著影响的系列终止条件。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "核反应产额",
+   "en": "nuclear reaction yield",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "在一次核反应过程中核反应产物的量。"
+  },
+  {
+   "cn": "[有害的]组织反应",
+   "en": "[harmful] tissue reaction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应，通常存在阈剂量，超过该阈剂量水平，效应的严重程度随辐射剂量的增加而增加。例如红斑和急性放射病等。"
+  },
+  {
+   "cn": "急性应激反应",
+   "en": "acute stress reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "异乎寻常的躯体或心理应激引起的一过性障碍。当事人没有其他明显的精神障碍，通常几小时或几天就可平息。发生和严重程度与个体的易感性和应对能力有关。"
+  },
+  {
+   "cn": "酒精潮红反应",
+   "en": "alcohol flushing reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.8",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "亚洲人脸红综合症，俗称上脸。在饮用酒精饮料后，由于乙醇脱氢酶活性高或乙醛脱氢酶2 活性低导致酒精（乙醇）代谢物乙醛在体内蓄积，引发面、颈部皮肤潮红、眼结合膜充血、心率加快等一系列不适反应。"
+  },
+  {
+   "cn": "组织反应",
+   "en": "harmful tissue reaction",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.13",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应。通常存在阈剂量水平，超过该阈剂量水平，效应的严重程度随辐射剂量的增加而加重。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

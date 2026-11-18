@@ -1,0 +1,782 @@
+{
+ "key": "self-knowledge-externalism",
+ "term": "self-knowledge-externalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:52:25+00:00",
+ "status": "ok",
+ "note": "variant=self-knowledge-externalism; 审定公布名词库=2204; 海峡两岸名词对照库=785; 其他来源数据库=137; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "自我知识",
+   "en": "self-knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.586",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "关于自己的感觉、思想和信念等心理状态的知识。一般通过主体内省的方式获得，也有部分理论认为通过向外观察思维所表征的世界状态而获知。"
+  },
+  {
+   "cn": "自省知识",
+   "en": "self-knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0698",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "关于自身的认知状态的知识。包括自身的信念、欲望、知觉等。"
+  },
+  {
+   "cn": "工程知识外化",
+   "en": "externalization of engineering knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.146",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "通过反思和研究，将个体拥有的隐性工程知识转变成易于交流的显性工程知识。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与使用者的能力和经验结合在一起的信息，或通过学习、实践或探索所获得的认识、判断或技能。用以解决某个问题或创造新的知识。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0617",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "问题求解所需的信息的总和。其中信息是经过整理的、结构化的。知识具有产生或者有助于产生新信息的能力。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过实践和学习对客观事物及其运动过程和规律的认识结果。包括事实、信念、观点、观念、概念、判断、方法和技术诀窍等。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人对世界的认识和经验的总和。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.153",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或组织的行为导致其他人或组织受损或受益的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1006",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "某个企业的经济行为(或者某个人的消费行为)，经过非价格手段，直接地、不可避免地影响到其他企业的生产(或者其他人的效用)，并且成为后者自己所不能加以控制的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "一个经济主体的经济活动对另一个经济主体所产生的有害或有益的影响。"
+  },
+  {
+   "cn": "知识鸿沟",
+   "en": "knowledge divide,knowledge gap",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "由于接触媒介和学习知识的经济条件、传播技能及其他方面的差异，获得较多信息及知识的群体与获得较少信息及知识的群体之间的差异不断增大的现象。是美国传播学家在实证研究基础上提出并验证的一个假设。"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge mapping,mapping knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.239",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "显示知识发展进程与结构关系的一系列各种不同的图形。用可视化技术描述知识资源及其载体，挖掘、分析、构建、绘制和显示知识及它们之间的相互联系。"
+  },
+  {
+   "cn": "知识组织",
+   "en": "knowledge construction,knowledge organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0768",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过对知识的加工、分类、建构等，使无序的知识形成有序结构的知识体系的过程。"
+  },
+  {
+   "cn": "知识检索",
+   "en": "knowledge retrieval,knowledge search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0769",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "从知识资源或知识库中，按照一定的方式和技术，并根据用户的需求找出相关知识的过程。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externalities",
+   "source": "经济学名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "对他人产生的有利或者不利的影响，但不需要他人为此支付报酬或进行补偿性活动。当私人成本或收益不等于社会成本或收益时，就会产生外部性问题。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0740",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "阐释和发展包含于隐性知识中的概念，将隐性知识转化成显性知识的过程。"
+  },
+  {
+   "cn": "外",
+   "en": "external",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "对人体的空腔脏器而言，远离内腔者为外。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "农学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一植株上的同一朵花的花粉传播到同朵花的雌蕊柱头上，或由同株的花粉传播到同株的雌蕊柱头上的受精过程。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "水产名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "雌雄同体生物的自体受精。"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）于1996年正式提出。指以知识和信息资源的拥有、配置、产出和"
+  },
+  {
+   "cn": "自我知识",
+   "en": "self knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自省知识",
+   "en": "self-knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外[的]",
+   "en": "external",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非陈述性知识",
+   "en": "nondeclarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐性知识,意会知识",
+   "en": "tacit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性知识",
+   "en": "conditional knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不确定知识",
+   "en": "uncertain knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识用户",
+   "en": "knowledge user",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识编辑器",
+   "en": "knowledge editor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识建模",
+   "en": "knowledge modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识网格",
+   "en": "knowledge grid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算",
+   "en": "knowledge computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外在性",
+   "en": "externality",
+   "source": "马克思主义",
+   "wordNumber": "01.0070",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物显露在外的性质与特征。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0068",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "内在的、精神性的东西转化为物质性的东西。德国哲学家黑格尔常用的哲学术语，主要指物质由绝对精神外化而来。马克思主义哲学中，外化是指通过人类社会实践将主体的人的思想、观念的力量转化为对象性的物质存在形式。"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0422",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种与农业经济、工业经济等相对应的，以现代科学技术为核心、建立在知识和信息的生产、分配和使用基础上的以知识为主要生产要素的经济。"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "个体通过学习、实践或探索所获得的信息和认识。健康教育评价指标之一，旨在评价个体对健康信息的正确理解程度。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "存在于体外的电离辐射源对机体的照射。"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以判断研究发现能否推论到更广泛的总体的量度。"
+  },
+  {
+   "cn": "外在表现",
+   "en": "external performance",
+   "source": "马克思主义",
+   "wordNumber": "01.0071",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在本质”相对。事物在发生、发展、变化过程中所表现的外部联系性和客观形式。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "外在尺度",
+   "en": "external scale",
+   "source": "马克思主义",
+   "wordNumber": "01.0170",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的哲学范畴。指客体对象的尺度，即由对象的性质、属性、规律所规定的尺度，是一种客观性尺度，是客观对象所固有的本性和规律的表现。内在尺度要运用到对象上去，必须遵循"
+  },
+  {
+   "cn": "对外贸易",
+   "en": "external trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0282",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家（地区）与另一个国家（地区）之间的商品、劳务和技术的交换活动。这种贸易由进口和出口两个部分组成。对运进商品或劳务的国家（地区）来说，就是进口；对运出商品或劳务的国家（地区）来说，就是出口。"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "外部评价",
+   "en": "external evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织外部第三方以受委托或独立的方式对特定妇幼卫生服务或项目开展基于标准评估的活动，涵盖认可、认证、许可等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

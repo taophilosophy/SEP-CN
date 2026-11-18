@@ -1,0 +1,682 @@
+{
+ "key": "violence",
+ "term": "violence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:35:40+00:00",
+ "status": "ok",
+ "note": "variant=violence; 审定公布名词库=121; 海峡两岸名词对照库=44; 其他来源数据库=10; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "暴力内容",
+   "en": "violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "在传媒中呈现的，运用肢体或器具，以对生物(指人、动物、超自然生物和拟人化物体)或物品构成肉体上的痛苦、伤害或损毁的威胁或行为。对于此类威胁或行为的描述或呈现可能诱发受众特别是心智尚未成熟的未成年人进行"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "行为医学名词",
+   "wordNumber": "7.061",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "实施有意图或可能导致损害或破坏的行为。往往将暴力活动施加于他人，可能造成人身或财产损害。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.097",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "校园暴力",
+   "en": "campus violence;school violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.013",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  },
+  {
+   "cn": "暴力行为",
+   "en": "violence behavior",
+   "source": "行为医学名词",
+   "wordNumber": "14.007",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "蓄意运用躯体力量或权力，对自身、他人、群体或社会进行威胁或伤害，造成或极有可能造成损伤、死亡、精神伤害、发育障碍或权益被剥夺的行为。"
+  },
+  {
+   "cn": "网络暴力",
+   "en": "internet violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.175",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "由网民个体或群体交互行动所实施的，以言语攻击、形象恶搞、隐私披露、舆论审判等形式呈现出来的，可能致使当事人的名誉权、隐私权等人格权益受损的一系列网络失范行为。网络暴力多局限于舆论范围，尽管网络暴力可能"
+  },
+  {
+   "cn": "媒介暴力",
+   "en": "media violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.095",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "①大众媒介中含有可能会对人们正常生活造成不良影响的暴力内容；如对攻击性行为的描写、对暴力快感的渲染或者对暴力行为的肯定和褒扬等。20世纪70年代美国研究者在对电视传播效果研究中认为，媒介暴力的出现与儿"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.009",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "群体暴力",
+   "en": "intergroup violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.01",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "由群体或团体实施的暴力行为。如种族清洗、恐怖主义、战争等。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "family violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.012",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "家庭成员之间以殴打、捆绑、残害、限制人身自由及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "home violence",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "行为人以殴打、捆绑、残害、强行限制人身自由或者其他手段，给其家庭成员的身体、精神等方面造成一定伤害后果的行为。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "教育学名词",
+   "wordNumber": "15.093",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "学校内部或者外部人员在学校里对学生实施的暴力行为。"
+  },
+  {
+   "cn": "直接暴力",
+   "en": "direct violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.098",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "间接暴力",
+   "en": "indirect violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.099",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "自身暴力",
+   "en": "self-directed violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.008",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "个体对自身实施的残暴行为。如自杀与自伤。"
+  },
+  {
+   "cn": "暴力行为成因",
+   "en": "cause of violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.016",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "从生物、心理、社会等方面对暴力行为发生原因进行的理论分析。为暴力风险的识别和暴力行为的针对性干预提供理论依据。"
+  },
+  {
+   "cn": "暴力行为干预",
+   "en": "intervention of violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.032",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "综合应用生物、心理、社会等多种方法介入并人为中断暴力行为发生、发展的自然过程。一种力图消除或改变暴力行为的干预方式。"
+  },
+  {
+   "cn": "暴力行为预防",
+   "en": "prevention of violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.037",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "在研究暴力行为形成、发展和变化规律的基础上，提供暴力预防的建议，防范暴力行为的发生。"
+  },
+  {
+   "cn": "暴力时期",
+   "en": "Time of Violence",
+   "source": "世界历史名词",
+   "wordNumber": "04.0761",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1946-1957年，哥伦比亚因保守党政府实行残暴统治而引起的国家混乱时期。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中提琴",
+   "en": "viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维奥尔琴",
+   "en": "viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "低音维奥尔琴",
+   "en": "bass viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轮擦维奥尔琴",
+   "en": "arched viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最高音维奥尔琴",
+   "en": "descant viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加花变奏维奥尔琴",
+   "en": "division viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维奥尔琴箱",
+   "en": "chest of viols",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "倍低音维奥尔琴",
+   "en": "double-bass viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "毒力，致病力",
+   "en": "virulence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "致病力（=毒力）",
+   "en": "virulence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "毒力， 致病力",
+   "en": "virulence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "致病力，毒力",
+   "en": "virulence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化合价",
+   "en": "valence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "致毒区",
+   "en": "virulence region",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "激变星系",
+   "en": "violent galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "网络暴力攻击",
+   "en": "cyber violence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵者，所以禁暴除害也",
+   "en": "War Is Fought to Stop Violence and Eliminate Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法者，所以禁暴而率善人也",
+   "en": "Law Is for Stopping Violence and Encouraging Good Behavior",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "11级风",
+   "en": "violent storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "默哀三分钟",
+   "en": "to observe three minutes of silence to mourn the deceased",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防民之口，甚于防川",
+   "en": "To Silence the People Is More Harmful than Blocking a River.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0031",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级斗争或政治活动中一种激烈而强制性的力量。在阶级社会，统治阶级运用国家政权及其军队、警察、监狱等暴力机构维护其统治。被统治阶级通常也通过武装斗争等暴力手段进行反抗。因而暴力具有鲜明的阶级性。"
+  },
+  {
+   "cn": "暴力预防",
+   "en": "violence prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止校园内所有的暴力行为发生发展而采取的一系列措施。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.40",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员之间的身体、精神、性等方面的侵害行为。发生于有血缘、婚姻、收养关系而生活在一起的家庭成员之间，如丈夫对妻子、父母对子女、成年子女对父母等。"
+  },
+  {
+   "cn": "性别暴力",
+   "en": "gender violence",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.18",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别因素而对他人（包括异性和同性）实施的暴力行为，包括身体暴力、精神暴力、语言暴力、性暴力、经济控制、行为控制等多种形式。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "政治暴力",
+   "en": "political violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0217",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为了政治目的而使用的包括军队、警察、法庭、监狱等所有物质力量。它是政治权力的基础和后盾，但不是政治权力本身。政治暴力往往是在政治权力的合法性得不到认同时所诉诸的最后手段。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。"
+  },
+  {
+   "cn": "社会暴力",
+   "en": "social violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "社会上的个人、集体或网络、媒体等对某件事或人的漠视或过度关注，造成个人或家庭生活及工作上的精神折磨的行为。"
+  },
+  {
+   "cn": "网络暴力",
+   "en": "internet violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过网络发表具有攻击性、煽动性、侮辱性言论的行为。这些言论打破道德底线，造成当事人名誉受损。"
+  },
+  {
+   "cn": "躯体暴力",
+   "en": "physical violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "有意使用体力、武器或其他物体导致他人发生实际或潜在伤害的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "在任何地点发生的由任何人强行施加与受害者的性行为、性行为企图或其它直接针对他人性特征的强迫行为，而不论该行为人与受害人的关系如何。"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "任何有意为之并损害女性心理健康和造成精神痛苦的的言语或行为，主要包括恐吓、威胁、吼叫、嘲笑、侮辱、霸道、监视控制、歧视等。"
+  },
+  {
+   "cn": "约会暴力",
+   "en": "dating violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.4",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "发生在正约会交往或曾约会交往者、现有或曾有性关系者、同居关系者之间，以殴打、捆绑、禁闭、残害或者其他手段对约会对方从身体、精神、性等方面进行伤害和摧残以及经济控制的行为。"
+  },
+  {
+   "cn": "经济暴力",
+   "en": "economic violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.5",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "控制女性获得、使用以及保持经济收入的行为，目的是使女性在经济上无自主权并强化男性在家庭中的主导地位。"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.7",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "结构性暴力",
+   "en": "structural violence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0245",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由美国人类学家方马尔（Paul Edward Farmer）提出的医学人类学概念，认为政治、经济的不平等在处于社会边缘的人群身上可能体现为大规模的暴力性疾病。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.1",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "家庭成员之间的身体、精神、性等方面的侵害行为。发生于有血缘、婚姻、收养关系而生活在一起的家庭成员之间，如丈夫对妻子、父母对子女、成年子女对父母等。"
+  },
+  {
+   "cn": "针对儿童的暴力",
+   "en": "violence against child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "对未满18周岁的未成年人造成或可能造成身体、性和精神伤害或痛苦的行为，导致儿童的健康、生存、发展以及尊严受到实际或潜在的伤害。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

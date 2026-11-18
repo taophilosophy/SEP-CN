@@ -1,0 +1,32 @@
+{
+ "key": "cognitivist",
+ "term": "cognitivist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:37:17+00:00",
+ "status": "ok",
+ "note": "variant=cognitivist; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "认知主义",
+   "en": "cognitivism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.537",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种心智与行为研究的进路。主张以经验手段理解心理功能，认为心智活动与认知过程是用由离散的抽象符号组成的内部符号系统完成的信息处理过程。是功能主义与计算表征主义的结合。"
+  },
+  {
+   "cn": "认知主义",
+   "en": "cognitivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

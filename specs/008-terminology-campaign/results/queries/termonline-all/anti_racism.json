@@ -1,0 +1,762 @@
+{
+ "key": "anti-racism",
+ "term": "anti-racism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:53:25+00:00",
+ "status": "ok",
+ "note": "variant=anti-racism; 审定公布名词库=759; 海峡两岸名词对照库=254; 其他来源数据库=62; 预公布名词数据库=104; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "种族主义",
+   "en": "racism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0654",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "将人类不同种族分成高等或低等并主张以“高等种族”限制甚至灭绝“低等种族”的反动血统论。"
+  },
+  {
+   "cn": "三抗措施",
+   "en": "3-anti-measurement,three-anti-therapy (anti-coagulation,anti-spasm,anti-infection)",
+   "source": "显微外科学名词",
+   "wordNumber": "01.141",
+   "subjectFullName": "显微外科学_总论_麻醉及围手术期处理",
+   "subjectName": "麻醉及围手术期处理",
+   "publishYear": "2016",
+   "definition": "抗凝血、抗血管痉挛和抗感染三者的统称，是显微血管吻合手术后必须处理的三项基本措施。"
+  },
+  {
+   "cn": "防霉",
+   "en": "anti-mildew,anti-mouldiness",
+   "source": "微生物学名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "防止霉菌在各种器材或食品上大量生长引发变质的措施。"
+  },
+  {
+   "cn": "[震中]对跖点",
+   "en": "anti-epicenter; anti-center",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1972",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "震中所在地球直径另一端地球表面的对应点。 "
+  },
+  {
+   "cn": "反实在论",
+   "en": "anti-realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.010",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学哲学认为不可观测的实体都不真实存在，但通常承认可观察实体真实存在。"
+  },
+  {
+   "cn": "震中对跖点",
+   "en": "anti-epicenter",
+   "source": "地质学名词",
+   "wordNumber": "11.02.009",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "与震中相对的、地球另一面的点。"
+  },
+  {
+   "cn": "反倾销",
+   "en": "anti-dumping",
+   "source": "农学名词",
+   "wordNumber": "19.157",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进口国对在本国市场上的倾销行为采取的惩罚措施。"
+  },
+  {
+   "cn": "反补贴",
+   "en": "anti-subsidy",
+   "source": "农学名词",
+   "wordNumber": "19.158",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进口国对因享受国外政府补贴而损害进口国产业的进口商品所采取的惩罚措施。"
+  },
+  {
+   "cn": "反还原论",
+   "en": "anti-reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "反对还原论的一套理论。认为一个系统中的所有性质并不是都能基于其组成部分及这些部分间的互动来做出说明的，从基础层次来理解系统层次是无效或不可能的。"
+  },
+  {
+   "cn": "反技术主义",
+   "en": "anti-technologicism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.154",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "怀疑和反对技术进步，主张技术是产生社会危机的根源，必须审视技术导致的社会问题，甚至摧毁、根除技术，回到没有技术的前工业社会中的理论。"
+  },
+  {
+   "cn": "反技术统治论",
+   "en": "anti-technocracy",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "20世纪后期形成的崇尚人本主义，批判崇尚理性、忽视人性的技术统治论。"
+  },
+  {
+   "cn": "抗-抗体",
+   "en": "anti-antibody",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0258",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "能够识别与结合另一种抗体的抗体。通常在注射另一种抗体后产生。"
+  },
+  {
+   "cn": "抗终止作用",
+   "en": "anti-termination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0252",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "机体内大分子合成中的抑制机制。如转录过程中，某些抗终止因子作用于操纵子内存在的顺反子终止位点，使RNA聚合酶绕过终止位点，继续转录；硒蛋白翻译过程中抗终止作用。"
+  },
+  {
+   "cn": "防结块",
+   "en": "anti-caking",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0175",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "向固体肥料中加入某种物质或应用于固体肥料表面用来防止板结的措施。"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "anti oncogene",
+   "source": "兽医学名词",
+   "wordNumber": "11.080",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "能够抑制细胞癌基因活性的基因。其功能是抑制细胞周期，阻止细胞数目增多以及促使细胞死亡。"
+  },
+  {
+   "cn": "反硫化",
+   "en": "anti-reversion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0539",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "硫化橡胶在高温下放置过长后出现的软化现象。硫化工艺中或实际应用时，（一般通过硫键连接的）硫化胶网络结构因承受不起高热而出现的断链（即大分子降解）现象。"
+  },
+  {
+   "cn": "抗起球性",
+   "en": "anti-pilling",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0243",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "织物中的纤维在使用摩擦过程中不易滑出织物表面，并纠缠在一起形成球形颗粒的能力。"
+  },
+  {
+   "cn": "反警报",
+   "en": "anti-alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2229",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以报某事件不发生的方式表述的警报。 "
+  },
+  {
+   "cn": "抗混淆",
+   "en": "anti-aliasing",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2564",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "消除不需要的混淆频率成分。 "
+  },
+  {
+   "cn": "反对易子",
+   "en": "anti-commutator",
+   "source": "光学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "量子力学中的算符运算形式。两个算符A，B的反对易子定义为{A，B}=AB+BA。"
+  },
+  {
+   "cn": "种族歧视",
+   "en": "racism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反",
+   "en": "anti",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "anti-bacterial\",\"anti-microbial",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗甲状腺球蛋白",
+   "en": "anti-thyroblobulin， anti-TG",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "防积冰",
+   "en": "anti-icing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗卷绕",
+   "en": "anti-windup",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反增塑作用",
+   "en": "anti-plasticization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反符合",
+   "en": "anti-coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗降解剂",
+   "en": "anti-degradant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拒食剂",
+   "en": "anti-feedant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反倾销",
+   "en": "anti-dumping",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "防污",
+   "en": "anti-fouling",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抗污染剂",
+   "en": "anti-pollutant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反本质论",
+   "en": "anti-essentialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逆向旅游,逆势观光",
+   "en": "anti-tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗-抗体, 第二抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗终止作用",
+   "en": "anti-termination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反[蓄意]干扰",
+   "en": "anti-jamming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱",
+   "en": "anti-money laundering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反病毒技术",
+   "en": "anti-virus technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防伪技术",
+   "en": "anti-counterfeiting technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防雾霾口罩",
+   "en": "anti-smog mask",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防弧圈胶皮",
+   "en": "anti topspin rubber",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱工具",
+   "en": "anti-money laundering instrument",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱监管",
+   "en": "anti-money laundering supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四抗二平衡：“四抗”，第一是抗病毒；第二是抗休克；第三是抗低氧血症；第四是抗继发感染。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“二平衡”，即维持水电解质、酸碱平衡以及维持微生态平衡。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "技术反腐",
+   "en": "technology-aided anti-corruption efforts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《反互联网犯罪法》（巴西）",
+   "en": "Anti-Internet Crimes Act (Brazil)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字金融反欺诈",
+   "en": "anti-fraud effort in digital finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费金融反欺诈",
+   "en": "anti-fraud effort in consumer finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能小区防盗报警系统",
+   "en": "smart neighborhood anti-theft alarm system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际反法西斯统一战线",
+   "en": "the international anti-fascist united front",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "种族主义",
+   "en": "racism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.208",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "认为某一种族里的每一成员都具有该种族特定的品质或者能力，并以此区分人群及种族间优劣的观点。在这种理念中，人的健康与疾病常常被贴上种族的标签。"
+  },
+  {
+   "cn": "种族主义",
+   "en": "race racism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "将区别于其他人种的某些共同遗传和体质特征扩大到社会与文化领域的一种解释,并以人种这一社会差异和政治经济不平等的象征符号为核心概念发展出的意识形态和涉及广泛的社会现象。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "反文化",
+   "en": "anti-culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一种与主流文化相对立的极端形态的文化。1920年代的“波西米亚”、1950年代的“垮掉青年”、1960年代的“嬉皮士”都是反文化的重要例证。"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "与社会工作专业价值取向相抵触的消极价值取向。其既可存在于社会工作者与案主的关系之中，又可存在于社会工作者与机构的关系之中，还可存在于社会工作者的相互关系之间。从理论形态而言，社会工作的反价值包括操纵和"
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.71",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "以抗体为抗原所产生的抗体。"
+  },
+  {
+   "cn": "反欺诈",
+   "en": "anti-fraud",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险监管机构为保护保险消费者合法权益，维护保险市场秩序，促进保险行业健康发展，对各种欺诈骗保行为进行预防、识别、处理及管控的一系列制度和做法。"
+  },
+  {
+   "cn": "抗SSA/Ro抗体",
+   "en": "anti-SSA antibody, anti-SSA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.11",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSA/Ro是由Ro蛋白与非编码小RNA分子非共价结合的核糖核蛋白。抗SSA抗体在干燥综合征患者的阳性率约为40%-95%，常与腺体外表现相关；是诊断干燥综合征的血清学标志物，"
+  },
+  {
+   "cn": "抗SSB/La抗体",
+   "en": "anti-SSB antibody, anti-SSB",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSB/La蛋白是一种核糖核蛋白。抗SSB抗体是诊断干燥综合征的血清学标志物，并与腺体外受累密切相关；母源性的抗SSB/La抗体与新生儿狼疮、永久性窦性心动过缓、先天性心脏传导"
+  },
+  {
+   "cn": "抗甲状腺球蛋白抗体",
+   "en": "anti-thyroglobulin antibody,anti-TGAb",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.53",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要为IgG类，其与抗TPO抗体均可用于甲状腺炎的鉴别诊断。靶抗原是甲状腺滤泡中腺质的主要成分，为碘贮存及碘化甲状腺激素T3和T4合成所必需。"
+  },
+  {
+   "cn": "抗Smith抗体",
+   "en": "anti-Smith antibody, anti-Sm antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "系统性红斑狼疮的标志性抗体，但其阳性率仅为20-40%，且与病情活动无关；其阴性不能排除SLE的诊断。1966年首次在名字为史密斯的SLE患者血清中检测到，因此命名。"
+  },
+  {
+   "cn": "抗核糖核蛋白抗体",
+   "en": "anti-ribonucleoprotein antibody, anti-RNP antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "针对核内核糖核蛋白的一组自身抗体。抗RNP抗体作为一种标记性抗体，在诊断和鉴别诊断系统性红斑狼疮与混合性结缔组织病上有重要意义，但与疾病的活动性无关。"
+  },
+  {
+   "cn": "抗平滑肌抗体",
+   "en": "anti-smooth muscle antibody, anti-SMA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.38",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要见于自身免疫性肝炎，也可见于原发性胆汁性胆管炎、慢性活动性肝炎、急性病毒性肝炎及正常中、老年人。"
+  },
+  {
+   "cn": "抗促甲状腺激素受体抗体",
+   "en": "anti-thyrotropin receptor antibody, anti-TRAb",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.51",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。可判断抗甲状腺药物的疗效，预示抗甲状腺药物治疗后甲亢型格雷夫斯病的复发，131I治疗后，抗体滴度增高可达数月。偶用于诊断。"
+  },
+  {
+   "cn": "抗浦肯野细胞抗体",
+   "en": "anti-Purkinje cell antibody, anti-PCA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.58",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "在赘生物引起的小脑变性的患者中检测到的抗体。阳性者几乎均为女性患者。"
+  },
+  {
+   "cn": "反符合法",
+   "en": "anti-coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "一种用反符合选择器（或反符合探测-电路单元）来剔除在时间上和待测量具有相关性的干扰事件或同时发生的无关事件对测量结果影响的方法。"
+  },
+  {
+   "cn": "反科学运动",
+   "en": "anti-science movement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.23",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因科学的社会功能而产生的一种社会现象。在科学应用过程中一旦未能得到权威机构或控制群体的赞许，对技术成果带来的负面效应的反感就会变成对科学本身的反对。"
+  },
+  {
+   "cn": "反实证主义方法论",
+   "en": "anti-positivist methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "反对实证主义的研究方法论。其强调对社会现象，尤其是对个体行为意义的深层理解，强调要能够站在被研究者的立场上去理解。要深入了解行动者所赋予自己行动的意义和价值，就需要了解行动者所处文化和行为发生的具体情"
+  },
+  {
+   "cn": "抗核小体抗体",
+   "en": "anti-nucleosome antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "体内细胞凋亡异常导致核小体过度释放，B淋巴细胞、辅助T淋巴细胞活化后产生的一种抗体。出现于系统性红斑狼疮早期，与疾病的活动度呈正相关。"
+  },
+  {
+   "cn": "抗异种核糖核蛋白复合物抗体",
+   "en": "anti-RA33 antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.26",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗hnRNP蛋白A2、B1、B2的抗体。抗hnRNPA/B抗体主要见于类风湿关节炎、系统性红斑狼疮和混合性结缔组织病患者，其他结缔组织病较少检出；抗hnRNP-A2/RA33抗体见于类风湿关节炎发病早"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

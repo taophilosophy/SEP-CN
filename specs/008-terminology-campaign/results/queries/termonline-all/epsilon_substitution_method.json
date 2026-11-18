@@ -1,0 +1,792 @@
+{
+ "key": "epsilon substitution method",
+ "term": "epsilon substitution method",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:47:56+00:00",
+ "status": "ok",
+ "note": "variant=epsilon substitution method; 审定公布名词库=4248; 海峡两岸名词对照库=1053; 其他来源数据库=83; 预公布名词数据库=213; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "替代法",
+   "en": "method of substitution",
+   "source": "物理学名词",
+   "wordNumber": "01.0180",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "ε算法",
+   "en": "ε-algorithm,epsilon-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0341",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ε熵",
+   "en": "ε-entropy,epsilon-entropy",
+   "source": "数学名词",
+   "wordNumber": "012.0033",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "替代测量[法]",
+   "en": "substitution [method of] measurement",
+   "source": "电力名词",
+   "wordNumber": "02.101",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "用同类已知量替代被测量的比较测量方法。这两个量的值对测量仪表的影响应相同。"
+  },
+  {
+   "cn": "替代测量[法]",
+   "en": "substitution [method of] measurement",
+   "source": "计量学名词",
+   "wordNumber": "10.164",
+   "subjectFullName": "计量学_电磁_电学计量常用测量方法",
+   "subjectName": "电学计量常用测量方法",
+   "publishYear": "2015",
+   "definition": "用同类已知量替代被测量的比较测量方法。这两个量的值对测量仪表的影响应相同。"
+  },
+  {
+   "cn": "替代测量方法",
+   "en": "substitution method of measurement",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.125",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "替代测量法",
+   "en": "substitution method of measurement",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "01.021",
+   "subjectFullName": "机械工程_仪器仪表_总论_仪器仪表基本名词",
+   "subjectName": "仪器仪表基本名词",
+   "publishYear": "2003",
+   "definition": "将选定的、且已知其值的量替代被测量，使在指示装置上得到相同效应以确定被测量值的测量方法。"
+  },
+  {
+   "cn": "代换",
+   "en": "substitution",
+   "source": "农学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在DNA碱基序列中一个嘌呤被另一个嘌呤，或一个嘧啶被另一个嘧啶替代，或供体的染色体或染色体片段取代受体相应染色体或染色体片段而引起遗传信息突变的现象。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "行为医学名词",
+   "wordNumber": "10.076",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种自我防御机制。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "畜牧学名词",
+   "wordNumber": "07.362",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "用功能作用相同或相似的某一类物质取代另一类物质的方法。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "心理学名词",
+   "wordNumber": "15.018",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种心理防御机制。"
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "语言学名词",
+   "wordNumber": "04.255",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "结构主义语法分析术语。在一个语法结构内某一位置上，用一个语法单位替换另一个语法单位的过程或结果，替换发生于其中的结构称为替换框架（substitution frame）。替换包括等量替换和不等量替换："
+  },
+  {
+   "cn": "置换",
+   "en": "substitution",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0081",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "数学名词",
+   "wordNumber": "02.0068",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "替代药",
+   "en": "substitute",
+   "source": "药学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "由于某种原因不能选用首选药用于治疗时，可供选用的药物品种。"
+  },
+  {
+   "cn": "山字型构造体系",
+   "en": "epsilon-type structural system",
+   "source": "地质学名词",
+   "wordNumber": "10.03.015",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "由具有成生联系的弧形褶皱带及其凹侧中间部位的直线状隆起挤压带，以及它们所夹的地块共同组成的形似“山”字的构造体系。包括前弧(正面弧)、反射弧、脊柱、马蹄形盾地、砥柱等主要组成部分。"
+  },
+  {
+   "cn": "免疫球蛋白ε链",
+   "en": "immunoglobulin epsilon chain,ε-chain",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.282",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不完全替代法",
+   "en": "semi-substitution method of measurement",
+   "source": "计量学名词",
+   "wordNumber": "10.165",
+   "subjectFullName": "计量学_电磁_电学计量常用测量方法",
+   "subjectName": "电学计量常用测量方法",
+   "publishYear": "2015",
+   "definition": "将量值已知且与被测量的量值相近的量替代被测量，两者的差值由测量装置显示出来的测量方法。"
+  },
+  {
+   "cn": "衰减测量替代法",
+   "en": "substitution method for attenuation measurement",
+   "source": "计量学名词",
+   "wordNumber": "11.141",
+   "subjectFullName": "计量学_无线电_衰减",
+   "subjectName": "衰减",
+   "publishYear": "2015",
+   "definition": "被测衰减器与标准衰减器串联或并联接入测量系统中，指示器指示一定的电平，当被测衰减器的衰减量变化时，调节标准衰减器的衰减量直至电平指示保持不变，即可通过标准衰减器的衰减量得出被测衰减量的测量方法。"
+  },
+  {
+   "cn": "替换缺陷",
+   "en": "substitution defect",
+   "source": "地质学名词",
+   "wordNumber": "09.06.007",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "晶格结点上出现其他原子，替换了原有的原子，使晶格发生畸变的现象。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取代",
+   "en": "substitution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "置换,取代",
+   "en": "substitution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "①代用品 ②替代药",
+   "en": "substitute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等权代替法",
+   "en": "method of equal-weight substitution",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基因置换",
+   "en": "gene substitution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "替代单倍体",
+   "en": "substitution haploid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "取代反应",
+   "en": "substitution reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取代法则",
+   "en": "substitution rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲电取代[反应]",
+   "en": "electrophilic substitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "取代[反应]",
+   "en": "substitution [reaction]",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "移位取代",
+   "en": "cine substitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进口替代",
+   "en": "import substitution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "替代公债",
+   "en": "substitution obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碱基置换",
+   "en": "base substitution",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因置换",
+   "en": "gene substitution",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "冷冻置换",
+   "en": "freeze substitution",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非保守性替代",
+   "en": "nonconservative substitution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保守置换",
+   "en": "conservative substitution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合法替换",
+   "en": "illegal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人区",
+   "en": "substitution zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人犯规",
+   "en": "substitution fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合法替换",
+   "en": "illegal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被迫换人",
+   "en": "compulsory substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法替换",
+   "en": "legal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.25",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "故意用另一来源的成分换掉产品声明成分的食品欺诈行为。通常用一种成分或较低价值产品一部分换掉另一种成分或高价值产品一部分，如使用矿物油部分换掉葵花油、在牛奶中添加水解皮革蛋白质。"
+  },
+  {
+   "cn": "替代效应",
+   "en": "substitution effect",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.5.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "一种服务或商品的价格上涨，消费者可以用其他服务或商品来替代变得更贵的该种服务或商品，而减少该服务或商品的需求量的现象。"
+  },
+  {
+   "cn": "替代喂养",
+   "en": "substitute feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以内的婴儿由于各种原因不能进行母乳喂养时，完全采用配方奶或其它兽乳等的喂哺方法。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast-milk substitutes",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.8",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "任何指明为喂养三岁及以下婴幼儿而销售的奶（或可用于替代奶的产品），包括高段配方奶和成长奶。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast milk substitute",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "利用牛奶、大豆等制品加工成的婴幼儿配方食品(奶粉)，并参照母乳成分调整营养素含量，添加多种微量营养素，如矿物质和维生素。"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter substitute",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.9",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "来源于可可之外的植物油脂，可全部或部分代替可可脂。"
+  },
+  {
+   "cn": "边际替代率",
+   "en": "marginal rate of substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "消费者在保持同等满足程度时增加一种商品的数量与该消费者必须放弃的另一种商品的数量之比。"
+  },
+  {
+   "cn": "卫生人力要素替代",
+   "en": "human resource factor substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "当一种卫生人力的价格上升，其需求量会下降，医疗机构可以通过提高另一种卫生人力的需求量来达到预定的产出量，不同类型卫生人力之间以及人力与设备等之间具有的替代性。"
+  },
+  {
+   "cn": "边际技术替代率",
+   "en": "marginal rate of technical substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在产量保持一定的前提条件下，增加一单位某种生产要素可以代替的另外一种要素的数量。"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "滴定法",
+   "en": "titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "将一种已知浓度的标准溶液滴加到含待测物质的溶液中，根据完成化学反应所消耗的标准溶液的浓度、体积和待测溶液的体积，计算溶液中待测物质量的分析方法。"
+  },
+  {
+   "cn": "倾注法",
+   "en": "pouring method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验样本均匀分散于固体培养基中进行活菌计数的试验方法。"
+  },
+  {
+   "cn": "稀释法",
+   "en": "dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用稀释液稀释消毒剂与试验微生物的混合液，使其不再抑制或杀灭微生物的方法。"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过比较清洗前后污染物重量来评价清洗效果的方法。"
+  },
+  {
+   "cn": "凝胶法",
+   "en": "gel method",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过鲎试剂与内毒素产生凝集反应的原理来定性或半定量检测内毒素的方法。"
+  },
+  {
+   "cn": "符合法",
+   "en": "coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用核衰变时能发射两个或两个以上级联辐射的特性来测量放射性核素活度的一种方法。"
+  },
+  {
+   "cn": "谱仪法",
+   "en": "spectrometer method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用谱仪（如α、γ谱仪）测定各种射线能谱的技术方法。通常包括样品源的制备、测量及解谱等。"
+  },
+  {
+   "cn": "归纳法",
+   "en": "inductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "就某个特定的主题，观察和收集数据，积累事实，从而得出一般原理的推理程序。"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

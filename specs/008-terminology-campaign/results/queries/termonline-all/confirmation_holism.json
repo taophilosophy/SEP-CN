@@ -1,0 +1,642 @@
+{
+ "key": "confirmation holism",
+ "term": "confirmation holism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:54:57+00:00",
+ "status": "ok",
+ "note": "variant=confirmation holism; 审定公布名词库=333; 海峡两岸名词对照库=103; 其他来源数据库=13; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "整体观念",
+   "en": "holism",
+   "source": "兽医学名词",
+   "wordNumber": "19.036",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "中兽医关于动物体本身的整体性及其与环境的统一性和联系性的思想。"
+  },
+  {
+   "cn": "整体论",
+   "en": "holism",
+   "source": "心理学名词",
+   "wordNumber": "02.762",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "相对于还原论。即把一个事物以一个整体的功能作为独立单元进行研究的方法论。"
+  },
+  {
+   "cn": "整体观念",
+   "en": "holism",
+   "source": "中医药学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "中医药学_中医基础理论_中医基础理论总论",
+   "subjectName": "中医基础理论总论",
+   "publishYear": "2004",
+   "definition": "强调人体自身整体性并与外环境相统一的思想。"
+  },
+  {
+   "cn": "可验证性",
+   "en": "confirmability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为一个陈述有认知意义，当且仅当这个陈述和其他辅助假说合取时，能够推导出观察命题，并且这些观察命题不能由辅助假说单独推出。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "方法论整体主义",
+   "en": "methodological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.806",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "坚持从社会整体性存在的角度来理解个人行动的方法论立场。认为整体性存在不能还原为个人的特征，社会整体在解释上优先于个体层面。"
+  },
+  {
+   "cn": "生态整体主义",
+   "en": "ecological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.207",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "把生态系统的整体利益作为最高价值而不是把人类的利益作为最高价值，把是否有利于维持和保护生态系统的完整、和谐、稳定、平衡和持续存在作为衡量一切事物的根本尺度，作为评判人类生活方式、科技进步、经济增长和社"
+  },
+  {
+   "cn": "生态系统整体性",
+   "en": "ecosystem holism",
+   "source": "生态学名词",
+   "wordNumber": "07.289",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统是一个整体的功能单元，其存在方式、目标和功能都表现出统一的整体性，是生态系统最重要的特征之一。"
+  },
+  {
+   "cn": "确证程序",
+   "en": "confirmation procedure",
+   "source": "运动医学名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "一种分析检测过程，旨在确定样品中一种或多种特定禁用物质、禁用物质的代谢物、使用禁用物质的标志物的浓度或禁用方法是否存在的分析检测过程。确证程序还可显示某种禁用物质的含量高于检测限和确定样品中某种禁用物"
+  },
+  {
+   "cn": "积极式函证",
+   "en": "positive confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者直接向审计师回复，表明是否同意询证函所列示的信息，或填列所要求的信息的询证方式。"
+  },
+  {
+   "cn": "消极式函证",
+   "en": "negative confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0386",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者只有在不同意询证函所列示的信息时才直接向审计师回复的询证方式。"
+  },
+  {
+   "cn": "证真偏差",
+   "en": "confirmation bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们希望去寻找与他们持有观点相一致信息的现象，任何与其观点相冲突的信息会被忽略掉，而一致的信息则会被高估。"
+  },
+  {
+   "cn": "审计函证",
+   "en": "audit confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师直接从被询证的第三方获取书面答复作为审计证据的过程。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0622",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为确保测量设备符合预期使用要求所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "计量学名词",
+   "wordNumber": "01.203",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为确保测量设备处于满足预期使用要求的状态所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.008",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "确认性评价",
+   "en": "confirmative evaluation",
+   "source": "教育学名词",
+   "wordNumber": "13.070",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "确定学习者是否还维持他们的能力水平、教学材料是否仍然有效、机构的问题是否解决的过程。一般在形成性评价和总结性评价完成一段时间以后进行。"
+  },
+  {
+   "cn": "确诊鼠疫",
+   "en": "confirmed plague",
+   "source": "地方病学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "地方病学_鼠疫_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "根据鼠疫诊断标准(WS 279-2008)确定为鼠疫的患者。当患者被确诊为鼠疫时，必须按照鼠疫控制应急预案，采取鼠疫控制措 施。"
+  },
+  {
+   "cn": "贝叶斯验证理论",
+   "en": "Bayesian confirmation theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.211",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "利用贝叶斯定律比较在获得证据之后的后验概率与先验概率。如果后验概率Pi(H/E)大于先验概率Pi(H)，那么证据E验证假说H，如果小于，那么证据E反证假说H。"
+  },
+  {
+   "cn": "信念确立的整体论",
+   "en": "holism of belief fixation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.672",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "要得出或确立某个特定的信念，必须同时持有若干其他信念的理论。据此，某一实验数据，只有与其他理论约定、背景假设以及与之相关的逻辑和数据工具的假设一起，才能确证某个特定命题。"
+  },
+  {
+   "cn": "验证性偏倚",
+   "en": "confirmation bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货确认书",
+   "en": "purchase confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投递证实",
+   "en": "delivery confirmation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "订单确认书",
+   "en": "confirmation of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发盘确认书",
+   "en": "confirmation of offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫证实信号",
+   "en": "call-confirmation signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接收证实",
+   "en": "confirmation of receipt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "confirmed irrevocable credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信用证确认手续费",
+   "en": "L/C confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "irrevocable and confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确认议付信用证",
+   "en": "confirmed negotiation L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "○1authentication\",\"verification○2 confirm\",\"certify",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认议付信用证",
+   "en": "confirmed negotiation letter of credit (=confirmed negotiation L/C)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产确权",
+   "en": "data asset confirmation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保兑仓融资",
+   "en": "confirming warehouse financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应收尽收",
+   "en": "All suspected and confirmed patients should be admitted to the hospital. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "升起",
+   "en": "hoist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "他山之石，可以攻玉",
+   "en": "Use Stones from Another Mountain to Polish One’s Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《时间简史》（〔英〕斯蒂芬·威廉·霍金）",
+   "en": "A Brief History of Time: From the Big Bang to Black Holes (Stephen William Hawking, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整体观",
+   "en": "holism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "把一个文化视为有机整体的观点，又称“全貌观”。强调研究每一文化元素时，都应将其置于整个文化框架中，探讨它与其他文化元素以及各种外界条件之间的内在联系，由此建立一种全面而系统的认识。"
+  },
+  {
+   "cn": "整体论",
+   "en": "holism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0005",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。人类学观察人类社会文化的手段，主张对所观察的事物做通盘考虑，强调人类整体性的认识论，即将人类社会视为过去、现在和将来的动态的整体，作历时性和共时性双重考察，作生物和文化上"
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "民俗整体论",
+   "en": "theory of folklore holism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0494",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "视民俗为整体的解释理论，将选取的民俗事象与其他民俗进行系统考察，把人们的生产与生活作为一个包含着历史意义和现实存在的文化整体，在这个文化整体内观察民俗活动，研究民俗传承之间的互动，把握民俗生活与民俗传"
+  },
+  {
+   "cn": "食源性疾病确诊病例",
+   "en": "confirmed cases of foodborne disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "符合《食源性疾病监测报告工作规范（试行）》附录“食源性疾病报告名录”中食源性疾病判定标准的病例。"
+  },
+  {
+   "cn": "没收官僚资本",
+   "en": "confiscation of bureaucratcapital",
+   "source": "马克思主义",
+   "wordNumber": "02.0339",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国新民主主义革命的三大经济纲领之一。在新民主主义革命的后期，中国共产党在已解放的城市中开展了没收以蒋、宋、孔、陈为首的官僚资本。新中国成立后，人民政府迅速没收了原来属于国民党政府和官僚资产阶级的一切"
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural holes",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "社会网络中的某个或某些个体与有些个体有直接联系，但与其他个体无直接联系或关系中断的现象，从网络整体看就好像网络结构中出现了洞穴。"
+  },
+  {
+   "cn": "毒麦",
+   "en": "lolium temulentum L.",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.30",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "籽粒中含有毒麦碱的禾本科黑麦草属的草本植物，常和小麦混生在一起,其外形与小麦类似。"
+  },
+  {
+   "cn": "毒麦中毒",
+   "en": "lolium temulentum poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.18",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用外形似麦的有毒杂草籽粒所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "波兰统一工人党",
+   "en": "Polish United Workers Party",
+   "source": "马克思主义",
+   "wordNumber": "05.0314",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "波兰社会主义时期的执政党，共产主义政党。1948年该党由波兰工人党和波兰社会党合并而成。1990年1月停止活动，解散后改组为波兰社会民主党。"
+  },
+  {
+   "cn": "共产国际解散波兰共产党",
+   "en": "Communist International dissolving Polish Communist Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0239",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1927年波兰共产党第四次代表大会上，由于对国内外形势的不同估计，出现“多数派”和“少数派”。1929年，多数派被第三国际斥为“右倾机会主义”，少数派的伦斯基当选为党的总书记。1938年，斯大林领导的"
+  },
+  {
+   "cn": "年波兰起义十二周年纪念会",
+   "en": "Commemorative Meeting for the Twelfth Anniversary of the Polish Uprising in",
+   "source": "马克思主义",
+   "wordNumber": "04.0476",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1875年1月23日在伦敦举行的1863—1864年波兰起义十二周年纪念。1875年1月23日，在伦敦举行的1863—1864年波兰起义十二周年纪念会。纪念会由瓦·符卢勃列夫斯基主持，波兰、俄国、德国"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

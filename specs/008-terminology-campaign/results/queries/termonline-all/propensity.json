@@ -1,0 +1,142 @@
+{
+ "key": "propensity",
+ "term": "propensity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:42:54+00:00",
+ "status": "ok",
+ "note": "variant=propensity; 审定公布名词库=5; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "倾向评分匹配",
+   "en": "propensity score matching,PSM",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.159",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "使用非实验数据或观测数据进行干预效应分析的一类统计方法。用于处理观察研究的数据。在观察研究中，由于种种原因，数据偏差和混杂变量较多，应用此方法可以减少这些偏差和混杂变量的影响，以便对实验组和对照组进行"
+  },
+  {
+   "cn": "概率的倾向解释",
+   "en": "propensity interpretation of probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.230",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "概率被认为是在给定的物理情境中产生某种结果的物理倾向。"
+  },
+  {
+   "cn": "边际消费倾向",
+   "en": "marginal propensity to consume",
+   "source": "农学名词",
+   "wordNumber": "19.006",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "可支配收入每变动一个单位引起的消费变动情况。用消费变化量与可支配收入变化量的比值来表示。"
+  },
+  {
+   "cn": "边际储蓄倾向",
+   "en": "marginal propensity to save",
+   "source": "农学名词",
+   "wordNumber": "19.007",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "可支配收入每变动一个单位引起的储蓄变动情况。用储蓄变化量与可支配收入变化量的比值来表示。"
+  },
+  {
+   "cn": "支柱密度",
+   "en": "prop density",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.247",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "单位面积顶板下的支柱根数。"
+  },
+  {
+   "cn": "出口倾向",
+   "en": "propensity to export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄倾向",
+   "en": "propensity to save",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口倾向",
+   "en": "propensity to import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资倾向",
+   "en": "propensity to invest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边际出口倾向",
+   "en": "marginal propensity to export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边际储蓄倾向",
+   "en": "marginal propensity to save",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边际进口倾向",
+   "en": "marginal propensity to import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边际投资倾向",
+   "en": "marginal propensity to invest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

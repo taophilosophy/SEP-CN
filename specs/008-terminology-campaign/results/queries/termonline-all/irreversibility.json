@@ -1,0 +1,432 @@
+{
+ "key": "irreversibility",
+ "term": "irreversibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:55:41+00:00",
+ "status": "ok",
+ "note": "variant=irreversibility; 审定公布名词库=60; 海峡两岸名词对照库=34; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.079",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物变化在时间反演变换下只能单向进行的属性，即施加于事物的影响作用不具有后果可取消的性质。从热力学角度而言，自然界中所有复杂的过程都具有宏观上的不可逆性。客观事物变化对环境的影响本质上属于不可逆过程。"
+  },
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0203",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0109",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "在时间反演变换下，只能单向进行的热力学过程所具有的性质。"
+  },
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "核医学名词",
+   "wordNumber": "04.0635",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_心血管诊疗技术",
+   "subjectName": "心血管诊疗技术",
+   "publishYear": "2018",
+   "definition": "不可恢复或逆转的严重功能损伤。"
+  },
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "化学工程名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "化学工程_化工热力学_热力学分析与热力学循环",
+   "subjectName": "热力学分析与热力学循环",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "宏观不可逆性",
+   "en": "macroscopic irreversibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0503",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆反应",
+   "en": "irreversible reaction",
+   "source": "地质学名词",
+   "wordNumber": "13.01.105",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在指定条件下，几乎只能向一定方向进行的化学反应。"
+  },
+  {
+   "cn": "不可逆性休克",
+   "en": "irreversible shock",
+   "source": "普通外科学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "医学_普通外科学_休克",
+   "subjectName": "休克",
+   "publishYear": "2026",
+   "definition": "当难治性休克未能得到缓解和纠正，病情继续恶化，最后进展为严重弥散性血管内凝血和（或）严重多器官功能衰竭而死亡的休克。"
+  },
+  {
+   "cn": "不可逆抑制",
+   "en": "irreversible inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0076",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "抑制剂与酶的必需基团或活性中心以共价键结合而引起酶活性丧失，不能用透析、超滤或凝胶过滤等物理方法去除抑制剂而使酶活力恢复的作用。"
+  },
+  {
+   "cn": "不可逆效应",
+   "en": "irreversible effect",
+   "source": "兽医学名词",
+   "wordNumber": "11.036",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "机体停止接触外源化学物后，造成的损伤不能恢复，甚至进一步发展加重的毒性作用表现。"
+  },
+  {
+   "cn": "不可逆改变",
+   "en": "irreversible change",
+   "source": "行为医学名词",
+   "wordNumber": "10.058",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "当应激源的强度大且持久，超出了机体的承受和代偿范围时，机体内环境稳态出现失衡，发生永久性损害的反应。"
+  },
+  {
+   "cn": "不可逆抑制剂",
+   "en": "irreversible inhibitor ",
+   "source": "草学名词",
+   "wordNumber": "7.0227",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "电力名词",
+   "wordNumber": "01.511",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "不会自发地逆转并恢复到原来状态的过程。任何实际过程都是不可逆过程。"
+  },
+  {
+   "cn": "不可逆循环",
+   "en": "irreversible cycle",
+   "source": "电力名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "组成热力循环的各过程中含有不可逆过程的循环。"
+  },
+  {
+   "cn": "不可逆反应",
+   "en": "irreversible reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0043",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "只能单向进行，生成物不能转化为原来的反应物同时不对环境产生任何影响的反应。"
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "冶金学名词",
+   "wordNumber": "04.0032",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "不可能用任何方法返回初态而不引起任何其他变化的过程。"
+  },
+  {
+   "cn": "不可逆[过程]热力学",
+   "en": "irreversible thermodynamics",
+   "source": "物理学名词",
+   "wordNumber": "05.0206",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆循环",
+   "en": "irreversible cycle",
+   "source": "物理学名词",
+   "wordNumber": "05.0207",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "物理学名词",
+   "wordNumber": "05.0204",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0020",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系统的状态发生改变后，向相反的方向进行时，系统和环境不能恢复原状的过程。系统实际自发进行的过程均为不可逆过程。"
+  },
+  {
+   "cn": "不可逆性",
+   "en": "irreversibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆功",
+   "en": "irreversible work",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆电池",
+   "en": "irreversible cell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆催化",
+   "en": "irreversible catalysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆反应",
+   "en": "irreversible reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆［过程］热力学",
+   "en": "irreversible thermodynamics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆析出",
+   "en": "irreversible precipitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆波",
+   "en": "irreversible wave",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆反应",
+   "en": "irreversible reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆过程",
+   "en": "irreversible process",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆抑制",
+   "en": "irreversible inhibition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆加密",
+   "en": "irreversible encryption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆效应",
+   "en": "irreversible effect",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆指示剂",
+   "en": "irreversible indicator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆抑制剂",
+   "en": "irreversible inhibitor",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆化学反应",
+   "en": "irreversible chemical reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不可恢复的环境影响",
+   "en": "irreversible marine environmental",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可逆毒性效应",
+   "en": "irreversible toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体停止接触外源化学物后已造成的损害作用仍不能消失甚至可能进一步加重的效应"
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "resistance",
+ "term": "resistance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:47:05+00:00",
+ "status": "ok",
+ "note": "variant=resistance; 审定公布名词库=1534; 海峡两岸名词对照库=420; 其他来源数据库=41; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "耐药性",
+   "en": "resistance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "病原体或肿瘤细胞对药物的敏感性或反应性降低甚至消失的现象。"
+  },
+  {
+   "cn": "抵抗",
+   "en": "resistance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.027",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "文化意义上的不合作。是青少年亚文化和后殖民研究的关键概念。抵抗来自福柯的权力理论，即权力总是生产对于其效果的反对和抵抗。在霸权理论和霍尔意识形态研究中，抵抗是一种反权力。在卡斯特的集体身份认同理论中，"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance ",
+   "source": "草学名词",
+   "wordNumber": "7.0363",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0030",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "一定体积的物体抵抗电流传输 (运动)的力。与物体两端的电压成正比，与两端之间传输的电流成反比。 "
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "动物学名词",
+   "wordNumber": "7.0586",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "电力名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对于端子为A和B的电阻性二端元件或二端电路,端子间电压<img src='/root/syzx/static/spz/dianli3.01.192.02.png'/>除以元件或电路中电流i的商:<im"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "精神医学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "受检者对于揭示其无意识中被压抑记忆的过程产生抵抗的现象。可以来自本我、自我或超我层面，可以是无意识的，也可以是有意识的。"
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "物理学名词",
+   "wordNumber": "02.0380",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "冶金学名词",
+   "wordNumber": "04.0431",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "物质对电流的阻碍作用。单位为欧姆，用Ω表示。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "植物学名词",
+   "wordNumber": "13.0553",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.419",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "呼吸总阻抗中同相位的成分，实质是呼吸系统的黏性阻力。用R表示。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "林学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "生态系统受到干扰后产生变化的大小。为衡量系统受外界干扰而保持原状的能力。"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "地方病学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "地方病学_鼠疫_宿主",
+   "subjectName": "宿主",
+   "publishYear": "2016",
+   "definition": "宿主动物和人在感染鼠疫后对鼠疫菌的耐受及产生抗体的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "计量学名词",
+   "wordNumber": "10.024",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "导电物体阻碍传导电流通过的能力。单位是欧姆(Ω)。"
+  },
+  {
+   "cn": "抗力",
+   "en": "resistance",
+   "source": "建筑学名词",
+   "wordNumber": "13.0082",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "结构或结构构件承受作用效应的能力。"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "心理学名词",
+   "wordNumber": "15.005",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体在咨询过程中面临某些威胁性成分时的无意识抵抗。表现为压抑、回避等反应。"
+  },
+  {
+   "cn": "耐药性",
+   "en": "resistance",
+   "source": "药学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "病原体对药物的敏感性下降甚至消失的现象。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "生态学名词",
+   "wordNumber": "07.307",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统受到干扰后产生变化的大小。为衡量系统受外界干扰而保持原状的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "电气工程名词",
+   "wordNumber": "01.416",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "抗力",
+   "en": "resistance",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.144",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程结构（水利）",
+   "subjectName": "工程结构（水利）",
+   "publishYear": "1997",
+   "definition": "结构构件或材料承受作用效应的能力。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力,抗性",
+   "en": "resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性，抗药性",
+   "en": "resistance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "electric resistance\",\"resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity\",\"electric resistivity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "多基因抗[病]性",
+   "en": "multigenic resistance\",\"polygenic resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗药性",
+   "en": "insecticide resistance\",\"pesticide resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗寒性",
+   "en": "cold resistance\",\"winter resistance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "剩余阻力",
+   "en": "residual resistance\",\"residuary resistance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抗菌性",
+   "en": "bacterial resistance\",\"fungus resistance\",\"micro-organism resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "[外周]阻力血管",
+   "en": "resistance vessel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "电阻炉",
+   "en": "resistance furnace",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电阻温度计",
+   "en": "resistance thermometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗日根据地",
+   "en": "resistance base",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒时间",
+   "en": "time of resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "东北抗日联军",
+   "en": "Northeast United Resistance Army",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "量子抗性密码系统",
+   "en": "quantum-resistant cryptography system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子抗性数字签名",
+   "en": "quantum-resistant code signing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "片面抗战",
+   "en": "partial resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争（简称：抗日战争、抗战）",
+   "en": "the Chinese People’s War of Resistance against Japanese Aggression (the War of Resistance)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全国抗战",
+   "en": "nationwide war of resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "局部抗战",
+   "en": "regional war of resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒受衔",
+   "en": "evasion of the hand\",\"resistance to the hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对某种外源化学物产生的抵抗性，即使高剂量暴露也不会产生明显毒作用的现象。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "抗阻运动",
+   "en": "resistance exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "肌肉在收缩时人为地给予一定的外加阻力，使运动时肌肉张力达到较高的程度，以提高肌力和肌肉耐力的运动方式。"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "消毒剂耐受性",
+   "en": "disinfectant resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物（尤为病原微生物）对消毒剂产生高度耐受的特性"
+  },
+  {
+   "cn": "交叉抗性",
+   "en": "cross resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.113",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种微生物对多种抗生素具有抗性的现象。"
+  },
+  {
+   "cn": "呼吸阻力",
+   "en": "breathing resistance",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "佩戴面具时呼吸气流通过面具所产生的摩擦力，包括呼气阻力和吸气阻力。"
+  },
+  {
+   "cn": "反抗型依恋",
+   "en": "resistant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "痛苦、反抗的依恋行为。对母亲的离开过度敏感，表现非常痛苦和极度反抗，对母亲纠缠不休又抵抗母亲拥抱，既寻求接触又对接触表示反抗。"
+  },
+  {
+   "cn": "微生物抵抗力",
+   "en": "microbial resistibility",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在特定条件下，微生物对理化因子表现出的抵抗能力，常用D值表示。"
+  },
+  {
+   "cn": "抗微生物耐药性",
+   "en": "antimicrobial resistance, AMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "耐药性（即抗药性）的一种。指部分微生物（尤为病原微生物）对原本敏感的抗生素产生高度耐受的特性。"
+  },
+  {
+   "cn": "表面抗湿性",
+   "en": "surface moisture resistance",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.19",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物表面抵抗被水润湿的能力。"
+  },
+  {
+   "cn": "抵制和平演变",
+   "en": "resist peaceful evolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0498",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "和平演变是20世纪50年代初美国的国务卿杜勒斯提出的对社会主义国家的一种“超越遏制战略”，以促使社会主义国家崩溃瓦解。毛泽东在1959年提出防止和平演变战略问题，并一直强调这个问题,号召共产党人同这种"
+  },
+  {
+   "cn": "反对资产阶级自由化",
+   "en": "resist bourgeois liberalization",
+   "source": "马克思主义",
+   "wordNumber": "03.0546",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党开展的对资产阶级自由化思潮的斗争。资产阶级自由化主要是指少数人借改革开放之机，宣扬一些怀疑和动摇党的四项基本原则的错误言论，在社会上造成人们的思想混乱，产生较大的影响。"
+  },
+  {
+   "cn": "酶抗水解性",
+   "en": "proteolysis resistance of enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.12",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶蛋白能够抵抗蛋白酶水解的影响，保持其生物活性的能力"
+  },
+  {
+   "cn": "病媒生物抗药性",
+   "en": "pesticides resistance in vector control",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.4",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "在长期的药物选择压力下，媒介生物具有耐受杀死大部分正常种群个体的药量能力，并在其种群内发展起来的现象。"
+  },
+  {
+   "cn": "多重耐药菌感染",
+   "en": "multiple drug-resistant bacterial infections",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "由临床使用的三类或三类以上抗菌药物同时呈现耐药的细菌而引起的感染。"
+  },
+  {
+   "cn": "食源性致病菌耐药性监测",
+   "en": "surveillance of foodborne pathogen antimicrobial resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.35",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对病人和食品中食源性致病菌分离株进行抗生素敏感性试验，掌握主要食源性致病菌的耐药水平和耐药趋势，为耐药性风险评估提供基础数据的监测过程"
+  },
+  {
+   "cn": "争取开明绅士",
+   "en": "persuade the enlightened gentry to resist against Japanese",
+   "source": "马克思主义",
+   "wordNumber": "03.0439",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的对待抗日战争和解放战争时期一部分具有民主色彩的地主和富农分子的政策。开明绅士是中间势力，争取开明绅士，有利于孤立中国革命的主要敌人。"
+  },
+  {
+   "cn": "争取地方实力派",
+   "en": "persuade regional power groups to resist against Japanese",
+   "source": "马克思主义",
+   "wordNumber": "03.0440",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于团结一切可以团结的力量去抗日的方针。毛泽东在《目前抗日民族统一战线的策略问题》中指出，地方实力派是中坚势力的组成部分。争取地方实力派的方针，是巩固和扩大抗日民族统一战线的重要条件之一。"
+  },
+  {
+   "cn": "抗美援朝战争",
+   "en": "War to Resist U S Aggression and Aid Korea",
+   "source": "马克思主义",
+   "wordNumber": "04.0263",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国人民解放军为援助朝鲜人民抵抗美帝国主义武装、保卫中国安全而进行的战争。从1950年10月19日志愿军入朝开始，到1953年7月27日交战双方签订停战协定结束。抗美援朝提高了新中国的国际威望，增强了"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

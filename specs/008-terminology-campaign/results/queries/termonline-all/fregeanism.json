@@ -1,0 +1,22 @@
+{
+ "key": "fregeanism",
+ "term": "Fregeanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:29:55+00:00",
+ "status": "ok",
+ "note": "variant=Fregeanism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新弗雷格主义",
+   "en": "neo-Fregeanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.306",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学哲学立场。在本体论上坚持实在论，认为数学对象是实在的，在认识论上认为抽象原则解释了如何认识数学对象特别是自然数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

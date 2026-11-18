@@ -1,0 +1,712 @@
+{
+ "key": "total preferences",
+ "term": "total preferences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:30:33+00:00",
+ "status": "ok",
+ "note": "variant=total preferences; 审定公布名词库=1438; 海峡两岸名词对照库=349; 其他来源数据库=58; 预公布名词数据库=103; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "全食",
+   "en": "total eclipse; totality",
+   "source": "天文学名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体视面全部被另一个天体的影子遮掩的现象。"
+  },
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "source": "草学名词",
+   "wordNumber": "2.0427",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "按照自己的意愿对可供选择的方案进行的排列(或提供判断值)。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "药学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对某种健康状态的意愿或倾向。通常体现为效用或价值。"
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "消费者对肉类品质的满意程度。"
+  },
+  {
+   "cn": "全固形物",
+   "en": "total solid,total matter",
+   "source": "建筑学名词",
+   "wordNumber": "14.1042",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "水中悬浮物和溶解固形物的总量。"
+  },
+  {
+   "cn": "全碱",
+   "en": "total alkali",
+   "source": "地质学名词",
+   "wordNumber": "04.01.065",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩石中氧化钠和氧化钾含量之和。一般用它们的质量分数之和（Na₂O+K₂O）来表示。碱含量在地壳和地幔中的变化较大，二者又是主要造岩元素中的易熔组分，故对源区岩浆的组成和部分熔融程度以及岩浆的演化过程具"
+  },
+  {
+   "cn": "甲状腺全切除术",
+   "en": "total thyroidectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "14.221",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "切除全部甲状腺组织的手术。"
+  },
+  {
+   "cn": "甲状旁腺全切除术",
+   "en": "total parathyroidectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "14.232",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "切除全部甲状旁腺组织的手术。主要用于肾性继发性甲状旁腺功能亢进症的治疗。"
+  },
+  {
+   "cn": "全胃切除术",
+   "en": "total gastrectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "17.234",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "切除包含自贲门到幽门的全部胃的手术。"
+  },
+  {
+   "cn": "全结肠切除术",
+   "en": "total colectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "19.219",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "将病变的回肠末端及升结肠、横结肠、降结肠、乙状结肠和直肠全部切除的手术。"
+  },
+  {
+   "cn": "眼外肌全麻痹",
+   "en": "total ophthalmoplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "15.029",
+   "subjectFullName": "医学_神经外科学_周围神经肿瘤_周围神经系统结构及其他疾病",
+   "subjectName": "周围神经系统结构及其他疾病",
+   "publishYear": "2026",
+   "definition": "一种罕见的由所有眼外肌麻痹导致眼球运动能力下降的疾病。为慢性、进行性、双侧性病变，以上睑下垂开始，逐渐出现眼球运动障碍，最终眼球固定不动。"
+  },
+  {
+   "cn": "全胰腺切除术",
+   "en": "total pancreatectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "23.237",
+   "subjectFullName": "医学_普通外科学_胰腺外科",
+   "subjectName": "胰腺外科",
+   "publishYear": "2026",
+   "definition": "联合切除全部胰腺、部分胃、十二指肠、远侧胆管及部分近段空肠，行胆管空肠及胃空肠吻合的手术。可保留脾或联合脾切除。"
+  },
+  {
+   "cn": "全腹壁整形术",
+   "en": "total abdominoplasty",
+   "source": "整形外科名词",
+   "wordNumber": "19.053",
+   "subjectFullName": "整形外科_躯干及四肢整形_胸腹壁整形术",
+   "subjectName": "胸腹壁整形术",
+   "publishYear": "2026",
+   "definition": "通过耻骨联合上切口，切除脐以下皮肤，对脐进行重新定位，同时矫正腹直肌过宽分离的腹壁整形术。"
+  },
+  {
+   "cn": "总变形",
+   "en": "total deformation",
+   "source": "地质学名词",
+   "wordNumber": "17.02.173",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "结构在受到载荷作用下产生的位移量,是反映一个结构刚度的量。岩石的总变形为弹性变形和残余变形之和。"
+  },
+  {
+   "cn": "甲状腺全切除术",
+   "en": "total thyroidectomy",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "03.159",
+   "subjectFullName": "甲状腺疾病_甲状腺手术",
+   "subjectName": "甲状腺手术",
+   "publishYear": "2025",
+   "definition": "切除范围包括两侧甲状腺腺叶加峡部的手术方法。"
+  },
+  {
+   "cn": "总固体",
+   "en": "total solid",
+   "source": "农学名词",
+   "wordNumber": "14.222",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "在规定条件下，生物质烘干至恒重去除水分后剩余的固体物质。"
+  },
+  {
+   "cn": "全聋",
+   "en": "total deafness",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.9.1.1.5",
+   "subjectFullName": "耳科_耳鸣耳聋",
+   "subjectName": "耳鸣耳聋",
+   "publishYear": "2025",
+   "definition": "双耳听力损失≥95dB，听不到言语声和大部分环境声的听力损失。"
+  },
+  {
+   "cn": "杓状软骨全切除术",
+   "en": "total arytenoidectomy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.32.12",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "完全切除杓状软骨的手术方式。适用于双声带麻痹的治疗。"
+  },
+  {
+   "cn": "喉全切除术",
+   "en": "total laryngectomy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.38.2",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "完整切除喉体的手术方式。"
+  },
+  {
+   "cn": "全体",
+   "en": "total",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse\",\"totality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "totality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全辐射",
+   "en": "total radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总压[力]",
+   "en": "total pressure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总能",
+   "en": "total energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总压力",
+   "en": "total pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "全导数",
+   "en": "total derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总发射系数",
+   "en": "total emissivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "全回流",
+   "en": "total reflux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总固体",
+   "en": "total solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总压头",
+   "en": "total head",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整体序列主义",
+   "en": "total serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "总星等",
+   "en": "total magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全合成",
+   "en": "total synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总酸度",
+   "en": "total acidity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总死亡率",
+   "en": "total mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总辐射量",
+   "en": "total radiation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贸易总额",
+   "en": "total trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总时间",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会总成绩",
+   "en": "Olympic total",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全能总分",
+   "en": "overall total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市全要素数字虚拟化",
+   "en": "urban total-factor digitalization and virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "涵泳",
+   "en": "Be Totally Absorbed (in Reading and Learning)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "source": "马克思主义",
+   "wordNumber": "05.0003",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "卢卡奇《历史和阶级意识》中的核心范畴。总体性是历史的总体，是客体与主体的统一；具体的总体，是直接性与中介性的统一；辩证的总体，是理论与实践的统一；革命的总体，是过程与目标的统一。"
+  },
+  {
+   "cn": "总酚",
+   "en": "total phenols",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "包括多元酚和一元酚的所有酚类物质的总和。"
+  },
+  {
+   "cn": "总氯",
+   "en": "total chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化合氯和游离氯之和。"
+  },
+  {
+   "cn": "总过滤",
+   "en": "total filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.31",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "固有过滤和附加过滤的总和。"
+  },
+  {
+   "cn": "总体史",
+   "en": "total history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种涉及社会生活的诸方面的历史，将不同领域视为一个整体的各个组成部分，而要理解其中任何一个领域，都要将其置于整体的历史之中。"
+  },
+  {
+   "cn": "总收入",
+   "en": "total income",
+   "source": "马克思主义",
+   "wordNumber": "02.0279",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "总生产中扣除了成本后的收入部分。总收入等于工资（或预定要重新成为工人收入的产品部分）+利润+地租。"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "总产量",
+   "en": "total production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "与一定的可变要素劳动的投入量相对应的最大产量。"
+  },
+  {
+   "cn": "全氮",
+   "en": "total nitrogen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.61",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "样品中的含氮物质（蛋白质及肽、胨及氨基酸等）中氮元素的总量，一般将含氮物质全部分解为氨后经测定计算出含氮总量。"
+  },
+  {
+   "cn": "总糖",
+   "en": "total sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.66",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）和非还原糖的总和。"
+  },
+  {
+   "cn": "总酸",
+   "en": "total acids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.67",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中所有能与氢氧化钠发生中和反应的各种酸的总和。"
+  },
+  {
+   "cn": "总减员",
+   "en": "total casualty",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.15.1",
+   "subjectFullName": "军事预防医学_军事预防医学_减员",
+   "subjectName": "减员",
+   "publishYear": "2025",
+   "definition": "参战人员在军事行动中所发生的减员，包括战斗减员和非战斗减员。"
+  },
+  {
+   "cn": "三卤甲烷总量",
+   "en": "total trihalomethanes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.9",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "在氯化等反应过程中形成的一类挥发性卤代烃类化合物的总和，包括氯仿、一溴二氯甲烷、二溴一氯甲烷和溴仿等。"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "总二氧化硫",
+   "en": "total sulfur dioxide",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.8",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "酒中以游离或结合形式存在的所有二氧化硫的总和。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "全身照射",
+   "en": "total body irradiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.5.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_部位分类",
+   "subjectName": "部位分类",
+   "publishYear": "2025",
+   "definition": "机体的所有组织或器官都受到电离辐射照射。"
+  },
+  {
+   "cn": "总和生育率",
+   "en": "total fertility rate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.1.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_出生",
+   "subjectName": "出生",
+   "publishYear": "2025",
+   "definition": "假定妇女按照当前的年龄别生育率度过育龄期，妇女平均活产的子女数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

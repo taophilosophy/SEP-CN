@@ -1,0 +1,782 @@
+{
+ "key": "democratic economy",
+ "term": "democratic economy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:47:37+00:00",
+ "status": "ok",
+ "note": "variant=democratic economy; 审定公布名词库=763; 海峡两岸名词对照库=266; 其他来源数据库=111; 预公布名词数据库=206; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "经济学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会物质资料的生产和再生产过程。包括物质资料的直接生产过程以及由它决定的交换、分配和消费过程，其内容包括生产力和生产关系两个方面。"
+  },
+  {
+   "cn": "民主技术",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类理性为追求民主价值，在特定条件下，经过长期实践形成和发展起来的民主操作体系。"
+  },
+  {
+   "cn": "技术民主",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.131",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "在技术领域内推行话语民主的理论。主要是在科学技术专家和政治家之间建立民主对话机制。"
+  },
+  {
+   "cn": "民主型风格",
+   "en": "democratic style",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0196",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "鼓励员工参与决策的制定过程，授权给员工，以反馈的方式达到指导员工的目的的领导行为特征维度。"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0369",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "通过职工代表大会等形式就经营管理等重大决策事项实施管理、参与、监督和协调的活动与民主督促和员工利益制度。"
+  },
+  {
+   "cn": "民主党",
+   "en": "Democratic Party",
+   "source": "世界历史名词",
+   "wordNumber": "03.0075",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美国两大政党之一，始建于1791年，1840年该党第三次全国代表大会上正式定名为民主党，在美国实行的两党制中与共和党轮流执政。"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "Democratic-Socialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1951年6月，社会党国际成立时公开提出的纲领性口号。打着社会主义的旗号，反对马克思主义，鼓吹通过资产阶级民主和资产阶级国家“和平进入”社会主义。"
+  },
+  {
+   "cn": "和平民主党人",
+   "en": "Peace Democrats",
+   "source": "世界历史名词",
+   "wordNumber": "03.0086",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "反对林肯政府战争政策的北方民主党人。"
+  },
+  {
+   "cn": "革命民主主义者",
+   "en": "Revolutionary Democrats",
+   "source": "世界历史名词",
+   "wordNumber": "05.0139",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "19世纪40年代末至70年代俄国农民民主主义思想家，平民知识分子时期解放运动的领导力量，社会民主主义者的先驱。"
+  },
+  {
+   "cn": "科学民主化",
+   "en": "scientific democratization",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家、专家体系与公众之间的互动过程。体现了现实生活中的民主制度对科学实践模式的影响。"
+  },
+  {
+   "cn": "媒体民主化",
+   "en": "media democratization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.03",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "民主理念引导下的一系列媒体改革实践。包括以强化民主观念和主体性为目标，以社会决策过程的平等参与为方向，改变媒体信息、体制、架构、生态(包括国家传播政策)的种种努力。其基本原则在于，让社会的每个部门、每"
+  },
+  {
+   "cn": "民主化创新",
+   "en": "democratizing innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0342",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "企业提供给用户功能强大的工具箱，让用户根据自己的需要主动地进行产品创新，或通过广泛采集创意，以用户需求为中心的自下而上的创新。"
+  },
+  {
+   "cn": "林业经济",
+   "en": "forestry economy",
+   "source": "风景园林名词",
+   "wordNumber": "13.0040",
+   "subjectFullName": "风景园林_其他_林学",
+   "subjectName": "林学",
+   "publishYear": "2025",
+   "definition": "以森林资源为基础，从事森林资源保护、开发与利用的一种经济活动体系。是国民经济体系中的一个重要组成部分。"
+  },
+  {
+   "cn": "原子经济性",
+   "en": "atom economy",
+   "source": "精细化工名词",
+   "wordNumber": "07.0169",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "在化学合成设计中，设法使原料分子中的所有原子全部变成最终目标产物中的原子，不伴随副产物及废料的生成，实现化学反应过程废料的零排放。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "农学名词",
+   "wordNumber": "19.202",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产目的主要是以商品交换为目的的经济形态。"
+  },
+  {
+   "cn": "二元经济",
+   "en": "dual economy",
+   "source": "农学名词",
+   "wordNumber": "19.203",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "发展中国家中现代工业部门和传统农业部门并存的经济形态。"
+  },
+  {
+   "cn": "混合经济",
+   "en": "mixed economy",
+   "source": "农学名词",
+   "wordNumber": "19.204",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "明显包含不同经济运行体制的经济形态。"
+  },
+  {
+   "cn": "合作经济",
+   "en": "cooperative economy",
+   "source": "农学名词",
+   "wordNumber": "19.209",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "劳动者通过自愿联合、民主管理及共同经营来获得服务和利益的经济形式。"
+  },
+  {
+   "cn": "集体经济",
+   "en": "collective economy",
+   "source": "农学名词",
+   "wordNumber": "19.210",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产资料和劳动产品归组织内劳动群众集体共同所有的公有制经济形式。"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）于1996年正式提出。指以知识和信息资源的拥有、配置、产出和"
+  },
+  {
+   "cn": "蒸汽经济",
+   "en": "steam economy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "循环经济",
+   "en": "circular economy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋经济",
+   "en": "marine economy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集聚经济",
+   "en": "agglomeration economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间经济",
+   "en": "spatial economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性经济体制",
+   "en": "destructive economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "学习[型]经济",
+   "en": "learning economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "本地化经济",
+   "en": "localization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化经济",
+   "en": "urbanization economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "外部经济",
+   "en": "external economies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资本密集型经济",
+   "en": "capital intensive economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "范畴经济",
+   "en": "economy of scope",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "规模经济",
+   "en": "economies of scales",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "预付款经济",
+   "en": "cash in-advance economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基础宏观经济模型",
+   "en": "macro economy base model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "小国开放经济模型",
+   "en": "small open economy model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节用",
+   "en": "Economy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络经济",
+   "en": "network economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能经济",
+   "en": "smart economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零工经济",
+   "en": "gig economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济",
+   "en": "Digital Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云经济",
+   "en": "cloud economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型经济",
+   "en": "Sharing Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用经济",
+   "en": "credit economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济",
+   "en": "Platform Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享经济",
+   "en": "sharing economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群经济",
+   "en": "community economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济体",
+   "en": "platform economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济体",
+   "en": "Digital Economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据经济",
+   "en": "Big Data Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新智能经济",
+   "en": "new intelligent economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民主化",
+   "en": "democratization",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.19",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "人民享有广泛治权（统治权利）的过程。民主的最初实践出现在希腊城邦时期。在希腊语中，民主是指具有平等的公民权的人们经过公开辩论后，通过大多数人的投票程序而对法律和政策做出集体决定。"
+  },
+  {
+   "cn": "经济",
+   "en": "economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0152",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们生产、流通、分配、消费一切物质精神资料的总称，人类经济活动就是创造、转化、实现价值，满足人类物质文化生活需要的活动。"
+  },
+  {
+   "cn": "民主运动",
+   "en": "democratic movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0114",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对独裁统治或专制统治，争取被统治阶级的民主权利的群众运动。它是被统治阶级反抗统治阶级的政治斗争的一种形式，通常具有进步意义。"
+  },
+  {
+   "cn": "民主共和国",
+   "en": "democratic republic",
+   "source": "马克思主义",
+   "wordNumber": "03.0279",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "国家元首和国家最高权力机关定期由选举产生的国家。它只是一种国家形式，在不同阶级专政的国家有不同性质。在奴隶社会、封建社会和资产阶级社会，民主共和国都是统治阶级专政的一种形式。无产阶级在推翻资产阶级统治"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "马克思主义",
+   "wordNumber": "03.0571",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主管理是相对于权威管理而言的，指管理者遵循公正的原则，采用民主的方式。比如：民主选举、民主决策、民主监督等，发挥成员的积极主动性，协调组织成员的行为，以实现个体的自我管理和组织的科学管理。"
+  },
+  {
+   "cn": "民主教育",
+   "en": "democratic education",
+   "source": "马克思主义",
+   "wordNumber": "03.0572",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主是一种政治制度，也是一种生活方式。通过理论学习、实践操作对人民群众进行社会主义民主知识教育，使之树立权利、义务、法治、公德等观念，做国家和社会的真正主人。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "民主集中派",
+   "en": "democratic centralist",
+   "source": "马克思主义",
+   "wordNumber": "04.0359",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄共（布）党内以季莫费·弗拉基米罗维奇·萨普龙诺夫（Timofe Vladimirovich Sapronov）为主要代表的反对派。其骨干分子曾为“左派共产主义者”。他们大谈“党内民主”，反对党的纪律"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "democratic socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0229",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "西方社会民主党（社会党、工党）思想体系与意识形态的总称。以自由、公正、民主、团结作为其基本价值观，主张用社会改良主义取代马克思主义，通过合法、阶级合作的途径实现社会主义。当代民主社会主义的基本理论是在"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "民族经济",
+   "en": "ethnic economy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "狭义上指多民族国家少数民族的经济；广义上主要是指一国家或地区为单位的民族经济。"
+  },
+  {
+   "cn": "殖民地经济",
+   "en": "colonial economy",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "受宗主国控制的附属国家或地区在经济发展上服从于宗主国的利益，工商业发展受到宗主国限制，经济结构单一，和宗主国存在着能源、原材料、劳动力和资本、工业制成品之间的不平等贸易的经济发展模式。"
+  },
+  {
+   "cn": "全球化经济",
+   "en": "global economy",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "主要的生产要素打破国界限制，形成了全球范围内的经济体系。20世纪80年代以来，主要由于贸易自由化和信息技术的迅猛发展，资本和劳动力都越来越打破国界限制，形成了全球性的生产、运输、贸易、消费网络。"
+  },
+  {
+   "cn": "实质经济学",
+   "en": "substantive economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "基于人类生存活动的实在主义范畴，即维持人的活动或者社会的存续而调用物质资源的过程，进行的经济学研究。这些范畴包括人类与自然之间以物质资源为媒介的互动，以及这些物质资源在人类社会内部的流动。在卡尔·波兰"
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.46",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "自20世纪末期以来围绕或源自特定产业（主要是信息技术、金融业，及生物科技）的经济形态。新经济的主要特征是信息主义、网络化和全球化。卡斯特尔(Manuel Castells)提出的概念。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "采集经济",
+   "en": "gathering economy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.29",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "以采集大自然中天然生长的动植物为生存条件的经济，是农耕和畜牧的生产手段出现之前人类获得食物的最基本手段。"
+  },
+  {
+   "cn": "政治经济学",
+   "en": "political economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0001",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以人类社会的生产关系或经济制度为研究对象的科学，主要阐明人类社会各个发展阶段上支配物质资料的生产、交换、分配和消费等经济活动的规律。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0031",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "直接以市场交换为目的的经济形式，包括商品生产和商品流通，是同生产发展的一定历史阶段相联系的经济形式。原始社会物物交换还未形成商品经济，商品经济是在自然经济的缝隙中生长的。而在资本主义社会，商品经济成为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

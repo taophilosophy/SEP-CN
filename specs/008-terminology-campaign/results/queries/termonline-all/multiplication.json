@@ -1,0 +1,752 @@
+{
+ "key": "multiplication",
+ "term": "multiplication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:32:33+00:00",
+ "status": "ok",
+ "note": "variant=multiplication; 审定公布名词库=775; 海峡两岸名词对照库=219; 其他来源数据库=21; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "乘法",
+   "en": "multiplication",
+   "source": "数学名词",
+   "wordNumber": "04.0020",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "乘性[的]",
+   "en": "multiplicative",
+   "source": "数学名词",
+   "wordNumber": "01.0072",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "乘数",
+   "en": "multiplicator",
+   "source": "数学名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多重数",
+   "en": "multiplicity",
+   "source": "物理学名词",
+   "wordNumber": "09.1261",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多重性",
+   "en": "multiplicity",
+   "source": "物理学名词",
+   "wordNumber": "09.1262",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多重性",
+   "en": "multiplicity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0326",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "对关联、聚合等关系的数量约束。表明该关系一端的类可以有多少个对象实例与另一端的一个对象实例发生关联或聚合。"
+  },
+  {
+   "cn": "倍数",
+   "en": "multiple",
+   "source": "数学名词",
+   "wordNumber": "04.0043",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "倍式",
+   "en": "multiple",
+   "source": "数学名词",
+   "wordNumber": "04.0530",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多重地震",
+   "en": "multiple earthquake; multiple shock",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0191",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "主要能量通过多次大小相近的事件释放的一次地震。 "
+  },
+  {
+   "cn": "多次波衰减",
+   "en": "multiple elimination; multiple attenuation",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0353",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "利用多次波与一次波的反射旅行时和速度差异，对多次波进行压制、衰减。"
+  },
+  {
+   "cn": "多发性静脉扩张",
+   "en": "multiple phlebectasia,multiple phlebectasis",
+   "source": "医学名词 第四分册",
+   "wordNumber": "03.212",
+   "subjectFullName": "医学_胃肠病学",
+   "subjectName": "胃肠病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复制周期",
+   "en": "multiplication cycle",
+   "source": "兽医学名词",
+   "wordNumber": "16.178",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "从病毒吸附于宿主细胞开始，到子代病毒从细胞释放出来为止的全过程。包括吸附、侵入、脱壳、合成、装配和释放。"
+  },
+  {
+   "cn": "乘常数",
+   "en": "multiplication constant",
+   "source": "测绘学名词",
+   "wordNumber": "02.490",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "对精测频率进行修正的改正因子。"
+  },
+  {
+   "cn": "倍增因子",
+   "en": "multiplication factor",
+   "source": "物理学名词",
+   "wordNumber": "09.0613",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "放大效应",
+   "en": "multiplication effect",
+   "source": "化学名词",
+   "wordNumber": "03.0725",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "利用多个彼此间存在化学计量关系的化学反应，直接或间接地使被测组分的表观存在量增大，以实现微量组分的准确测定。"
+  },
+  {
+   "cn": "位错增殖",
+   "en": "dislocation multiplication",
+   "source": "地质学名词",
+   "wordNumber": "09.06.021",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "晶体中的位错在一定形式的运动中，自身不断产生新的位错环或大幅度增加位错线长度，从而使晶体内位错数目或位错密度在不断增大的过程。"
+  },
+  {
+   "cn": "逆流倍增",
+   "en": "countercurrent multiplication",
+   "source": "兽医学名词",
+   "wordNumber": "04.397",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "肾直小血管或四肢皮肤血管出现溶质或热量的逆流交换，引起溶质浓度或热量成倍改变的现象。"
+  },
+  {
+   "cn": "种子扩繁",
+   "en": "seed multiplication ",
+   "source": "草学名词",
+   "wordNumber": "4.0185",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "胚细胞繁殖",
+   "en": "germinal multiplication",
+   "source": "动物学名词",
+   "wordNumber": "5.0958",
+   "subjectFullName": "动物学_无脊椎动物学_扁形动物门",
+   "subjectName": "扁形动物门",
+   "publishYear": "2021",
+   "definition": "复殖吸虫中胞蚴和雷蚴的胚团中产生胚细胞逐渐发育成下一个世代的胚体。是一种无性繁殖方式。"
+  },
+  {
+   "cn": "位错增殖",
+   "en": "dislocation multiplication",
+   "source": "冶金学名词",
+   "wordNumber": "07.0111",
+   "subjectFullName": "冶金学_金属学_晶体缺陷",
+   "subjectName": "晶体缺陷",
+   "publishYear": "2019",
+   "definition": "晶体中大量产生位错的机制。主要有三种①L型位错增殖机制和弗兰克-里德(Frank-Read)源；②多次交滑移增殖机制；③基于位错攀移的增殖机制。"
+  },
+  {
+   "cn": "增殖",
+   "en": "multiplication",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多程序[流]多数据[流]",
+   "en": "multiple program multiple data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多轨道-多卫星",
+   "en": "multiple orbit-multiple satellite",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增殖期",
+   "en": "multiplication period",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "放大效应",
+   "en": "multiplication effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "乘常数　",
+   "en": "multiplication constant",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "倍增因子",
+   "en": "multiplication factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "晶粒增殖",
+   "en": "grain multiplication",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "倍频",
+   "en": "frequency multiplication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雪崩倍增",
+   "en": "avalanche multiplication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增殖性生长",
+   "en": "multiplicative growth",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多胎妊娠",
+   "en": "multiple pregnancy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "复合突触",
+   "en": "multiple synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "复表皮",
+   "en": "multiple epidermis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复穿孔",
+   "en": "multiple perforation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复等位基因",
+   "en": "multiple allele",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复多胚[现象]",
+   "en": "multiple polyembryony",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复管孔",
+   "en": "multiple pore",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多次散射",
+   "en": "multiple scattering",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多次闪击",
+   "en": "multiple stroke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多利益攸关方",
+   "en": "multiple stakeholders",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多周空翻",
+   "en": "multiple smersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多次犯规",
+   "en": "multiple foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多输入多输出",
+   "en": "multiple-input multiple-output (MIMO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大规模多输入多输出天线阵列",
+   "en": "massive multiple-input multiple-output (MIMO) antenna array",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多中台协同",
+   "en": "multiple middle office collaboration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一数多权",
+   "en": "multiple ownership of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多渠道灵活就业",
+   "en": "flexible employment through multiple channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多重障碍",
+   "en": "combination of obstacles\",\"multiple obstacles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单线多头监管体制",
+   "en": "centralized regulation system with multiple regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双线多头监管体制",
+   "en": "dual regulation systems with multiple regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多重障碍",
+   "en": "combination\",\"combination of obstacles\",\"multiple obstacles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一源多用",
+   "en": "multiple uses of data collected from a single source",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乘积系数",
+   "en": "multiplication factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在金字塔模型中，多个层级低估系数的累积系数。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.3",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "同时存在两种或两种以上残疾的情况。"
+  },
+  {
+   "cn": "衰减倍数",
+   "en": "attenuation multiple",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.23",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之前某关心点处的周围剂量当量与设置屏蔽之后该点周围剂量当量的比值。"
+  },
+  {
+   "cn": "多元相关",
+   "en": "multiple correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，反映多于两个变量的变量间的线性关系的量度。用多元判定系数r2表示。"
+  },
+  {
+   "cn": "多元回归",
+   "en": "multiple regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.84",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一组自变量同单一因变量间关系的一组广泛的统计分析方法。"
+  },
+  {
+   "cn": "多元市场",
+   "en": "multiple market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.38",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为社会生活的经济方面受到非经济方面的深刻影响，从特定的市场到具体的经济活动都呈现出的高度异质化、多元化的特征。泽利泽指出，并不存在一个一般化的市场，只有一个市场谱系，该谱系上的每一点所代表的市场都由"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "存在两种或两种以上残疾。"
+  },
+  {
+   "cn": "多胎妊娠",
+   "en": "multiple pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.7.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一次妊娠宫腔内同时有两个及以上胎儿的妊娠。"
+  },
+  {
+   "cn": "相乘交互作用模型",
+   "en": "multiplicative interaction model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "描述两个危险因素（如吸烟和氡暴露）间相互作用的一种统计学模型。假定同时暴露于两个危险因素的相对危险是分别暴露于这两个危险因素的两个相对危险之积。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "多因素论",
+   "en": "multiple factors theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0135",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "反对从个别因素和单一变量入手，把周期性危机的产生归结为某一类型的经济危机理论，主张从各个因素和各个基本变量的相互作用和综合结果出发来阐释经济危机或经济周期。"
+  },
+  {
+   "cn": "多发性硬化",
+   "en": "multiple sclerosis, MS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.22",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "最常见的中枢神经系统特发性炎性脱髓鞘性疾病，主要的组织病理特征是白质多发的脱髓鞘斑块，血管周围炎症细胞浸润和星形胶质细胞增生。好发于青年女性，根据病程特点分为不同的临床类型。常见的临床表现可以有：视神"
+  },
+  {
+   "cn": "多发性骨髓瘤",
+   "en": "multiple myeloma, MM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.23",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一种浆细胞克隆性增生性疾病，来源于终末分化的B淋巴细胞的恶性肿瘤，其特征是骨髓被恶性浆细胞取代，骨质被破坏和异常免疫球蛋白大量生成，并通过多种机制产生一系列临床症状与体征。常见的临床表现为骨痛、贫血、"
+  },
+  {
+   "cn": "多元智力理论",
+   "en": "multiple intelligences theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "加德纳（Gardner）提出的智力包括一组相对独立的能力，而并非一种一般能力的理论。"
+  },
+  {
+   "cn": "多发出生缺陷",
+   "en": "multiple birth defects",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "同一个体发生两种或以上累及不同系统、器官、组织的出生缺陷。"
+  },
+  {
+   "cn": "相乘危险预测模型",
+   "en": "multiplicative risk projection model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "辐射危险估计的一种模型，假定受照射人群的癌症发病或死亡危险等于辐射导致的癌症发病或死亡相对危险与基线（正常）发病或死亡率之积。"
+  },
+  {
+   "cn": "多元包装消毒产品",
+   "en": "multiple packaging disinfection product",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "原料分为多个最小包装的消毒产品。"
+  },
+  {
+   "cn": "多重耐药菌感染",
+   "en": "multiple drug-resistant bacterial infections",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "由临床使用的三类或三类以上抗菌药物同时呈现耐药的细菌而引起的感染。"
+  },
+  {
+   "cn": "多次完整皮肤刺激试验",
+   "en": "multiple integral skin irritation tests",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "多次刺激完整的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点的试验。"
+  },
+  {
+   "cn": "放射性多器官损伤",
+   "en": "radiation-induced multiple organ injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射诱发的同时或相继出现两个或两个以上器官或系统的损伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

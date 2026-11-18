@@ -1,0 +1,432 @@
+{
+ "key": "proximity",
+ "term": "proximity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:52:47+00:00",
+ "status": "ok",
+ "note": "variant=proximity; 审定公布名词库=138; 海峡两岸名词对照库=41; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "接近性",
+   "en": "proximity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.066",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "新闻报道内容与读者之间在地域、文化、心理、知识、立场等方面具有的亲近关系或效应。接近性也与使用是否方便及民主、公正有关。"
+  },
+  {
+   "cn": "接近度",
+   "en": "proximity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0476",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反映两个对象在特定空间中距离的指标。"
+  },
+  {
+   "cn": "近端",
+   "en": "proximity",
+   "source": "古生物学名词",
+   "wordNumber": "04.0147",
+   "subjectFullName": "古生物学_古植物学_藻类",
+   "subjectName": "藻类",
+   "publishYear": "2009",
+   "definition": "突起或装饰与膜壳接触的最接近部分。"
+  },
+  {
+   "cn": "始端",
+   "en": "proximal",
+   "source": "动物学名词",
+   "wordNumber": "5.2551",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "苔藓动物个虫或群体靠近初虫或群体生长源的一端。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "手外科学名词",
+   "wordNumber": "03.0029",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "距肢体根部近端。解剖学方位术语。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0026",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "距肢根部较近者为近侧。"
+  },
+  {
+   "cn": "接近式光刻",
+   "en": "proximity printing,proximity lithography",
+   "source": "光学名词",
+   "wordNumber": "26.009",
+   "subjectFullName": "光学_激光加工技术",
+   "subjectName": "激光加工技术",
+   "publishYear": "2021",
+   "definition": "将拟制备图形的掩模板与涂有抗蚀剂或光刻胶的基底(如硅片)接近但不接触(间隙为10～50μm)的光刻工艺。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "天文学名词",
+   "wordNumber": "07.194",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "类星体光谱中的莱曼α吸收线在接近类星体处显著减少的现象，反映了类星体对周围星系际介质的影响。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.306",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_酶催化反应_酶",
+   "subjectName": "酶",
+   "publishYear": "2021",
+   "definition": "在酶促反应中，底物分子有向酶的活性中心靠近的趋势，最终结合到酶的活性中心，使底物和底物之间、酶的催化基团与底物之间结合于同一分子而使有效浓度极大地升高，从而使反应速率大大增加的一种效应。"
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximity analysis",
+   "source": "测绘学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "用于确定一个选定对象与其邻近对象关系的解析方法。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "电力名词",
+   "wordNumber": "01.107",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由于邻近导体中电流的影响而使导体内电流密度不均匀分布的现象。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "物理学名词",
+   "wordNumber": "08.3269",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "邻近势",
+   "en": "proximity potential",
+   "source": "物理学名词",
+   "wordNumber": "08.3272",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "接近传感器",
+   "en": "proximity sensor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "一种无需物理接触就能感知附近物体的传感器。常用于检测手机是否接近耳朵来控制是否关断显示屏，以节省电能。"
+  },
+  {
+   "cn": "接近度查询",
+   "en": "proximity query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0477",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反馈这样的文档集合，对于给定的两个数据项，每个结果文档中它们之间的距离小于一定阈值。"
+  },
+  {
+   "cn": "位置检索",
+   "en": "proximity search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0539",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用一些特定的位置算符来表达检索词与检索词之间的顺序和词间距的检索。"
+  },
+  {
+   "cn": "临近法",
+   "en": "proximity method",
+   "source": "计量学名词",
+   "wordNumber": "11.297",
+   "subjectFullName": "计量学_无线电_电磁兼容性",
+   "subjectName": "电磁兼容性",
+   "publishYear": "2015",
+   "definition": "一种将磁场施加于受试设备的方法。用一个小感应线圈沿受试设备的侧面移动，以便同时探测特别灵敏的部位。"
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximity analysis",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.291",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地理信息系统中，基于距离关系选取地理要素的一种空间分析方法。"
+  },
+  {
+   "cn": "近炸引信",
+   "en": "proximity fuze",
+   "source": "航天科学技术名词",
+   "wordNumber": "17.004",
+   "subjectFullName": "航天科学技术_引信",
+   "subjectName": "引信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "近炸引信",
+   "en": "proximity fuze",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.168",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "感受目标特性或由环境特性感觉其存在(从距离和/或方向上)而作用的引信。"
+  },
+  {
+   "cn": "邻近度",
+   "en": "proximity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端[的]",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端的",
+   "en": "proximal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "邻近查询",
+   "en": "proximity query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻近多边形",
+   "en": "proximity polygon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近贴聚焦",
+   "en": "proximity focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近因,直接原因",
+   "en": "proximate cause",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "邻近相互作用",
+   "en": "proximate interaction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "近端小管",
+   "en": "proximal tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近侧中心粒",
+   "en": "proximal centriole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极",
+   "en": "proximal pole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近[极]端",
+   "en": "proximal end",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极面",
+   "en": "proximal face",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近端刺激",
+   "en": "proximal stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximal analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "近侧区",
+   "en": "proximal region",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "《20192221-T-469 空间数据与信息传输系统 邻近-1空间链接协议 物理层》",
+   "en": "20192221-T-469 Space data and information transfer systems — Proximity-1 space link protocol — Physical layer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近端指间关节",
+   "en": "proximal interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.13",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "近节指骨和中节指骨之间的指间关节。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

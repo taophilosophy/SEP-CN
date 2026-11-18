@@ -1,0 +1,742 @@
+{
+ "key": "passive elements",
+ "term": "passive elements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:48:47+00:00",
+ "status": "ok",
+ "note": "variant=passive elements; 审定公布名词库=1531; 海峡两岸名词对照库=516; 其他来源数据库=75; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "无源二端元件",
+   "en": "passive two-terminal element",
+   "source": "计量学名词",
+   "wordNumber": "10.056",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "具有两个端子且又是无源的电路元件。"
+  },
+  {
+   "cn": "无源[电路]元件",
+   "en": "passive [electric circuit] element",
+   "source": "电气工程名词",
+   "wordNumber": "01.401",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "无源的",
+   "en": "passive",
+   "source": "电力名词",
+   "wordNumber": "01.181",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述电路元件或电路瞬时功率在初次对之供给电能之前的某一瞬间开始的任何时间间隔内的时间积分为非负的。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "精细化工名词",
+   "wordNumber": "05.0250",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "金属与氧化性介质作用，在金属表面生成一种薄而致密的钝化膜，使金属表面转化为不易被氧化的状态，延缓金属腐蚀速率的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.094",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_金属转化膜",
+   "subjectName": "金属转化膜",
+   "publishYear": "2021",
+   "definition": "在一定溶液中使金属阳极氧化超过一定数值后，金属溶解速率不但不增大，反而剧烈减小，这种使金属表面由活化态转变为钝态的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.097",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_金属转化膜",
+   "subjectName": "金属转化膜",
+   "publishYear": "2021",
+   "definition": "为形成钝态所必需的化学试剂。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.001",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "由金属与氧化性介质作用，在金属表面生成一种非常薄的、致密的、覆盖性能良好的、能坚固地附在金属表面上的钝化膜，因钝化膜而使金属腐蚀速率降低的现象。包括自钝化、化学钝化和电化学钝化。"
+  },
+  {
+   "cn": "致钝",
+   "en": "passivating",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.022",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀防护及监测",
+   "subjectName": "腐蚀防护及监测",
+   "publishYear": "2021",
+   "definition": "人为地促使金属制件迅速产生电化学钝化且生成耐蚀性最佳的钝化膜的阳极保护首要过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0527",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "因金属表面有腐蚀产物生成而出现的腐蚀速率明显降低的现象。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "电力名词",
+   "wordNumber": "09.486",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在经酸洗后的金属表面上用化学的方法进行流动清洗或浸泡清洗以形成一层致密的氧化铁保护膜的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "电力名词",
+   "wordNumber": "12.318",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在一定条件下,能通过其作用在金属表面形成一层致密氧化膜(钝化膜),以增强金属的防腐能力的化学药剂。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "冶金学名词",
+   "wordNumber": "08.0146",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "导致钝化的化学试剂。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "冶金学名词",
+   "wordNumber": "08.0138",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "因金属表面产生的钝化膜而造成的腐蚀速率的降低的现象。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.213",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "通过其作用在金属表面形成一层致密氧化膜(钝化膜)从而增强金属防腐能力的物质。"
+  },
+  {
+   "cn": "钝化作用",
+   "en": "passivation",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0150",
+   "subjectFullName": "化工（一）_加工工艺_催化裂化",
+   "subjectName": "催化裂化",
+   "publishYear": "2017",
+   "definition": "通过加入钝化剂或其他工艺手段，降低沉积于催化裂化催化剂上的镍、钒等重金属毒性的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "化学名词",
+   "wordNumber": "04.0745",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "用于对活性过高催化剂的表面进行改性使其活性回归到比较正常水平的操作所使用的物质。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "化学名词",
+   "wordNumber": "01.0388",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "金属经电化学或者化学方法处理后，在表面形成致密的氧化膜，使其性质由活性变为惰性的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0505",
+   "subjectFullName": "机械工程_动力机械_锅炉_运行、维修和故障_维修",
+   "subjectName": "维修",
+   "publishYear": "2013",
+   "definition": "在经酸洗后的金属表面上用钝化液进行流动清洗或浸泡清洗以形成保护层的方法。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0761",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料环境行为",
+   "subjectName": "材料环境行为",
+   "publishYear": "2011",
+   "definition": "某些金属或合金经过某种化学处理或电化学处理后由受腐蚀的活化状态转化为不活泼态即钝态的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被动地上芽植物",
+   "en": "passive chamaephyte",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被动扩散（=被动散布）",
+   "en": "passive dispersal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被动散布，被动扩散",
+   "en": "passive dispersal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被动吸收",
+   "en": "passive absorption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被动运输，被动转运",
+   "en": "passive transport",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被动转运（=被动运输）",
+   "en": "passive transport",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "钝化铁",
+   "en": "passive iron",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钝态",
+   "en": "passive state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "被动学习",
+   "en": "passive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "钝化膜",
+   "en": "passive film",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "被动散布",
+   "en": "passive dispersal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被动贸易",
+   "en": "passive trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "被动受托人",
+   "en": "passive trustee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无息债券",
+   "en": "bond passive",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无息债券",
+   "en": "passive bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "消极信托",
+   "en": "passive trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "被动[式]传感器",
+   "en": "passive sensor",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "消极",
+   "en": "passivity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极！",
+   "en": "Passivity!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极比赛",
+   "en": "passive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极运动员",
+   "en": "passive wrestler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动推挡",
+   "en": "passive block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动反击",
+   "en": "passive counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极比赛",
+   "en": "passive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极区",
+   "en": "passivity zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三才",
+   "en": "Three Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据元素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据要素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无源探测器",
+   "en": "passive detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.19",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "不需要外加电源的探测器。例如，热释光探测器和核乳胶探测器等。"
+  },
+  {
+   "cn": "非能动安全",
+   "en": "passive safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.25",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "不依赖外来的触发和动力源，而靠重力、蓄压势、设备承压能力等自然本性来实现安全功能的性能。"
+  },
+  {
+   "cn": "非能动部件",
+   "en": "passive components",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.26",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "无须依靠触发、机械运动或动力源等外部输入即能执行功能的部件。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体通过获得外源性免疫效应分子(如抗体等)或免疫效应细胞而获得的相应免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫能力。它与主产生的自动免疫不同，其特点是效应快，不需经过潜伏期，一经输入，立即可获得免疫力。但维持时间短。。"
+  },
+  {
+   "cn": "被动性购买",
+   "en": "passive purchasing",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者依据预先设定的预算约束或实际发生的医疗费用向服务提供者支付的模式。"
+  },
+  {
+   "cn": "被动干预",
+   "en": "passive intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过外因改变（如改善外界环境因素）来影响人们的行为。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由下级监测单位常规地向上级机构报告健康数据，而上级单位被动接受的一种监测方式。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "直接给机体输入免疫效应分子或免疫细胞使之获得相应免疫力的过程。"
+  },
+  {
+   "cn": "被动健康",
+   "en": "passive health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体或群体缺乏主动预防和健康管理的意识，在健康问题发生后，依赖医疗系统进行干预或治疗的过程。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "基层机构或个体报告食源性疾病事件，上级单位接受报告资料"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫力。"
+  },
+  {
+   "cn": "消极安乐死",
+   "en": "passive euthanasia",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.02",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "医生或法定授权执行人对某些身患不治之症、极度痛苦且本人有明确死亡要求的患者，为其提供致命药物等条件，由其本人实施终止自己生命的行为。"
+  },
+  {
+   "cn": "主动－被动型模式",
+   "en": "activity-passivity model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.075",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "萨斯-霍伦德模式中的一种。在此模式中，医患双方在知识、选择和决策的作用上并不处于对等或者平等地位，医生代表着绝对的权威且处于主动地位，患者被动接受诊断和治疗。主要应用于麻醉、急性创伤、昏迷的病人或者是"
+  },
+  {
+   "cn": "燃料元件",
+   "en": "fuel element",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核反应堆内具有独立结构的燃料使用单元。包括从单一的圆柱状短棒到结构复杂的大组件。通常指由燃料芯体和包壳组成的燃料单元，如燃料棒、燃料板和燃料球。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

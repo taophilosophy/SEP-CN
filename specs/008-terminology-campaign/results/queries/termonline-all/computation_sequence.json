@@ -1,0 +1,722 @@
+{
+ "key": "computation sequence",
+ "term": "computation sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:44:45+00:00",
+ "status": "ok",
+ "note": "variant=computation sequence; 审定公布名词库=1904; 海峡两岸名词对照库=827; 其他来源数据库=323; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "按照一组给定的指令对数据进行处理的过程。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "数学名词",
+   "wordNumber": "02.0262",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "source": "草学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0918",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "针对某个问题类，存在一个可在有限步内结束的能行计算过程。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "计算机科学技术_通论_计算机系统组成",
+   "subjectName": "计算机系统组成",
+   "publishYear": "2018",
+   "definition": "采用机械、机电、电子等方式实现的自动解算装置。主要指电子计算机。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "一种用于高速计算的电子计算机器，可以进行数值计算，又可以进行逻辑计算，还具有存储记忆功能。"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "数学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然计算",
+   "en": "natural computing,natural computation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "由自然界得到启发开发出新的解决问题方法，或应用计算机综合自然现象的方法，或利用天然材料(如生物大分子)进行计算的方法。"
+  },
+  {
+   "cn": "计算科学",
+   "en": "computing science,computational science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "（1）“计算机科学”的又称。（2）用计算的方法研究（物理、化学、生物等）其他学科领域的科学，如计算物理学、计算化学、计算生物学等。"
+  },
+  {
+   "cn": "普适计算",
+   "en": "ubiquitous computing,pervasive computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0064",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "由计算机提供的计算功能无处不在并与环境融为一体，使人们可在任何时间、任何地点、以任何方式进行信息的获取与处理的方法和技术。"
+  },
+  {
+   "cn": "计算地球物理学",
+   "en": "computation geophysics",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "将数值计算方法引入地球物理学，从物理学角度解决地球物理数据分析处理问题的数值计算学科。 "
+  },
+  {
+   "cn": "量子计算",
+   "en": "quantum computation",
+   "source": "光学名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "依照量子力学理论进行的新型计算。量子计算的基础和原理以及重要量子算法为在计算速度上超越图灵机模型提供了可能。"
+  },
+  {
+   "cn": "水文计算",
+   "en": "hydrological computation",
+   "source": "电力名词",
+   "wordNumber": "01.712",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "按一定目的对水文资料进行整理、分析,提供工程规划、设计、施工和管理所需的水文数据和成果的工作。"
+  },
+  {
+   "cn": "随机化计算",
+   "en": "randomized computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0354",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可以利用随机资源的计算。"
+  },
+  {
+   "cn": "演化计算",
+   "en": "evolutionary computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0251",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "一种通过模拟自然界的生物演化过程搜索最优解的方法。包含遗传算法、演化规划、演化策略、遗传程序设计等。"
+  },
+  {
+   "cn": "量子计算",
+   "en": "quantum computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0001",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "依照量子力学理论进行的新型计算。量子计算的基础和原理以及重要量子算法为在计算速度上超越经典计算机模型提供了可能。"
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0348",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对长度 n 的输入，它可以由<img src='/root/syzx/static/spz/jsjkx3.02.0348.001.png'/>个处理器同时进行的计算。 "
+  },
+  {
+   "cn": "非一致计算",
+   "en": "nonuniform computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0346",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对每一个长度的输入允许一个不同算法的计算。"
+  },
+  {
+   "cn": "可逆计算",
+   "en": "reversible computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0079",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "一种计算模型。它的计算过程是可逆的，即转换函数的前一个状态与下一个状态之间的关系，是一对一的反函数。在这种计算模型中，使用的能量很低，熵的增加会最小化，也就是说，它几乎不会产生额外的热。"
+  },
+  {
+   "cn": "检验计算",
+   "en": "checking computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1304",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "系统求解某个问题已得到结果，再利用其他方法重新求解以验证结果正确性的技术。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概算，初算",
+   "en": "field computation\",\"preliminary  computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "calculation\",\"computation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单元计算",
+   "en": "unit computation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算",
+   "en": "analog computation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算地理学",
+   "en": "computation geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "计算工具",
+   "en": "computation tool",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计算网络",
+   "en": "computation network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计算状态",
+   "en": "computation state",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大地计算",
+   "en": "geodetic computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内业计算",
+   "en": "office computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "网格计算",
+   "en": "grid computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非确定计算",
+   "en": "nondeterministic computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关键计算",
+   "en": "critical computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算复杂度",
+   "en": "computation complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算复杂性",
+   "en": "computation complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算思维",
+   "en": "Computational Thinking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算智能",
+   "en": "Computational Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算文化",
+   "en": "computational culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算可移植性",
+   "en": "computational portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法学",
+   "en": "computational jurisprudence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机断层扫描",
+   "en": "Computed Tomography",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "基于数学和计算机模型，采用化学信息学、生物信息学、机器学习等手段，揭示化学物环境暴露、危害性与风险性之间定性和定量关系，研究绿色化学品分子设计从而进行风险控制的毒理学分支学科。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种能从不同角度拍摄体内放射性药物浓度分布图，经计算机处理，重建核素在体内各截面的分布及立体分布图的核素显像技术。分单光子发射计算机体层显像（SPECT）和正电子发射计算机体层显像（PET）。"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "为舒适使用电脑工作，电脑布置、使用电脑的姿势和使用环境所需要达到的要求。"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "交互计算机基于个体对条目的反应继续或结束测量的自适应测试形式。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  },
+  {
+   "cn": "工业计算机X射线断层扫描探伤",
+   "en": "industrial X-ray computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.2.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "使用工业X射线CT装置，以二维断层图像或三维立体图像的形式，展示被检测物体内部结构、组成、材质及缺损状况的工作过程。"
+  },
+  {
+   "cn": "计算机辅助访谈",
+   "en": "computer-assisted personal interviewing，CAPI",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "回答人或访谈员位于计算机的终端，使用键盘或鼠标将回答人对问卷的答案输入计算机中的一种访谈方式。"
+  },
+  {
+   "cn": "电脑桌下空区",
+   "en": "empty space under computer desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑桌下，能够满足使用者腿部自由活动的空间。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

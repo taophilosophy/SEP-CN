@@ -1,0 +1,752 @@
+{
+ "key": "increased specificity",
+ "term": "Increased specificity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:36:39+00:00",
+ "status": "ok",
+ "note": "variant=Increased specificity; 审定公布名词库=903; 海峡两岸名词对照库=363; 其他来源数据库=88; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "增龄",
+   "en": "age increase",
+   "source": "急救医学名词",
+   "wordNumber": "03.890",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "年龄不断地增加。在老年流行病学中是指个体发育达到成熟期以后，随着年龄增长所致的衰老变化。"
+  },
+  {
+   "cn": "增龄",
+   "en": "age increase",
+   "source": "老年医学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "年龄不断的增加。在老年流行病学中，是指个体发育达到成熟期以后，随着年龄增加所致的衰老变化。"
+  },
+  {
+   "cn": "增长曲线",
+   "en": "increasing curve",
+   "source": "核医学名词",
+   "wordNumber": "03.0061",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_核药物生产装置",
+   "subjectName": "核药物生产装置",
+   "publishYear": "2018",
+   "definition": "发生器中，子体核素的放射性活度随时间变化的曲线。"
+  },
+  {
+   "cn": "阶段提升",
+   "en": "graduated increasing",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0145",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "增函数",
+   "en": "increasing function",
+   "source": "数学名词",
+   "wordNumber": "05.0053",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非增",
+   "en": "non-increasing",
+   "source": "数学名词",
+   "wordNumber": "05.0056",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "增算子",
+   "en": "increasing operator",
+   "source": "数学名词",
+   "wordNumber": "07.0366",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "增过程",
+   "en": "increasing process",
+   "source": "数学名词",
+   "wordNumber": "09.0243",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "颅内压增高",
+   "en": "increased intracranial pressure",
+   "source": "急救医学名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "急救医学_日常医学急救_外科学_颅内压增高与脑疝",
+   "subjectName": "颅内压增高与脑疝",
+   "publishYear": "2025",
+   "definition": "正常成人颅内脑脊液压力超过1.96kPa（200mmH2O）的现象。常以头痛、呕吐、视盘水肿为主要表现。可由颅脑损伤、肿瘤、血管病、脑积水、炎症等多种病理损害导致。"
+  },
+  {
+   "cn": "肌张力增高",
+   "en": "increased muscle tone",
+   "source": "肝病学名词",
+   "wordNumber": "8.8.1.3",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化其他并发症",
+   "subjectName": "肝硬化其他并发症",
+   "publishYear": "2024",
+   "definition": "安静状态下肌肉紧张度异常增加的状态。触摸肌肉有坚实感，伸屈肢体时阻力增加。"
+  },
+  {
+   "cn": "警觉性增高",
+   "en": "hypervigilance;increased alertness",
+   "source": "行为医学名词",
+   "wordNumber": "10.098",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "一种自发性的持续高度警觉状态。常表现为过度警觉、惊跳反应增强、注意力不集中、焦虑、易激惹、头痛、睡眠障碍等。"
+  },
+  {
+   "cn": "颅内压增高",
+   "en": "increased intracranial pressure",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "全科医学与社区卫生_社区急诊",
+   "subjectName": "社区急诊",
+   "publishYear": "2014",
+   "definition": "颅内压超过200mmHg的现象。常伴有头痛、呕吐、视乳头水肿等临床表现。"
+  },
+  {
+   "cn": "膀胱感觉敏感",
+   "en": "increased bladder sensation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.092",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_神经源性膀胱和肠道功能障碍",
+   "subjectName": "神经源性膀胱和肠道功能障碍",
+   "publishYear": "2014",
+   "definition": "在低容量时就出现膀胱初感觉，并持续存在或伴有提前出现的排尿感，和/或伴有提前出现的强烈排尿感的现象。"
+  },
+  {
+   "cn": "增安型电气设备",
+   "en": "increased safety equipment",
+   "source": "船舶工程名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "船舶工程_船舶电气",
+   "subjectName": "船舶电气",
+   "publishYear": "1998",
+   "definition": "在正常运行条件下不会产生电弧、火花或可能点燃爆炸性混合物的高温的设备结构上，采取措施提高安全程度，以避免在正常和认可的过载条件下出现这些现象的电气设备。"
+  },
+  {
+   "cn": "颅内压增高",
+   "en": "increased intracranial pressure",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.019",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "增阻侵入",
+   "en": "increased resistance invasion",
+   "source": "石油名词",
+   "wordNumber": "04.0112",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "增殖率",
+   "en": "increase rate,IR",
+   "source": "畜牧学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "本年度内出生仔畜在年终的实际数占本年度初或上年度终畜群总头数的百分率。"
+  },
+  {
+   "cn": "谐波齿轮增速器",
+   "en": "harmonic gear increaser",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0422",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "输出轴转速大于输入轴转速的谐波齿轮传动装置。"
+  },
+  {
+   "cn": "增长率",
+   "en": "rate of increase",
+   "source": "动物学名词",
+   "wordNumber": "7.0382",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "单位时间内种群增长数与种群总数量之比。"
+  },
+  {
+   "cn": "增输率",
+   "en": "flow increase rate",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.253",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "相同条件下，加入减阻剂时的流量与不加时流量相比增加的程度。以百分数表示。"
+  },
+  {
+   "cn": "净增加量",
+   "en": "net increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增资",
+   "en": "capital increase",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通透性增高因子",
+   "en": "permeability increasing factor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内禀增长率,内禀增长力",
+   "en": "intrinsic rate of increase\",\"innate capacity for increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "熵增原理",
+   "en": "principle of entropy increase",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然增长率",
+   "en": "rate of natural increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "熵增原理",
+   "en": "principle of entropy increase",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群无限制增长",
+   "en": "unchecked increase of population",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何增长率",
+   "en": "geometric rate of increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有限增长率,周限增长率",
+   "en": "finite rate of increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内禀增长率",
+   "en": "intrinsic rate of increase",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时增长率",
+   "en": "instantaneous rate of increase",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内禀增长率",
+   "en": "intrinsic rate of increase",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有限增长率",
+   "en": "finite rate of increase",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "内禀增长率",
+   "en": "intrinsic rate of increase",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "内禀自然增长率",
+   "en": "intrinsic rate of natural increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有限自然增长率",
+   "en": "finite rate of natural increase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "金价上升",
+   "en": "increase in price of gold",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特异性，专一性",
+   "en": "specificity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专一性（=特异性）",
+   "en": "specificity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加桨频",
+   "en": "increase the rating",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加快步频",
+   "en": "increase the stride rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增加体重",
+   "en": "increase of the bodyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特效药",
+   "en": "specific medicine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_药品名称",
+   "subjectName": "药品名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特异性抗体",
+   "en": "specific antibody",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增加重量",
+   "en": "increase of weight\",\"progress of the loading\",\"weight progression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特定传染病",
+   "en": "specific infectious disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多种方式扩大产能和增加产量",
+   "en": "to expand capacity and increase output in a variety of ways",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "休养生息",
+   "en": "Recover from a Social Upheaval and Restore Production / Develop Economy and Increase Population",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专用集成电路",
+   "en": "application-specific integrated circuit (ASIC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GM/T 0024-2014 SSL VPN 技术规范》",
+   "en": "GM/T 0024-2014 SSL VPN specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "业务过程规范类标准",
+   "en": "standard for business process specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫同扶志扶智结合",
+   "en": "the combination of poverty alleviation and increasing people's confidence and enriching their knowledge",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人口增长",
+   "en": "population increase",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "特定时间内，出生、死亡和迁移的相互作用导致人口总量的增加。"
+  },
+  {
+   "cn": "扩大内需",
+   "en": "increase domestic demand",
+   "source": "马克思主义",
+   "wordNumber": "02.0418",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政府为克服总需求不足和经济下滑趋势所采取的扩大国内需求的调控政策。一般通过发行国债等积极财政货币政策，启动投资市场；通过信贷等经济杠杆，启动消费市场，以拉动经济增长。扩大内需包括投资需求和消费需求，重"
+  },
+  {
+   "cn": "增鲜味精",
+   "en": "increase fresh monosodium glutamate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.24",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "在味精（谷氨酸钠含量不低于99%）中定量添加呈味核苷酸二钠等增鲜剂后均匀混合，且产品中谷氨酸钠含量不低于97%但鲜味度超过混合前味精的增鲜调味品。"
+  },
+  {
+   "cn": "规模收益递增",
+   "en": "increasing return to scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.4.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "当所有生产要素等比例增长时，产量增长的比例超过生产要素增长比例的状态。"
+  },
+  {
+   "cn": "规范",
+   "en": "specification",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.10",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "规定产品、过程或服务应满足的技术要求以及用于判定其要求是否得到满足的证实方法的标准。"
+  },
+  {
+   "cn": "规格",
+   "en": "specification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.10",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "针对生产的成品或所使用的原材料等规定的质量标准，足以反映供消费者选择食品产品品质用的主要指标，如成分、含量、纯度、性能、容量等。如同一预包装内含有多件预包装食品时，对净含量和内含件数关系的表述。"
+  },
+  {
+   "cn": "资产专用性",
+   "en": "assets specificity",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.24",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "某种资产只有当和某项特殊用途结合在一起时才更有价值的性质。若改作他用，其价值基本体现不出来，或者即使有价值，但与为了获得这项资产所进行的投入相比，资产所有者也损失较大。资产专用性越高，资产所有者在与需"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "比能",
+   "en": "specific energy",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.15",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "在一小体积元中单次或多次能量沉积事件的授予能与该体积元质量的比值。是属于微剂量学的随机量。符号为z。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "媒体规范",
+   "en": "media specification",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.6",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "媒体行业各成员共有的行为准则和道德标准，是大众传媒为约束自身行为所确立起来的各种规定和守则。"
+  },
+  {
+   "cn": "特异性抗原",
+   "en": "specific antigen",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "被淋巴细胞抗原受体所识别的特定抗原。"
+  },
+  {
+   "cn": "特异性中毒",
+   "en": "specific poisoning",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.2.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "机体暴露于特定毒物后，因毒物本身的化学结构、代谢特性或作用机制，对特定靶器官、组织或细胞产生选择性损伤，进而引发具有特征性临床表现或病理改变的毒性效应。"
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject specific counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业心理健康机构，针对公众所关心的、较为普遍的学生心理健康问题，在报刊、电台、互联网等大众传播媒介进行专题讲座和答疑。"
+  },
+  {
+   "cn": "专项监测",
+   "en": "specific project monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对我国近期发生的某些重大食品安全事件机器对我国某些特殊低质结构区域、污染区域中指示性食品开展的监测"
+  },
+  {
+   "cn": "比生长速率",
+   "en": "specific growth rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.104",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单位质量菌体在单位时间内所增加的菌体量，是表征微生物生长速率的一个参数。可以通过微生物生长曲线拐点所画的切线斜率来估计。"
+  },
+  {
+   "cn": "年龄相关发病率",
+   "en": "age-specific incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.16",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区某年龄段人口中患某类疾病的人数所占比例。"
+  },
+  {
+   "cn": "疾病特异型量表",
+   "en": "disease-specific measure",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "适用于特定疾病患者生命质量测定的量表。体现特定疾病患者特征及其所关注的问题。较通用型量表敏感。"
+  },
+  {
+   "cn": "特定婚配",
+   "en": "specific marriage matches",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0356",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由社会习俗所指定、鼓励、允许或优先结为夫妻的婚姻形式。特定婚配的类型最常见的为姑舅表婚。在传统社会中，违反特定婚配的习俗常常会招致非议。"
+  },
+  {
+   "cn": "非特异性中毒反应",
+   "en": "non-specific poisoning reaction",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.2.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "机体暴露于化学物质、生物毒素等毒物后，因毒物的直接损伤、全身应激或多因素协同作用，引发的无明确靶器官选择性、临床表现缺乏特征性的毒性效应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

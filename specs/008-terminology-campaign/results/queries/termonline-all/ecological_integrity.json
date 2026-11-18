@@ -1,0 +1,712 @@
+{
+ "key": "ecological integrity",
+ "term": "ecological integrity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:42:48+00:00",
+ "status": "ok",
+ "note": "variant=ecological integrity; 审定公布名词库=2727; 海峡两岸名词对照库=907; 其他来源数据库=140; 预公布名词数据库=189; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "生态整合",
+   "en": "ecological integrity",
+   "source": "生态学名词",
+   "wordNumber": "17.024",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "按生态学原理将破碎的过程、景观、产业和文化在生态系统尺度上重新耦合的过程。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrality;integrity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。"
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0005",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "20世纪中期对环境危机反思而生，主张转变人类与自然的关系，强调自然的限度、挑战人类中心主义的价值观，呼吁进行广泛的改革措施。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "风景园林名词",
+   "wordNumber": "01.0152",
+   "subjectFullName": "风景园林_总论_风景园林相关学科",
+   "subjectName": "风景园林相关学科",
+   "publishYear": "2025",
+   "definition": "研究生命系统与其环境之间相互关系的一门学科。"
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以注重生态系统整体和谐稳定为首要价值及以人类尊重自然生态规律为行为规范的思想范式。是秉持生态环保观念和自然价值的社会有识之士在20世纪60～70年代倡导的、寻求解决区域及全球生态环境问题的观念架构及思"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "计划生育名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "研究生命系统内及其与环境之间相互关系的科学。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "大气科学名词",
+   "wordNumber": "08.139",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "研究生物之间及生物与非生物环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究生命系统与其环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "水产名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "研究生物与其周围环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.080",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.020",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件信息齐全且未被破坏、变异和丢失的特性。完整的文件满足以下条件：第一，每一份文件的内容、结构和背景信息没有缺损；第二，作为记录机构活动真实面貌的、具有有机联系的多份电子文件及其他形式的相关文件数量齐"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。需要评估遗产符合以下特征的程度：①包括所有表现其突出普遍价值的必要因素；②面积足够大，确保能完整地代表体现遗产价值的特色和过程；③受到发展的负面影"
+  },
+  {
+   "cn": "整体性",
+   "en": "integrity",
+   "source": "冶金学名词",
+   "wordNumber": "05.1629",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "流程各个组元按照一定工艺思想组织成一个多层次的结构，各个组元的运行和上、下游组元协调，使流程整体功能和效率大于各个组元的简单叠加，呈现新的功能和属性。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0205",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据库完整性指在传输、存储信息或数据的过程中，确保信息或数据不被未授权的篡改或在篡改后能够被迅速发现。完整性由各种各样的完整性约束来保证，因此可以说数据库完整性设计就是数据库完整性约束的设计。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0059",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "数据受到保护而不会在未经授权或偶然的情况下被更改或破坏。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "信息未经授权不能进行改变的特性。即网络信息在存储或传输过程中保持不被偶然或蓄意地删除、修改、伪造、乱序、重放、插入等行为破坏和丢失的特性。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "地理学名词",
+   "wordNumber": "24.098",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "确定自然遗产的基本条件，应包含所有相互依存构成的自然面貌的要素，或展示生态系统和生物多样性的关键要素，或保持自然美。"
+  },
+  {
+   "cn": "集成度",
+   "en": "integrity",
+   "source": "电子学名词",
+   "wordNumber": "14.228",
+   "subjectFullName": "电子学_半导体器件与集成电路",
+   "subjectName": "半导体器件与集成电路",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "integrity",
+   "source": "自动化名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将要素或子系统组合成具有结构和功能的系统，以实现系统要素或子系统之间的资源共享和协同工作，形成更有价值和效率的新整体。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集成度",
+   "en": "○1integrity○2integration level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分",
+   "en": "integral",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整合[作用]",
+   "en": "integration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生态冲击",
+   "en": "ecological impact\",\"ecological backlash",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态价，生态值",
+   "en": "ecological valence\",\"ecological value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态值（=生态价）",
+   "en": "ecological valence\",\"ecological value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态农业",
+   "en": "ecological agriculture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态文化",
+   "en": "ecological culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络化诚信",
+   "en": "networked integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性",
+   "en": "data integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性服务",
+   "en": "integrity service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "生物在一定的自然环境下生存和发展的状态，也指生物的生理特性和生活习性。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "生态恢复",
+   "en": "ecological restoration",
+   "source": "消毒学",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "恢复被损害的生态系统到接近于被损害前的自然状况的过程，即重建该系统干扰前的结构与功能及有关的物理、化学和生物学特征的过程。"
+  },
+  {
+   "cn": "生态修复",
+   "en": "ecological remediation",
+   "source": "消毒学",
+   "wordNumber": "7.1.12",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "对生态系统停止人为干扰，以减轻负荷压力，依靠其自我调节能力与自我组织能力向有序的方向进行演化，或者利用其自我恢复能力，辅以人工措施，使遭到破坏的生态系统逐步恢复或使生态系统向良性循环方向发展。"
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于生态学研究以各个不同情况的个体“集合”而成的群体（组）为观察和分析的单位，以及存在的混杂因素等原因而造成研究结果与真实情况不符的现象。"
+  },
+  {
+   "cn": "生态谬误",
+   "en": "ecological fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据较高层次上分析单位的研究结论推论较低层次上分析单位的特征所产生的推理错误。"
+  },
+  {
+   "cn": "生态效度",
+   "en": "ecological validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估在特定环境下（实验室环境）使用的测量工具能否刻画其他环境条件（日常环境或自然环境）下个体的认知过程的量度。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "将人文理念、生态意识和对资本主义的分析批判结合起来，重新认识资本主义和生态的冲突的理论。是面对日趋严重的全球生态危机，思考生态问题产生原因和寻求人类自身发展出路的的重要理论之一。"
+  },
+  {
+   "cn": "生态非理性",
+   "en": "ecological irrationality",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.11",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "“理性的强化”在自然范畴的应用，我们越想依照严格计算的原则办事，就越有可能为蜂拥而来的负面意外打开大门，表现为由技术灾难所带来的各种各样的破坏性后果。"
+  },
+  {
+   "cn": "生态现代化",
+   "en": "ecological modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种针对环境危害的新的发展理念。以发挥生态优势推进现代化进程，实现经济发展和环境保护的双赢，加快推进发展模式由先污染后治理向生态亲和型转变，决不能以牺牲环境为代价换取一时的发展。"
+  },
+  {
+   "cn": "生态效率",
+   "en": "ecological efficiency",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.6",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "用来测量每单位生产的生态影响和经济繁荣的程度。"
+  },
+  {
+   "cn": "生态文明",
+   "en": "ecological civilization",
+   "source": "马克思主义",
+   "wordNumber": "04.0206",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "人类遵循人、自然、社会和谐发展这一客观规律而取得的物质与精神成果的总和。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0079",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末从西方马克思主义研究内部分化出来的一种流派，主要特点是把生态学纳入马克思主义视野中，运用马克思主义立场、观点和方法去分析资本主义的生态危机，探索解决危机的途径，用生态学补充马克思主义"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "生态人类学",
+   "en": "ecological anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.022",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科，主要运用生态学的研究方法，研究生态环境对人的影响，以及人如何利用和改造生态环境的各种问题，并提出具体办法使人类更有效地适应自然环境，从而为人类服务。"
+  },
+  {
+   "cn": "生态位",
+   "en": "ecological niche",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0222",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个种群在生态系统中，在时间空间上所占据的位置及其与相关种群之间的功能关系与作用。"
+  },
+  {
+   "cn": "生态民俗",
+   "en": "ecological folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.049",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "带有自然生态印记和特点的民俗事象，是生态民俗学的主要研究对象。"
+  },
+  {
+   "cn": "生态学模式",
+   "en": "ecological model",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将健康视为宿主、环境和病原体之间相互作用的动态平衡，平衡被破坏即导致疾病的医学观和方法论。"
+  },
+  {
+   "cn": "社会生态学",
+   "en": "social ecology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "研究人类社会系统与其环境（包括自然环境与社会文化环境）相互作用规律的交叉学科，包括根据这些规律所制定的既有利于人类社会生存发展，又有助于维护自然生态平衡和天人和谐关系的最优化社会活动方案。由美国社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

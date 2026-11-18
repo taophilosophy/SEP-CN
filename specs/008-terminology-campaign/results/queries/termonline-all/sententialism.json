@@ -1,0 +1,62 @@
+{
+ "key": "sententialism",
+ "term": "Sententialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:32:56+00:00",
+ "status": "ok",
+ "note": "variant=Sententialism; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "右句型",
+   "en": "right sentential form",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0552",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "最右推导所产生的句型。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern,sentential form",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0554",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "文法的推导过程中，从初始符S开始，每一步所得到的由变量和终极符组成的串。"
+  },
+  {
+   "cn": "命题变元",
+   "en": "propositional variable,sentential variable",
+   "source": "数学名词",
+   "wordNumber": "02.0024",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "右句型",
+   "en": "right sentential form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

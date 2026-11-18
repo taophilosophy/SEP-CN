@@ -1,0 +1,752 @@
+{
+ "key": "inclusion",
+ "term": "inclusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:33:20+00:00",
+ "status": "ok",
+ "note": "variant=inclusion; 审定公布名词库=653; 海峡两岸名词对照库=115; 其他来源数据库=36; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "包含",
+   "en": "inclusion,include",
+   "source": "数学名词",
+   "wordNumber": "01.0081",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "兽医学名词",
+   "wordNumber": "08.043",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "储存于细胞质内具有一定形态的营养物或代谢产物。如糖原、脂类、色素颗粒和分泌颗粒等。"
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.303",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "由于焊接冶金反应产生的、焊后残留在焊缝金属中的微观非金属杂质。如氧化物、硫化物等。"
+  },
+  {
+   "cn": "包涵物",
+   "en": "inclusion",
+   "source": "动物学名词",
+   "wordNumber": "1.0155",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "细胞质中具有一定形态的各种代谢产物和贮存物质的总称。包括分泌颗粒、糖原颗粒、色素颗粒、脂滴等。"
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "冶金学名词",
+   "wordNumber": "03.0027",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "矿物生长过程中或形成后所捕获而包裹在内部的外来物质。其大小不一，但一般很细小，既可是矿物晶体，也可是气体、液体或非晶质体，以气体和液体共存的气液相包裹体较为常见。"
+  },
+  {
+   "cn": "夹杂",
+   "en": "inclusion",
+   "source": "冶金学名词",
+   "wordNumber": "07.0607",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "金属中含有非成分及非性能所要求的物质。有金属夹杂、非金属夹杂、混合夹杂，有表面夹杂及内部夹杂。"
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "物理学名词",
+   "wordNumber": "08.0509",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "林学名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "林学_木材科学与技术_木材性质",
+   "subjectName": "木材性质",
+   "publishYear": "2016",
+   "definition": "导管分子内的填充物。常见的有侵填体和无定形的树胶、树脂或白垩质等。"
+  },
+  {
+   "cn": "[细胞]内含物",
+   "en": "inclusion",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "散在于细胞质中的异体物质或滞留于细胞内的一些产物。"
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0549",
+   "subjectFullName": "材料科学技术_天然材料_木材_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "导管分子内的填充物。最常见的有侵填体和无定形的树胶、树脂或白垩质等，淀粉或晶体属稀有存在。"
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.344",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "包合作用",
+   "en": "clathration,inclusion",
+   "source": "化学名词",
+   "wordNumber": "01.0440",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "某些客体分子嵌入主体分子的笼中或晶格中的过程。"
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion;enclosure",
+   "source": "地质学名词",
+   "wordNumber": "03.01.123",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物在生长过程中所捕获的包裹在晶体内的外来物质。其与主矿物存在着相界限，大小和形状不一，固态、液态和气态均有。"
+  },
+  {
+   "cn": "包涵体",
+   "en": "inclusion body",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0755",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）在生物工程中，指细胞或细菌中高表达的蛋白质（也可以汇同其他细胞成分）聚集而成的不溶性颗粒。（2）在病毒感染的细胞中由病毒粒子聚集成的颗粒。（3）在细胞或细菌中形成的聚集物实体。如贮藏颗粒等。"
+  },
+  {
+   "cn": "包涵体",
+   "en": "inclusion body",
+   "source": "兽医学名词",
+   "wordNumber": "16.220",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "用光学显微镜在病毒感染的细胞中所观察到的一种异常染色区域。通常是新合成的病毒颗粒或尚未装配的病毒组分或者是因病毒感染后发生变化的一些细胞成分。"
+  },
+  {
+   "cn": "接纳需求",
+   "en": "inclusion needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.099",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。个人建立各种社会关系并被群体容纳的需要或缺乏。"
+  },
+  {
+   "cn": "包含体",
+   "en": "inclusion body",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "04.049",
+   "subjectFullName": "化工（六）_生化分离工程_酶固定化_细胞破碎",
+   "subjectName": "细胞破碎",
+   "publishYear": "2021",
+   "definition": "重组蛋白质的高表达常常导致其在胞内发生错误折叠和聚集，从而形成的由膜包裹的高密度、不溶性蛋白质颗粒。"
+  },
+  {
+   "cn": "包涵囊肿",
+   "en": "inclusion cyst",
+   "source": "手外科学名词",
+   "wordNumber": "05.1137",
+   "subjectFullName": "手外科学_手外科学分论_上肢肿瘤",
+   "subjectName": "上肢肿瘤",
+   "publishYear": "2020",
+   "definition": "上皮组织碎屑随致伤物或异物进入皮下组织或骨组织，进入深部的表皮细胞不断繁殖而形成的囊肿。"
+  },
+  {
+   "cn": "包涵体",
+   "en": "inclusion body",
+   "source": "感染病学名词",
+   "wordNumber": "03.0134",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "病毒在宿主体内增殖过程中在宿主细胞内形成的一种蛋白质结构。一般内含一个完整的病毒颗粒或病毒亚基，也可为宿主细胞的反应产物。"
+  },
+  {
+   "cn": "簇状夹杂物",
+   "en": "inclusion cluster",
+   "source": "冶金学名词",
+   "wordNumber": "05.1383",
+   "subjectFullName": "冶金学_钢铁冶金_炉外精炼",
+   "subjectName": "炉外精炼",
+   "publishYear": "2019",
+   "definition": "三氧化二铝夹杂物聚结形成的树枝状或网络状夹杂物并和钢混在一起的群落夹杂物。"
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "包含",
+   "en": "inclusion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "包合作用",
+   "en": "clathration\",\"inclusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包涵体",
+   "en": "inclusion body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "包含体",
+   "en": "inclusion body",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "包合物",
+   "en": "inclusion compound",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包结常数",
+   "en": "inclusion constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包含体",
+   "en": "inclusion body",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体包涵物",
+   "en": "mitochondrial inclusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "正确录取",
+   "en": "valid inclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非金属夾杂物",
+   "en": "nonmetallic inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "夹砂",
+   "en": "sand inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内在适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "总体适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "胶束包合络合物",
+   "en": "micellar inclusion complex",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电子包容",
+   "en": "e-inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容性",
+   "en": "Digital Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融包容性",
+   "en": "financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普惠金融",
+   "en": "inclusive finance",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠水平",
+   "en": "digital inclusion level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融",
+   "en": "digital financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠性交易基础设施",
+   "en": "inclusive trading infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普惠信贷服务",
+   "en": "inclusive credit service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容计划（英国）",
+   "en": "Digital Inclusion Programme (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融体系",
+   "en": "Digital Financial Inclusion System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字普惠金融：新兴政策与方法》",
+   "en": "Digital Financial Inclusion: Emerging Policy Approaches",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《G20数字普惠金融高级原则》",
+   "en": "G20 High-Level Principles for Digital Financial Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“亲、诚、惠、容”理念",
+   "en": "the philosophy of “amity, honesty, mutual benefit, and inclusiveness”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人民币纳入特别提款权货币儘子",
+   "en": "RMB's inclusion in the Special Drawing Right (SDR) basket",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 15424-2018 信息技术 自动识别和数据捕获技术 数据载体标识符（包括符号系统标识符）》",
+   "en": "GOST ISO/IEC 15424:2018 Information technology — Automatic identification and data capture techniques — Data carrier identifiers (including symbology identifiers)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会包容",
+   "en": "social inclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会的制度体系对具有不同社会特征的社会成员及其所表现的各种社会行为不加排斥的宽容对待、平等相处，并扶持弱者、共同发展的状态。"
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "马克思主义",
+   "wordNumber": "02.0432",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "公平合理地分享经济增长，强调社会和经济协调发展、可持续发展，使经济增长和社会进步、人民生活改善同步进行，与单纯追求经济增长相对立。"
+  },
+  {
+   "cn": "包涵体肌炎",
+   "en": "inclusion body myositis，IBM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以肌细胞中存在包涵体为主要病理特征的慢性肌病，分散发性包涵体肌炎和遗传性包涵体肌炎两种类型。"
+  },
+  {
+   "cn": "排斥",
+   "en": "exclusion",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.29",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "某些弱势群体在劳动权利和社会保障体系里由于受到社会主流群体的排挤而日益孤立、边缘化的过程，表现为在经济、政治、社会、文化以及心理方面的权利长期受到漠视和剥夺，在获取生活资料、参与政治、社会平等、享受文"
+  },
+  {
+   "cn": "文化排斥",
+   "en": "cultural exclusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与某种文化刻意保持一定距离，拒绝与其交流、了解的现象。容易造成自身文化的封闭、隔离，往往不利于新文化的产生与发展。"
+  },
+  {
+   "cn": "社会排斥",
+   "en": "social exclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会封闭的一种主要方式。居于优势地位的阶级、群体或集团设置各种制度化的屏障以限制较低阶层的社会成员获取某些资格和权益，从而达到垄断资源和机会的目的。"
+  },
+  {
+   "cn": "输精管栓堵术",
+   "en": "vas occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "经阴囊皮肤穿刺的方法将液态高分子化合物聚醚型聚氨酯弹性体或者硅橡胶，加压注入输精管腔内，在管内迅速固化为栓子，堵塞输精管腔以阻止精子排出，达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "手术部位感染",
+   "en": "incision infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.20",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在手术后一定时间段内发生在切口或手术深部器官或腔隙的感染，包括表浅切口感染、深部切口感染和器官（或腔隙）感染。"
+  },
+  {
+   "cn": "飞行错觉",
+   "en": "flight illusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.8",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行人员在飞行中对飞机状态或飞机位置的错误知觉。"
+  },
+  {
+   "cn": "输卵管黏堵绝育术",
+   "en": "chemical tube occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "通过导管将化学粘堵剂注入输卵管，引发输卵管内膜化学性损伤、粘连，继发输卵管阻塞，以达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "输液[血]率",
+   "en": "infusion [blood transfusion] rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤病员输液(血)人数。"
+  },
+  {
+   "cn": "平均输液[血]量",
+   "en": "average infusion [blood transfusion] volume",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "输液(血)者的平均输液(血)量。反映医疗机构患者血液使用情况。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "免于体育测试标准",
+   "en": "exclusion criteria on physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "国家在学校教育工作中针对特殊学生免于执行学生体质健康标准的规范性技术文件。该标准为在实施国家学生体质健康标准过程中，因患病、残疾或丧失运动能力等特殊学生，准予暂缓或免于体质健康测试提供了判断标准和程序"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

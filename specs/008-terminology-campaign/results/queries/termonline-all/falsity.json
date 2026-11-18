@@ -1,0 +1,592 @@
+{
+ "key": "falsity",
+ "term": "falsity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:46:45+00:00",
+ "status": "ok",
+ "note": "variant=falsity; 审定公布名词库=169; 海峡两岸名词对照库=70; 其他来源数据库=17; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "假值",
+   "en": "falsity",
+   "source": "数学名词",
+   "wordNumber": "02.0043",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "误检",
+   "en": "false combination,false drop",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "因提问的表达式或检索词选择差错而检索出与提问不相关的记录的操作。"
+  },
+  {
+   "cn": "假结",
+   "en": "false knot",
+   "source": "普通外科学名词",
+   "wordNumber": "13.041",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "由同一方向的两个单结组成的结。结扎后易滑脱而不应采用。"
+  },
+  {
+   "cn": "假层理",
+   "en": "false bedding",
+   "source": "地质学名词",
+   "wordNumber": "05.03.030",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "一种类似层理的次生构造现象。常见于碎屑岩和火山碎屑岩中。它是在沉积岩形成以后，由于胶体溶液的扩散作用形成。例如，氢氧化铁的溶液在多孔隙的岩层内部扩散时，可形成同心环状氧化铁沉淀，它的外貌是一系列同心状"
+  },
+  {
+   "cn": "假异常",
+   "en": "false anomaly",
+   "source": "地质学名词",
+   "wordNumber": "13.08.036",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "与矿化无关的地球化学异常。由特殊岩石成分、采矿活动、人为因素（分析污染、样品混乱、采样等）等导致出现的地球化学异常。"
+  },
+  {
+   "cn": "伪顶",
+   "en": "false roof",
+   "source": "地质学名词",
+   "wordNumber": "14.06.026",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "直接位于煤层之上，厚度不大，随采随落的极不稳定岩层。多由碳质泥岩、泥岩等组成，厚度在0.5m以下，常夹有煤线。"
+  },
+  {
+   "cn": "假临产",
+   "en": "false labor",
+   "source": "妇产科学名词",
+   "wordNumber": "17.044",
+   "subjectFullName": "正常分娩_先兆临产",
+   "subjectName": "先兆临产",
+   "publishYear": "2025",
+   "definition": "孕妇在分娩发动前由于子宫敏感性增强而经常出现的不规律宫缩。特点是宫缩频率不一致，持续时间短、间隔时间长且无规律，强度不能逐渐增强，且不伴有宫颈管短缩、宫口扩张，给予镇静剂后宫缩能被抑制。"
+  },
+  {
+   "cn": "假活",
+   "en": "false-growth",
+   "source": "风景园林名词",
+   "wordNumber": "08.0256",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "春植过后，随着气温升高，土壤温度低于气温，从而出现先发芽抽生新枝的现象。但此时受损根部功能还没有恢复，仅靠树体自身的营养和水分，维持树木最初发芽长叶子，但经过一段时间，当树体内水分和养分完全耗尽，枝叶"
+  },
+  {
+   "cn": "虚假观察",
+   "en": "false observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.059",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "对由错觉造成的虚假现象或主观臆想的错误现象的观察。如一些几何图形能造成视觉错误，光在水、玻璃及热空气中折射造成的畸形也会使人产生错觉。"
+  },
+  {
+   "cn": "伪聚变中子",
+   "en": "false neutron",
+   "source": "核科学技术名词",
+   "wordNumber": "3.04",
+   "subjectFullName": "核科学技术_核聚变_核聚变基础",
+   "subjectName": "核聚变基础",
+   "publishYear": "2024",
+   "definition": "在聚变实验装置中，不是由聚变反应直接产生的中‍子。"
+  },
+  {
+   "cn": "风帽",
+   "en": "false ogive",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0037",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "沸腾焙烧炉空气分布板上的关键部件。用于均匀分布沸腾焙烧炉内空气，主要为侧孔式结构，耐热耐磨合金铸钢材质。"
+  },
+  {
+   "cn": "假呕吐",
+   "en": "false vomiting",
+   "source": "兽医学名词",
+   "wordNumber": "13.060",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "仅呕出食道内停留的食物的现象。一般发生于食道疾患时。"
+  },
+  {
+   "cn": "伪性搏动",
+   "en": "false fluctuation",
+   "source": "兽医学名词",
+   "wordNumber": "13.066",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "由颈动脉搏动过强引起的颈静脉搏动现象。多在主动脉闭锁不全时产生，并与动脉搏动同时出现。"
+  },
+  {
+   "cn": "假性血尿",
+   "en": "false hematuria",
+   "source": "兽医学名词",
+   "wordNumber": "13.346",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "红色，清亮而不混浊，震荡时无云雾状，放置后无红色沉淀，镜检没有红细胞或只有少量红细胞的尿液。包括血红蛋白尿、肌红蛋白尿、卟啉尿和药物性红尿。"
+  },
+  {
+   "cn": "虚假广告",
+   "en": "false advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.319",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "内容是造假的或者是容易引人误解的广告。该术语所称的虚假，既包括商品宣传的内容与所提供的商品或者服务的实际质量不符，也指可能使受该类广告影响的人对商品的真实情况产生错误的联想，从而影响其购买决策。"
+  },
+  {
+   "cn": "虚报",
+   "en": "false alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2227",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "报有地震，实际没有发生地震；报无地震，实际确实发生了地震。 "
+  },
+  {
+   "cn": "假骨盆",
+   "en": "false pelvis",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.12",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_骨盆",
+   "subjectName": "骨盆",
+   "publishYear": "2022",
+   "definition": "位于骨盆分界以上的部分。在腹腔的髂窝部，前方是腹壁下部，后方是第5腰椎。"
+  },
+  {
+   "cn": "假骨盆",
+   "en": "false pelvis",
+   "source": "生殖医学名词",
+   "wordNumber": "2.125",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "由耻骨联合上缘、髂耻缘及骶岬上缘的连线组成界线的上方，为腹腔的一部分，其前方为腹壁下部，两侧为髂骨翼，后方为第5腰椎。"
+  },
+  {
+   "cn": "工艺凸台",
+   "en": "false boss",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.008",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "为满足工艺的需要而在工件上增设的凸台。"
+  },
+  {
+   "cn": "误开通",
+   "en": "false firing",
+   "source": "电力名词",
+   "wordNumber": "21.139",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "阀或换流臂在不应开通的时刻触发开通的现象。"
+  },
+  {
+   "cn": "假分枝",
+   "en": "false branching\",\"false ramification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假脉",
+   "en": "false vein\",\"false nerve",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假心材，伪心材",
+   "en": "false heartwood\",\"false duramen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伪心材（=假心材）",
+   "en": "false heartwood\",\"false duramen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假肋",
+   "en": "false rib",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "堆膜，假膜",
+   "en": "false membrane",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假膜（=堆膜）",
+   "en": "false membrane",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假日",
+   "en": "false sun",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "错误肯定",
+   "en": "false positive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假记忆,伪记忆",
+   "en": "false memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "错误否定",
+   "en": "false negative",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚报",
+   "en": "false alarm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交错关系",
+   "en": "false relation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "移位强拍",
+   "en": "false accent",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假捻",
+   "en": "false twisting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "假彩色",
+   "en": "false color",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "假彩色",
+   "en": "false color",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "北移假定值",
+   "en": "false northing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "东移假定值",
+   "en": "false easting",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "假彩色",
+   "en": "false color",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抢航",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假进攻",
+   "en": "false attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抢航",
+   "en": "false start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发召回线",
+   "en": "false start rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发召回线",
+   "en": "false start rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发犯规",
+   "en": "false start\",\"unfair start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反跑步",
+   "en": "counter-canter\",\"false canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "唯乐不可以为伪",
+   "en": "Music Allows No Expression of False Sentiment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编造、故意传播虚假信息罪",
+   "en": "crime of fabricating and spreading false information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编造并传播证券、期货交易虚假信息罪",
+   "en": "crime of fabricating and disseminating false information about securities and futures trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚假检验报告",
+   "en": "false testing report",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.32",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "检验检测机构违反国家法律法规、职业道德和技术标准，故意或重大过失地出具与实际情况不符的检验检测结论的文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

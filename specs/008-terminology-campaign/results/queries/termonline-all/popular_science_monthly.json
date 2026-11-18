@@ -1,0 +1,762 @@
+{
+ "key": "popular science monthly",
+ "term": "Popular Science Monthly",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:41:11+00:00",
+ "status": "ok",
+ "note": "variant=Popular Science Monthly; 审定公布名词库=1204; 海峡两岸名词对照库=357; 其他来源数据库=68; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "科普教育",
+   "en": "science popularization",
+   "source": "教育学名词",
+   "wordNumber": "07.171",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在校内外向中小学生宣传科学知识和技术，培养科学精神和能力的教育活动。"
+  },
+  {
+   "cn": "科普期刊",
+   "en": "popular science periodical",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.057",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "以刊登科学普及知识为主要内容的期刊。"
+  },
+  {
+   "cn": "科普读物",
+   "en": "reader in popular science",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.038",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "向社会普及科学思想、科学文化、科学技术知识等内容的出版物。"
+  },
+  {
+   "cn": "科普活动室",
+   "en": "popular science activity room",
+   "source": "建筑学名词",
+   "wordNumber": "02.0297",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "用于举办小型科普教育活动的房间。包括教室、实验室、活动室等。"
+  },
+  {
+   "cn": "知名度",
+   "en": "popularity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.087",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系实务",
+   "subjectName": "公关关系实务",
+   "publishYear": "2022",
+   "definition": "组织被公众知晓、了解的程度。评价组织名气大小的客观尺度，侧重于“量”的评价，即组织对社会公众影响的广度。"
+  },
+  {
+   "cn": "量报",
+   "en": "popular paper",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻报刊",
+   "subjectName": "新闻报刊",
+   "publishYear": "2022",
+   "definition": "以通俗手法报道新闻，尤其关注社会、体育和娱乐新闻，发行量较大的综合性报纸。"
+  },
+  {
+   "cn": "普及版",
+   "en": "popular edition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.053",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "在原有版本外出版发行的，一般开本较小、装订简易、定价较低的，易于大量销售的版本图书。"
+  },
+  {
+   "cn": "大众期刊",
+   "en": "popular magazine",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.052",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "面向公众(不区分职业或学科)的期刊。"
+  },
+  {
+   "cn": "通俗读物",
+   "en": "popular reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "用通俗易懂的语言表达的、供大众阅读的图书报刊。一般使用常用字，或加注音、注释，并附有插图。"
+  },
+  {
+   "cn": "农业技术推广",
+   "en": "agrotechnology popularization",
+   "source": "农学名词",
+   "wordNumber": "01.215",
+   "subjectFullName": "总论_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "通过试验、示范、培训以及咨询服务等，把农业新技术与新成果等应用于实际的活动。"
+  },
+  {
+   "cn": "普及率",
+   "en": "popularization rate",
+   "source": "教育学名词",
+   "wordNumber": "07.029",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "某特定年龄段总人口中拥有达到某学段毕业人数的比率。"
+  },
+  {
+   "cn": "普及读物",
+   "en": "popular reading matter",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.034",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "内容简明易懂的大众化出版物。"
+  },
+  {
+   "cn": "法国人民阵线",
+   "en": "French Popular Front",
+   "source": "世界历史名词",
+   "wordNumber": "03.0547",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1935-1938年，法国左翼各党派和群众团体为反击法西斯势力、实行社会经济改革而组成的统一战线。"
+  },
+  {
+   "cn": "科学通俗语体",
+   "en": "scientific popular style",
+   "source": "语言学名词",
+   "wordNumber": "08.276",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "科学语体的一种分体。深入浅出地解释各种科学问题，普及科学知识。适用于科普作品、科学小品、科学对话或通俗的科学报告等言语领域。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "在社会实践中产生和发展的关于自然、社会和思维知识的体系，是实践经验的总结和精神文明的重要内容，其功能在于揭示规律，指导人们的行动。可分为自然科学、社会科学、思维科学。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "正确反映客观事实的本质和规律的系统化、理论化的知识体系，以及一系列相关的认识和研究活动。"
+  },
+  {
+   "cn": "理科",
+   "en": "science",
+   "source": "教育学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的理科泛指理、工、农、医等学科。与广义的文科相对应。（2）狭义的理科指数学、物理、化学、天文、地学、生物等自然科学领域的基础理论学科。"
+  },
+  {
+   "cn": "科研2.0",
+   "en": "science 2.0",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1318",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "科学家利用维基百科、博客等协作技术分享新发现，包括原始数据以及一些初期理论的研究方式。"
+  },
+  {
+   "cn": "月刊",
+   "en": "monthly",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.154",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "每个月出版一次的连续出版物。"
+  },
+  {
+   "cn": "养羊学",
+   "en": "sheep science,goat science",
+   "source": "畜牧学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究羊的生物学特性与养羊生产有关理论及技术的学科。"
+  },
+  {
+   "cn": "流行文化",
+   "en": "popular culture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受欢迎儿童",
+   "en": "popular children",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大众天文学",
+   "en": "popular astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "流行文化",
+   "en": "popular cultures",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "极地科学",
+   "en": "polar science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为科学",
+   "en": "behavioral science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "空间科学",
+   "en": "space science",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "河口学",
+   "en": "estuarine science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大[型]科学",
+   "en": "big science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "景观学",
+   "en": "landscape science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学城",
+   "en": "science town",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "智慧普法",
+   "en": "smart law popularization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普法大数据",
+   "en": "big data for law popularization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学素养",
+   "en": "data science literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学加速器",
+   "en": "data science accelerator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大科学时代",
+   "en": "big science age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子信息科学",
+   "en": "Quantum Information Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国民教育",
+   "en": "popular education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.4",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "每个出生在特定国度中的人都有权接受的教育。例如在未成年前须接受的义务教育，以及此后的职业技术教育、中等教育和高等教育等。"
+  },
+  {
+   "cn": "大众文化",
+   "en": "popular culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "诞生于20世纪发达的资本主义阶段，伴随传播业的发展而兴起的一种新型文化形态。以平面或多维媒介为载体，由信息技术和资本推动，在与大众互动中形成的文化商品及现象。"
+  },
+  {
+   "cn": "通俗艺术",
+   "en": "popular art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0251",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由大众文艺创作家创作、在民众中广泛传播的艺术，旨在表达具有民众共同特征的审美愿望和审美趣味。"
+  },
+  {
+   "cn": "普及与提高",
+   "en": "popularization and improvement",
+   "source": "马克思主义",
+   "wordNumber": "03.0457",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》提出的解决文艺如何更好地为人民大众服务的重要问题。普及是人民的普及，提高也是人民的提高。在普及基础上的提高，在提高指导下的普及。普及工作不但不是妨碍提高，"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "大众意见领袖理论",
+   "en": "popular opinion leader theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "假设受众行为通常受到通过社会网络传播的意见领袖选择的影响的理论，通常认为信息传播模式为两步模式，即大众传播到意见领袖，再到般受众的过程。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "暴露科学",
+   "en": "exposure science",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集和分析所需定量和定性的信息，以了解受体与物理、化学或生物应激之间的暴露情况的科学"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  },
+  {
+   "cn": "民族的科学的大众的文化",
+   "en": "national scientific and popular culture",
+   "source": "马克思主义",
+   "wordNumber": "03.0452",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级领导的人民大众的反帝反封建的新民主主义的文化，是中国共产党在新民主主义革命时期关于文化问题的根本主张和斗争目标。“民族的”文化，是指它是反对帝国主义压迫，主张中华民族的尊严和独立的；“科学的”"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

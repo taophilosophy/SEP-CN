@@ -1,0 +1,592 @@
+{
+ "key": "figuralism",
+ "term": "figuralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:37:44+00:00",
+ "status": "ok",
+ "note": "variant=figuralism; 审定公布名词库=92; 海峡两岸名词对照库=42; 其他来源数据库=16; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "干涉图",
+   "en": "interference figure",
+   "source": "地质学名词",
+   "wordNumber": "02.00.237",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "非均质体矿物在偏光显微镜的锥光下呈现的由干涉条带组成的图案。"
+  },
+  {
+   "cn": "蚀象",
+   "en": "etch figure",
+   "source": "地质学名词",
+   "wordNumber": "03.01.034",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "晶体形成后，因受到溶蚀而在晶面上形成的一些具有规则形状的凹斑(蚀坑)。形状和方位均受晶面的结构性质控制。"
+  },
+  {
+   "cn": "地物符号",
+   "en": "figure symbol",
+   "source": "风景园林名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "标识地面上各种有形物（如山川、森林、建筑物等）和无形物（如省、县界等）（即地物）的符号。"
+  },
+  {
+   "cn": "人物全宗",
+   "en": "figure fonds",
+   "source": "档案学名词",
+   "wordNumber": "03.01.029",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "具有社会独立性的个人形成的档案有机整体。"
+  },
+  {
+   "cn": "公众人物",
+   "en": "public figure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.105",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "①具有较高社会地位或知名度，能够对社会公共利益产生影响，或者因某事件受到广泛关注且能因此获益的人物。②美国侵权法首先使用的一个概念。根据美国最高法院20世纪60年代对《纽约时报》诉萨利文案等一系列判决"
+  },
+  {
+   "cn": "交叉表",
+   "en": "crosstab figures",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.159",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "通过数据对传媒广告、受众进行分析的数据化工具。"
+  },
+  {
+   "cn": "核分裂象",
+   "en": "mitotic figure",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "6.017",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤病理学",
+   "subjectName": "妇科肿瘤病理学",
+   "publishYear": "2022",
+   "definition": "细胞核有丝分裂的形态。核有丝分裂是一个连续的过程，从细胞核内出现染色体开始，经一系列的变化，最后分裂成两个子核为止。"
+  },
+  {
+   "cn": "面形误差",
+   "en": "figure error",
+   "source": "光学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "光学元件的实际表面与理想表面之间的偏差。"
+  },
+  {
+   "cn": "图底关系",
+   "en": "figure-ground",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.351",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "城市实体要素与开敞空间之间所形成的图形与背景的相互映衬关系。"
+  },
+  {
+   "cn": "外形图",
+   "en": "figuration drawing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0173",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示产品外形轮廓的图样。"
+  },
+  {
+   "cn": "核分裂象",
+   "en": "mitotic figure",
+   "source": "病理学名词",
+   "wordNumber": "01.214",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "细胞核有丝分裂的形态。核分裂是一个连续的过程，从细胞核内出现染色体开始，经一系列的变化，最后分裂成两个子核为止。"
+  },
+  {
+   "cn": "极图",
+   "en": "pole figure",
+   "source": "冶金学名词",
+   "wordNumber": "07.0473",
+   "subjectFullName": "冶金学_金属学_检查及分析",
+   "subjectName": "检查及分析",
+   "publishYear": "2019",
+   "definition": "表示多晶取向择优分布位置与强度的极射赤面投影图。"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "冶金学名词",
+   "wordNumber": "04.0711",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "已知一个十进位的测量数据的可靠位数为N，在其最小的第N位后则为欠准数字。N+1位的数字。"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "物理学名词",
+   "wordNumber": "01.0319",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "李萨如图形",
+   "en": "Lissajous figure",
+   "source": "物理学名词",
+   "wordNumber": "03.0888",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "交变图",
+   "en": "ambiguous figure",
+   "source": "生物物理学名词",
+   "wordNumber": "07.111",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "在对图本身不做任何改变的情况下可以引起人产生两种或两种以上不同知觉的图。这些不同的知觉在时间上不断地进行切换，但一般不能同时觉知到这两种不同的图形。"
+  },
+  {
+   "cn": "木材花纹",
+   "en": "wood figure",
+   "source": "林学名词",
+   "wordNumber": "11.028",
+   "subjectFullName": "林学_木材科学与技术_木材性质",
+   "subjectName": "木材性质",
+   "publishYear": "2016",
+   "definition": "木材的各种组织和构造特征经加工在纵切面上所综合形成的图案。如带状花纹、波形纹、鸟眼花纹、泡状花纹和卷曲花纹等。"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "化学名词",
+   "wordNumber": "03.0388",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "对于所记录的没有小数位且以若干个零结尾的数值，从非零数字最左一位向右数得到的位数减去无效零(仅为定位用的零)的个数；对于其他的十进位数从非零数字最左一位向右数得到的位数。"
+  },
+  {
+   "cn": "极图",
+   "en": "pole figure",
+   "source": "化学名词",
+   "wordNumber": "04.2010",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在多晶体系中，收集织构择优晶面衍射强度，表征特定织构晶面族{hkl}晶面在三维空间取向分布的极射赤[道]面投影图。"
+  },
+  {
+   "cn": "图形-背景",
+   "en": "figure-ground",
+   "source": "心理学名词",
+   "wordNumber": "02.369",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "注意对象与知觉域的其他部分之间的对比。"
+  },
+  {
+   "cn": "音型",
+   "en": "figure",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可逆图形,两可图形,双关图形",
+   "en": "reversible figure\",\"ambiguous figure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非染色质象",
+   "en": "achromatic figure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色质象",
+   "en": "chromatic figure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[有丝]分裂象",
+   "en": "mitotic figure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数码",
+   "en": "code figure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指示器",
+   "en": "indicator figure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不可能图形",
+   "en": "impossible figure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极图",
+   "en": "pole figure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "木材花纹",
+   "en": "wood figure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "顺差",
+   "en": "black figure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非染色质像",
+   "en": "achromatic figure",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结合图",
+   "en": "junction figure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图形平差",
+   "en": "figure adjustment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "布氏[硬]度数",
+   "en": "Brinell figure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "图形-背景",
+   "en": "figure ground\",\"figure and ground",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形象-背景组织",
+   "en": "figure ground organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形象-背景分离",
+   "en": "figure ground segregation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轴分布图",
+   "en": "axis distribution figure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹动作",
+   "en": "figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作",
+   "en": "compulsory figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作比赛",
+   "en": "figure competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "complex figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一组动作",
+   "en": "group of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作裁判员",
+   "en": "jury of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换动作",
+   "en": "change of figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "8字结",
+   "en": "figure-of-eight knot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四类规定动作",
+   "en": "Category IV of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "8字骑乘",
+   "en": "eight\",\"figure of eight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "藻辞谲喻",
+   "en": "Richly Nuanced Wording and Intricate Figurative Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形体健康",
+   "en": "figure health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_身体素养",
+   "subjectName": "身体素养",
+   "publishYear": "2025",
+   "definition": "人体形态结构、体格、体型、骨发育、身体姿态和身体成分等外化形象和气质的良好状态。是儿童青少年身心健康的重要体现。"
+  },
+  {
+   "cn": "《西域同文志》",
+   "en": "A survey of Geography and Figures of the Western Region",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0271",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "对译辞书名。清代第一部官修地名志，傅恒等纂，乾隆二十八年（1763 年）成书。内容主要为对新疆、青海、西藏等地之人名、地名之对译解释；涉及满文、汉文、蒙古文、藏文、维吾尔文、托忒蒙古文等6 种文字。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

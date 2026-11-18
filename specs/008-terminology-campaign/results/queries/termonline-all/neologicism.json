@@ -1,0 +1,72 @@
+{
+ "key": "neologicism",
+ "term": "Neologicism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:52:21+00:00",
+ "status": "ok",
+ "note": "variant=Neologicism; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新逻辑主义",
+   "en": "neologicism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.307",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "新逻辑主义继承早期逻辑主义的基本主张。包括新弗雷格主义、构造性的逻辑主义、模态的新逻辑主义等多种逻辑主义的立场。"
+  },
+  {
+   "cn": "语词新作",
+   "en": "neologism",
+   "source": "行为医学名词",
+   "wordNumber": "16.038",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "进行概念的融合、浓缩及无关概念的拼凑，自创一些新词、符号、图形或语言来代表某些特殊的概念，却无法被他人所理解的精神症状。包括自创文字和自创言语。"
+  },
+  {
+   "cn": "语词新作",
+   "en": "neologism",
+   "source": "精神医学名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "一种思维逻辑障碍。表现为受检者自造出一个新词或者将几个词浓缩合并来代表极为复杂的概念，却无法被其他人所理解的精神症状。"
+  },
+  {
+   "cn": "新语",
+   "en": "neologism",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.163",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "错语的一种。患者用无意义的词或新创造的词代替说不出的词，如将“报纸”说成“被各”。"
+  },
+  {
+   "cn": "语词新作",
+   "en": "neologism",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.061",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "新词语",
+   "en": "neologism,coined word",
+   "source": "语言学名词",
+   "wordNumber": "05.120",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "为了指称新事物、新现象和新概念而创造出来的词语。例如“菜单”“充电”“下课”“关爱”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

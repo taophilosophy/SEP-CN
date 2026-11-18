@@ -1,0 +1,42 @@
+{
+ "key": "sumphonia",
+ "term": "sumphōnia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:54:25+00:00",
+ "status": "ok",
+ "note": "variant=sumphōnia; 审定公布名词库=0; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "轮擦提琴（中世纪）",
+   "en": "symphonia",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交响曲",
+   "en": "symphonia\",\"symphony",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭交响曲",
+   "en": "Symphonia Domestica",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

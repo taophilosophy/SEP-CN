@@ -1,0 +1,612 @@
+{
+ "key": "factionalism",
+ "term": "factionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:44:26+00:00",
+ "status": "ok",
+ "note": "variant=factionalism; 审定公布名词库=206; 海峡两岸名词对照库=12; 其他来源数据库=9; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "间歇灭菌",
+   "en": "factional sterilization",
+   "source": "微生物学名词",
+   "wordNumber": "09.277",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "将待灭菌物料在80～100℃下蒸煮15～60min，杀灭所有微生物营养体后置室温或37℃下保温过夜，待物料中残存的芽孢或孢子萌发后再以同法蒸煮和保温过夜，重复3次，即可在较低的灭菌温度下实现彻底灭菌的"
+  },
+  {
+   "cn": "班杰拉分子",
+   "en": "Bandera Faction",
+   "source": "世界历史名词",
+   "wordNumber": "05.0597",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1943-1947年乌克兰民族主义者在西乌克兰组织的军事恐怖组织的成员。以其领导人班杰拉的名字得名。"
+  },
+  {
+   "cn": "有理函数模型",
+   "en": "factional function model",
+   "source": "测绘学名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "采用有理函数描述目标点与其相应像点对应关系的数学方程。"
+  },
+  {
+   "cn": "基督教异端派别",
+   "en": "Christian Heresy Faction",
+   "source": "世界历史名词",
+   "wordNumber": "02.0627",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "古代和中世纪信奉神学观点的基督教派别，因与基督教正统理论相左而受到当时教会权威排斥。"
+  },
+  {
+   "cn": "东林党",
+   "en": "dong lin dang;Dong Lin Faction",
+   "source": "中国古代史名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "中国古代史_明清_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "因顾宪成、高攀龙等讲学于无锡东林书院而渐形成的明朝党派。约始于公元1604年，其成员多为江南籍朝野士人，常以清流自居，品第人物，讽议朝政，抨击阉党，对明末政局影响甚大。"
+  },
+  {
+   "cn": "浙、齐、楚党",
+   "en": "Zhe, Qi, Chu Dang;Zhe, Qi, and Chu Factions",
+   "source": "中国古代史名词",
+   "wordNumber": "8.04",
+   "subjectFullName": "中国古代史_明清_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "明末党争中的若干地缘性官僚派系。浙党因其首领阁臣沈一贯、方从哲等皆为浙江籍得名，齐党首领为山东籍的给事中亓诗教、御史韩浚等，楚党首领为湖广籍的给事中官应震、吴亮嗣等，另有太子左谕德昆山人顾天埈为首的“"
+  },
+  {
+   "cn": "牛李党争",
+   "en": "Niu Li dang zheng;poli­tical struggles between the Niu and Li factions",
+   "source": "中国古代史名词",
+   "wordNumber": "5.028",
+   "subjectFullName": "中国古代史_隋唐五代_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "唐后期以牛僧孺和李德裕为代表的官僚派系之争。历经宪、穆、敬、文、武5帝，持续近半个世纪，其起因与不同出身和政见的官僚争权相关，后因党同伐异越演越烈，影响到内政、外事诸多方面，与藩镇割据和宦官专权并为唐"
+  },
+  {
+   "cn": "蜀洛朔党争",
+   "en": "Shu Luo Shuo dang zheng;political struggles among the Shu, Luo, and Shuo factions",
+   "source": "中国古代史名词",
+   "wordNumber": "6.027",
+   "subjectFullName": "中国古代史_两宋_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "元祐更化以来，旧党内部具有地方色彩的派别斗争。旧党与宋神宗推行新政时得势的新党相对而言，所分派别具有地域背景。主要有苏轼、吕陶、上官均等代表的“蜀党”，程颐、朱光庭、贾易等代表的“洛党”和刘挚、梁焘、"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "C臂CT",
+   "en": "C-arm computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "利用C臂带动X射线管和平板探测器围绕人体做旋转运动，探测器进行旋转采集，获得容积扫描数据，经计算机重建获得类似CT影像的一种技术。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "器官移植学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减的值。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "神经病学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "神经病学_神经病诊断技术_神经影像学",
+   "subjectName": "神经影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是 Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。脑灰质的CT值为（36 ±4）Hu，脑"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "用来表示与X射线CT影像每个像素对应区域相关的X射线衰减平均值的量。通常以Hu为单位。某物质CT值的表达式为：<img src='/root/syzx/static/spz/fangshefanghu"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral CT",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "扫描轨迹呈螺旋状前进，可快速、不间断地完成容积扫描的装置。分为单层螺旋CT、双层螺旋CT和多层螺旋CT。"
+  },
+  {
+   "cn": "大孔径CT",
+   "en": "big aperture computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像设备",
+   "subjectName": "计算机体层成像设备",
+   "publishYear": "2020",
+   "definition": "扫描机架孔径尺寸较大的（一般大于70cm），主要用于放疗定位的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "非螺旋CT",
+   "en": "non-spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "每一层面扫描时检查床不动，X射线管和探测器围绕被检者旋转一周，完成一次数据采集，然后移动检查床，进行下一层面的数据采集，直至所需检查部位全部扫描完成，扫描轨迹呈不连续的环形的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "双源CT",
+   "en": "dual source computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "在扫描机架内安装有两套X射线管和两套探测器系统的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义，机能主义",
+   "en": "functionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结构功能主义",
+   "en": "structural functionalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族主义音乐",
+   "en": "nationalism in music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "盖得派",
+   "en": "Guesde faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0326",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70—90年代，法国工人运动中以茹尔·盖得（Jules Guesde）和保尔·拉法格（Paul Lafargue）为首的革命派。该派坚持阶级斗争的观点，主张工人用革命方式夺取生产资料。80年代"
+  },
+  {
+   "cn": "拉萨尔派",
+   "en": "LaSalle faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0397",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪60—70年代德国工人运动中的一个机会主义派别。1863年5月23日在莱比锡各工人团体代表大会上成立的德国工人的第一个全国性组织。创始人斐迪南·拉萨尔当选为联合会首任主席。该组织从成立之日起,"
+  },
+  {
+   "cn": "无产阶级文化派",
+   "en": "proletarian culture faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0365",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级文化协会的活动家形成的派别。无产阶级文化协会是1917年9月在彼得格勒成立的群众性的独立的工人文化教育团体，十月革命后仍继续坚持其“独立”性，拒绝苏维埃政府和教育人民委员部的领导。无产阶级文化"
+  },
+  {
+   "cn": "小资产阶级民主派",
+   "en": "petty bourgeois democratic faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0322",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级革命中以民主主义为指导思想的小资产阶级政治派别。在反对封建斗争中有一定的革命性，同时存在政治上的动摇性、斗争中的软弱性和革命的不彻底性，在政治上、思想上同无产阶级有根本区别和深刻对立。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0120",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级处理民族问题的理论、原则、纲领和政策。它从民族观念出发,把本民族利益置于其他民族之上，不同的历史时期和不同的国家起着不同的作用。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0019",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "主张民族（nation）与国家（state）边界相一致的思想观念、理论主张、社会行动，是形成和建构民族国家的理论基础和实践信条"
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "结构功能论",
+   "en": "structural functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "强调结构与功能相互界定的理论范式。认为社会是具有一定结构或组织化手段的系统，社会的各组成部分以有序的方式相互联系，在整体平衡维系中对社会整体发挥功能性作用。"
+  },
+  {
+   "cn": "结构-功能论",
+   "en": "structural functionalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0536",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪20 年代在英国出现的理论，它对古典进化论学派、传播学派和历史特殊论学派都持批评的态度，认为人类学研究的主要任务是把文化作为一个有机的统一体来考察，弄清这个有机统一体中各个组成部分对整体所做"
+  },
+  {
+   "cn": "文化功能论",
+   "en": "culture functionalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0537",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家马林诺夫斯基（Bronislaw Kaspar Malinowski）的主要观点，强调文化基本上是一种手段，人类用它来满足需要的过程中，和用它来对付所面临的具体问题时，使自己处于有利地位；"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

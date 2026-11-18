@@ -1,0 +1,42 @@
+{
+ "key": "ressentiment",
+ "term": "ressentiment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:35:50+00:00",
+ "status": "ok",
+ "note": "variant=ressentiment; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "怨军",
+   "en": "yuan jun;army of resentment",
+   "source": "中国古代史名词",
+   "wordNumber": "7.164",
+   "subjectFullName": "中国古代史_辽金元_政治_军事",
+   "subjectName": "军事",
+   "publishYear": "2022",
+   "definition": "辽末天祚帝招募中京道东部及东京道西部饥民组成的军队。于公元1116年创设，以秦晋国王耶律淳为都元帅，1122年改称常胜军。"
+  },
+  {
+   "cn": "怨刺",
+   "en": "Resentment and Sting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "怨恨",
+   "en": "resentment",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.25",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "尼采用来解释基督教的伦理特征，马克斯·韦伯由此进一步讨论了宗教的阶级和情感特征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

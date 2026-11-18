@@ -1,0 +1,752 @@
+{
+ "key": "fork asymmetry",
+ "term": "fork asymmetry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:44:12+00:00",
+ "status": "ok",
+ "note": "variant=fork asymmetry; 审定公布名词库=5442; 海峡两岸名词对照库=952; 其他来源数据库=794; 预公布名词数据库=735; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "不对称性",
+   "en": "asymmetry",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物特征在某种变换操作下不具有保持和原来一样的属性。是跨物理学、生物学、社会学与系统论等学科的概念。"
+  },
+  {
+   "cn": "非对称性",
+   "en": "asymmetry",
+   "source": "物理学名词",
+   "wordNumber": "01.0166",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "药学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在分子的立体结构中，因缺乏对称面，对称中心或交替对称轴等对称因素的结构特征。"
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0020",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "地质学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "进程复制",
+   "en": "fork",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0407",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "类UNIX操作系统提供的系统调用，创建一个子进程。"
+  },
+  {
+   "cn": "分叉",
+   "en": "forking",
+   "source": "数学名词",
+   "wordNumber": "02.0112",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离叉",
+   "en": "withdrawal fork,operating fork",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.045",
+   "subjectFullName": "机械工程_汽车_底盘_离合器",
+   "subjectName": "离合器",
+   "publishYear": "2013",
+   "definition": "驱动分离轴承运动的叉形零件。"
+  },
+  {
+   "cn": "叉式装置",
+   "en": "fork mounting; forked mounting",
+   "source": "天文学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "一种对称式装置。极轴(或地平装置中的方位轴)的上端为一叉状构件，赤纬轴(或地平装置中的高度轴)通过镜筒的重心并支承于叉臂上，使其转动部分的重心位于极轴(或地平装置的方位轴)的轴线上。"
+  },
+  {
+   "cn": "不对称碎斑系",
+   "en": "asymmetry porphyroclast",
+   "source": "地质学名词",
+   "wordNumber": "09.06.075",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "残斑尾部形态不对称的碎斑系。是变形岩石中的一种运动学标志。包括δ型和σ型。"
+  },
+  {
+   "cn": "颜面不对称畸形",
+   "en": "facial asymmetry",
+   "source": "整形外科名词",
+   "wordNumber": "12.116",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面畸形",
+   "subjectName": "颅颌面畸形",
+   "publishYear": "2026",
+   "definition": "颜面形态左右侧的比例明显不协调与不对称导致的畸形。首要的病理特征是颌骨的不对称，因而导致颜面软组织不对称。"
+  },
+  {
+   "cn": "乳房不对称",
+   "en": "breast asymmetry",
+   "source": "整形外科名词",
+   "wordNumber": "18.07",
+   "subjectFullName": "整形外科_乳房整形_乳房形态异常",
+   "subjectName": "乳房形态异常",
+   "publishYear": "2026",
+   "definition": "两侧乳房在大小、形态、位置上有明显差异的现象。通常可以通过体积、轮廓、测量径线的差异反映出来。胸廓不对称也是原因之一。"
+  },
+  {
+   "cn": "鼻孔不对称",
+   "en": "nostril asymmetry",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.5.28",
+   "subjectFullName": "鼻科_鼻畸形",
+   "subjectName": "鼻畸形",
+   "publishYear": "2025",
+   "definition": "两侧鼻孔大小、高低不一的外鼻畸形。"
+  },
+  {
+   "cn": "膜不对称性",
+   "en": "membrane asymmetry",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0039",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "组成细胞膜的脂质和膜蛋白质在内外层不对称分布的现象。如磷脂酰胆碱多定位于质膜的外层，而磷脂酰丝氨酸则多分布在其内层。"
+  },
+  {
+   "cn": "重子不对称性",
+   "en": "baryon asymmetry",
+   "source": "天文学名词",
+   "wordNumber": "07.472",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "可观测宇宙中重子远远多于反重子的不对称性。"
+  },
+  {
+   "cn": "不对称因子",
+   "en": "asymmetry factor",
+   "source": "光学名词",
+   "wordNumber": "01.616",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "散射角余弦按散射相函数的加权平均值。是散射相函数的一阶矩，其值域范围为[–1，1]，表示散射量在散射方向所占的权重。"
+  },
+  {
+   "cn": "表观遗传非对称性",
+   "en": "epigenetic asymmetry",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.473",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同DNA序列的两个基因组，对基因的表达和抑制具有不同调控方式的特性。如发生不同的可逆和可遗传的修饰。"
+  },
+  {
+   "cn": "不对称循环",
+   "en": "asymmetry cycle",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0108",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "恒幅循环载荷中，最大载荷与最小载荷的绝对值不相等的循环。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry",
+   "source": "电力名词",
+   "wordNumber": "06.425",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "在社会政治、经济等活动中,一些成员拥有其他成员无法拥有的信息,由此造成信息的不对称。能产生交易关系和契约安排的不公平或者市场效率降低问题。"
+  },
+  {
+   "cn": "电荷不对称性",
+   "en": "charge asymmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1060",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分叉",
+   "en": "fork",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生长叉(=复制叉)",
+   "en": "growing fork(=replication fork)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非对称因子",
+   "en": "asymmetry factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "报偿不对称",
+   "en": "payoff asymmetry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "膜不对称性",
+   "en": "membrane asymmetry",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "峰不对称度",
+   "en": "peak asymmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非对称参数β",
+   "en": "asymmetry parameter β",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "音叉",
+   "en": "tuning-fork",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音叉",
+   "en": "tuning fork",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "叉式装置",
+   "en": "fork mounting",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分岔系数",
+   "en": "fork factor",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "音叉骨针",
+   "en": "tuning fork",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "尾叉",
+   "en": "anal fork",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "叉状闪电",
+   "en": "forked lightning",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源占有潜力不对称",
+   "en": "resource-holding potential asymmetry\",\"RHP asymmetry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "车叉",
+   "en": "fork",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不对称动作",
+   "en": "asymmetric movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非对称加密算法",
+   "en": "asymmetric encryption algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高低杠动作",
+   "en": "exercise on asymmetric bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高低杠项目",
+   "en": "asymmetric bars\",\"uneven parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高低杠",
+   "en": "asymmetric bars\",\"uneven parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞技状态",
+   "en": "form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "work",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "返岗证明",
+   "en": "health certificate for returning to work  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准新工作项目提案",
+   "en": "new work item proposal for international standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化形式",
+   "en": "standardization form",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前托",
+   "en": "fore-end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势裁判员",
+   "en": "form judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "卡夫丁峡谷",
+   "en": "Caudine forks",
+   "source": "马克思主义",
+   "wordNumber": "03.0100",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思关于比较落后的国家可以不经过资本主义充分发展的苦难而直接向社会主义过渡的设想。卡夫丁峡谷原为古罗马卡夫丁城附近的一座山谷。公元前321年，罗马军队在此全军覆没，并被迫通过牛轭，这被认为是对战败军"
+  },
+  {
+   "cn": "体能发育不均衡性",
+   "en": "asymmetry in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "儿童少年体能指标在不同年龄的发育速度有快有慢的特点。"
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在相同深度下对称于辐射束轴的任意两点的吸收剂量的比值。通常会限定在辐射野的均整区域内。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "不对称辐射温度",
+   "en": "asymmetric radiant temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.4.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "同一温度下,物体表面不同方向的辐射能量不一致所致的温度差值。"
+  },
+  {
+   "cn": "为社会工作的理论",
+   "en": "theory for social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作理论中用来对人与社会的本质、人的行为与社会运行的规则和机制进行解释的那部分内容。"
+  },
+  {
+   "cn": "儿童社会工作",
+   "en": "social work for children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向儿童的社会工作活动，即把社会工作的专业知识、方法和技巧应用到儿童的教育和保护工作中的过程。狭义指一种事后补救性的工作，面向特定儿童和家庭、特别是面向家庭或其他社会机构未能满足其需求的儿童提供社会工"
+  },
+  {
+   "cn": "儿童团体工作",
+   "en": "group work for children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "是以儿童团体（小组）为对象，运用团体动力程序与团体活动过程设计技术，使团体中的儿童达到社会性的发展、行为的改变的专业活动。"
+  },
+  {
+   "cn": "儿童社区工作",
+   "en": "community work for children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "借助社区资源以帮助儿童改善处境的活动。以调动包括儿童在内的社区居民参与为重点，以营造社区内儿童健康成长的发展环境和引导儿童在力所能及范围内与社会形成互动为工作对象，动员社会资源，服务于少年儿童，促进社"
+  },
+  {
+   "cn": "青少年社会工作",
+   "en": "social work for teenagers",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.31",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向青少年的社会工作服务。其根据青少年的生理和心理状态、兴趣倾向、特长嗜好、家庭背景以及智力等实际情况，予以个别或集体的辅导，使其获得正常的发展与进步。"
+  },
+  {
+   "cn": "民族工作部门",
+   "en": "department for ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0051",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党和国家管理和协调民族事务的工作机构，主要包括党委、政府、人大、政协等设立的相关机构。"
+  },
+  {
+   "cn": "生长发育匀称度评价",
+   "en": "growth and developmental symmetry appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "生长发育的综合评价指标。将两个和多个生长发育指标联系起来用数学公式表示人体各部分之间的比例和相互关系，从而判断儿童匀称度。"
+  },
+  {
+   "cn": "男女同工同酬",
+   "en": "equal pay for equal work",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "所有劳动主体遵守等量劳动换取等量报酬的原则，不因性别而遭遇差别对待。这是体现劳动、工作的性别平等的一个基本原则，也是实现劳动性别平等的一条重要途径。"
+  },
+  {
+   "cn": "社会工作伦理守则",
+   "en": "ethical codes for social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "由社会工作专业团体明确订立，供社会工作从业者为工作对象服务过程中遵循的道德准则。主要包括社会工作者的道德操守和社会工作专业的伦理守则两个方面。"
+  },
+  {
+   "cn": "老年社会工作",
+   "en": "social work for the elder",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.43",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会工作者应用社会工作专业服务方法，协助老年人解决生活过程中遇到的困难，促进其社会适应和满足的专业活动。"
+  },
+  {
+   "cn": "残疾人社会工作",
+   "en": "social work for the disabled",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.70",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "对残疾人个人及其家庭或者残疾人群体进行的社会工作服务活动。有目的的专业活动，是以残疾人为对象而提供的服务和帮助，主要内容包括康复工作、特殊教育、劳动就业和社会适应。"
+  },
+  {
+   "cn": "社会工作研究的方法论",
+   "en": "methodology for social work research",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "指导社会工作研究的基本方法理论。主要包括实证主义方法论、人文主义方法论和马克思主义方法论，它们决定了研究者看待研究对象的角度、认识研究对象的方法和对研究对象认识的侧面和深度。"
+  },
+  {
+   "cn": "社会工作研究伦理",
+   "en": "ethics for social work research",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "依据社会工作的哲学信念和价值取向而发展出的一套指引和规范社会工作研究的伦理原则。主要包括：一是涉及服务对象的利益保护方面的原则；二是作为研究者应该遵守的学术道德，具体原则包括自愿参与、对参与者无害、保"
+  },
+  {
+   "cn": "卫生与健康工作方针",
+   "en": "guiding principles for healthcare work",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.082",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "国家在一定历史时期内，为实现卫生事业的发展目标、保障人民健康和促进社会主义现代化建设而制定的指导原则和行动准则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

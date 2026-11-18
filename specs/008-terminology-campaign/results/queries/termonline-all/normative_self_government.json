@@ -1,0 +1,782 @@
+{
+ "key": "normative self-government",
+ "term": "normative self-government",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:55:15+00:00",
+ "status": "ok",
+ "note": "variant=normative self-government; 审定公布名词库=1515; 海峡两岸名词对照库=529; 其他来源数据库=275; 预公布名词数据库=208; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "自治",
+   "en": "self governance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.23",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "自己治理自己。通常指较大规模的行为，即以一个行业、行业团体、宗教、政府等为单位的行为。政治主体治理社会，会有意无意留下某些领域和事务，交由人民自己去管理。自治概念与分权概念相联系。只有权力适当分布在中"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "特定领域的技术活动所遵守的规则、标准。具有标准性、恒定性和普适性等特点。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "行为医学名词",
+   "wordNumber": "19.007",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "供比较的标准量数。通常由标准化样本测试结果计算得出标准数量，作为比较和解释测验结果时的参照分数标准。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "电力名词",
+   "wordNumber": "13.084",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "单位产品或单位工作中人工、材料、机械和资金消耗量的规定额度。"
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0499",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模方",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0460",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "正常人群取样的平均值。用来做比较的标准，提供客观评价的量表。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "建筑学名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "特指建筑安装工程定额。在正常施工条件下，完成单位合格产品所必需的人工、材料、机械及其资金消耗的数量标准。"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "社会群体的正式或非正式的行为准则。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "03.245",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据标准化样本的测验分数经过统计处理而建立起来的具有参照点和单位的量表。是用于比较和解释测验分数的参照标准。"
+  },
+  {
+   "cn": "范",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "04.0415",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "07.0112",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative records",
+   "source": "档案学名词",
+   "wordNumber": "02.01.026",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "以强制力推行的用以规定各种行为规范的文件，包括各种法规、法令、规章等。"
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "规范分析",
+   "en": "normative analysis",
+   "source": "经济学名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "关于“经济事实应该怎样”的研究方法。规范分析以一定的价值判断为出发点，提出行为准则，探讨和研究怎样才能符合这些标准的理论和政策，并把因果分析与价值判断结合在一起。"
+  },
+  {
+   "cn": "规范经济学",
+   "en": "normative economics",
+   "source": "经济学名词",
+   "wordNumber": "03.010",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "采用规范分析方法的经济学。"
+  },
+  {
+   "cn": "标准的附录",
+   "en": "normative annex",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0850",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为了保证标准结构的均匀，将某些内容放在附录中，是标准正文内容不可分割的部分，与标准条文具有同等效力。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0855",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "声明符合标准而应遵守的条款的要素。分为一般要素和技术要素。"
+  },
+  {
+   "cn": "规范文件",
+   "en": "normative document",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0852",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为活动或其结果提供规则、指南和活动特性的文件。"
+  },
+  {
+   "cn": "准则信念",
+   "en": "normative belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体觉得其周围特定的个人或群体认为其是否应该采纳某种行为的自信心。"
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "文化常模",
+   "en": "cultural norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发展常模",
+   "en": "developmental norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "年级常模",
+   "en": "grade norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "年龄常模",
+   "en": "age norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群体规范",
+   "en": "group norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应规范",
+   "en": "adaptive norm",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反应规范",
+   "en": "reaction norm\",\"norm of reaction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "规范性空间思想",
+   "en": "normative spatial thinking",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "常模参照测验",
+   "en": "norm referenced test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相互性规范",
+   "en": "norm of reciprocity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选取限额",
+   "en": "norm for selection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "政府贷款",
+   "en": "government loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贸易",
+   "en": "government trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据自治开放模式",
+   "en": "self-governing data openness model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无缝隙政府",
+   "en": "seamless government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "Digital Government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧政府",
+   "en": "smart government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟政府",
+   "en": "virtual government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台政府",
+   "en": "platform government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云端政府",
+   "en": "cloud government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁政",
+   "en": "Benevolent Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霸道",
+   "en": "Despotic Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义政",
+   "en": "Proper Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据治理",
+   "en": "Data Governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自治组织",
+   "en": "self-government organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "建立在社会最基层、与群众直接联系，在自愿基础上由群众按照居住地区自己组织起来管理自己事务的组织。如城市居民委员会和农村村民委员会等。"
+  },
+  {
+   "cn": "社区自治",
+   "en": "community self governance",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.16",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "社区组织根据社区居民意愿形成集体选择，依法管理社区事务的状态。具体事务包括涉外事务和内部事务，目的是通过社区积极参与社会管理而向社区居民提供广泛、公正和优质的服务。"
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "规范伦理学",
+   "en": "normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.133",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "伦理学的传统理论形式。通过对人类行为的善恶价值分析，研究道德的起源、本质和发展变化规律，建构人类的道德规范体系，确定人们的行为标准，以调整人与人之间、人与社会之间的关系的伦理学学科。规范伦理学又分为普"
+  },
+  {
+   "cn": "角色规范",
+   "en": "role norm",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会根据需要而期待个体在其所处的身份与地位中，应该达到的行为模式或行为标准。这些规范是在长期的社会生活中形成的，并在个体的社会实践活动中表现出来，是调节个体行为与思想的控制器。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。既可能是在社会互动过程中逐步形成的非正式、不成文规范体系，也可能是基于社会某一群体的意"
+  },
+  {
+   "cn": "谦逊规范",
+   "en": "humility norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.10",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "指科学家对自身研究所表现出的谦恭态度，主要有两种形式：一是承认受惠于前人留下的知识遗产，二是强调自身的局限性和科学知识的局限性。"
+  },
+  {
+   "cn": "普遍主义规范",
+   "en": "universalism norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.11",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，要求根据非个人的标准，而不是个人或社会的属性来对科学中的主张是否为真做出判断，或者借用一些综合性的社会学和认识论的样本个案来描述。该规范表明科学具有一种普遍性，不应受到种族"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "群体规范",
+   "en": "group norm",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体公认的标准或群体活动中自然而然形成的行为准则，对群体成员产生约束力，迫使成员按照群体目标和准则调整自己行为。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "普通规范伦理学",
+   "en": "general normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1340000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "对行为的善与恶、是与非等问题进行研究与论证，以道德原则来规范人们做事做人的伦理学分支。"
+  },
+  {
+   "cn": "应用规范伦理学",
+   "en": "applied normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.135",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用规范伦理学的一般原则和理论来解释和评判现实中的具体伦理问题的伦理学分支。"
+  },
+  {
+   "cn": "性规范",
+   "en": "norms of sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "制约和调节人类性行为的各种法律、制度、道德、传统和习惯，体现了人类性行为的社会性。"
+  },
+  {
+   "cn": "无私性规范",
+   "en": "norm of disinterestedness",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.6",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学的基本要素之一。按照纯科学的要求，科学为了维护自主性而拒绝把功利性规范应用到研究中，其目的在于促进科学知识的发展。在该规范约制下，科学家的行为非常正直，往往表现出无私利性。"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

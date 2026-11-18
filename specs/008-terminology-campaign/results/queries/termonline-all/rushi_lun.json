@@ -1,0 +1,452 @@
+{
+ "key": "rushi lun",
+ "term": "Rúshí lùn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:29:41+00:00",
+ "status": "ok",
+ "note": "variant=Rúshí lùn; 审定公布名词库=121; 海峡两岸名词对照库=40; 其他来源数据库=4; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "檩",
+   "en": "purlin,lin",
+   "source": "建筑学名词",
+   "wordNumber": "03.0073",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "清式名称。设于梁架间，用以承托椽、望板的构件，其断面为圆形，下接替木。宋代称为槫，又称栋。檩的名称依部位而不同，以宋式为例，可分为脊槫、上平槫、中平槫、下平槫、牛脊槫、橑风槫等；清式相应称脊檩、上金檩"
+  },
+  {
+   "cn": "香菇多糖",
+   "en": "lentinan,LTN",
+   "source": "免疫学名词",
+   "wordNumber": "5.323",
+   "subjectFullName": "免疫学_应用免疫_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2007",
+   "definition": "从香菇中分离纯化的一种葡聚糖，是以增强T细胞和巨噬细胞功能为主的免疫增强剂。与化疗或放疗联用可发挥增效减毒作用。"
+  },
+  {
+   "cn": "襕衫",
+   "en": "lan shan;lan shan robe",
+   "source": "中国古代史名词",
+   "wordNumber": "8.25",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "明清国子监及诸官学生员所穿白细布或绢布制成的圆领宽袖衣服。"
+  },
+  {
+   "cn": "相轮",
+   "en": "xiang lun",
+   "source": "风景园林名词",
+   "wordNumber": "07.0530",
+   "subjectFullName": "风景园林_风景园林建筑_钉",
+   "subjectName": "钉",
+   "publishYear": "2025",
+   "definition": "塔顶之铁圈，有数套，串于中央刹柱上。"
+  },
+  {
+   "cn": "钩阑",
+   "en": "gou lan",
+   "source": "风景园林名词",
+   "wordNumber": "07.0421",
+   "subjectFullName": "风景园林_风景园林建筑_石作",
+   "subjectName": "石作",
+   "publishYear": "2025",
+   "definition": "古建筑附属石制构筑物。栏杆的一种称谓，宋式建筑称钩阑。"
+  },
+  {
+   "cn": "生命冲动",
+   "en": "lan vital",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "作为精神性本原的生命意志的观点。由柏格森提出和描述。认为生命是带有强烈行动意志色彩的精神力量即意识和“创造需要”。其不受任何原因和条件限制，是完全偶然、盲目的冲动。这种冲动是一切有机体的本质和生物进化"
+  },
+  {
+   "cn": "兰台",
+   "en": "lan tai",
+   "source": "档案学名词",
+   "wordNumber": "08.04.009",
+   "subjectFullName": "档案学_中国档案事业史_文档机构",
+   "subjectName": "文档机构",
+   "publishYear": "2024",
+   "definition": "西汉设立于御史府中的中央档案库、图书库。主藏西汉王朝收集的舆图、律令、章奏等各类重要档案和秘书典籍。主管为御史中丞，后为兰台令史，负责档案典籍的整理、编纂和保管。"
+  },
+  {
+   "cn": "乳桥蛋白",
+   "en": "lactopontin;LPN",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0446",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一种分子量介于44～75kDa之间的分泌型磷酸化糖蛋白。不同的形式（如酶切形式，磷酸化和糖基化形式等）存在于不同组织，在细胞免疫上起极为关键的作用。"
+  },
+  {
+   "cn": "局域网交换机",
+   "en": "LAN switch",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在数据链路段之间转发分组的高速交换机。"
+  },
+  {
+   "cn": "且兰国",
+   "en": "Qie Lan Guo;Qie Lan Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "3.245",
+   "subjectFullName": "中国古代史_秦汉_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "战国至汉初以濮系族群为主体的古国。战国以来活跃于今贵州都匀、福泉、黄平、贵定一带，公元前111年汉武帝发兵灭之。"
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "离子径流",
+   "en": "lon runoff",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "香菇多糖",
+   "en": "lentinan， LTN",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基带局域网",
+   "en": "baseband LAN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网多播",
+   "en": "LAN multicast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网服务器",
+   "en": "LAN server",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网管理程序",
+   "en": "LAN manager",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网广播",
+   "en": "LAN broadcast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网交换机",
+   "en": "LAN switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网网关",
+   "en": "LAN gateway",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宽带局[域]网",
+   "en": "broadband LAN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伤寒论",
+   "en": "Shanghan Lun",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反向局域网信道",
+   "en": "reverse LAN channel\",\"backward LAN channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网[成]组地址",
+   "en": "LAN group address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网单[个]地址",
+   "en": "LAN individual address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network (LAN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《IEEE 802.11v-2011 信息技术 系统间通信和信息交换 局域网和城域网 详细要求 第11部分：无线局域网媒体访问控制(MAC)和物理层(PHY)规范 修改件8:IEEE 802.11无线网管理》",
+   "en": "IEEE 802.11v-2011 Information technology — Telecommunications and information exchange between systems — Local and metropolitan area networks — Specific requirements — Part 11: Wireless LAN medium access control (MAC) and physical layer (PHY) specifications — Amendment 8: IEEE 802.11 wireless network management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "眼晶状体当量剂量",
+   "en": "equivalent dose in the len of the eye",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "特定电离辐射在眼晶状体中产生的平均吸收剂量与该种辐射的辐射权重因数的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "第一国际第一次伦敦代表会议",
+   "en": "First Lon don Congress of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0467",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1865年9月25日在英国伦敦召开的国际工人 协会第一次代表会议，即代表大会的预备会议。出席会议的有总委员会委员，英国、法国、比利时、瑞士等国支部的代表，德国、意大利、波兰的全国 委员会的代表，共68"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

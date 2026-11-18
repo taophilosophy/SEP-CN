@@ -1,0 +1,422 @@
+{
+ "key": "confusion",
+ "term": "confusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:49:38+00:00",
+ "status": "ok",
+ "note": "variant=confusion; 审定公布名词库=241; 海峡两岸名词对照库=10; 其他来源数据库=18; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.960",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.056",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "一种不能识别时间、地点和人物的定向障碍状态。意识水平轻度下降，较嗜睡深的一种意识障碍。患者能保持简单的精神活动，但对时间、地点、人物的定向能力发生障碍。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "神经病学名词",
+   "wordNumber": "04.009",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向力障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "伴发于急慢性脑器质性疾病的一种意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，但加重时便不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "老年医学名词",
+   "wordNumber": "04.463",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.139",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "混淆区",
+   "en": "confusion region",
+   "source": "电子学名词",
+   "wordNumber": "19.068",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "视物易色",
+   "en": "color confusion",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.391",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "以两眼不能正常辨认物体颜色为主要表现的眼病。"
+  },
+  {
+   "cn": "反应性意识错乱",
+   "en": "reactive confusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.221",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion of consciousness,mental confusion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.226",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种不能识别时间、地点和人物的定向障碍状态。意识水平轻度下降，较嗜睡为深的一种意识障碍。患者能保持简单的精神活动，但对时间、地点、人物的定向能力发生障碍。"
+  },
+  {
+   "cn": "弥散圆",
+   "en": "circle of confusion",
+   "source": "光学名词",
+   "wordNumber": "13.091",
+   "subjectFullName": "光学_一般光学系统与光学设计",
+   "subjectName": "一般光学系统与光学设计",
+   "publishYear": "2021",
+   "definition": "近似于圆形的弥散斑。"
+  },
+  {
+   "cn": "弥散圆",
+   "en": "circle of confusion",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.276",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最小模糊圆",
+   "en": "circle of least confusion",
+   "source": "物理学名词",
+   "wordNumber": "04.0516",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "痰迷心窍",
+   "en": "heart spirit confused by phlegm",
+   "source": "兽医学名词",
+   "wordNumber": "19.161",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "痰浊蒙蔽心神引起的，以神志痴呆或精神抑郁、举止失常或昏迷不醒、喉中痰鸣、苔腻、脉滑为常见证的证候。"
+  },
+  {
+   "cn": "痰蒙心窍",
+   "en": "heart spirit confused by phlegm",
+   "source": "中医药学名词",
+   "wordNumber": "03.639",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "痰浊蒙蔽心窍，引起神志障碍的病理变化。"
+  },
+  {
+   "cn": "痰蒙清窍证",
+   "en": "syndrome of orifices confused by phlegm",
+   "source": "中医药学名词",
+   "wordNumber": "04.681",
+   "subjectFullName": "中医药学_诊断学_辨证",
+   "subjectName": "辨证",
+   "publishYear": "2004",
+   "definition": "痰浊蒙闭清窍，以头胀昏痛、头重如蒙，五官感觉不灵，嗜睡困乏，苔腻脉滑等为常见症的证候。"
+  },
+  {
+   "cn": "视物易色·脾气虚证",
+   "en": "color confusion with spleen qi deficiency pattern",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.392",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "脾气虚弱，以两眼外观如常，目力无损，唯有不能正确明辨某些颜色，或颠倒色彩，辨认不清，如视赤如白，视黑如赤，视白似黄色等，全身可见纳差便溏，舌淡，脉弱为常见症的视物易色证候。"
+  },
+  {
+   "cn": "视物易色·肾精亏虚证",
+   "en": "color confusion with kidney essence deficiency pattern",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.393",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "肾精亏虚，以两眼外观如常，目力无损，唯有不能正确明辨某些颜色，或颠倒色彩，辨认不清，如视赤如白，视黑如赤，视白似黄色等，兼见头晕耳鸣，腰膝酸软，脉沉细，舌质淡为常见症的视物易色证候。"
+  },
+  {
+   "cn": "痰蒙心窍证",
+   "en": "syndrome of heart spirit confused by phlegm",
+   "source": "中医药学名词",
+   "wordNumber": "04.737",
+   "subjectFullName": "中医药学_诊断学_辨证",
+   "subjectName": "辨证",
+   "publishYear": "2004",
+   "definition": "痰浊蒙闭心神，以神志痴呆，朦胧昏昧，或精神抑郁，举止失常，或昏不知人，喉中痰鸣，胸闷痰多，面色晦暗，苔腻，脉滑等为常见症的证候。"
+  },
+  {
+   "cn": "挫伤",
+   "en": "contusion",
+   "source": "普通外科学名词",
+   "wordNumber": "09.017",
+   "subjectFullName": "医学_普通外科学_创伤",
+   "subjectName": "创伤",
+   "publishYear": "2026",
+   "definition": "直接暴力、跌扑撞击、重物挤压等作用于人体软组织而引起的闭合性损伤。以外力直接作用于局部皮下或深部组织造成的损伤为主。"
+  },
+  {
+   "cn": "混乱性",
+   "en": "confusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混淆矩阵",
+   "en": "confusion matrix",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "混淆区",
+   "en": "confusion region",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认同混淆",
+   "en": "identity confusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "误差矩阵",
+   "en": "error matrix\",\"confusion matrix",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "认同对角色混乱",
+   "en": "identity versus role confusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "输液剂",
+   "en": "infusion solution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "供者淋巴细胞输注",
+   "en": "donor lymphocyte infusion",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "情感渗透模型,情感注入模式",
+   "en": "affect infusion model\",\"AIM",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "树脂膜浸渍成型",
+   "en": "resin film infusion\",\"RFI",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing\",\"disorderly fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六经皆史",
+   "en": "The Six Confucian Classics Are All About History.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "惊厥",
+   "en": "convulsion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "表现为突然发作的全身性或局限性肌群强直性和阵挛性抽动，多伴有意识障碍。"
+  },
+  {
+   "cn": "忏悔",
+   "en": "confession",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.089",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "认识到了自己的过错或罪过而感到痛心并决心改正。"
+  },
+  {
+   "cn": "儒家伦理",
+   "en": "confucian ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.167",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "由孔子开创的反映中国宗法等级制度的伦理学说。主要表现为道德本位、忠君尊上和家族中心三个方面。其核心伦理要求是“仁、义、礼、智、信”。随着时代的发展，其内容被不断地丰富和扬弃。"
+  },
+  {
+   "cn": "输液[血]率",
+   "en": "infusion [blood transfusion] rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤病员输液(血)人数。"
+  },
+  {
+   "cn": "惊厥型氧中毒",
+   "en": "convulsion type of oxygen toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "机体较短时间吸入200～300kPa 的氧气，发生的以惊厥为主要临床特征的氧中毒。"
+  },
+  {
+   "cn": "平均输液[血]量",
+   "en": "average infusion [blood transfusion] volume",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "输液(血)者的平均输液(血)量。反映医疗机构患者血液使用情况。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

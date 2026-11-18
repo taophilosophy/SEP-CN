@@ -1,0 +1,762 @@
+{
+ "key": "measurement standard",
+ "term": "measurement standard",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:29:59+00:00",
+ "status": "ok",
+ "note": "variant=measurement standard; 审定公布名词库=2701; 海峡两岸名词对照库=619; 其他来源数据库=328; 预公布名词数据库=211; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "测量标准",
+   "en": "measurement standard",
+   "source": "农学名词",
+   "wordNumber": "18.090",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "具有确定的量值和相关联的测量不确定度，实现给定量定义的参照对象。"
+  },
+  {
+   "cn": "[测量]标准器",
+   "en": "measurement standard",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "01.077",
+   "subjectFullName": "机械工程_仪器仪表_总论_标准器",
+   "subjectName": "标准器",
+   "publishYear": "2003",
+   "definition": "用于确定、以实体表示、保持或重现一个量的测量单位或其倍数或小数倍(例如，标准电阻)，或一个量的已知值(例如，标准电池)的测量器具、仪器或系统。"
+  },
+  {
+   "cn": "计量标准",
+   "en": "measurement standard",
+   "source": "电子学名词",
+   "wordNumber": "17.013",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[测量]标准",
+   "en": "[measurement] standard",
+   "source": "电力名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "以给定的不确定度用于定义、物理上体现、保存或复现一个量的单位或其倍数、分数(例如标准电阻器),或一个量的已知值(例如标准电池)的实物量具、测量仪器仪表、参考物质或测量系统。"
+  },
+  {
+   "cn": "[测量]标准",
+   "en": "[measurement] standard",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.181",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "测量标准",
+   "en": "measurement standard,etalon",
+   "source": "计量学名词",
+   "wordNumber": "01.140",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "具有确定的量值和相关联的测量不确定度、实现给定量定义的参照对象。"
+  },
+  {
+   "cn": "参考测量标准",
+   "en": "reference measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.145",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "在给定组织或给定地区内指定用于校准或检定同类量其他测量标准的测量标准。"
+  },
+  {
+   "cn": "国家测量标准",
+   "en": "national measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.142",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "经国家权威机构承认，在一个国家或经济体内作为同类量的其他测量标准定值依据的测量标准。"
+  },
+  {
+   "cn": "搬运式测量标准",
+   "en": "traveling measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.147",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "提供在不同地点间传送、有时具有特殊结构的测量标准。"
+  },
+  {
+   "cn": "原级测量标准",
+   "en": "primary measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.143",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "使用原级参考测量程序或约定选用的一种人造物品建立的测量标准。"
+  },
+  {
+   "cn": "本征测量标准",
+   "en": "intrinsic measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.149",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "基于现象或物质固有和可复现的特性建立的测量标准。"
+  },
+  {
+   "cn": "工作测量标准",
+   "en": "working measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.146",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "用于日常校准或检定测量仪器或测量系统的测量标准。"
+  },
+  {
+   "cn": "国际测量标准",
+   "en": "international measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.141",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "由国际协议签约方承认的并旨在世界范围使用的测量标准。"
+  },
+  {
+   "cn": "次级测量标准",
+   "en": "secondary measurement standard",
+   "source": "计量学名词",
+   "wordNumber": "01.144",
+   "subjectFullName": "计量学_计量学通用名词_测量标准",
+   "subjectName": "测量标准",
+   "publishYear": "2015",
+   "definition": "通过用同类量的原级测量标准对其进行校准而建立的测量标准。"
+  },
+  {
+   "cn": "非标准测量",
+   "en": "non-standard measurement",
+   "source": "教育学名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "利用非标准的自然物作为量度进行的测量。"
+  },
+  {
+   "cn": "国家[测量]标准",
+   "en": "national [measurement] standard",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.183",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "标准计量仪器",
+   "en": "standard measuring instrument",
+   "source": "电力名词",
+   "wordNumber": "12.213",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "对计量仪表及装置进行标准计量检定以确定其性能(准确度、稳定度、灵敏度、可靠性等)是否合格所用的仪器。"
+  },
+  {
+   "cn": "标准计量设备",
+   "en": "standard measuring device",
+   "source": "电力名词",
+   "wordNumber": "12.214",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "产生检定或检验条件,或者既能产生检定、校准或检验条件,又能进行标准计量检定、校准或检验的设备。"
+  },
+  {
+   "cn": "国际测量标准",
+   "en": "international measuring standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "国际协议承认的在国际上作为对有关量的所有其他测量标准定值的测量标准。"
+  },
+  {
+   "cn": "国际[测量]标准",
+   "en": "international [measuring] standard",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.182",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "计量标准",
+   "en": "measurement standard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量标准误［差］",
+   "en": "standard error of measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量，度量",
+   "en": "measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准，规范",
+   "en": "standard",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "度量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性",
+   "en": "measurability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标定",
+   "en": "standardization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标准单元",
+   "en": "○1standard cell○2 standard unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排放标准",
+   "en": "effluent standard\",\"emission standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure\",\"measurement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量员",
+   "en": "measurer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子测量",
+   "en": "Quantum Measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "测量裁判员",
+   "en": "measurement judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量证书",
+   "en": "measurement certificate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据标准",
+   "en": "metadata standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准组织实施",
+   "en": "Standard Implementation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准系统",
+   "en": "standard system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准培训",
+   "en": "standard training",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库标准",
+   "en": "database standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准手枪",
+   "en": "standard pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准自行车",
+   "en": "standard bicycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量标准",
+   "en": "measurement standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.60",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有确定的量值和相关联的测量不确定度、实现给定量定义的参照对象"
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在研究中，根据规定的量度把一定的数值赋予所要研究对象的特定水平或性质的某种状态的过程。"
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "按照规定的程序经协商一致制定并由公认机构批准，共同使用和重复使用的规则、导则、指南或特性的文件，旨在一定范围内获得最佳秩序。"
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为了在既定范围内获得最佳秩序，促进共同效益，对现实问题或潜在问题确立共同使用和重复使用的条款以及编制、发布和应用标准的活动。"
+  },
+  {
+   "cn": "行业标准",
+   "en": "sector standard，industry standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "对没有国家标准而又需要在全国某个行业范围内统一技术要求，由国务院有关行政主管部门组织制定的公益类标准。"
+  },
+  {
+   "cn": "消毒测量",
+   "en": "disinfection measurement",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.14",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "终末消毒前现场勘察，了解消毒区内面积和（或）体积，为计算所配制的消毒药物量而进行的测量。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "测量层次",
+   "en": "measurement level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "社会测量中由对测量对象数量化程度的高低决定的测量水平。依数量化程度由低到高的顺序，可将测量分为定类测量、定序测量、定距测量和定比测量4个层次。"
+  },
+  {
+   "cn": "态度测量",
+   "en": "attitude measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "使用定量的心理量表，通过被访者的自我报告，估计被访者对某个对象的感受和认知的测量行动。"
+  },
+  {
+   "cn": "效率测量方法",
+   "en": "efficiency measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "测量和评价效率的方法。包括生产函数分析、数据包络分析和前沿随机分析等。"
+  },
+  {
+   "cn": "公平性测量方法",
+   "en": "equity measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "测量和评价公平的方法。包括家庭灾难性卫生支出、因病致贫发生率和基尼系数等。"
+  },
+  {
+   "cn": "气湿测定",
+   "en": "humidity measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用干湿球温度计、通风温湿度计等仪器，测定环境湿度的过程。"
+  },
+  {
+   "cn": "风速测定",
+   "en": "airflow measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用卡他温度计、翼状风速计、杯状风速计、热球式电风速计、电子风速计等仪器，测定环境风速的过程。"
+  },
+  {
+   "cn": "测量终点",
+   "en": "measurement endpoint",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与被选作评估指标的重要特性有关的可测量的（生态学）特征"
+  },
+  {
+   "cn": "气温测定",
+   "en": "temperature measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用干湿球温度计、通风温湿度计等仪器，测定环境温度的过程。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "放射性活度测量",
+   "en": "radioactivity measurements",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "用探测设备对样品放射性活度的定量测量，分绝对测量和相对测量两类。绝对测量无需中间手段，直接测得活度；相对测量需借助标准装置或标准样品等中间手段，间接测得活度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

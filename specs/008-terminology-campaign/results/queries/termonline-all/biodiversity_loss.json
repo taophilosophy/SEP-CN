@@ -1,0 +1,782 @@
+{
+ "key": "biodiversity loss",
+ "term": "biodiversity loss",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:42:44+00:00",
+ "status": "ok",
+ "note": "variant=biodiversity loss; 审定公布名词库=952; 海峡两岸名词对照库=299; 其他来源数据库=54; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "农学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "栖息于一定环境的所有动物、植物和微生物物种所拥有的全部基因以及它们与生存环境所组成的生态系统的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0148",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "生物中的多样化和变异性以及物种生境的生态复杂性。包括植物、动物和微生物的所有种及其组成的群落和生态系统。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0172",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "地球上生物的多样化和可变性。是在遗传、物种和生态系统水平上对变异的度量。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "兽医学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "在一定范围内由多种多样活的有机体(动物、植物、微生物)有规律地结合所构成的稳定生态综合体。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "动物学名词",
+   "wordNumber": "7.0597",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "电力名词",
+   "wordNumber": "13.052",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "在地球不同环境中生物遗传基因的品系、物种和生态系统多样性的总和。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "04.011",
+   "subjectFullName": "化工（四）_可持续发展",
+   "subjectName": "可持续发展",
+   "publishYear": "2020",
+   "definition": "所有来源的活的生物体中的变异性。这些来源包括陆地、海洋和其他水生生态系统及其所构成的生态综合体等。包含物种内部、物种之间和生态系统的多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0612",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "微生物学名词",
+   "wordNumber": "07.124",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "地球上所有生物类群层次结构(物种多样性)、基因和功能(遗传多样性)以及由这些生物与环境相互作用所构成的生态系统(生态多样性)的多样化状态。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "资源科学技术名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "资源科学技术_资源生态学",
+   "subjectName": "资源生态学",
+   "publishYear": "2008",
+   "definition": "地球上所有的生物——植物、动物和微生物及其生存环境的总和，包括遗传多样性、物种多样性、生态系统多样性、景观多样性四个层次。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0865",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "遗传基因、物种和生态系统三个层次多样性的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生态学名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "生物类群层次结构和功能的多样性。包括遗传多样性、物种多样性、生态系统多样性和景观多样性。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "风景园林名词",
+   "wordNumber": "12.0152",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "城市生物多样性",
+   "en": "urban biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0151",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "城市范围内的生物及其生存环境所形成的生态复合体。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity conservation ",
+   "source": "草学名词",
+   "wordNumber": "3.0227",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性编目",
+   "en": "biodiversity inventory ",
+   "source": "草学名词",
+   "wordNumber": "3.0239",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "动物学名词",
+   "wordNumber": "7.0603",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.181",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "对包括遗传多样性、物种多样性、生态系统多样性和景观多样性在内的生物类群层次结构和功能多样性的保护工作和行动。"
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "植物学名词",
+   "wordNumber": "13.0646",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "以生物多样性保护和可持续利用为目的而开展的基因、物种和生态系统多样性调查和评价活动。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "植物学名词",
+   "wordNumber": "13.0645",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性监测",
+   "en": "biodiversity monitoring",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性信息学",
+   "en": "biodiversity informatics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity\",\"biodiversity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性关键区",
+   "en": "critical region of biodiversity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球生物多样性信息机构",
+   "en": "Global Biodiversity Information Facility\",\"GBIF",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "损耗",
+   "en": "loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "丧失",
+   "en": "loss",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "损失",
+   "en": "loss",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护工程",
+   "en": "biodiversity protection project",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球生物多样性信息网络",
+   "en": "Global Biodiversity Information Facility (GBIF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互不得分",
+   "en": "mutual loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss\",\"lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能化定损",
+   "en": "smart loss assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零数据丢失",
+   "en": "zero data loss",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "输一分",
+   "en": "loss of rally",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丧失场地",
+   "en": "loss of ground",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度损失",
+   "en": "loss of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss\",\"make",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的科学革命中，新范式通常会具有比旧范式更强的解谜能力，但也有少部分可能是旧范式能解决但新范式解决不了的。"
+  },
+  {
+   "cn": "复合损失",
+   "en": "recombination loss",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离室中由于电离辐射作用而产生的正负离子重新结合成原子或分子而损失的电荷量。"
+  },
+  {
+   "cn": "生产力损失",
+   "en": "productivity loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算生产过程中由于发病、伤残（失能）、过早死亡导致生产力损失的间接成本。"
+  },
+  {
+   "cn": "失水",
+   "en": "moisture loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.18",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "在处理、贮藏、运输或市场销售过程中，水果和蔬莱产品的水分蒸发的过程。"
+  },
+  {
+   "cn": "语言丧失",
+   "en": "language loss",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0153",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "群体或个人逐渐丧失使用一种语言的能力的现象。"
+  },
+  {
+   "cn": "角色减退",
+   "en": "role loss",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.048",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体在承担病人角色过程中，因各种原因无法完全或持续履行该角色行为规范的现象。"
+  },
+  {
+   "cn": "失重率",
+   "en": "weight loss rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "金属样片除去腐蚀产物并清洗干燥后损失的重量与对照样片的比率。"
+  },
+  {
+   "cn": "消费无损耗性",
+   "en": "consumption loss-free",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.6",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息可以为多个信息消费者同时拥有和使用，而不影响信息完整性，且使用后价值不衰减的特征。"
+  },
+  {
+   "cn": "性冷淡",
+   "en": "loss of libido",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对性交缺乏兴趣的多种表现，包括无性欲以至完全拒绝性交；无性高潮，虽有性欲也不拒绝性交，但无法达到性高潮；很少出现性高潮，因而对性生活不感兴趣。"
+  },
+  {
+   "cn": "生理性体重下降",
+   "en": "physiological weight loss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿出生后未能立即进食，或进食量少，加上胎粪排出，尿液、汗液等的水分丧失等因素，造成的暂时性体重下降。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  },
+  {
+   "cn": "间接经济损失",
+   "en": "indirect economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于疾病的发病、伤残（失能）和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担；包括因疾病、伤残和过早死亡所损失的工作时间；由于疾病和伤残导致个人工作能力和效率降低而造成的损失；患者陪"
+  },
+  {
+   "cn": "卫生减员率",
+   "en": "medical loss rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.8",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因伤员、病员和非战斗外伤减员人数与平均参战人数之比，是卫勤机构分析卫生减员、计算工作量、组织医疗后送和预计卫生减员的重要依据。"
+  },
+  {
+   "cn": "国有资产流失",
+   "en": "loss of state assets",
+   "source": "马克思主义",
+   "wordNumber": "02.0424",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国有资产的出资者、管理者、经营者，因主观故意或过失，违反法律、行政法规和规章，造成国有资产的损失。国企改革中内部人收购、名买实送、化公为私是国有资产流失的重要现象。"
+  },
+  {
+   "cn": "未遵医嘱使用减肥药物",
+   "en": "non-compliance with prescribed weight loss medication",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "超出医疗范围、自行服用减肥药物的行为。"
+  },
+  {
+   "cn": "战时减员统计",
+   "en": "statistics of loss in number in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队战时减员资料的信息收集、整理和分析，其原始资料主要来自“战时减员登记册”，并以“伤票”“住院登记簿”作核对和补充。"
+  },
+  {
+   "cn": "洛杉矶学派",
+   "en": "Los Angeles School",
+   "source": "社会学名词",
+   "wordNumber": "3.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学",
+   "subjectName": "城市社会学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来出现的一批以美国洛杉矶或南加州为研究对象、基于某些共同的理论假设的论著所代表的学科派别。代表了后现代的城市观。与早年芝加哥学派相比，他们强调城市边缘而非中心的作用；全球化、大公司主"
+  },
+  {
+   "cn": "因伤减员率",
+   "en": "rate of loss in number due to injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤减员人数与平均参战人数之比，反映战伤减员的程度。"
+  },
+  {
+   "cn": "《卫藏通志》",
+   "en": "Dbus gtsang lo rgyus",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0375",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "清代西藏志书，十六卷。作者及成书年代不详，或谓是清驻藏大臣松筠所撰。分类记载卫藏故实，包括考证、疆域、山川、程站、喇嘛、寺庙、番目、兵制、镇抚、钱法、贸易、条例、纪略、抚恤、部落、经典等方面，卷首有御"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

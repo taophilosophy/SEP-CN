@@ -1,0 +1,612 @@
+{
+ "key": "martinez-manrique vicente",
+ "term": "Martínez-Manrique Vicente",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:38:08+00:00",
+ "status": "ok",
+ "note": "variant=Martínez-Manrique Vicente; 审定公布名词库=72; 海峡两岸名词对照库=63; 其他来源数据库=14; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "博古架",
+   "en": "antique shelf",
+   "source": "风景园林名词",
+   "wordNumber": "11.0020",
+   "subjectFullName": "风景园林_风景园林艺术_装折艺术",
+   "subjectName": "装折艺术",
+   "publishYear": "2025",
+   "definition": "由木料拼接组装成多个大小形状各异的空格、柜、屉，用以摆放古玩、层次丰富的透空格架。具有室内隔断和陈设家具的作用。"
+  },
+  {
+   "cn": "仿古涂料",
+   "en": "antique coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0128",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "涂膜外观具有仿古或怀旧效果的一种艺术涂料。"
+  },
+  {
+   "cn": "仿古纸",
+   "en": "antique paper",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.287",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "仿照古代造纸工艺制作的现代纸张。一般还要在其上进行染色等工序，以取得与古纸相似的效果。中西皆有仿古纸的制作，但工艺不同。"
+  },
+  {
+   "cn": "仿古旅游",
+   "en": "antique tourism",
+   "source": "地理学名词",
+   "wordNumber": "21.010",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "以遗址和对古代生活的再现作为游览对象的旅游。"
+  },
+  {
+   "cn": "白榴碱玄质响岩",
+   "en": "vicoite",
+   "source": "地质学名词",
+   "wordNumber": "04.04.269",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "碱玄质响岩的一个变种。主要矿物为白榴石，其次为近等量的碱性长石和斜长石，还有少量的单斜辉石。是碱玄质响岩和响岩质碱玄岩之间的过渡岩石。"
+  },
+  {
+   "cn": "许可证",
+   "en": "licence",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.106",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "数字权利描述语言基本单位，即某一个权利发布者对另一个权利接受者的权利声明。"
+  },
+  {
+   "cn": "许可证",
+   "en": "license",
+   "source": "药学名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "政府或公司为了给予某个体授权而颁发的执照，或者用于软件规定使用者权利而规定的格式合同。"
+  },
+  {
+   "cn": "许可证",
+   "en": "license",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.041",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "审管部门在安全审评基础上颁发的、并附有其持有者要遵守的特定要求和条件的许可证书。"
+  },
+  {
+   "cn": "许可证",
+   "en": "license",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.017",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "电信业务经营者经营电信业务的法定凭证。分为电信业务经营许可证和电信设备进网许可证两种。"
+  },
+  {
+   "cn": "苉",
+   "en": "picene",
+   "source": "化学名词",
+   "wordNumber": "02.0171",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "结构式为<img src='/root/syzx/static/spz/huaxue2.02.0171.1.png'/>的化合物。"
+  },
+  {
+   "cn": "营业执照",
+   "en": "business license",
+   "source": "风景园林名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "企业或组织具有合法经营权的凭证。"
+  },
+  {
+   "cn": "樊尚咽峡炎",
+   "en": "Vincent angina",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.6.11",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈炎性疾病",
+   "subjectName": "咽喉–头颈炎性疾病",
+   "publishYear": "2025",
+   "definition": "由梭形杆菌及樊尚螺旋体感染导致的亚急性扁桃体炎。特征为明显的局限性炎性反应和溃疡形成。表现为单侧咽痛明显，一侧扁桃体和咽峡覆有灰色或黄色假膜，擦去后可见下面有溃疡。全身症状不明显，牙龈常见类似病变。1"
+  },
+  {
+   "cn": "互联网许可证",
+   "en": "internet license",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.012",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "中国国务院2000年规定对经营性互联网信息服务实行许可制度；对非经营性互联网信息服务实行备案制度。在此基础上，一些特殊的网络服务还要由相关部门前置审批，取得特别行政许可或专项备案。未取得许可或者未履行"
+  },
+  {
+   "cn": "法定许可",
+   "en": "legal license",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.002",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "在某种特定情况下，法律允许他人可不经著作权人同意使用已发表的作品，但应向著作权人支付报酬，说明作者姓名、作品名称和出处，并不得侵犯著作权人依照著作权法享有的其他权利的制度。是对著作权的一种限制。依中国"
+  },
+  {
+   "cn": "强制许可",
+   "en": "compulsory license",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.003",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "在著作权人无正当理由而拒绝与使用者达成使用作品协议的情况下，使用者经向著作权行政管理部门申请并获授权而使用该作品。强制许可不必征得权利人同意，但应向其支付报酬。"
+  },
+  {
+   "cn": "独家许可",
+   "en": "sole licence",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.185",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在一定地域内，被许可方在合同有效期内对被许可使用的专利技术享有排他的使用权，许可方不得把该专利技术再许可第三方使用，但许可方自己有权在该地域内使用该项技术。"
+  },
+  {
+   "cn": "独占许可",
+   "en": "exclusive licence",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.186",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在一定的期限和地域内，被许可方享有对技术的独占使用权，许可方在合同规定的地域和期限内不得再向第三方授予该项技术的使用权，同时许可方自己也不得使用该项技术制造和销售产品。"
+  },
+  {
+   "cn": "非独占许可",
+   "en": "nonexclusive licence",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.190",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在合同有效期内，在合同区域内，被许可方对合同技术不享有独占的使用权利。"
+  },
+  {
+   "cn": "交叉许可",
+   "en": "cross license",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.215",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "交易各方将各自拥有的专利、专有技术的使用权相互许可使用，互为技术供方和受方。在合同期限和地域内，合同双方对对方的许可权利享有使用权、产品生产和销售权。双方权利对等，一般不需支付使用费。"
+  },
+  {
+   "cn": "［专利］强制许可",
+   "en": "compulsory license",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.222",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "国务院专利行政部门依照专利法规定，不经专利权人同意，直接允许其他单位或个人实施其发明创造的一种许可方式。"
+  },
+  {
+   "cn": "马丁·伊·索列尔",
+   "en": "Martín y Soler\",\"Vicente(西班牙)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "仿古旅游",
+   "en": "antique tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "使用许可证",
+   "en": "license",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "苉",
+   "en": "picene",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿斯",
+   "en": "Haas\",\"Monique(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍尔达",
+   "en": "Jordá\",\"Enrique(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "出口许可证",
+   "en": "export licence",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家经营许可证",
+   "en": "exclusive licence",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家许可证，排他许可证",
+   "en": "sole license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口许可证",
+   "en": "import license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "临时许可证",
+   "en": "provisional licence",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通许可证",
+   "en": "simple license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通许可证，一般许可证",
+   "en": "general licence",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别许可证",
+   "en": "special license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特定许可证",
+   "en": "specific license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "未列限额许可证",
+   "en": "open license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限制性许可证",
+   "en": "restrictive license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "许可证保险",
+   "en": "license insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "许可证费用",
+   "en": "license fee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "许可证合同",
+   "en": "license contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资格证",
+   "en": "license",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格证",
+   "en": "license",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "license check",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据许可协议",
+   "en": "data license agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贡献者许可协议",
+   "en": "Contributor License Agreement (CLA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息服务牌照",
+   "en": "financial information service license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证照电子化",
+   "en": "electronic license and permit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付业务许可证",
+   "en": "payment service provider (PSP) license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信电子证照系统",
+   "en": "trusted electronic license system (ELS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人征信业务牌照",
+   "en": "license for personal credit information operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证照分离",
+   "en": "reform to separate all operating permits from the business license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三证合一",
+   "en": "integrate the business license, the organization code certificate, and the certificate of taxation registration into one document",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 18013-1-2018 信息技术 个人证件 符合ISO的驾驶执照 物理特性和基本数据集》",
+   "en": "BS ISO/IEC 18013-1:2018 Information technology — Personal identification — ISO-compliant driving licence — Physical characteristics and basic data set",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食品添加剂生产许可证书",
+   "en": "food additive production license",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "市场监督管理部门依照食品添加剂生产许可制度，向通过食品添加剂生产许可审查的生产者核发的，允许其从事食品添加剂生产活动的行政许可证书文件"
+  },
+  {
+   "cn": "放射诊疗许可",
+   "en": "radiodiagnosis and radiotherapy license",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "卫生行政机关根据医疗机构的申请，经依法审查，准予其从事放射诊疗活动的行为。"
+  },
+  {
+   "cn": "放射诊疗许可项目",
+   "en": "radiodiagnosis and radiotherapy license project",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "按照诊疗风险和难易程度，对许可的放射诊疗活动进行分类，分为放射治疗、核医学、介入放射学和X射线影像诊断项目。"
+  },
+  {
+   "cn": "放射诊疗许可校验",
+   "en": "radiodiagnosis and radiotherapy license check",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "卫生行政机关依法对医疗机构放射诊疗活动的基本条件和执业状况检查、评估、审核，并做出相应结论的过程。"
+  },
+  {
+   "cn": "放射诊疗许可变更",
+   "en": "radiodiagnosis and radiotherapy license alteration",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "根据医疗机构的申请，卫生行政机关对放射诊疗许可的具体内容在许可被批准后加以变更的行为。"
+  },
+  {
+   "cn": "放射诊疗许可注销",
+   "en": "radiodiagnosis and radiotherapy license cancel",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗机构取得的放射诊疗许可的实体权利消灭后，卫生行政机关履行的终止许可的程序性行为。"
+  },
+  {
+   "cn": "医疗器械行政许可",
+   "en": "administrative license of medical equipment",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "行政主体根据行政相对方的申请，经依法审查，通过颁发许可证、执照等形式，准予其从事医疗器械相关特定活动的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

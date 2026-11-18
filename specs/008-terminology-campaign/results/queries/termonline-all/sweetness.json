@@ -1,0 +1,322 @@
+{
+ "key": "sweetness",
+ "term": "sweetness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:43:17+00:00",
+ "status": "ok",
+ "note": "variant=sweetness; 审定公布名词库=57; 海峡两岸名词对照库=10; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "甘",
+   "en": "sweet",
+   "source": "中医药学名词",
+   "wordNumber": "06.059",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "能补，能缓，能和的药味。"
+  },
+  {
+   "cn": "相对甜度",
+   "en": "relative sweetness",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "食品科学技术_食品科学_食品化学_食品风味化学",
+   "subjectName": "食品风味化学",
+   "publishYear": "2020",
+   "definition": "以一定浓度的蔗糖水溶液为标准，在20℃用不同浓度的其他甜味剂与之比较，获得的以蔗糖表示的甜度值。"
+  },
+  {
+   "cn": "常规变换",
+   "en": "sweet shift",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.218",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "由于采用的变换催化剂不抗硫，需要将粗合成气中的硫预先脱除后才能实现一氧化碳与水蒸气反应生成氢气和二氧化碳的工艺过程。"
+  },
+  {
+   "cn": "甜乳清",
+   "en": "sweet whey",
+   "source": "畜牧学名词",
+   "wordNumber": "06.415",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_炼乳的加工",
+   "subjectName": "炼乳的加工",
+   "publishYear": "2020",
+   "definition": "从生产硬质干酪、半硬质干酪、软干酪和凝乳酶干酪素中获得的副产品乳清。"
+  },
+  {
+   "cn": "甜味",
+   "en": "sweet taste",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0135",
+   "subjectFullName": "食品科学技术_食品科学_食品化学_食品风味化学",
+   "subjectName": "食品风味化学",
+   "publishYear": "2020",
+   "definition": "一种基本味觉。最受人们欢迎的滋味之一，改进食品的食用性质。"
+  },
+  {
+   "cn": "甘薯",
+   "en": "sweet potato",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0747",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_薯类与薯类制品",
+   "subjectName": "薯类与薯类制品",
+   "publishYear": "2020",
+   "definition": "管状花目旋花科一年生草本植物，具地下块根，块根纺锤形，外皮土黄色或紫红色。"
+  },
+  {
+   "cn": "甜体",
+   "en": "sweet body",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1225",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "由砂糖和各种糖浆构成的甜味基体。"
+  },
+  {
+   "cn": "软糖",
+   "en": "soft sweet",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1256",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "以亲水胶体为基本组成的软性糖果的总称。"
+  },
+  {
+   "cn": "甜高粱",
+   "en": "sweet sorghum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "04.0009",
+   "subjectFullName": "化工（一）_生物质制油_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2017",
+   "definition": "禾本科高粱属一年生草本植物，可作为粮食、糖料或饲料作物栽培，也可作为一种能源作物栽培。"
+  },
+  {
+   "cn": "甜味剂",
+   "en": "sweeting agent",
+   "source": "药学名词",
+   "wordNumber": "02.329",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "赋予制剂以甜味的添加剂。"
+  },
+  {
+   "cn": "净气",
+   "en": "sweet gas",
+   "source": "石油名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "全脂加糖乳粉",
+   "en": "sweet milk powder",
+   "source": "畜牧学名词",
+   "wordNumber": "06.298",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_发酵乳制品加工",
+   "subjectName": "发酵乳制品加工",
+   "publishYear": "2020",
+   "definition": "添加白砂糖，蛋白质不低于15.8%，脂肪不低于20.0%，蔗糖不超过20.0%，调制而成的乳粉。"
+  },
+  {
+   "cn": "甜性奶油",
+   "en": "sweet cream butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.366",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "用新鲜稀奶油(甜性稀奶油)制成的一种奶油。分为加盐和不加盐两种。"
+  },
+  {
+   "cn": "甜橙油",
+   "en": "sweet orange oil",
+   "source": "林学名词",
+   "wordNumber": "12.606",
+   "subjectFullName": "林学_林产化学加工_树木分泌物与提取物",
+   "subjectName": "树木分泌物与提取物",
+   "publishYear": "2016",
+   "definition": "柑橘属植物甜橙[Citrus sinensis (L.) Osbesk]新鲜整果或果皮经水蒸气蒸馏得到的精油。"
+  },
+  {
+   "cn": "青蒿",
+   "en": "sweet wormwood herb",
+   "source": "中医药学名词",
+   "wordNumber": "06.393",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "菊科植物黄花蒿 Artemisia annua L. 干燥地上部分。"
+  },
+  {
+   "cn": "甜加糯玉米",
+   "en": "sweet plus waxy corn",
+   "source": "农学名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "由甜质基因和糯质基因重组纯合培育出的，果穗上同时具有甜粒和糯粒的新玉米类型。"
+  },
+  {
+   "cn": "霉烂草木樨中毒",
+   "en": "mouldy sweet clover poisoning",
+   "source": "兽医学名词",
+   "wordNumber": "15.256",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "家畜连续采食霉烂的草木樨引起的一种以急性凝血障碍性为特征的中毒性疾病。"
+  },
+  {
+   "cn": "甘薯干",
+   "en": "sweet potato tuber flake",
+   "source": "畜牧学名词",
+   "wordNumber": "07.067",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "经加工干燥处理的甘薯。水分含量为13%～22%。属于能量饲料。"
+  },
+  {
+   "cn": "甘薯叶粉",
+   "en": "sweet potato leaf meal",
+   "source": "畜牧学名词",
+   "wordNumber": "07.103",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "以新鲜甘薯叶、叶柄及部分甘薯茎为原料，经干燥、粉碎、加工后的饲料产品。"
+  },
+  {
+   "cn": "甘薯黑斑霉毒素",
+   "en": "mould sweet potato toxin",
+   "source": "畜牧学名词",
+   "wordNumber": "07.543",
+   "subjectFullName": "畜牧学_饲料与营养_常见有毒有害物质",
+   "subjectName": "常见有毒有害物质",
+   "publishYear": "2020",
+   "definition": "由甘薯黑斑病引起的甘薯块根病变组织，通过一系列异常代谢产生的一组呋喃萜烯类物质的统称。对动物有毒害作用。"
+  },
+  {
+   "cn": "甘",
+   "en": "sweet",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "低硫天然气",
+   "en": "sweet gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "甜味剂",
+   "en": "sweeting agent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甜蜜的家",
+   "en": "Home\",\"Sweet Home",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bishop, Henry R."
+  },
+  {
+   "cn": "波陡",
+   "en": "wave steepness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "叶面湿润度",
+   "en": "surface wetness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "甲板淹湿",
+   "en": "deck wetness",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "叶面湿润期",
+   "en": "surface wetness duration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "燥湿化痰",
+   "en": "drying the wetness-evil and eliminating phlegm",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "芳香化浊",
+   "en": "eliminating wetness-evil with drugs of fra-grant flavour",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甜点",
+   "en": "sweet spot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
