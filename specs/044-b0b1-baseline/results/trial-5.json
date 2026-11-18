@@ -1,0 +1,99 @@
+{
+ "schema": "sep-cn-b0b1-trial/1",
+ "seed": 20261118,
+ "sample": [
+  "delmedigo",
+  "genotype-phenotype",
+  "phil-bio-latin-america",
+  "spinoza-modal",
+  "williams-bernard"
+ ],
+ "results": [
+  {
+   "slug": "delmedigo",
+   "b0": true,
+   "b1": true,
+   "b0_failed": [],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  },
+  {
+   "slug": "genotype-phenotype",
+   "b0": true,
+   "b1": true,
+   "b0_failed": [],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  },
+  {
+   "slug": "phil-bio-latin-america",
+   "b0": false,
+   "b1": true,
+   "b0_failed": [
+    "math_delim"
+   ],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  },
+  {
+   "slug": "spinoza-modal",
+   "b0": true,
+   "b1": true,
+   "b0_failed": [],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  },
+  {
+   "slug": "williams-bernard",
+   "b0": true,
+   "b1": true,
+   "b0_failed": [],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  }
+ ],
+ "b0_failures": [
+  {
+   "slug": "phil-bio-latin-america",
+   "b0": false,
+   "b1": true,
+   "b0_failed": [
+    "math_delim"
+   ],
+   "b0_error": null,
+   "b1_error": null,
+   "b1_pin_bad": [],
+   "b1_token_asym": 0,
+   "b1_token_diff": null
+  }
+ ],
+ "summary": {
+  "total": 5,
+  "b0_pass": 4,
+  "b1_pass": 5,
+  "finding": {
+   "slug": "phil-bio-latin-america",
+   "predicate": "math_delim",
+   "root_cause": "上游文字层误植：正文 'Kuhn (1962 [1970\\)' 的右方括号 ']' 被误写为 LaTeX 闭定界符 '\\)'（chr(92)+')' 仅此 1 处，无对应 '\\(', 属标点误植而非数学定界符）",
+   "classification": "文字层（ADR-0062 四类之①排印/OCR 手误）",
+   "disposition": "入全局勘误表 + 中文译注（该词条已译时）；不入补丁池（非格式层）",
+   "note": "B0 判据按 en_source_audit._check_math 同口径报 math_delim 硬错误，正确揪出上游疏漏；根因是字符误植，非模板结构变异",
+   "registered": false
+  }
+ }
+}
