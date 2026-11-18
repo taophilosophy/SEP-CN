@@ -5,7 +5,7 @@
 输出: stdout JSON {audited, hash_ok, divergent_registered, hash_fail, missing_files}
 行为: 对 baseline/entries.json 登记的每件抓取物复算 SHA-256 并核对存在；
       双账语义（ADR-0045）：文件与原始钉不一致但已按批准勘误登记于
-      baseline/divergences.json（且账目相符）者计入 divergent_registered，
+      baseline/en-errata/divergences.json（且账目相符）者计入 divergent_registered，
       不作 hash_fail；未登记或账目不符仍为 hash_fail。
       task_ops.py clear 的 gate 直接调用本模块。
 """

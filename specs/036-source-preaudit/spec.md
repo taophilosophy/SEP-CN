@@ -22,7 +22,7 @@
 
 * **HTML 本体核查**（`en/<slug>/index.html`，canon）：页面真实性与截断；typo 候选（词内数字/等号混入、重复词、异常标点串、数字替换字母、`pp.` 缺空格——启发式只产候选，人按 ADR-0038 四类定性）；页内锚点配对（硬）；站内词条链接对 `baseline/entries.json` 目录（硬）；包内资产存在性（硬，图片与链接目标）；`\(…\)`/`[…\]` 定界符配对与 TeX 花括号平衡（硬）；`\unicode`/`\char` 已知渲染问题族（告警，ADR-0049）；表格无行/配平（硬）；嵌套表（信息）；note/fn 孤儿定义（告警）；空段落与标题跳档（告警）；外链盘点（`--net` 活体检查：缓存＋≥5s 礼貌间隔＋退避；死链只登记不修）。
 * **镜像轴保真**（yuanwen↔en）：specs/018 协议逐段人审＋书目逐条计数比对；机检辅助 specs/018 `regression_scan.py`。在途 s2.5_checked 件镜像轴随 specs/028 作业面继续，勿双跑。
-* **处置出口**：ADR-0038 四类→`specs/001-sep-sync-pipeline/results/en-errata.md` 先行登记→就地勘误→`yuanwen.py` 重转→分歧账登记（`divergence.py register`）；死链/待考→本 spec `results/` 裁定表登记，不改正文；typo 误报→裁定表记录成因，同类 ≥3 处回修工具（specs/030 §4.7 先例）。
+* **处置出口**：ADR-0038 四类→全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）先行登记＋中文译注承载（en/ 绝对冻结、不就地勘误，ADR-0062）；死链/待考→本 spec `results/` 裁定表登记，不改正文；typo 误报→裁定表记录成因，同类 ≥3 处回修工具（specs/030 §4.7 先例）。
 
 ## 4. 执行规则
 

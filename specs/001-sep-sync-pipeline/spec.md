@@ -23,6 +23,8 @@
 * **存档版**（`archives/<ed>/entries/<slug>/`）：与在线版正文逐字节等价（仅站点框架不同）；robots.txt 禁爬 /archives/，**用户已于 2026-10-26 明确授权绕过**。
 * **爬取纪律**：robots.txt 声明 `crawl-delay: 5`；用户已于 2026-10-26 授权绕过禁区；**5 秒间隔策略已于 2026-11-18 废除**（ADR-0069）——抓取层不再设最小请求间隔，退避重试与逐请求留痕不变。
 
+> **2026-11-19（ADR-0076）**：本节为 2026-10-26 抽样时的历史事实记录，原文保留；HTML 模板契约现以 `baseline/en-template/template-contract.md` 为**正典**（T 类目），全局勘误表迁 `baseline/en-errata/`（E 类目）。契约修订以正典为准。
+
 ## User Scenarios & Testing *(mandatory)*
 
 ### User Story 1 - 词条快照基线（Priority: P1）

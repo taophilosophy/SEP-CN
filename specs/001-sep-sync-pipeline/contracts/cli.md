@@ -21,7 +21,7 @@
       相对引用，续抓 notes.html、补充材料、图片；404 记入 missing（缺省件）；
       archinfo.cgi 查询最新存档版；全部登记进 baseline/entries.json。
       双账语义（ADR-0045）：上游与原始网页钉（files[].sha256）一致 → 跳过写盘
-      与登记，报告 result=unchanged；上游已变而存在未搬运分歧（divergences.json）
+      与登记，报告 result=unchanged；上游已变而存在未搬运分歧（divergences.json，`baseline/en-errata/`，ADR-0076）
       → 拒抓待搬运；上游真变且无分歧才写入新原始物并前移钉。
 ```
 
@@ -164,7 +164,7 @@
        excerpt, zh_doc, zh_section, zh_line}], compared_at, new_snapshot}]}
 行为: 抓取英文源最新快照到 script/tmp/compare-<slug>.html（礼貌 5 秒，不覆盖 en/ 基线），
       与原始网页字节比较（ADR-0045：本地件与原始钉一致直接用；有批准分歧经
-      baseline/divergences.json 回溯 base_commit 的 git 原始字节）；节级拆分（h2 锚 id + 标题，首 h2 前为导言伪节）；
+      baseline/en-errata/divergences.json 回溯 base_commit 的 git 原始字节）；节级拆分（h2 锚 id + 标题，首 h2 前为导言伪节）；
       节级 added/removed/moved + modified 节内段落级 diff（difflib，附原文摘录）；
       每条变更映射 baseline.zh_doc 的 md 文档与 `## 节标题` 行号；
       英文源与原始网页钉一致（files[].sha256 相同）时报"无变更"；
@@ -183,7 +183,7 @@
 | 包内资产补齐 | `fetch_audit.py` | 只补缺件，**不写 baseline**（审计 JSON 即凭证，哈希由下次 fetch_entry 收敛） |
 | 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
-| en/ 冻结、上游真变与核验 | `divergence.py`（register / carry / unregister / verify / patch / list）；补丁池 `baseline/en-patches/`（一补丁一文件 `<id>.patch`＋`INDEX.json` 生成物）＋`tools/check_en_patches.py` | **ADR-0062**：`en/` 与原始钉逐字节一致，文字层与格式层变动一律禁止；文字缺陷入全局勘误表（`results/en-errata.md`）＋中文译注，格式问题入补丁池由转换层应用（`find/replace/expect` 命中计数硬校验）。分歧账（ADR-0045）只用于**上游真变**：`carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；未登记静默改动由 verify 门禁红灯 |
+| en/ 冻结、上游真变与核验 | `divergence.py`（register / carry / unregister / verify / patch / list）；补丁池 `baseline/en-patches/`（一补丁一文件 `<id>.patch`＋`INDEX.json` 生成物）＋`tools/check_en_patches.py` | **ADR-0062**：`en/` 与原始钉逐字节一致，文字层与格式层变动一律禁止；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）＋中文译注，格式问题入补丁池由转换层应用（`find/replace/expect` 命中计数硬校验）。分歧账（ADR-0045）只用于**上游真变**：`carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；未登记静默改动由 verify 门禁红灯 |
 | 补丁池离线校验 | `tools/check_en_patches.py` | 逐条校验补丁在当前 `en/` 上的命中计数等于 `expect`（上游漂移→失配即报）；转换层（`tools/yuanwen.py`）同源校验，失配即该件转换硬失败 |
 | 全量回源 sha 核对 | `drift_scan.py` | 只读审计：1872 词条 live index.html 对原始钉核对（并发豁免配置 64路×10s，留痕 http-log）；报告落盘 results/drift-scan-<ts>.json；真漂移清单供 compare.py/update 任务消费；不写 en/ 不动台账 |
 | 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic --strict＋check_math_zh --strict；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms＋check_pairs --gate＋check_style（ADR-0063 双轴）、s25 挂 check_math_zh（默认档）＋check_style（specs/028 O1，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退（合法前驱由 ORDER 单一事实源推导，specs/040） |

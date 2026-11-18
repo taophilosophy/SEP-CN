@@ -49,7 +49,7 @@ from tools.common import (BASELINE_LOCK, load_json, repo_path, sha256_bytes,
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-DIV_PATH = ("baseline", "divergences.json")
+DIV_PATH = ("baseline", "en-errata", "divergences.json")
 SNAP_DIR = ("specs", "001-sep-sync-pipeline", "results", "upstream-snapshots")
 SCHEMA = "sep-cn-divergences/1"
 

@@ -10,7 +10,7 @@
 对账律（doctrine 10，ADR-0073）：
   失败清单必须 join **全部已知账**，否则"新发现"里混着已定性项，账不可消费。
   已知账共两本：
-    ① `specs/001/results/en-errata.md`            —— 上游文字层疏漏（translation-side）
+    ① `baseline/en-errata/en-errata.md`           —— 上游文字层疏漏（translation-side，ADR-0076 迁址）
     ② `specs/039/results/i3-deep-*.json`          —— 已逐件定性的转换器缺陷/合法移位
   故 B1 失败三态：known-errata / known-converter / new；`b1_new` 必须为 0
   才算账本闭合（未闭合时逐条列出 `b1_unaccounted`）。
@@ -49,7 +49,7 @@ def load_errata_slugs():
                      **不等于缺陷成立**。二者混为一谈会把"可能是判据误报"读成
                      "已知缺陷"，故单列。
     """
-    path = repo_path("specs", "001-sep-sync-pipeline", "results", "en-errata.md")
+    path = repo_path("baseline", "en-errata", "en-errata.md")
     if not os.path.exists(path):
         return {}
     out = {}

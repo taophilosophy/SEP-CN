@@ -1,0 +1,5 @@
+{
+ "schema": "sep-cn-en-anomalies/1",
+ "note": "例外/变异登记册：上游原生（非缺陷）变异逐条人审登记。每条 {id, class, description, slugs|count, evidence, judged_by, judged_at, judgement}；judgement ∈ {upstream-native, judged-ok, exempt}。豁免＝已人审后豁免，非免检（ADR-0070 建议④）。空册＝尚无登记，不代表无变异（T3 边界，specs/044 §2.3）。",
+ "anomalies": []
+}

@@ -54,8 +54,9 @@
 | [047-structural-reverse-check](047-structural-reverse-check/spec.md) | 047 — 结构反向核验：md ↔ HTML 结构比对补 I2 自证盲区 | — | — | — | — |
 | [048-independent-judge](048-independent-judge/spec.md) | 048 — 独立模型族辅助判官：GEMBA-MQM 落地（供人审，不替代） | — | — | — | — |
 | [049-enhancements](049-enhancements/spec.md) | 049 — 翻译增强三件：术语自动提取回填 / 回译核验 / 实时术语提示 | — | — | — | — |
-| [050-term-extraction-denoise](050-term-extraction-denoise/spec.md) | specs/050 术语提取降噪（标本兼治） | — | — | — | — |
+| [050-term-extraction-denoise](050-term-extraction-denoise/spec.md) | specs/050 术语提取降噪（标本兼治） | — | — | ✓ | — |
 | [051-pipeline-gap-audit](051-pipeline-gap-audit/spec.md) | 翻译全流程遗漏审计（2026-11-19） | — | — | — | — |
 | [052-mandatory-backfill](052-mandatory-backfill/spec.md) | 强制集存量回补与跨机收编件处置（specs/052） | — | ✓ | ✓ | — |
+| [053-en-template-audit](053-en-template-audit/spec.md) | 053 — EN 语料模板审计与勘误装配线 | — | — | — | — |
 
-共 51 个规格目录。
+共 52 个规格目录。

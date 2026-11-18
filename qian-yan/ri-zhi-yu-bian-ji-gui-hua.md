@@ -186,3 +186,11 @@
 * 并行会话（specs/051 流程遗漏审计线）于轮次间在本地 main 落三笔提交并先推（远端 5ef60fcb5），与本线凭证文件零交集，后笔干净落其上——逐文件 staging 纪律再次奏效。
 * 侧记：A 档候选含大量散文式短语（raises question、happiness consists、equal consideration 等，命中多为跨学科噪音或空），审定库真命中密度随队列后段递减的趋势已可辨；裁定阶段按 ADR-0070 逐条判读，噪音凭证不构成工作量负担（四态审计按登记册行计，不按凭证计）。
 * 当日审计账：`audit-2026-11-19` 四态 1334/783/79/8773 与 11-18 持平（候选凭证不触登记册行状态）；`check_terms` 绿。余 9,961 条，约 11.1 小时。
+
+## 2026-11-19 EN 语料模板审计线开线（specs/053＋ADR-0076 三类目制）
+
+* 定向分析（应“逐个遍历英文 HTML/md 审模板”指令）：全库 B0/B1 遍历 specs/044 已做过且账本闭合（1,872 件，new=0）；真缺口＝specs/047 结构反向核验已批零实现、B0 判据增强五项未做、例外登记册未落地、译注队列无台账（errata 内 9 处“译注队列”字样无追踪）。预期校正：模板失败几乎全是文字层（勘误＋译注），补丁池仅 3 件全格式层——大规模产补丁的想象与实测相反。
+* 用户裁定链：先修门禁红（specs/050 豁免台账迁 results/，提交 2d673c7f8）→ 批准 053＋指令三族分目、目录结构执行国标等 → 三方案预览选定“三类目平铺”。
+* ADR-0076 落地：baseline/ 受控库 T/P/E 三类目——`en-template/`（template-contract.md 模板契约正典＋anomalies.json 例外登记册空册＋README）、`en-patches/` 原位不动、`en-errata/`（en-errata.md 自 specs/001 results 收编＋divergences.json 自 baseline 根收编＋README）。标准依据＝组合推导（无国标直接规定仓库目录结构）：GB/T 26162-2021 分类方案、DA/T 22-2015 §3.2 五步＋§5.4.1 档号五原则、GB/T 18894-2016 存储结构与元数据、IEEE 828 受控库 vs 工作区分界（机检产物留 specs/*/results/）；三标准登记进 rules/README 清单。
+* 引用面手术：代码常量 2（check_pairs ERRATA_PATH、divergence DIV_PATH）＋docstring 4＋specs/044 b0b1_scan_all 路径钉点＋活文档 7（AGENTS、rules/04/06/README 判例＋标准清单、specs/001 spec 历史指针＋contracts/cli、specs/036）；specs/036 处置出口顺手改准（旧文“就地勘误”已被 ADR-0062 冻结语义取代）。ADR 索引补齐滞后债 0067–0075 十行＋0076。
+* 门禁与推送：check_all 16 项全绿、divergence verify 定点全绿（分歧账新路径三账相符）；提交即推，origin/main..main 为空。P1–P4（047 实施、判据增强、分流续批、译注挂载）按 specs/053 待批批次推进。

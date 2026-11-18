@@ -69,7 +69,7 @@ CH2NUM = {ch: num for num, ch in NUM2CH.items()}
 CIRCLED_RE = re.compile("[" + re.escape("".join(NUM2CH[ch] for ch in sorted(NUM2CH))) + "]")
 ANCHOR_OK_PREV = tuple("。！？；：…”』〉》）")  # 锚点合法的前一字符（句末标点/右引号/右书名号/右括号）
 ERRATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                           "specs", "001-sep-sync-pipeline", "results", "en-errata.md")
+                           "baseline", "en-errata", "en-errata.md")
 _ERRATA_CACHE = {}
 
 

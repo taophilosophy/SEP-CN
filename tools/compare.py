@@ -4,7 +4,7 @@
 对任一词条：抓取英文源最新快照（不覆盖 en/ 不可变原始物），与**原始网页字节**
 比较，产出段落级变更清单（新增/删除/修改/移动），每条变更标注英文节号（锚 id + 标题）
 并映射到中文仓库对应 md 文档与节。比较基准＝原始网页钉（ADR-0045）：本地件与
-files[].sha256 一致直接用；有批准分歧（baseline/divergences.json）经 base_commit
+files[].sha256 一致直接用；有批准分歧（baseline/en-errata/divergences.json）经 base_commit
 回溯 git 原始字节——本地勘误不会伪装成上游变更。
 
 流程（FR-007/US-3）：

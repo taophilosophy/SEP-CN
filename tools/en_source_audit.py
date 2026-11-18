@@ -19,7 +19,7 @@
 
 机检不作裁判（specs/018 先例）：hard 项是 advance --step s0 的门禁（task_ops
 _source_gate）；warn/info 逐条人工定性，处置出口（ADR-0062，en/ 绝对冻结）＝
-全局勘误表（specs/001-sep-sync-pipeline/results/en-errata.md）＋中文译注；
+全局勘误表（baseline/en-errata/en-errata.md，ADR-0076）＋中文译注；
 格式层问题入 baseline/en-patches/ 补丁池（一补丁一文件）；其余登记待考/豁免留痕。死链只
 登记不改正文（外链失效属上游时效，不属缺陷面）。
 
