@@ -1,0 +1,812 @@
+{
+ "key": "divine causation",
+ "term": "divine causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:21:39+00:00",
+ "status": "ok",
+ "note": "variant=divine causation; 审定公布名词库=1643; 海峡两岸名词对照库=359; 其他来源数据库=97; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "事件A发生会导致事件B的发生，二者之间有律则必然性。因果关系具有相关性，但反之不然。"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "物理学名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "心理学名词",
+   "wordNumber": "02.581",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "联想律之一。事物的原因与结果之间的观念可相互引起联想。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "心理学名词",
+   "wordNumber": "02.589",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在有因果关系的事物之间形成的联想。"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/ (ERR+1)。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由现象之间的因果关系确立的现象之间的稳定关联。"
+  },
+  {
+   "cn": "循环累积因果关系理论",
+   "en": "circular and cumulative causation",
+   "source": "经济学名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "该理论在缪尔达尔（Karl Gunnar Myrdal）的循环累积因果原理的基础上形成，该理论强调了以下三个环节：即起始的变化、第二级的强化运动、最后的上升或下降过程。他认为这个原理是反映了社会经济因"
+  },
+  {
+   "cn": "事故因果［连锁］论",
+   "en": "accident causation sequence theory",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.093",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "事故致因理论的一种。把工业伤害事故的发生过程描述为具有一定因果关系事件的连锁。包括五个因素：遗传及社会环境、人的缺点、人的不安全行为或物的不安全状态、事故、伤害。该理论由美国海因里希（H. W. He"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "地理学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "地理要素和地理单元之间因果联系的规律。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "远因,终极导因,最终原因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "远因，终极导因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causality\",\"law of causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遣兴曲",
+   "en": "cassation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物群",
+   "en": "faunation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "金化[反应]",
+   "en": "auration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中止表达组件",
+   "en": "cessation cassette",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "water divide\",\"divide",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "舱盖曳行装置",
+   "en": "hatch cover driving device",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "divide",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "stream divide\",\"watershed divide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "潜水工作船，潜水支援船",
+   "en": "diving support vessel\",\"diving boat",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "drainage divide",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停止侵害",
+   "en": "cessation of infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonition\",\"warning\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃射门",
+   "en": "dive shot\",\"diving shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水运动",
+   "en": "diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控申机器人",
+   "en": "accusation and appeal robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"chui\",\"keikoku\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonish\",\"caution\",\"warn\",\"admonition\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "diving retrieve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水比赛",
+   "en": "diving competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳台跳水",
+   "en": "platform diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳板跳水",
+   "en": "springboard diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "潜水医学",
+   "en": "diving medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "研究和解决潜水作业过程中潜水员的保健和疾病防治的学科。研究内容主要包括水面及水下各种环境因素引起潜水从业人员的生理反应、病理变化、疾病的流行规律及其诊断与防治措施。"
+  },
+  {
+   "cn": "潜水作业卫生",
+   "en": "diving operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.7",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制潜水作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有管腔，其直径≥2mm，且其腔体中的任何一点距其与外界相通的开口处的距离不大于其内直径的1500倍的器械。一般指由软管、硬管（单管或同轴组合）组成的器械，清洗时需使用专用的连接器与清洗消毒器连接。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "source": "马克思主义",
+   "wordNumber": "03.0174",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在某一社会生产发展阶段中，居民用以满足物质、文化生活需要的社会产品和劳务的消费程度。又称生活程度。具体内容包括：居民的实际收入水平、消费水平和消费结构、劳动的社会条件和生产条件、社会服务的发达程度、闲"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "有针对性地根据个体或群体的需求，指导个人或群体积极应对生活事件的行动。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "航海和潜水医学",
+   "en": "nautical and diving medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "12",
+   "subjectFullName": "军事预防医学_航海和潜水医学",
+   "subjectName": "航海和潜水医学",
+   "publishYear": "2025",
+   "definition": "研究水面及水下各种环境因素引起航海和潜水从业人员和有关人员的生理反应、病理变化、疾病的流行规律及其诊断与防治措施的科学。"
+  },
+  {
+   "cn": "宫内节育器",
+   "en": "intrauterine device, IUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由医生采用无菌技术放置入宫腔的避孕器具。该器具通过改变/抑制精子移动和卵子运输起作用，并作为异物引起无菌性炎症反应使胚泡着床受阻。是一种安全、高效、长效及可逆的避孕措施。"
+  },
+  {
+   "cn": "环亚胺",
+   "en": "cyclic imine",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.19",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "一类具有亚胺（碳氮双键）结构的大环毒素，急性毒性较高。"
+  },
+  {
+   "cn": "医疗器械消毒剂",
+   "en": "medical device disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.22",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于医疗器械处理，使其达到消毒或灭菌要求的制剂，如过氧乙酸、二氧化氯、戊二醛。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "rule utilitarianism",
+ "term": "rule utilitarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:33:16+00:00",
+ "status": "ok",
+ "note": "variant=rule utilitarianism; 审定公布名词库=543; 海峡两岸名词对照库=227; 其他来源数据库=101; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.091",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当该行为是某个规则要求我们去做的事情，而对此规则的遵守将会比其他的规则带来更大的社会效用。"
+  },
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.089",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "认为道德行为的唯一标准是行为所带来的结果或效用的大小的伦理理论。18世纪和19世纪后期由英国哲学家、经济学家杰里米·边沁和约翰·斯图尔特·穆勒提出。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "经济学名词",
+   "wordNumber": "14.003",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种把追求快乐、效用、利益作为道德标准和行为规范的伦理哲学和经济理论。哲学上的功利主义包括3个主要命题：①个人福利是道德行为的目的；②人应该根据其本性判断幸福与否；③社会行为的目的是增进最大多数人的最"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "一个西方伦理学分支。在技术伦理方面主要体现为强调技术应用要以对绝大多数人有益的最大的善为目的，注重对技术应用的功利效果进行伦理评价，注重技术应用的后果而不是技术人员最初的意向和应承担的义务或责任。"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当与任何其他的选择相比，所导致的结果至少与其他的选择所导致的结果一样好。"
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们在技术实践中为保证其行为的正当、合理和有效而遵守的规矩、程序和章程。它指导技术活动的可靠进行和技术目的的顺利完成。"
+  },
+  {
+   "cn": "法则",
+   "en": "rule",
+   "source": "物理学名词",
+   "wordNumber": "01.0144",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定则",
+   "en": "rule",
+   "source": "物理学名词",
+   "wordNumber": "01.0143",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "50%规则",
+   "en": "50% rule ",
+   "source": "草学名词",
+   "wordNumber": "4.0109",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "source": "免疫学名词",
+   "wordNumber": "2.251",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "免疫球蛋白可变区基因重排和重组的规律。机制为：抗原受体基因重排与重组信号序列密切相关，其所间隔的碱基数对片段间的有效重组十分关键，带有12bp间隔序列的基因片段仅与带有23bp间隔序列的片段相结合。"
+  },
+  {
+   "cn": "伦理的功利观",
+   "en": "utilitarian view of ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "认为计划和行动应当以绝大多数人受益为原则的伦理观点。"
+  },
+  {
+   "cn": "札依采夫规则",
+   "en": "Zaitsev rule,Saytzeff rule 　",
+   "source": "化学名词",
+   "wordNumber": "02.1015",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "在二级或三级卤代烃的消除反应中，通常消去含氢较少的β-碳上的氢原子。这个规则现在进一步延伸为：当消除反应可生成两个或更多个烯烃时，热力学稳定的烯烃为主要产物。"
+  },
+  {
+   "cn": "排版规则",
+   "en": "typesetting rules;composition rules",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.027",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "对文字等排版处理的版面设计。"
+  },
+  {
+   "cn": "壳层规则",
+   "en": "shell rule",
+   "source": "地质学名词",
+   "wordNumber": "13.01.059",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "原子核质子数或中子数等于2、8、20、28、50、82、114的元素，原子核的稳定性高，在地壳中有广泛地分布的规律。"
+  },
+  {
+   "cn": "相律",
+   "en": "phase rule",
+   "source": "地质学名词",
+   "wordNumber": "13.05.027",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "相平衡体系中，相数(φ)、独立组分数(C)和自由度(f)之间的规律。其数学表达式为：f=C-φ+n。式中n表示温度、压力及其他影响因素。"
+  },
+  {
+   "cn": "导则",
+   "en": "guide rule",
+   "source": "风景园林名词",
+   "wordNumber": "03.0390",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "一般由国家行政管理职能部门发布，用于规范工程咨询与设计的手段和方法，具有一定的法律效力。"
+  },
+  {
+   "cn": "标引规则",
+   "en": "indexing rule",
+   "source": "档案学名词",
+   "wordNumber": "03.04.033",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "正确进行档案标引、保证档案标引质量的参考规则。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "为特定符号或者单词赋予意义的约定俗成的规则。"
+  },
+  {
+   "cn": "对应规则",
+   "en": "correspondence rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "包含理论术语和观察术语的语句。通过这些规则，可以在经验上间接地、部分地解释一个理论术语。"
+  },
+  {
+   "cn": "约翰逊规则",
+   "en": "Johnson rule",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "一种用来处理由两个设备单元组成的无限中间存储的间歇过程生产调度问题的启发型算法。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网线",
+   "en": "ruling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "递进法则，渐进律",
+   "en": "progressive rule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐进律（=递进法则）",
+   "en": "progressive rule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异戊二烯法则",
+   "en": "isoprene rule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差量规则",
+   "en": "delta rule",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "链规则",
+   "en": "chain rule",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同属规则",
+   "en": "generic rule",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组合规则",
+   "en": "combining rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合规则",
+   "en": "mixing rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择定则",
+   "en": "selection rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杠杆法则",
+   "en": "lever rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相律",
+   "en": "phase rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取代法则",
+   "en": "substitution rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别规则",
+   "en": "class rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "35秒规则",
+   "en": "35 seconds rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "24秒规则",
+   "en": "24-second rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "8秒规则",
+   "en": "8-second rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3秒规则",
+   "en": "3-second rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5秒规则",
+   "en": "5-second rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5秒规则",
+   "en": "5-second rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以行动者的行为所产生的可能或实际效果作为道德价值判断的基础或道德评价依据的伦理学理论。认为道德规范的确立和完善以及伦理行为的决策、评价和辩护等应当强调后果、效用。“最大多数人的最大幸福”是其核心原则。"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.126",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "物质或精神上的功效和利益。与“道义”相对。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "纸面规则",
+   "en": "paper rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.16",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "以成文形式出现、有适用可能的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念。"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "某种设立特定行为方式的法律规制的正式文字表述。"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "医院提供的病床数量越多其使用率越高，病床数与使用率两者呈正相关关系的规律。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "习俗规则",
+   "en": "mores rule",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.046",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗在养成或习得过程中惯习的制约性，主要表现为两种情况：一种是自然而然地沿着惯习本身的惰性沿袭而来，即自古而然、从来如此和习以为常的状况；另一种是基于某种利益的需求，有目的地遵守既定的先验模型惯习的状"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张行为的对错要看它是否符合伦理原则和准则，人们的行为只要服从这些规则和准则，就是道德的和正当的，而不必考虑行为效果的理论。"
+  },
+  {
+   "cn": "组织规范",
+   "en": "organizational rules",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.13",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织中形成的行为标准和准则，由公共道德、组织意识和组织规章制度等组成，作用在于规范和统一成员的行为，以制度保证实现组织的目标，协调成员与组织之间、组织成员相互之间的关系。"
+  },
+  {
+   "cn": "家规",
+   "en": "family rules",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0148",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在社会习俗的影响制约下形成的，由家族成员共同遵守的不成文的法规、条例，用以约束家族成员的行为，维护家长权威和家族统一，协调族内的人际关系。家法是家长和长辈惩诚、制裁家族成员所依的准绳；靠传统、习惯的民"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于经济地位、政治权势或文化霸权等因素，以组织化方式行使国家权力、管理国家事务的团体。精英统治理论的基本范畴，意大利政治理论家莫斯卡认为，任何社会中都存在统治阶级和被统治阶级。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "马克思主义",
+   "wordNumber": "03.0183",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在经济上、政治上、思想上占统治地位的阶级。如奴隶社会的奴隶主阶级、封建社会的地主阶级、资本主义社会的资产阶级。无产阶级和劳动人民只有夺取政权，建立无产阶级专政，才能变被统治阶级为统治阶级，尽快发展社会"
+  },
+  {
+   "cn": "礼治秩序",
+   "en": "rule of rites",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国乡土社会通过礼的教化和规训来达成的社会秩序。这种“礼”的性质和力量不同于国家明文颁布的法律条文，而是社会公认的行为规范，与文化传统紧密结合。与通过法律来维持的“法治秩序”相对。出自费孝通。"
+  },
+  {
+   "cn": "法治",
+   "en": "rule of law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "社会成员在社会活动中严格依据法律制度的规定履行自身义务，平等的行使自身权利，没有任何社会组织和社会成员享有不受法律约束的特权的社会治理形态。法治状态不仅包涵法律制度体系，而且包涵社会成员参与法律制定、"
+  },
+  {
+   "cn": "法治",
+   "en": "rule of law",
+   "source": "马克思主义",
+   "wordNumber": "03.0545",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "法治即法的统治，强调法律作为一种社会治理工具在社会生活中的至上地位。其以民主政治为前提和目标，以严格依法办事为理性原则，表现为良好的法律秩序，并且关切民主、人权、自由等价值目标。法治是相对“人治”而言"
+  },
+  {
+   "cn": "以德治国",
+   "en": "rule of virtue",
+   "source": "马克思主义",
+   "wordNumber": "03.0649",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的党的第三代领导集体在我国社会经济步入新的发展时期所提出的重要治国方略，是对依法治国方略的重要补充。其核心内容是加强社会主义思想道德建设，以促进人和社会的全面发展。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

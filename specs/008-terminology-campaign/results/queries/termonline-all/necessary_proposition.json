@@ -1,0 +1,492 @@
+{
+ "key": "necessary proposition",
+ "term": "necessary proposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:33:20+00:00",
+ "status": "ok",
+ "note": "variant=necessary proposition; 审定公布名词库=109; 海峡两岸名词对照库=6; 其他来源数据库=3; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "经济学名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "劳动者为了维持自己和家属的生活所必须付出的那一部分劳动。"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.124",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "与“剩余劳动”相对应，指劳动者为维持和再生产劳动力所必需的劳动。"
+  },
+  {
+   "cn": "必需汽蚀余量",
+   "en": "necessary NPSH",
+   "source": "水利科学技术名词",
+   "wordNumber": "11.307",
+   "subjectFullName": "水利科学技术_灌溉与排水_机电排灌",
+   "subjectName": "机电排灌",
+   "publishYear": "1997",
+   "definition": "保证水泵正常运行、不产生危害性汽蚀所必需的汽蚀余量，为临界汽蚀余量加0.3m。"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "source": "航海科技名词",
+   "wordNumber": "14.0268",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "必要条件",
+   "en": "necessary condition",
+   "source": "数学名词",
+   "wordNumber": "01.0027",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符值比例法",
+   "en": "proportion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0113",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“剩余劳动”相对应。必要劳动作为一般的经济范畴，是指劳动者满足本人及其家庭需要所耗费的劳动，即维持和再生产劳动力所消耗的生活资料的劳动。以劳动时间来衡量，其长短主要取决于劳动生产率的高低，与劳动生产"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.5",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在产品中必须添加、且添加量应当达到标准限定量的营养成分，能够满足特定适用人群的基本营养需求。"
+  },
+  {
+   "cn": "社会必要劳动时间",
+   "en": "socially necessary labortime",
+   "source": "马克思主义",
+   "wordNumber": "02.0040",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在现有的社会正常生产条件下（现时某一生产部门大多数产品生产已经达到的生产资料状况和技术装备水平），在社会平均的劳动熟练程度和劳动强度下，制造某种使用价值所需要的劳动时间。"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0114",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者为了满足本人及其家庭生活需要所耗费的劳动叫必要劳动，从事这种劳动所占用的时间叫必要劳动时间。必要劳动时间内所生产的价值是劳动力的价值。"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.5.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "由于必要资本形成的进入壁垒。生产过程的资本密集程度越高，必要资本量越大，新企业筹措资金越困难，其资本费用就比在位企业高，因此新企业进入市场的难度也就越大。"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "source": "马克思主义",
+   "wordNumber": "01.0051",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“偶然性”相对的哲学范畴。由事物内部的根本矛盾决定的，客观事物联系和发展中不可避免的、确定不移的状态和趋势。它在事物发展过程中居于支配地位，决定着事物发展的前途和方向。"
+  },
+  {
+   "cn": "社会必然性",
+   "en": "social necessity",
+   "source": "马克思主义",
+   "wordNumber": "03.0153",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由特定社会形态、社会结构和具体的社会历史条件所决定的客观规律，它是一定社会条件下不以人的意志为转移的、必然会发生的事件或行为。社会必然性归根结底是由生产力的发展水平状况所决定的。如而因为社会化大生产和"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按一定比例共同支付医疗费用，可以是一个固定的比率，也可以是变动的比率。"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的80%及以上。"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%～79%"
+  },
+  {
+   "cn": "低比例母乳喂养",
+   "en": "low-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%以下。"
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "食源性传播占比",
+   "en": "proportion of foodborne transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性传播引起的疾病负担占总的疾病负担的比例。"
+  },
+  {
+   "cn": "后运方法构成比",
+   "en": "proportion of evacuation methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每百名伤员采用不同后运方法的百分构成比。后运方法常分步行、担架、救护车、回程空车、卡车、船、卫生列车、飞机及其他。"
+  },
+  {
+   "cn": "卫生技术人员占比",
+   "en": "proportion of health technicians",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生技术人员在卫生人力资源中的比重，等于卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "麻醉方法构成比",
+   "en": "proportion of anesthesia methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.8",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名手术伤员采用不同麻醉方法的百分比。"
+  },
+  {
+   "cn": "工作量及其比例情况分析",
+   "en": "workload and proportion analysis",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "通过分析病床、住院、门诊和医疗技术科室等方面工作量及其比例情况，反映医院人力、物力和技术效果是否得到正常发挥。工作量越大，表示完成的任务越多。治疗的疑难病种越多，表示发挥技术的效能越高。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

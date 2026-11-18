@@ -1,0 +1,772 @@
+{
+ "key": "necessary truth-preservation",
+ "term": "necessary truth-preservation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:24:06+00:00",
+ "status": "ok",
+ "note": "variant=necessary truth-preservation; 审定公布名词库=361; 海峡两岸名词对照库=57; 其他来源数据库=19; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "经济学名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "劳动者为了维持自己和家属的生活所必须付出的那一部分劳动。"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.124",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "与“剩余劳动”相对应，指劳动者为维持和再生产劳动力所必需的劳动。"
+  },
+  {
+   "cn": "必需汽蚀余量",
+   "en": "necessary NPSH",
+   "source": "水利科学技术名词",
+   "wordNumber": "11.307",
+   "subjectFullName": "水利科学技术_灌溉与排水_机电排灌",
+   "subjectName": "机电排灌",
+   "publishYear": "1997",
+   "definition": "保证水泵正常运行、不产生危害性汽蚀所必需的汽蚀余量，为临界汽蚀余量加0.3m。"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "source": "航海科技名词",
+   "wordNumber": "14.0268",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "必要条件",
+   "en": "necessary condition",
+   "source": "数学名词",
+   "wordNumber": "01.0027",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation ",
+   "source": "草学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "修缮",
+   "en": "preservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹的保护方式。包括日常保养、防护加固、现状修整、重点修复等。"
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "地理学名词",
+   "wordNumber": "24.114",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "对具有特殊价值(如历史价值、文化价值等)的人文景观或其遗迹的保护，特别是对建筑环境的保护。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "风景园林名词",
+   "wordNumber": "09.0281",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "为保持园林植物采后的观赏品质、减少流通损失或者延长贮藏时间和观赏时间所使用的化学药剂。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "农学名词",
+   "wordNumber": "17.037",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "能够延长农产品贮藏期及货架期的物质。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "微生物学名词",
+   "wordNumber": "08.295",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的化合物。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "水产名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的添加剂。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐",
+   "en": "wood preservation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射保藏",
+   "en": "radiation preservation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冷冻保存",
+   "en": "freeze preservation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自然保持",
+   "en": "natural preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "依赖保持",
+   "en": "dependence preservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐剂",
+   "en": "wood preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维持关税",
+   "en": "preserving duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "真值维护系统",
+   "en": "truth maintenance system\",\"TMS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防腐木",
+   "en": "preservative-treated timber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杀身成仁",
+   "en": "Sacrifice Life to Preserve Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保护、传承、弘扬黄河文化",
+   "en": "to preserve, inherit and promote the Yellow River culture",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "口罩预约",
+   "en": "mask reservation and purchase",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预约进站",
+   "en": "to make reservations at subway stations ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0113",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“剩余劳动”相对应。必要劳动作为一般的经济范畴，是指劳动者满足本人及其家庭需要所耗费的劳动，即维持和再生产劳动力所消耗的生活资料的劳动。以劳动时间来衡量，其长短主要取决于劳动生产率的高低，与劳动生产"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.5",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在产品中必须添加、且添加量应当达到标准限定量的营养成分，能够满足特定适用人群的基本营养需求。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或减缓由微生物引起的食品腐败变质、延长食品储存期的物质。"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "社会必要劳动时间",
+   "en": "socially necessary labortime",
+   "source": "马克思主义",
+   "wordNumber": "02.0040",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在现有的社会正常生产条件下（现时某一生产部门大多数产品生产已经达到的生产资料状况和技术装备水平），在社会平均的劳动熟练程度和劳动强度下，制造某种使用价值所需要的劳动时间。"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0114",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者为了满足本人及其家庭生活需要所耗费的劳动叫必要劳动，从事这种劳动所占用的时间叫必要劳动时间。必要劳动时间内所生产的价值是劳动力的价值。"
+  },
+  {
+   "cn": "辐照保鲜",
+   "en": "irradiation preservation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.4",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "利用γ射线、X射线、电子射线的辐射对食品进行辐照处理，经辐照可达到杀菌、杀虫、抑制蔬菜发芽、延迟果实后熟等目的，从而达到延长果蔬保鲜期的一种方法。"
+  },
+  {
+   "cn": "保温",
+   "en": "heat preservation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿生后即用预热的毛巾擦干，并采取各种保暖措施，使婴儿处于中性温度中。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "天然防腐剂",
+   "en": "natural preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由生物体分泌或体内存在的具有抑菌作用的物质，其经人工提取或加工而成的食品防腐剂。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.5.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "由于必要资本形成的进入壁垒。生产过程的资本密集程度越高，必要资本量越大，新企业筹措资金越困难，其资本费用就比在位企业高，因此新企业进入市场的难度也就越大。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "战时水样保存",
+   "en": "preservation of water sample in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，通过化学、物理等手段提高水样稳定性的工作。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

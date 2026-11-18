@@ -1,0 +1,42 @@
+{
+ "key": "imam",
+ "term": "imām",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:31:00+00:00",
+ "status": "ok",
+ "note": "variant=imām; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "线粒体内膜",
+   "en": "mitochondrial inner membrane,inner mitochondrial membrane,IMM",
+   "source": "生物物理学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "生物物理学_膜与细胞生物物理学_能量转换",
+   "subjectName": "能量转换",
+   "publishYear": "2018",
+   "definition": "线粒体双层脂膜的内层膜。通过其表面与外膜邻近处的膜区与嵴膜相接形成管状或扁平囊状结构，分布在内膜上的5个复合体构成了氧化磷酸化电子传递链，其末端复合体V(即ATP合酶)是合成生物体所需能量来源ATP的"
+  },
+  {
+   "cn": "益绵",
+   "en": "yi mian;imam",
+   "source": "中国古代史名词",
+   "wordNumber": "7.37",
+   "subjectFullName": "中国古代史_辽金元_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "元朝时伊斯兰教区领袖之称。阿拉伯语“领拜者”“引导人”的音译，意译为“住持”，今译“伊玛目”。"
+  },
+  {
+   "cn": "免疫介导坏死性肌病",
+   "en": "immune-mediated necrosis myopathies, IMNM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "炎性肌病的亚型，主要表现为急性或亚急性四肢近端肌无力，伴血清肌酸激酶水平明显升高，血清中可检测到抗信号识别颗粒抗体（signal recognition particle，SRP）或抗3-羟基-3-甲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

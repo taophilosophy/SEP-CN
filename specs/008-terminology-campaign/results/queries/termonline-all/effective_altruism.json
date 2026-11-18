@@ -1,0 +1,662 @@
+{
+ "key": "effective altruism",
+ "term": "effective altruism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:22:26+00:00",
+ "status": "ok",
+ "note": "variant=effective altruism; 审定公布名词库=2768; 海峡两岸名词对照库=881; 其他来源数据库=83; 预公布名词数据库=194; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "动物学名词",
+   "wordNumber": "7.0434",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "动物以降低自身的适合度为代价，来提高其他个体适合度的行为。"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "经济学名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种提倡为他人或集体的福利改进而宁愿使自己的福利蒙受损失的哲学思想。作为一种行为准则，它通常和善行、无私等概念密切相关。这一思想由法国实证主义哲学家奥古斯特·孔德（Auguste Comte）于183"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "心理学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "有利于他人而不期望任何个人回报的心理倾向。"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "遗传学名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "一个个体的行为对接受者带来好处的同时，对行为完成者带来损失的一种行为。"
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.444",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "一个有机体给另一个有机体提供了好处，长期而言可以获得报答或补偿。"
+  },
+  {
+   "cn": "自我利他主义",
+   "en": "ego-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.034",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "助人者通过助人行为来减少自己的痛苦，使自己感到有力量或者体会到一种自我价值。"
+  },
+  {
+   "cn": "纯利他主义",
+   "en": "pure-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.035",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "受外部动机的驱使，做出助人行为以减轻他人的痛苦，目的是为了他人的幸福。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线对人体的危害",
+   "subjectName": "X射线对人体的危害",
+   "publishYear": "2020",
+   "definition": "在有限环境下，由一些因素和一些结果而构成的一种因果现象。多用于对一种自然现象和社会现象的描述。"
+  },
+  {
+   "cn": "能行性",
+   "en": "effectiveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0108",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "计算过程中每一个动作都是机械的。"
+  },
+  {
+   "cn": "α效应",
+   "en": "α-effect",
+   "source": "化学名词",
+   "wordNumber": "02.1003",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "当两个亲核性原子相互邻近时，亲核能力极大增强的一种溶剂化效应。如：溶液中尽管<img src='/root/syzx/static/spz/huaxue2.02.0949.4.png'/>的碱性是<i"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "药学名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "药物引起机体生理、生化功能或形态发生的变化。"
+  },
+  {
+   "cn": "效果",
+   "en": "effectiveness",
+   "source": "药学名词",
+   "wordNumber": "10.081",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "在药物的临床实际使用条件(即自然状态)下，特定人群中患有特定疾病的个体接受药物治疗后可能获得的收益。"
+  },
+  {
+   "cn": "有效性",
+   "en": "effectiveness",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.016",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "一种基于业务性能的可用性。"
+  },
+  {
+   "cn": "能行性",
+   "en": "effectiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0235",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "数学名词",
+   "wordNumber": "09.0718",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "effectiveness",
+   "source": "自动化名词",
+   "wordNumber": "03.234",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "β效应",
+   "en": "β-effect,beta effect",
+   "source": "大气科学名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "表示地球流体受科氏参数空间变化影响的程度。"
+  },
+  {
+   "cn": "CT有效层厚",
+   "en": "effective slice thickness",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.085",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "计算机体层成像扫描时实际所得的层厚。"
+  },
+  {
+   "cn": "拥挤效应",
+   "en": "crowding effect;congestion effect",
+   "source": "动物学名词",
+   "wordNumber": "7.0381",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "根据逻辑斯谛种群增长模型，种群数量每增加一个个体，其抑制性定量就是1/K（K为环境容纳量），该抑制性的影响效果。"
+  },
+  {
+   "cn": "磁热效应",
+   "en": "magnetothermal effect,magnetocaloric effect",
+   "source": "物理学名词",
+   "wordNumber": "08.1940",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "利他现象",
+   "en": "altruism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "相互利他主义",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他行为",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共情-利他假说",
+   "en": "empathy altruism hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "effectiveness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能行性",
+   "en": "effectiveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "边缘效应",
+   "en": "edge effect\",\"border effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "秋水仙碱效应",
+   "en": "colchicine effect\",\"C-effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性效应",
+   "en": "dominant effect\",\"dominance effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂化效应",
+   "en": "solvating effect\",\"solvation effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "首因效应",
+   "en": "primacy effect\",\"primary effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复合效应",
+   "en": "complex effect\",\"composition effect",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "同位素效应",
+   "en": "isotopic effect\",\"isotope effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同效应",
+   "en": "synergic effect\",\"cooperative effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有效射程",
+   "en": "effective range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺中有效",
+   "en": "effective hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺中有效",
+   "en": "effective hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.11",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "关心他人的利益而不考虑自己的利益。不期望任何外部酬劳而自觉自愿的助人，把帮助他人当作唯一目的。"
+  },
+  {
+   "cn": "效果",
+   "en": "effectiveness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "因卫生服务而带来的包括疾病治愈、身体功能恢复、生活质量提升以及预期寿命延长等健康改善的结果。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后造成的个体、器官或组织的生物学改变，是量反应，变化的程度用计量单位表示。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后所引起的一个生物个体、器官或组织的生物学改变"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体各组织或器官的当量剂量乘以相应的组织权重因数后的和。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.14.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "引起染毒人员或动物百分之九十以上产生某种毒害效应的毒剂量。"
+  },
+  {
+   "cn": "有效温度",
+   "en": "effective temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.1.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "人体在温度、湿度和风速的综合作用下产生的热感觉指标。"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.23",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "人体各组织或器官的当量剂量与各组织或器官相应的组织权重因数乘积之和，符号为希沃特（Sv），单位是J/kg。在防护辐照食品工作人员中，论证照射情况是否遵循放射防护标准。"
+  },
+  {
+   "cn": "效应生物标志物",
+   "en": "effect biomarker",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体中可识别的生理、生化、行为或体内的其他改变，反映与不同靶剂量外源化学物或其代谢物有关联的健康有害效应信息的指标，包括反映早期生物效应、结构和（或）功能改变及疾病三类生物标志物"
+  },
+  {
+   "cn": "消毒效果",
+   "en": "disinfection effect",
+   "source": "消毒学",
+   "wordNumber": "1.1.13",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒处理的结果，一般用杀灭率或杀灭对数值表示。"
+  },
+  {
+   "cn": "灭菌效果",
+   "en": "sterilization effect",
+   "source": "消毒学",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "灭菌处理的结果，应达到灭菌保证水平，灭菌保证水平一般达到10-6。"
+  },
+  {
+   "cn": "暗示疗效",
+   "en": "suggestive effect",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品宣传中暗示消毒产品具有对某种疾病的治疗效果。"
+  },
+  {
+   "cn": "杀菌效果",
+   "en": "bactericidal effect",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒因子作用目标菌后，其活菌数量减少的程度，通常以杀灭率或杀灭对数值表示。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "放射卫生学",
+   "wordNumber": "1.4",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射引起的从变化、损伤、损害到危害的种种改变。"
+  },
+  {
+   "cn": "光电效应",
+   "en": "photoelectric effect",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.26",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子与原子束缚电子发生作用，光子把全部能量交给电子使其克服束缚能而离开原子，而光子自身消失的过程。"
+  },
+  {
+   "cn": "康普顿效应",
+   "en": "Compton effect",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.27",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子与自由电子（原子的外层电子可视为自由电子）发生散射的过程。在此过程中，入射光子把部分能量和动量传递给电子，使其脱离原子，而入射光子本身改变其能量和运动方向。前者称反冲电子，后者称散射光子。"
+  },
+  {
+   "cn": "随机效应",
+   "en": "stochastic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应，其发生概率随辐射剂量的增加而增加，而效应的严重程度与辐射剂量大小无关。其发生一般无阈剂量水平。包括各种实体癌和白血病。"
+  },
+  {
+   "cn": "早期效应",
+   "en": "early effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "机体受到电离辐射照射后数月（一般为3个月）内发生的损伤效应，例如胃肠道反应、白细胞降低、皮肤受照后出现局部红斑等。"
+  },
+  {
+   "cn": "远后效应",
+   "en": "late effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射，在受照后数月、数年或数十年出现的病理变化，或急性放射损伤未恢复而迁延成经久不愈的病变。"
+  },
+  {
+   "cn": "躯体效应",
+   "en": "somatic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "发生在受照射者自身的放射生物效应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

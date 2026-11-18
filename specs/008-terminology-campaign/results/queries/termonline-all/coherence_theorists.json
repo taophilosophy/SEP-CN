@@ -1,0 +1,762 @@
+{
+ "key": "coherence theorists",
+ "term": "coherence theorists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:18:21+00:00",
+ "status": "ok",
+ "note": "variant=coherence theorists; 审定公布名词库=367; 海峡两岸名词对照库=74; 其他来源数据库=22; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "横向相干性",
+   "en": "lateral coherence,transverse coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1271",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干加强",
+   "en": "coherence emphasis; coherence enhancement",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "叠加后根据相似性突出有效波、削弱干扰波的一种处理程序。通常是根据相邻记录道之间波形的相似性，用相关函数来衡量两个以上记录道时间序列的相似程度，并按相似程度的大小对记录进行加权，使相似性高的波得到加强，"
+  },
+  {
+   "cn": "相干滤波",
+   "en": "coherence filtering",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2586",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "基于地震相干处理技术，滤除两个信号中的相干噪声以增强相干信号、压制相干噪声和随机噪声的滤波方法。 "
+  },
+  {
+   "cn": "相干函数",
+   "en": "coherence function",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2649",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "描述相干性的函数。 "
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherence stack",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0460",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "如果两波频率相等，在观察时间内波动不中断，而且在相遇处振动方向几乎沿着同一直线，它们叠加后产生的合振动加强，两波相干，这样的叠加称为相干叠加。 "
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "光学名词",
+   "wordNumber": "01.531",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述光源出射光的波列在介质中的持续长度的一个物理量。定义为各个相干波列在介质中的平均传播距离。数值上等于光源的相干时间与该光波在介质中传播速度的乘积。"
+  },
+  {
+   "cn": "空间相干性",
+   "en": "spatial coherence",
+   "source": "光学名词",
+   "wordNumber": "01.533",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述部分相干光在空间某些点光扰动的相位变化量之间关联程度的一个参量。以这些光扰动传播到其后面空间的叠加光场产生的干涉条纹对比度来表示。它与时间相干性同时存在，是表征部分相干光场特性的重要参量。"
+  },
+  {
+   "cn": "时间相干性",
+   "en": "temporal coherence",
+   "source": "光学名词",
+   "wordNumber": "01.534",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述部分相干光传播到空间某点不同时刻相位变化量的关联程度的一个物理量。对于点光源(如激光器)，它以相干时间或光波频率宽度Δν的倒数来表示，决定了其纵模的质量。对于准单色扩展光源，它同时具有时间相干性和"
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分同调",
+   "en": "partial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间相干",
+   "en": "temporal coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干谱",
+   "en": "coherence spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干元素",
+   "en": "coherence element",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相位同调",
+   "en": "phase coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关效应",
+   "en": "coherence effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高速缓存一致性",
+   "en": "cache coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率相干",
+   "en": "frequency coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干带宽",
+   "en": "coherence bandwidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干调制",
+   "en": "coherence modulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相关检查",
+   "en": "coherence check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会",
+   "en": "World Internet Conference",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会（中国）",
+   "en": "World Internet Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化会议基地",
+   "en": "International Standardization Conference Base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界人工智能大会（中国）",
+   "en": "World Artificial Intelligence Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗量子计算密码学国际会议",
+   "en": "International Conference on Post Quantum Cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国—南亚标准化合作会议",
+   "en": "China-South Asia Standardization Cooperation Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国贸易和发展会议",
+   "en": "United Nations Conference on Trade and Development",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非合作论坛—减贫与发展会议",
+   "en": "FOCAC Africa-China Poverty Reduction and Development Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "理论的韧性",
+   "en": "tenacity of theories",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "理论具有免于被证伪的属性特征：当它面临反常时，可以通过增加或修改辅助假说或特设假说来维护理论的硬核，使理论能够重新解释反常而趋于完善。"
+  },
+  {
+   "cn": "庐山会议",
+   "en": "Lushan Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0539",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "庐山会议包括两次重要会议：1959年７月２日至８月１日党中央在江西庐山召开的政治局扩大会议和８月２日至1６日举行的党的八届八中全会。第一次会议的原定议题是总结1958年以来工作中的经验教训，纠正“大跃"
+  },
+  {
+   "cn": "德黑兰会议",
+   "en": "Tehran Conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0202",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1943年11月28日—12月1日，苏、美、英三国政府首脑斯大林、罗斯福、丘吉尔在伊朗首都德黑兰举行的会议。会议讨论了盟军消灭德国武装力量的各项计划以及安排战后和平与合作等问题。三方达成协议，建立欧洲"
+  },
+  {
+   "cn": "社会工作的理论",
+   "en": "theories of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作理论中用来对社会工作实践本身的性质、目的、过程、方法进行说明的那部分内容。"
+  },
+  {
+   "cn": "阶级调和论",
+   "en": "theories of class conciliation",
+   "source": "马克思主义",
+   "wordNumber": "03.0097",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "否认或淡化阶级矛盾和阶级斗争，主张阶级之间利益妥协和阶级合作的理论观点。它夸大不同阶级的利益共同性，认为不必经过阶级斗争就能够解决阶级对立和矛盾，一概反对暴力革命。"
+  },
+  {
+   "cn": "发展理论的马克思主义",
+   "en": "neoMarxist theories of development",
+   "source": "马克思主义",
+   "wordNumber": "05.0093",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代发展中国家现代化及社会发展的理论，这一理论基于对“剥削”的开放式的全球审视而不只局限于经典马克思主义的内部性分析路径，具体包括依附理论和世界体系理论。代表作有苏联的《社会学手册》（1976）、民主"
+  },
+  {
+   "cn": "主要理论与方法",
+   "en": "main theories and methods",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询最常遵循的理论和方法。主要包括精神分析理论、认知疗法和以人为中心疗法三种。"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0528",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1927年8月7日中共中央在湖北汉口召开的紧急会议。会议总结了大革命失败的经验教训，着重批判了大革命后期陈独秀为代表的右倾机会主义错误，确立了实行土地革命和武装起义的方针，开始了从大革命失败到土地革命"
+  },
+  {
+   "cn": "世界社会主义学者大会",
+   "en": "world socialist scholars conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0278",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由美国左派人士发起、“美国民主社会主义者”主办、全球任何左翼团体都可参加的会议，是左翼学者最大规模的年度集会。从20世纪80年代到2004年，每年春天都在美国纽约召开，是激进主义者、社会主义者、女权主"
+  },
+  {
+   "cn": "全国边防工作会议",
+   "en": "National Border Defense Work Conference",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0056",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央1979 年4 月25 至5 月10 日于北京召开的讨论改革开放时期民族工作任务的重要会议。会议讨论了这一时期边防和民族工作任务、认真落实党的民族政策、加速边疆民族地区的社会主义建设等内容。会"
+  },
+  {
+   "cn": "全国城市民族工作会议（2016）",
+   "en": "National Conference on Urban Ethnic Work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0058",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "（2016）党的民族工作史中第一次全国城市民族工作会议，2016 年1 月5 至6 日在北京召开。会议确立了贯彻中央民族工作会议关于城市民族工作的精神，着重对以少数民族流动人口服务管理重点的城市民族工"
+  },
+  {
+   "cn": "中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央从战略和全局高度部署民族工作的重要会议。改革开放以来，每当民族工作出现新情况新问题时，中央总会及时召开会议，统一全党思想，对民族工作进行研究部署。迄今为止，分别于1992、1999、2005、"
+  },
+  {
+   "cn": "老祖宗不能丢又要讲新话",
+   "en": "our forefathers cannot be forgotten and develop new theories",
+   "source": "马克思主义",
+   "wordNumber": "04.0165",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对待马克思主义的一种科学、实事求是、与时俱进的态度。即必须坚持马克思主义的基本原理，同时马克思主义不是静止的封闭的教条，而是一个开放发展的体系，要在坚持中发展马克思主义和在发展中坚持马克思主义，不断根"
+  },
+  {
+   "cn": "2014年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2014",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0061",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2014年9月27至28日召开的、旨在准确把握新形势下民族问题、民族工作的特点和规律的重要会议。习近平总书记指出，党的民族工作取得的最大成就，就是走出了一条解决民族问题的正确道路，其内涵可概括"
+  },
+  {
+   "cn": "中央（全国）统战工作会议",
+   "en": "Central （National） Work Conference on United Front",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党的各个时期对包括民族工作在内的统战工作做全面部署的会议统称，1950年3月至2006年7月先后召开20次全国统战工作会议，2015年、2022年先后召开两次中央统战工作会议。其中对民族工作有重要影响"
+  },
+  {
+   "cn": "2021年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2021",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0062",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2021年8月27至28日召开的、全面回顾党的民族工作百年历程和历史成就、深入分析民族工作新形势的重要会议。会议取得的最大成就是习近平总书记提出了党关于加强和改进民族工作的重要思想，其内容可概"
+  },
+  {
+   "cn": "全德工人联合会成立大会",
+   "en": "Founding Conference of the All German Workers Federation",
+   "source": "马克思主义",
+   "wordNumber": "04.0479",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1863年5月23日，全德工人联合会成立大会在莱比锡成立。来自德国11个城市的12名代表以 及200多名莱比锡工人参加大会。会上斐迪南 ·拉萨尔(1825—1864)被选为联合会主席，瓦希泰尔为联合会"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

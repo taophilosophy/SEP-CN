@@ -1,0 +1,712 @@
+{
+ "key": "state function",
+ "term": "state function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:18:39+00:00",
+ "status": "ok",
+ "note": "variant=state function; 审定公布名词库=5629; 海峡两岸名词对照库=1369; 其他来源数据库=189; 预公布名词数据库=212; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "态函数",
+   "en": "state function",
+   "source": "物理学名词",
+   "wordNumber": "05.0284",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[状]态函数",
+   "en": "state function",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0164",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "描述系统热力学状态的宏观物理性质的函数。对于系统的指定状态，这些宏观性质的数值是唯一的。内能、压力、温度、体积、熵、焓等均为状态函数。"
+  },
+  {
+   "cn": "热力学状态函数",
+   "en": "thermodynamic state function",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0015",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "由状态(平衡态)单值决定的那些性质函数。系统状态一定，其状态函数一定。系统从一个状态变化到另一个状态，其状态函数的变化与系统所经历的具体变化过程无关。"
+  },
+  {
+   "cn": "状态函数",
+   "en": "functions of state",
+   "source": "冶金学名词",
+   "wordNumber": "04.0122",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "变化仅与始末态有关，而与经历的途径无关的函数。内能、焓、吉布斯能及亥姆霍兹能的值皆为状态函数。"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "电力名词",
+   "wordNumber": "01.446",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "热力系在某一瞬间所呈现的可描述其性质的宏观物理状况。"
+  },
+  {
+   "cn": "[状]态",
+   "en": "state",
+   "source": "物理学名词",
+   "wordNumber": "05.0172",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0557",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一组随自动机的运行而在每个时刻取不同值的、可以刻画自动机当时属性的特征。"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0576",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "对象或其他实体在其生存周期所呈现的状况、情形或形态。通常表现为其属性值须满足某些条件（即属性值处于特定的取值范围），其行为可适应某些规则（例如是否可执行某些操作或接收某些信息等）。"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0103",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "受决策影响的系统状态。"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "世界历史名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "按马克思主义的定义：原始社会末期阶级矛盾不可调和的产物，阶级统治的工具。"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "地理学名词",
+   "wordNumber": "17.064",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "具有国际公认而又有相对明确政治边界的某一国土区域。关于国家的学说构成政治地理学的核心。"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "数学名词",
+   "wordNumber": "012.0417",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "自动化名词",
+   "wordNumber": "02.203",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "导通状态",
+   "en": "conducting state,on-state",
+   "source": "电力名词",
+   "wordNumber": "21.126",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "阀呈现低电阻时的状态。"
+  },
+  {
+   "cn": "可用状态",
+   "en": "available state,up state",
+   "source": "电力名词",
+   "wordNumber": "25.040",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "要求的外部资源得到保证的条件下,元件或系统能够执行规定功能的状态。"
+  },
+  {
+   "cn": "备用状态",
+   "en": "standby state,reserve state",
+   "source": "电力名词",
+   "wordNumber": "21.255",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "在需求时间内,元件或系统处于可用状态,但不处于工作状态时的状态。"
+  },
+  {
+   "cn": "玻璃态",
+   "en": "glassy state,vitreous state",
+   "source": "物理学名词",
+   "wordNumber": "08.0557",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "超临界态",
+   "en": "supercritical state,hypercritical state",
+   "source": "物理学名词",
+   "wordNumber": "05.0363",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "u 态",
+   "en": "ungerade state,u-state",
+   "source": "物理学名词",
+   "wordNumber": "07.0277",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": "分子轨函的奇态。"
+  },
+  {
+   "cn": "g 态",
+   "en": "gerade state,g-state",
+   "source": "物理学名词",
+   "wordNumber": "07.0276",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": "分子轨函的偶态。"
+  },
+  {
+   "cn": "状态函数",
+   "en": "state function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "[状]态函数",
+   "en": "state function",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "稳态，定常态",
+   "en": "steady-state\",\"stable state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基[础]态",
+   "en": "ground state\",\"base state",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全阶段（=无性阶段）",
+   "en": "imperfect state (=asexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全阶段（=有性阶段）",
+   "en": "perfect state (=sexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单线态",
+   "en": "singlet state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基态",
+   "en": "ground state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激发态",
+   "en": "excited state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三线态",
+   "en": "triplet state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特征状态（=性状状态）",
+   "en": "character state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无性阶段",
+   "en": "asexual state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性状状态，特征状态",
+   "en": "character state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐性状态",
+   "en": "recessive state",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基态",
+   "en": "ground state",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激[发]态",
+   "en": "excited state",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "静止态",
+   "en": "stationary state",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "超临界状态",
+   "en": "supercritical state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主权国家",
+   "en": "sovereign state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家赔偿",
+   "en": "state compensation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固态硬盘",
+   "en": "Solid State Disk\nSolid State Drive",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "Family-state / Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元首",
+   "en": "Head of State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "素朴",
+   "en": "The Natural State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家密码管理部门",
+   "en": "State Cryptography Administration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "状态检测技术",
+   "en": "state detection technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0277",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "维护一个阶级对另一个阶级统治的机器，是阶级矛盾不可调和的产物。"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "source": "消毒学",
+   "wordNumber": "1.8.9",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施以规定的方式运行，有规定的人员在场并在商定的条件工作的状态。"
+  },
+  {
+   "cn": "空态",
+   "en": "empty state",
+   "source": "消毒学",
+   "wordNumber": "1.8.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施已经建成，净化空调等服务动力公用设施接通并运行，但无生产设备、材料及人员的状态。"
+  },
+  {
+   "cn": "静态",
+   "en": "static state",
+   "source": "消毒学",
+   "wordNumber": "1.8.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施已经建成，净化空调系统运行正常，生产设备、医疗设备已经安装好，并按用户和施工方商定的方式运行，无工作人员的状态。"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "标识时对象满足规定质量要求的能力，一般情况下具有时限性及可变性的特点，即标识对象对应不同的时段可有不同的状态。"
+  },
+  {
+   "cn": "通报国",
+   "en": "notifying State",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.23",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "负责向可能受影响的国家和国际原子能机构通报对其他国家具有实际、可能或预计放射学意义的事件或情况的国家。"
+  },
+  {
+   "cn": "国家女权主义",
+   "en": "state feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "以国家或政府为主要力量推进妇女解放和性别平等。在中国特指由国家推动的妇女解放运动，主要描述社会主义国家父权与妇女解放同时并存的悖论性图景。"
+  },
+  {
+   "cn": "国家干预",
+   "en": "state intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.61",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在以市场机制为基础的市场经济条件下，为了克服市场失灵，国家运用管制和宏观调控等手段规范市场主体行为，校正、补充市场缺陷的活动的总称。"
+  },
+  {
+   "cn": "国家法团主义",
+   "en": "state corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "由国家强加的一种法团主义架构，即以国家为主导形成的一种法团主义，往往同外围的或附属的资本主义政权联系在一起。主要用来解释强权政府与大的社会利益集团（如工会）之间的相互依赖关系。"
+  },
+  {
+   "cn": "民族国家",
+   "en": "nation-state",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一个国家的疆界与其领域内的单一民族完全重合的、独立自主的政治实体。但这种由单一民族组成的国家非常罕见。因此，广义上也指由一个或一个以上的民族所组成的国家。"
+  },
+  {
+   "cn": "剧场国家",
+   "en": "theatre state",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.41",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "1980年由格尔茨(C.Geertz）在《尼加拉》中首次提出，属于在封建制国家、官僚制国家等传统国家类型的基础上的又一种国家类型。权力通过仪式所表达的一种典范式中心，并且由此形成的象征宇宙与人间关系的"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "国家行使权力建立保障公民福利的管理模式和体制。强调公民社会权利，在收入、卫生健康、教育、住房和社会服务等领域内建立保障措施的国家形式，基于其原则和内容已发展成为不同模式。"
+  },
+  {
+   "cn": "国营经济",
+   "en": "state economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0342",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产资料归国家所有并由国家经营的经济形式，包括大银行、大工业、大的交通运输业和大商业等。新民主主义国家拥有这些企业，就掌握了国家的经济命脉。国营经济是社会主义性质的，是整个国民经济的领导成份。"
+  },
+  {
+   "cn": "国家机器",
+   "en": "state machinery",
+   "source": "马克思主义",
+   "wordNumber": "03.0079",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "强迫被统治阶级服从国家意志的强制机关，包括军队、警察、法院、监狱等。它们构成互相联系的有机整体，为维护统治阶级的利益而实行有组织的暴力。"
+  },
+  {
+   "cn": "国家垄断",
+   "en": "state monopoly",
+   "source": "马克思主义",
+   "wordNumber": "03.0080",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家直接掌握垄断资本，干预或调控经济社会活动的一种垄断资本主义形式。这种垄断可以采取国有经济的形式，或国有资本与私人垄断资本结合的形式，或国家在私人垄断企业外部对国民经济进行调节等多种形式。"
+  },
+  {
+   "cn": "国家所有制",
+   "en": "state ownership",
+   "source": "马克思主义",
+   "wordNumber": "03.0081",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全民所有的生产资料由代表全民利益的社会主义国家代理的所有制形式。资本主义国家所有制名为国家所有制，实为资产阶级整体所有。"
+  },
+  {
+   "cn": "国家意志",
+   "en": "state will",
+   "source": "马克思主义",
+   "wordNumber": "03.0082",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映统治阶级的经济统治和政治统治的利益诉求。在阶级社会中，统治阶级将自己的根本利益和集体诉求上升为国家意志，并通过国家这一统治阶级的联合力量和强制机关加以实现。"
+  },
+  {
+   "cn": "国家制度",
+   "en": "state system",
+   "source": "马克思主义",
+   "wordNumber": "03.0083",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中统治阶级为了维护自己的统治而建立的政治架构。国家制度既包括国体，也包括政体。而主要就国体而言，是确立各阶级在国家中的地位和相互关系的制度性安排，反映了国家的本质和阶级属性，历史上已经产生的国"
+  },
+  {
+   "cn": "农民国家",
+   "en": "peasants state",
+   "source": "马克思主义",
+   "wordNumber": "03.0123",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯用来指农民占人口大多数，资本主义工业发展较为落后的国家，包括还处于封建社会的一些古老国家或地区等。"
+  },
+  {
+   "cn": "无产阶级国家",
+   "en": "proletarian state",
+   "source": "马克思主义",
+   "wordNumber": "03.0194",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类历史上最后的也是最高类型的国家。是无产阶级通过革命在打碎旧的国家机器的基础上建立起来的。是无产阶级（通过共产党）领导的、以工农联盟为基础的、对广大人民实行民主和对少数敌人实行专政的新型国家。我国称"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

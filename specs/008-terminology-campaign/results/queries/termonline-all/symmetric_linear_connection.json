@@ -1,0 +1,762 @@
+{
+ "key": "symmetric linear connection",
+ "term": "symmetric linear connection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:29:58+00:00",
+ "status": "ok",
+ "note": "variant=symmetric linear connection; 审定公布名词库=4778; 海峡两岸名词对照库=1190; 其他来源数据库=137; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "对称连接",
+   "en": "symmetric connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.063",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "双向带宽相等的连接。"
+  },
+  {
+   "cn": "对称化子",
+   "en": "symmetrizer",
+   "source": "数学名词",
+   "wordNumber": "04.0854",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "建筑学名词",
+   "wordNumber": "13.0056",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "构件间以某种方式的结合。能传递竖向力和水平力而不能传递弯矩的构件相互连接方式称为铰接；能传递竖向力和水平力，又能传递弯矩的构件相互连接方式称为刚接；能传递竖向力、水平力和部分弯矩且容许有一定变形的构件"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，为传送信号在功能单元之间建立的关联。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "土木工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联结",
+   "en": "connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.622",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "联络",
+   "en": "connection",
+   "source": "数学名词",
+   "wordNumber": "08.1014",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "电子学名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联号",
+   "en": "connective",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "表示不同标引词之间在同一文献中联系程度强弱的一种专用标引符号。它揭示标引词之间是否具有逻辑组配关系，防止出现假联系和错误组配，提高系统的查准率。使用联号的结果类似于标引词分组。"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "植物学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "雄蕊中介于花粉囊之间花药的部分。"
+  },
+  {
+   "cn": "联结词",
+   "en": "connective",
+   "source": "数学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称密钥",
+   "en": "symmetric key",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "使用相同密钥的加密和解密技术，发送和接收数据的双方必须使用相同的密钥对明文进行加密和解密运算，密钥本身必须以绝对安全的形式传送才能保证安全。"
+  },
+  {
+   "cn": "对称裂变",
+   "en": "symmetric fission",
+   "source": "核科学技术名词",
+   "wordNumber": "2.146",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "裂变核分成两个相同的碎片，裂变碎片呈对称性的核裂变。"
+  },
+  {
+   "cn": "对称杂种",
+   "en": "symmetric hybrid ",
+   "source": "草学名词",
+   "wordNumber": "5.0097",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "对称辐射",
+   "en": "symmetric radiation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1538",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "具有空间对称性的地震波辐射。 "
+  },
+  {
+   "cn": "对称辐射源",
+   "en": "symmetric radiator",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1539",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "地震波的辐射图型及破裂扩展方式均具有空间对称性的破裂源。如双侧破裂、双侧双向破裂的矩形断层，各向同性扩展的圆盘形断层等。 "
+  },
+  {
+   "cn": "对称融合",
+   "en": "symmetric fusion",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.167",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "将两个完整的细胞原生质体融合，得到在融合子中包含两个融合亲本的全套染色体和全部细胞质的过程。"
+  },
+  {
+   "cn": "对称膜",
+   "en": "symmetric membrane",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0948",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "化学组成和物理结构在各个方向上都一致，孔隙率在所有方向上都相似的膜。"
+  },
+  {
+   "cn": "对称密码体制",
+   "en": "symmetric cryptosystem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0004",
+   "subjectFullName": "计算机科学技术_信息安全_密码理论与技术",
+   "subjectName": "密码理论与技术",
+   "publishYear": "2018",
+   "definition": "一种加密系统。其加密密钥和解密密钥是相同的，或者能够从其中之一推知另一个。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称不稳定",
+   "en": "symmetric instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高分子各向同性膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称层合板",
+   "en": "symmetric laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称裂变",
+   "en": "symmetric fission",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对称[式]计算机",
+   "en": "symmetric computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码[学]",
+   "en": "symmetric cryptography",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码系统",
+   "en": "symmetric cryptosystem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称信道",
+   "en": "symmetric channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称信源",
+   "en": "symmetric source",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对称性突触",
+   "en": "symmetrical synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称分布",
+   "en": "symmetrical distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对称褶皱",
+   "en": "symmetrical fold",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "对称[列]表",
+   "en": "symmetrical list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称天线",
+   "en": "symmetrical antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称网络",
+   "en": "symmetrical network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码",
+   "en": "symmetric cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧互通",
+   "en": "Intelligent Connectivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施互联互通",
+   "en": "infrastructure connectivity",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0062",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学语境下，“关系”同“联系”。关系反映事物与事物、本质与本质、现象与现象、本质与现象之间相互联系的哲学范畴，是事物相互联系的必要因素。辩证唯物主义认为，关系是客观的，它存在于事物之间。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_基本组织",
+   "subjectName": "基本组织",
+   "publishYear": "2025",
+   "definition": "由细胞和大量细胞外基质构成的一种基本组织。不同类型结缔组织所含细胞数量、形态结构和功能不同。狭义上指固有结缔组织，包括疏松结缔组织、致密结缔组织、脂肪组织和网状组织。广义上还包括血液、淋巴、软骨和骨组"
+  },
+  {
+   "cn": "线性表位",
+   "en": "linear epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.23",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "蛋白质中能与T/B 细胞抗原受体结合的单个小区域的氨基酸序列。"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子沿直线路径加速的粒子加速器。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性生长",
+   "en": "linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "以骨骼生长为基础，反映人体长度生长的特征。"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，其光子注量减少的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "电子直线加速器",
+   "en": "electron linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用射频电场加速电子的直线轨道加速器。由电子枪、加速管、射频功率源、射频传输、真空系统、冷却水、束流引出和控制等系统组成。被广泛地应用于肿瘤的放射治疗。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "结缔组织病",
+   "en": "connective tissue disease，CTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.1.4",
+   "subjectFullName": "风湿免疫病学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "结缔组织受累引起的一类疾病。主要病理改变为靶组织和血管的慢性炎症性改变以及胶原组织的纤维样变及增生。主要是由于免疫系统功能紊乱导致炎症性组织损伤。呈多系统受累，病程长，病情复杂，复发缓解交替，可伴发热"
+  },
+  {
+   "cn": "线碰撞阻止本领",
+   "en": "linear collision stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因电离、激发过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线辐射阻止本领",
+   "en": "linear radioactive stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因轫致辐射过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线能量转移系数",
+   "en": "linear energy transfer coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移的份额。SI单位为米，记作m-1。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

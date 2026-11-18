@@ -1,0 +1,682 @@
+{
+ "key": "incomplete information",
+ "term": "incomplete information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:27:38+00:00",
+ "status": "ok",
+ "note": "variant=incomplete information; 审定公布名词库=3578; 海峡两岸名词对照库=680; 其他来源数据库=566; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "不完全信息",
+   "en": "incomplete information",
+   "source": "经济学名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人对所有参与人的策略空间及策略组合下的支付有着并不完全的了解。给定所有参与人的策略组合的情况下，只要有一个参与人不能确定地掌握任何一个参与人的支付，即称该博弈为不完全信息博弈。若一个博弈是不完全信"
+  },
+  {
+   "cn": "不完全信息",
+   "en": "incomplete information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.211",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "未能全面反映事物客观存在及其运动状态、所呈现的只是事物存在和运动的某些状态的信息。往往反映的是事物的某一方面特征，因而在信息利用过程中需要进行具体分析，以便在某方面特征分析的基础上明确其利用价值。"
+  },
+  {
+   "cn": "不完全信息",
+   "en": "incomplete information",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0113",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对于一个事件或事物的描述是片断的、零散的、残缺的、不完整的信息。"
+  },
+  {
+   "cn": "不完备信息约简",
+   "en": "incomplete information reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在保持分类能力不变的前提下，删除不必要的属性，使问题得到简化，且更有利于把握问题的本质的过程。"
+  },
+  {
+   "cn": "不完全性再生",
+   "en": "incomplete regeneration",
+   "source": "普通外科学名词",
+   "wordNumber": "10.028",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "组织缺损后，不能通过原组织的再生恢复原来的结构与功能，而由纤维结缔组织代替的过程。"
+  },
+  {
+   "cn": "不完全性截瘫",
+   "en": "incomplete paraplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.018",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "脊髓损伤平面以下感觉、运动或括约肌功能不完全丧失的瘫痪。脊髓最低位即骶段脊髓支配区感觉和运动功能部分保留。"
+  },
+  {
+   "cn": "不完全性四肢瘫",
+   "en": "incomplete quadriplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.019",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "创伤或疾病引起椎管内的颈段脊髓神经组织受损导致的四肢瘫痪。造成运动、感觉及大小便功能障碍，但在创伤神经平面以下仍有部分神经功能保留。"
+  },
+  {
+   "cn": "不完全性偏瘫",
+   "en": "incomplete hemiplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.024",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "同侧半身，包括面部肌肉、舌肌、上下肢的不全性瘫痪。"
+  },
+  {
+   "cn": "睾丸下降不全",
+   "en": "incomplete orchiocatabasis",
+   "source": "普通外科学名词",
+   "wordNumber": "16.088",
+   "subjectFullName": "医学_普通外科学_疝与腹壁外科",
+   "subjectName": "疝与腹壁外科",
+   "publishYear": "2026",
+   "definition": "睾丸停留在下降过程的途中而未能进入阴囊的疾病。下降不全的睾丸常位于腹股沟管内，易被误诊为腹股沟斜疝。"
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "农学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂合子中显性基因在表型中不能完全表现，杂合子的表型通常介于显性基因纯合子和隐性基因纯合子之间的现象。"
+  },
+  {
+   "cn": "不完全骨折",
+   "en": "incomplete fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.476",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨的完整性或连续性仅有部分破坏或中断的一类骨折。按照其形态可分为裂纹骨折、青枝骨折。"
+  },
+  {
+   "cn": "不全流产",
+   "en": "incomplete abortion",
+   "source": "急救医学名词",
+   "wordNumber": "03.631",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_流产",
+   "subjectName": "流产",
+   "publishYear": "2025",
+   "definition": "发生流产后，孕囊没有完全排出宫腔或者宫腔内有残留物质没有完全排出的临床表现。"
+  },
+  {
+   "cn": "不全流产",
+   "en": "incomplete abortion",
+   "source": "妇产科学名词",
+   "wordNumber": "13.015",
+   "subjectFullName": "妊娠并发症_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "妊娠物未能全部排出的流产。妊娠物部分排出宫腔，但还有部分残留于宫腔或嵌顿于宫颈口，或胎儿排出后胎盘滞留。"
+  },
+  {
+   "cn": "不完全归纳",
+   "en": "incomplete induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.140",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "以关于某类事物中的部分对象具有某种属性的判断为前提，而作出该类事物都具有某种属性的一般性结论的归纳推理。与“枚举归纳”相近。"
+  },
+  {
+   "cn": "不完全强直收缩",
+   "en": "incomplete tetanus",
+   "source": "兽医学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "给神经或肌肉两次单个或两次以上的阈上刺激，若后一次刺激落在了前一次刺激的舒张期时，出现的新收缩。表现为一条锯齿状 曲线。"
+  },
+  {
+   "cn": "不完全痊愈",
+   "en": "incomplete recovery",
+   "source": "兽医学名词",
+   "wordNumber": "10.063",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "患病动物的主要症状消除，但受损组织器官的功能和形态结构未完全恢复，而是通过代偿来维持生命活动，甚至遗留某些病理改变的状态。"
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "兽医学名词",
+   "wordNumber": "12.285",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "昆虫发育的另一种类型。其发育过程中某些阶段的虫体形态相似。"
+  },
+  {
+   "cn": "不完全瘫痪",
+   "en": "incomplete paralysis",
+   "source": "兽医学名词",
+   "wordNumber": "13.144",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "随意运动减弱但仍能不完善地运动的状态。"
+  },
+  {
+   "cn": "不完整核型",
+   "en": "incomplete karyotype",
+   "source": "血液学名词",
+   "wordNumber": "4.247",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "因染色体质量较差，除了列出的畸变外，还有其他不确定的染色体数目或结构畸变，是不能列出全部异常的染色体核型。"
+  },
+  {
+   "cn": "不完全硫化",
+   "en": "incomplete vulcanization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0517",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "橡胶的线型大分子在交联过程中只部分形成网状结构的硫化状态。"
+  },
+  {
+   "cn": "不完全信息",
+   "en": "incomplete information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全性",
+   "en": "incompleteness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全再生",
+   "en": "incomplete regeneration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全合同",
+   "en": "incomplete contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全票据",
+   "en": "incomplete bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全外显率",
+   "en": "incomplete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗体",
+   "en": "incomplete antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全吞噬",
+   "en": "incomplete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全冗余",
+   "en": "incomplete redundancy",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全连锁",
+   "en": "incomplete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全解码",
+   "en": "incomplete decoding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全数据",
+   "en": "incomplete data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "燃烧不完全",
+   "en": "incomplete combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "未焊透",
+   "en": "incomplete penetration",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容不完整球队",
+   "en": "incomplete team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "残缺家庭",
+   "en": "incomplete family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.18",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "核心家庭中配偶一方因离婚、死亡、出走、分居等原因致使家庭成员不全的家庭。相对于完整家庭而言。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

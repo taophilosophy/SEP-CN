@@ -1,0 +1,792 @@
+{
+ "key": "important connection",
+ "term": "important connection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:31:23+00:00",
+ "status": "ok",
+ "note": "variant=important connection; 审定公布名词库=2006; 海峡两岸名词对照库=830; 其他来源数据库=95; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0574",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）将当前系统之外的某个指定位置上的一批数据输入到系统中。（2）一种改变元素可见性的表示法，使其他作用域或名字空间的元素可以在本作用域或名字空间内被直接引用。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "建筑学名词",
+   "wordNumber": "13.0056",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "构件间以某种方式的结合。能传递竖向力和水平力而不能传递弯矩的构件相互连接方式称为铰接；能传递竖向力和水平力，又能传递弯矩的构件相互连接方式称为刚接；能传递竖向力、水平力和部分弯矩且容许有一定变形的构件"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，为传送信号在功能单元之间建立的关联。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "土木工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联结",
+   "en": "connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.622",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "联络",
+   "en": "connection",
+   "source": "数学名词",
+   "wordNumber": "08.1014",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "电子学名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联号",
+   "en": "connective",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "表示不同标引词之间在同一文献中联系程度强弱的一种专用标引符号。它揭示标引词之间是否具有逻辑组配关系，防止出现假联系和错误组配，提高系统的查准率。使用联号的结果类似于标引词分组。"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "植物学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "雄蕊中介于花粉囊之间花药的部分。"
+  },
+  {
+   "cn": "联结词",
+   "en": "connective",
+   "source": "数学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连",
+   "en": "connect",
+   "source": "风景园林名词",
+   "wordNumber": "08.0731",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "山石与山石之间水平方向的相互搭接。连石要根据山石的自然轮廓、并注意连石之间的大小同、连缝或紧或疏以形成岩石自然风化后的节理。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.724",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "拓扑学中的基本概念。若X中除了空集和X本身外没有别的既开又闭的子集，则称拓扑空间X具有连通性。"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "植物学名词",
+   "wordNumber": "13.0587",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "从生态功能和过程上描述景观中各单元之间相互联系的程度。是测定景观的功能特征。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0776",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定一个图 G，若对于G 中任意两个节点 s,t ，在 G 中有从 s 到 t 的路径，则称 G 是连通的。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.344",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "衡量网络复杂性的量度，常用γ指数和α指数计算。其中，γ指数等于给定空间网络体节点连线数与可能存在的所有连线数之比,α指数用于衡量环路，节点被交替路径连接的程度，等于当前存在的环路数与可能存在的最大环路"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "生态学名词",
+   "wordNumber": "08.052",
+   "subjectFullName": "生态学_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2006",
+   "definition": "从生态功能上描述景观中各单元之间相互联系的程度。"
+  },
+  {
+   "cn": "连通度",
+   "en": "connectivity",
+   "source": "数学名词",
+   "wordNumber": "03.0122",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "数学名词",
+   "wordNumber": "08.0497",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连结性",
+   "en": "connectivity",
+   "source": "自动化名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "进口",
+   "en": "import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重要负载",
+   "en": "important load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化物输入",
+   "en": "assimilate import",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿性进口",
+   "en": "compensation import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边进口",
+   "en": "unilateral import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内消费进口",
+   "en": "retained import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金输入",
+   "en": "gold import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间接进口",
+   "en": "indirect import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口保证金，进口押金",
+   "en": "import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报单",
+   "en": "import declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报关单",
+   "en": "import entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口壁垒",
+   "en": "import barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口补贴",
+   "en": "import subsidy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重要性采样",
+   "en": "importance sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧互通",
+   "en": "Intelligent Connectivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施互联互通",
+   "en": "infrastructure connectivity",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贵宾",
+   "en": "very important person",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信互联网连接",
+   "en": "trusted Internet connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设施联通",
+   "en": "connectivity of infrastructure",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0062",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学语境下，“关系”同“联系”。关系反映事物与事物、本质与本质、现象与现象、本质与现象之间相互联系的哲学范畴，是事物相互联系的必要因素。辩证唯物主义认为，关系是客观的，它存在于事物之间。"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_基本组织",
+   "subjectName": "基本组织",
+   "publishYear": "2025",
+   "definition": "由细胞和大量细胞外基质构成的一种基本组织。不同类型结缔组织所含细胞数量、形态结构和功能不同。狭义上指固有结缔组织，包括疏松结缔组织、致密结缔组织、脂肪组织和网状组织。广义上还包括血液、淋巴、软骨和骨组"
+  },
+  {
+   "cn": "进口食品添加剂",
+   "en": "imported food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "产自中国境外，通过中国海关报关验放后进入中国境内的食品添加剂产品"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "结缔组织病",
+   "en": "connective tissue disease，CTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.1.4",
+   "subjectFullName": "风湿免疫病学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "结缔组织受累引起的一类疾病。主要病理改变为靶组织和血管的慢性炎症性改变以及胶原组织的纤维样变及增生。主要是由于免疫系统功能紊乱导致炎症性组织损伤。呈多系统受累，病程长，病情复杂，复发缓解交替，可伴发热"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "source": "马克思主义",
+   "wordNumber": "03.0620",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的第三代中央领导集体创立的党的指导思想的构成部分。其主要内容是：中国共产党要始终代表中国先进生产力的发展要求、要始终代表中国先进文化的前进方向、要始终代表中国最广大人民的根本利益。它是中"
+  },
+  {
+   "cn": "重要战略机遇期",
+   "en": "period of important strategic opportunities",
+   "source": "马克思主义",
+   "wordNumber": "04.0187",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党中央对当前国际国内形势作出的一个科学判断。主要是指国际国内各种因素综合作用形成的，能为国家（地区、集团）经济社会发展提供良好机会和境遇，并对其历史命运产生全局性、长远性、决定性影响的某一特定历史时期"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "重要军事活动卫生保障",
+   "en": "health security for important military activities",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "根据重要军事活动时人员特点、作业环境特点、人员聚集特点和作业特点，研究复合因素对人员影响的规律，从而提供综合性的卫生学保障措施。"
+  },
+  {
+   "cn": "混合性结缔组织病",
+   "en": "mixed connective tissue disease，MCTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_混合性结缔组织病及重叠综合征",
+   "subjectName": "混合性结缔组织病及重叠综合征",
+   "publishYear": "2025",
+   "definition": "具有系统性红斑狼疮、多发性肌炎、硬皮病、类风湿关节炎等疾病的表现，但不符合任何疾病的分类标准的疾病，血中有高滴度效价的斑点型抗核抗体和高滴度U1RNP抗体。"
+  },
+  {
+   "cn": "弥漫性结缔组织病",
+   "en": "diffuse connective tissue disease， DCTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "累及全身结缔组织的非器官特异的结缔组织病。主要包括：系统性红斑狼疮、干燥综合征、系统性硬化、类风湿关节炎，重叠综合征等疾病。"
+  },
+  {
+   "cn": "未分化结缔组织病",
+   "en": "undifferentiated connective tissue disease，UCTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一类具有某些自身免疫性结缔组织病的临床表现，但不符合任何已知的结缔组织病分类标准的疾病。可表现为雷诺现象，或不明原因的关节痛以及血清ANA弱阳性，或眼干口干，脱发，光过敏，间质性肺炎等非特异性表现。他"
+  },
+  {
+   "cn": "进出口食品合格评定",
+   "en": "import and export food conformity assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "海关依据进出口商品检验相关法律、行政法规的规定对进口食品实施的一种评审活动。包括向中国境内出口食品的境外国家（地区）食品安全管理体系评估和审查、境外生产企业注册、进出口商备案和合格保证、进境动植物检疫"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组空气（水）源制冷或热泵机组配置多台室内机，通过改变制冷剂流量适应各房间负荷变化的直接膨胀式空调系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

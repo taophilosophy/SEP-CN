@@ -1,0 +1,682 @@
+{
+ "key": "avoid confusion",
+ "term": "avoid confusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:25:54+00:00",
+ "status": "ok",
+ "note": "variant=avoid confusion; 审定公布名词库=364; 海峡两岸名词对照库=76; 其他来源数据库=27; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "生态学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "通过防御来抵御恶劣环境条件的一种生存对策。"
+  },
+  {
+   "cn": "避-避冲突",
+   "en": "avoidance-avoidance conflict",
+   "source": "行为医学名词",
+   "wordNumber": "4.099",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体同时面对两件不喜欢或令人厌恶的事物，要回避其一就必然遭遇另一件时所产生的心理冲突。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.960",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.056",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "一种不能识别时间、地点和人物的定向障碍状态。意识水平轻度下降，较嗜睡深的一种意识障碍。患者能保持简单的精神活动，但对时间、地点、人物的定向能力发生障碍。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "神经病学名词",
+   "wordNumber": "04.009",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向力障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "伴发于急慢性脑器质性疾病的一种意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，但加重时便不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "老年医学名词",
+   "wordNumber": "04.463",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "一种伴发于急慢性脑器质性疾病的意识受损状态。表现为定向障碍、精神活动缓慢、情感平淡、缺乏主动性、注意力不集中。轻度时检查可引起合理的反应，加重时不能保持与环境的接触。"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.139",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "避逆性",
+   "en": "stress avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.179",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过各种方式在时间或空间上避开逆境危害，不与逆境相遇的抗逆方式。"
+  },
+  {
+   "cn": "避旱性",
+   "en": "drought avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.226",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过改变生育进程，使水分敏感期避开干旱，或在严重干旱发生之前完成生活史的特性。"
+  },
+  {
+   "cn": "不确定性规避",
+   "en": "uncertainty avoidance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.056",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "霍夫斯塔德提出的文化维度之一。对不确定性和模糊情景所产生的威胁的一种社会感受，并试图加以摆脱和避免的心态。不同的文化所表现的不确定性规避有显著差异。强调规避不确定的文化成员相对具有情感上的高焦虑和应激"
+  },
+  {
+   "cn": "回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "行为医学名词",
+   "wordNumber": "2.041",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "当厌恶刺激或不愉快情境预示出现，个体做出某种反应，以回避厌恶刺激或不愉快情境的过程。"
+  },
+  {
+   "cn": "回避行为",
+   "en": "avoidance behavior",
+   "source": "行为医学名词",
+   "wordNumber": "2.042",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "个体对厌恶刺激所表现的躲避反应。刺激出现时表现为规避式逃匿。"
+  },
+  {
+   "cn": "回避症状",
+   "en": "avoidance symptom",
+   "source": "行为医学名词",
+   "wordNumber": "10.095",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "创伤事件后，出现持续回避与创伤性事件有关刺激的一种现象。"
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "经济学名词",
+   "wordNumber": "09.093",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "纳税人利用税法上的漏洞或税法允许的办法，做适当的财务安排或税收策划，在不违反税法规定的前提下，达到减轻或解除税负的目的。"
+  },
+  {
+   "cn": "回避性反射",
+   "en": "avoidance reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避系统",
+   "en": "avoidance system",
+   "source": "生理学名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0344",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2020",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0713",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物通过将吸入体内的盐分稀释或将盐排至体外以避免高盐毒害的特性。非盐生植物抗盐主要取此途径。"
+  },
+  {
+   "cn": "回避交叉",
+   "en": "avoided crossing",
+   "source": "物理学名词",
+   "wordNumber": "07.0267",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "回避,逃避",
+   "en": "avoidance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双避冲突",
+   "en": "avoidance avoidance conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "混乱性",
+   "en": "confusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "御旱性",
+   "en": "drought avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御逆性",
+   "en": "stress avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御热性",
+   "en": "heat avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避型人格",
+   "en": "avoidant personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避反应",
+   "en": "avoidance response",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避对象",
+   "en": "avoidance object",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避性训练",
+   "en": "avoidance training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避条件反射，回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避应对",
+   "en": "avoidance coping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避学习",
+   "en": "avoidance learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "避错，故障避免",
+   "en": "fault avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等待避免",
+   "en": "latency avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象回避",
+   "en": "weather avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"dodge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"duck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱窠臼",
+   "en": "Avoid Stereotypes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避免去人多的地方",
+   "en": "to avoid crowds",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing\",\"disorderly fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "避实击虚",
+   "en": "Avoid the Strong and Attack the Weak",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避免使某个国家或特定群体蒙受污名",
+   "en": "to avoid stigmatizing a country or particular group",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚",
+   "en": "Xu（Void）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚静",
+   "en": "Void and Peace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太虚",
+   "en": "Taixu (Great Void)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可缩减成本",
+   "en": "avoidable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在正常经营运行情况下可降低的成本。"
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不良、消极的依恋行为。对母亲的来去无所谓，很少依恋或纠缠母亲。"
+  },
+  {
+   "cn": "避险",
+   "en": "risk avoidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "在危险发生时及时采取正确措施，最大限度减少健康损失的举措。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "信息规避行为",
+   "en": "information avoidance behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "旨在避免或延迟获取可获得信息的行为，导致信息规避行为的动机大致可以归纳为个人、信息和情景三类因素。"
+  },
+  {
+   "cn": "回避致敏食物",
+   "en": "avoiding allergenic food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "对明确为过敏原的所有食物进行完全的回避，回避期间要选用可保障婴幼儿正常生长发育的其他替代食物进行喂养。"
+  },
+  {
+   "cn": "避免环境有害行为",
+   "en": "avoid environmentally harmful behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对有害环境(包括自然环境和生活环境)采用调试、主动回避、积极应对等维护自身健康的行为。"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  },
+  {
+   "cn": "惊厥",
+   "en": "convulsion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "表现为突然发作的全身性或局限性肌群强直性和阵挛性抽动，多伴有意识障碍。"
+  },
+  {
+   "cn": "忏悔",
+   "en": "confession",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.089",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "认识到了自己的过错或罪过而感到痛心并决心改正。"
+  },
+  {
+   "cn": "儒家伦理",
+   "en": "confucian ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.167",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "由孔子开创的反映中国宗法等级制度的伦理学说。主要表现为道德本位、忠君尊上和家族中心三个方面。其核心伦理要求是“仁、义、礼、智、信”。随着时代的发展，其内容被不断地丰富和扬弃。"
+  },
+  {
+   "cn": "输液[血]率",
+   "en": "infusion [blood transfusion] rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤病员输液(血)人数。"
+  },
+  {
+   "cn": "惊厥型氧中毒",
+   "en": "convulsion type of oxygen toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "机体较短时间吸入200～300kPa 的氧气，发生的以惊厥为主要临床特征的氧中毒。"
+  },
+  {
+   "cn": "平均输液[血]量",
+   "en": "average infusion [blood transfusion] volume",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "输液(血)者的平均输液(血)量。反映医疗机构患者血液使用情况。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

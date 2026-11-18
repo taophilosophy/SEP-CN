@@ -1,0 +1,762 @@
+{
+ "key": "character education",
+ "term": "character education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:27:34+00:00",
+ "status": "ok",
+ "note": "variant=character education; 审定公布名词库=2930; 海峡两岸名词对照库=725; 其他来源数据库=141; 预公布名词数据库=232; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "人格教育",
+   "en": "character and personality education",
+   "source": "教育学名词",
+   "wordNumber": "01.247",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "运用心理教育、心理训练、心理建构等方式与方法，对受教育者施加影响，促其人格健康发展的教育。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.199",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体不同于其他人的心理特征的总和。为与社会密切相关的人格特征。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "行为医学名词",
+   "wordNumber": "4.114",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体较稳定的态度和行为特征。是在社会实践活动中形成的，对现实的稳定态度及与之相适应的行为倾向性。"
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "生物体（或细胞）的任何可以鉴别的表型特 征。"
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "动物学名词",
+   "wordNumber": "2.0061",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "生物个体或种群具有的可识别的属性。包括形态、生理、行为、生态、地理等性状。依据这些性状能够确定其与其他个体间的可遗传差异。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "计划生育名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "一个人情绪活动的倾向性和认知行为方式特征的总和。也就是人独特的心理特征的总和。"
+  },
+  {
+   "cn": "特征标",
+   "en": "character",
+   "source": "物理学名词",
+   "wordNumber": "08.0174",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "字符",
+   "en": "character",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0130",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "用来组织、控制或表示数据的字母、数字以及计算机能识别的其他符号。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "与社会密切相关的人格特征。主要表现在对待自己、别人和外界事物的态度及言行举止方面。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "心理学名词",
+   "wordNumber": "02.757",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人较为稳定的态度和行为的特征。"
+  },
+  {
+   "cn": "特征",
+   "en": "character",
+   "source": "微生物学名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "某一分类单元所具有的与其他生物相区别的各种特点。"
+  },
+  {
+   "cn": "字符",
+   "en": "character",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.793",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用以控制数据或表达数据的大小写英文字母、数字、标点符号及其机读代码的总称。"
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "遗传学名词",
+   "wordNumber": "02.016",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "生物体(或细胞)的任何可以鉴别的表型特征。"
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "生态学名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "生物或者种群的任何可识别的特征和特性。"
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "昆虫学名词",
+   "wordNumber": "02.041",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "生物分类上通常指分类所依据的形态学指标，包括形态、构造等。"
+  },
+  {
+   "cn": "字符",
+   "en": "character",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0819",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "灯质",
+   "en": "character",
+   "source": "航海科技名词",
+   "wordNumber": "07.0268",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "特征[标]",
+   "en": "character",
+   "source": "数学名词",
+   "wordNumber": "04.0190",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "波形特征",
+   "en": "wave character,character",
+   "source": "石油名词",
+   "wordNumber": "03.0356",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "学历",
+   "en": "education",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0444",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在某种等级与类型的学校接受教育后肄业或毕业，获得某种学位或证书的经历。"
+  },
+  {
+   "cn": "性格",
+   "en": "character",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "字符",
+   "en": "character",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "字符",
+   "en": "character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "品质",
+   "en": "character",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多态性状",
+   "en": "multistate character\",\"polymorphic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "退化性状",
+   "en": "degenerative character\",\"regressive character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对性状",
+   "en": "relative character\",\"contrast character",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多态性状",
+   "en": "multistate character\",\"polymorphic character",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character\",\"trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character\",\"trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隐性性状",
+   "en": "recessive character",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表型性状",
+   "en": "phenotypic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单基因性状",
+   "en": "monogenic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "定向性状（=渠限性状）",
+   "en": "canalized character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多基因性状",
+   "en": "polygenic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二元性状",
+   "en": "binary character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分类性状",
+   "en": "taxonomic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人物",
+   "en": "virtual character",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本色",
+   "en": "Bense (Original Character)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "Wenhua (Cultural Education)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费者教育",
+   "en": "financial consumer education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天命之性",
+   "en": "Character Endowed by Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五律",
+   "en": "Five-character Rhythmic Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育扶贫",
+   "en": "poverty alleviation through education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "性征",
+   "en": "sex character",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "男女在生理、心理、社会等方面的性别特征，包括第一性征（生殖器构造）、第二性征（青春期发育特征）和第三性征（男性气质和女性气质）。"
+  },
+  {
+   "cn": "性格结构",
+   "en": "character structure",
+   "source": "马克思主义",
+   "wordNumber": "05.0047",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "弗洛伊德主义的马克思主义用来指人在日常生活和工作中表现出来的习惯行为的内在范型，与弗洛伊德不同的是，赖希（Wilhelm Reich）与弗洛姆注重性格结构形成中的社会因素。"
+  },
+  {
+   "cn": "社会性格",
+   "en": "social character",
+   "source": "马克思主义",
+   "wordNumber": "05.0056",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于弗洛姆《超越幻想的锁链》，指一个文化时期中绝大多数人所共同具有的性格特征，不同于个体性格。"
+  },
+  {
+   "cn": "方块壮字",
+   "en": "Zhuang character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0368",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "壮族使用的一种仿汉字系文字。利用汉字的偏旁、部首创制，记录壮族民歌、经书、刻碑、通信和记事等，民间仍保留方块壮字文本千余种。"
+  },
+  {
+   "cn": "白文",
+   "en": "Bai character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0367",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "一种仿汉字系文字。始于唐代。现存有石刻碑文和铜器铭文，古代白文书籍已经失传。现代白族民间艺人仍用白文写大本曲、民歌等。"
+  },
+  {
+   "cn": "道德品质",
+   "en": "moral character",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.041",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在长期的道德生活中形成和表现出来的较为稳定的心理特征，是一定社会的道德原则和规范在个人意识和行为中的体现。"
+  },
+  {
+   "cn": "汉字",
+   "en": "Chinese character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.02",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "记录和书写汉语的文字，不同于记录语音单位的拼音文字，属意音文字。字形通常由表示字音和字义的偏旁和部件构成。是中国的官方文字，历史上也曾是日本、朝鲜和越南等国家的官方文字。现代汉字的字体分简体字和繁体字"
+  },
+  {
+   "cn": "民族性格",
+   "en": "ethnic character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0487",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "某民族成员所共同具有的性格特征和群体个性，指一个民族大多数成员共有的、稳定的心理倾向与心理特征的总和。"
+  },
+  {
+   "cn": "八字",
+   "en": "eight characters",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0308",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一个人出生时的干支历日期。年月日时共四柱干支，每柱两字，合共八个字，在中国民俗信仰中占有重要地位。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

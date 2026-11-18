@@ -1,0 +1,772 @@
+{
+ "key": "five sections",
+ "term": "five sections",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:32:51+00:00",
+ "status": "ok",
+ "note": "variant=five sections; 审定公布名词库=2531; 海峡两岸名词对照库=601; 其他来源数据库=139; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "建筑剖面图",
+   "en": "section",
+   "source": "风景园林名词",
+   "wordNumber": "07.0103",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "主要表示建筑物的内部结构形式、空间关系，把建筑物沿竖直方向剖开的投影图。"
+  },
+  {
+   "cn": "切开术",
+   "en": "section",
+   "source": "兽医学名词",
+   "wordNumber": "18.118",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "用手术刀切割组织使之断离的手术。"
+  },
+  {
+   "cn": "节",
+   "en": "section",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.034",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍或文章中小于章大于目的结构单元。"
+  },
+  {
+   "cn": "段",
+   "en": "section",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0024",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "从气体吸入压缩机内的级算起，到气体流出压缩机外去冷却或中间抽气（加气）之间的级或级的组合。"
+  },
+  {
+   "cn": "组",
+   "en": "section",
+   "source": "植物学名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "介于属和种之间的生物分类阶元。"
+  },
+  {
+   "cn": "剖面图",
+   "en": "section",
+   "source": "建筑学名词",
+   "wordNumber": "09.0084",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "用垂直于外墙水平方向轴线的铅垂剖切面，将房屋剖切面和沿投射方向见到部分所得的正投影图。"
+  },
+  {
+   "cn": "断面图",
+   "en": "section",
+   "source": "建筑学名词",
+   "wordNumber": "09.0085",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "将物体沿所设方向剖切，其剖切面所得的正投影图。"
+  },
+  {
+   "cn": "切片",
+   "en": "section",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "将组织样品制成可使光线或电子束透过的薄片的过程。"
+  },
+  {
+   "cn": "截面",
+   "en": "section",
+   "source": "土木工程名词",
+   "wordNumber": "02.048",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区间",
+   "en": "section",
+   "source": "土木工程名词",
+   "wordNumber": "08.123",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "线段",
+   "en": "section",
+   "source": "电气工程名词",
+   "wordNumber": "08.197",
+   "subjectFullName": "电气工程_变压器、调压器、电抗器、互感器",
+   "subjectName": "变压器、调压器、电抗器、互感器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "区间",
+   "en": "section",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0046",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "瓣",
+   "en": "section",
+   "source": "数学名词",
+   "wordNumber": "04.1080",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "断面",
+   "en": "section",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_应用地球物理学",
+   "subjectName": "应用地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "五宫",
+   "en": "five palaces",
+   "source": "天文学名词",
+   "wordNumber": "05.081",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "《史记·天官书》划分的五大天区，包括中宫北极、东宫苍龙、北宫玄武、西宫咸池(后世改称白虎)、南宫朱鸟(朱雀)。"
+  },
+  {
+   "cn": "五星",
+   "en": "five planets",
+   "source": "天文学名词",
+   "wordNumber": "05.136",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代指金、木、水、火、土五颗行星。"
+  },
+  {
+   "cn": "五行",
+   "en": "five elements",
+   "source": "天文学名词",
+   "wordNumber": "05.299",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "金、木、水、火、土五种原质，后亦演变为自然界五种运行势力。中国古代传统思想借此说明世界万物的生成和变化。"
+  },
+  {
+   "cn": "五志",
+   "en": "five minds",
+   "source": "行为医学名词",
+   "wordNumber": "2.148",
+   "subjectFullName": "行为医学_行为医学基本理论_中医行为医学思想",
+   "subjectName": "中医行为医学思想",
+   "publishYear": "2022",
+   "definition": "喜、怒、思、忧、恐五种情志活动。中医认为情志的变动和五脏的功能有关，心志为喜，肝志为怒，脾志为思，肺志为忧，肾志为恐。"
+  },
+  {
+   "cn": "五保",
+   "en": "five guarantees",
+   "source": "计划生育名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "对农村无依无靠的老、弱、孤、寡、残疾人员实行保吃、保穿、保住、保医、保养（孤儿保教）的制度。"
+  },
+  {
+   "cn": "五养",
+   "en": "five nourishments",
+   "source": "老年医学名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "老年医学_传统老年医学",
+   "subjectName": "传统老年医学",
+   "publishYear": "2017",
+   "definition": "即春养脾、夏养肺、秋养肝、冬养心、四季养肾。气功习炼，重在五养，五脏得养，百病不生，可以延年。"
+  },
+  {
+   "cn": "切片",
+   "en": "section\",\"section cutting\",\"sectioning",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组",
+   "en": "section",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "section",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派",
+   "en": "section",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "section",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "五人团",
+   "en": "The Five",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "五行",
+   "en": "five elements",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "五味 （指辛、甘、酸、苦、咸）",
+   "en": "five flavours",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "横切面",
+   "en": "cross section\",\"transverse section",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精馏段",
+   "en": "rectification section\",\"rectifying section",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "超薄切片",
+   "en": "ultrathin section\",\"ultrathin sectioning",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "断面照准仪",
+   "en": "sectional alidade\",\"sectioning alidade",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "五幅都铎肖像",
+   "en": "Five Tudor Portraits",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Vaughan Williams, Ralph"
+  },
+  {
+   "cn": "五大因素模型",
+   "en": "five factor model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "5分钟振荡",
+   "en": "five-minute oscillation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "五千米射电望远镜",
+   "en": "Five-Kilometre Telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "横剖面",
+   "en": "transverse sections",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测段",
+   "en": "link\",\"section",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "半薄切片",
+   "en": "semithin section",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "恒冷箱切片",
+   "en": "cryostat section",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "五人赛艇",
+   "en": "five",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五经",
+   "en": "Five Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五音",
+   "en": "The Five Notes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五伦",
+   "en": "The Five Bonds",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "装五发子弹!",
+   "en": "Load five rounds!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区段裁判员",
+   "en": "section judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五律",
+   "en": "Five-character Rhythmic Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五通”",
+   "en": "the “Five-pronged Approach”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "五德终始",
+   "en": "The Cycle of Five Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五位一体\"总体布局",
+   "en": "the Five-sphere Integrated Plan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“十三五”规划",
+   "en": "the 13th Five-Year Plan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "五行相胜",
+   "en": "The Five Elements Triumph over Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "500米口径球面射电望远镜",
+   "en": "Five-hundred-meter Aperture Spherical Radio Telescope (FAST)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五行相生",
+   "en": "The Five Elements, Each in Turn Producing the Next",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.22-1993 数据处理词汇 第22部分：计算器》",
+   "en": "GB/T 5271.22-1993 Data processing — Vocabulary — Section 22: Calculators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国（上海）自由贸易试验区临港新片区",
+   "en": "Lingang section of Shanghai Pilot Free Trade Zone",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“五观”",
+   "en": "five outlooks",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0136",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即马克思主义的国家观、历史观、民族观、文化观和宗教观。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "五步碘量法",
+   "en": "five-step iodimetry",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于水中Cl2 、ClO2、Cl02-及Cl03-在不同的pH时与碘离子反应生成I2，用硫代硫酸钠溶液滴定游离碘测定二氧化氯浓度的滴定分析法，此法可区分测定上述4种氯氧化物的含量。"
+  },
+  {
+   "cn": "“五保”老人",
+   "en": "five-guarantees elderly",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.39",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国农村因缺乏劳动能力和生活来源而接受政府和村委会提供的保吃、保穿、保医、保住、保葬社会救助的老年人。"
+  },
+  {
+   "cn": "五条重大原则",
+   "en": "five major principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0828",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，前进道路上，必须牢牢把握以下重大原则：坚持和加强党的全面领导，坚持中国特色社会主义道路，坚持以人民为中心的发展思想，坚持深化改革开放，坚持发扬斗争精神。"
+  },
+  {
+   "cn": "五次反围剿",
+   "en": "five counterencirclement campaigns",
+   "source": "马克思主义",
+   "wordNumber": "04.0131",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "第二次国内革命战争时期，1930年12月至1934年10月，中国工农红军第一方面军连续五次反击国民党反动派围剿中央苏区革命根据地的战役。前四次红军都获得胜利，第五次在“左”倾路线的领导下，反围剿失利，"
+  },
+  {
+   "cn": "5岁以下儿童死亡",
+   "en": "under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于5岁的儿童死亡。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0644",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代西域弹拨乐器。传入中原后盛行于南北朝、隋唐时期。形制与四弦琵琶相似，唯颈直而音箱略小。在克孜尔等新疆佛窟壁画中常见，可知为西域乐舞主要乐器之一。"
+  },
+  {
+   "cn": "五行学说",
+   "en": "five-phase theory",
+   "source": "社会医学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将古代哲学中木、火、土、金、水五类物质的特性及其生克变化规律运用到中医学而建立的中医基本理论，用以解释人体脏腑的属性、运动变化、相互关系，以及人体与外界环境的关系。"
+  },
+  {
+   "cn": "剖宫产术",
+   "en": "cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经腹部和子宫切口娩出胎儿的一种外科手术方式。按手术时机分为择期剖宫产和急诊剖宫产两种。"
+  },
+  {
+   "cn": "“新五反”",
+   "en": "New Five Antis Movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0157",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "反分裂、反渗透、反颠覆、反恐怖、反间谍。"
+  },
+  {
+   "cn": "5岁以下儿童死亡监测",
+   "en": "under-five mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在具有代表性的地区或全国范围内对5岁以下儿童的生存状态进行长期、持续的动态观察，收集5岁以下儿童死亡率、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "“五个认同”",
+   "en": "Five Matters of identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0122",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族群众对伟大祖国、中华民族、中华文化、中国共产党、中国特色社会主义的认同。"
+  },
+  {
+   "cn": "5岁以下儿童死亡率",
+   "en": "under five mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.3",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000活产儿中5 岁以下儿童的死亡数量。反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "八分体系",
+   "en": "eight-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在四分法原有区分基础上再加一层亚半族区分（半族、亚半族和代别），由此构成部落社会外婚规则的八个类别，其中包含一整套类别间通婚和继嗣规则。用以协调和指导部落内半族和亚半族间的平代通婚。"
+  },
+  {
+   "cn": "剖宫产率",
+   "en": "cesarean section rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区采用剖宫产手术分娩的活产数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "紧急剖宫产",
+   "en": "emergency cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产妇在发生先兆临产前、后进行的计划外剖宫产术，是快速终止妊娠、挽救孕产妇和胎儿生命的有效手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

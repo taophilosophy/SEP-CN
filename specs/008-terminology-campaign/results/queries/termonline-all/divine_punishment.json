@@ -1,0 +1,792 @@
+{
+ "key": "divine punishment",
+ "term": "divine punishment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:22:14+00:00",
+ "status": "ok",
+ "note": "variant=divine punishment; 审定公布名词库=1646; 海峡两岸名词对照库=349; 其他来源数据库=93; 预公布名词数据库=92; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "惩罚",
+   "en": "punishment",
+   "source": "行为医学名词",
+   "wordNumber": "20.017",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "基于操作性条件反射原理，施予痛苦或剥夺利益，使个体不再从事问题行为的治疗方法。"
+  },
+  {
+   "cn": "惩罚物",
+   "en": "punisher",
+   "source": "心理学名词",
+   "wordNumber": "02.151",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "伴随某一反应之后出现，并且能够降低该反应以后发生概率的刺激。"
+  },
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "刑事处罚",
+   "en": "criminal punishment",
+   "source": "行为医学名词",
+   "wordNumber": "14.034",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "因违反刑法而受到国家机关依法实行的刑法制裁。"
+  },
+  {
+   "cn": "正惩罚",
+   "en": "positive punishment",
+   "source": "行为医学名词",
+   "wordNumber": "20.018",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "在环境中增加令人厌恶的刺激，以减少或消除不良行为的方法。"
+  },
+  {
+   "cn": "负惩罚",
+   "en": "negative punishment",
+   "source": "行为医学名词",
+   "wordNumber": "20.019",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "问题行为发生后，将环境中的正向刺激减少，以减少或消除不良行为的方法。"
+  },
+  {
+   "cn": "惩罚系统",
+   "en": "punishment system",
+   "source": "生物物理学名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "大脑中存在的对刺激产生嫌恶和痛苦感觉的特定脑区。"
+  },
+  {
+   "cn": "体罚",
+   "en": "corporal punishment",
+   "source": "教育学名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "来自家庭或教育机构的、以暴力作用于儿童身体的一种惩罚性教育手段。各国都把造成明显身心伤害的体罚视为虐待儿童的犯罪。有些国家禁止一切形式的体罚，有些国家则允许施行轻微的体罚。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "追惩制",
+   "en": "subsequent punishment system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.048",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "出版物在出版之前不受政府部门任何事先限制，自由印刷出版;但在发行之后，如发现有违法事项由司法部门依照法律予以究责、惩处的制度。"
+  },
+  {
+   "cn": "奖惩",
+   "en": "reward and punish",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.364",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "奖励和惩罚是规范人们行为的有效杆杠，是激励职工的起码并必须实施的有效手段。"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "墨刑",
+   "en": "mo xing;tatooing punishment",
+   "source": "中国古代史名词",
+   "wordNumber": "2.264",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "刻面涂墨的刑罚。起源甚早，西周为五刑之一，后世时用时废，又称“黥”。"
+  },
+  {
+   "cn": "宫刑",
+   "en": "gong xing;castration punishment",
+   "source": "中国古代史名词",
+   "wordNumber": "2.267",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "损害男女生殖器官的刑罚。始于商代，西周为五刑之一，汉仍用之，魏晋以来不为正刑。"
+  },
+  {
+   "cn": "惩罚",
+   "en": "punishment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "分水岭",
+   "en": "water divide\",\"divide",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "舱盖曳行装置",
+   "en": "hatch cover driving device",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "divide",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "stream divide\",\"watershed divide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "潜水工作船，潜水支援船",
+   "en": "diving support vessel\",\"diving boat",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分水岭",
+   "en": "drainage divide",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候分界",
+   "en": "climate divide",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和潜水",
+   "en": "saturation diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "常规潜水",
+   "en": "conventional diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "常压潜水",
+   "en": "atmospheric diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反复潜水， 重复潜水",
+   "en": "repeated diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空气潜水",
+   "en": "air diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "旅游潜水",
+   "en": "diving tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "模拟潜水",
+   "en": "simulated diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水程序",
+   "en": "diving procedure",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水疾病",
+   "en": "diving disease",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "以刑去刑",
+   "en": "Abolishing Punishment with Punishment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赏罚",
+   "en": "Rewards and Punishments",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "刑期于无刑",
+   "en": "The Purpose of Punishment Is to Eliminate Punishment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赏善罚恶",
+   "en": "Reward Good and Punish Evil",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赏信罚必",
+   "en": "Confer Honors and Mete Out Punishment to Those Who Deserve Them",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言者无罪，闻者足戒",
+   "en": "Those Who Speak Shouldn’t Be Punished While Those Who Listen Should Take Warning.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃射门",
+   "en": "dive shot\",\"diving shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水运动",
+   "en": "diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "diving retrieve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水比赛",
+   "en": "diving competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳台跳水",
+   "en": "platform diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳板跳水",
+   "en": "springboard diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水池",
+   "en": "diving pool",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水设施",
+   "en": "diving installation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水队",
+   "en": "diving group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "惩罚",
+   "en": "punishment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.092",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "惩戒处罚。因失误或犯罪对他人和社会造成一定损害，而对肇事人采取的处罚措施，可使受害方得到赔偿或补偿，使其内心得到慰藉与平衡。"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "躯体惩罚",
+   "en": "physical punishment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "父母或保护人或其他成人利用体力对儿童实施身体上的责罚，并引起儿童躯体疼痛或不适的行为，表现为各式殴打、罚站、罚跪等。这种违反儿童人权的行为会对儿童身体、心理、认知、社会情感发育、教育等方面产生不良影响"
+  },
+  {
+   "cn": "监督处罚",
+   "en": "supervision and punishment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门根据法律授权，依据法律法规和相对人的违法事实，给予相对人行政处罚的活动。"
+  },
+  {
+   "cn": "失信联合惩戒",
+   "en": "joint punishment of dishonesty",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "在有关部门和社会组织依法依规对医疗保险领域失信行为作出处理和评价基础上，通过信息共享，推动其他部门和社会组织依法依规对严重失信行为采取联合惩戒的措施。"
+  },
+  {
+   "cn": "惩治腐败",
+   "en": "punishing and eliminating corruption",
+   "source": "马克思主义",
+   "wordNumber": "04.0184",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "作为全心全意为人民服务的党，是绝不允许腐败现象在党内滋生蔓延。惩治腐败就是对党内腐败分子不能容忍，要与腐败作坚决斗争，这是从严治党和廉政建设的一个极其重要的方面，是中国特色社会主义事业成功不可缺少的重"
+  },
+  {
+   "cn": "惩治和预防腐败体系",
+   "en": "system of combating corruption through punishment and prevention",
+   "source": "马克思主义",
+   "wordNumber": "03.0663",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党中纪委总结长期廉政建设经验提出的教育、制度、监督并重的惩治和预防腐败体系，是反腐斗争坚持标本兼治、综合治理、惩防并举、注重预防方针的体现。"
+  },
+  {
+   "cn": "标本兼治综合治理惩防并举注重预防的方针",
+   "en": "anticorruption in a comprehensive way address both its symptoms and root cause and combine punishment with prevention with the emphasis on prevention",
+   "source": "马克思主义",
+   "wordNumber": "03.0774",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "标本兼治、综合治理、惩防并举、注重预防，是2004年9月党的十六届四中全会首次提出的关于反腐倡廉建设的战略方针。这一方针是对20世纪90年代提出的“标本兼治、综合治理”八字方针的发展，标志着中国共产党"
+  },
+  {
+   "cn": "潜水医学",
+   "en": "diving medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "研究和解决潜水作业过程中潜水员的保健和疾病防治的学科。研究内容主要包括水面及水下各种环境因素引起潜水从业人员的生理反应、病理变化、疾病的流行规律及其诊断与防治措施。"
+  },
+  {
+   "cn": "潜水作业卫生",
+   "en": "diving operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.7",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制潜水作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有管腔，其直径≥2mm，且其腔体中的任何一点距其与外界相通的开口处的距离不大于其内直径的1500倍的器械。一般指由软管、硬管（单管或同轴组合）组成的器械，清洗时需使用专用的连接器与清洗消毒器连接。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "source": "马克思主义",
+   "wordNumber": "03.0174",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在某一社会生产发展阶段中，居民用以满足物质、文化生活需要的社会产品和劳务的消费程度。又称生活程度。具体内容包括：居民的实际收入水平、消费水平和消费结构、劳动的社会条件和生产条件、社会服务的发达程度、闲"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "有针对性地根据个体或群体的需求，指导个人或群体积极应对生活事件的行动。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

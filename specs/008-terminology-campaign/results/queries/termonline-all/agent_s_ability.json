@@ -1,0 +1,722 @@
+{
+ "key": "agent's ability",
+ "term": "agent’s ability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:31:30+00:00",
+ "status": "ok",
+ "note": "variant=agent’s ability; 审定公布名词库=2109; 海峡两岸名词对照库=797; 其他来源数据库=56; 预公布名词数据库=155; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.107",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人们成功完成某项活动所必需的个性心理特征。包括实际能力和潜在能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "心理学名词",
+   "wordNumber": "02.746",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人们成功地完成某种活动所必需的个性心理特征。包括实际能力和潜在能力两个方面。"
+  },
+  {
+   "cn": "泳透力",
+   "en": "throwing ability",
+   "source": "精细化工名词",
+   "wordNumber": "05.0284",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "在电泳涂装时，涂料对工件的内表面、凹穴处及背面的涂覆能力。"
+  },
+  {
+   "cn": "铺展能力",
+   "en": "spreading ability",
+   "source": "精细化工名词",
+   "wordNumber": "08.0719",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "液体（特别是表面活性剂溶液）能自发地覆盖于另一种液体或固体表面上的能力。"
+  },
+  {
+   "cn": "分蘖力",
+   "en": "tillering ability",
+   "source": "农学名词",
+   "wordNumber": "07.036",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "在一定时间内，作物单株产生分蘖的数量和质量。"
+  },
+  {
+   "cn": "打击力",
+   "en": "attacking ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.378",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "某一军事系统在一定时期内对敌方人员和装备能够造成的杀伤破坏程度。在军事技术中占据关键位置，这与战争的基本目的“打击敌人，保护自己”以及“进攻是最好的防御”是一致的。"
+  },
+  {
+   "cn": "防御力",
+   "en": "defense ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.379",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "某一军事系统对外来打击力的抗拒程度。是军事技术中仅次于打击力的第二个重要因素。"
+  },
+  {
+   "cn": "信息力",
+   "en": "information ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.381",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "军事系统之间或军事系统内部各要素之间以通信工具为手段进行联络协调或获取信息的能力。信息力在己方军事系统或要素之间表现为联络、协调的程度；在针对对方军事系统或要素之时，表现为获取信息的能力。"
+  },
+  {
+   "cn": "嗅觉能力",
+   "en": "olfactory ability",
+   "source": "行为医学名词",
+   "wordNumber": "3.236",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "对气味物质的嗅觉敏感度。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.108",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人脑获取、加工、存储、提取和利用信息的能力。如观察力、想象力等。"
+  },
+  {
+   "cn": "操作能力",
+   "en": "operation ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.109",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体运用自己的躯体和肢体完成各项活动的能力。如艺术表演能力、体育运动能力等。"
+  },
+  {
+   "cn": "模仿能力",
+   "en": "imitative ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.111",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体通过观察别人的行为、活动来学习各种知识，并以相同的方式做出反应的能力。"
+  },
+  {
+   "cn": "创造力",
+   "en": "creative ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.112",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体产生新思想、新发现和创造新事物的能力。"
+  },
+  {
+   "cn": "共情能力",
+   "en": "empathy ability",
+   "source": "行为医学名词",
+   "wordNumber": "5.036",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "能够设身处地体验他人处境，达到感受和理解他人情感的能力。"
+  },
+  {
+   "cn": "追随性",
+   "en": "tracing ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0897",
+   "subjectFullName": "机械工程（一）_机械零件_机械密封_机械密封性能参数",
+   "subjectName": "机械密封性能参数",
+   "publishYear": "2021",
+   "definition": "当机械密封存在跳动、振动、转轴的窜动和密封端面磨损时，补偿环对于非补偿环保持贴合的性能。"
+  },
+  {
+   "cn": "减摩性",
+   "en": "antifriction ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0192",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_摩擦",
+   "subjectName": "摩擦",
+   "publishYear": "2021",
+   "definition": "作为摩擦副的材料在一定条件下降低或维持较低摩擦系数的性能。该性能不是材料的固有属性，而是与摩擦副材料和[摩擦]工况密切相关的服役性能。"
+  },
+  {
+   "cn": "嵌藏性",
+   "en": "embed ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0240",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_磨损",
+   "subjectName": "磨损",
+   "publishYear": "2021",
+   "definition": "轴瓦材料在滑动中嵌藏磨屑和其他外来硬颗粒以降低这些硬颗粒划伤摩擦副表面或减缓磨粒磨损倾向的能力。"
+  },
+  {
+   "cn": "传递力",
+   "en": "transmitting ability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.350",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "一个个体传递给后代的加性遗传值。由于亲代只传递其所有基因的一半给后代，所以传递力等于育种值的一半。"
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.546",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "表示不同杂交组合的杂种后代表现优劣的度量。"
+  },
+  {
+   "cn": "受精能力",
+   "en": "fertilization ability",
+   "source": "畜牧学名词",
+   "wordNumber": "05.180",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "精子、卵子在一定条件下维持正常受精并形成合子的能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受精能力",
+   "en": "fertilization ability",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能力特质",
+   "en": "ability trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般能力,普通能力",
+   "en": "general ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力测验",
+   "en": "ability test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力分组",
+   "en": "ability grouping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理运动能力",
+   "en": "psychomotor ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术能力",
+   "en": "artistic ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流动性",
+   "en": "flow ability",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心智能力",
+   "en": "mental ability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停船性能",
+   "en": "stopping ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "旋回性",
+   "en": "turning ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance\",\"cruising ability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特殊配合力",
+   "en": "specific combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一般配合力",
+   "en": "general combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自熄性",
+   "en": "self extinguish ability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不学《诗》，无以言",
+   "en": "You Won’t Be Able to Talk Properly with Others Without Studying The Book of Songs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷性",
+   "en": "agility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创新敏捷化",
+   "en": "innovation agility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字稳定性",
+   "en": "digital stability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作能力",
+   "en": "motor ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体对基本运动技能的熟练掌握度以及完成各种运动任务的协调与物体控制能力。"
+  },
+  {
+   "cn": "思维能力",
+   "en": "thinking ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工的能力。"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "自理能力",
+   "en": "self-care ability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "个体照料和管理自己的日常生活的能力，包括懂得生活常识，比较熟练地解决生活中所遇到的困难，掌握基本的生活技能和劳动技能的能力，是一个人适应自然、适应社会的表现。"
+  },
+  {
+   "cn": "定力",
+   "en": "ability to concentrate",
+   "source": "马克思主义",
+   "wordNumber": "01.0255",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "意指正念坚固，是人们在改造客观世界和主观世界过程中，所表现出来的一种坚强意志、执着信念和道德操守。党的十八大以来，习近平从政治、经济、文化、改革、法治等多个方面，赋予定力新的内涵，形成了关于政治定力、"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "脑力工作能力",
+   "en": "mental work ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "反映大脑工作速度快慢及其准确性的大脑皮质功能状态，是影响学习效率和成绩的关键因素。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  },
+  {
+   "cn": "儿童能力测验",
+   "en": "child ability test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "对儿童顺利完成某种活动所必须具备的个性心理特征的测验，以发现经过必要的训练后即能承担某项工作的潜在能力。分为一般能力测验与特殊能力测验两大类。"
+  },
+  {
+   "cn": "家庭可支付能力",
+   "en": "ability to payment，ATP",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "家庭各项消费总支出，包括家庭消费性支出、缴纳的直接税和社会保险支出"
+  },
+  {
+   "cn": "消化稳定性",
+   "en": "digestive stability, degestion-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.36",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种物质在消化过程中保持稳定的能力。它通常用于描述药物或其他物质在胃肠道中的稳定性，以预测它们在体内的作用和效果。"
+  },
+  {
+   "cn": "热稳定性",
+   "en": "thermal stability, heat-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在一定的时间尺度内致敏原的结构和性能对温度的耐受或敏感程度。"
+  },
+  {
+   "cn": "学习日脑力工作能力变化",
+   "en": "changes of mental work ability on learning day",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "在学习过程中，大脑工作能力的变化规律。"
+  },
+  {
+   "cn": "婴儿-初中学生社会生活能力量表",
+   "en": "Infants-Junior High School Students' Social Life Abilities Scale (S-M scale)",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.32",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "评定我国城乡儿童社会生活能力的测量工具，是日本S-M社会生活能力检查量表的修订版。共132个项目，分独立生活能力、运动能力、职业能力、沟通能力、社会化和自我管理6部分。适用年龄6月龄～15岁儿童。"
+  },
+  {
+   "cn": "灵敏性",
+   "en": "agility",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体迅速改变体位、转换动作和随机应变的能力。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "酸度",
+   "en": "acidity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.1",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "测试样品中能与强碱发生中和作用的物质的总量，以柠檬酸的量来计算。"
+  },
+  {
+   "cn": "全身中毒性毒剂",
+   "en": "systemic agents",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "分子中含有氰根离子，进入机体可抑制细胞色素氧化酶，使细胞不能利用氧，供能失调，迅速导致机体功能障碍，进而出现一系列全身中毒症状的一类速杀性毒剂。"
+  },
+  {
+   "cn": "免疫抑制剂",
+   "en": "immunosuppressive agents",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "对机体的免疫反应具有抑制作用的药物。通过抑制机体免疫细胞（T细胞、B细胞、巨噬细胞等）的增殖和功能，进而降低抗体免疫反应，主要用于器官移植抗排斥反应和自身免疫性疾病的治疗。"
+  },
+  {
+   "cn": "刺激剂",
+   "en": "irritant agents",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.4.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "对眼、皮肤、呼吸道和消化道黏膜有强烈刺激作用的化学毒物，中毒人员因强烈眼灼痛、流泪、咳嗽、喷嚏、胸痛等症状而暂时失去作战能力的一类化学物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

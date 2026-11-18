@@ -1,0 +1,662 @@
+{
+ "key": "determinate incompatibility",
+ "term": "Determinate incompatibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:28:40+00:00",
+ "status": "ok",
+ "note": "variant=Determinate incompatibility; 审定公布名词库=451; 海峡两岸名词对照库=194; 其他来源数据库=10; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "花粉和胚囊具有完整功能，但由于遗传或生理的原因雌雄配子不能进行受精的现象。"
+  },
+  {
+   "cn": "相畏",
+   "en": "incompatibility",
+   "source": "兽医学名词",
+   "wordNumber": "19.300",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "一种药物的毒性或副作用，能被另一种药物减轻或消除的配伍关系。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "感染病学名词",
+   "wordNumber": "01.0648",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "两种或两种以上药物混合在一起时，可发生物理或化学作用，使药物失去效应或出现毒副作用的现象。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "结核病学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "药物在体外配伍直接发生物理性或化学性的相互作用而影响药物疗效或引起毒性反应的现象。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0268",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "(1)如果用有活力的可育花粉给具功能雌配子的雌蕊授粉后不能结实，但能与另一个雌蕊实现受精，则称该花粉与前一个雌蕊之间为不亲和性。(2)遗传性相近且有活力的、可育雌雄配子之间不能受精的现象。"
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "物理学名词",
+   "wordNumber": "07.0084",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "老年医学名词",
+   "wordNumber": "05.079",
+   "subjectFullName": "老年医学_老年人合理用药",
+   "subjectName": "老年人合理用药",
+   "publishYear": "2017",
+   "definition": "药物在体外配伍直接发生物理性或化学性的相互作用而影响药物疗效或引起毒性反应的现象。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "林学名词",
+   "wordNumber": "04.120",
+   "subjectFullName": "林学_林木遗传育种_杂交育种",
+   "subjectName": "杂交育种",
+   "publishYear": "2016",
+   "definition": "亲本间杂交，因组织、细胞(染色体组)或分子水平上的不协调而花粉不能在雌蕊(或胚珠)上萌发，或萌发后花粉管不能正常达到胚囊受精，或是受精后胚胎不能正常发育形成种子的现象。多发生在远缘杂交时。"
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "化学名词",
+   "wordNumber": "05.0884",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "在不相溶高分子共混物或高分子复合物中，各组分表现的界面分离能力。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "药学名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "在一定条件下，产生的不利于应用和治疗的合用药物之间的配伍变化。"
+  },
+  {
+   "cn": "相畏",
+   "en": "incompatibility",
+   "source": "中医药学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "一药毒性反应或副作用，能被合用的另一药减轻或消除的配伍关系。"
+  },
+  {
+   "cn": "自交不亲和",
+   "en": "self-incompatibility",
+   "source": "风景园林名词",
+   "wordNumber": "09.0182",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "具有完全花并可以形成正常雌、雄配子，但缺乏自花授粉结实能力的一种自交不育现象。"
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.235",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "具有完全花并可形成正常的雌雄配子，但当具有相同基因型的雌雄配子授粉时，花粉不能萌发或萌发后不能受精，从而导致自交不结实的特性。"
+  },
+  {
+   "cn": "杂交不亲和性",
+   "en": "cross-incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.237",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "远缘的雌雄配子不能结合形成合子，或合子胚不发育，不能形成幼苗的现象。"
+  },
+  {
+   "cn": "细胞质不亲和性",
+   "en": "cytoplasmic incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由两个配子的细胞质不兼容导致合子死亡的现象。"
+  },
+  {
+   "cn": "质粒不相容性",
+   "en": "plasmid incompatibility",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0161",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "在无选择压力的条件下，亲缘关系密切的不同质粒或同一不相容群的质粒不能稳定共存于同一宿主细胞，在细胞增殖过程中将有一种被排斥的现象。是细菌质粒分类的一种标准。"
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.298",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "雌配子与雄配子不能融合形成正常合子的特性。"
+  },
+  {
+   "cn": "种内不亲和性",
+   "en": "intraspecific incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0277",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "发生在同一物种植物个体之间的不亲和性。"
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0271",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "植物雌蕊的柱头或花柱通过识别自体或异体花粉，并抑制自体花粉的萌发或生长，导致自体受精不能产生合子的现象。"
+  },
+  {
+   "cn": "种间不亲和性",
+   "en": "interspecific incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0276",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "发生在不同物种植物个体之间的不亲和性。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不相容性,不亲和性",
+   "en": "incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "①相畏 ②配伍禁忌",
+   "en": "incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单倍体不亲和性",
+   "en": "haploid incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种间不亲和性",
+   "en": "interspecific incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种内不亲和性",
+   "en": "intraspecific incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质粒不相容性,质粒不亲和性",
+   "en": "plasmid incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质粒不相容性",
+   "en": "plasmid incompatibility",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "化学配伍禁忌",
+   "en": "chemical incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "物理学配伍禁忌",
+   "en": "physical incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "药理学配伍禁忌",
+   "en": "pharmacological incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性配伍禁忌",
+   "en": "therapeutic incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不兼容分时系统",
+   "en": "Incompatible Timesharing System (ITS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主决定权",
+   "en": "right to self-determination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立中制节",
+   "en": "Determine the Proper Way for Expressing Human Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理",
+   "en": "The Laws Determining the Physical Features of the Land/Geography",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚决打赢疫情防控的人民战争、总体战、阻击战",
+   "en": "be determined to fight and win the battle against the epidemic by mobilizing all resources, and blocking the spread of the virus ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "马克思主义",
+   "wordNumber": "01.0195",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "认为世界上一切事物普遍存在着因果制约性、必然性和规律性的哲学学说，与“非决定论”相对。"
+  },
+  {
+   "cn": "社会决定因素",
+   "en": "social determinant",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "在那些直接导致疾病的因素之外，由人们居住和工作环境中社会分层的基本结构和社会条件不同所产生的影响健康的因素。包括人们出生、成长、工作、生活和老去的环境，以及塑造日常生活环境的更广泛的力量和系统。"
+  },
+  {
+   "cn": "结构性决定因素",
+   "en": "structural determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的植根于社会经济和政治背景下的关键因素，体现为权利、财富和资源的分配方式。个体层面包括社会地位、教育、职业、收入、性别、种族和民族，宏观层面包括政治、社会政策和文化、社会规范和价值观。"
+  },
+  {
+   "cn": "中间决定因素",
+   "en": "intermediate determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的物质环境、心理社会环境、行为和／或生物因素，以及卫生系统本身。"
+  },
+  {
+   "cn": "社会决定论",
+   "en": "social determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会主体的活动和历史发展主要是由外在于主体的社会环境、社会结构、社会关系、社会文化决定的学说。不排斥经济、技术对社会发展的影响，但强调其归根结底也是一定的伦理、政治与文化等社会价值的体现。与技"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "cultural determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "社会研究的一种理论取向，强调社会母系统中的文化子系统对其他子系统（经济、政治等）的决定作用。该取向一方面发掘了文化对社会母系统及其他子系统的推动、引导、决定作用，另一方面却容易导致简单化、以偏概全和脱"
+  },
+  {
+   "cn": "地理决定论",
+   "en": "geographical determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.1",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为地理环境因素决定社会历史状态和民族性格的观点。萌芽于古希腊时代，兴起和流传于近代社会学、地理学和历史哲学中。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "主张依靠科学技术进步来解决所有的生态问题。基于对技术进步的这种认识，认为技术给人类创造了空间的物质利益，尽管同时带来了生态危机的副作用，但它们同样可以用来治理这些副作用。是与自然保护主义相对的一种生态"
+  },
+  {
+   "cn": "自我决定",
+   "en": "self-determination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在案主清醒和可以衡量后果对案主无害的情况下，社会工作者要充分尊重案主自我选择和自我决定的权利的原则。"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technical determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0575",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家怀特（Leslie Alvin White）的核心思想。怀特认为，文化进化是普遍的，任何文化都可分为技术、社会组织和意识形态三种体系，其中技术体系是最基本的，决定着社会组织和意识形态体系的"
+  },
+  {
+   "cn": "机械决定论",
+   "en": "mechanical determinism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.163",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "在古典力学基础上建立起来的，盛行于17 至18 世纪，认为一切事物具有必然性、因果制约性和客观规律性，否认偶然性和人的主观能动性的哲学理论。"
+  },
+  {
+   "cn": "社会决定论",
+   "en": "social determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0517",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学年刊学派的核心观点，该范式认为社会事实自成其类，要用社会事实解释社会，不可简化到心理；社会事实独立于个体并大于个体之和，因此对个体有强制性；强制力来源于无形而有力的集体意识和集体表象。"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "culture determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0516",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "该理论认为文化有其发生、发展和消失的规律，每一种文化都有它独特的特点，这些都不属于生物的范畴，与个人无关，以及非因果关系，并认为只有文化才能决定一切。"
+  },
+  {
+   "cn": "语言决定论",
+   "en": "linguistic determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0023",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种观点。由19 世纪德国文化人类学家洪堡特（Wilhelm vonHumboldt）提出。认为语言决定人们认识和理解外部世界的方式。20 世纪发展成为萨丕尔—沃尔夫假说。与“人类"
+  },
+  {
+   "cn": "动态功能测定",
+   "en": "dynamic function determination",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将某种能参与体内给定器官的生理学过程或代谢过程的放射性核素或标记物引入体内，测量放射性核素数量在该器官中随时间的变化，以反映器官功能的一种技术。"
+  },
+  {
+   "cn": "决定系数",
+   "en": "coefficient of determination",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.85",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用普通最小二乘方法计算所得的回归线同实际数据拟合的优劣程度的量度。"
+  },
+  {
+   "cn": "判定限",
+   "en": "limit of determination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.55",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "进行定量微生物检测时，在特定评估方法规定的实验条件下，可引起特定变化的微生物的最小量。"
+  },
+  {
+   "cn": "制度的决定因素",
+   "en": "determinants of the system",
+   "source": "马克思主义",
+   "wordNumber": "03.0617",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "制度是带有普遍约束力的社会规则。制度带有根本性、全局性、稳定性和长期性。"
+  },
+  {
+   "cn": "健康社会决定因素",
+   "en": "social determinants of health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在卫生服务部门之外，影响青少年健康的经济和社会条件。包括支持接受教育和就业、推迟婚姻和生育、提供全民健康覆盖并创造机会提高青年自主权、决策能力和人权的政策和环境等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

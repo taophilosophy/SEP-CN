@@ -1,0 +1,782 @@
+{
+ "key": "facial expression",
+ "term": "facial expression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:20:39+00:00",
+ "status": "ok",
+ "note": "variant=facial expression; 审定公布名词库=2992; 海峡两岸名词对照库=885; 其他来源数据库=152; 预公布名词数据库=529; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "由面部（眼部、颜面、口部）皮肤、肌肉和腺体分泌变化所组成的复合模式。"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.129",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "由人面部的一个或多个肌肉的运动所形成的动作或状态。非语言交际的一种形式。情感情绪变化在面部可观察到的表现。这些运动表达个体对观察者的情绪状态是表达人类之间的社会信息的主要手段，也发生在大多数其他哺乳动"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "心理学名词",
+   "wordNumber": "02.724",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "面部皮肤、肌肉和腺体分泌变化所组成的复合模式。"
+  },
+  {
+   "cn": "面部沟通",
+   "en": "communication with facial expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.028",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种反应在人的面部肌肉上，如眉毛、眼睛、眼睑、鼻根、面颊、嘴、颏等部位的情绪符号或表情讯息的直接显示。"
+  },
+  {
+   "cn": "面瘫",
+   "en": "facial palsy,facial paralysis",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0532",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "面神经麻痹",
+   "en": "facial paralysis;facial palsy",
+   "source": "整形外科名词",
+   "wordNumber": "14.102",
+   "subjectFullName": "整形外科_头颈部整形与美容_面神经损伤",
+   "subjectName": "面神经损伤",
+   "publishYear": "2026",
+   "definition": "由中枢性或周围性面神经疾病或损伤所致的面部肌肉失神经性瘫痪。以面部表情肌运动功能障碍、表情功能丧失和组织营养障碍为主要表现。"
+  },
+  {
+   "cn": "面上面高度指数",
+   "en": "facial-upper facial index",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "表示面部比例和形态特征的指数之一。面上面高度指数＝容貌上面高/容貌面高×100。"
+  },
+  {
+   "cn": "面疖",
+   "en": "facial furuncle",
+   "source": "普通外科学名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "位于颌面部的疖。"
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "神经外科学名词",
+   "wordNumber": "2.152",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_传导束",
+   "subjectName": "传导束",
+   "publishYear": "2026",
+   "definition": "第Ⅶ对脑神经。为混合性脑神经。由感觉、运动和副交感神经纤维共同组成，分别主管舌前2/3的味觉，支配面部表情肌运动及舌下腺、下颌下腺和泪腺的分泌。"
+  },
+  {
+   "cn": "面动脉",
+   "en": "facial artery",
+   "source": "神经外科学名词",
+   "wordNumber": "2.225",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑动脉系统",
+   "subjectName": "脑动脉系统",
+   "publishYear": "2026",
+   "definition": "于颈动脉三角内起自颈外动脉，穿经下颌下三角，在咬肌止点前缘处入面部的动脉。面动脉行程迂曲。斜向前上行，经口角和鼻翼外侧至内眦，改称内眦动脉。"
+  },
+  {
+   "cn": "面静脉",
+   "en": "facial vein",
+   "source": "神经外科学名词",
+   "wordNumber": "2.278",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "起自内眦静脉，在面动脉后方向下外行，至下颌角下方接受下颌后静脉的前支并注入颈内静脉。"
+  },
+  {
+   "cn": "面肌纤维颤搐",
+   "en": "facial myokymia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "一种少见的单侧面部肌肉不自主收缩。临床表现为面部某些区域持续有节律的肌肉阵挛。可见于多发性硬化和脑干肿瘤等。"
+  },
+  {
+   "cn": "面部多汗症",
+   "en": "facial hyperhidrosis",
+   "source": "神经外科学名词",
+   "wordNumber": "4.088",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "面部经常发生局部出汗的病症。通常1周至少发生一次。"
+  },
+  {
+   "cn": "颜面不对称畸形",
+   "en": "facial asymmetry",
+   "source": "整形外科名词",
+   "wordNumber": "12.116",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面畸形",
+   "subjectName": "颅颌面畸形",
+   "publishYear": "2026",
+   "definition": "颜面形态左右侧的比例明显不协调与不对称导致的畸形。首要的病理特征是颌骨的不对称，因而导致颜面软组织不对称。"
+  },
+  {
+   "cn": "面角",
+   "en": "facial angle",
+   "source": "整形外科名词",
+   "wordNumber": "12.218",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "眶耳平面与面平面之间的夹角。反映颏部与面部其他部分的相对位置关系。"
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.10",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "第Ⅶ对脑神经。出脑干后走行于颞骨中，自茎乳孔出颞骨，是人体中穿过骨管最长的脑神经。含有运动纤维、感觉纤维及副交感纤维成分的混合神经，其中大部分属运动纤维，小部分为感觉纤维和副交感纤维。主要支配面部肌肉"
+  },
+  {
+   "cn": "面神经鞘瘤",
+   "en": "facial schwannoma",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.10.1.10",
+   "subjectFullName": "耳科_耳肿瘤及手术",
+   "subjectName": "耳肿瘤及手术",
+   "publishYear": "2025",
+   "definition": "起源于面神经鞘膜施万细胞的良性肿瘤。可起源于面神经任意部位，并累及多个神经节段。临床表现主要为面瘫。"
+  },
+  {
+   "cn": "面动脉",
+   "en": "facial artery",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.5.6.4.3",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "于颈动脉三角内起自颈外动脉，穿经下颌下三角，在咬肌止点前缘处入面部的动脉。"
+  },
+  {
+   "cn": "面动脉",
+   "en": "facial artery",
+   "source": "麻醉学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "于颈动脉三角内发自颈外动脉，穿经下颌下三角，在咬肌止点前缘处入面部的动脉。随后斜向前上行，经口角和鼻翼外侧至内眦，改称“内眦动脉（angular artery）”。"
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "麻醉学名词",
+   "wordNumber": "01.317",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_周围神经系统解剖",
+   "subjectName": "周围神经系统解剖",
+   "publishYear": "2024",
+   "definition": "第七对脑神经。为混合性脑神经，由特殊内脏运动纤维、特殊内脏感觉纤维和副交感纤维组成。"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "面动脉",
+   "en": "facial artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面静脉",
+   "en": "facial vein",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面裂",
+   "en": "facial cleft",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面颅",
+   "en": "facial cranium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经节",
+   "en": "facial ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经丘",
+   "en": "facial colliculus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面式异构体",
+   "en": "facial isomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "面肌",
+   "en": "facial muscles",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "颜瘤",
+   "en": "facial tubercle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "颊窝",
+   "en": "facial pit",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "颜脊",
+   "en": "facial carina",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "颜鬃",
+   "en": "facial bristle",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "面横静脉",
+   "en": "transverse facial vein\",\"facial transverse vein",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经管",
+   "en": "canal for facial nerve\",\"facial canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经核",
+   "en": "nucleus of facial nerve\",\"facial nucleus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面侧裂",
+   "en": "lateral facial cleft",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面横裂",
+   "en": "transverse facial cleft",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "正面",
+   "en": "facial\",\"front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正立",
+   "en": "facial stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邮政特快专递",
+   "en": "express mail service",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中欧班列",
+   "en": "China Railway Express",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用保障极速贷",
+   "en": "credit-guaranteed express loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清词丽句",
+   "en": "Refreshing Words and Exquisite Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假象见意",
+   "en": "Use Imagery to Express Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "面部轮廓整形术",
+   "en": "facial contouring surgery",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.052",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "用外科技术进行面部软组织、骨组织轮廓塑形的手术。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "党的信访工作",
+   "en": "Partys works of handling peoples complaints expressed in letters or visits",
+   "source": "马克思主义",
+   "wordNumber": "03.0732",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的信访工作是党的工作的重要组成部分，是指各级党组织及其部门依据党的路线、方针、政策和有关规定，受理和解决党员、干部、群众或者有关组织通过书信、走访、电话、电子邮件、传真等形式提出或反映的有关问题所进"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  },
+  {
+   "cn": "心理卫生问题筛查",
+   "en": "depression screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "通过标准化的量表，早期发现少数有心理问题或心理障碍的学生的过程。旨在对被筛查出的学生给予科学有效的心理咨询和辅导，及时转介干预，使他们尽快摆脱障碍，调控自我，提高其心理健康水平。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postpartum depression, PPD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "产后出现的，以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁，伴有对婴儿及其父亲的漠不关心、敌意及睡眠紊乱等。"
+  },
+  {
+   "cn": "筋膜",
+   "en": "fascia",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.21",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "位于躯干和四肢皮肤深面的结缔组织膜。包绕着肌肉、肌群、血管、神经。分为浅筋膜和深筋膜２种。"
+  },
+  {
+   "cn": "非剥削性的经济压迫",
+   "en": "non exploitative economic oppression",
+   "source": "马克思主义",
+   "wordNumber": "05.0110",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "赖特（Eric Olin Wright）认为，剥削有三个前提条件：第一，反向的相互依赖原则。第二，排除性原则。第三，占有原则。赖特认为如果只满足三个条件中的前两个条件，就是非剥削性经济压迫。在非剥削性"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

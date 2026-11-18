@@ -1,0 +1,622 @@
+{
+ "key": "burhan",
+ "term": "burhān",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:21:20+00:00",
+ "status": "ok",
+ "note": "variant=burhān; 审定公布名词库=356; 海峡两岸名词对照库=21; 其他来源数据库=1; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "抵抗线",
+   "en": "burden",
+   "source": "土木工程名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "负荷",
+   "en": "burden",
+   "source": "电气工程名词",
+   "wordNumber": "08.253",
+   "subjectFullName": "电气工程_变压器、调压器、电抗器、互感器",
+   "subjectName": "变压器、调压器、电抗器、互感器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "炉料",
+   "en": "charge,burden",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料生产技术",
+   "subjectName": "钢铁材料生产技术",
+   "publishYear": "2011",
+   "definition": "装入熔炼炉内且参与熔炼过程的所有原材料的总称。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "普通外科学名词",
+   "wordNumber": "09.020",
+   "subjectFullName": "医学_普通外科学_创伤",
+   "subjectName": "创伤",
+   "publishYear": "2026",
+   "definition": "由热力直接或间接作用于人体引起的组织损伤。主要指皮肤和黏膜损伤，严重者也可伤及皮肤和黏膜下组织结构，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "整形外科名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "整形外科_创伤修复_急性创伤",
+   "subjectName": "急性创伤",
+   "publishYear": "2026",
+   "definition": "热力或间接热力（化学物质、电流、放射线等）作用于人体引起的组织损伤。主要指皮肤和黏膜损伤，严重者也可伤及皮肤和黏膜下组织结构，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "急救医学名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "急救医学_灾难医学_灾难损伤_常见损伤",
+   "subjectName": "常见损伤",
+   "publishYear": "2025",
+   "definition": "接触热力、化学、电流、放射线、激光等因素后，这些致伤因素对人体造成的组织损伤。根据致伤因素不同可以分为热力（火焰、热液等）烧伤、化学（酸、碱、磷等）烧伤、电烧伤等。一般情况下烧伤由接触部位的皮肤、黏膜"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "兽医学名词",
+   "wordNumber": "18.151",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "由于高温、火焰、热液、蒸气作用于组织，且超过组织细胞所耐受的温度，使细胞内的蛋白质（包括酶）发生变性而引起的热损伤。热液所引起的又称为“烫伤（scald）”。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "手外科学名词",
+   "wordNumber": "04.0002",
+   "subjectFullName": "手外科学_上肢损伤",
+   "subjectName": "上肢损伤",
+   "publishYear": "2020",
+   "definition": "热力或间接热力（化学物质、电流、放射线等）作用于人体引起的组织损伤。主要指皮肤和黏膜损伤，严重者也可伤及皮肤和黏膜下组织结构，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "烧伤学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "烧伤学_烧伤概论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "热力或间接热力（化学物质、电流、放射线等）作用于人体引起的组织损伤。主要指皮肤和黏膜损伤，严重者也可伤及皮肤和黏膜下组织结构，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_烧伤",
+   "subjectName": "烧伤",
+   "publishYear": "2014",
+   "definition": "火焰、热水、热蒸汽、热油、热水泥、电流，以及化学物质和放射性物质，作用于人体皮肤、黏膜、肌肉、骨骼等造成的损伤。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.625",
+   "subjectFullName": "中医药学_外科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "受火焰、热水、电灼、化学物品及放射性物质侵害皮肤所致的疾病。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "中医药学名词",
+   "wordNumber": "011.093",
+   "subjectFullName": "中医药学_内科疾病_心系疾病",
+   "subjectName": "心系疾病",
+   "publishYear": "2004",
+   "definition": "受火焰烧灼、热水烫、化学物品及放射性物质侵害皮肤所致疾病。"
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0411",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "烧伤",
+   "en": "burn",
+   "source": "医学名词 第六分册",
+   "wordNumber": "07.003",
+   "subjectFullName": "医学_烧伤外科学",
+   "subjectName": "烧伤外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "底盘抵抗线",
+   "en": "toe burden,bench bottom burden",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.360",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "台阶上,外排炮孔轴线至坡底线的水平距离。"
+  },
+  {
+   "cn": "布料",
+   "en": "burden distribution",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1369",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "将熔融态物料均匀撒布到在其下方匀速移动的冷带上表面的过程。"
+  },
+  {
+   "cn": "税负",
+   "en": "tax burden",
+   "source": "经济学名词",
+   "wordNumber": "11.057",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "税收负担和税收负担率。对于纳税人在某一期间内负担的税款金额，是绝对数；而税负率是用相对数来反映纳税人在某一期间内负担的税款金额同其取得收入的比例关系。"
+  },
+  {
+   "cn": "环境负荷",
+   "en": "environmental burden",
+   "source": "冶金学名词",
+   "wordNumber": "01.0057",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "人类生产活动所加给地球生态环境的负担。冶金工业消耗的能源和排放的气体、固体及液体废弃物是很大的环境负荷。"
+  },
+  {
+   "cn": "最小抵抗线",
+   "en": "minimum burden",
+   "source": "冶金学名词",
+   "wordNumber": "02.0361",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "炮孔至最近自由面的有效(最短)距离。"
+  },
+  {
+   "cn": "料柱",
+   "en": "burden column",
+   "source": "冶金学名词",
+   "wordNumber": "05.0725",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "高炉内充满炉料时形成的从上到下可通过气流的柱体。"
+  },
+  {
+   "cn": "风笛",
+   "en": "burden\",\"burthen",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "叠歌",
+   "en": "burden\",\"burthen\",\"refrain",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "炉料",
+   "en": "charge\",\"burden",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "联杆操作补给装置",
+   "en": "burton rig",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "环境污染负荷",
+   "en": "ambient pollution burden",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双索吊送传递法",
+   "en": "burton method of transfer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "燃耗",
+   "en": "burn-up",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "套晒",
+   "en": "multiple burn",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "暗伤",
+   "en": "dark burn",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离子斑",
+   "en": "ion burn",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "燃耗",
+   "en": "burn-up",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "燃料烧毁(烧尽)",
+   "en": "burn-out",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晒掉片",
+   "en": "burn-out mask",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "抗烧毁能量",
+   "en": "burn-out energy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "烧穿距离",
+   "en": "burn-through range",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举证责任",
+   "en": "onus of proof\",\"burden of proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂烧尽釜",
+   "en": "catalyst burn-off still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻燃钛合金",
+   "en": "burn resistant titanium alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "阻燃镁合金",
+   "en": "burn resistant magnesium alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "刀耕火种,烧荒垦种",
+   "en": "slash and burn agriculture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "“三光”政策",
+   "en": "“Three Alls” policy (kill all, burn all, loot all)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "照料者负担",
+   "en": "caregiver burden",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.9",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "长期照料体弱老年人时产生的个人精力和时间的限制、经济紧张以及心理上的挫败感。"
+  },
+  {
+   "cn": "暴露负荷",
+   "en": "exposure burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露量除以暴露表面积的值。例如，基于皮肤擦拭样品的皮肤暴露测量，表示为每单位皮肤表面积的残留量。"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "藏缅语族",
+   "en": "Tibeto-Burman group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0208",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系的一个语族。分为藏语支、景颇语支、彝语支、缅语支、羌语支等。主要分布在中国、缅甸、不丹、尼泊尔、印度、泰国等国。形态变化比同语系的汉语、苗药语族、侗台语族语言丰富。"
+  },
+  {
+   "cn": "流行病学负担评估",
+   "en": "epidemiological burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "采用流行病学指标量化疾病对人群健康及公共卫生系统影响的综合性分析方法。常用流行病学指标如健康调整寿命年、伤残调整寿命年、与健康有关的生存质量等综合指标。"
+  },
+  {
+   "cn": "食源性疾病负担",
+   "en": "foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "生物性致病因子、化学性污染物等危害通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "概率性负担评估",
+   "en": "probabilistic burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "应用概率评估的方法进行疾病流行病学负担评估。"
+  },
+  {
+   "cn": "经济负担评估",
+   "en": "economic burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "测算和分析由于发病、伤残（失能）、过早死亡给患者本人、家庭以及社会带来的经济损失和由于预防治疗疾病所消耗的经济资源。"
+  },
+  {
+   "cn": "全球疾病负担",
+   "en": "global burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "全面描述不同国家、不同时间、年龄和性别的死亡率和伤残情况，量化数百种疾病、伤害和风险因素所导致的健康损失，以便改善卫生系统并消除不公平的一种方法。"
+  },
+  {
+   "cn": "生物性食源性疾病负担",
+   "en": "biological foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "微生物病原体、生物毒素等致病因子通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "化学性食源性疾病负担",
+   "en": "chemical foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性化学污染物引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "食源性寄生虫病疾病负担",
+   "en": "parasitic foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入含寄生虫的食物而引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "食源性肠道疾病负担",
+   "en": "enteric foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入了污染有霍乱弧菌、甲型肝炎病毒等细菌、病毒的食物而引起的肠道疾病导致的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "全球疾病负担",
+   "en": "global burden of disease",
+   "source": "社会医学名词",
+   "wordNumber": "3.7.1.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "通过伤残调整生命年（DALYs）评估疾病对人口的总体影响。由世界银行于1993 年在《世界发展报告》中首次提出，用于描述特定人群健康生命年损失的术语。"
+  },
+  {
+   "cn": "全因负担估计",
+   "en": "all-cause burden estimates",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.16",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "对所有原因造成的疾病负担进行的估计。"
+  },
+  {
+   "cn": "热烧伤",
+   "en": "thermal burn",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "高温引起生物体表和深层真皮的损伤。光辐射损伤的边界清楚，创面干燥。"
+  },
+  {
+   "cn": "儿童烧伤",
+   "en": "child burn",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由于热力、化学物质、电流及放射线等因素作用于儿童所引起的组织损伤。主要指皮肤和/或黏膜，严重者也可伤及皮下和/或黏膜下组织，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "直接疾病经济负担",
+   "en": "direct economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源。"
+  },
+  {
+   "cn": "间接疾病经济负担",
+   "en": "indirect economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于发病、伤残(失能)和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

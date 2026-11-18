@@ -1,0 +1,602 @@
+{
+ "key": "intensional entities",
+ "term": "intensional entities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:26:28+00:00",
+ "status": "ok",
+ "note": "variant=intensional entities; 审定公布名词库=133; 海峡两岸名词对照库=52; 其他来源数据库=11; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "内涵逻辑",
+   "en": "intensional logic",
+   "source": "语言学名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种逻辑系统。应用内涵和外延算子将一个词项与它在上下文中的具体意义加以区别。"
+  },
+  {
+   "cn": "内涵释义",
+   "en": "intensional definition",
+   "source": "语言学名词",
+   "wordNumber": "06.303",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。通过描述语词指称物所具有的属性集来解释语词含义，揭示并表述出被释义词的概念特征，即对概念内涵的描述。内涵分为主观内涵、客观内涵和约定内涵三种类型。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "能够独立存在的、作为一切具体事物和现象最后根源的载体的东西。唯物主义认为实体是常驻不变的、时空上无限的物质，唯心主义则把它作为精神、神和观念来理解。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.022",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，表示一个或一类有相同特性个体的应用对象。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.358",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目记录使用者关注的主要对象。包括具有单一与自我独立特征的某些事物；一种抽象的观念、思想的概念、思考的客体，或先验的对象。在书目记录的功能需求（FRBR）中，实体类型的实例包括：知识或艺术创作的产品、"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "客观世界中存在的可互相区分的客观对象或抽象概念。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0925",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "具有法律地位的个人、合伙人、组织或企业。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0150",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "客观存在并可独立处理的元素。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.454",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理学名词",
+   "wordNumber": "30.026",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "对等实体",
+   "en": "peer entities",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0083",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络分层结构中位于另一系统上属于相同层次的实体。"
+  },
+  {
+   "cn": "理论实体",
+   "en": "theoretical entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.011",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "无法直接观察、需要科学理论来描述的实体。如电子。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "媒体",
+   "en": "media entity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.071",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①运作媒介的组织、机构或其他主体，如新闻媒体、自媒体等。②某个具体的媒介或某一类特定的信息传播工具，如电视媒体、社交媒体等。③常与媒介、传媒混用。参见“媒介”“传媒”条。 "
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理空间中不可再分的最小单元，主要包括点、线、面、体四种基本类型，具有空间位置、属性、时间和空间关系等特征。"
+  },
+  {
+   "cn": "点实体",
+   "en": "point entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.047",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达一定地理意义的零维单元。通常由一对坐标或一个栅格像元表示。"
+  },
+  {
+   "cn": "线实体",
+   "en": "line entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的一维单元。通常由矢量数据中的有序坐标对或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "面实体",
+   "en": "area entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的二维单元。通常由矢量数据中闭合的弧段或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "体实体",
+   "en": "body entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达三维空间中的地理现象和实体。通常由一组或多组空间曲面表示。"
+  },
+  {
+   "cn": "内涵数据库",
+   "en": "intensional database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对等[层]实体",
+   "en": "peer entities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子实体",
+   "en": "molecular entity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图实体",
+   "en": "drawing entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体超类",
+   "en": "entity supertype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体点",
+   "en": "entity point",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体对象",
+   "en": "entity object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体分类",
+   "en": "entity classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实行封闭式管控",
+   "en": "to exercise management by sealing off entities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《网络空间可信身份国家战略》（美国）",
+   "en": "National Strategy for Trusted Identities in Cyberspace (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "消毒产品责任单位",
+   "en": "responsibility entity for disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "依法承担因消毒产品缺陷而致他人人身伤害或财产损失的赔偿责任的个人、法人及其他组织。消毒产品委托生产加工时，特指委托方，进口消毒产品的责任单位为在华责任单位。"
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "electromagnetic radiation",
+ "term": "electromagnetic radiation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:24:59+00:00",
+ "status": "ok",
+ "note": "variant=electromagnetic radiation; 审定公布名词库=2427; 海峡两岸名词对照库=644; 其他来源数据库=39; 预公布名词数据库=329; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "核科学技术名词",
+   "wordNumber": "4.005",
+   "subjectFullName": "核科学技术_辐射物理_一般性术语",
+   "subjectName": "一般性术语",
+   "publishYear": "2024",
+   "definition": "能量以电磁波形式在空间传‍播。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.263",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科肿瘤与环境",
+   "subjectName": "妇科肿瘤与环境",
+   "publishYear": "2022",
+   "definition": "能量以电磁波形式由源发射到空间或以电磁波形式在空间传播的现象。有些电磁辐射可能对人体造成影响。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "光学名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "在受热、电子撞击、光照射以及化学反应等因素激发下，物质内部分子、原子或电子产生各种能级跃迁，因而向外发射电磁波的物理现象。电磁波的频谱范围从γ射线、X射线、紫外、可见光、红外、微波至无线电波。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "电力名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "电磁场能量以波的形式向周围空间发射电磁波的现象。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "物理学名词",
+   "wordNumber": "03.0721",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "生物物理学名词",
+   "wordNumber": "09.016",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射生物物理学基础",
+   "subjectName": "辐射生物物理学基础",
+   "publishYear": "2018",
+   "definition": "两个既垂直于传播方向又相互垂直的电场和磁场以固定关系振荡产生的电磁波在空间和穿过物质时将携带的辐射能量进行传播的现象。在真空中电磁辐射以光速传播。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "建筑学名词",
+   "wordNumber": "14.0729",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "能量以电磁波形式由源发射到空间或以电磁波形式在空间传播的现象。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "地理学名词",
+   "wordNumber": "29.041",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "在遥感中常指电磁波。它指电磁波通过空间或媒质传递能量的一种物理现象。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.025",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation,EMR",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1267",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "系统和设备运行时向外界发射的电磁信号。可导致一定距离内计算机工作情况的泄露。"
+  },
+  {
+   "cn": "电磁辐射危害",
+   "en": "electromagnetic radiation hazard",
+   "source": "建筑学名词",
+   "wordNumber": "11.0247",
+   "subjectFullName": "建筑学_建筑防护_防电磁辐射",
+   "subjectName": "防电磁辐射",
+   "publishYear": "2014",
+   "definition": "人体、设备、军械或燃料暴露于危险程度的电磁辐射环境中，电磁能量密度足以导致打火、挥发性易燃品的燃烧、有害的人体生物效应、电引爆装置的误触发、安全关键电路的故障或逐步降级等危险。"
+  },
+  {
+   "cn": "电磁多极辐射",
+   "en": "electromagnetic multipole radiation",
+   "source": "物理学名词",
+   "wordNumber": "03.0722",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁脉冲辐射",
+   "en": "electromagnetic pulse radiation",
+   "source": "生物物理学名词",
+   "wordNumber": "09.026",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射生物物理学基础",
+   "subjectName": "辐射生物物理学基础",
+   "publishYear": "2018",
+   "definition": "以电场、磁场、电磁辐射和感应电流的形式瞬间爆发的电磁能量。其波长可跨越毫米至数米甚至数百米以上，频率则可涵盖千赫兹(kHz)至吉赫兹(GHz)的一种电磁辐射。"
+  },
+  {
+   "cn": "太阳电磁辐射",
+   "en": "solar electromagnetic radiation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.372",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic emis-sion; electromagnetic radiation",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0222",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "电场和磁场的交互变化产生的电磁波向空中发射或泄露的现象。 "
+  },
+  {
+   "cn": "工频电磁辐射",
+   "en": "power frequency electromagnetic radiation",
+   "source": "生物物理学名词",
+   "wordNumber": "09.024",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射生物物理学基础",
+   "subjectName": "辐射生物物理学基础",
+   "publishYear": "2018",
+   "definition": "频率一般为50 Hz或60 Hz的工业用交流电产生的一种极低频电磁辐射。"
+  },
+  {
+   "cn": "电磁学",
+   "en": "electromagnetism",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0004",
+   "subjectFullName": "地球物理学_地球电磁学_地球电磁学总论",
+   "subjectName": "地球电磁学总论",
+   "publishYear": "2022",
+   "definition": "(1)广义：包含电学和磁学。 (2)狭义：研究电性与磁性交互关系的学科。 "
+  },
+  {
+   "cn": "电磁学",
+   "en": "electromagnetism",
+   "source": "物理学名词",
+   "wordNumber": "03.0003",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁体",
+   "en": "electromagnet",
+   "source": "电力名词",
+   "wordNumber": "01.117",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "主要由电流产生磁场的磁体。"
+  },
+  {
+   "cn": "电磁体",
+   "en": "electromagnet",
+   "source": "物理学名词",
+   "wordNumber": "03.0437",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation\",\"EMR",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电磁铁",
+   "en": "electromagnet",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电磁谱",
+   "en": "electromagnetic spectrum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁流量计",
+   "en": "electromagnetic flowmeter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁分离［法］",
+   "en": "electromagnetic separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁磁选机",
+   "en": "electromagnetic separator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁约束成形",
+   "en": "electromagnetic shaping",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁悬浮",
+   "en": "electromagnetic levitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁成形",
+   "en": "electromagnetic forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁纯铁",
+   "en": "electromagnetic iron",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁分离[法]",
+   "en": "electromagnetic separation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波",
+   "en": "electromagnetic wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电磁场",
+   "en": "electromagnetic field",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波",
+   "en": "electromagnetic wave",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波谱",
+   "en": "electromagnetic spectrum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁场",
+   "en": "electromagnetic field",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁屏蔽技术",
+   "en": "electromagnetic shielding technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "电场和磁场交互变化产生的电磁波向空中发射或泄漏的现象。按其波长或频率分为高频电磁场、微波、红外线、可见光、紫外线、X 射线和γ射线等。"
+  },
+  {
+   "cn": "电磁辐射污染",
+   "en": "electromagnetic radiation pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类使用产生电磁辐射的器具而泄露的电磁能量流传播到室内外空间中，其量超过环境本底值，且性质、频率、强度和持续时间等综合影响引起周围受辐射人群的不适感，并使健康和生态环境受到损害的现象。"
+  },
+  {
+   "cn": "电磁轨道炮",
+   "en": "electromagnetic railgun",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "采用电磁轨道发射技术、对制导炮弹无烧蚀加速的先进定向动能武器。借发射系统产生精确可控电磁力，加速携带电枢的弹丸，发射初速通常达2～3km/s，以获打击目标所需动能，有效提升制导炮弹射程与毁伤效果。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "消毒学",
+   "wordNumber": "1.8.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "物质粒子和能量从发射源发出，从空间向各个方向传播的过程。"
+  },
+  {
+   "cn": "放射",
+   "en": "radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.1",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "由一点向四外射出。能量通过波或粒子的形式从一处移动到另一处。在放射卫生学科中专指电离辐射，包括粒子辐射和高能量的电磁波。"
+  },
+  {
+   "cn": "放射卫生[学]",
+   "en": "radiation health，radiation hygiene",
+   "source": "放射卫生学",
+   "wordNumber": "1.6",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究电离辐射对人体健康的影响及其防护与管理措施的综合性学科，保护工作人员和公众的安全与健康。主要包括辐射监测与剂量学、健康效应、工程防护技术及相关标准、管理与评价等。"
+  },
+  {
+   "cn": "电磁脉冲武器",
+   "en": "electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "一种利用高能射频辐射为杀伤因素，以干扰和破坏敌方电子系统为主要目标的武器。其电磁波能量分散在一个很宽的频段内，任何一种频率对应的能量都极小，对有长电缆的设备干扰和破坏极大。"
+  },
+  {
+   "cn": "核电磁脉冲",
+   "en": "nuclear electromagnetic pulse",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.58",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间，产生于爆心周围的一个强大的电磁场。核武器的重要破坏因素之一，由核爆炸瞬间放出的、约占爆炸总能量0.1%的r 射线对爆心周围空气的电离而产生，其作用半径与爆炸方式、当量大小有关。"
+  },
+  {
+   "cn": "贯穿辐射",
+   "en": "penetrating radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.54",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "在物质中穿透能力强的射线，如γ射线、X 射线或中子射线等引起的辐射。"
+  },
+  {
+   "cn": "微波辐射",
+   "en": "microwave radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "波长为1m～1mm，频率为300MHz～300GHz 电磁波产生的辐射，分为分米波、厘米波、毫米波。"
+  },
+  {
+   "cn": "辐射消毒",
+   "en": "radiation disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用电离辐射或电磁辐射如钴-60、高能电子加速器杀灭微生物的消毒处理。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.17",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "携带足以使物质原子或分子中的电子成为自由态，并发生电离现象的能量的波长小于100nm的辐射，包括宇宙射线、X射线和来自放射性物质的辐射。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.2",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "能够使物质发生电离或激发的辐射。"
+  },
+  {
+   "cn": "放射流行病学",
+   "en": "radiation epidemiology",
+   "source": "放射卫生学",
+   "wordNumber": "1.12",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究受附加电离辐射照射的人群中的辐射健康效应相关事件的分布及其影响因素的学科。"
+  },
+  {
+   "cn": "宇宙辐射",
+   "en": "cosmic radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "来自外太空的各种高能次原子粒子流构成的电离辐射。"
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.29",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "当一种粒子与其反粒子相互作用并且终止各自的存在，同时将其能量（包括静止能量）全部转化而产生的电离辐射。"
+  },
+  {
+   "cn": "切伦科夫辐射",
+   "en": "Cherenkov radiation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.46",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "放射性核素所发射的高能带电粒子以大于该介质中的光速穿过透明介质时，导致径迹附近的分子极化，退极化时以电磁波形式释放多余能量，相邻分子发出的电磁波相互干涉形成的辐射现象，其特征是蓝色辉光。"
+  },
+  {
+   "cn": "辐射兴奋效应",
+   "en": "radiation hormesis",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "一种低水平电离辐射生物效应的假说，低水平电离辐射对生物体或其组成部分的刺激效应，包括促进生长发育、增强免疫功能等。"
+  },
+  {
+   "cn": "放射细胞遗传学",
+   "en": "radiation cytogenetics",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究电离辐射的细胞遗传学效应与作用机制、健康效应的分支学科。"
+  },
+  {
+   "cn": "放射生物剂量学",
+   "en": "radiation biodosimetry",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究电离辐射所引起机体产生的具有稳定剂量-效应关系的生物学标志物和测定技术，通过生物学标志物的变化量来估算受照剂量和评估危害的学科。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

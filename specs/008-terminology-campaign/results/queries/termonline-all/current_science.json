@@ -1,0 +1,712 @@
+{
+ "key": "current science",
+ "term": "current science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:27:17+00:00",
+ "status": "ok",
+ "note": "variant=current science; 审定公布名词库=2228; 海峡两岸名词对照库=737; 其他来源数据库=84; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "流",
+   "en": "current",
+   "source": "物理学名词",
+   "wordNumber": "02.0709",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "流动形",
+   "en": "current",
+   "source": "数学名词",
+   "wordNumber": "07.0109",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电流",
+   "en": "current",
+   "source": "电子学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "流流耦合",
+   "en": "current-current coupling",
+   "source": "物理学名词",
+   "wordNumber": "03.0608",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无功电流",
+   "en": "reactive current,idler current",
+   "source": "物理学名词",
+   "wordNumber": "03.0646",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "屏蔽电流",
+   "en": "screening current,shielding current",
+   "source": "物理学名词",
+   "wordNumber": "03.0750",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "流速",
+   "en": "current speed,current velocity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "水流在单位时间内流过的距离。"
+  },
+  {
+   "cn": "惯性流",
+   "en": "inertia current,inertial current",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0084",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "在科氏力作用下具有惯性周期的海水流动。"
+  },
+  {
+   "cn": "往复流",
+   "en": "alternating current,rectilinear current",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "潮流椭圆蜕化为直线的周期性流动。"
+  },
+  {
+   "cn": "沿岸流",
+   "en": "longshore current,littoral current",
+   "source": "地理学名词",
+   "wordNumber": "15.048",
+   "subjectFullName": "地理学_海洋地理学",
+   "subjectName": "海洋地理学",
+   "publishYear": "2006",
+   "definition": "是接近海滨、流向与海滨平行的一种“海流”。"
+  },
+  {
+   "cn": "沿岸流",
+   "en": "littoral current,coastal current",
+   "source": "土木工程名词",
+   "wordNumber": "10.083",
+   "subjectFullName": "土木工程_港口工程_港口自然环境条件",
+   "subjectName": "港口自然环境条件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沿岸流",
+   "en": "coastal current,littoral current",
+   "source": "水产名词",
+   "wordNumber": "01.398",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "靠近局部浅海海岸流动的海流。"
+  },
+  {
+   "cn": "泄地电流",
+   "en": "earth current,ground current",
+   "source": "电气工程名词",
+   "wordNumber": "01.787",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "剪刀水",
+   "en": "contracting current,converging current",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "水利科学技术_航道与港口_航道整治（水利）",
+   "subjectName": "航道整治（水利）",
+   "publishYear": "1997",
+   "definition": "河道两岸相对突出物挑引的两股水流逐渐向下游汇集成一束时，流速显著增大，在平面上呈V字形的水流。"
+  },
+  {
+   "cn": "往复流",
+   "en": "alternating current,rectilinear current",
+   "source": "航海科技名词",
+   "wordNumber": "07.0232",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "沿岸流",
+   "en": "coastal current,littoral current",
+   "source": "航海科技名词",
+   "wordNumber": "07.0241",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "屏蔽电流",
+   "en": "guard current,bucking current",
+   "source": "石油名词",
+   "wordNumber": "04.0123",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "交流电流密度",
+   "en": "alternating current current density",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.273",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "交流电流在防腐层破损点处单位面积的漏泄量。"
+  },
+  {
+   "cn": "科学引文索引",
+   "en": "Science Citation Index,SCI",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.243",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "一种国际性的、多学科的综合性引文索引。涉及的学科有数、理、化、农、林、医和生物学等。创刊于1961年，最初由美国人尤金·加菲尔德创立的美国科学情报研究所编辑出版。它不仅是一种大型的文献检索工具，还是引"
+  },
+  {
+   "cn": "科学引文索引",
+   "en": "Science Citation Index;SCI",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.002",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "由美国科学信息研究所创建的收录不同国家和地区的科学期刊和论文，进行一定统计分析的科技文献检索工具。"
+  },
+  {
+   "cn": "流",
+   "en": "current",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电流",
+   "en": "current",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电流",
+   "en": "current",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海流",
+   "en": "current",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沿岸流",
+   "en": "coastal current\",\"littoral current\",\"alongshore current",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "流速",
+   "en": "current speed\",\"current velocity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "往复流",
+   "en": "alternating current\",\"rectilinear current",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沿岸流",
+   "en": "longshore current\",\"littoral current",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交流电",
+   "en": "alternating current\",\"rectilinear current",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沿岸流",
+   "en": "coastal current\",\"littoral current",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连续电流",
+   "en": "permanent current\",\"continuous current",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新枝条",
+   "en": "current shoot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿尔及利亚海流",
+   "en": "Algerian Current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿留申海流",
+   "en": "Aleutian current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿纳德尔海流",
+   "en": "Anadyr Current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安哥拉海流",
+   "en": "Angola Current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "巴西[暖]海流",
+   "en": "Brazil current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北极海流",
+   "en": "arctic current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表层流",
+   "en": "surface current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿流",
+   "en": "compensation current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水流",
+   "en": "current\",\"stream",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学素养",
+   "en": "data science literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "灯丝电流",
+   "en": "filament current",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.51",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加于X射线管灯丝以控制阴极热离子发射的电流。"
+  },
+  {
+   "cn": "社会潮流",
+   "en": "social current",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "各种社会事物（如物质或精神的，高雅或通俗的，经济或文化的等）流行的趋势。亦指社会发展或社会变迁的趋势。"
+  },
+  {
+   "cn": "正在吸烟者",
+   "en": "current smoker",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "至少吸过100支烟，且还在吸烟的人。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "电流时间乘积",
+   "en": "current time product",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.52",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线诊断中，通常用毫安秒表示对X射线管加载产生的电量，它等于X射线管电流平均值的毫安数和加载持续时间的秒数之乘积。"
+  },
+  {
+   "cn": "经常性卫生费用",
+   "en": "current health expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.2",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "核算期内居民最终消费的所有医疗卫生产品和服务的货币价值，反映居民对医疗卫生服务提供机构所提供医疗卫生用品和服务的最终消费。"
+  },
+  {
+   "cn": "时政歌",
+   "en": "current political songs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0388",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "主要反映人们群众对某些政治事件、措施、人物及有关形势的认识和态度，是旧时官方关注的重点。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "暴露科学",
+   "en": "exposure science",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集和分析所需定量和定性的信息，以了解受体与物理、化学或生物应激之间的暴露情况的科学"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

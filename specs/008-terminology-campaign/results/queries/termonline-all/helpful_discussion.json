@@ -1,0 +1,562 @@
+{
+ "key": "helpful discussion",
+ "term": "helpful discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:27:23+00:00",
+ "status": "ok",
+ "note": "variant=helpful discussion; 审定公布名词库=38; 海峡两岸名词对照库=11; 其他来源数据库=13; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "辅助病毒",
+   "en": "help virus",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0757",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "可辅助缺陷病毒完成其感染生活周期的一种病毒。该病毒携带特定功能互补基因，混合感染细胞时，向缺陷性病毒提供后者所缺少的功能（如复制能力）。"
+  },
+  {
+   "cn": "辅助性状",
+   "en": "help trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.409",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "用于间接选择的性状。"
+  },
+  {
+   "cn": "HELP哲学观",
+   "en": "HELP philosophy",
+   "source": "运动医学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "一种健康哲学观念。HELP中的H即health，代表健康，健康是生命的根本；E即everyone，代表每个人，要让每个人都有良好的健康行为；L即lifetime，代表一生, 从生命的早期就开始重视健康"
+  },
+  {
+   "cn": "辅助病毒",
+   "en": "help virus",
+   "source": "植物学名词",
+   "wordNumber": "16.0371",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "通过对细胞的混合感染向某种缺陷性病毒提供后者所缺少的功能，使后者能够完成其感染生活周期的一种病毒。"
+  },
+  {
+   "cn": "辅助质粒",
+   "en": "help plasmid",
+   "source": "植物学名词",
+   "wordNumber": "16.0282",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "在同一细胞中赋予另一个质粒某种功能的质粒。"
+  },
+  {
+   "cn": "呼救",
+   "en": "call for help",
+   "source": "急救医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "急救医学_急救调度_调度基本概念_呼救人群",
+   "subjectName": "呼救人群",
+   "publishYear": "2025",
+   "definition": "发出信息寻求紧急医疗援助。"
+  },
+  {
+   "cn": "自助式扩张器",
+   "en": "self-help dilator",
+   "source": "消化内镜学名词",
+   "wordNumber": "2.103",
+   "subjectFullName": "消化内镜学_消化内镜设备_附件和器械",
+   "subjectName": "附件和器械",
+   "publishYear": "2021",
+   "definition": "长期置于患者体内，由患者按需行自助扩张的扩张器。"
+  },
+  {
+   "cn": "社会互助",
+   "en": "social mutual help",
+   "source": "经济学名词",
+   "wordNumber": "07.096",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "社会团体和社会成员自愿组织和参与的扶弱济困活动。具有自愿和非营利的特征，其资金主要来源于社会捐赠和成员自愿交费，其主要形式包括公益性组织的慈善救助活动及公民自发组织的互助互济性活动。"
+  },
+  {
+   "cn": "自助具",
+   "en": "self help device",
+   "source": "老年医学名词",
+   "wordNumber": "07.064",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "专门设计和制造的、利用患者残存功能、无需外界能源、仅凭自身力量即可使患者独立完成日常生活活动的一类器具。"
+  },
+  {
+   "cn": "自助小组",
+   "en": "self-help group",
+   "source": "心理学名词",
+   "wordNumber": "15.106",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "非专业人士由于共同的需要与问题自愿组成的相互提供支持与鼓励的团体。"
+  },
+  {
+   "cn": "自助具",
+   "en": "self-help device",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.119",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_生活辅助康复器具设备",
+   "subjectName": "生活辅助康复器具设备",
+   "publishYear": "2014",
+   "definition": "用于辅助完成生活自理的一些专门的器具。如：自助长柄匙、看书架、防滑垫等，适用于日常生活不能自理的患者。"
+  },
+  {
+   "cn": "生活自理训练",
+   "en": "self-help training",
+   "source": "教育学名词",
+   "wordNumber": "10.129",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊儿童生活适应能力教育的主要内容。以学生的衣食住行、日常行为规范、劳动、生存及社会交往等为内容的一种训练。"
+  },
+  {
+   "cn": "联机帮助",
+   "en": "on-line help",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.289",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "针对当前命令或任务的与上下文有关的帮助信息。"
+  },
+  {
+   "cn": "自助力原理",
+   "en": "self-help theory",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.175",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "在人力资源管理中，欲培养或发展被开发者的某一技能与品性时，最有效的方式是让被开发者重复面对前人当时形成相同技能与品性的情景，让被开发者处于一个积极主动学习与掌握过程中，自己帮助自己取得进步。"
+  },
+  {
+   "cn": "自助器",
+   "en": "self-help device",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0331",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "呼救信号",
+   "en": "calling help signal",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0659",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "辅助噬菌体",
+   "en": "helper phage;help bacteriophage",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0751",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "通过对细菌的感染向某种缺陷性噬菌体提供后者所缺少的功能，使后者能够完成其感染生活周期的一种噬菌体。"
+  },
+  {
+   "cn": "自助式球囊扩张器",
+   "en": "self-help expanding balloon",
+   "source": "消化内镜学名词",
+   "wordNumber": "2.104",
+   "subjectFullName": "消化内镜学_消化内镜设备_附件和器械",
+   "subjectName": "附件和器械",
+   "publishYear": "2021",
+   "definition": "长期置于患者体内，由患者按需行自助扩张的球囊扩张器。"
+  },
+  {
+   "cn": "辅助噬菌体",
+   "en": "help phage\",\"help bacteriophage",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辅助病毒",
+   "en": "help virus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辅助质粒",
+   "en": "help plasmid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辅助病毒",
+   "en": "help virus",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "帮助主体，帮手主体",
+   "en": "help agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自助小组，自助团体",
+   "en": "self help group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "在线帮助",
+   "en": "on-line help",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "协防",
+   "en": "help",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经济",
+   "en": "Govern and Help the People/ Economy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“扶真贫、真扶贫”",
+   "en": "helping those in need and delivering genuine outcomes",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "悬壶济世",
+   "en": "Hanging a Gourd (Practicing Medicine) to Help the World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "派出医疗小组协助抗疫",
+   "en": "to send medical teams to help combat the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精准扶贫、精准脱贫",
+   "en": "take targeted measures to help people lift themselves out of poverty",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "先富帮后富",
+   "en": "Those who get rich first help and drive others to get rich later.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解决好贫困地区农畜产品卖难问题",
+   "en": "to help farmers in poor areas solve difficulties in selling their produce and livestock",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好返程人员疫情防控",
+   "en": "to take measures to help returnees from infected regions in order to prevent any possible spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊明志，宁静致远",
+   "en": "Indifference to Fame and Fortune Characterizes a High Aim in Life, and Leading a Quiet Life Helps One Accomplish Something Lasting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对口支援",
+   "en": "pairing assistance (a national strategy in China for one province or a major city to provide assistance to a designated region in need of help)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.10",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "亲社会行为的一种，指一切帮助他人的行为，可以是无偿的，也可以是有偿的。"
+  },
+  {
+   "cn": "助人自助",
+   "en": "help people (to) help themselves",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "帮助服务对象以使其能够实现自我帮助。具体说就是帮助有困难的人通过增强自身能力，实现增能赋权，能够靠自己解决自己的问题。是社会工作的核心价值理念之一。"
+  },
+  {
+   "cn": "自助—互助型组织",
+   "en": "self-help or mutual-help organization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.30",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "不依靠组织以外的资源，利用组织成员自己的资源作为支持，通过彼此互助达到解决组织内部或者外部的问题的组织。"
+  },
+  {
+   "cn": "自助群体",
+   "en": "self-help group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "由常处于某种烦忧的人组成，以互相支持和互相帮助寻求恢复心理健康的群体。这种群体强调分享当前情结，通过这些分享促进对自我和他人更深刻的了解，具有精神治疗效果。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "双培双带",
+   "en": "double training and double helping",
+   "source": "马克思主义",
+   "wordNumber": "03.0770",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“双培双带”最初是农村党建工作的一种创新机制，即把党员培养成致富带头人，把致富带头人中的先进分子培养成党员。“双培双带”后来在基层党建推广开来，即把党员培养成骨干，把骨干培养成党员。“双培双带”实质上"
+  },
+  {
+   "cn": "帮助开启新生活",
+   "en": "help starting a new life",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询的程序和最终目标。为减少咨询结束时求咨学生的失落感，在咨询达到预期目标后，不可突兀地结束咨询，而应将后期的活动安排告知学生，使其逐步减轻对咨询的依赖，重新适应现实生活。"
+  },
+  {
+   "cn": "优质服务咨询框架",
+   "en": "greeting-asking-telling-helping-explaining-returning framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "计划生育咨询常用的模式，包括真诚地迎接问候对象，询问对象需求，帮助对象谈论问题，将可供选择的避孕方法告诉对象，帮助对象做出知情选择，解释如何使用所选的方法，预约对象回访及欢迎有问题随时复诊。"
+  },
+  {
+   "cn": "无益治疗",
+   "en": "unhelpful treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.039",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "对改善或缓解患者病情没有好处、弊大于利的治疗措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

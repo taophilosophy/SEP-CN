@@ -1,0 +1,72 @@
+{
+ "key": "mulla sadra's",
+ "term": "Mullā Ṣadrā’s",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:23:43+00:00",
+ "status": "ok",
+ "note": "variant=Mullā Ṣadrā’s; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "细腐殖质",
+   "en": "mull",
+   "source": "土壤学名词",
+   "wordNumber": "02.499",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "腐殖物质与黏粒的复合体。"
+  },
+  {
+   "cn": "细腐殖质",
+   "en": "mull,mild humus",
+   "source": "林学名词",
+   "wordNumber": "02.201",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "森林土壤表层的有机质与矿质土层充分混合(如形成发育很好的A层)的腐殖质组型。"
+  },
+  {
+   "cn": "石蜡糊法",
+   "en": "nujol mull method",
+   "source": "药学名词",
+   "wordNumber": "06.289",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "将固体样品研成细末，与液体石蜡油混合成糊状，然后夹在两窗片之间进行测定的红外样品处理方法。"
+  },
+  {
+   "cn": "党管干部原则",
+   "en": "principle of the party assuming the responsibility for cadre’s affairs",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0318",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "中国干部管理的基本原则，即坚持中国共产党对干部组织人事工作的领导权，以及对重要干部的管理权。"
+  },
+  {
+   "cn": "细腐殖质",
+   "en": "mull",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "石蜡糊法",
+   "en": "nujol mull method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

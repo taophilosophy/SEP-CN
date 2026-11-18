@@ -1,0 +1,792 @@
+{
+ "key": "careful examination",
+ "term": "careful examination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:32:14+00:00",
+ "status": "ok",
+ "note": "variant=careful examination; 审定公布名词库=748; 海峡两岸名词对照库=93; 其他来源数据库=67; 预公布名词数据库=234; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "相度",
+   "en": "examination",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.037",
+   "subjectFullName": "中医药学_骨伤科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "通过观察损伤肢体的外观，度量其损伤程度。"
+  },
+  {
+   "cn": "考试",
+   "en": "examination",
+   "source": "教育学名词",
+   "wordNumber": "02.216",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "检查、评定学业成绩和教学效果的一种方法。根据一定的教育目的，让学生按照一定的方式来解答试题，并对其解答结果评等级或记分数，具有评定、诊断、反馈、预测和激励的功能。包括口试、笔试和操作考试等形式。"
+  },
+  {
+   "cn": "审查",
+   "en": "examine",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.031",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "检查和核对文件资料是否规范和正确的过程。在放射卫生防护领域，通常是针对许可、注册等审批事项的申请资料或技术报告、计划、标准、著作等文件资料进行的审查。"
+  },
+  {
+   "cn": "保育",
+   "en": "care",
+   "source": "教育学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "成人（家长或看护者）为0～6、7岁儿童提供的、满足其生命安全、身体健康发育成长所需要的物质条件和看护照顾。"
+  },
+  {
+   "cn": "影像学检查",
+   "en": "imaging examination;imageological examination",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "借助X线片、B超、磁共振成像（MRI）、计算机体层成像（CT）、正电子发射体层成像（PET）等对内分泌腺形态、大小及占位性病变进行检查的方法。"
+  },
+  {
+   "cn": "影像学检查",
+   "en": "imaging examination;imageological examination",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.164",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_妇科检查及方法",
+   "subjectName": "妇科检查及方法",
+   "publishYear": "2022",
+   "definition": "借助某种介质（如X线、电磁场、超声波等）与人体相互作用，把人体内部组织器官结构、密度以影像方式呈现出来的技术。供医生根据影像信息进行判断，从而对人体健康状况进行评价。"
+  },
+  {
+   "cn": "产前照顾",
+   "en": "antenatal care,prenatal care",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "对孕妇进行的医疗照顾。从确认她们怀孕开始，到第一产程前或结束妊娠为止。"
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care,brood care",
+   "source": "昆虫学名词",
+   "wordNumber": "07.172",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "成虫对后代(卵或幼龄幼虫)的照料和保护。"
+  },
+  {
+   "cn": "产前保健",
+   "en": "antenatal care,prenatal care",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.046",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学检查",
+   "en": "cytological examination",
+   "source": "普通外科学名词",
+   "wordNumber": "12.027",
+   "subjectFullName": "医学_普通外科学_常用诊断技术",
+   "subjectName": "常用诊断技术",
+   "publishYear": "2026",
+   "definition": "用多种方法从机体获得细胞标本，通过观察其形态特征变化来诊断疾病的操作。其标本主要包括体液自然脱落细胞、器官黏膜上皮细胞及细针穿刺获得的细胞。"
+  },
+  {
+   "cn": "组织学检查",
+   "en": "histological examination",
+   "source": "普通外科学名词",
+   "wordNumber": "12.028",
+   "subjectFullName": "医学_普通外科学_常用诊断技术",
+   "subjectName": "常用诊断技术",
+   "publishYear": "2026",
+   "definition": "用多种方法从机体获得组织标本，通过观察其形态特征变化来诊断疾病的操作。其标本主要来自手术切取或粗针穿刺获得的组织。"
+  },
+  {
+   "cn": "双合诊检查",
+   "en": "bimanual examination",
+   "source": "普通外科学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "一手的两指或一指放入阴道，另一手在腹部配合的一种检查方法。目的在于检查阴道、宫颈、宫体、输卵管、卵巢、宫旁结缔组织及骨盆腔有无异常。"
+  },
+  {
+   "cn": "三合诊检查",
+   "en": "trimanual examination",
+   "source": "普通外科学名词",
+   "wordNumber": "19.183",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "一手的一指放入直肠、一指放入阴道，另一手在腹部配合的一种检查方法。有助于检查骨盆腔较后部及子宫直肠窝的情况。"
+  },
+  {
+   "cn": "外阴部检查",
+   "en": "vulval examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.014",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "通过目测及触诊对外阴进行初步的常规检查。包括观察外阴发育及阴毛分布，注意大阴唇、小阴唇及会阴部位有无皮炎、溃疡、赘生物或色素减退等变化；观察阴蒂、尿道口及处女膜情况，有无会阴侧切及陈旧撕裂瘢痕；必要时"
+  },
+  {
+   "cn": "双合诊检查",
+   "en": "bimanual examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "应用经阴道、腹部联合检查法了解盆腔脏器情况的检查。检查者一只手的两指或一指放入阴道，另一只手在腹部配合检查。目的主要是扪清阴道壁、宫颈、宫体、输卵管、卵巢、子宫韧带及宫旁结缔组织，了解女性内生殖器情况"
+  },
+  {
+   "cn": "三合诊检查",
+   "en": "rectovaginal examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.021",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "应用经直肠、阴道、腹部联合检查法进行的盆腔检查。是双合诊检查的补充，有助于查清盆腔后部及子宫直肠窝的情况。"
+  },
+  {
+   "cn": "呼吸检查",
+   "en": "breath examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "通过视、触、叩、听基本的物理方法对患者呼吸状态做出判断的检查。包括呼吸方式、频率、节律和幅度、深度、时相，以及呼吸音、啰音（性质、位置及量）、呼吸运动是否左右对称，呼气有无特殊气味等。"
+  },
+  {
+   "cn": "脉搏检查",
+   "en": "pulse examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "用指腹触及动脉搏动最明显处，感知其频率、节律及力度的检查。常见检查部位有颈动脉、肱动脉、桡动脉、股动脉、足背动脉，通过脉搏检查可以初步判断被检查者的血液循环情况。"
+  },
+  {
+   "cn": "瞳孔检查",
+   "en": "pupil examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.029",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "对瞳孔外观及瞳孔反射进行的检查。外观检查包括瞳孔的大小、形态、数目、位置及边缘是否整齐，检查时应两侧比较。"
+  },
+  {
+   "cn": "神经系统检查",
+   "en": "neurological examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "包括神经系统的评估、感觉和运动的测试、脑神经功能的检查及神经系统影像学检查等项目。"
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care\",\"brood care",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "定量检查",
+   "en": "quantitative examination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "金相检查",
+   "en": "metallographic examination",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "水质检查",
+   "en": "water examination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "加密探测",
+   "en": "development examination",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "超声波探伤",
+   "en": "ultrasonic examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "健康检查",
+   "en": "medical examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异亲抚育",
+   "en": "alloparent care",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "医疗",
+   "en": "medical care",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "X射线检查",
+   "en": "X-ray examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "盘账",
+   "en": "examine the account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "验收",
+   "en": "examine and receive",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保健药品",
+   "en": "health care medicine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拆验",
+   "en": "open-up examination\",\"examination of opened up parts",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "外资审查",
+   "en": "examination of foreign investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保健地理",
+   "en": "geography of health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公共保健系统",
+   "en": "public health care system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验马",
+   "en": "veterinary examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验马",
+   "en": "veterinary examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪支检查员",
+   "en": "firearms examiner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能看护",
+   "en": "smart care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程关爱",
+   "en": "remote care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "居家看护",
+   "en": "home care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整合照料",
+   "en": "integrated care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧养老",
+   "en": "Smart Elderly Care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养老管家",
+   "en": "elderly care app",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧医疗",
+   "en": "smart medical care",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“互联网+”养老",
+   "en": "Internet Plus elderly care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为老服务商",
+   "en": "elderly care service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "细胞遗传学检查",
+   "en": "cytogenetic examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "用细胞学和遗传学相结合的方法研究与遗传学现象相关的细胞变化的检查，包括外周血淋巴细胞染色体畸变分析和微核试验。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "学校组织开展的为维护学生身体健康从而达到预防保健的目的而进行的体格检查。"
+  },
+  {
+   "cn": "孕前医学检查",
+   "en": "preconception examination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕前保健",
+   "subjectName": "孕前保健",
+   "publishYear": "2025",
+   "definition": "通过对孕前夫妇高危因素的评估，及夫妇双方的体格检查、实验室和影像学等辅助检查，发现将会影响孕妇身体健康和未来胎儿健康的疾病，以及影响受孕的疾病的服务。"
+  },
+  {
+   "cn": "肉眼检查",
+   "en": "gross examination",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.12",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "取适量食品样品于白色瓷盘上，在自然光下观察色泽和状态，嗅其气味。常用于鲜、冻动物性水产品质量检测的方法。"
+  },
+  {
+   "cn": "过度检查",
+   "en": "over examination",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.027",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "为患者提供超出其自身疾病和临床诊断实际需求的医疗检查行为。"
+  },
+  {
+   "cn": "显微镜检查",
+   "en": "microscopic examination",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.114",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种使用显微镜来观察并分析细胞、细菌、病毒等微小生物的结构和特征的技术。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "社会医学名词",
+   "wordNumber": "7.15",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康体检",
+   "publishYear": "2025",
+   "definition": "通过医学手段和方法对无症状个体或群体进行的系统化身体检查。旨在了解受检者健康状况、早期发现疾病线索及健康隐患的预防性诊疗行为。"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "暂时休养服务",
+   "en": "respite care",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.10",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "通过将老年人接到养老机构或者派人上门提供临时性的照料，使长期照料失能老年人的家属得以短期的解脱（休息），以便更好地照料老年人的服务方式。按提供方式，可分为居家喘息服务、社区喘息服务和机构喘息服务。"
+  },
+  {
+   "cn": "家庭照顾",
+   "en": "family care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由其家庭成员提供照顾的照顾方式。。"
+  },
+  {
+   "cn": "机构照顾",
+   "en": "institutional care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.47",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由专门的照料机构予以照顾的照顾方式。在中国，老年人的专门照顾机构有社会福利院、敬老院、老年公寓、老年护理院等。"
+  },
+  {
+   "cn": "社区照顾",
+   "en": "community care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.49",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在国家宏观指导和政策扶持下，按照“属地养老”的原则，以社区为依托，充分利用现有的资源和条件，为满足日常生活自理有困难的城市老年人的日常生活照顾需求而提供的养老服务。内容包括建立和发展老年福利设施、开展"
+  },
+  {
+   "cn": "围产保健",
+   "en": "perinatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "以孕产妇和胎婴儿为对象，以保障母子健康为目的，运用围产医学的理论、技术和方法，提供生理、心理和社会适应等内容的系统性综合保健服务。"
+  },
+  {
+   "cn": "孕期保健",
+   "en": "antenatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从确定妊娠之日始至临产前，为保障孕妇及胎儿的健康所提供的产前检查、健康教育、咨询、健康状况评估、健康指导、妊娠合并症和并发症处理等为主要内容的系统保健服务。包含孕早期、孕中期和孕晚期保健。"
+  },
+  {
+   "cn": "产时保健",
+   "en": "intrapartum care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构在产妇住院分娩过程中，为保障母婴安全并促进产妇形成积极的分娩体验所采取的系列服务措施，包括对产妇和胎儿进行全产程监护、支持照顾、安全助产以及对新生儿进行评估及处理。"
+  },
+  {
+   "cn": "妊娠间隔期保健",
+   "en": "interpregnancy care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为妊娠间隔期妇女提供产后照护、疾患筛查、健康教育和健康管理的专业服务。目的是最大程度的确保妇女在前次分娩或流产后、再次妊娠时、以及后续生命历程的健康。"
+  },
+  {
+   "cn": "流产后保健",
+   "en": "postabortion care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为孕妇在自然流产或人工流产后提供的专业服务和健康管理，包括避孕服务、并发症管理和其他所需的医疗保健服务。"
+  },
+  {
+   "cn": "更年期保健",
+   "en": "climacteric care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "帮助妇女顺利地度过更年期，减少更年期在生理上、心理上不适症状的保健服务，包括定期健康体检、妇科疾病诊治、健康教育与心理咨询等。"
+  },
+  {
+   "cn": "儿童照护",
+   "en": "child care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人和家庭为儿童提供健康生长发育所需的食物、卫生保健、刺激和情感支持的行为。"
+  },
+  {
+   "cn": "婚前保健",
+   "en": "premarital care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "以提高出生人口素质为目的，对准备结婚的男女双方所进行的婚前医学检查、婚前卫生指导和婚前卫生咨询服务的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

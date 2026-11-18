@@ -1,0 +1,782 @@
+{
+ "key": "ordinary perception",
+ "term": "ordinary perception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:19:20+00:00",
+ "status": "ok",
+ "note": "variant=ordinary perception; 审定公布名词库=457; 海峡两岸名词对照库=147; 其他来源数据库=33; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.575",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "处在外部环境的有机体，基于环境对感觉器官的刺激，形成的对环境特征的觉知过程。是有机体对外部环境信息的一种提取。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "行为医学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "人体对感觉信息进行加工和解释的过程。是对事物整体属性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生理学名词",
+   "wordNumber": "03.262",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "精神医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物各部分或属性的整体反映。是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "计划生育名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "综合某一客观事物的各种属性，作为一个整体的综合性映像在大脑中的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "生物物理学名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "皮质对外界客体和事件的一系列感觉信息的处理、分析和整合过程。有整体性、恒常性和选择性的特征。 "
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0078",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "将感觉信息组成有意义的对象，在已储存的知识经验的参与下把握刺激意义的过程。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "心理学名词",
+   "wordNumber": "02.362",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对感觉信息的加工和解释的过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.211",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "人对客观事物各部分或属性的整体反映，是对事物的整体认识或综合属性的判别。以感觉为基础，但不是感觉的简单相加，而是对各种感觉刺激分析与综合的结果，是大脑皮质的高级活动。"
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "电气工程名词",
+   "wordNumber": "22.108",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.013",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception,shape perception",
+   "source": "心理学名词",
+   "wordNumber": "02.390",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对接收到的关于外界客体形状信息的知觉。"
+  },
+  {
+   "cn": "普通球粒陨石",
+   "en": "ordinary chondrite",
+   "source": "地质学名词",
+   "wordNumber": "13.07.032",
+   "subjectFullName": "地质学_地球化学_天体与宇宙化学",
+   "subjectName": "天体与宇宙化学",
+   "publishYear": "2026",
+   "definition": "泛指具球粒结构的常见石陨石。陨石中硅酸盐矿物占75%～90%，铁-镍金属单质10%～25%，可含少量硫铁化物等。在迄今已发现的陨石中占87%。"
+  },
+  {
+   "cn": "常光",
+   "en": "ordinary ray",
+   "source": "地质学名词",
+   "wordNumber": "02.00.219",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "光在一轴晶中传播时，发生双折射而产生两种互相垂直振动的偏光(两个光学主轴)，其中振动方向垂直光轴的光。用Nₒ表示，其折射率为恒定值。"
+  },
+  {
+   "cn": "普通型救护车",
+   "en": "ordinary ambulance",
+   "source": "急救医学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_急救转运工具",
+   "subjectName": "急救转运工具",
+   "publishYear": "2025",
+   "definition": "为基础处理、观察和转运病情较轻患者而设计和装备的救护车。"
+  },
+  {
+   "cn": "普通邮寄",
+   "en": "ordinary mail",
+   "source": "档案学名词",
+   "wordNumber": "02.03.024",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "文件传递的方式之一。通过国家设立的公共邮递系统递送文件。用于传递无保密要求的公开性、普发性文件。"
+  },
+  {
+   "cn": "常乳",
+   "en": "ordinary milk",
+   "source": "兽医学名词",
+   "wordNumber": "04.657",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "乳腺在生成初乳之后合成分泌的乳。"
+  },
+  {
+   "cn": "普通带",
+   "en": "ordinary tape ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.007",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "磁粉为三氧化二铁的磁带。"
+  },
+  {
+   "cn": "普通青贮",
+   "en": "ordinary silage ",
+   "source": "草学名词",
+   "wordNumber": "2.0568",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "知觉",
+   "en": "perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知",
+   "en": "perception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触知觉",
+   "en": "tactile perception\",\"haptic perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形状知觉",
+   "en": "form perception\",\"shape perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spatial perception\",\"space perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "常波",
+   "en": "ordinary wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常年",
+   "en": "ordinary year",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "寻常胞",
+   "en": "ordinary cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普通利息",
+   "en": "ordinary interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通票据",
+   "en": "ordinary bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通信用证",
+   "en": "ordinary credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通银行",
+   "en": "ordinary bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通支票",
+   "en": "ordinary check",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通景观",
+   "en": "ordinary landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "普通克利金法",
+   "en": "ordinary Kriging",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "普通摄影",
+   "en": "ordinary photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "普通个虫",
+   "en": "ordinary zooid",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "一般闪光",
+   "en": "ordinary flash",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "阈下知觉",
+   "en": "subliminal perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普通犯规",
+   "en": "ordinary foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据感知",
+   "en": "Data Perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器感知",
+   "en": "machine perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态感知",
+   "en": "multimodal perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数觉",
+   "en": "perception of numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智感知",
+   "en": "swarm intelligence perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正握",
+   "en": "ordinary grip\",\"overhand grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "挺举握杠",
+   "en": "ordinary grip\",\"shoulder-width grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物联网感知仓库",
+   "en": "warehouse based on IoT perception technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知机",
+   "en": "perceptron",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "deception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多层感知器",
+   "en": "multilayer perceptron (MLP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "社会知觉",
+   "en": "social perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "包括对人知觉和自我知觉。前者为人们了解他人（个人或群体），利用各种可能的信息资料形成对他人印象、判断的过程。后者为对自身形成印象和判断的过程。"
+  },
+  {
+   "cn": "人际知觉",
+   "en": "interpersonal perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "对人与人之间关系的知觉。包括对人的外部特征、个性特点了解、对人行为的判断和理解。这种知觉主要是在人际交往中发生的，以各种交际行为为知觉对象。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "空间知觉",
+   "en": "spacial perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对物体的形状、大小、方位、距离等构成空间关系要素的感知和判断"
+  },
+  {
+   "cn": "时间知觉",
+   "en": "time perception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对客观现象延续性和顺序性的感知和判断能力。"
+  },
+  {
+   "cn": "风险认知",
+   "en": "risk perception",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "个体对存在于外界各种客观风险的主观感受和认识。"
+  },
+  {
+   "cn": "普通物体表面",
+   "en": "ordinary object surfaces",
+   "source": "消毒学",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "学校、托幼机构、医疗卫生机构、公共场所、家庭等各种场所的物品、用具、器械和设施的表面。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "常人",
+   "en": "ordinary person/layman",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "经营日常生活的普通人，相对于贵族或精英而言的“凡人”，与柳田国男(Yanagida Kunio）的“常民”(jyoomin）概念同义。加芬克尔 (H.Garfunkel）借助此概念证明日常实践理性活动"
+  },
+  {
+   "cn": "感知觉发育",
+   "en": "sensory perception development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对作用于感觉器官客观事物的反映能力随年龄增长的发展变化过程。包括视觉、味觉、听觉、嗅觉、触觉、运动觉、空间时间知觉等的发展变化过程。"
+  },
+  {
+   "cn": "净观",
+   "en": "Dag snang（Pure Perception）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0461",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。密宗金刚乘视外境为佛剎、视自他为本尊、视音声为咒语、视思想为智慧之展现的观点。"
+  },
+  {
+   "cn": "欺骗",
+   "en": "deception",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.114",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无视道德规范的制约，以非正当手段获得或占有为目的，利用他人的弱点或社会、组织的缺陷，通过虚构或隐瞒事实真相等言论或行动的方法，侵害他人或社会利益，使个人或组织的私欲得以满足的行为。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  },
+  {
+   "cn": "尿液标本",
+   "en": "urinary specimen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从人体采集的尿液样本，用于尿液理化性质及内容物非生理性改变的检测以及对病原体的培养。"
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有逻辑次序的类别集合对测量对象进行分类的测量方式。该逻辑次序可能是从低到高或从贫到富，例如回答人对某个服务的态度可以划分作非常不满意、不满意、满意和非常满意四个等级。"
+  },
+  {
+   "cn": "尿失禁",
+   "en": "urinary incontinence",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.21",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "清醒状态下尿液不自主流出的现象。漏出道可以是尿道，称为尿道源性尿失禁，如神经源性膀胱。漏出道也可以是其他腔道（如阴道），称为尿道外尿失禁，如输尿管异位开口等。"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.22",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "膀胱充满尿液不能排出，导致膀胱过度膨胀、膀胱内压力增高的状态。分为急性和慢性。常见于良性前列腺增生、尿道损伤和狭窄、神经源性膀胱、脊髓或颅脑疾病或损伤的患者。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "围绝经期压力性尿失禁",
+   "en": "perimenopausal stress urinary incontinence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期发生的，腹压突然增加而导致尿液不自主流出的现象。主要原因是卵巢功能减退及泌尿道发生退行性改变，使得尿道张力及尿道内压力下降，膀胱内压力超过尿道内压力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

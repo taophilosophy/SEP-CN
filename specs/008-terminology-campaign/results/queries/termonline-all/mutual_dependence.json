@@ -1,0 +1,762 @@
+{
+ "key": "mutual dependence",
+ "term": "mutual dependence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:26:02+00:00",
+ "status": "ok",
+ "note": "variant=mutual dependence; 审定公布名词库=1523; 海峡两岸名词对照库=570; 其他来源数据库=60; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "农学名词",
+   "wordNumber": "15.272",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "两个物种在共同生存的过程中以互相依赖和双方受益为必要条件的生存形式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "兽医学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "共生的双方互有裨益，可以发展成一种固定的、永久的关系，达到彼此不可分离程度的共生方式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism ",
+   "source": "草学名词",
+   "wordNumber": "2.0067",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "植物学名词",
+   "wordNumber": "13.0189",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "两种生物生活在一起，彼此有利，两者分开以后都不能独立生活的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "地方病学名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "地方病学_寄生虫病_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "两种生物相互依赖，长期共存，双方均获益的共生关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "微生物学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "两物种以彼此相互依赖为生存之必要条件的相互关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "生态学名词",
+   "wordNumber": "05.158",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "两物种长期共同生活在一起，彼此相互依赖，双方获利且达到了彼此不能离开独立生存之程度的一种共生现象。"
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "地理学名词",
+   "wordNumber": "06.100",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "两种生物生活在一起，相互依赖、双方受益的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "昆虫学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "两种昆虫生活在一起，双方都能从中获益的共生现象。"
+  },
+  {
+   "cn": "互利共栖现象",
+   "en": "mutualism",
+   "source": "土壤学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "生活在同一生境的两种生物相互从对方受益的现象。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "精神医学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0325",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "两个软件元素之间的一种关系。对其中一个元素（独立元素）的更改，将影响另一元素（依赖元素）。"
+  },
+  {
+   "cn": "依存",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0481",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子或短语中，从属词和中心词之间所具有的二元关系。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "有两个类X与Y，如果修改X的定义可能会导致对Y的定义的修改，或者Y的存在依赖于X的存在，则认为Y依赖于X。"
+  },
+  {
+   "cn": "相依[的]",
+   "en": "dependent",
+   "source": "数学名词",
+   "wordNumber": "09.0042",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0575",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用于表述可用性及其影响因素(可靠性、维修性和保障性)的非定量术语。"
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.003",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "电子学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "互溶剂",
+   "en": "mutual solvent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0176",
+   "subjectFullName": "精细化工_其他精细化学品_油田化学品",
+   "subjectName": "油田化学品",
+   "publishYear": "2025",
+   "definition": "能使油和水互溶的化学剂。"
+  },
+  {
+   "cn": "相须",
+   "en": "mutual promotion",
+   "source": "兽医学名词",
+   "wordNumber": "19.298",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "性能功效相似的药物配合应用，以起到协同作用，增强药物疗效的配伍关系。"
+  },
+  {
+   "cn": "互利共生,互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生，互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "依赖性",
+   "en": "dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存[关系]",
+   "en": "dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互溶度",
+   "en": "mutual solubility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "互扩散",
+   "en": "mutual diffusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共同基金，互助基金",
+   "en": "mutual fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄",
+   "en": "mutual saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互保险，互助保险",
+   "en": "mutual insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互承兑",
+   "en": "mutual acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互控股",
+   "en": "mutual holding",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共有基金",
+   "en": "mutual fund",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互感[应]",
+   "en": "mutual induction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互相怀疑",
+   "en": "mutual suspicion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互阻抗",
+   "en": "mutual impedance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互不得分",
+   "en": "mutual loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信互认机制",
+   "en": "mutual recognition and mutual trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缘起",
+   "en": "Dependent Origination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字认证互认",
+   "en": "mutual recognition of digital certificates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "供应链互信机制",
+   "en": "supply chain mutual trust mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互利共赢的开放战略",
+   "en": "mutually beneficial opening up strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "国内外标准互认工程",
+   "en": "domestic & foreign standards mutual recognition project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交流互鉴的文明观",
+   "en": "exchanges and mutual learning among civilizations",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有待",
+   "en": "Having Something to Depend on",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“亲、诚、惠、容”理念",
+   "en": "the philosophy of “amity, honesty, mutual benefit, and inclusiveness”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "欲强兵者，务富其民",
+   "en": "A Strong Army Depends on a Prosperous Populace.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉凶由人",
+   "en": "The Outcome of Auspiciousness or Inauspiciousness Depends on Human Behavior.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运用之妙，存乎一心",
+   "en": "The Skillful Use of Tactics Depends on the Thinking and Judgment of the Commander.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互助论",
+   "en": "mutualism",
+   "source": "马克思主义",
+   "wordNumber": "04.0310",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以宣扬人类依靠互助的本就能建立和谐的社会生活，而无须借助否定一切权威和政权强制的无政府主义思潮。代表人物有蒲鲁东、克鲁泡特金等。他们反对工人阶级旨在稍稍改善他们状况的一切尝试，如罢工、组织同盟和参与政"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对酒精产生生理和心理上的依赖，无法停止饮酒或控制饮酒量的现象。"
+  },
+  {
+   "cn": "尼古丁依赖",
+   "en": "nicotine dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "无法克制的烟碱（尼古丁）觅求冲动，强迫地、连续地使用烟碱，以体验其带来的欣快感和愉悦感，并避免可能产生戒断症状的行为。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0094",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代中期以后出现于拉丁美洲的一种社会理论，运用马克思主义观点寻找发展中国家经济落后的根源，其心观点是外围国家（即发展中国家）的资源和财富经过不平等交换等机制流向中心国家（发达国家），并导致"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代晚期提出的一套国际关系与发展经济学理论，它将世界划分为先进的中心国家与较落后的边陲国家，后者在世界体系中的地位使之受到中心国的盘剥，故得不到发展，或产生腐败等弊病。"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为受到其他变量（自变量）的因果影响的变量。"
+  },
+  {
+   "cn": "共同参与型模式",
+   "en": "mutual participation model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "萨斯-霍伦德模式的一种。在此模式中，医患双方具有同等的主动性，共同参与诊疗计划的决策、制订和实施。适用大多数慢性疾病和能够清晰表达自己的意愿并有相当医学知识的患者。"
+  },
+  {
+   "cn": "互助会",
+   "en": "mutual aid saving union",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "员工在工作单位或集体组织支持下自愿集资，以储金借贷方式开展互救互济活动，共同克服自然灾害及其他困难，以保证基本生活需求的民间合作性互助组织。"
+  },
+  {
+   "cn": "资源依附理论",
+   "en": "resource dependence theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.20",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "强调组织与环境之间的资源关系的理论。认为一个组织最重要的存活目标是要想办法减低对外部关键资源供应组织的依赖程度，并寻求可以稳定影响这些供应组织的关键资源的方法。"
+  },
+  {
+   "cn": "胸腺依赖区",
+   "en": "thymus dependent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "淋巴组织和淋巴器官中的T细胞聚集区。其发育受胸腺的影响。"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "经济互助委员会",
+   "en": "Council for Mutual Economic Assistance",
+   "source": "马克思主义",
+   "wordNumber": "04.0440",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由苏联发起、社会主义国家组成的政治经济合作组织，为继承“莫洛托夫计划”的经济合作计划于1949年成立，总部设在莫斯科。1949年1月，苏联、保加利亚、匈牙利、波兰、罗马尼亚、捷克在莫斯科协议成立。后有"
+  },
+  {
+   "cn": "总抚养比",
+   "en": "general dependency ratio,GDR",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "人口总体中非劳动年龄人口数与劳动年龄人口数之比。通常用百分比表示。说明每100名劳动年龄人口要负担多少名非劳动年龄人口。用干从人口角度反映人口与经济发展的基本关系。"
+  },
+  {
+   "cn": "自助—互助型组织",
+   "en": "self-help or mutual-help organization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.30",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "不依靠组织以外的资源，利用组织成员自己的资源作为支持，通过彼此互助达到解决组织内部或者外部的问题的组织。"
+  },
+  {
+   "cn": "农业生产互助组",
+   "en": "mutual aid team for agricultural production",
+   "source": "马克思主义",
+   "wordNumber": "02.0363",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国农村个体经济向社会主义集体经济过渡的初级形式。劳动农民在个体经济的基础上，为了解决劳力、耕畜、农具缺乏的困难，按照自愿互利原则组织起来的劳动互助组织。一般由几户至或十几户组成，实行共同劳动、分散经"
+  },
+  {
+   "cn": "宗主国和附属国",
+   "en": "suzerain state and dependent state",
+   "source": "马克思主义",
+   "wordNumber": "03.0244",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家对另一个国家的内政、外交进行干预，并强行使其依附于自己，前者称为宗主国，后者称为附属国。宗主国是对他国行使宗主权的国家。附属国是受宗主国统治和支配的国家。宗主国和附属国之间是一种统治与被统治、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

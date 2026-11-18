@@ -1,0 +1,362 @@
+{
+ "key": "vindication",
+ "term": "Vindication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:26:16+00:00",
+ "status": "ok",
+ "note": "variant=Vindication; 审定公布名词库=90; 海峡两岸名词对照库=12; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "标示值",
+   "en": "indication",
+   "source": "电力名词",
+   "wordNumber": "02.144",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "由测量仪器仪表给出的值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "药物、治疗方法所适用的范围及标准。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "核医学名词",
+   "wordNumber": "05.0025",
+   "subjectFullName": "核医学_核医学治疗_外照射治疗",
+   "subjectName": "外照射治疗",
+   "publishYear": "2018",
+   "definition": "根据某些处置、治疗措施或药物的作用特点和潜在风险所决定的其适合应用的疾病、症状、临床状态和人口学指标的范围。"
+  },
+  {
+   "cn": "示值",
+   "en": "indication",
+   "source": "计量学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "由测量仪器或测量系统给出的量值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "药学名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "药物适用于某种疾病症状(或证候)的范围。一般需经相关主管部门审批，是药物的最基本属性。"
+  },
+  {
+   "cn": "表示",
+   "en": "indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0158",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication,indicated value",
+   "source": "电子学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "节目辛迪加",
+   "en": "syndication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.012",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "介于节目制作公司和电视播出机构之间的一种分销系统。通过这一系统交易的主要是播映权，版权仍由各节目制作公司所有。辛迪加是法文syndicat的音译，原意为“联合组织”。"
+  },
+  {
+   "cn": "地理标志",
+   "en": "geographical indication",
+   "source": "农学名词",
+   "wordNumber": "19.129",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "用于某个地区的实物和非实物产品的特殊质量和声誉等的标识。"
+  },
+  {
+   "cn": "示值范围",
+   "en": "indication range",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0316",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "由计量器具所显示或指示的最小值至最大值的范围。"
+  },
+  {
+   "cn": "示值误差",
+   "en": "indication error",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0317",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "计量器具的示值和被测量的真值之间的差值。"
+  },
+  {
+   "cn": "输血指征",
+   "en": "transfusion indication",
+   "source": "感染病学名词",
+   "wordNumber": "04.0165",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "输入血液或血液制品的适应证。如急性大量失血时输入血液是抢救生命所必需。应防止滥输血或滥用血制品。严格掌握输血指征有利于避免因输血感染病原微生物。"
+  },
+  {
+   "cn": "相对适应证",
+   "en": "relative indication",
+   "source": "核医学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "核医学_核医学治疗_外照射治疗",
+   "subjectName": "外照射治疗",
+   "publishYear": "2018",
+   "definition": "在一定条件限制下可以扩大适应证某些指标的范围。"
+  },
+  {
+   "cn": "空白示值",
+   "en": "blank indication",
+   "source": "计量学名词",
+   "wordNumber": "01.112",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "假定所关注的量不存在或对示值没有贡献，而从类似于被研究的量的现象、物体或物质中所获得的示值。"
+  },
+  {
+   "cn": "示值区间",
+   "en": "indication interval",
+   "source": "计量学名词",
+   "wordNumber": "01.113",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "极限示值界限内的一组量值。"
+  },
+  {
+   "cn": "非法定适应证",
+   "en": "unapproved indication",
+   "source": "药学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "药品说明书中适应证(主治)项下尚未收入，但有循证依据的可治疗病症。"
+  },
+  {
+   "cn": "远距离指示",
+   "en": "remote indication",
+   "source": "电气工程名词",
+   "wordNumber": "16.212",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "接地指示",
+   "en": "ground indication",
+   "source": "电气工程名词",
+   "wordNumber": "29.103",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "乱显示",
+   "en": "false indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0048",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "占线表示",
+   "en": "occupancy indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0485",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication\",\"indicated value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差错指示电路",
+   "en": "error indication circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端告警指示",
+   "en": "remote alarm indication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动差错指示",
+   "en": "automatic error indication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主题表示类型",
+   "en": "subject indication type",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "告警指示信号",
+   "en": "alarm indication signal\",\"AIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端缺陷指示",
+   "en": "remote defect indication\",\"RDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小纪",
+   "en": "indiction\",\"small cycle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "前向显式拥塞指示",
+   "en": "forward explicit congestion indication\",\"FECI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动目标显示雷达",
+   "en": "moving target indication radar，MTI radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道•琼斯股票价格指数",
+   "en": "Dow Jones Indications of Stock Price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地理标志",
+   "en": "geographical indication, GI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.49",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "标示某产品来源于某地区的标志，是知识产权的一种，所标志产品的质量、声誉或其他确定的特性由该地区的自然因素或者人文因素所决定。"
+  },
+  {
+   "cn": "原产地认证",
+   "en": "certification of geographical indications origin",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.48",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "出口国(地区)根据原产地规则和有关要求签发的，明确指出该证中所列货物原产于某一特定国家(地区)的书面文件。"
+  },
+  {
+   "cn": "不应从事放射工作的指征",
+   "en": "indications of unfitness for radiological work",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.18",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "放射工作人员因自身健康原因，从事放射工作时，比一般职业人群更易于罹患职业病或者可能导致原有自身疾病病情加重，或者在作业过程中诱发可能导致对他人生命健康构成危险的疾病的个人特殊生理或病理状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

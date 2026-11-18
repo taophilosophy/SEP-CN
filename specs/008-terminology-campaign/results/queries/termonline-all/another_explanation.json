@@ -1,0 +1,782 @@
+{
+ "key": "another explanation",
+ "term": "another explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:32:03+00:00",
+ "status": "ok",
+ "note": "variant=another explanation; 审定公布名词库=404; 海峡两岸名词对照库=93; 其他来源数据库=26; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "又音",
+   "en": "another pronunciation",
+   "source": "语言学名词",
+   "wordNumber": "09.151",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "古代注音用语。指某字另外的读音。某个多音字，先注明一个读音，其他读音再用“又音某”或者“又某某切”注出。"
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "为何必然说明",
+   "en": "why-necessary explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.432",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件不得不发生的说明。"
+  },
+  {
+   "cn": "妄想性超常解释",
+   "en": "delusional paranormal explanation",
+   "source": "行为医学名词",
+   "wordNumber": "16.089",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对任何异常体验超出合理性的演绎和解释的现象。"
+  },
+  {
+   "cn": "相互接近",
+   "en": "approaching one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基于解释[的]学习",
+   "en": "explanation-based learning\",\"EBL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互见中",
+   "en": "in sight of one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "互见中的船舶",
+   "en": "vessel in sight of one another",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相杀",
+   "en": "counteract the toxicity of another drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "外植",
+   "en": "explantation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外植",
+   "en": "explantation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花药",
+   "en": "anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "底着药（=基着药）",
+   "en": "basifixed anther\",\"innate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基着药，底着药",
+   "en": "basifixed anther\",\"innate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "探险",
+   "en": "exploration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "夷平作用",
+   "en": "planation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "夷平作用",
+   "en": "planation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "背着药",
+   "en": "dorsifixed anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单室花药",
+   "en": "unilocular anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丁字药",
+   "en": "versatile anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶着药",
+   "en": "apicifixed anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "个字药",
+   "en": "divergent anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广歧药",
+   "en": "divaricate anther",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花药壁",
+   "en": "anther wall",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "允许再次试举",
+   "en": "grant another attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "干扰其他船只",
+   "en": "interfere with another boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转院",
+   "en": "to transfer to another hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推己及人",
+   "en": "Put Oneself in Another’s Place",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他山之石，可以攻玉",
+   "en": "Use Stones from Another Mountain to Polish One’s Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "父母之邦",
+   "en": "Mother Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克会歌",
+   "en": "Olympic anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众乐",
+   "en": "Share Joy with Other People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教学相长",
+   "en": "Teaching and Learning Promote Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚白相盈",
+   "en": "Solidity and Whiteness Fulfill Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "其他国家标准化组织相关标准",
+   "en": "Standards of Other National Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "来自国内其他城市或省份的输入病例",
+   "en": "cases from other cities or provinces ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天人感应",
+   "en": "Nature and Humans Respond to Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五行相胜",
+   "en": "The Five Elements Triumph over Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "他者",
+   "en": "other",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的研究对象，在学科发展的不同时空语境下有不同的所指。因他者作为主体以外的一个不熟悉的对立面的客体存在，主体的权威才得以界定。基于这样的思想指导下，早期的人类学家以异文化研究为主，试"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "只有子女，无法定配偶的女性，包括未婚妈妈，离异妈妈，丧偶妈妈。"
+  },
+  {
+   "cn": "母语",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0145",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话人认同的所属民族的语言，通常也是个人出生后首先习得并熟练掌握的语言。"
+  },
+  {
+   "cn": "母方言",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0066",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "个人出生后首先习得并熟练掌握的所属地区的方言，有别于民族共同语或标准语。"
+  },
+  {
+   "cn": "其他类罐头",
+   "en": "other cans",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "不属于上述畜肉类、禽类、水产类、水果类、蔬菜类等类别的罐藏食品。"
+  },
+  {
+   "cn": "其他残疾",
+   "en": "other disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "除言语残疾、视力残疾、智力残疾、听力残疾、肢体残疾、精神残疾、多重残疾以外的残疾。"
+  },
+  {
+   "cn": "其他食品",
+   "en": "other food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "其他类饮料",
+   "en": "other beverages",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "包装饮用水、果蔬汁类及其饮料、蛋白饮料、碳酸饮料、特殊用途饮料之外的饮料。"
+  },
+  {
+   "cn": "母婴依恋",
+   "en": "infant-mother attachment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.19",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "婴儿出生后依靠天生具有的感知、动作、呼应能力与周围人(通常是母亲)进行交往，这一生物行为机制激励了母亲能够不断照料婴儿，婴儿则对之产生以亲爱和信任为基础的感情依恋关系。"
+  },
+  {
+   "cn": "其他蛋白饮料",
+   "en": "other protein beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.3.4",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "含乳饮料、植物蛋白饮料、复合蛋白饮料之外的蛋白饮料。"
+  },
+  {
+   "cn": "其他食源性疾病",
+   "en": "other foodborne diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "由于摄入食物或食物中某些物质而引起的非感染型、中毒型和代谢紊乱型，且原因尚不明确的疾病。"
+  },
+  {
+   "cn": "其他特殊用途饮料",
+   "en": "other special usage beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.5.5",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "运动饮料、营养素饮料、能量饮料、电解质饮料之外的特殊用途饮料。如乳糖酶添加饮料等。"
+  },
+  {
+   "cn": "母婴传播",
+   "en": "mother-to-child transmission，MTCT",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.4.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "感染孕产妇在妊娠期和分娩过程中，将其体内的病原体传给子代的传播方式。包括经胎盘传播、上行性传播和分娩时传播。"
+  },
+  {
+   "cn": "母女连名制",
+   "en": "mother and daughter consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0387",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族制时代母名与女儿名相连的命名制度。一般认为产生于母系氏族制繁荣期，因生产力的发展，对偶家庭出现，子女血统以母系计算。"
+  },
+  {
+   "cn": "苏联国歌",
+   "en": "national anthem of the Soviet union",
+   "source": "马克思主义",
+   "wordNumber": "04.0070",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "十月革命胜利后，在列宁倡议下苏联以《国际歌》为临时国歌。1918年1月，苏维埃第三次代表大会决定把《国际歌》作为国歌。卫国战争中，苏联政府决定创作一首激励人心的新国歌，1943年12月《牢不可破的联盟"
+  },
+  {
+   "cn": "预防疾病母婴传播",
+   "en": "prevention of mother-to-child transmission",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "预防病原体通过宫内、分娩或产后哺乳等过程传染给胎婴儿，以降低儿童新发感染的综合措施。"
+  },
+  {
+   "cn": "其他类饮用水",
+   "en": "other types of drinking water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.1.3",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "仅通过有限的处理，未改变水的基本物理化学特征的自然来源饮用水。"
+  },
+  {
+   "cn": "其他型碳酸饮料",
+   "en": "other types of carbonated beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.4.4",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "除果汁型、果味型、可乐型碳酸饮料之外的碳酸饮料。"
+  },
+  {
+   "cn": "母婴同室",
+   "en": "rooming-in for new mother and infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "医疗机构将分娩后婴儿与其母亲安置在同一个房间内的照护模式，便于母亲照顾婴儿，按需母乳喂养，并建立良好亲子关系。为爱婴行动之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

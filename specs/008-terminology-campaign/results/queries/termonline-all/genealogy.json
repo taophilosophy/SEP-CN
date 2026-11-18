@@ -1,0 +1,242 @@
+{
+ "key": "genealogy",
+ "term": "genealogy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:28:33+00:00",
+ "status": "ok",
+ "note": "variant=genealogy; 审定公布名词库=9; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "家谱",
+   "en": "genealogy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "一种以表谱形式记载一个以血缘关系为主体的家族世系繁衍和重要人物事迹的特殊图书体裁。以记载父系家族世系、人物为中心，是由记载古代帝王诸侯世系、事迹而逐渐演变来的。"
+  },
+  {
+   "cn": "谱系学",
+   "en": "genealogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0002",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "研究生物类群谱系的学科。"
+  },
+  {
+   "cn": "谱系学",
+   "en": "genealogy",
+   "source": "昆虫学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "研究类群谱系的学科。"
+  },
+  {
+   "cn": "谱牒档案",
+   "en": "genealogical archives",
+   "source": "档案学名词",
+   "wordNumber": "01.02.031",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "记载着一姓一族的氏系来源、世代系统、著名人物的传记与事迹以及有关政治、经济等方面内容的重要史籍资料。"
+  },
+  {
+   "cn": "谱系表",
+   "en": "genealogical table",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "记载同一祖先血统的氏族、家代和世系的谱表。通常以倒置树状图形式出现。有时会出现在传记或历史文献的扉页上。"
+  },
+  {
+   "cn": "谱牒",
+   "en": "pu die;genealogies",
+   "source": "中国古代史名词",
+   "wordNumber": "1.417",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "记录家族世系之书。商代已有雏形，西周以来形态渐趋成熟。魏晋南北朝因严别士庶，讲究门第，特受重视，要在辨别姓氏、郡望，录其房分世系支脉分布及重要人物官位事迹，成为专门之学。至唐衰落，宋以后仍有家谱，但其"
+  },
+  {
+   "cn": "系统树",
+   "en": "genealogical tree,phylogenetic tree",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0888",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "生物进化过程中，形成各种类群的系统关系。根据它们之间的亲缘进化关系绘出的树形图。"
+  },
+  {
+   "cn": "植物遗传生态学",
+   "en": "plant genecology",
+   "source": "植物学名词",
+   "wordNumber": "01.0068",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "从遗传变异、选择和适应等方面，研究植物与环境相互关系的学科。"
+  },
+  {
+   "cn": "法洛五联症",
+   "en": "pentalogy of Fallot",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.129",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "谱系学，系谱学",
+   "en": "genealogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系谱学（=谱系学）",
+   "en": "genealogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系谱学",
+   "en": "genealogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "谱系学",
+   "en": "genealogy",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "系统树",
+   "en": "genealogical tree\",\"phylogenetic tree",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "植物遗传生态学",
+   "en": "plant genecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传生态学,基因生态学",
+   "en": "genetic ecology\",\"genecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世系",
+   "en": "genealogy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.1",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "由家族世代相传而形成，表明人们之间的血缘继承关系的系统。在原始社会早期，子女的血缘关系从母方来确定，因此人们的世系也从母方计算，称为母系。当对偶婚进一步发展，人们已知其父；男子在经济中逐渐占重要地位，"
+  },
+  {
+   "cn": "族谱",
+   "en": "genealogy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "记录一个家族内部各类亲属的姓名及他们的关系的谱系。"
+  },
+  {
+   "cn": "民俗谱系学",
+   "en": "folklore genealogy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0496",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗谱系学的谱系结构包括亲缘谱系、姻缘谱系、地缘关系、族缘关系、乡邻关系和语言谱系等等，在它们的共同作用下，民俗得以发生、发展和演变。从这些原则出发，民俗解释一方面强调民俗内部的亲缘，另一方面注重民间"
+  },
+  {
+   "cn": "家谱",
+   "en": "genealogical tree",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "以表谱形式记载一个血缘关系为主体的家族世系繁衍和重要人物事迹的特殊文献，是谱牒的一种形式。家谱以家族的世系为脉络，把包括名人和非名人的所有族众贯穿起来，注明他们之间的血缘关系。是一个家族的生命史，记录"
+  },
+  {
+   "cn": "谱系学路径",
+   "en": "genealogical approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.31",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "米歇尔·福柯提出的，以分析权力的形态、技术、过程和效果等为对象的研究路径，侧重于考察权力与知识之间的密切关系，如何形塑出“驯顺的身体”。譬如，在《规训与惩罚》中，他考察了“话语实践”即现代刑法学、犯罪"
+  },
+  {
+   "cn": "谱系调查法",
+   "en": "genealogical method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0666",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "通过制作系谱来追溯某家或家族、宗族的世系的方法；通过对调查人的家谱、族谱和亲属制度的调查分析，对于调查家族制度、婚姻制度以及民族迁徙等都有价值。谱系调查由现今一家一户的姓氏和名称、亲属称谓、直系和旁系"
+  },
+  {
+   "cn": "语言谱系分类",
+   "en": "genealogical classification of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0026",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史比较语言学的研究方法。把各种语言按亲属关系作出分类。在语言谱系分类中，最高的谱系单位是语系，同一语系中的语言在来源上是相同的；语系之下的语言，根据关系的亲疏程度而分为若干语族；语族之下又可按照同样"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

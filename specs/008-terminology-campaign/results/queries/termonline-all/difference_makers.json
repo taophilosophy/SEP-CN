@@ -1,0 +1,792 @@
+{
+ "key": "difference makers",
+ "term": "difference makers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:25:44+00:00",
+ "status": "ok",
+ "note": "variant=difference makers; 审定公布名词库=808; 海峡两岸名词对照库=304; 其他来源数据库=63; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "决策者",
+   "en": "decision maker",
+   "source": "风景园林名词",
+   "wordNumber": "03.0373",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "（1）广义是指决策机构、享有决策权力的人和对决策有较大影响的人。（2）狭义是指根据法律在政府中占决策职位的直接决策者。决策者具有法定的政策制定权力，参与政策制定的全过程。"
+  },
+  {
+   "cn": "视频制作师",
+   "en": "film maker",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.057",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "从事视频后期制作的专业工作人员。"
+  },
+  {
+   "cn": "录音制作者",
+   "en": "audio maker",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.04.001",
+   "subjectFullName": "编辑与出版学_著作权_邻接权",
+   "subjectName": "邻接权",
+   "publishYear": "2022",
+   "definition": "指录音制品的首次制作人。"
+  },
+  {
+   "cn": "录像制作者",
+   "en": "video maker",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.04.002",
+   "subjectFullName": "编辑与出版学_著作权_邻接权",
+   "subjectName": "邻接权",
+   "publishYear": "2022",
+   "definition": "指录像制品的首次制作人。"
+  },
+  {
+   "cn": "决策个体",
+   "en": "decision maker",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0234",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "参与决策的人。"
+  },
+  {
+   "cn": "挂枝",
+   "en": "widow maker",
+   "source": "林学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "林学_森林工程_森林采运",
+   "subjectName": "森林采运",
+   "publishYear": "2016",
+   "definition": "伐倒木的树枝勾挂到其他树冠或树干上的现象。"
+  },
+  {
+   "cn": "决策者",
+   "en": "policy maker",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0200",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "解决政策问题的最后决定者。"
+  },
+  {
+   "cn": "做市商",
+   "en": "market maker",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0511",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "在证券市场上，不断地向公众投资者报出某些特定证券的买卖价格(即双向报价)，并在该价位上接受公众投资者的买卖要求，以其自有资金和证券与投资者进行交易的特许交易商。"
+  },
+  {
+   "cn": "制冰机",
+   "en": "ice maker",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0281",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷应用",
+   "subjectName": "制冷应用",
+   "publishYear": "2013",
+   "definition": "将水由制冷系统中的制冷剂冷却后生成冰的制冷设备。"
+  },
+  {
+   "cn": "自动呼叫器",
+   "en": "call maker",
+   "source": "通信科学技术名词",
+   "wordNumber": "14.023",
+   "subjectFullName": "通信科学技术_通信终端",
+   "subjectName": "通信终端",
+   "publishYear": "2007",
+   "definition": "与电话机一起使用，能自动地发出预先录下的电话号码的呼叫器。"
+  },
+  {
+   "cn": "制冰机",
+   "en": "ice-maker",
+   "source": "水产名词",
+   "wordNumber": "09.445",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "快速自动制取不同形态冰的机械。"
+  },
+  {
+   "cn": "差异",
+   "en": "difference",
+   "source": "教育学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "以哲学表征事物相互区别和自身区别的范畴来表示身心障碍的不同类别和程度。"
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "数学名词",
+   "wordNumber": "04.0015",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差积",
+   "en": "different",
+   "source": "数学名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[有限]差分",
+   "en": "difference,finite difference",
+   "source": "数学名词",
+   "wordNumber": "010.0198",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标题党",
+   "en": "sensational headline maker",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.04",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "用过度夸张或歪曲等手段，制作与原文实际内容不符甚至颠覆原文本意的标题以吸引受众关注的写作者和传播者。"
+  },
+  {
+   "cn": "妇科肿瘤标志物",
+   "en": "gynecologic tumor maker",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.212",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_妇科肿瘤标志物",
+   "subjectName": "妇科肿瘤标志物",
+   "publishYear": "2022",
+   "definition": "在妇科肿瘤发生和增殖过程中，肿瘤细胞本身特征性存在或分泌的，或受肿瘤细胞刺激后宿主细胞所产生的，能反映肿瘤发生、发展或可用于监测肿瘤病程变化和治疗反应的一些特异性物质。主要存在于肿瘤患者的组织、体液和"
+  },
+  {
+   "cn": "管冰制冰机",
+   "en": "tube ice maker",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0287",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷应用",
+   "subjectName": "制冷应用",
+   "publishYear": "2013",
+   "definition": "生产管状冰的制冰机。"
+  },
+  {
+   "cn": "冰棒机",
+   "en": "ice lolly maker",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0288",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷应用",
+   "subjectName": "制冷应用",
+   "publishYear": "2013",
+   "definition": "生产冰棒的机器。"
+  },
+  {
+   "cn": "冰淇淋机",
+   "en": "ice cream maker",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0289",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷应用",
+   "subjectName": "制冷应用",
+   "publishYear": "2013",
+   "definition": "制造冰淇淋的机器。"
+  },
+  {
+   "cn": "联合出票人",
+   "en": "co-maker",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "厂商信用证",
+   "en": "maker’s credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "造波机",
+   "en": "wave generator\",\"wave maker",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "造波机",
+   "en": "wave generator\",\"wave maker",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "期票出票人",
+   "en": "maker of promissory note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "差分法",
+   "en": "difference method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分方程",
+   "en": "difference equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位相差",
+   "en": "phase difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向后差分",
+   "en": "backward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向前差分",
+   "en": "forward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迎风差分",
+   "en": "upwind difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "势差",
+   "en": "potential difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限差分",
+   "en": "finite difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿度差",
+   "en": "psychrometric difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "温差",
+   "en": "temperature difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "差分方程",
+   "en": "difference equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相［位］差",
+   "en": "phase difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众创空间",
+   "en": "maker space\ndevelop maker spaces",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"pace-maker\",\"pacer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领跑队员",
+   "en": "pace maker\",\"uncompetitive runner\",\"leader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以国为国，以天下为天下",
+   "en": "Rule a State or a Country with Different Methods",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坐忘",
+   "en": "Forget the Difference and Opposition Between Self and the Universe",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地因企因人分类帮扶",
+   "en": "to provide assistance specifically designed to suit different regions, enterprises and people",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  },
+  {
+   "cn": "差别检验",
+   "en": "difference test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对比较的产品的总体感官差异或特定感官性质差异进行的感官评价。要求评价员回答两个或两个以上的样品中是否存在感官差异，以得出两个或更多的样品间是否存在差异的结论。差别检验的结果分析是以每一类别的评价员数量"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "健康差异指数",
+   "en": "health difference index",
+   "source": "社会医学名词",
+   "wordNumber": "9.12",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康差异指数",
+   "publishYear": "2025",
+   "definition": "应用差异指数计算原理，综合某个社会经济特征（如收入、教育、职业等）的人口比重和患病比重指标，衡量不同社会经济特征人群的健康状况分布差异。测量健康公平性的指标，取值在0～1 之间，值越小表示公平性越好。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "体脂种族差异",
+   "en": "ethnic difference in body fat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体脂在不同种族间存在差别的现象。"
+  },
+  {
+   "cn": "消灭阶级和阶级差别",
+   "en": "eliminate class and class differences",
+   "source": "马克思主义",
+   "wordNumber": "03.0023",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会上不再存在任何阶级，人与人之间不再存在阶级关系。阶级是在社会生产力有了一定发展而又发展不足的条件下产生的。消灭阶级和阶级差别的物质前提是社会生产力的高度发展。阶级是否消亡是社会主义社会与共产主义社"
+  },
+  {
+   "cn": "药品差价比价",
+   "en": "price difference or ratio of drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "同种药品因剂型、规格或包装材料等方面存在差异而形成的价格之间的差额或比值。"
+  },
+  {
+   "cn": "生长发育性别差异",
+   "en": "sex difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同性别儿童在生长发育表现上存在差异的生长发育特点。"
+  },
+  {
+   "cn": "生长发育地区差异",
+   "en": "regional difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同地区儿童在生长发育表现上存在差异的生长发育特征。"
+  },
+  {
+   "cn": "生长发育种族差异",
+   "en": "ethnic difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同种族儿童在生长发育表现上存在差异的生长发育特征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

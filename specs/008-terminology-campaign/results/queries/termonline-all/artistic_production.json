@@ -1,0 +1,742 @@
+{
+ "key": "artistic production",
+ "term": "artistic production",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:32:07+00:00",
+ "status": "ok",
+ "note": "variant=artistic production; 审定公布名词库=3720; 海峡两岸名词对照库=879; 其他来源数据库=213; 预公布名词数据库=369; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "艺术插图",
+   "en": "artistic illustration",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.046",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "以艺术形象表示书刊内容的插图。"
+  },
+  {
+   "cn": "艺术价值",
+   "en": "artistic value",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "文化遗产在人类艺术创作、审美、时代风格等方面所具有的价值。"
+  },
+  {
+   "cn": "艺术节奏",
+   "en": "artistic rhythm",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "音乐、舞蹈和歌唱所具有的节奏。"
+  },
+  {
+   "cn": "艺术价值",
+   "en": "artistic value",
+   "source": "建筑学名词",
+   "wordNumber": "03.0393",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "文物具有丰富的艺术内涵，因而其艺术价值包括审美、欣赏、愉悦、借鉴以及美术史料等多方面。这些具有民族形式和地域特征的文化艺术作品是了解不同民族、文化艺术传统的重要资料，也是艺术创造的源泉。"
+  },
+  {
+   "cn": "艺术语体",
+   "en": "artistic style",
+   "source": "语言学名词",
+   "wordNumber": "08.274",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "书卷语体的一种。通过艺术形象反映客观世界、表达思想感情、感染受众。其本质特征是言语的形象性，服务于文艺领域，如各类文学作品。"
+  },
+  {
+   "cn": "艺术言语",
+   "en": "artistic speech",
+   "source": "语言学名词",
+   "wordNumber": "08.279",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "指艺术语体中用以描绘形象、抒发感情的言语，以表达的形象性、生动性和创新性为主要特征，为各种体裁的文艺作品，如小说、诗歌、散文、戏剧等所使用。"
+  },
+  {
+   "cn": "艺术语言",
+   "en": "artistic language",
+   "source": "语言学名词",
+   "wordNumber": "08.280",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "诗歌、小说、散文、戏剧等各种体裁文艺作品的语言，主要用来塑造艺术形象、表现作品主题和抒发思想感情。它以人民群众的口头语言为基础，经过作者的加工、提炼，富于形象性和艺术感染力。"
+  },
+  {
+   "cn": "艺术人体美",
+   "en": "artistic body beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.074",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "既包括绘画、摄影等艺术手段塑造的静态平面人体之美，也包括雕刻、演艺等艺术手段塑造的静态的或动态的立体人体之美。相对于医学人体美学研究的现实人体美，是艺术人体美学研究的基本对象。"
+  },
+  {
+   "cn": "医学艺术美",
+   "en": "medical artistic beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.033",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "包括医学标本、模型、挂图、插图、教学多媒体及与医学相关的各种绘画、雕塑、音乐等艺术创作之美的总和。"
+  },
+  {
+   "cn": "艺术言语修辞学",
+   "en": "artistic speech rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。以文艺作品语言为对象，研究文艺作品的语言组织、言语结构、作家风格和艺术修辞效果。"
+  },
+  {
+   "cn": "医学技艺美",
+   "en": "medical artistic beauty",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0012",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "美术编辑",
+   "en": "art editor;artistic editor",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.020",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "负责出版物美术设计或专职编辑美术出版物的编辑人员的职务名称。"
+  },
+  {
+   "cn": "文学艺术作品",
+   "en": "literary and artistic works",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.188",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "对社会生活进行形象的概括而创作的文学和艺术产品。"
+  },
+  {
+   "cn": "文艺团体",
+   "en": "literary and artistic group",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.187",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "主要反映当地戏剧、歌舞、曲艺、杂技的社会团体。"
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "动物学名词",
+   "wordNumber": "7.0544",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "一定时间内某个种群或生态系统新生产出的有机体的数量、重量或能量。通常以P表示。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "经济学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "人们通过改造自然，创造物质资料的过程。生产在任何社会条件下都是社会的生产，包括生产力和生产关系两个方面，生产同分配、交换、消费共同构成社会生产总过程。生产的社会性质因生产资料所有制的不同而不同。"
+  },
+  {
+   "cn": "产生式",
+   "en": "production",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0541",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "文法的核心成分，是一个二元组(α, β)（通常写成α→β），其中α和β是由变量和终极符组成的串，且α中必须含有变量。文法推导时，若句型中有一个子串α，那么可以用β替换这个子串。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0001",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "将原材料、能源和信息等各种输入转化为有形产品的过程。"
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity ",
+   "source": "草学名词",
+   "wordNumber": "2.0437",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "产品",
+   "en": "product",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.001",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "生产出来的可提供给市场的符合一定要求的物品。"
+  },
+  {
+   "cn": "艺术能力",
+   "en": "artistic ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术型",
+   "en": "artistic type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术搪瓷",
+   "en": "art enamel\",\"artistic enamel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生成物",
+   "en": "product",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "产量,生产量",
+   "en": "production\",\"yield",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初级生产量",
+   "en": "primary production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次级生产量",
+   "en": "secondary production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净生产量",
+   "en": "net production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总生产量",
+   "en": "gross production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成双产物",
+   "en": "pair production",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "切变生成项",
+   "en": "shear production",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气韵",
+   "en": "Artistic Appeal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "竞技体操",
+   "en": "artistic gymnastics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞技体操",
+   "en": "artistic gymnastics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息生产力",
+   "en": "information productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据生产力",
+   "en": "Data Productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "极致生产力",
+   "en": "extreme productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据商品",
+   "en": "data product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务产品化",
+   "en": "service productization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络产品",
+   "en": "network product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "艺术民俗学",
+   "en": "artistic folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0482",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从民俗学角度展开的对于艺术活动的阐释，并探索艺术活动与民俗整体之间内在关联的学科。"
+  },
+  {
+   "cn": "特立独行的艺术家",
+   "en": "maverick artist",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.31",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "具有独特艺术风格或行为习惯的艺术创作者，通常漠视艺术世界的其他人和惯例，不受这些规则约束。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "马克思主义",
+   "wordNumber": "02.0002",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以一定的劳动方式、一定的生产资料所有制为基础的劳动者与生产资料结合的形式，从而结合起来的人们改造自然及生产物质资料的过程。广义的生产除了物质财富之外，还包括精神财富的创造和人类自身生产等。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "个人、团队或组织在一定时间内完成的工作量。"
+  },
+  {
+   "cn": "能产性",
+   "en": "productivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0041",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①语言使用者能够使用并且理解无穷多的句子的创造性能力。是人类语言区别于其他动物交际系统的一个显著特征。②某一成分或模式构成新的词汇、形态和句法格式的性能。"
+  },
+  {
+   "cn": "氯产量",
+   "en": "chlorine production",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "二氧化氯与氯混合消毒剂发生器在正常额定工作状态下，单位时间产生氯的质量，单位以克每小时（g/h）或千克每小时（kg/h）表示。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "生产区",
+   "en": "production area",
+   "source": "消毒学",
+   "wordNumber": "5.1.6.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "由仓储库、生产车间和辅助生产车间等组成的区域。"
+  },
+  {
+   "cn": "生产用水",
+   "en": "production water",
+   "source": "消毒学",
+   "wordNumber": "5.1.6.4",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产工艺中使用的水，包括生活饮用水、纯化水等。"
+  },
+  {
+   "cn": "生产过程",
+   "en": "production process",
+   "source": "消毒学",
+   "wordNumber": "5.1.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品的过程。"
+  },
+  {
+   "cn": "生产批次",
+   "en": "production batch",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能追溯产品生产过程、生产班次等信息的标识，消毒产品的同一生产批次应为同一次投料、同一条生产线、同一班次生产的同种产品。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "生产反应堆",
+   "en": "production reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.7",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "一般指用来生产裂变燃料钚的核反应堆。"
+  },
+  {
+   "cn": "文化生产",
+   "en": "cultural production",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.5",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "文化创作者创造文化产品的过程和活动。"
+  },
+  {
+   "cn": "生产救助",
+   "en": "production assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会对有一定生产经营能力的贫困家庭或个人，从政策、资金、物资、技术、信息等方面给予扶持，使其通过生产经营活动摆脱贫困的社会救助制度。"
+  },
+  {
+   "cn": "物质生产",
+   "en": "material production",
+   "source": "马克思主义",
+   "wordNumber": "01.0152",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类生存和发展所必须的物质资料（生产资料和生活资料）的生产。物质生产是人类解决人与自然矛盾的最基本的实践，是其他一切实践活动的基础；是人类社会存在和发展的基础，决定、制约整个社会生活的一般过程。"
+  },
+  {
+   "cn": "精神生产",
+   "en": "spiritual production",
+   "source": "马克思主义",
+   "wordNumber": "01.0153",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义上是指包括自然科学在内的一切精神成果的产生、创造活动。狭义上是指政治法律思想、道德、艺术、宗教、哲学等社会意识形态的创作、生产活动。精神生产是在物质生产的基础上批判地继承前人思想遗产，反映和概括现"
+  },
+  {
+   "cn": "商品生产",
+   "en": "commodity production",
+   "source": "马克思主义",
+   "wordNumber": "02.0029",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过社会分工和协作，在所有制和交换基础上形成劳动产品的社会经济过程。商品生产是一个历史范畴，在历史上曾经有小商品生产（简单商品生产）、资本主义商品生产和社会主义商品生产等形式。商品生产是劳动过程和"
+  },
+  {
+   "cn": "生产管理",
+   "en": "production management",
+   "source": "马克思主义",
+   "wordNumber": "02.0136",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对企业的生产经营活动进行组织、计划、指挥、监督和调节等一系列职能的总称。旨在充分运用企业拥有的人力、物力、财力，使之发挥最大的效果，以达到企业的既定目标。"
+  },
+  {
+   "cn": "生产价格",
+   "en": "production price",
+   "source": "马克思主义",
+   "wordNumber": "02.0223",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的转化形式。它等于商品的成本价格加平均利润。商品价值转化为生产价格以平均利润率的形成为前提。利润转化为平均利润，价值就转化为生产价格。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

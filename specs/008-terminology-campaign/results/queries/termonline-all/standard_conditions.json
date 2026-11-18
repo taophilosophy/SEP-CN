@@ -1,0 +1,752 @@
+{
+ "key": "standard conditions",
+ "term": "standard conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:31:51+00:00",
+ "status": "ok",
+ "note": "variant=standard conditions; 审定公布名词库=2208; 海峡两岸名词对照库=668; 其他来源数据库=283; 预公布名词数据库=148; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "标准状态",
+   "en": "standard condition",
+   "source": "建筑学名词",
+   "wordNumber": "14.1073",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "为了在一定范围内按统一尺度计量气体体积而规定的温度和压力条件。一般把压力为101.325kPa、温度为0℃称为标准状态或物理标准状态。但不同国家、学科、行业规定的标准状态不尽相同，我国城市燃气行业和气"
+  },
+  {
+   "cn": "标准参考条件",
+   "en": "standard reference conditions",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0594",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "燃气轮机的额定值所应采用的假定条件。它包括①在压气机进气口(总压力、温度和相对湿度)和在透平排气法兰处(静压)为标准大气值。②用来冷却工质的冷却水或冷却空气的温度为15℃。③标准气体燃料(CH4)，其"
+  },
+  {
+   "cn": "标准大气条件",
+   "en": "standard atmospheric conditions",
+   "source": "电气工程名词",
+   "wordNumber": "12.062",
+   "subjectFullName": "电气工程_绝缘配合和高电压试验技术",
+   "subjectName": "绝缘配合和高电压试验技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "标准操作条件",
+   "en": "standard operating condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "在标准工艺条件、标准装置负荷下的操作条件。"
+  },
+  {
+   "cn": "标准参考条件",
+   "en": "standard reference condition",
+   "source": "电力名词",
+   "wordNumber": "10.516",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "规定燃气轮机的额定值时所采用的相对确定的参考条件。包括:①在压气机进气口和在透平排气法兰处的大气温度为15°C、大气压力为101.3kPa、大气相对湿度为60%;②用来冷却工质的冷却水或冷却空气的温度"
+  },
+  {
+   "cn": "标准工作条件",
+   "en": "standard operation condition",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1106",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "在合理安排的工作场所和工作环境下，由经过培训的操作人员，按照标准的工作方法，通过正常的努力去完成工作任务的工作方式。"
+  },
+  {
+   "cn": "标准环境条件",
+   "en": "standard ambient condition",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "13.0001",
+   "subjectFullName": "机械工程_流体机械_真空获得与应用设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "温度为20℃，相对湿度为65%，干燥空气大气压力为101.325kPa(1013.25mbar)的环境。"
+  },
+  {
+   "cn": "标准工作条件",
+   "en": "standard operating condition",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.219",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "标准大气状况",
+   "en": "standard atmospheric condition",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0845",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "标准大气条件",
+   "en": "standard reference atmosphere condition",
+   "source": "电力名词",
+   "wordNumber": "20.143",
+   "subjectFullName": "电力_高电压技术",
+   "subjectName": "高电压技术",
+   "publishYear": "2020",
+   "definition": "统一规定的大气条件,其值为:温度<img src='/root/syzx/static/spz/dianli3.20.143.01.png'/>=20°C;气压<img src='/root/syzx"
+  },
+  {
+   "cn": "标准气体状态",
+   "en": "standard reference condition for gases",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "13.0002",
+   "subjectFullName": "机械工程_流体机械_真空获得与应用设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "温度为0℃，压力为101.325kPa的气体状态。"
+  },
+  {
+   "cn": "工作条件和工资标准化",
+   "en": "work condition and wage standardization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0301",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "科学管理时期工会提出的保障性方案，主张从事同类工作的工人享有同样的工作条件，领取同样的工资，否定差别工资制。泰勒(Frederick W. Taylor)反对该方案，认为会挫伤提高生产率的个人积极性。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "标准状态",
+   "en": "standard condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标准反应条件",
+   "en": "standard reaction condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准，规范",
+   "en": "standard",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标定",
+   "en": "standardization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据标准",
+   "en": "metadata standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准组织实施",
+   "en": "Standard Implementation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准系统",
+   "en": "standard system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准培训",
+   "en": "standard training",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库标准",
+   "en": "database standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准手枪",
+   "en": "standard pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准自行车",
+   "en": "standard bicycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "及格标准",
+   "en": "qualifying standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三表",
+   "en": "Three Standards",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "按照规定的程序经协商一致制定并由公认机构批准，共同使用和重复使用的规则、导则、指南或特性的文件，旨在一定范围内获得最佳秩序。"
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为了在既定范围内获得最佳秩序，促进共同效益，对现实问题或潜在问题确立共同使用和重复使用的条款以及编制、发布和应用标准的活动。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "行业标准",
+   "en": "sector standard，industry standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "对没有国家标准而又需要在全国某个行业范围内统一技术要求，由国务院有关行政主管部门组织制定的公益类标准。"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard prevention",
+   "source": "消毒学",
+   "wordNumber": "1.7.2",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "基于患者的血液、体液、分泌物(不包括汗液)、排泄物、非完整皮肤和黏膜均可能具有传染性的原则，针对医疗机构所有患者和医务人员采取的一组预防感染的措施。包括手卫生，并根据预期可能的暴露选用手套、面罩、隔离"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "标准样品",
+   "en": "standard sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "足够均匀，具有一个或多个精确特性量值，可作为其他测量值是否准确的参照标准的样品。"
+  },
+  {
+   "cn": "标准菌株",
+   "en": "standard strain",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由国内或国际菌种保藏机构保藏，遗传学特性得到确认和保证并可追溯的菌株。是在给某细菌定名、分类记载和发表时，为了使定名准确和作为分类概念的准则，以纯粹活菌（可繁殖）状态所保存的菌种。"
+  },
+  {
+   "cn": "生物安全标准",
+   "en": "biosafety standard",
+   "source": "消毒学",
+   "wordNumber": "7.1.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "用于规范生物安全领域相关研究、开发、生产、检验和应用等活动，经协商一致制定并由公认机构批准，共同使用和重复使用的规范性文件。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "区域标准",
+   "en": "regional standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由区域标准化组织或区域标准组织通过并公开发布的标准。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

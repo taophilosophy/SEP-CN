@@ -1,0 +1,602 @@
+{
+ "key": "epistemological significance",
+ "term": "epistemological significance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:23:15+00:00",
+ "status": "ok",
+ "note": "variant=epistemological significance; 审定公布名词库=82; 海峡两岸名词对照库=44; 其他来源数据库=2; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "技术认识论",
+   "en": "epistemology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探究技术知识、技术发明、技术变迁的解释，创造人工物过程中设计的逻辑，技术问题的来源及类型，技术传统，技术设计的层级结构，技术思维等的理论。"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant digit,significant figure",
+   "source": "数学名词",
+   "wordNumber": "010.0062",
+   "subjectFullName": "数学_数值分析_误差论",
+   "subjectName": "误差论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "显著性分析",
+   "en": "significance analysis",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.189",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_系统生物学_功能基因组学",
+   "subjectName": "功能基因组学",
+   "publishYear": "2021",
+   "definition": "对零假设为真的情况下拒绝零假设所要承担的风险，即群体之间得以相互区别的能力的分析。"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "畜牧学名词",
+   "wordNumber": "04.646",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "用于确定否定域的概率值。即当无效假设成立时，检验统计量的取值落入否定域的概率。"
+  },
+  {
+   "cn": "显著危害",
+   "en": "significance hazard",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1629",
+   "subjectFullName": "食品科学技术_食品工程_食品工厂设计与管理_食品工厂管理",
+   "subjectName": "食品工厂管理",
+   "publishYear": "2020",
+   "definition": "有极大可能发生，并且一旦发生可能对消费者导致不可接受的危害，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "冶金学名词",
+   "wordNumber": "04.0710",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "统计计算由偶然误差引起的观测值与真值间差值的概率。"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.151",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "在统计推断中，观察值或假设检验统计量落入估计区间或拒绝域的概率。是统计推断错误的概率指标。通常以α表示，是一个临界概率值。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.150",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "假设检验时，当p≤α，拒绝<img src='/root/syzx/static/spz/changwai1.05.150.01.png'/>而接受<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "化学名词",
+   "wordNumber": "03.0205",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "统计检验时限制犯第一类弃真错误的概率不超过1个预定的数。"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "化学名词",
+   "wordNumber": "03.0204",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "为考察事先所做出的关于总体参数的原假设<img src='/root/syzx/static/spz/huaxue2.03.0203.1.png'/>同随机样本值之间在一定显著性水平α是否存在显著性差"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "心理学名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "运用概率来判断统计检验结果是否显著的一项指标。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际显著性",
+   "en": "practical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床显著性",
+   "en": "clinical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significance level",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显着性检验",
+   "en": "significance test",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "显著性水准",
+   "en": "significance level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特性层",
+   "en": "significant level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效波",
+   "en": "significant wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要天气",
+   "en": "significant weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant other",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性差异",
+   "en": "significant difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "千年大计、国家大事",
+   "en": "national project of millennial significance",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从总体中得到的样本统计量的概率或似然估计客观地评判研究假设能否为数据所支持的统计方法。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从统计的意义上来说，在一定的显著性水平之下，样本统计量可以拒绝虚无假设的显著性。与“实质显著性”相对。"
+  },
+  {
+   "cn": "实质显著性",
+   "en": "substantive significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从现实的意义上来说，一个统计结论具有现实意义的显著性。与“统计显著性”相对。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "假设检验达到统计学显著性的标准，即P 值小于预先设定的检验水准α或者置信区间不包括零假设界值。"
+  },
+  {
+   "cn": "生物学意义",
+   "en": "biological significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物对生物体健康具有实质性或显著影响（正面或负面）的统计学显著性效应"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significant level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在统计假设检验中，用样本资料推断总体时，犯拒绝虚无假设错误的可能性大小。通常以表示，是一个临界概率值；越小，犯拒绝虚无假设的错误可能性越小。"
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant others",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "对一个人的生活和幸福有着特别重要影响的任何他人，影响个体的自我评价和对重要社会规范的接受与认可。"
+  },
+  {
+   "cn": "显著疲劳",
+   "en": "significant fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第二阶段。机理是大脑皮层的保护性抑制加深和扩散，表现兴奋泛化和内抑制障碍同时出现。主要表现有：上课时打呵欠和瞌睡；对条件刺激的错误反应增多，反应量减少，反应时延长。"
+  },
+  {
+   "cn": "显着危害",
+   "en": "significant hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，有极大可能发生的生物、化学或物理危害，且一旦发生将对消费者造成不可接受的健康危险，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "最小有意义活度",
+   "en": "minimum significant activity",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对特定的测量方法，测量值大于本底响应的最小的有意义的数值。"
+  },
+  {
+   "cn": "最小有效活度",
+   "en": "minimum significant activity，MSA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平下，与本底有显著性区别的放射性活度值。"
+  },
+  {
+   "cn": "意义未明的单克隆丙种球蛋白血症",
+   "en": "monoclonal gammopathy of undetermined significance，MGUS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.24",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一类血液中可以检测到异常升高的单克隆蛋白（M蛋白），骨髓浆细胞比例小于10%，但无全身症状和明确脏器损伤的良性疾病。部分患者可能会主诉感觉麻木、疲乏等非特异性症状。少数MGUS可能在相当长的时间后进展"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

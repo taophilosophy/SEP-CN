@@ -1,0 +1,772 @@
+{
+ "key": "representative institutions",
+ "term": "representative institutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:25:06+00:00",
+ "status": "ok",
+ "note": "variant=representative institutions; 审定公布名词库=346; 海峡两岸名词对照库=72; 其他来源数据库=44; 预公布名词数据库=75; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "地域代表性",
+   "en": "regional representative",
+   "source": "风景园林名词",
+   "wordNumber": "04.0012",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "风景资源在区域范围内具有象征意义。"
+  },
+  {
+   "cn": "国家代表性",
+   "en": "nationally representative",
+   "source": "风景园林名词",
+   "wordNumber": "04.0011",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "风景资源具有国家象征意义。"
+  },
+  {
+   "cn": "代表性传承人",
+   "en": "representative inheritor",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "文化主管部门认定的已批准公布的非遗代表性项目中的传承人。"
+  },
+  {
+   "cn": "代表作",
+   "en": "representative work",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.054",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "最能显示作者素养、造诣、水准和个人风格的作品。"
+  },
+  {
+   "cn": "代表点",
+   "en": "representative point",
+   "source": "物理学名词",
+   "wordNumber": "05.0513",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "代表性启发法",
+   "en": "representative heuristics",
+   "source": "心理学名词",
+   "wordNumber": "02.158",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据一个业已存在的分类或信息组合来评估整件事的可能性的方法。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.320",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "在受照人群中接受剂量较高的有代表性的个人。国际放射防护委员会(ICRP)在101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念仍然"
+  },
+  {
+   "cn": "代表种",
+   "en": "representative species",
+   "source": "水产名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "群落中典型性或地理域中具代表性的物种。"
+  },
+  {
+   "cn": "代表性过电压",
+   "en": "representative overvoltage",
+   "source": "电气工程名词",
+   "wordNumber": "12.010",
+   "subjectFullName": "电气工程_绝缘配合和高电压试验技术",
+   "subjectName": "绝缘配合和高电压试验技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "代表流域",
+   "en": "representative basin",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "水利科学技术_水文、水资源_应用水文学（水利）",
+   "subjectName": "应用水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在一个自然地理条件和水文特征近似而难以普遍布设水文测站的较广地区内，选定代表性强、面积较小的流域进行系统的水文观测，为研究本地区各流域水文情况提供观测资料，这个流域称代表流域。"
+  },
+  {
+   "cn": "矿样代表性",
+   "en": "sample representativeness",
+   "source": "冶金学名词",
+   "wordNumber": "03.0747",
+   "subjectFullName": "冶金学_选矿_辅助设施及检测",
+   "subjectName": "辅助设施及检测",
+   "publishYear": "2019",
+   "definition": "所采集的矿样对原矿或物料性质的符合程度。"
+  },
+  {
+   "cn": "代表性偏误",
+   "en": "representativeness heuristics",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0147",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在不确定条件下，会抓住问题的某个特征(先验信息)直接推断结果，而不考虑这种特征出现的真实概率以及与特征有关的其他因素。"
+  },
+  {
+   "cn": "制度",
+   "en": "institution",
+   "source": "经济学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人类共同遵守的人为设定的办事规章或行动准则。诺思把制度定义为一个社会“博弈规则”，博弈规则可以分为两类：正式规则（如宪法、产权制度和合同）和非正式规则（如行为规范、道德和习俗）。许多情况下，制度也是某"
+  },
+  {
+   "cn": "代表性项目名录",
+   "en": "representative item list",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.140",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "各级人民政府建立的相应级别的非遗项目清单。将本行政区域内体现优秀传统文化，具有重大历史、文学、艺术、科学价值的非物质文化遗产项目予以公布保护的行为。"
+  },
+  {
+   "cn": "众议院",
+   "en": "House of Representatives",
+   "source": "世界历史名词",
+   "wordNumber": "03.0040",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美国国会两院之一，1787年建立，议员议席按各州人口比例分配。"
+  },
+  {
+   "cn": "新闻制度",
+   "en": "news institutions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "执政党、立法和行政机关用以保障、管理新闻媒体运作的规范系统与规则体系。这些规范与规则，既明示于正式的法律法规和文件章程，也可能以默契、惯例的方式产生作用和影响。"
+  },
+  {
+   "cn": "档案机构",
+   "en": "archival institution",
+   "source": "档案学名词",
+   "wordNumber": "01.04.008",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "依法承担档案管理职责的组织机构。"
+  },
+  {
+   "cn": "工程制度",
+   "en": "engineering institution",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "围绕工程活动形成的一系列行为规范、规章、条例和法律等的总和。"
+  },
+  {
+   "cn": "出版单位",
+   "en": "publishing institution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.027",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "从事出版活动的专业机构，主要有出版社、报社、杂志社等。"
+  },
+  {
+   "cn": "出版机构",
+   "en": "publishing institution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.028",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "承担编辑出版任务的机构。"
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代表性样本",
+   "en": "representative sample",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代表货币",
+   "en": "representative money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定代理人",
+   "en": "legal representative",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代表性启发法",
+   "en": "representativeness heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放款机构",
+   "en": "lending institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融机构",
+   "en": "financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资机构",
+   "en": "investing institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷机构",
+   "en": "credit institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托机构",
+   "en": "fiduciary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "机构投资者",
+   "en": "institutional investor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "由常设仲裁机构处理的仲裁",
+   "en": "institutional arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代表汇率",
+   "en": "representative rate of exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币机构",
+   "en": "international monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融机构",
+   "en": "international financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄机构",
+   "en": "mutual saving institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通金融机构",
+   "en": "ordinary financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人金融机构",
+   "en": "private financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世卫组织驻华代表处",
+   "en": "WHO China Representative Office",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "政府机构改革",
+   "en": "government institutional reform",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构监管",
+   "en": "supervision on Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境内机构投资者",
+   "en": "Qualified Domestic Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境外机构投资者",
+   "en": "Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉病毒所",
+   "en": "Wuhan Institute of Virology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提出抗议请求",
+   "en": "institute a protest protocol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构内控",
+   "en": "internal control of Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疾病预防控制机构",
+   "en": "disease prevention and control institutions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "the Party's institutional development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人民币合格境外机构投资者",
+   "en": "RMB Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.59",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "样本能够代表总体的程度。会影响运用统计学推论总体特征所具有的信心的范围和程度。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "代表性土壤样品",
+   "en": "representative soil samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤采集中所获得的一定量的土壤样品，它与被取样的总体在性质与特点上完全相同。"
+  },
+  {
+   "cn": "企业单位",
+   "en": "enterprise institution",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "受国家机关领导，实行独立经济核算制度，自负盈亏的直接从事工农业生产、交通运输和商业流通活动，产生的价值可用货币表现的法人或非法人单位。与“事业单位”相对。"
+  },
+  {
+   "cn": "社会制度",
+   "en": "social institution",
+   "source": "马克思主义",
+   "wordNumber": "03.0169",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会的经济、政治和文化等制度的统称。是相对持久的社会关系的定型化。可分为总体社会制度、不同领域的具体制度。建立何种社会制度取决于主要的经济生产方式和由此产生的社会结构。"
+  },
+  {
+   "cn": "婚姻制度",
+   "en": "marriage institution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0252",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "特定社会要求其成员在婚姻方面共同遵守的行为准则，由社会的习俗或法律所规定。人类社会先后存在过三种主要的婚姻制度：群婚制、偶婚制、一夫一妻制。一夫一妻是现代世界流行最广的婚姻制度，多数国家认为这种制度是"
+  },
+  {
+   "cn": "合亩制",
+   "en": "hemu institution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0292",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "海南黎族地区的带有原始家族公社残余的生产和社会组织。“合亩”是进行农业生产的基本单位，意为“有血缘关系的集体”，由若干户有血缘关系的父系小家庭组成，土地和耕牛公有，全体成员共同劳动，平均分配，成员有互"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "依法成立的从事疾病诊断、治疗活动的，以救死扶伤，防病治病，提供健康服务为宗旨的卫生机构。包括医院、妇幼保健院、卫生院、疗养院、门诊部、诊所、卫生所（室）、急救站等。"
+  },
+  {
+   "cn": "制度信任",
+   "en": "institutional trust",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个人、群体或组织对现有社会制度（包括规章、规则、法规、条例等契约形式）运作效率和公平程度的肯定和认可，即确认制度约束下的交往对象能确保个人、组织和群体生理、心理和社会活动的安全，进而认为制度约束下的交"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "制度性宗教",
+   "en": "institutional religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.16",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "具有系统的神学、仪式和组织，并独立于其他世俗制度的宗教形式，与之相对的是弥散性宗教(diffused religion）。"
+  },
+  {
+   "cn": "制度型福利",
+   "en": "institutional welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "国家通过税收制度和设施建设，保障全体社会成员医疗、教育、住房、养老、托幼等公共服务的社会福利模式。强调国家的责任与公民的社会权利。对应于普遍主义，社会成员获得社会福利服务的机会以及其标准一致。"
+  },
+  {
+   "cn": "机构照顾",
+   "en": "institutional care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.47",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由专门的照料机构予以照顾的照顾方式。在中国，老年人的专门照顾机构有社会福利院、敬老院、老年公寓、老年护理院等。"
+  },
+  {
+   "cn": "机构型监管",
+   "en": "institutional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "按照被监管机构的类型、监管主体的机构职能设立监管机构、分配监管职能的模式，如由审计部门监管财务，由卫生行政部门负责服务质量。"
+  },
+  {
+   "cn": "制度公正",
+   "en": "institutional justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0590000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "以权利义务关系为核心的人与人之间关系的合理状态，反映了规范化、定型化了的正式行为方式与交往关系结构的公正性。有助于维护稳定的社会秩序，构建融洽的社会关系，营造和谐的社会环境和生活环境，进而为人的自由全"
+  },
+  {
+   "cn": "制度性宗教",
+   "en": "institutional religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0305",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "华裔美国社会学、人类学家杨庆堃（C.K.Yang）的中国宗教类型学核心概念之一，与分散性宗教相对。制度性宗教是指借助独立的概念、仪式和结构，具有一种独立的社会制度属性的宗教类型。它主要有三个方面的特征"
+  },
+  {
+   "cn": "制度文化",
+   "en": "institutional culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0026",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类在生产活动和相互关系中所形成的运动原则和机制的总称，是一系列人为制定出来的规则、程序和道德、伦理的行为规范，包括经济制度、政治制度、法律制度、军事制度、教育制度等。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.64",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "提供医疗服务的机构。其职责是诊疗伤病、收容伤病员、健康检查、预防接种、接生等。可按所有权、服务对象、患者住院期的长短、规模大小、设备和编制等来分类，如传染病院、妇产科医院、联合诊所、医疗站、卫生所等。"
+  },
+  {
+   "cn": "党代表制度",
+   "en": "system of Party representatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0407",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党为确保对人民军队实行绝对领导的一项重要政治工作制度。1927年三湾改编时，毛泽东提出在营、连以上设立党代表，从此，在军队中设立党代表正式成为一项制度。"
+  },
+  {
+   "cn": "亲子制度",
+   "en": "institutions for parenthood",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.27",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "规范父母与子女间的权利义务关系的制度。包括父母子女关系如何发生、变更、消灭以及父母子女间的权利义务关系等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

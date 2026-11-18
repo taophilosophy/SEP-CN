@@ -1,0 +1,772 @@
+{
+ "key": "minority view",
+ "term": "minority view",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:23:40+00:00",
+ "status": "ok",
+ "note": "variant=minority view; 审定公布名词库=401; 海峡两岸名词对照库=127; 其他来源数据库=19; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "未成年人",
+   "en": "minor",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.022",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "一般指未满十八周岁的公民。各个国家未成年人的法定年龄会有所不同。在媒体伦理的语境中，该指称往往意味着需要新闻传播给予最大限度的保护，例如限制披露少年犯罪人或受害人的个人信息，对少儿不宜的传播内容进行分"
+  },
+  {
+   "cn": "未成年人",
+   "en": "minor",
+   "source": "运动医学名词",
+   "wordNumber": "09.023",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "依照其居住国法律规定，未达到成年年龄的男性或女性自然人。"
+  },
+  {
+   "cn": "辅修课程",
+   "en": "minor",
+   "source": "教育学名词",
+   "wordNumber": "05.077",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "本科生在主修课程外所学习的第二个专门领域的课程。课程量通常相当于主修课程的一半。"
+  },
+  {
+   "cn": "未成年人",
+   "en": "minor",
+   "source": "教育学名词",
+   "wordNumber": "07.084",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "未达到法定成年年龄的人。"
+  },
+  {
+   "cn": "子式",
+   "en": "minor",
+   "source": "数学名词",
+   "wordNumber": "04.0749",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全景",
+   "en": "full view,panoramic view",
+   "source": "物理学名词",
+   "wordNumber": "04.0476",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "少数股东权益",
+   "en": "minority interest",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "母公司对子公司不是完全控股时，子公司股东权益属于其他股东所有的部分。"
+  },
+  {
+   "cn": "少[数载流]子",
+   "en": "minority carrier",
+   "source": "物理学名词",
+   "wordNumber": "08.1577",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "少数人影响",
+   "en": "minority influence",
+   "source": "心理学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "群体中少数成员影响多数成员的态度、立场、观念的现象。"
+  },
+  {
+   "cn": "少数载流子",
+   "en": "minority carrier",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0009",
+   "subjectFullName": "材料科学技术_半导体材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "在p型半导体中，电子的浓度小于空穴的浓度，称电子为少数载流子。在n型半导体中，空穴为少数载流子。"
+  },
+  {
+   "cn": "少数民族语言",
+   "en": "minority language",
+   "source": "语言学名词",
+   "wordNumber": "12.149",
+   "subjectFullName": "语言学_社会语言学_语言接触与双语",
+   "subjectName": "语言接触与双语",
+   "publishYear": "2011",
+   "definition": "一个国家中人口占少数的民族使用的语言。例如中国的藏语。"
+  },
+  {
+   "cn": "民族语言学",
+   "en": "minority linguistics",
+   "source": "语言学名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "语言学_民族语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "民族语言学有两个不同的含义：一是指语言学和民族学相结合的交叉学科，英文称eth nolinguistics；二是指研究少数民族语言的语言学学科。中国多使用后一概念。中国的民族语言学包括对除汉语外的少数"
+  },
+  {
+   "cn": "少数民族地名",
+   "en": "minority name",
+   "source": "地理学名词",
+   "wordNumber": "28.024",
+   "subjectFullName": "地理学_地名学",
+   "subjectName": "地名学",
+   "publishYear": "2006",
+   "definition": "少数民族居住地区，以少数民族语言命名的地名。"
+  },
+  {
+   "cn": "少数载流子",
+   "en": "minority carrier",
+   "source": "电气工程名词",
+   "wordNumber": "02.239",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "少数载流子",
+   "en": "minority carrier",
+   "source": "电子学名词",
+   "wordNumber": "13.068",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "障景",
+   "en": "blocking view",
+   "source": "风景园林名词",
+   "wordNumber": "02.0096",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "通过视线遮挡、屏障景物，从而增加空间层次，或遮住干扰景观的事物的造景手法。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小调",
+   "en": "minor",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "小菱形肌",
+   "en": "rhomboideus minor\",\"rhomboid minor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "少数人影响",
+   "en": "minority influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "少数载流子",
+   "en": "minority carrier",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "少数民族地名",
+   "en": "minority name",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "少数优势",
+   "en": "minority advantage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "少数载流子",
+   "en": "minority carrier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小语种",
+   "en": "minority language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳环面观",
+   "en": "girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳面观",
+   "en": "valve view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视因数",
+   "en": "view factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底观光",
+   "en": "submarine view",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "版面视图",
+   "en": "layout view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表视图",
+   "en": "table view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反视立体图",
+   "en": "pseudoscopic view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "小节",
+   "en": "Minor Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小故",
+   "en": "Minor Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "少数民族",
+   "en": "ethnic minorities",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小外刈",
+   "en": "ko-soto-gari\",\"minor outer reaping throw\",\"minor outer skipping throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大体/小体",
+   "en": "The Major Organ and the Minor Organs",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小外挂",
+   "en": "ko-soto-gake\",\"minor outer hooking throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小内刈",
+   "en": "ko-uchi-gari\",\"minor inner reaping throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记录台",
+   "en": "minor official’s table\",\"score table\",\"scorer’s table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1537-2018 信息安全技术 未成年人移动终端保护产品测评准则》",
+   "en": "GA/T 1537-2018 Information security technology — Testing and evaluation criteria for mobile terminal products for protecting minors",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三者合议取多数规则",
+   "en": "majority of three rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "少数民族",
+   "en": "ethnic minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0028",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "新中国汉族之外的其他55 个民族的总称，因其人口规模或55 个民族的整体人口规模相对汉族人口规模较少而得名。1953 年人口普查各少数民族人口约占全国总人口6%，2020年人口普查各少数民族人口约占全"
+  },
+  {
+   "cn": "散居民族",
+   "en": "scattered minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "相对于聚居民族而言，包括居住在民族自治地方之外的少数民族以及居住在民族自治地方以内但未实行区域自治的少数民族。"
+  },
+  {
+   "cn": "世居民族",
+   "en": "native minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0031",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在某地居住三代以上的民族，中国学界该词在20 世纪80 年代之后频繁使用，常用来表述某一区域民族构成的历史变化，或描述民族文化的传统与特色。"
+  },
+  {
+   "cn": "民族语言学",
+   "en": "minority linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0001",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族语言学有两个不同的含义：一是指语言学和民族学相结合的交叉学科，英文称ethnolinguistics；二是指通用语言以外的少数民族语言的研究。中国多使用后一概念，特指对汉语以外的少数民族语言的研究"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "微小缺陷",
+   "en": "minor anomaly",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "对患者生存、健康和外貌影响小或无影响，通常不需要进行医学干预的出生缺陷"
+  },
+  {
+   "cn": "少数民族语言教学",
+   "en": "minority language teaching",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0192",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "教授少数民族语言能力知识的语言教学活动，也可指以少数民族语言为教学用语的语言教学活动。"
+  },
+  {
+   "cn": "少数民族预科",
+   "en": "ethnic minority preparatory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0083",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "根据少数民族学生的特点，利用普通高校教学、师资、设备等先进条件，对参加高考的少数民族考生适当降分、择优录取，进行特殊形式的培养，实施高等学校本、专科（高职）预备性教育的一种办学形式。"
+  },
+  {
+   "cn": "少数民族干部",
+   "en": "ethnic minority cadres",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0029",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在各类国家机关和国有企事业单位工作的具有少数民族身份的干部，是解决民族问题、执行民族政策的关键环节。"
+  },
+  {
+   "cn": "民族流动人口",
+   "en": "minority floating population",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0484",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "流动人口中以民族为属性的群体；具体是指民族人口中出于特定目的，在不改变其户籍所在地的情况下，作为本民族民族文化携带者，往来于户籍地与所在地之间的人口群体。"
+  },
+  {
+   "cn": "少数民族流动人口",
+   "en": "floating minority population",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0094",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "离开户籍所在地，户口未发生迁移，在空间上发生跨县、市、省的移动的少数民族人口。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "模范少数群体神话",
+   "en": "myth of model minority",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "最初由美国社会学家皮特森(William Petersen）提出，用来描述亚裔美国人凭借坚韧不拔、勤俭、遵纪守法、道德高尚等品质在美国社会经济方面取得的成功，成为美国社会中少数族裔的典范。实际上是夸大"
+  },
+  {
+   "cn": "少数民族地区的社会改革",
+   "en": "reform of minority areas",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0045",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立初期在少数民族地区进行的民主改革和社会主义改造。各民族社会改革，一般分为两步，第一步是民主改革，废除封建制度和奴隶制度；第二步是社会主义改造，消灭生产资料私有制，完成向社会主义的过渡"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "sound argument",
+ "term": "sound argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:30:42+00:00",
+ "status": "ok",
+ "note": "variant=sound argument; 审定公布名词库=986; 海峡两岸名词对照库=289; 其他来源数据库=77; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "能引起听觉的声波振动。"
+  },
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0008",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "能引起听觉的声振。"
+  },
+  {
+   "cn": "声[音]",
+   "en": "sound",
+   "source": "物理学名词",
+   "wordNumber": "04.2619",
+   "subjectFullName": "物理学_光学、声学_声学",
+   "subjectName": "声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "声[音]",
+   "en": "sound",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "soundness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0422",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "（1）一个逻辑系统能证明为真的命题必然在语义上是正确的。（2）一个随机算法拒绝一个否定输入的概率。"
+  },
+  {
+   "cn": "探空",
+   "en": "sounding",
+   "source": "大气科学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "用气球、风筝、滑翔机、飞机、火箭或其他手段携带仪器对大气中的各种要素和现象的测定。"
+  },
+  {
+   "cn": "海图水深",
+   "en": "sounding",
+   "source": "航海科技名词",
+   "wordNumber": "07.0292",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "soundness",
+   "source": "数学名词",
+   "wordNumber": "02.0114",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "地[震]声",
+   "en": "earthquake sound; Earth sound",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0317",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "地震发生时，传入空气中的一小部分地震波能量转换成人能听得见的气压波能量而形成的声音。 "
+  },
+  {
+   "cn": "探子",
+   "en": "probe,sound",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.552",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "地声",
+   "en": "earthquake sound",
+   "source": "地质学名词",
+   "wordNumber": "11.04.006",
+   "subjectFullName": "地质学_地震地质学_地震预报",
+   "subjectName": "地震预报",
+   "publishYear": "2026",
+   "definition": "临震前或地震时在地下发出的声响。常如闷雷声、载重车通过声、风声及金属碰撞声等，自远而近，一般在震中区听到地声时，地震随之发生。"
+  },
+  {
+   "cn": "肠鸣音",
+   "en": "gurgling sound",
+   "source": "普通外科学名词",
+   "wordNumber": "18.072",
+   "subjectFullName": "医学_普通外科学_小肠外科",
+   "subjectName": "小肠外科",
+   "publishYear": "2026",
+   "definition": "肠蠕动时，肠管内气体和液体随之而流动，从而产生的气过水声。"
+  },
+  {
+   "cn": "语音",
+   "en": "speech sound",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "发音器官发出的负载语义信息的声音。包括不同的谐音、短音和噪音。"
+  },
+  {
+   "cn": "科罗特科夫音",
+   "en": "Korotkoff sound",
+   "source": "麻醉学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_血流动力学监测",
+   "subjectName": "血流动力学监测",
+   "publishYear": "2024",
+   "definition": "用臂带绑扎上臂并加压，将肱动脉血管压瘪，然后再减压，随着外压力的降低，从臂带内听诊器中可以听到血流重新冲开血管后发出与脉搏同步的摩擦、冲击音。1905年由俄国学者科罗特科夫发现而被命名。"
+  },
+  {
+   "cn": "心音",
+   "en": "heart sound",
+   "source": "兽医学名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "在心动周期中，心肌收缩、瓣膜开闭、血流对心血管壁的冲击以及血流的涡流等引起振动所产生的声音。"
+  },
+  {
+   "cn": "金属音",
+   "en": "metallic sound",
+   "source": "兽医学名词",
+   "wordNumber": "13.018",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "类似敲打金属板的音响或钟鸣音，其音调较鼓音高朗。当肺部浅表有较大的空洞、四壁光滑而紧张并具有一定密闭性时，叩诊发出的声音；当气胸或心包积液、积气同时存在而达一定紧张度时，叩诊发出的声音。"
+  },
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探测",
+   "en": "sounding",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水深测量",
+   "en": "sounding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测深",
+   "en": "sounding",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回声测深",
+   "en": "echo sounding\",\"sonic sounding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "音笼",
+   "en": "sound cage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "声强",
+   "en": "sound intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音柱",
+   "en": "sound-post",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健全的投资",
+   "en": "sound investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "健全货币",
+   "en": "sound money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声波",
+   "en": "sound wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声波测距",
+   "en": "sound ranging",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声道",
+   "en": "sound channel",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声速",
+   "en": "sound speed",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声吸收， 吸声",
+   "en": "sound absorption",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声波测距",
+   "en": "sound ranging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "声压",
+   "en": "sound pressure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "声音强度",
+   "en": "sound intensity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测深",
+   "en": "sounding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "声音信号",
+   "en": "sound signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音",
+   "en": "Musical Sounds",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全景声采集",
+   "en": "panoramic sound acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浸入式声场",
+   "en": "immersive sound field",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文明",
+   "en": "sound cyberspace environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "声音警告系统",
+   "en": "sound warning system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天籁",
+   "en": "Sounds of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "声音信号",
+   "en": "acoustic signal\",\"sound signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "八音克谐",
+   "en": "Harmonious Combination of Eight Sounds",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "通过压电或线圈等不同样式，发射出足以威慑或使人员失去行动能力，但对人员或环境不会造成长期危害的高强度声响的声波类武器。"
+  },
+  {
+   "cn": "心包摩擦音",
+   "en": "pericardial friction sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "壁层与脏层心包由于生物性或理化因素致纤维蛋白沉积而粗糙，在心脏搏动时相互摩擦产生的声音，呈抓刮样、粗糙的高频声音。在心前区或胸骨左缘第3、4肋间最响亮，坐位前倾及呼气末更明显。"
+  },
+  {
+   "cn": "肠鸣音亢进",
+   "en": "hyperactive bowel sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.16",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "肠鸣音次数增多且肠鸣音响亮、高亢，甚至呈叮当声或金属音的体征。"
+  },
+  {
+   "cn": "肠鸣音减弱",
+   "en": "hypoactive bowel sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.17",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "肠蠕动减弱或数分钟才能听到一次的体征。"
+  },
+  {
+   "cn": "传音性耳聋",
+   "en": "sound conduction deafness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于与传送声音振动有关的听觉器官结构的异常而产生的一种耳聋。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "语音障碍",
+   "en": "speech sound disorder, SSD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "持续的语音生成困难影响了语音的可理解度，或妨碍了信息的口语式交流，不符合儿童年龄和发育阶段的预期，且缺陷不是由躯体、结构、神经系统或听力损害引起的一种交流障碍。"
+  },
+  {
+   "cn": "声光警示装置",
+   "en": "sound and light alarm device",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.15",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "能同时发出声响和灯光信号的一种报警信号装置。"
+  },
+  {
+   "cn": "强声武器损伤",
+   "en": "injuries of strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由超130 分贝(最高超180 分贝)定向发射装置构成，属“非致命性武器”。借大功率声波发生器产生高能声脉冲或高频声波，作用于人群可致听觉损伤、内脏紊乱、神经应激甚至行为失能。"
+  },
+  {
+   "cn": "切口",
+   "en": "wound",
+   "source": "消毒学",
+   "wordNumber": "4.6.20.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "外科医生在组织或器官上切开的伤口，包括清洁切口、清洁-污染切口、污染切口和感染切口。"
+  },
+  {
+   "cn": "伤口消毒",
+   "en": "wound disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对皮肤、黏膜及其他组织受伤破裂的地方进行的消毒处理。"
+  },
+  {
+   "cn": "清洁切口",
+   "en": "clean wound",
+   "source": "消毒学",
+   "wordNumber": "4.6.20.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "手术部位无炎症，也不进入呼吸道、消化道、未感染的泌尿道和生殖道的切口。清洁切口及时缝合，仅在必要时放置密闭引流管。"
+  },
+  {
+   "cn": "污染切口",
+   "en": "contaminated wound",
+   "source": "消毒学",
+   "wordNumber": "4.6.20.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "如手术涉及急性炎症但未化脓区域；胃肠道内容物有明显溢出污染；新鲜开放性创伤但未经及时扩创的手术；无菌技术有明显缺陷如开胸、心脏按压者由于事故造成的开放且新鲜伤口的手术；无菌操作存在重大缺陷（如开胸心脏"
+  },
+  {
+   "cn": "感染性切口",
+   "en": "infected wound",
+   "source": "消毒学",
+   "wordNumber": "4.6.20.1.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "有组织的陈旧创伤手术及已有临床感染或脏器穿孔手术的切口。"
+  },
+  {
+   "cn": "慈善募捐",
+   "en": "whip-round",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.95",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "公共机构或公益慈善组织为特定慈善活动事项向公众个人或企业募集款物的活动。"
+  },
+  {
+   "cn": "清洁-污染切口",
+   "en": "clean-contaminated wound",
+   "source": "消毒学",
+   "wordNumber": "4.6.20.1.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "上、下呼吸道，上、下消化道，泌尿生殖道手术或经以上器官的手术，如经口咽部手术、胆道手术、子宫全切除术、经直肠前列腺手术，以及开放性骨折或创伤等手术切口进入人体呼吸道、消化道、泌尿道和生殖道，但采取措施"
+  },
+  {
+   "cn": "有机结合氚",
+   "en": "organically bound tritium，OBT",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.14",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "生物体内蛋白质、多糖、磷脂等大分子中以氢键形式存在的氚。"
+  },
+  {
+   "cn": "伤口吸收",
+   "en": "absorption via the wound",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.29",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经伤口进入体液的过程。"
+  },
+  {
+   "cn": "战伤救治统计",
+   "en": "statistics of war wound treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤员救治情况资料的统计，原始资料来自战斗伤员登记册和住院病员登记簿，主要统计指标有火线救护种类构成比、后运方法构成比、抗休克成功率、手术率、平均手术时间、输液[血]率、平均输液[血]量等。"
+  },
+  {
+   "cn": "寒区火器伤",
+   "en": "gunshot wound in cold area",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.7.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区战创伤",
+   "subjectName": "寒区战创伤",
+   "publishYear": "2025",
+   "definition": "在寒冷条件下，火药燃烧或炸药爆炸所发射或抛掷的投射物击中机体造成的损伤，包括各类枪弹伤、弹片伤。复合寒冷环境暴露可导致伤情加重，继发冷损伤复合伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
