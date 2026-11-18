@@ -1,0 +1,782 @@
+{
+ "key": "expectation value",
+ "term": "expectation value",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:38:24+00:00",
+ "status": "ok",
+ "note": "variant=expectation value; 审定公布名词库=2592; 海峡两岸名词对照库=657; 其他来源数据库=72; 预公布名词数据库=140; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "物理学名词",
+   "wordNumber": "06.0556",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "冶金学名词",
+   "wordNumber": "04.0684",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "在概率和统计学中，变量的输出值乘以其概率的总和，亦即该变量输出值的平均数。"
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "化学名词",
+   "wordNumber": "03.0140",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "随机变量x一切可能取值依概率加权的统计平均值。表征概率分布的中心位置。"
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "经济学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "随机变量的所有各种可能数值以取得该数值的概率为权数的加权平均数。"
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "药学名词",
+   "wordNumber": "10.067",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "某个变量所有的可能取值按发生的概率进行加权后的平均数。"
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value,E-value",
+   "source": "生物物理学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在基本局部比对搜索工具中用于描述随机背景噪声的参数。反映匹配随机性发生的可能性，即在对一条序列在数据库中进行BLAST搜索时得到具有相似性打分S的匹配结果时，对于相同长度随机序列期望会得到的相似性打分"
+  },
+  {
+   "cn": "希望值",
+   "en": "desired value,expected value",
+   "source": "自动化名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "土地期望价",
+   "en": "land expectation value",
+   "source": "林学名词",
+   "wordNumber": "06.298",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "在该土地上的经营活动永续进行，并能够取得期望的纯收益的前价合计。"
+  },
+  {
+   "cn": "森林期望价",
+   "en": "forest expectation value",
+   "source": "林学名词",
+   "wordNumber": "06.299",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "森林将来的价值。"
+  },
+  {
+   "cn": "最大期望收益准则",
+   "en": "expected monetary value",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0185",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在风险型决策问题中，以收益的期望值最大为决策的判别准则。"
+  },
+  {
+   "cn": "林地期望值",
+   "en": "woodland expected value",
+   "source": "林学名词",
+   "wordNumber": "13.136",
+   "subjectFullName": "林学_林业经济_林业生产与服务",
+   "subjectName": "林业生产与服务",
+   "publishYear": "2016",
+   "definition": "将某一林地永久取得的土地纯收益按一定利息率贴现到现在的价值总量。"
+  },
+  {
+   "cn": "期望值判据",
+   "en": "expected value criterion",
+   "source": "化学工程名词",
+   "wordNumber": "05.175",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预期",
+   "en": "expectation",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "对事物未来发展变化趋势的预先设想。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.411",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "(1)对以概率<img src='/root/syzx/static/spz/fangshefanghu1.04.411.1.png'/>取值<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "语言学名词",
+   "wordNumber": "11.155",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "随机变量的一种数字特征。描述了随机变量的平均值，是随机变量按其取值概率的加权平均。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectancy",
+   "source": "心理学名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "主观上希望某一特定事件发生的心理倾向。"
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of completely information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在没有完全信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "抽样信息期望值",
+   "en": "expected value of sample information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "极小贝叶斯风险和极小期望值之差。"
+  },
+  {
+   "cn": "预期货币价值分析",
+   "en": "expected monetary value analysis,EMV analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0406",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "当将来涉及可能发生也可能不发生的复杂情况时，计算平均结果的统计技术。这种技术经常在利用决策树分析时使用。"
+  },
+  {
+   "cn": "负面预期",
+   "en": "negative expectation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.062",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "睡眠障碍患者在睡前消极的想法。是一种消极甚至不符合现实的思维模式，如“我必须服用安眠药才睡得着”。"
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "期望价值",
+   "en": "expectancy value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "期望值判据",
+   "en": "expected value criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "期望价值理论",
+   "en": "expectancy value theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社会期望",
+   "en": "social expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "期望理论",
+   "en": "expectancy theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "预期收益",
+   "en": "expected yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望， 估计寿命",
+   "en": "life expectance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人口预期寿命",
+   "en": "life expectance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望值",
+   "en": "life expectancy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "值",
+   "en": "value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ值",
+   "en": "δ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "τ值",
+   "en": "τ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "预期价值",
+   "en": "expected value (EV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "期望[值]",
+   "en": "expectation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectation maximization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杂凑值",
+   "en": "hash value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新分",
+   "en": "new value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马分值",
+   "en": "vault value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息期望值",
+   "en": "expected value of information",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "由于获得更多关于不确定性信息而出现的预期价值。"
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of perfect information,EVPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "决策论里在没有完全卫生信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "样本信息期望值",
+   "en": "expected value of sample information,EVSI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "决策者在做出决策之前通过获取额外的样本从而可以获得对疾病治疗效果等预期效用的合理估计，"
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会或群体对处于一定角色位置的个体所应表现出来的行为的一种期待。这种角色的行为是被社会规范化了的行为，是社会对个体的制约，亦是社会整合的必要前提。"
+  },
+  {
+   "cn": "角色期望",
+   "en": "role expectation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "群体或社会对病患角色行为所持有的期待和要求。"
+  },
+  {
+   "cn": "期望频次",
+   "en": "expected ffrequency",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.110",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生的平均次数。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.23",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "期望寿命",
+   "publishYear": "2025",
+   "definition": "在一定的年龄别死亡率水平下，同时出生的一代人活到某一岁数时，尚能生存的平均年数。反映居民健康水平和社会经济发展水平及医疗卫生服务水平。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据一个国家或地区的某一人群的年龄组死亡率，通过寿命表计算某一年龄的人能够存活的平均年数。"
+  },
+  {
+   "cn": "部分完全信息期望值",
+   "en": "expected value of partial perfect information,EVPPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "针对一个随机变量若所收集的信息为不完全信息，则在拥有不完全信息后的最大期望值（即不完全信息期望值）与未拥有此不完全信息时的最大期望值之差。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "健康预期寿命",
+   "en": "active life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "衡量一个人处于健康状态的预期存活年数。"
+  },
+  {
+   "cn": "预期效用理论",
+   "en": "expected utility theory",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "决策者在面对风险或不确定的前景时，基于期望效用最大化原则，通过比较期望效用值来做出期望效用最大化的决策行为。"
+  },
+  {
+   "cn": "活动期望寿命",
+   "en": "activity life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.27",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "活动期望寿命",
+   "publishYear": "2025",
+   "definition": "以日常生活自理能力的丧失作为观察终点代替普通寿命表中的死亡，通过扣除处于日常生活自理能力丧失状态下所消耗的期望寿命，从而得到日常生活自理状态下的预期平均生存年数。反映人们能维持良好的日常生活活动功能的"
+  },
+  {
+   "cn": "健康期望寿命",
+   "en": "healthy life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.29",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康期望寿命",
+   "publishYear": "2025",
+   "definition": "扣除死亡和伤残影响之后的完全健康状况下的期望寿命。综合反映生命的数量和质量。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "期望破灭的辩证法",
+   "en": "dialectic of shattered expectations",
+   "source": "马克思主义",
+   "wordNumber": "05.0081",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "本·阿格尔（Ben Ager）在《西方马克思主义概论》中认为，在资本主义制度下，资本家无限追求利润以及异化消费的出现，必然导致资源浪费、过度开发、环境破坏，爆发生态危机，使人们无限获取商品的期望的破灭"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

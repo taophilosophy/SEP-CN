@@ -1,0 +1,812 @@
+{
+ "key": "line segment",
+ "term": "line segment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:31:18+00:00",
+ "status": "ok",
+ "note": "variant=line segment; 审定公布名词库=5764; 海峡两岸名词对照库=1851; 其他来源数据库=339; 预公布名词数据库=185; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "线段",
+   "en": "line segment",
+   "source": "数学名词",
+   "wordNumber": "08.0018",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "染色体片段置换系",
+   "en": "chromosomal segment substitution line",
+   "source": "农学名词",
+   "wordNumber": "06.428",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "以某一亲本为受体，另一亲本为供体，在受体中建立的一套覆盖供体亲本全部基因组且相互重叠的染色体片段置换系群体。"
+  },
+  {
+   "cn": "线条",
+   "en": "line",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.234",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "横排的期刊通常分为两栏。版面编排时勾画的或曲或直、或粗或细的线。可以起到间隔不同内容、强调重要内容、增加版面变化、引导读者视线流动等作用。"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0604",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在偏序结构中的一个最大全序子结构称为一条线。"
+  },
+  {
+   "cn": "行",
+   "en": "line",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0654",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "打印机横向打印的单位。"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.694",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一系列按序排列的坐标值，它表示在给定的比例尺中，由于太窄而无法定量表示的地理特征的形状，或表示没有面积的线特征。"
+  },
+  {
+   "cn": "钓线",
+   "en": "line",
+   "source": "水产名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "连接钓钩的丝、线或细绳。"
+  },
+  {
+   "cn": "测线",
+   "en": "line",
+   "source": "石油名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "数学名词",
+   "wordNumber": "08.0013",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "衬里",
+   "en": "lining",
+   "source": "船舶工程名词",
+   "wordNumber": "11.077",
+   "subjectFullName": "船舶工程_船舶腐蚀与防护",
+   "subjectName": "船舶腐蚀与防护",
+   "publishYear": "1998",
+   "definition": "在管道或容器内表面复合的一层耐蚀材料。"
+  },
+  {
+   "cn": "衬砌",
+   "en": "lining",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0676",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[货车]内墙板",
+   "en": "lining",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0452",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "衬里",
+   "en": "lining",
+   "source": "化学工程名词",
+   "wordNumber": "03.810",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_粉碎、分离与团聚",
+   "subjectName": "粉碎、分离与团聚",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "衬里",
+   "en": "lining",
+   "source": "石油名词",
+   "wordNumber": "09.0314",
+   "subjectFullName": "石油_油气收集与储运工程_油田集输的腐蚀",
+   "subjectName": "油田集输的腐蚀",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "segment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在卫生信息交换标准（HL7）中，数据字段的一个逻辑组合。"
+  },
+  {
+   "cn": "网段",
+   "en": "segment",
+   "source": "电力名词",
+   "wordNumber": "12.185",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "现场总线网络中使用同一物理层直接通信的那一部分。通过中继器连接多个网段可组成完整的现场总线网络。"
+  },
+  {
+   "cn": "扇形段",
+   "en": "segment",
+   "source": "冶金学名词",
+   "wordNumber": "05.1515",
+   "subjectFullName": "冶金学_钢铁冶金_铸造与凝固",
+   "subjectName": "铸造与凝固",
+   "publishYear": "2019",
+   "definition": "由几组辊子和喷嘴组成的、曲率与铸坯相同的整体框架结构。"
+  },
+  {
+   "cn": "齿条",
+   "en": "segment",
+   "source": "植物学名词",
+   "wordNumber": "07.0141",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "藓类中具两层蒴齿的内齿层中每两条状物中较宽的一个构造。"
+  },
+  {
+   "cn": "分割",
+   "en": "segment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "按照组织结构的特征分别提取图像的处理过程。"
+  },
+  {
+   "cn": "全裂片",
+   "en": "segment",
+   "source": "植物学名词",
+   "wordNumber": "03.0135",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "全裂叶的每个裂片。如掌状全裂叶的裂片。"
+  },
+  {
+   "cn": "品系",
+   "en": "line",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型线图",
+   "en": "lines plan\",\"lines",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "衬里",
+   "en": "lining",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衬料",
+   "en": "lining",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "衬里",
+   "en": "lining",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "齿条",
+   "en": "segment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全裂片",
+   "en": "segment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "链节",
+   "en": "segment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线段",
+   "en": "segment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体节",
+   "en": "segment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图段",
+   "en": "segment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "segment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "节体",
+   "en": "segmenter",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分节",
+   "en": "segmentation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分节",
+   "en": "segmentation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分段",
+   "en": "segmentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"half-line\",\"halfway line\",\"midfielder line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"demarcation line\",\"field line\",\"limit line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "central line\",\"division line\",\"midcourt line\",\"net line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"division line\",\"midcourt line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泳道标志线",
+   "en": "bottom line\",\"lane line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泳道标志线",
+   "en": "bottom line\",\"lane line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"halfway line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"field line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横线",
+   "en": "cross line\",\"warning line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横线",
+   "en": "cross line\",\"warning line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直道",
+   "en": "straight line\",\"stretch line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裂变分支",
+   "en": "segment",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "宗族体系或部落中的各级分支。部落及其分支之间关系不仅表现为血缘的和地缘的，还呈现为既分裂又融合的对立趋势之间的均衡。埃文斯-普里查德(E.E.Evens-Prichard）提出。"
+  },
+  {
+   "cn": "贫困线",
+   "en": "poverty line",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "对因各种原因造成收入难以维持基本生活的个人或家庭进行救助而制定的收入标准线。以衡量在一定的时间、空间和社会发展阶段的条件下，维持人们的基本生存所必需消费的物品和服务的最低费用。"
+  },
+  {
+   "cn": "群众路线",
+   "en": "mass line",
+   "source": "马克思主义",
+   "wordNumber": "01.0246",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党最根本的政治路线、组织路线、认识路线和工作路线。主要内容是：一切为了群众、一切依靠群众和从群众中来、到群众中去。它是以毛泽东为代表的中国共产党人在长期斗争中形成的科学的领导方法，也是毛泽东思"
+  },
+  {
+   "cn": "封顶线",
+   "en": "limit line",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构对投保人医疗费用进行补偿的补偿费最高限额，限额以上的费用由投保人个人支付"
+  },
+  {
+   "cn": "汞线",
+   "en": "mercury line",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.13",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "慢性汞中毒的特征性表现，即汞中毒会严重影响牙齿发育，导致牙釉质形成异常。"
+  },
+  {
+   "cn": "亲系",
+   "en": "parent line",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0398",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "亲属间的血缘联系。从历史上看，亲系可分为三种：①男系亲和女系亲。封建宗法制度下，以男子为血统联络的亲属为男系亲，如男方的父母、伯、叔、姑、舅、姨等；以女子为血统联络的亲属为女系亲，如女方的父母、伯、叔"
+  },
+  {
+   "cn": "社会分割",
+   "en": "social segmentation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "由于社会分层的固化（封闭性）和社会流动相对低下，社会成员处于被强制划分成不同群体的隔离状态。古代种姓制度、奴隶制度、封建农奴制度是其典型。"
+  },
+  {
+   "cn": "铅线",
+   "en": "Burton's line",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.12",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为慢性铅中毒的特征性表现之一，具体表现为牙龈上出现蓝紫色线，是由循环铅与口腔细菌活动释放的硫离子发生反应生成的硫化铅沉积在牙齿和牙龈的交界处所形成。"
+  },
+  {
+   "cn": "党的思想路线",
+   "en": "Partys ideological line",
+   "source": "马克思主义",
+   "wordNumber": "03.0338",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党认识问题、分析问题、处理问题所遵循的最根本的指导原则和思想基础，即一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。思想路线这个概念,是毛泽东1930年在《反对本本主义》一"
+  },
+  {
+   "cn": "党的组织路线",
+   "en": "partys organizational line",
+   "source": "马克思主义",
+   "wordNumber": "03.0483",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党根据一定历史时期党的政治路线而规定的关于组织工作的根本方针和准则。包括组织领导、组织原则、组织制度、组织机构、党员和干部标准、党的干部政策和干部队伍建设、党内生活准则等。"
+  },
+  {
+   "cn": "党的干部路线",
+   "en": "partys cadre line",
+   "source": "马克思主义",
+   "wordNumber": "03.0486",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党为了实现自己的政治路线所规定的干部工作必须遵循的行为准则。是组织路线的组成部分，是实现政治路线的保证。毛泽东提出的干部路线的基本内容是坚持任人唯贤，按照德才兼备的标准选拔干部。"
+  },
+  {
+   "cn": "按条目预算",
+   "en": "line-item budget",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.15",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者根据卫生服务提供者在一段特定时间内投入的人力、设备、药品等资源项目或功能分配预算，支付固定的金额。"
+  },
+  {
+   "cn": "分支世系制度",
+   "en": "segmental lineage systems",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "一种部落组织结构中的机制，它以单系血缘和亲属为基础，各类世系组织在军事冲突期间暂时会加强团结。"
+  },
+  {
+   "cn": "分支世系制度",
+   "en": "segmental lineage systems",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0416",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种单系继嗣原理模式，用来解释无首领或无核心组织的社会的平衡功能。指部落组织结构中的一种机制，是以单系血缘和亲属为基础，各类世系组织在军事冲突期间暂时会加强团结。这种制度中，每个人分属多重的血缘分支，"
+  },
+  {
+   "cn": "消费者预算线",
+   "en": "consumer's budget line",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者在收入和商品（服务）价格既定的条件下能够买到的两种商品（服务）数量的最大组合点的轨迹。"
+  },
+  {
+   "cn": "国际贫困标准",
+   "en": " international poverty line standard",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "经济合作与发展组织在组织提出的贫困标准，一般以一个国家或地区社会中位收入或平均收入的50%作为这个国家或地区的贫困线。"
+  },
+  {
+   "cn": "土地革命路线",
+   "en": "line of agrarian revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0342",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1931年春总结土地革命的经验，制定出一条完整的土地革命路线，即：依靠贫农、雇农，联合中农，限制富农，保护中小工商业者，消灭地主阶级，变封建半封建的土地所有制为农民的土地所有制。是第二次国内革命"
+  },
+  {
+   "cn": "劳动力市场分割理论",
+   "en": "labor market segmentation theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.50",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受制度和社会性因素的影响而存在的主要和次要劳动力市场的二元划分。主要劳动力市场收入高、工作稳定、工作条件好、培训机会多、具有良好的晋升机制；次要劳动力市场则与之相反，其收入低、工作不稳定、工作条件差、"
+  },
+  {
+   "cn": "中央导管相关血流感染",
+   "en": "central line associated-bloodstream infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.21.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在留置中央导管期间或拔出中央导管48小时内发生的与其他部位存在的感染无关的原发性血流感染。"
+  },
+  {
+   "cn": "新民主主义革命的总路线",
+   "en": "general line of newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0327",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新民主主义革命时期的政治路线。毛泽东1948年《在晋绥干部会议上的讲话》中对新民主主义革命的总路线做了完整的科学表述，即“无产阶级领导的，人民大众的，反对帝国主义、封建主义和官僚资本主义的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

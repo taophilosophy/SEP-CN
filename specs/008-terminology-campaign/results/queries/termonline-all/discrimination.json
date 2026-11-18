@@ -1,0 +1,612 @@
+{
+ "key": "discrimination",
+ "term": "discrimination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:26:41+00:00",
+ "status": "ok",
+ "note": "variant=discrimination; 审定公布名词库=134; 海峡两岸名词对照库=59; 其他来源数据库=4; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.036",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "不公正、不公平地对待某类个人或群体的态度、行为、规定和政策。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "经济学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "仅仅由于种族、宗教集团、性别、年龄或其他个人特征的不同，其他条件相似的个人会得到不同机会的现象。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "discrimination",
+   "source": "物理学名词",
+   "wordNumber": "01.0130",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "02.239",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "感知觉中对于刺激与刺激之间差别的区分能力。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "07.120",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对不属于自身群体成员的消极态度与行为。"
+  },
+  {
+   "cn": "事件分辨力",
+   "en": "separating capacity,discrimination",
+   "source": "电力名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "能正确区分事件发生顺序的最小时间间隔。"
+  },
+  {
+   "cn": "甄别器",
+   "en": "discriminator",
+   "source": "核医学名词",
+   "wordNumber": "03.0261",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "设置一种甄别电压，只允许超过一定高度的电脉冲通过，而将低于该高度的电脉冲“甄别”出去(不予记录)的仪器。可用来消除若干低能量的本底信号干扰提高信噪比。"
+  },
+  {
+   "cn": "判别标识",
+   "en": "discriminant",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2335",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "可用于识别判定不同类型事件的地震信号的特征性标识。 "
+  },
+  {
+   "cn": "判别式",
+   "en": "discriminant",
+   "source": "数学名词",
+   "wordNumber": "04.0232",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "discrimination;differentiation",
+   "source": "行为医学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "通过选择性强化和消退习得对条件刺激及其相近（或类似）刺激做出不同反应的过程。"
+  },
+  {
+   "cn": "歧视系数",
+   "en": "discrimination coefficient",
+   "source": "经济学名词",
+   "wordNumber": "07.113",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "具有歧视偏好的雇主对与雇佣受歧视群体的成员所感受到的主观或心理成本的强度即为歧视系数。歧视系数可以用货币来计量，等于雇主对于受歧视群体所愿意提供的雇佣工资与雇主对于不受歧视的群体所愿意提供的雇佣工资两"
+  },
+  {
+   "cn": "辨别阈",
+   "en": "discrimination threshold",
+   "source": "生理学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别阈",
+   "en": "discrimination threshold",
+   "source": "电力名词",
+   "wordNumber": "02.165",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "引起相应示值不可检测到变化的被测量值的最大变化。"
+  },
+  {
+   "cn": "甄别阈",
+   "en": "discrimination threshold",
+   "source": "核医学名词",
+   "wordNumber": "03.0262",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "在甄别器上设置的一种用于阻挡低于或高于该电压的脉冲通过的电压门槛(甄别电压)。分为上甄别阈和下甄别阈，只允许上、下甄别阈之间的电脉冲通过并记录。"
+  },
+  {
+   "cn": "鉴别阈",
+   "en": "discrimination threshold",
+   "source": "计量学名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "引起相应示值不可检测到变化的被测量值的最大变化。"
+  },
+  {
+   "cn": "鉴别力阈",
+   "en": "discrimination threshold",
+   "source": "计量学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "计量学_压力、真空_活塞式压力计",
+   "subjectName": "活塞式压力计",
+   "publishYear": "2015",
+   "definition": "在规定的条件下，使活塞压力计平衡状态破坏的最小质量值。"
+  },
+  {
+   "cn": "鉴别指数",
+   "en": "discrimination index",
+   "source": "心理学名词",
+   "wordNumber": "03.222",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "测验题目鉴别力水平的指标。计算公式为：D=𝑃H-𝑃L，式中𝑃H、𝑃L分别为高、低分组答对该题人数的百分比。"
+  },
+  {
+   "cn": "区分效度",
+   "en": "discrimination validity",
+   "source": "心理学名词",
+   "wordNumber": "03.230",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一个测验与另一个具有不同构想的测验分数之间的相关程度。"
+  },
+  {
+   "cn": "鉴别力[阈]",
+   "en": "discrimination [threshold]",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.204",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辨音",
+   "en": "tonal discrimination",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.32",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "区分不同声音的感知过程。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "识别子",
+   "en": "discriminator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "［可］区辨性",
+   "en": "discriminability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "差别关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "歧视性关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辨别刺激,分辨刺激",
+   "en": "discrimination stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别指数",
+   "en": "discrimination index",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别学习",
+   "en": "discrimination learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别学习",
+   "en": "discrimination learning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "性别歧视",
+   "en": "sex discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目区分度,项目鉴别力",
+   "en": "item discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性辨别",
+   "en": "conditioned discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同时性辨别",
+   "en": "simultaneous discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘辨别",
+   "en": "kin discrimination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质量歧视效应",
+   "en": "mass discrimination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费率差别区别对待",
+   "en": "rate discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格歧视",
+   "en": "price discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易歧视",
+   "en": "trade discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全歧视",
+   "en": "perfect discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融歧视",
+   "en": "financial discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎思明辨",
+   "en": "Careful Reflection and Clear Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于具有某些个人特征（如年龄、性别、身体素质、地域、国籍、种族、宗教信仰），人们在社会生活的某些方面（如教育、就业、婚姻）受到外界（如某些机构、某方面政策）不同于他人、他群体的不平等、不公正的对待的现"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.115",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "不平等地、差别对待个体或群体、组织的行为。"
+  },
+  {
+   "cn": "文化歧视",
+   "en": "cultural discrimination",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不公正或不平等地对待与自身文化基本上处于平等地位的文化（但从某一角度进行比较时，某一文化会显出某些缺陷与劣势）。通常建立在文化偏见的态度或情感之上。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.45",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "民族歧视",
+   "en": "ethnic discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0043",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "按照民族成分划分人们的社会地位和法律地位，限制和侵犯某些民族的基本权利的现象。民族歧视对民族团结、社会稳定和人类的文明进步都极其有害，受到大多数国家法律的禁止和人民的反对，只有消灭剥削制度和民族压迫制"
+  },
+  {
+   "cn": "语言歧视",
+   "en": "language discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0169",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "因所使用的语言与主流社会不一致而在社会生活中受到不公正对待的现象。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会医学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“分歧效度”。基于多重指标所测量的概念或特质的不相关关系，通过计算指标之间的不相关关系而测量其效度的方法。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "劳动力市场歧视",
+   "en": "labor market discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.56",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在劳动力市场上雇主因为某种社会价值观念、风俗习惯以及个人偏好等非效率、非经济因素，而对具有相同生产率、但具有诸如宗教、种族、区域、性别、年龄等不同个人特征的劳动力进行区别定价、区别的现象。"
+  },
+  {
+   "cn": "一级价格歧视",
+   "en": "first-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "按照消费者愿意为每一单位商品支付的最高价格来定价的策略。"
+  },
+  {
+   "cn": "二级价格歧视",
+   "en": "second-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者购买的商品量来确定价格的定价策略。"
+  },
+  {
+   "cn": "三级价格歧视",
+   "en": "third-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者的不同类型来确定价格的定价策略。"
+  },
+  {
+   "cn": "艾滋病歧视",
+   "en": "acquired immune deficiency syndrome discrimination",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "对艾滋病个体或群体的不公正对待。是艾滋病患者或感染者被污名化所导致的不当行为，它可直接或间接影响其生存质量，对其抗病毒治疗和服药依从性等均具有不同程度影响。"
+  },
+  {
+   "cn": "中央人民政府政务院关于处理带有歧视或侮辱少数民族性质的称谓、地名、碑碣、匾联的指示",
+   "en": "Instructions on Handling Titles, Place Names, Steles and Plaques Discriminating \nor Insulting Ethnic Minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国第一部禁止民族歧视的规范性文件。1951 年5 月16 日由中央人民政府政务院发布。规定各省市县人民政府应将历史上遗留下来的对于少数民族的称谓及有关少数民族地区的地名、碑碣、匾联等作全面"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

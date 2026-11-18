@@ -1,0 +1,792 @@
+{
+ "key": "best constitution",
+ "term": "best constitution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:36:23+00:00",
+ "status": "ok",
+ "note": "variant=best constitution; 审定公布名词库=5071; 海峡两岸名词对照库=1052; 其他来源数据库=156; 预公布名词数据库=268; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子相互连接的方式和次序，可以说明分子中原子的连接次序和键性（单、双键等）。"
+  },
+  {
+   "cn": "体质",
+   "en": "constitution",
+   "source": "运动医学名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "在遗传性和获得性基础上表现出来的人体形态结构、生理机能和心理因素等综合的、相对稳定的特征。人的生命活动和工作能力的物质基础。主要包括身体形态发育水平、生理功能水平、身体素质和运动能力发展水平、心理发展"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化学名词",
+   "wordNumber": "02.0652",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "描述组成分子的原子种类、数量及相互间的连接方式(包括单键或重键)。不考虑其空间结构。"
+  },
+  {
+   "cn": "最佳估计值",
+   "en": "best estimate",
+   "source": "地质学名词",
+   "wordNumber": "13.08.082",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "根据测量值计算出的最接近待测量真值的计算值。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.040",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "在一定时期内销量大的一般图书。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "受到读者热烈欢迎、销售量很高的图书。"
+  },
+  {
+   "cn": "最佳图书",
+   "en": "best book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "书评家在新近出版的图书中精心挑选出的某一领域或某一类图书中最具有代表性的图书。"
+  },
+  {
+   "cn": "最佳实践",
+   "en": "best practice",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0546",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "在实践中总结出来并被证实有效的技术、方法、过程或者活动。将其应用于某类任务可以期望获得较好的产出结果。"
+  },
+  {
+   "cn": "最佳适配法",
+   "en": "best-fit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0485",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种分配资源的方法。最先分配大小最接近申请量的可用资源。"
+  },
+  {
+   "cn": "畅销品",
+   "en": "best seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0662",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售得非常好的商品。"
+  },
+  {
+   "cn": "代销",
+   "en": "best effort",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资银行同意帮助发行公司向公众销售证券，但实际上自己并不购买证券。投资银行仅仅扮演公众与发行公司间的中介，这样，银行就不必承担按约定价格将证券销售给公众的风险。"
+  },
+  {
+   "cn": "尽力而为服务",
+   "en": "best effort",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "标准的因特网服务模式。在网络接口发生拥塞时，不顾及用户或应用，马上丢弃数据包，直到业务量有所减少为止。"
+  },
+  {
+   "cn": "最佳逼近",
+   "en": "best approximation",
+   "source": "数学名词",
+   "wordNumber": "010.0084",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最佳拟合",
+   "en": "best fit",
+   "source": "数学名词",
+   "wordNumber": "010.0140",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最佳估计值",
+   "en": "best estimate",
+   "source": "地质学名词",
+   "wordNumber": "06.487",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "地质学名词",
+   "wordNumber": "03.01.025",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以(OH)⁻、H⁺、(H₃O)⁺的形式，占据晶体结构中的固定配位位置，并有确定含量比的水。"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0120",
+   "subjectFullName": "地球物理学_地壳流体科学_地下水类型",
+   "subjectName": "地下水类型",
+   "publishYear": "2022",
+   "definition": "呈氢离子(H⁺)、羟基(OH–)和水合氢离子(H₃O⁺)形式参加矿物晶格的离子。这些离子在晶格中占有确定的位置，数量上与其他元素成一定的比例，在温度升高、晶格破坏时，从矿物中析出。"
+  },
+  {
+   "cn": "经济宪法",
+   "en": "economic constitution",
+   "source": "经济学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "特定时代有关经济秩序的政治基本体制，也指所有包括经济内容并对经济制度进行规定的宪法规范。经济宪法所涵盖的内容极其重要，因为经济宪法优先适用于普通法上的经济公法规定，而且对法律适用过程中的法律解释也有重"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "化学名词",
+   "wordNumber": "03.0820",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "某些物质中需加热至600~700℃才能脱除的化学结合水。"
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "source": "化学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "旨在消除橡胶-纳米二氧化硅体系在混炼后停放过程中因填料聚集而变硬现象(结构化)的物质。"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最优价格",
+   "en": "best price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳适配[法]",
+   "en": "best-fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成型表达",
+   "en": "constitutive expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成型启动子，组成性启动子",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成性启动子（=组成型启动子）",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "体质特质",
+   "en": "constitutional trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "浓度起伏",
+   "en": "constitutional fluctuation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组元空位",
+   "en": "constitutional vacancy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组成过冷",
+   "en": "constitutional supercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional undercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "构造异构体",
+   "en": "constitutional isomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成单元",
+   "en": "constitutional unit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成酶",
+   "en": "constitutive enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成性突变",
+   "en": "constitutive mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组成性基因",
+   "en": "constitutive gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "次优报价",
+   "en": "second best offer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物尽其用",
+   "en": "make the best use of everything",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数尽其用",
+   "en": "make the best use of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用足用好合规的外贸政策工具",
+   "en": "to make full and best use of foreign trade policy tools",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "依宪治国",
+   "en": "governance of the country on the basis of its constitution",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "上兵伐谋",
+   "en": "The Best Strategy in Warfare is to Foil the Enemy’s Strategy.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  推进疫情防控的好经验好做法",
+   "en": "to promote best practices in prevention and control from across the country",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情无国界，人间有真情。",
+   "en": "Virus knows no borders, but the worst of times reveals the best in people.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宪法",
+   "en": "constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0204",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中确定国家基本阶级关系和统治架构的根本法律。通常规定国家的社会制度和国家制度的基本原则，国家机关的组织和活动的基本原则，以及公民的基本权利和义务等重要内容。宪法具有最高的法律效力，是制定其他法"
+  },
+  {
+   "cn": "社会构成",
+   "en": "social constitution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上的、人与自然环境及社会相互作用形成的人类组合。自然环境、人口、社会-文化是其要素，其中自然环境和人口则是更为基本的要素。"
+  },
+  {
+   "cn": "党章",
+   "en": "Party constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0718",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章是一个政党为保证全党在政治上、思想上的一致和组织上、行动上的统一所制定的章程。一个政党的党章主要包括该党的性质、指导思想、纲领任务、组织结构、组织制度，党员的条件、权利、义务和纪律等内容。1921"
+  },
+  {
+   "cn": "斯大林宪法",
+   "en": "Stalins constitution",
+   "source": "马克思主义",
+   "wordNumber": "04.0105",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1936年通过的苏联宪法，由斯大林领导起草。斯大林称之为“世界上最民主的一部宪法”。它代替了1922年由列宁起草的苏维埃宪法。该宪法被1976年勃列日涅夫指导下制定的宪法取代。"
+  },
+  {
+   "cn": "身体素质指标",
+   "en": "constitution parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年肌肉力量、速度、耐力、爆发力、力量、投掷力、灵敏性和柔韧性等身体素质的指标。"
+  },
+  {
+   "cn": "立宪君主制",
+   "en": "constitutional monarchy",
+   "source": "马克思主义",
+   "wordNumber": "03.0069",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级国家政体的一种形式。资产阶级革命早期，因资产阶级力量薄弱，不得不与封建君主妥协。君主仍为国家最高元首，但权力受到议会和宪法不同程度的限制。按照君主权力受到限制的程度不同，又可分为二元君主立宪制"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "新民主主义宪政",
+   "en": "newdemocratic constitutional government",
+   "source": "马克思主义",
+   "wordNumber": "03.0340",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新民主主义宪政是中国共产党在民主革命时期，主要是抗日战争时期，针对国民党的一党专政提出来的,向国民党政府争取民主自由的武器。新民主主义宪政的具体内容就是几个革命阶级联合起来对于汉奸反动派的民主专政。"
+  },
+  {
+   "cn": "体质性生长发育延迟",
+   "en": "constitutional growth delay",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "个体出生时身长与体重正常，出生后生长速度缓慢、身材矮小、青春期发育延迟的现象。"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。"
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "优劣尺度法",
+   "en": "best-worst scaling method,BWS",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过让受访者在一系列具有不同属性水平组合的健康产品或服务选项中，不断选择出最好的和最差的选项，评估受访者对选项或属性的偏好的方法。"
+  },
+  {
+   "cn": "被测量真值最佳估计",
+   "en": "best estimate of the true quantity value of the measurand",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "给定实验结果和被测量的所有先验信息，被测量真值概率分布的期望值。"
+  },
+  {
+   "cn": "中国学生体质与健康调研",
+   "en": "Chinese national surveillance on students' constitution and health, CNSSCH",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "为了解我国不同学生群体体质健康状况、生长发育水平和学生常见病、多发病情况及其变化趋势而每五年开展一次的全国性调查活动。是全民体质健康调查的一部分，调查对象为全国所有省份共28个民族7～22岁大中小学生"
+  },
+  {
+   "cn": "党必须在宪法和法律的范围内活动",
+   "en": "Party must act within the scope prescribed by the constitution and laws",
+   "source": "马克思主义",
+   "wordNumber": "03.0725",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法是国家的最高权威，法律是我国一切个人和组织的行为准则。党是一种组织，要在宪法和法律的范围内活动。1982年党的十二大党章首次规定：“党必须在宪法和法律的范围内活动”。"
+  },
+  {
+   "cn": "便秘",
+   "en": "constipation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.16",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "粪便干燥坚硬，排出困难，排便次数减少的现象。根据罗马Ⅲ标准为：①排便困难，硬便，排便频率减少或排便不尽感；②每周完全排便<3次，每天排便量<35g；③全胃肠或结肠通过时间延长。"
+  },
+  {
+   "cn": "企业单位",
+   "en": "enterprise institution",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "受国家机关领导，实行独立经济核算制度，自负盈亏的直接从事工农业生产、交通运输和商业流通活动，产生的价值可用货币表现的法人或非法人单位。与“事业单位”相对。"
+  },
+  {
+   "cn": "社会制度",
+   "en": "social institution",
+   "source": "马克思主义",
+   "wordNumber": "03.0169",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会的经济、政治和文化等制度的统称。是相对持久的社会关系的定型化。可分为总体社会制度、不同领域的具体制度。建立何种社会制度取决于主要的经济生产方式和由此产生的社会结构。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

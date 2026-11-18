@@ -1,0 +1,772 @@
+{
+ "key": "parental responsibilities",
+ "term": "parental responsibilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:33:08+00:00",
+ "status": "ok",
+ "note": "variant=parental responsibilities; 审定公布名词库=1174; 海峡两岸名词对照库=414; 其他来源数据库=38; 预公布名词数据库=123; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "亲本",
+   "en": "parent",
+   "source": "植物学名词",
+   "wordNumber": "10.0041",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "进行杂交时选用的雌雄个体。即母本或父本。用P表示。"
+  },
+  {
+   "cn": "双亲",
+   "en": "parent",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0043",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "树中每个节点称为它的孩子的双亲。"
+  },
+  {
+   "cn": "亲虾",
+   "en": "parent shrimp,parent prawn",
+   "source": "水产名词",
+   "wordNumber": "04.167",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "用作繁殖虾苗的已达性成熟的雄虾和雌虾。"
+  },
+  {
+   "cn": "亲代",
+   "en": "parental generation",
+   "source": "农学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "进行杂交时，将遗传物质通过生殖细胞传递给子代的雌雄个体。包括母本和父本。"
+  },
+  {
+   "cn": "亲代",
+   "en": "parental generation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0132",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "用于产生下一代生物的生物体。"
+  },
+  {
+   "cn": "亲代DNA",
+   "en": "parental DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0103",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "在DNA复制过程中作为模板的DNA分子。在复制形成的两个子代DNA分子中，各保留有一条亲代DNA单链。"
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "动物学名词",
+   "wordNumber": "7.0282",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "亲代对子代的保护、照顾和喂养。包括一切有利于子代生存的活动。是为了增加后代的生存和繁殖能力，并减少双亲对未来后代的投资。"
+  },
+  {
+   "cn": "亲本组合",
+   "en": "parental combination",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.109",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "杂交后代的基因型与亲本基因型相同的组 合。"
+  },
+  {
+   "cn": "亲本组合",
+   "en": "parental combination",
+   "source": "遗传学名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "杂交后代的基因型与亲本基因型相同的组合。"
+  },
+  {
+   "cn": "亲代投资",
+   "en": "parental investment",
+   "source": "生态学名词",
+   "wordNumber": "03.069",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "双亲在繁殖后代中所投入的能量和花费的时间。通常是雌性的亲代投资大于雄性，但也有例外。"
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "生态学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "亲代对子代的保护、照顾和喂养，包括一切有利于子代生存的活动。"
+  },
+  {
+   "cn": "亲代操纵",
+   "en": "parental manipulation",
+   "source": "生态学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "社会性昆虫中王虫完成第一次生殖后再产第二批卵，并诱使从第一批卵中孵出的雌性后代留在巢中帮助完成第二次生殖的现象。这对亲子两代都有遗传利益。"
+  },
+  {
+   "cn": "亲代",
+   "en": "parental generation",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.418",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "家长会",
+   "en": "parents meeting",
+   "source": "教育学名词",
+   "wordNumber": "07.217",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学校召集学生家长到学校召开或家长自行召开的会议。家长会的一般内容是沟通情况、统一认识、传授家庭教育经验，是家长活动方式之一。"
+  },
+  {
+   "cn": "家长委员会",
+   "en": "parents committee",
+   "source": "教育学名词",
+   "wordNumber": "07.215",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "由学生家长代表组成的，负责协调学校与家庭之间关系，代表家长利益群体在一定程度上参与学校教育活动的组织。"
+  },
+  {
+   "cn": "家长学校",
+   "en": "parents school",
+   "source": "教育学名词",
+   "wordNumber": "07.216",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "以学生家长为主要受教育对象，传授家庭教育知识和教育方法、交流家庭教育经验、提高家庭教育水平的组织。"
+  },
+  {
+   "cn": "亲体培育",
+   "en": "parents culture",
+   "source": "水产名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "人工饲养条件下培育性成熟亲体的过程。"
+  },
+  {
+   "cn": "母体同位素",
+   "en": "parent isotope",
+   "source": "地质学名词",
+   "wordNumber": "13.03.009",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "放射性衰变系列中的起始同位素。"
+  },
+  {
+   "cn": "母株",
+   "en": "parent stock",
+   "source": "风景园林名词",
+   "wordNumber": "09.0228",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "用于无性繁殖中的采条及有性繁殖中采籽的植株。"
+  },
+  {
+   "cn": "父本",
+   "en": "male parent",
+   "source": "农学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂交时提供雄配子的亲本。"
+  },
+  {
+   "cn": "亲本，亲代",
+   "en": "parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亲代（=亲本）",
+   "en": "parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "父母教养",
+   "en": "parenting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "母本",
+   "en": "female parent\",\"mother parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亲代行为",
+   "en": "parental behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代投资",
+   "en": "parental investment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代操纵",
+   "en": "parental manipulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亲代",
+   "en": "parental generation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲代DNA",
+   "en": "parental DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲本印记",
+   "en": "parental imprinting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲本组合",
+   "en": "parental combination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "父母印记",
+   "en": "parental imprinting",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "亲代型",
+   "en": "parental form",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "漠视型父母",
+   "en": "ignoring parents",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权威型父母",
+   "en": "authoritative parents",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "父本",
+   "en": "male parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉亲本",
+   "en": "pollen parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回应性监管方式",
+   "en": "responsive regulatory approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府责任清单",
+   "en": "list of government responsibilities",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "现量之美",
+   "en": "Beauty of Spontaneous Response",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险应急处置",
+   "en": "financial risk emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全应急处置",
+   "en": "data security emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全应急响应",
+   "en": "information security emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全责任",
+   "en": "big data security responsibility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负责任大国",
+   "en": "a responsible major country",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全应急处置机制",
+   "en": "data security emergency response mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "责任共同体",
+   "en": "the community of shared responsibility",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同胞",
+   "en": "Brothers and Sisters of the Same Parents; Compatriots",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全责任人",
+   "en": "responsible person for big data security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚持全国一盘棋",
+   "en": "to ensure a coordinated national response",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公开、透明、负责任态度",
+   "en": "an open, transparent and responsible manner",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整应急响应等级",
+   "en": "to adjust the emergency response level",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险防控主体责任",
+   "en": "primary responsibility for risk prevention and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲权",
+   "en": "parental authority",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "法律上基于亲子关系而确立的人身和财产关系。这是近现代民法的重要内容。民国时期学者陶希圣提出与家长权相对立，意在塑造没有人格依附的父母子女关系。"
+  },
+  {
+   "cn": "家长学校",
+   "en": "parent school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "以学生家长为主要受教育对象，传授家庭教育知识和教育方法、交流家庭教育经验、提高家庭教育水平的组织。"
+  },
+  {
+   "cn": "家长教育",
+   "en": "parent education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "系统增进家长的知识和能力的教育活动。旨在促使家长能够真正担当并胜任养育子女、协调家庭关系、传承优良文化的角色。"
+  },
+  {
+   "cn": "亲系",
+   "en": "parent line",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0398",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "亲属间的血缘联系。从历史上看，亲系可分为三种：①男系亲和女系亲。封建宗法制度下，以男子为血统联络的亲属为男系亲，如男方的父母、伯、叔、姑、舅、姨等；以女子为血统联络的亲属为女系亲，如女方的父母、伯、叔"
+  },
+  {
+   "cn": "教养方式",
+   "en": "parenting patterns",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.10",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "父母在促进和支持孩子心理成长、情绪发展、社会适应、智力发展等实践活动中体现出来的理念、策略和方法的总称。"
+  },
+  {
+   "cn": "家庭教养方式",
+   "en": "parenting model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "父母或家庭中其他年长者在对幼儿的教养问题上表现出来的、具有一定的内部一致性和稳定性的看法、态度和方式。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露某一外源化学物的群体中出现某种效应的个体在群体中所占的比率。一般以百分率或比值表示。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露某一外源化学物的群体中，出现某种效应的强度，通常以个体在群体中所占比率，一般以百分数或比值表示"
+  },
+  {
+   "cn": "反应度",
+   "en": "responsiveness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具检测变化的能力和程度的测量性能。"
+  },
+  {
+   "cn": "单亲家庭",
+   "en": "single-parent family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.14",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由单身父亲或母亲与其未婚子女组成的家庭。包括离婚、分居、丧偶或未婚生育后子女仅与双亲一方共同生活的家庭。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.9",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "父母和子女在人生不同阶段所形成的各种联系的总称，有时也指父母和子女之间的沟通互动情况。"
+  },
+  {
+   "cn": "单亲儿童",
+   "en": "single-parent child",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "只有父亲或者母亲单独抚养的儿童。其中有的是因父母离异，有的是因为父母亲其中一方去世或者是未婚妇女的子女。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "父母与子女之间的关系。"
+  },
+  {
+   "cn": "亲子关系",
+   "en": "parent-child relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0395",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭的基本关系之一，指父母子女关系。父母和子女是血缘最近的直系血亲，为家庭关系的重要组成部分。"
+  },
+  {
+   "cn": "反应转移",
+   "en": "response shift",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在经历生活事件后由于目标概念内涵的改变而引起的主观生命质量评价结果的变化。其可以帮助理解生命质量的变化，更准确地反映疾病影响和治疗效果。"
+  },
+  {
+   "cn": "健康责任",
+   "en": "health responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "政府、社区及个人对个体和群体健康所承担的义务。政府和社区应制定有助于促进个体和群体健康的政策，提供健康的环境；个人应保持健康的生活方式，为自身、他人及群体健康提供支持。"
+  },
+  {
+   "cn": "渐进反应",
+   "en": "progressive response",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "暴露于一个或多个允许评估达到水平的过程变量后，出现的渐进的可视变化。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "预先给予细胞或机体低剂量辐射照射刺激，使其在一定时间间隔内对随后的大剂量辐射照射产生抗性或保护作用。诱发该反应的辐射剂量一般是在几十个毫戈瑞的剂量范围内。"
+  },
+  {
+   "cn": "能量响应",
+   "en": "energy response",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的灵敏度与入射辐射能量的关系。通常可用探测器的响应值与能量的关系曲线表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

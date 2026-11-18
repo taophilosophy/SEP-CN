@@ -1,0 +1,812 @@
+{
+ "key": "theorists hold",
+ "term": "theorists hold",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:31:07+00:00",
+ "status": "ok",
+ "note": "variant=theorists hold; 审定公布名词库=2181; 海峡两岸名词对照库=607; 其他来源数据库=92; 预公布名词数据库=84; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "握持",
+   "en": "hold",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1015",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "手握物并保持静止状态的活动。从用手开始将物体定置于某一方位的瞬间开始，到当物体不必再定置于某一方位上为止的瞬间结束。"
+  },
+  {
+   "cn": "保持",
+   "en": "hold",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.065",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "底舱",
+   "en": "hold",
+   "source": "船舶工程名词",
+   "wordNumber": "02.012",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "最下层的舱。"
+  },
+  {
+   "cn": "保温",
+   "en": "holding",
+   "source": "冶金学名词",
+   "wordNumber": "07.0302",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "保持工件材料温度稳定的工艺。"
+  },
+  {
+   "cn": "静置",
+   "en": "holding",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1057",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "合金液在浇铸前放置的一段时间。目的是使合金液中的微小气泡和杂质上浮或者下沉，并使合金成分进行均匀化扩散。"
+  },
+  {
+   "cn": "压钳口",
+   "en": "tongs hold,bar hold",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.073",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "为了便于操作时夹持，将钢锭的冒口部分锻成一定长度的方形或圆形的工序。"
+  },
+  {
+   "cn": "持阻",
+   "en": "hold,closure",
+   "source": "语言学名词",
+   "wordNumber": "03.086",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "辅音（特别指塞音和塞擦音）发音过程的中间阶段。在此阶段，主动发音器官和被动发音器官的阻塞或阻碍状态保持不变。"
+  },
+  {
+   "cn": "被动握持",
+   "en": "passive-hold",
+   "source": "手外科学名词",
+   "wordNumber": "06.0117",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "患者完全不用力，在外力作用下完成握、持等动作，以此来增强肢体本体感觉、牵伸挛缩或粘连的肌腱和韧带，维持或恢复关节活动范围，为进行主动运动做准备的一种训练方式。"
+  },
+  {
+   "cn": "停工待检点",
+   "en": "hold point",
+   "source": "电力名词",
+   "wordNumber": "17.580",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "在相应文件(通常为质量计划)中规定的对某操作的监督点。制造厂或安装单位应在该点之前通知监督方,只有经监督方指定人员到场监督检查并给予放行后,才能进行该停工待检点以后的工作。"
+  },
+  {
+   "cn": "保持时间",
+   "en": "hold time",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0105",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "时序电路中，为了保证输入数据被正确接收，在时钟信号到达后，输入数据还必须保持稳定的最短时间。"
+  },
+  {
+   "cn": "压止",
+   "en": "hold down",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0599",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "解决慢收敛问题的一种办法。在收到一个关于某结点不可到达的路由通告之后，让收到这种信息的结点在一个固定长度的时间内忽略任何跟那个结点有关的路由更新信息。"
+  },
+  {
+   "cn": "敲竹杠",
+   "en": "hold-up",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1048",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "一方利用交易伙伴已做出了专用性投资，并且治理交易关系的契约不完全，侵占来自专用性投资的准租金的机会主义行为。"
+  },
+  {
+   "cn": "保持力矩",
+   "en": "hold torque",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.564",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "保持模式",
+   "en": "hold mode",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.560",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "马赫数保持",
+   "en": "Mach hold",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.011",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "通过飞控系统控制航空器在给定马赫数下飞行的一种工作模态。"
+  },
+  {
+   "cn": "姿态保持",
+   "en": "attitude hold",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.007",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "通过飞控系统控制，飞行中自动保持航空器姿态不变的一种工作模态。"
+  },
+  {
+   "cn": "高度保持",
+   "en": "altitude hold",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "控制航空器在给定高度上飞行，是飞控系统的一种工作模态。"
+  },
+  {
+   "cn": "航向保持",
+   "en": "heading hold",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "控制航空器在给定航向上飞行，是飞控系统的一种工作模态。"
+  },
+  {
+   "cn": "鱼舱",
+   "en": "fish hold",
+   "source": "水产名词",
+   "wordNumber": "09.178",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "装载渔获物的船舱。"
+  },
+  {
+   "cn": "网舱",
+   "en": "net hold",
+   "source": "水产名词",
+   "wordNumber": "09.191",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "存放网具的船舱。"
+  },
+  {
+   "cn": "握住",
+   "en": "hold",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "静置",
+   "en": "holding",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "舱",
+   "en": "compartment\",\"hold",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滞留量",
+   "en": "hold-up",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫保持",
+   "en": "call hold",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冰舱",
+   "en": "ice hold",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "底舱",
+   "en": "lower hold",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "货舱",
+   "en": "cargo hold",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "车辆舱",
+   "en": "vehicle hold",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "底舱肋骨",
+   "en": "hold frame",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集装箱舱",
+   "en": "container hold",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鱼舱",
+   "en": "fish hold",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "①黄金准备 ②黄金储存",
+   "en": "gold holding",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "滞留池",
+   "en": "holding pond",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滞留槽",
+   "en": "holding tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保持时间",
+   "en": "holding time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保持期间",
+   "en": "holding period",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "支持还原剂",
+   "en": "holding reductant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "储存成本",
+   "en": "holding cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国外持有额",
+   "en": "overseas holding",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拉人",
+   "en": "holding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压技开始！",
+   "en": "Hold-down! Holding!  Osaekomi!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持弓",
+   "en": "grip\",\"hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抱",
+   "en": "hold\",\"lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抓握",
+   "en": "grip\",\"hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抓握",
+   "en": "grip\",\"hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁喉",
+   "en": "throat hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指握",
+   "en": "finger hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抱肩颈",
+   "en": "neck hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规动作",
+   "en": "illegal hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扭抓",
+   "en": "painful hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚抱",
+   "en": "fake hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双手抱",
+   "en": "double hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反攻性抓握",
+   "en": "counter-hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抓握法",
+   "en": "grip\",\"hold\",\"kumikata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻截",
+   "en": "block\",\"hold up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反攻性抓握",
+   "en": "counter\",\"counter-hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压倒",
+   "en": "hold-down\",\"immobilization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "握棍",
+   "en": "hold the stick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冷持",
+   "en": "cold-holding",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.43",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食用前保持食品一直处于较低的安全温度范围（低于5 ℃）的行为。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  },
+  {
+   "cn": "热持",
+   "en": "hot-holding",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.42",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "保持烹饪后的食物在食用前处于不低于57 ℃的安全温度范围的行为。"
+  },
+  {
+   "cn": "屏气发作",
+   "en": "breath holding spell",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童在剧烈哭闹时突然出现呼吸暂停的现象。表现为情感爆发，剧烈哭闹时屏住呼吸，致使发绀或苍白，意识丧失，甚至癫痫发作，最后恢复意识并正常呼吸。"
+  },
+  {
+   "cn": "肉持水性",
+   "en": "water-holding capacity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "肌肉受外力作用时，如加压、切碎、加热、冷冻、解冻、腌制等加工中保持原有的水分与添加水分的能力。"
+  },
+  {
+   "cn": "进出境航空器货舱消毒",
+   "en": "disinfection of cargo hold of entry-exit aircraft",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.3.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境航空器货舱，以杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "停尸",
+   "en": "hold a dead body （until burial or cremation）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0255",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人死后的第一个仪式，指把尸体放置在规定的地方；人气绝后，就为其穿衣。"
+  },
+  {
+   "cn": "归口包干",
+   "en": "budgets prepared by competent departments at central and local levels or to hold departments responsible for their finances",
+   "source": "马克思主义",
+   "wordNumber": "02.0393",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "财政预算归口管理、支出包干使用，是1954年邓小平任财政部长时，为了使国家财政建立在稳固的基础上，保证社会主义工业化建设和社会主义改造的需要而提出的财政工作方针。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "理论的韧性",
+   "en": "tenacity of theories",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "理论具有免于被证伪的属性特征：当它面临反常时，可以通过增加或修改辅助假说或特设假说来维护理论的硬核，使理论能够重新解释反常而趋于完善。"
+  },
+  {
+   "cn": "社会工作的理论",
+   "en": "theories of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作理论中用来对社会工作实践本身的性质、目的、过程、方法进行说明的那部分内容。"
+  },
+  {
+   "cn": "阶级调和论",
+   "en": "theories of class conciliation",
+   "source": "马克思主义",
+   "wordNumber": "03.0097",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "否认或淡化阶级矛盾和阶级斗争，主张阶级之间利益妥协和阶级合作的理论观点。它夸大不同阶级的利益共同性，认为不必经过阶级斗争就能够解决阶级对立和矛盾，一概反对暴力革命。"
+  },
+  {
+   "cn": "发展理论的马克思主义",
+   "en": "neoMarxist theories of development",
+   "source": "马克思主义",
+   "wordNumber": "05.0093",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代发展中国家现代化及社会发展的理论，这一理论基于对“剥削”的开放式的全球审视而不只局限于经典马克思主义的内部性分析路径，具体包括依附理论和世界体系理论。代表作有苏联的《社会学手册》（1976）、民主"
+  },
+  {
+   "cn": "主要理论与方法",
+   "en": "main theories and methods",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询最常遵循的理论和方法。主要包括精神分析理论、认知疗法和以人为中心疗法三种。"
+  },
+  {
+   "cn": "通风柜",
+   "en": "hood",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.31",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "借助合理组织气流的方法，实现有毒的或有放射性的物质与人员所在的操作区相隔离，用于操作有毒的或有放射的物质的一种装置。"
+  },
+  {
+   "cn": "冷洗涤",
+   "en": "cold abstersion",
+   "source": "消毒学",
+   "wordNumber": "4.2.3.5",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "采用温度为40℃～60℃的水，对不耐热的医用织物（化纤、羊毛类织物）进行的机械洗涤方法。"
+  },
+  {
+   "cn": "冷中子",
+   "en": "cold neutron",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "动能为毫电子伏量级或更低量级的中子。"
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural hole",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "由美国学者伯特(Burt)提出的概念，意指社会网络中将两个原本无连接的节点连接起来的独特位置。该连接位置就像网络结构中的洞穴，可以给居于此位置的行动者带来巨大的竞争优势。"
+  },
+  {
+   "cn": "冷战",
+   "en": "Cold War",
+   "source": "马克思主义",
+   "wordNumber": "04.0121",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战后帝国主义者常把他们对社会主义国家进行的、除了直接武装进攻以外的一切敌对活动，总称为“冷战”。由美国资产阶级政论家赫伯特·斯沃普（Herbert B. Swope）于1946提出，同年英"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

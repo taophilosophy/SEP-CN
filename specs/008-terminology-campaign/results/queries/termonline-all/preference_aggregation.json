@@ -1,0 +1,762 @@
+{
+ "key": "preference aggregation",
+ "term": "preference aggregation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:25:16+00:00",
+ "status": "ok",
+ "note": "variant=preference aggregation; 审定公布名词库=1001; 海峡两岸名词对照库=348; 其他来源数据库=44; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "source": "草学名词",
+   "wordNumber": "2.0427",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "按照自己的意愿对可供选择的方案进行的排列(或提供判断值)。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "药学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对某种健康状态的意愿或倾向。通常体现为效用或价值。"
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "消费者对肉类品质的满意程度。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.010",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "高于文件对象层级的任一文件实体的集合。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "动物学名词",
+   "wordNumber": "7.042",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "受环境资源吸引而形成的个体聚群现象。但同种个体暂时性地聚合在一起，其行动并无组织，也无协作的特点。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0093",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "固体表面的液体膜流动聚合形成微小液滴的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "生理学名词",
+   "wordNumber": "02.167",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "物理学名词",
+   "wordNumber": "08.2537",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0552",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "小尺度的粒子相互接触时，在弱的物理作用力下，使得接触面粘在一起，形成更大的团簇粒子。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0119",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据抽象方法的基本概念之一。设有 n个对象<img src='/root/syzx/static/spz/jsjkx3.07.0119.001.png'/>，i =1，2,…，n ，其笛卡儿积<img"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0322",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个二元关系，表示一个类的某些对象实例所描述的事物可作为另一个类的某些对象实例所描述的事物的组成部分。在统一建模语言（UML）中被视为关联的一种特殊情况。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "化学名词",
+   "wordNumber": "04.1513",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "分散系统中的分散相的粒子以某种方式集合在一起的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0233",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的整体与部分的关联关系，A聚合B表示A由B组成，但B可以脱离A独立存在(在某些问题域中这个类的存在有意义)。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "药学名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "悬浮在气体或液体中的固体或液体微粒，由于布朗运动、涡流、热效应或声波等的作用，相互碰撞而团聚成较大颗粒的过程。"
+  },
+  {
+   "cn": "群聚",
+   "en": "aggregation",
+   "source": "古生物学名词",
+   "wordNumber": "05.0067",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "因相同或相似生态要求而聚居在一起的各类生物。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "大气科学名词",
+   "wordNumber": "03.091",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "雪晶在降落时由于碰撞而聚集成块的过程。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "生态学名词",
+   "wordNumber": "06.314",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "由于受环境资源吸引而形成的个体聚群现象。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "昆虫学名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "同种个体暂时性地聚合在一起，但其行动无组织，也无协作的特点。"
+  },
+  {
+   "cn": "团聚[作用]",
+   "en": "aggregation",
+   "source": "土壤学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "由于各种力的作用使土粒团聚在一起的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集[作用]",
+   "en": "aggregation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群聚，聚集",
+   "en": "aggregation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚合体",
+   "en": "aggregate",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易优先权",
+   "en": "trade preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集汇聚",
+   "en": "data acquisition and aggregation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据参考模型",
+   "en": "data reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据参考体系结构",
+   "en": "big data reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网通信参考体系结构",
+   "en": "IoT communication reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网信息参考体系结构",
+   "en": "IoT information reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网功能参考结构",
+   "en": "IoT functional reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信参考体系结构接口",
+   "en": "communication reference architecture interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息参考体系结构接口",
+   "en": "information reference architecture interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参考体系结构工作组",
+   "en": "Reference Architecture Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "社会集合",
+   "en": "social aggregation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会成员在时空上形成非整合性、非系统性、非组织性和非协作性的毗邻或群居。深层次上反映出人们彼此之间在社会-文化上尚未达到逻辑和意义上的统一。"
+  },
+  {
+   "cn": "家族聚集性",
+   "en": "familial aggregation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "某一或某些生长发育特征在家族成员中出现的概率或在家族成员间的相关性高于全人群的现象。"
+  },
+  {
+   "cn": "总体工人",
+   "en": "aggregate workers",
+   "source": "马克思主义",
+   "wordNumber": "02.0124",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为生产共同产品直接生产工人，以及非直接生产工人（科技人员、管理人员）的总体。有两个含义：一是指工场手工业时期所特有的局部工人组成的全体生产者。二是包括物质生产领域中直接和间接参加生产某种商品的全体劳动"
+  },
+  {
+   "cn": "总供给",
+   "en": "aggregate supply",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内（通常为1年）由社会生产活动实际可以提供给市场的可供最终使用的卫生服务产品的种类和服务总量。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.4",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对商品和服务的偏好在不同时期有所变化。"
+  },
+  {
+   "cn": "集合暴露",
+   "en": "aggregate exposure，combined exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单个化学物通过多种途径（进口、经皮、吸入）和多种方式（食物、饮水和居住环境）的联合暴露情形。"
+  },
+  {
+   "cn": "短期供给曲线",
+   "en": "short-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映短期中总供给与价格关系的一条曲线。在短期内，总供给量与价格水平呈同方向变动，总供给曲线是一条向右上方倾斜的线。"
+  },
+  {
+   "cn": "长期供给曲线",
+   "en": "long-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映长期内总供给与价格的关系的曲线。"
+  },
+  {
+   "cn": "社会隔离",
+   "en": "segregation",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "社会中的某些群体遭到社会歧视或排斥而在居住方面与其他群体分开的现象。表现在某些群体在居住方面被迫与其他群体分开，形成自己的聚集区。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

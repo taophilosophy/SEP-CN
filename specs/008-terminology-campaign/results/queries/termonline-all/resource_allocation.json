@@ -1,0 +1,782 @@
+{
+ "key": "resource allocation",
+ "term": "resource allocation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:26:04+00:00",
+ "status": "ok",
+ "note": "variant=resource allocation; 审定公布名词库=3139; 海峡两岸名词对照库=605; 其他来源数据库=107; 预公布名词数据库=122; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "资源配置",
+   "en": "resource allocation",
+   "source": "经济学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对相对稀缺的资源在各种不同用途上加以比较做出的选择。资源是指社会经济活动中人力、物力和财力的总和，是社会经济发展的基本物质条件。"
+  },
+  {
+   "cn": "资源配置",
+   "en": "resource allocation",
+   "source": "植物学名词",
+   "wordNumber": "13.0010",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物在其生长和发育中将资源分配到不同结构和功能单位的过程与结果。"
+  },
+  {
+   "cn": "资源分配",
+   "en": "resource allocation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1206",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "把计算机或网格系统内的各种资源按一定算法分配给用户或作业的过程。"
+  },
+  {
+   "cn": "资源配置",
+   "en": "resource allocation",
+   "source": "资源科学技术名词",
+   "wordNumber": "01.044",
+   "subjectFullName": "资源科学技术_资源科学总论",
+   "subjectName": "资源科学总论",
+   "publishYear": "2008",
+   "definition": "根据一定原则合理分配各种资源到各个用户单位的过程。"
+  },
+  {
+   "cn": "资源分配",
+   "en": "resource allocation",
+   "source": "自动化名词",
+   "wordNumber": "06.069",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "资源配置",
+   "en": "resources allocation",
+   "source": "地理学名词",
+   "wordNumber": "20.035",
+   "subjectFullName": "地理学_资源地理学",
+   "subjectName": "资源地理学",
+   "publishYear": "2006",
+   "definition": "根据一定原则合理分配各种资源到各个用户单位的过程。"
+  },
+  {
+   "cn": "资源分配者",
+   "en": "resource allocator",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0546",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "负责分配组织的各种资源，制定批准所有有关的组织决策的人员。"
+  },
+  {
+   "cn": "信息资源配置",
+   "en": "information resource allocation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "广义指将有用的信息及其与信息活动有关的信息设施、信息人员、信息系统、信息网络等资源在数量、时间、空间范围内进行匹配、流动和重组的过程。狭义指将有用的信息在不同的时间和不同地区、不同行业、不同部门进行分"
+  },
+  {
+   "cn": "动态资源分配",
+   "en": "dynamic resource allocation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0476",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在进程执行过程中根据其需要分配所需资源。"
+  },
+  {
+   "cn": "森林资源配置",
+   "en": "forest resource allocation",
+   "source": "林学名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "林学_林业经济_林业政策与管理",
+   "subjectName": "林业政策与管理",
+   "publishYear": "2016",
+   "definition": "为获取最佳的效益，将相对稀缺的森林资源在各种不同用途、不同使用者、不同区域和不同部门之间进行比较后做出选择和进行分配。"
+  },
+  {
+   "cn": "水资源配置",
+   "en": "water resource allocation",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.132",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "在水资源总体规划与管理过程中，充分协调水与社会、经济、生态、环境等要素的关系，提高水资源与之相适应的匹配程度，实现水资源合理利用，促进社会经济可持续发展。"
+  },
+  {
+   "cn": "水资源分配",
+   "en": "water resource allocation",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.129",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "水行政主管部门根据各地区、各部门水资源余、缺状况和可能条件，提出当前和今后合理可行的水资源分配方案并报请审批的活动。"
+  },
+  {
+   "cn": "矿产资源配置",
+   "en": "mineral resource allocation",
+   "source": "资源科学技术名词",
+   "wordNumber": "16.157",
+   "subjectFullName": "资源科学技术_矿产资源学",
+   "subjectName": "矿产资源学",
+   "publishYear": "2008",
+   "definition": "根据一定原则合理分配各种矿产资源到各个用户单位的过程。矿产资源配置的内容有两个方面：一是矿产资源在空间或不同部门间的最优配置，包括区域内、区域整体和多区域配置；二是矿产资源在不同时段上的最优分布，根据"
+  },
+  {
+   "cn": "信息资源配置",
+   "en": "information resources allocation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0560",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "主要是对信息资源中的能动部分，即信息、人及信息设备和设施，进行合理分配与布局，通过设计、调整信息资源的分布和流向，以尽可能小的配置成本取得尽可能大的配置效益。"
+  },
+  {
+   "cn": "教育资源配置",
+   "en": "allocation of educational resource",
+   "source": "教育学名词",
+   "wordNumber": "15.050",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "教育资源在教育系统内部各组成部分之间进行分配的过程。"
+  },
+  {
+   "cn": "水资源优化配置",
+   "en": "water resource optimum allocation",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.133",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "在水资源分配过程中，充分考虑人类社会、经济、生态、环境等因素，合理利用水资源系统的时空变异特征，优化水资源在地区之间、部门之间以及上下游、左右岸、经济与生态与环境等之间的分配，实现水资源利用的效率与公"
+  },
+  {
+   "cn": "卫生资源分配",
+   "en": "allocation of health resources",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.167",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "由指定的个人或集团在某个系统内对与健康有关的各种物资、人员和资金，按照某种标准对其不同使用方式和使用人群的分配。"
+  },
+  {
+   "cn": "水资源优化配置",
+   "en": "water resources optimal allocation",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.264",
+   "subjectFullName": "水利科学技术_水文、水资源_水资源（水利）",
+   "subjectName": "水资源（水利）",
+   "publishYear": "1997",
+   "definition": "对特定范围内有限的水资源优化配置给既定的目标或地区，以期达到整体最满意的效果。"
+  },
+  {
+   "cn": "调拨",
+   "en": "allocation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.419",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "在上级主管部门或图书馆协作机构的组织下，根据需要将某些图书馆的藏书拨予另一些图书馆的行为。一般分为有偿调拨和无偿调拨两种。"
+  },
+  {
+   "cn": "配置",
+   "en": "allocation",
+   "source": "植物学名词",
+   "wordNumber": "11.0348",
+   "subjectFullName": "植物学_植物生理学_植物同化物运输与分配",
+   "subjectName": "植物同化物运输与分配",
+   "publishYear": "2019",
+   "definition": "将光合作用固定的碳转移到不同代谢途径。"
+  },
+  {
+   "cn": "资源配置",
+   "en": "resource allocation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源分配",
+   "en": "resource allocation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资源分配",
+   "en": "resource allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资源配置",
+   "en": "resources allocation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "配置性资源,分配性资源",
+   "en": "allocative resource",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资源分配表",
+   "en": "resource allocation table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态资源分配",
+   "en": "dynamic resource allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置",
+   "en": "allocation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "配置",
+   "en": "allocation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置配置",
+   "en": "location-allocation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "股份分配",
+   "en": "share allocation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业布局",
+   "en": "industrial allocation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "处理器分配",
+   "en": "processor allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储器分配",
+   "en": "storage allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态分配",
+   "en": "dynamic allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多处理器分配",
+   "en": "multiprocessor allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分布模式，分配模式",
+   "en": "allocation schema",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分配单位",
+   "en": "allocation unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缓冲区分配",
+   "en": "buffer allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场在资源配置中起决定性作用",
+   "en": "the decisive role of the market in resource allocation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐狄利克雷分配",
+   "en": "latent Dirichlet allocation (LDA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源",
+   "en": "data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型资源",
+   "en": "shared resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资源",
+   "en": "idle resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源池化",
+   "en": "resource pooling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源目录",
+   "en": "resource directory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源池",
+   "en": "data resource pool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源平台",
+   "en": "data resource platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源管理框架",
+   "en": "resource management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源交换域",
+   "en": "resource exchange domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息资源共享",
+   "en": "information resource sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源数字化",
+   "en": "digitization of resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息资源标准",
+   "en": "information resources standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共池塘资源",
+   "en": "common-pool resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "一个国家或区域内，将筹集到的卫生资源在卫生行业（或部门）内分配和转移的过程。主要包括构成卫生资源的诸要素，如卫生机构、人力、物力、财力资源以及卫生管理资源等，如何分配、分配的数量以及结构和布局等。"
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.3.3",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "依据健康需求和公平效率原则，对卫生人力、资金、设施等进行科学分配，提升资源利用效率与服务公平性。"
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.013",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "通过政府干预或市场调节的手段使社会获得的卫生资源公平且有效率地在不同的领域、地区、部门、项目、人群中进行分配，以实现卫生资源的社会和经济效益最大化的措施。包括卫生资源的增量配置与卫生资源的存量调整两个"
+  },
+  {
+   "cn": "资源配置公平",
+   "en": "equity in health resource allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "卫生资源在区域间或者人群间均等配置的程度的原则。"
+  },
+  {
+   "cn": "卫生资源合理配置",
+   "en": "rational allocation of health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定时空范围内，区域内全部卫生资源的总量、结构与分布可以实现卫生服务供需平衡的组合状态。是卫生资源配置的初步优化，也是卫生资源优化配置的基础。"
+  },
+  {
+   "cn": "卫生资源优化配置",
+   "en": "optimizing allocation of health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定时空范围内，区域内全部卫生资源在总量、结构与分布上，与居民的健康需要和卫生服务需求相适应的组合状态。"
+  },
+  {
+   "cn": "卫生资源配置标准",
+   "en": "standard of health resource allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "一定区域内各类卫生资源配置总量及主要结构和比例的量化规定。"
+  },
+  {
+   "cn": "科学资源配置",
+   "en": "allocation of resources in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.17",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学研究中所需的诸如研究经费、设备等资源，以及不同研究机构或研究队伍所需要的研究人员和后备人员等在不同科学社会层级的分配。"
+  },
+  {
+   "cn": "配置规划",
+   "en": "allocation planning",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "对一定时期，区域内医疗器械特别是大型仪器和设备的配备情况进行的规划。"
+  },
+  {
+   "cn": "配置审批",
+   "en": "allocation approval",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "医疗机构获得配置许可证后，方可购置大型医用设备的规定。"
+  },
+  {
+   "cn": "计划配置",
+   "en": "plan allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以政府的指令性计划和行政手段为主对卫生资源进行配置的方式，主要表现为政府统一分配卫生资源，统一安排卫生机构、发展规模、服务项目、收费标准等。是卫生资源配置的重要手段，是较高层次的配置。"
+  },
+  {
+   "cn": "市场配置",
+   "en": "market allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "按市场需求并通过市场机制将卫生资源在不同领域、不同地区、不同部门和不同机构间进行配置的方式。是卫生资源配置的基础手段。"
+  },
+  {
+   "cn": "器官分配",
+   "en": "organ allocation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.057",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "按照一定的规则和程序，将可供移植的器官资源划分并分发给特定器官受体的过程。其核心伦理原则是确保器官分配公平、公正、公开且高效。"
+  },
+  {
+   "cn": "配置效率",
+   "en": "allocative efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "生产人们赋予价值最高的产品类型和数量，即资源一定条件下的最大产出的效率。"
+  },
+  {
+   "cn": "妇幼卫生资源配置",
+   "en": "resource allocation for woman and child health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.8.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生管理的其他方面",
+   "subjectName": "妇幼卫生管理的其他方面",
+   "publishYear": "2025",
+   "definition": "政府或市场为实现妇幼卫生资源的经济和社会效益最大化，通过一定原则将其公平有效地分配给不同地区、部门、项目、人群的过程。"
+  },
+  {
+   "cn": "卫生人力资源配置公平",
+   "en": "equity in human resource allocation for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "任何区域或社区，无论其经济发展、地理位置、所处环境等方面有何差异，使其获得均等数量和质量的卫生人力资源的原则。"
+  },
+  {
+   "cn": "卫生资金分配",
+   "en": "health fund allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.4",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金分配",
+   "subjectName": "卫生资金分配",
+   "publishYear": "2025",
+   "definition": "一个国家和地区通过政府宏观调控和市场调节，优化资金分配结构，选择最适宜的资金投入方式和支付方式，将从全社会筹集到的资金在各区域，各级各类医疗机构，各类患者之间进行分配的过程。"
+  },
+  {
+   "cn": "医疗保险基金分配",
+   "en": "medical insurance fund allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险基金在不同用途、不同领域之间的分配"
+  },
+  {
+   "cn": "卫生资源",
+   "en": "health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "广义上是人类在一切卫生保健活动中所使用的社会资源。狭义上是在一定社会经济条件下，社会投入到卫生服务中的各类资源的总称，包括卫生人力资源、物力资源、财力资源、技术和信息资源等。"
+  },
+  {
+   "cn": "卫生资源",
+   "en": "health resource",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.012",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "社会用于维护和改善人群健康的所有人力、物力、财力、技术和信息等资源的总和。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "belief attribution",
+ "term": "belief attribution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:36:34+00:00",
+ "status": "ok",
+ "note": "variant=belief attribution; 审定公布名词库=354; 海峡两岸名词对照库=192; 其他来源数据库=21; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "行为医学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体对某种思想或准则坚信不疑的看法或心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0155",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们对未来不确定状态发生可能性的判断。广义的信念类似于预期；狭义的信念具体化为人们对事件发生的主观概率的估计。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "心理学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对某种思想或准则坚信不移的心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "对某一现象或某一事物的存在或其合理性确信无疑的看法。"
+  },
+  {
+   "cn": "交代消息来源",
+   "en": "attribution",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.132",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻报道中明确写出事实或观点出处的做法。表明事实和观点从何而来，由谁提供。重视交代消息来源是新闻写作的一大特征。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "行为医学名词",
+   "wordNumber": "4.054",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "个体根据相关信息和线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体根据有关信息、线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "定语",
+   "en": "attributive",
+   "source": "语言学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分的一种。是体词性偏正短语中的修饰语，位于中心语之前。一般可分为描写性的和限制性的，从领属、性质、状态、数量、材料、用途等多方面修饰、限制、说明中心语。例如，“（我的）衣服”“（新）书包”“（高"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "物质的固有特性，在划分事物概念时所选择的划分标准。有本质属性和非本质属性之分，文献分类要以文献的内容属性作为主要标准。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0121",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据库技术中实体特征的抽象。例如实体教师的属性包括“姓名”“职称”和“特长”等。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0307",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "面向对象技术中一个用于描述对象静态特征的数据项。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0432",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "研究对象本质特征的概况。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.777",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理学名词",
+   "wordNumber": "30.002",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "石油名词",
+   "wordNumber": "03.0878",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "标准信念",
+   "en": "standard belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.083",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人对其行为改变的支持和期望程度。"
+  },
+  {
+   "cn": "不合理信念",
+   "en": "irrational belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体内心不现实、不合逻辑、站不住脚的信念。是绝对化、过分概括化、极端化的思想认识。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "行为医学名词",
+   "wordNumber": "7.057",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "个体如何看待健康和疾病，如何认识预防措施和疾病易感性的心理状态。"
+  },
+  {
+   "cn": "信念收缩",
+   "en": "belief contraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念从信念集中删除。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不良适应信念",
+   "en": "maladaptive belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念坚持",
+   "en": "belief perseverance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信度函数",
+   "en": "belief function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "属性查询",
+   "en": "attribute search\",\"attribute query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性类型",
+   "en": "attribute type\",\"attribute class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本性归因,素质归因",
+   "en": "dispositional attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在归因",
+   "en": "internal attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我归因",
+   "en": "self attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "防御性归因",
+   "en": "defensive attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归因模型",
+   "en": "attribution model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度置信网络",
+   "en": "deep belief network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性加密",
+   "en": "attribute encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据法律属性",
+   "en": "legal attributes of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 16264.8-2005 信息技术 开放系统互连 目录 第8部分：公钥和属性证书框架》",
+   "en": "GB/T 16264.8-2005 Information technology — Open systems interconnection — Directory — Part 8: Public-key and attribute certificate frameworks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "候援投手",
+   "en": "relief pitcher\",\"reliefer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字地震应急救灾",
+   "en": "digital earthquake emergency relief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗震救灾精神",
+   "en": "the spirit of Earthquake Relief",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自信",
+   "en": "Believe in One’s Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字素养：NMC地平线项目战略简报》",
+   "en": "Digital Literacy: An NMC Horizon Project Strategic Brief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摘帽不摘政策",
+   "en": "Poverty relief policies will continue after counties being removed from the poverty list.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简史三部曲（《人类简史》《未来简史》《今日简史》）（〔以色列〕尤瓦尔·赫拉利）",
+   "en": "The Brief History Trilogy — Sapiens: A Brief History of Humankind; Homo Deus: A Brief History of Tomorrow; 21 Lessons for the 21st Century (Yuval Noah Harari, Israel)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "关于某一或某些存在、意义、价值等的认识及认可。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人们对自身、他人、社会以及世界的心理表征体系中信以为真的成份。在很大程度上与个人早期经验有关，由个体所处的社会文化环境塑造而成。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某种思想或宗教，或者对某人、某物的信奉和敬仰，并把这些奉为自己的行为准则。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1079999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对事实或可能成为事实的理论、理想或目标的内在确信。在道德品质的构成中，道德信念居于基本的和核心的地位，是人们的道德认识、道德情感和道德意志反映在道德实践基础上的有机统一，具有稳定性和持久性的特点。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "人类的一种普遍需要，指根据有关的外部信息或线索来推测其行为理由的过程。通常分内归因与外归因，前者用信念、价值、人格或动机等个人内部原因对行为理由进行推测，后者则用外部的客观条件进行推测。"
+  },
+  {
+   "cn": "超凡信仰",
+   "en": "paranormal belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信在日常经验和科学解释之外的某些现象的存在，例如神秘物质或能量、外太空生命、UFO等。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0170000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体对道德理想和道德要求等深刻而有根据的坚信，以及由此而产生的对履行道德义务的强烈责任感。它是道德认识、道德情感和道德意志的有机统一，具有稳定性和持久性。"
+  },
+  {
+   "cn": "民俗信仰",
+   "en": "folk belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0277",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在长期的历史发展过程中，在民众中产生和传承的一套神灵崇拜观念、行为习惯和相应的仪式制度。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体对健康、疾病、风险和预防措施的主观认知与态度。"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "渔民信仰",
+   "en": "fishermen beliefs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0056",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "渔民自发对某种思想或宗教或追求的信奉敬仰，具有很强的实际需求导向和禳灾祈福意象。渔民信仰对象繁多，如沿海渔民信仰海神龙王爷、妈祖、鱼神、潮神、港神、船神、礁神等；在中国比较常见的有妈祖信仰、龙王信仰和"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "认知者在归因过程中因受到人类认知过程本身固有的局限的制约，或自身动机（如自我提升动机）的诱导，而系统地表现出来的偏误。常见的有基本归因错误（谬误）、行为者与观察者的归因偏误、利已主义归因偏误、低估一致"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某种特定疾病病例按不同类别危害因素导致的病例分类溯源分析。"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将食源性疾病病例按特定致病因素进行分类归因，如微生物病原体或生物毒素等。"
+  },
+  {
+   "cn": "食物归因",
+   "en": "food attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某特定食源性疾病病例归因于某食物载体（来源）。"
+  },
+  {
+   "cn": "归因",
+   "en": "source attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将特定疾病的负担按特定的来源或危害因素分类溯源分析。"
+  },
+  {
+   "cn": "健康信念模型",
+   "en": "health belief model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "运用于解释个体健康行为的理论模型。"
+  },
+  {
+   "cn": "农业信仰习俗",
+   "en": "agricultural beliefs customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0041",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在农业生产活动中形成并传承的一系列与自然崇拜、祖先崇拜及地方神灵崇拜相关的信仰和习俗，体现了农民对自然规律的认识、对丰收的期盼以及对生活的美好祝愿。这些习俗通常包括祭祀仪式、节日庆典、特定的耕作仪式等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

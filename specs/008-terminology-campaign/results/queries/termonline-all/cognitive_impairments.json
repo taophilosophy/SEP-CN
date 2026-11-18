@@ -1,0 +1,692 @@
+{
+ "key": "cognitive impairments",
+ "term": "cognitive impairments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:32:34+00:00",
+ "status": "ok",
+ "note": "variant=cognitive impairments; 审定公布名词库=236; 海峡两岸名词对照库=87; 其他来源数据库=8; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "认知损害",
+   "en": "cognitive impairment",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.08",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "各种病因导致的大脑高级功能损害。表现为记忆障碍、计算力下降、思维判断障碍、空间定向力损害、言语功能受损等。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive impairment",
+   "source": "行为医学名词",
+   "wordNumber": "17.024",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "认知的缺陷或异常。包括感知障碍、记忆障碍和思维障碍。"
+  },
+  {
+   "cn": "认知损害",
+   "en": "cognitive impairment",
+   "source": "神经病学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "各种病因导致的大脑高级功能损害，。表现为记忆障碍、计算力下降、思维判断障碍、空间定向力损害、言语功能受损等。"
+  },
+  {
+   "cn": "轻度认知损害",
+   "en": "mild cognitive impairment",
+   "source": "急救医学名词",
+   "wordNumber": "03.934",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "有记忆障碍和（或）轻度的其他认知功能障碍，但个体的社会职业或日常生活功能未受影响，亦不能由已知的医学或神经精神疾病解释的，介于正常老化与轻度痴呆之间的一种临床状态。按临床表现可分为遗忘型和非遗忘型。"
+  },
+  {
+   "cn": "轻度认知障碍",
+   "en": "mild cognitive impairment",
+   "source": "行为医学名词",
+   "wordNumber": "17.03",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "患者存在轻度认知功能减退，但日常生活能力没有受到明显影响，介于正常衰老和痴呆之间的一种中间状态。"
+  },
+  {
+   "cn": "血管性认知障碍",
+   "en": "vascular cognitive impairment",
+   "source": "行为医学名词",
+   "wordNumber": "17.059",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_脑血管系统疾病",
+   "subjectName": "脑血管系统疾病",
+   "publishYear": "2022",
+   "definition": "由各类脑血管疾病危险因素（如高血压、糖尿病和高脂血症等）和脑血管疾病（如脑梗死、脑出血等）引起的从轻度认知障碍到痴呆的一类临床综合征。"
+  },
+  {
+   "cn": "轻度认知损害",
+   "en": "mild cognitive impairment",
+   "source": "精神医学名词",
+   "wordNumber": "03.045",
+   "subjectFullName": "精神医学_诊断分类_器质性精神障碍",
+   "subjectName": "器质性精神障碍",
+   "publishYear": "2019",
+   "definition": "介于正常衰老和痴呆之间的一种认知功能损害状态。有记忆障碍或轻度的认知障碍，但日常生活和工作功能正常。"
+  },
+  {
+   "cn": "血管性认知损害",
+   "en": "vascular cognitive impairment",
+   "source": "精神医学名词",
+   "wordNumber": "03.046",
+   "subjectFullName": "精神医学_诊断分类_器质性精神障碍",
+   "subjectName": "器质性精神障碍",
+   "publishYear": "2019",
+   "definition": "各种脑血管疾病导致的认知功能下降。一般包括非痴呆血管性认知功能损害、血管性痴呆和伴有血管性因素的混合性痴呆。"
+  },
+  {
+   "cn": "轻度认知损害",
+   "en": "mild cognitive impairment",
+   "source": "老年医学名词",
+   "wordNumber": "04.439",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "有记忆障碍和(或)轻度的其他认知功能障碍，但个体的社会职业或日常生活功能未受影响，亦不能由已知的医学或神经精神疾病解释的，介于正常老化与轻度痴呆之间的一种临床状态。按临床表现可分为遗忘型和非遗忘型。"
+  },
+  {
+   "cn": "轻度认知损伤",
+   "en": "mild cognitive impairment",
+   "source": "心理学名词",
+   "wordNumber": "10.073",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "介于正常老化与阿尔茨海默病间的一种认知缺损状态。表现为进行性认知功能下降，日常生活能力正常。"
+  },
+  {
+   "cn": "轻度认知功能损害",
+   "en": "mild cognitive impairment,MCI",
+   "source": "核医学名词",
+   "wordNumber": "04.0791",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_临床常见神经系统疾病",
+   "subjectName": "临床常见神经系统疾病",
+   "publishYear": "2018",
+   "definition": "正常脑老化引起的认知改变与早期痴呆之间的过渡状态。主要特点是轻度认知下降和记忆损害，但个体的社会职业或日常生活功能未受影响。"
+  },
+  {
+   "cn": "非痴呆认知损害",
+   "en": "cognitive impairment-no dementia,CIND",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "影响生活质量，但尚未达到痴呆标准的认知功能障碍的病理状态。"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "手外科学名词",
+   "wordNumber": "06.0019",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "各种原因所致的身体结构、外形、器官或系统生理功能及心理功能的障碍。干扰了个人正常生活活动（如关节疼痛、活动受限、呼吸困难、骨折等），对日常生活、工作的速度、效率及质量产生一定影响，但实际操作仍能独立完"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "烧伤学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "患者心理、生理或解剖结构或功能上的由某种原因所导致的功能障碍。"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "老年医学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "各种原因所致的身体结构、外形、器官或系统生理功能以及心理功能的障碍。干扰了个人正常生活活动(如关节疼痛、活动受限、呼吸困难、骨折等)，对日常生活、工作的速度、效率质量产生一定影响，但实际操作仍能独立完"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "就健康范畴而言，是指心理、生理或解剖结构或功能上的损伤或异常。"
+  },
+  {
+   "cn": "损伤",
+   "en": "impairment",
+   "source": "教育学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "心理、生理或解剖上的结构或功能的伤害。"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0234",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "器官水平的障碍。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "神经外科学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括学习、思考、推理、记忆、解决问题、决策和注意力。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.179",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括感觉、知觉、注意、记忆和思维等过程。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传输损伤",
+   "en": "transmission impairment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字系统损伤",
+   "en": "digital system impairment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认知重建，认知重构",
+   "en": "cognitive restructuring",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知偏倚，认知偏差",
+   "en": "cognitive bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知工效学",
+   "en": "cognitive ergonomics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知学派",
+   "en": "cognitive school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知失调",
+   "en": "cognitive dissonance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知学习",
+   "en": "cognitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知吝啬者",
+   "en": "cognitive miser",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知问卷",
+   "en": "cognitive questionnaire",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知方式,认知风格",
+   "en": "cognitive style",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知一致性",
+   "en": "cognitive consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知启发法",
+   "en": "cognitive heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以日常生活视力较好眼判断得出的视力或视野功能不足的状态。轻度，4.5（0.3）≤视力<4.7（0.5）；中度，4.0（0.1）≤视力<4.5（0.3）；重度，3.7（0.05）≤视力<4.0（0.1）"
+  },
+  {
+   "cn": "发育受损",
+   "en": "impaired development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "不良环境暴露影响发育进程，导致不可逆损伤的现象。"
+  },
+  {
+   "cn": "认知功能",
+   "en": "cognitive functioning",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "大脑接收、处理、存储和利用信息的一系列高级心理过程。包括时间与地点的定向、理解力、抽象思维、注意力、记忆力以及解决问题的能力等。是个体完成各种活动所需要的基本能力。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "认知不协调",
+   "en": "cognitive dissonance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "当个人的认知系统内的两种及以上的认知（如偏好、态度、观念、价值观或信念）存在不一致时，或者当个人行为与自有的信念、情感或者价值观不一致时所体验到的冲突状态。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "研究心智、语言和文化诸因素的关系，在认知心理学和结构语言学影响下发展起来，同时与结构人类学也有很大渊源。主要关注文化知识在日常生活中的组织和应用（如分类、推理）。"
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以认知心理学为基础形成和发展起来的一种社会工作理论。该理论认为人的行为主要受制于理性思考，而不是潜意识的本能。不良行为主要产生于认知上的错误或理性思维能力的缺乏，社会工作的主要任务是帮助服务对象获得对"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "认知疗法",
+   "en": "cognitive therapy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "认为个体出现心理问题的根源在于其在解释事件时往往带有负性自动化思维，因此主要通过矫正学生心理健康求咨者的不合理信念、不当思维过程来帮助其解决心理问题。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0597",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科和研究取向，研究人类认知模式在其所处文化与社会情境中形成与变化的过程。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "与学习记忆及思维判断有关的大脑高级智能加工过程出现异常，引起严重学习、记忆障碍，同时伴有失语、失用、失认或失行等改变的病理状态。"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "个人对他人的心理状态、行为动机、意向等作出推测与判断的过程。社会认知的过程既是基于认知者的既有经验及对有关线索的分析而进行的，又必须通过认知者的思维活动（包括一定程度的信息加工、推理、分类和归纳）来进"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "measurement outcome",
+ "term": "measurement outcome",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:40:43+00:00",
+ "status": "ok",
+ "note": "variant=measurement outcome; 审定公布名词库=1504; 海峡两岸名词对照库=215; 其他来源数据库=65; 预公布名词数据库=102; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某件事或行为的结果。临床研究中通常为所研究疾病的转归或治疗的效果。"
+  },
+  {
+   "cn": "产出",
+   "en": "outcome",
+   "source": "药学名词",
+   "wordNumber": "10.050",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "医疗干预后，患者在临床指标、身体功能和主观感受等各方面变化。"
+  },
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "数学名词",
+   "wordNumber": "011.0405",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转归评价",
+   "en": "outcome assessment,outcome evaluation",
+   "source": "核医学名词",
+   "wordNumber": "06.0326",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "以受试对象临床整体状态为主要观察指标的临床试验评价体系。"
+  },
+  {
+   "cn": "妊娠结局",
+   "en": "pregnancy outcome",
+   "source": "生殖医学名词",
+   "wordNumber": "6.088",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "妊娠相关的结果。常指在辅助生殖技术治疗后的临床结局，包括活产、多胎、临床妊娠、流产、生化妊娠及反复植入失败等。"
+  },
+  {
+   "cn": "治疗转归",
+   "en": "treatment outcome",
+   "source": "结核病学名词",
+   "wordNumber": "04.092",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "对肺结核患者抗结核治疗后效果的总结。分为治愈、完成疗程、死亡、失败、丢失、迁出等。敏感肺结核与耐药肺结核治疗转归标准不同。"
+  },
+  {
+   "cn": "次要结局",
+   "en": "secondary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "一项研究中除主要终点指标外关注的其他结局或测量指标。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "肠外肠内营养学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "评价患者是否从某种治疗方法中受益的指标。包括感染性并发症发生率、死亡率、住院时间、质量调整生命年等。国内近年有少量已经发表的高质量证据显示，对有营养风险的患者给予合理的营养支持，可能降低感染性并发症发"
+  },
+  {
+   "cn": "主要结局",
+   "en": "primary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.106",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "根据试验目标与设计决定的首要的、决定临床试验终止的指标和参数。"
+  },
+  {
+   "cn": "结果公平",
+   "en": "outcome fairness",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0110",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对于自己所得到的结果与其他人所得到的结果相比而做出的一种是否公平的判断。"
+  },
+  {
+   "cn": "中间产出",
+   "en": "intermediate outcome",
+   "source": "药学名词",
+   "wordNumber": "10.100",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "能影响病人最终健康产出的指标，但该指标本身不是治疗的最终目标。当最终产出难以在短期内观察到，常用来作为最终产出的代理变量。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "经过一定时间，某种健康问题、治疗方案和医学干预所显示的临床结果。"
+  },
+  {
+   "cn": "结果质量",
+   "en": "outcome quality",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "服务的最终结果。是多种质量特性和质量内涵的综合体现。"
+  },
+  {
+   "cn": "结局空间",
+   "en": "outcome space",
+   "source": "数学名词",
+   "wordNumber": "011.0406",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "应激转归",
+   "en": "outcome of stress",
+   "source": "行为医学名词",
+   "wordNumber": "10.055",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "应激反应的发展趋向和结局。一般有积极性转归和消极性转归两种。"
+  },
+  {
+   "cn": "图书馆成效评估",
+   "en": "library outcome assessment",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "通过定性或定量的方法，对用户利用图书馆服务或资源后发生的变化进行评估和测度的活动。"
+  },
+  {
+   "cn": "结果评价",
+   "en": "product assessment,outcome assessment",
+   "source": "教育学名词",
+   "wordNumber": "15.077",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "对某个阶段目标实现程度的评价。"
+  },
+  {
+   "cn": "格拉斯哥预后量表",
+   "en": "Glasgow outcome scale;GOS",
+   "source": "神经外科学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "一种描述头部损伤患者预后的评分方法。共5个等级评分，不同分数代表不同预后状态。5分最好，为可能存在轻度残疾，但能恢复正常生活；1分最差，为死亡。"
+  },
+  {
+   "cn": "成本相关产出法",
+   "en": "cost-related outcome method",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0659",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_绩效管理",
+   "subjectName": "绩效管理",
+   "publishYear": "2016",
+   "definition": "由一定时期产出一定数量产品的总耗费来评价员工绩效的方法。"
+  },
+  {
+   "cn": "结果测量",
+   "en": "outcome measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结果研究",
+   "en": "outcome research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量，度量",
+   "en": "measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "度量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性",
+   "en": "measurability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "航测[纪录]",
+   "en": "aircraft measurement",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "机载测量[仪器]",
+   "en": "aircraft measurement",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微气候测量",
+   "en": "microclimatic measurement",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遥测",
+   "en": "remote measurement",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压力测量",
+   "en": "pressure measurement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量滞后",
+   "en": "measurement lag",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量误差",
+   "en": "measurement error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "态度测量",
+   "en": "attitude measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理测量",
+   "en": "psychological measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量误差",
+   "en": "measurement error",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "符合测量",
+   "en": "coincidence measurement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对测量",
+   "en": "absolute measurement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure\",\"measurement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量员",
+   "en": "measurer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子测量",
+   "en": "Quantum Measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "测量裁判员",
+   "en": "measurement judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量证书",
+   "en": "measurement certificate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可度量的服务",
+   "en": "measured service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离度测算",
+   "en": "deviation measuring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卷尺",
+   "en": "measuring tape",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子重力测量",
+   "en": "quantum gravity measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备和测量阶段",
+   "en": "preparedness and measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "营养结局",
+   "en": "nutritional outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童生长发育和健康水平的总和，是由营养素、营养行为和营养气氛三个因素来决定的，而营养气氛包括烹调过程与进食过程。"
+  },
+  {
+   "cn": "结局评价",
+   "en": "outcome evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育项目计划实施后，对目标人群健康状况和生活质量等变化的评价。"
+  },
+  {
+   "cn": "不良结局",
+   "en": "adverse outcome",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物引起的具有法规监管意义的有害效应关键事件。通常与已确立的安全保护目标相符合、或与公认的毒性测试指南中的观察终点等效。"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "健康教育结果",
+   "en": "health educational outcome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "学生在接受健康教育后发生健康行为改变的状况。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "妊娠期、分娩及产后期或新生儿期发生的对孕妇、胎儿或新生儿健康产生负面影响的任何不良结果。母体结局包括孕产期并发症和孕产妇死亡，胎儿/新生儿结局包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良出生结局",
+   "en": "adverse birth outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "特指出生后发现的新生儿健康问题或异常结果，包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcomes",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "妊娠后不能产生外观和功能正常的子代，包括所有的不良结果，如流产、死胎、死产、宫内生长迟缓、发育异常、新生儿和婴幼儿期死亡等。"
+  },
+  {
+   "cn": "不良结局路径",
+   "en": "adverse outcome pathway, AOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物作用于机体时引起的分子起始事件和最终有害结局之间相对完整的证据链条。包括在分子、细胞、组织、器官等不同生物结构水平依次发生的关键事件及相邻关键事件的上下游关系。"
+  },
+  {
+   "cn": "基于健康结局方法",
+   "en": "health outcome-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算由特定健康结局导致的疾病负担的方法。"
+  },
+  {
+   "cn": "患者报告结果",
+   "en": "patient-reported outcomes, PROs",
+   "source": "社会医学名词",
+   "wordNumber": "5.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "患者报告结果",
+   "publishYear": "2025",
+   "definition": "直接来自于患者的与健康状况和治疗有关的感受。"
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在研究中，根据规定的量度把一定的数值赋予所要研究对象的特定水平或性质的某种状态的过程。"
+  },
+  {
+   "cn": "消毒测量",
+   "en": "disinfection measurement",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.14",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "终末消毒前现场勘察，了解消毒区内面积和（或）体积，为计算所配制的消毒药物量而进行的测量。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "测量层次",
+   "en": "measurement level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "社会测量中由对测量对象数量化程度的高低决定的测量水平。依数量化程度由低到高的顺序，可将测量分为定类测量、定序测量、定距测量和定比测量4个层次。"
+  },
+  {
+   "cn": "态度测量",
+   "en": "attitude measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "使用定量的心理量表，通过被访者的自我报告，估计被访者对某个对象的感受和认知的测量行动。"
+  },
+  {
+   "cn": "效率测量方法",
+   "en": "efficiency measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "测量和评价效率的方法。包括生产函数分析、数据包络分析和前沿随机分析等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

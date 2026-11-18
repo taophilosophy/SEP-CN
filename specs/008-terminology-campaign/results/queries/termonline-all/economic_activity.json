@@ -1,0 +1,692 @@
+{
+ "key": "economic activity",
+ "term": "economic activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:30:10+00:00",
+ "status": "ok",
+ "note": "variant=economic activity; 审定公布名词库=2435; 海峡两岸名词对照库=828; 其他来源数据库=143; 预公布名词数据库=317; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "经济活动人口",
+   "en": "economically active population",
+   "source": "经济学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "指年龄16周岁及以上、具备劳动能力、参加或要求参加社会经济活动的人口。包括就业人员和失业人员。"
+  },
+  {
+   "cn": "经济活动人口",
+   "en": "economically active population",
+   "source": "计划生育名词",
+   "wordNumber": "01.149",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "总人口中已经参加及要求参加经济活动的人口。即从事经济活动的全部就业人口，加上要求从事经济活动而尚未获得工作的失业人口。"
+  },
+  {
+   "cn": "经济活动的区域分布",
+   "en": "regional distribution of economics activity",
+   "source": "经济学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "地区间的经济差距及空间资源的配置，经济活动的地域差异决定于自然资源、劳动力、资本等生产要素分布的不均衡性，这种要素分布的不均衡性使得各地区之间客观上存在着资源禀赋的差异。"
+  },
+  {
+   "cn": "经济学",
+   "en": "economics",
+   "source": "经济学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究人类行为及如何将有限或者稀缺资源进行合理配置的社会科学。"
+  },
+  {
+   "cn": "经济主义",
+   "en": "economism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "社会单向度陷入资本过度操控以至于沉迷增长逻辑而非生态逻辑后的一种发展观和价值观。价值观念片面强调经济增长，忽视资源环境承载力和人类幸福的精神性而强调经济至上的偏激向度。它是在经济主导的旗帜下引起人与自"
+  },
+  {
+   "cn": "经济主义",
+   "en": "Economism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪末20世纪初产生于俄国工人运动中仅以追求当前经济利益为目标的机会主义思潮。"
+  },
+  {
+   "cn": "省煤器",
+   "en": "economizer",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0102",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "硝酸生产中的一种热交换设备，利用出高温气-气换热器的氧化氮气体热量将锅炉给水加热到汽包压力下的饱和水的热交换设备。为管壳式结构。"
+  },
+  {
+   "cn": "省煤器",
+   "en": "economizer",
+   "source": "电力名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "锅炉尾部利用烟气加热给水的受热面。"
+  },
+  {
+   "cn": "省煤器",
+   "en": "economizer",
+   "source": "建筑学名词",
+   "wordNumber": "14.0976",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "利用给水吸收锅炉尾部低温烟气的热量，降低烟气温度的对流受热面装置。"
+  },
+  {
+   "cn": "经济器",
+   "en": "economizer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0240",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷设备",
+   "subjectName": "制冷设备",
+   "publishYear": "2013",
+   "definition": "在离心式和螺杆式制冷机组中，将级间节流后生成的闪发蒸气引至相应级中压缩，以减少压缩机功耗的设备。"
+  },
+  {
+   "cn": "省煤器",
+   "en": "economizer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0421",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_省煤器",
+   "subjectName": "省煤器",
+   "publishYear": "2013",
+   "definition": "利用给水吸收锅炉尾部低温烟气的热量，降低烟气温度的对流受热面的装置。"
+  },
+  {
+   "cn": "经济器",
+   "en": "economizer",
+   "source": "航海科技名词",
+   "wordNumber": "15.0376",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "经济调查",
+   "en": "economic investigation,economic survey",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "生态经济学",
+   "en": "eco-economics,ecological economics",
+   "source": "生态学名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "从经济学角度研究生态系统和经济系统复合而成的结构、功能及其运动规律的学科。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "运动医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指一切物体或事物的动态变化。在运动医学与康复医学范畴特指与躯体运动相关的动态变化。"
+  },
+  {
+   "cn": "经济活动临海化",
+   "en": "maritimization of economic activities",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节能器",
+   "en": "economizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济器",
+   "en": "economizer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "激活作用",
+   "en": "activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济地图",
+   "en": "economic map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济全景透视",
+   "en": "economic panorama",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术经济范式",
+   "en": "techno-economic paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可感知经济因素",
+   "en": "perceived economic factor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态经济体系",
+   "en": "eco-economic system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "经济民俗学",
+   "en": "economic folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.047",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗学与经济学的交叉学科。它主要运用经济学、民俗学、人类学、民族学、社会学及比较研究的理论和方法，从物质民俗、社会民俗、精神民俗多方面阐释、描述经济生活中的民俗文化因素；以民俗文化和市场经济的关系为研"
+  },
+  {
+   "cn": "经济社会学",
+   "en": "economic sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.1",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "将社会学的概念、变量、框架用于解释经济现象的分支社会学。主要关注社会中经济现象与非经济现象的相互关系，考察特定社会中非经济现象如人际互动、群体、社会结构（制度）、社会控制等对经济现象，如产品和服务的生"
+  },
+  {
+   "cn": "经济行动",
+   "en": "economic action",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者以经济取向为主要目的，采取和平的方式以获取支配权为目的的行动。"
+  },
+  {
+   "cn": "经济亚系统",
+   "en": "economic subsystem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.20",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "在由经济系统、政治系统、文化系统和整合系统通过能量与信息交换而形成整体社会系统中，作为构成要素而存在的经济系统。针对20世纪中叶以前西方学者将经济视为一个独立存在的系统的观点，塔尔科特帕森斯和斯梅尔瑟"
+  },
+  {
+   "cn": "经济惯习",
+   "en": "economic habitus",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.31",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "人们在特定的社会与历史情境中通过社会化无意识习得的、关于如何看待经济现象、从事经济活动的内在倾向系统。指导着人们的经济实践，但也具有一定的开放性，能够对既有经济场域产生影响。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "经济规律",
+   "en": "economic laws",
+   "source": "马克思主义",
+   "wordNumber": "02.0012",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会发展过程中经济现象之间存在的不以人们意志为转移的内在的、本质的、必然的联系及其发展趋势。经济规律具有客观必然性，即在历史发展进程中强制地为自己开辟道路而不以人的意志为转移。"
+  },
+  {
+   "cn": "经济制度",
+   "en": "economic system",
+   "source": "马克思主义",
+   "wordNumber": "02.0014",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会生产关系及其有关经济问题的规则的总称，并且作为组织社会经济活动的根本原则,为人们普遍承认并且实际共同遵守着的一种行为规范。"
+  },
+  {
+   "cn": "经济革命",
+   "en": "economic revolution",
+   "source": "马克思主义",
+   "wordNumber": "02.0015",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本质上是社会生产方式的变革。它是基于社会生产力的大发展，社会生产关系发生全面调整或根本性变革。"
+  },
+  {
+   "cn": "经济结构",
+   "en": "economic structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0016",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国民经济中各个方面的内部构成，反映经济系统中各要素之间互相关联、互相结合的内在联系及相应数量对比关系。"
+  },
+  {
+   "cn": "经济利益",
+   "en": "economic benefit",
+   "source": "马克思主义",
+   "wordNumber": "02.0017",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们进行社会活动的物质动因，是生产关系或经济关系的一种具体表现。每一个社会的经济关系首先作为利益表现出来。任何阶级矛盾和阶级斗争归根结底都是由经济利益的矛盾和冲突引起的。"
+  },
+  {
+   "cn": "经济范畴",
+   "en": "economic category",
+   "source": "马克思主义",
+   "wordNumber": "02.0151",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指人们在社会实践所取得的大量社会经济材料的基础上，经过抽象思维，从现象深入到本质，由感性认识上升为理性认识而形成的逻辑概念，是一定社会生产关系的理论表现。"
+  },
+  {
+   "cn": "经济危机",
+   "en": "economic crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0289",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义生产相对过剩而引起的再生产规模缩小，是资本主义在生产过程中周期性爆发的生产过剩的危机。其形成的根源是资本主义基本矛盾。一切现实的危机的最后原因，总是群众的贫穷和他们的消费受到限制。"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "经济冲突",
+   "en": "economic conflict",
+   "source": "马克思主义",
+   "wordNumber": "03.0098",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同个人、集团或组织之间在经济活动过程中由于利益而引发的对抗和斗争。在阶级社会中，它是不同阶级的矛盾和斗争的主要焦点，有时伴随着思想、政治乃至军事冲突。"
+  },
+  {
+   "cn": "经济斗争",
+   "en": "economic struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0099",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义条件下工人为了增加工资、缩短工时、改善劳动条件等同资本家进行的斗争属于经济斗争。它是无产阶级斗争最初的最常见的形式，无法从根本上改变阶级关系，必须将经济斗争发展为政治斗争、理论斗争才能取得最后"
+  },
+  {
+   "cn": "经济浪漫主义",
+   "en": "economic romanticism",
+   "source": "马克思主义",
+   "wordNumber": "04.0287",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把小生产理想化并企图限制资本主义发展的一种小资产阶级经济思想。产生于19世纪初产业革命在西欧各国蓬勃展开时期，以法国古典政治经济学的完成者西斯蒙第为主要代表。经济浪漫主义从小生产者的破产和工人的贫困中"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "经济剩余",
+   "en": "economic surplus",
+   "source": "马克思主义",
+   "wordNumber": "05.0128",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "巴兰（P.A.Baran）1957年的《增长的政治经济学》书中首次提出，其中包括计划的剩余、实际的剩余和潜在的剩余三个不同的概念。之后，巴兰和斯威齐还证明了，在经济剩余不断增长的同时，垄断资本主义制度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

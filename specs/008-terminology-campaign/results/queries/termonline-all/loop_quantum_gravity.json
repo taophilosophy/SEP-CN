@@ -1,0 +1,612 @@
+{
+ "key": "loop quantum gravity",
+ "term": "loop quantum gravity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:40:11+00:00",
+ "status": "ok",
+ "note": "variant=loop quantum gravity; 审定公布名词库=1772; 海峡两岸名词对照库=585; 其他来源数据库=148; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "圈量子引力",
+   "en": "loop quantum gravity",
+   "source": "天文学名词",
+   "wordNumber": "07.642",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种量子引力模型。"
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "物理学名词",
+   "wordNumber": "06.0349",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "能表现出某物质或物理量特性的最小单元。一个物理量存在的最小的不可分割的基本单位。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "物理学名词",
+   "wordNumber": "06.0373",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "电气工程名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）蛋白质的一种二级结构。通常指连接α螺旋和（或）β片层的肽段，由5～16个氨基酸残基组成，比β转角更长，且其末端的两个氨基酸残基的距离较小。（2）核酸分子结构中的单链区。如RNA的茎环结构中的环。"
+  },
+  {
+   "cn": "回路",
+   "en": "loop",
+   "source": "电力名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "其中每一个节点只经过一次的闭合路径。"
+  },
+  {
+   "cn": "活套",
+   "en": "loop",
+   "source": "冶金学名词",
+   "wordNumber": "09.1357",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在连轧机组中，由于前架轧机的秒流量大于后架轧机的秒流量，使处于两个机架之间的轧件向上隆起的部分。"
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "物理学名词",
+   "wordNumber": "03.0304",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "生物物理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质结构",
+   "subjectName": "蛋白质结构",
+   "publishYear": "2018",
+   "definition": "蛋白质等大分子链中弯曲成Ω形的开环状结构。缺乏二级结构，其肽链主链几乎不参与连续、规则的氢键相互作用。"
+  },
+  {
+   "cn": "腕环",
+   "en": "loop",
+   "source": "古生物学名词",
+   "wordNumber": "02.0883",
+   "subjectFullName": "古生物学_古无脊椎动物学_腕足动物门",
+   "subjectName": "腕足动物门",
+   "publishYear": "2009",
+   "definition": "穿孔贝目中支持纤毛环的环状腕骨。"
+  },
+  {
+   "cn": "环台面",
+   "en": "loop",
+   "source": "古生物学名词",
+   "wordNumber": "02.1182",
+   "subjectFullName": "古生物学_古无脊椎动物学_分类位置未定",
+   "subjectName": "分类位置未定",
+   "publishYear": "2009",
+   "definition": "在舟刺(Gondolella)和新舟刺(Neogondolella)中围绕基底凹窝的环形台面。"
+  },
+  {
+   "cn": "袢",
+   "en": "loop",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.154",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "大分子链中弯曲成Ω形的片段。留有缺口的大分子环形结构。"
+  },
+  {
+   "cn": "筋斗",
+   "en": "loop",
+   "source": "航空科学技术名词",
+   "wordNumber": "14.014",
+   "subjectFullName": "航空科学技术_飞行、飞行试验与测试技术",
+   "subjectName": "飞行、飞行试验与测试技术",
+   "publishYear": "2003",
+   "definition": "航空器在铅垂面内绕横轴旋转360°的飞行。"
+  },
+  {
+   "cn": "半波",
+   "en": "loop",
+   "source": "电气工程名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "环线",
+   "en": "loop",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0421",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "箕形纹",
+   "en": "loop",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.276",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "化学工程名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "自环",
+   "en": "loop",
+   "source": "数学名词",
+   "wordNumber": "03.0068",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "幺拟群",
+   "en": "loop",
+   "source": "数学名词",
+   "wordNumber": "04.1975",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环路，回路",
+   "en": "loop",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "袢，环",
+   "en": "loop",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "loop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕环",
+   "en": "loop",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "二氢尿嘧啶环, D环",
+   "en": "dihydrouracil loop\",\"D loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "替代环, D环",
+   "en": "displacement loop\",\"D-loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "D环,替代环",
+   "en": "displacement loop\",\"D loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺失环",
+   "en": "deletion loop\",\"deficiency loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "圈量子引力",
+   "en": "loop quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子重力测量",
+   "en": "quantum gravity measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绳环",
+   "en": "loop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转圈",
+   "en": "loop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接种环",
+   "en": "inoculating loop",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将接种针顶端弯曲成3～4mm直径的环状，用于接种取样和平板划线纯种分离的工具。"
+  },
+  {
+   "cn": "冷却剂环路",
+   "en": "coolant loop",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "与反应堆压力容器相连的反应堆冷却剂循环回路的并联流道。"
+  },
+  {
+   "cn": "一次性接种环",
+   "en": "disposable inoculating loop",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.17",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "前端为环状，可蘸取菌种涂布于培养基上的塑料材质的一次性灭菌物品。"
+  },
+  {
+   "cn": "引力法",
+   "en": "gravity method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "根据万有引力定律衡量医疗空间可及性，可解释为某医疗服务点对居民点的吸引力与其医疗服务供应能力成正比,与相互之间的交通成本成反比的方法"
+  },
+  {
+   "cn": "孕次",
+   "en": "gravidity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "所有过去和现在妊娠的总次数，而不论妊娠结局（包括活产、死胎、死产、流产等），多胎妊娠计为1次。"
+  },
+  {
+   "cn": "关节腔",
+   "en": "articular cavity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "滑膜层与关节面所围成的腔隙。形状和大小 在不同关节上差别很大。运动度大的关节， 关节腔较为宽阔，反之较为狭窄。腔内有滑液，可滑润和营养关节软骨。腔内为负压， 可维持关节的稳固性。"
+  },
+  {
+   "cn": "关节腔穿刺",
+   "en": "joint cavity paracentesis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.34",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "在无菌技术操作下,用空针刺入关节腔内抽取积液的技术。用于了解积液性质，为临床诊断提供依据，并可向关节内注射药物以治疗关节疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

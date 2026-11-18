@@ -1,0 +1,772 @@
+{
+ "key": "draw conclusions",
+ "term": "Draw conclusions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:30:33+00:00",
+ "status": "ok",
+ "note": "variant=Draw conclusions; 审定公布名词库=580; 海峡两岸名词对照库=177; 其他来源数据库=53; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "牵伸",
+   "en": "drawing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0124",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "纤维在张力状态下，沿纤维轴向被拉长变细的过程。"
+  },
+  {
+   "cn": "拉深",
+   "en": "drawing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.115",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_冲压",
+   "subjectName": "冲压",
+   "publishYear": "2021",
+   "definition": "变形区在一拉一压的应力状态作用下，使板料(浅的空心坯)成形为空心件(深的空心件)而厚度基本不变的加工方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.210",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_拉拔",
+   "subjectName": "拉拔",
+   "publishYear": "2021",
+   "definition": "坯料在牵引力作用下通过模孔拉出，使之产生塑性变形而得到截面缩小、长度增加的工艺。"
+  },
+  {
+   "cn": "图",
+   "en": "drawing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0161",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用点、线、符号、文字和数字等描绘事物几何特性、形态、位置及大小的一种形式。"
+  },
+  {
+   "cn": "拉深",
+   "en": "drawing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0886",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "变形区在一拉一压的应力状态作用下，使板料(浅的空心坯)成形为空心件(深的空心件)而厚度基本不变的加工方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0012",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "坯料借助拉力通过锥形模孔使断面缩减并成形的一种塑性加工方法。"
+  },
+  {
+   "cn": "图纸",
+   "en": "drawing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0529",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "根据招标–施工合同，在整套招标中应用的工程图及由雇主根据合同发出的补充和修改图。"
+  },
+  {
+   "cn": "拔长",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1242",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "使坯料横断面积减小而长度增加的锻造工序。"
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1298",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "用凸模把板料冲挤入凹模，以形成具有凹模模腔形状的立体制件的冲压方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1279",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "在外加拉拔力作用下，迫使坯料通过模孔，以获得相应形状与尺寸制品的塑性加工方法。"
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.036",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "drawing",
+   "source": "电气工程名词",
+   "wordNumber": "01.935",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "空拉",
+   "en": "sink drawing,mandrelless drawing,hollow drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1282",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "管材不用芯头，仅靠拉拔模进行变形的拉拔加工方法。拉拔后外径减小，管材壁厚变化不大。"
+  },
+  {
+   "cn": "拉深比",
+   "en": "drawing ratio,drawing coefficient",
+   "source": "冶金学名词",
+   "wordNumber": "09.1032",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "变形后制件的拉伸件直径与其毛坯直径之比。"
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉长",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "空拉",
+   "en": "sink drawing\",\"mandrelless drawing\",\"hollow drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "切工组",
+   "en": "draw gang",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拉杆",
+   "en": "draw bar",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸取向",
+   "en": "draw orientation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "脱模斜度",
+   "en": "draw taper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "出票",
+   "en": "draw bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "曳开桥",
+   "en": "draw bridge",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "玻璃拉制",
+   "en": "glass drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "旋转延伸",
+   "en": "spin-drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "超拉伸",
+   "en": "super drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绘图纸",
+   "en": "drawing paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绘图仪",
+   "en": "drawing apparatus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镜画",
+   "en": "mirror drawing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔模具",
+   "en": "drawing die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔速度",
+   "en": "drawing speed",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "深冲",
+   "en": "deep drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "按桨",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉弓",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"draw of lots",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平局",
+   "en": "draw\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"toss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"toss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "绘人测验",
+   "en": "Draw-a-Man test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由美国心理学家古迪纳夫(F.Goodenough)于1926年首次提出的反映儿童的空间构想、人面记忆提取和手眼协调等方面功能的他评测验。适用于5～12岁儿童。"
+  },
+  {
+   "cn": "金瓶掣签",
+   "en": "Drawing Lots from the Golden Urn",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0201",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清朝制定的管理藏、蒙古地区藏传佛教活佛转世的制度，乃于金瓶中抽签，以确认藏、蒙地区藏传佛教大活佛转世灵童。始创于乾隆五十七年（1799 年），至今沿用。"
+  },
+  {
+   "cn": "原料",
+   "en": "raw material",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "生产消毒产品使用除包装材料以外的所有材料。"
+  },
+  {
+   "cn": "原料",
+   "en": "raw material",
+   "source": "马克思主义",
+   "wordNumber": "02.0101",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经过人类劳动加工过的劳动对象通称为原料。一切原料都是劳动对象，但并非任何劳动对象都是原料。劳动对象只有在它已经通过劳动而发生变化的情况下，才是原料。除采掘工业以外，一切产业部门所处理的对象都是原料。"
+  },
+  {
+   "cn": "初加工茶",
+   "en": "raw tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.27",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "采摘的鲜叶经杀青、炒制或烘焙等过程制作的茶。"
+  },
+  {
+   "cn": "生乳",
+   "en": "raw milk",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.3",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "从符合国家有关要求的健康奶畜乳房中挤出的保持原有营养成分的常乳。产犊后七天的初乳、应用抗生素期间和休药期间的乳汁、变质乳不应用作生乳。"
+  },
+  {
+   "cn": "原料库",
+   "en": "raw material storage",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "储存消毒产品原料的仓库。"
+  },
+  {
+   "cn": "原料级别",
+   "en": "raw material grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "根据纯度及杂质含量或用途的不同，对经过加工制造可以成为产品的材料进行的等级分类。"
+  },
+  {
+   "cn": "投入料",
+   "en": "input raw material",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.26",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "用于生产再生塑料的原料，如消费后的塑料"
+  },
+  {
+   "cn": "生干坚果与籽类食品",
+   "en": "raw nut and seed",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.20.3",
+   "subjectFullName": "食品卫生学_食品_坚果与籽类",
+   "subjectName": "坚果与籽类",
+   "publishYear": "2025",
+   "definition": "经过清洗、筛选、或去壳,或干燥等处理,未经熟制工艺加工的坚果与籽类食品。"
+  },
+  {
+   "cn": "生食水产品",
+   "en": "raw-edible aquatic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.7",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "以活、鲜、冻水产品为原料，食用前经洁净加工而不经过加热熟制即可直接食用的水产品。"
+  },
+  {
+   "cn": "原材料卫生质量",
+   "en": "hygienic quality of raw materiel",
+   "source": "消毒学",
+   "wordNumber": "5.1.8",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "生产消毒产品的原材料的规格等级、纯度、杂质、微生物负载等状况。"
+  },
+  {
+   "cn": "保健食品原料",
+   "en": "raw material for health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.6",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "用于加工制作保健食品的原材料。包括动物类原料、植物类原料、微生物类原料，以及从动物、植物或微生物中分离提取的成分。"
+  },
+  {
+   "cn": "腌制生食水产品",
+   "en": "salted raw-edible aquatic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.8",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "以活的贝类、虾类、淡水蟹和新鲜或冷冻的海蟹、鱼子等水产品为原料，采用盐渍或糟制、醉制加工制成的可直接食用的腊制水产品。"
+  },
+  {
+   "cn": "食品用热加工香味料原料",
+   "en": "raw materials of thermal process food flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "用于制备食品热加工香味料的蛋白氮源、还原糖源、脂肪或脂肪酸源和其他允许在热加工过程中使用的原辅料"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

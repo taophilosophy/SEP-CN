@@ -1,0 +1,782 @@
+{
+ "key": "arguments like",
+ "term": "arguments like",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:31:14+00:00",
+ "status": "ok",
+ "note": "variant=arguments like; 审定公布名词库=3479; 海峡两岸名词对照库=1227; 其他来源数据库=298; 预公布名词数据库=162; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "点赞",
+   "en": "like",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.153",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "社交媒体用户采取的一个动作，单击“赞”按钮作为表达自己赞同的快捷方式，而不是留言或发帖。"
+  },
+  {
+   "cn": "大弃赌论证",
+   "en": "Dutch book arguments",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.221",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "用来支持贝叶斯主义的主要论证。如果我们的主观置信度不遵守概率论，那么可以设计出赌局，让我们在所有可能情况下都输钱。"
+  },
+  {
+   "cn": "自变量",
+   "en": "argument,independent variable",
+   "source": "物理学名词",
+   "wordNumber": "01.0072",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "管状鼻",
+   "en": "proboscis-like nose",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腺样窝",
+   "en": "gland-like pit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "橡胶态液体",
+   "en": "rubber-like liquid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类焦虑行为",
+   "en": "anxiety like behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类晶结构",
+   "en": "crystalline-like structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上善若水",
+   "en": "Great Virtue Is Like Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随物赋形",
+   "en": "Writing That Flows like Water",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“绣花功夫”",
+   "en": "“being meticulous like doing embroidery”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以武为植，以文为种",
+   "en": "Military Action Is like Planting; Good Rule Is like the Seed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治大国若烹小鲜",
+   "en": "Governing a Big Country Is Like Cooking Small Fish.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵形象水",
+   "en": "Troop Should Charge Forward Like the Flow of Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文武之道，一张一弛",
+   "en": "The Rules of King Wen and King Wu Are Like Slack and Taut Bowstrings.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好战必亡，忘战必危",
+   "en": "Those Who Like to Go to War Will Perish; Those Who Forget War Will Be in Danger.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治大国若烹小鲜",
+   "en": "Governing a big country is like cooking small fish. (Those who govern the country must be meticulous and thoughtful and take all factors into consideration, so that their policies and measures benefit everyone.)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "面具脸",
+   "en": "mask-like face",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "系统性硬化症患者皮肤受累后出现的特征性面容改变，表现为面部皮肤变紧、皮纹减少至消失，表情减少并僵硬。"
+  },
+  {
+   "cn": "狼疮样综合征",
+   "en": "lupus-like syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "ANA阳性且具有至少一种系统性红斑狼疮典型临床表现如发热、肌痛、皮疹、关节炎、浆膜炎和抗组蛋白抗体阳性，且不符合系统性红斑狼疮分类诊断标准的疾病，需排除其他疾病。可由多种原因引起尤其是药物因素（如普鲁"
+  },
+  {
+   "cn": "家庭化分娩",
+   "en": "home-like delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在环境布置既符合产科要求又具家庭氛围的场所中完成分娩的过程，允许家属在旁陪伴及协助，能使产妇获得心理和情感支持，减轻传统医院分娩环境使产妇感到陌生、紧张、恐惧、孤立等心理压力，从而有利于促进正常分娩。"
+  },
+  {
+   "cn": "霉变粒",
+   "en": "mouldy-like grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.31",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粒面明显生霉并伤及胚或胚乳或子叶、无食用价值的颗粒。"
+  },
+  {
+   "cn": "Toll样受体",
+   "en": "Toll-like receptor， TLR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.40",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "一组哺乳动物受体分子，包括一个富含亮氨酸重复序列片段的细胞外结构域。胞质内结构域包含一个与果蝇Toll受体同源的片段，因此称为Toll样受体。它们作为多种微生物来源分子的模式识别受体，刺激对表达这些分"
+  },
+  {
+   "cn": "免疫球蛋白样转录物",
+   "en": "immunoglobulin-like transcript，ILT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.41",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "LIR）。属IgSF，成员包括：①ILT2、ILT3、ILT4、ILT5和LIR8，分子胞质区含2～4个ITIM，可传递抑制性信号；②ILT1、LIR6a、ILT7、ILT8、ILT11，可与FcRγ"
+  },
+  {
+   "cn": "二噁英样多氯联苯",
+   "en": "dioxin-like polychlorinated biphenyls",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.35",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "具有与二噁英类似毒性效应的12种多氯代二联苯的统称。以往是具有多种用途的化工产品的成分，目前已经在全球停止生产，属于持久性有机污染物，膳食是一般人群摄入这类物质的主要途径。"
+  },
+  {
+   "cn": "家族性白塞样自身炎症反应综合征",
+   "en": "Familial Behcet's like autoinflammatory response syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "由肿瘤坏死因子α诱导蛋白3基因功能突变导致的一种罕见的早发性自身炎症性疾病，为常染色体显性遗传性疾病，主要临床表现为主要包括发热、皮疹、反复口腔和/或外阴溃疡，可出现关节炎、眼部受累和消化道受累的表现"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "谎言",
+   "en": "lie",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.093",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "为了达到某种不正当的目的，有意编造、杜撰出与事实不一致的言论、书信或其他文字材料。出于善良动机和避免不良后果不得不说的谎言，被称为善意谎言。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "一种以一定的社会关系为纽带，由社会的经济、政治、文化、心理、环境诸因素综合作用形成的一系列复杂而多层次的社会活动现象。既指人类整个社会物质的和精神的活动，也指社会的物质生产活动和社会组织的公共活动领域"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

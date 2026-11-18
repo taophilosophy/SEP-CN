@@ -1,0 +1,422 @@
+{
+ "key": "polymorphisms",
+ "term": "polymorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:26:55+00:00",
+ "status": "ok",
+ "note": "variant=polymorphisms; 审定公布名词库=190; 海峡两岸名词对照库=110; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "同质多象",
+   "en": "polymorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.192",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "同种化学成分的物质，在不同的物理、化学条件(温度、压力、介质)下，形成不同结构晶体的性质。"
+  },
+  {
+   "cn": "多晶型现象",
+   "en": "polymorphism",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "同种物质能以两种或两种以上不同的晶体结构存在的现象。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0171",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "同种生物的个体或同种物质中出现两种或两种以上明显不同的形态或形式等的现象。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "血液学名词",
+   "wordNumber": "4.293",
+   "subjectFullName": "血液学_常用检查_血液病理检测_分子生物学检测相关",
+   "subjectName": "分子生物学检测相关",
+   "publishYear": "2022",
+   "definition": "个体间DNA序列中自然发生的变异。导致基因存在两种或多种等位基因形式的遗传差异。"
+  },
+  {
+   "cn": "多态[现象]",
+   "en": "polymorphism",
+   "source": "动物学名词",
+   "wordNumber": "1.0262",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "同一种动物种群或品系内存在三种以上形态个体的现象。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "畜牧学名词",
+   "wordNumber": "04.308",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "在一个能够相互交配繁殖的群体中，某一个性状上存在两种或更多种状态的现象。"
+  },
+  {
+   "cn": "同质多晶",
+   "en": "polymorphism",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0080",
+   "subjectFullName": "食品科学技术_食品科学_食品化学_食品化学基础理论",
+   "subjectName": "食品化学基础理论",
+   "publishYear": "2020",
+   "definition": "同一种化学组成的物质，在不同条件下形成两种或两种以上不同晶体结构的现象。"
+  },
+  {
+   "cn": "多晶型[现象]",
+   "en": "polymorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0372",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多晶型现象",
+   "en": "polymorphism",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0509",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "同种物质能以两种或两种以上不同的晶体结构存在的现象。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0232",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "利用同一类（基类）的指针来引用不同类的对象，并根据所引用对象的不同，以不同的方式执行相同的操作。"
+  },
+  {
+   "cn": "同质多晶",
+   "en": "polymorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1895",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在不同的物理化学条件(温度、压力、介质和外场等)下，同一化合物可以形成不同结构晶体的现象。"
+  },
+  {
+   "cn": "多态",
+   "en": "polymorphism",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0230",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类继承一般类的属性或服务之后，可以有不同的数据类型或表现出不同的行为从而使得同一个属性或服务名在一般类及特殊类中具有不同的意义。"
+  },
+  {
+   "cn": "多晶型",
+   "en": "polymorphism",
+   "source": "药学名词",
+   "wordNumber": "02.179",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "化学结构相同的分子由于结晶条件(如溶剂、温度、冷却速度等)不同，结晶时形成一种以上的分子排列与晶格结构的现象。"
+  },
+  {
+   "cn": "多形现象",
+   "en": "polymorphism",
+   "source": "微生物学名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "同一微生物繁殖群中呈现多于一种遗传特征相异个体的现象。"
+  },
+  {
+   "cn": "多态现象",
+   "en": "polymorphism",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0864",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "同种生物的个体对某些形态、形质等所表现的多样性状态。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "免疫学名词",
+   "wordNumber": "2.77",
+   "subjectFullName": "免疫学_免疫系统_主要组织相容性复合体和遗传",
+   "subjectName": "主要组织相容性复合体和遗传",
+   "publishYear": "2007",
+   "definition": "群体内存在和等位基因相关的若干种表现型，是单一基因座等位基因变异性在群体水平的体现。已知MHC是人类中多态性最为丰富的基因系统。"
+  },
+  {
+   "cn": "多态现象",
+   "en": "polymorphism",
+   "source": "生态学名词",
+   "wordNumber": "05.123",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "同一个物种内的个体具有明显的形态上区别的现象。如东亚飞蝗具有群居相和散居相。"
+  },
+  {
+   "cn": "多型现象",
+   "en": "polymorphism",
+   "source": "昆虫学名词",
+   "wordNumber": "05.029",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "一种昆虫中同一个虫态有数种类型的现象。"
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.839",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "同质多象",
+   "en": "polymorphism",
+   "source": "地质学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多形性",
+   "en": "polymorphism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多态现象（=多态性）",
+   "en": "polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多态性，多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多态［现象］",
+   "en": "polymorphism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多态性,多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同质多象",
+   "en": "polymorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多形态性",
+   "en": "polymorphism",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多态性,多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多态",
+   "en": "polymorphism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多型现象",
+   "en": "polymorphism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism\",\"pleiomorphism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同质多晶现象",
+   "en": "polytropism\",\"polymorphism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "地理多态现象",
+   "en": "geographical polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA多态性",
+   "en": "DNA polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育多态现象",
+   "en": "developmental polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡多态现象",
+   "en": "balanced polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单核苷酸多态性",
+   "en": "single nucleotide polymorphism,SNP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性。是人类可遗传的变异中最常见的一种，占所有已知多态性的80%以上。SNP是一种二态的标记，由单个碱基的转换或颠换所引起，也可由碱基的插入或缺失所"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,532 @@
+{
+ "key": "categorical sentences",
+ "term": "categorical sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:24:14+00:00",
+ "status": "ok",
+ "note": "variant=categorical sentences; 审定公布名词库=83; 海峡两岸名词对照库=26; 其他来源数据库=8; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "source": "语言学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "主客观相互作用对事物进行分类的过程，其结果就是认知范畴。范畴化是人类对世界万物进行分类的一种高级认知活动。"
+  },
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "source": "数学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.330",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "表型可清晰地分为若干类型的性状。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0328",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "由买方的各种职能部门(工程、生产、质量等)提供意见，并将其综合分类，来选择和评价供应商的一种方法。"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "心理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象表面特征将其归入特定类别的知觉。"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "通过确定每个观察单位的某项特征的性质或类别得到的数据。其变量值是定性的，表现为互不相容的类别或属性，没有度量衡单 位。"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "source": "语言学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "说话人意识不到但又不会违反的规则。例如汉语普通话的“上声＋上声”读为“阳平＋上声”的规则。"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "指同义词之间共有的那部分意义。例如，“优异”“优秀”“优良”中“好”义为范畴义。"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "source": "数学名词",
+   "wordNumber": "02.0318",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0726",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "按照功能在满足使用者需求方面的不同属性、重要程度、以及功能之间的相互关系等原则，对全部功能所进行的类别划分。"
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音类别知觉",
+   "en": "categorical speech perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "范畴数据分析",
+   "en": "categorical data analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在社会情景中，人们根据不同的情况，把处于该情景中的个人归于不同的社会类别中的过程。例如区分男性/女性、年轻人/老年人、中国人/外国人等。"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在各种社会情景下，个人会主动把自己归于不同的类别/群体当中，接受相应的规范并采取相应的行为的现象和过程，是与社会类别化相对应的一个社会认知过程。一般认为这一过程是群体行为形成的基本条件。"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.108",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以定类或定序变量作为因变量的统计分析。"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《放射源分类办法》（国家环境保护总局公告 2005年第62号）和国际原子能机构《放射性物质的危险量》（EPR-D-values 2006），根据放射源对人体健康和环境的潜在危害程度进行分类，分为："
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "按照《射线装置分类》（环境保护部、国家卫生计生委公告2017年第66号），根据射线装置对人体健康和环境可能造成危害的程度，分为Ⅰ类（高危险射线装置）、Ⅱ类（中危险射线装置）、Ⅲ类（低危险射线装置）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

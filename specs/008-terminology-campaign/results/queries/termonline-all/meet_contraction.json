@@ -1,0 +1,782 @@
+{
+ "key": "meet contraction",
+ "term": "meet contraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:27:32+00:00",
+ "status": "ok",
+ "note": "variant=meet contraction; 审定公布名词库=1527; 海峡两岸名词对照库=314; 其他来源数据库=77; 预公布名词数据库=128; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "交",
+   "en": "meet",
+   "source": "数学名词",
+   "wordNumber": "01.0085",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "会车",
+   "en": "meeting",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.100",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "承包",
+   "en": "contract,contracting",
+   "source": "土木工程名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交表示",
+   "en": "meet representation",
+   "source": "数学名词",
+   "wordNumber": "03.0323",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纪要",
+   "en": "meeting minutes",
+   "source": "档案学名词",
+   "wordNumber": "02.01.059",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "会议文件的一种。适用于记载会议主要情况和议定事项。"
+  },
+  {
+   "cn": "会议鉴定",
+   "en": "meeting identification",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.199",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "由同行专家采用会议形式对科技成果做出评价。"
+  },
+  {
+   "cn": "投标预备会",
+   "en": "preparatory meeting",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0461",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "为解答投标单位提出的问题和组织投标单位考察和了解现场情况，在投标前由招标单位举办的会议。"
+  },
+  {
+   "cn": "家长会",
+   "en": "parents meeting",
+   "source": "教育学名词",
+   "wordNumber": "07.217",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学校召集学生家长到学校召开或家长自行召开的会议。家长会的一般内容是沟通情况、统一认识、传授家庭教育经验，是家长活动方式之一。"
+  },
+  {
+   "cn": "班会",
+   "en": "class meeting",
+   "source": "教育学名词",
+   "wordNumber": "07.112",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "以班级为单位，讨论并解决班集体学习、生活中的问题的全体成员会议或活动。"
+  },
+  {
+   "cn": "收缩流",
+   "en": "contraction",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0814",
+   "subjectFullName": "机械工程（一）_传动_液压传动_流动和流量",
+   "subjectName": "流动和流量",
+   "publishYear": "2021",
+   "definition": "流体从一个小的截面流出，由于流体动量发生变化，液流直径小于流体通道直径的流体流动。"
+  },
+  {
+   "cn": "收缩",
+   "en": "contraction",
+   "source": "生理学名词",
+   "wordNumber": "02.478",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缩并",
+   "en": "contraction",
+   "source": "物理学名词",
+   "wordNumber": "06.0247",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "收缩",
+   "en": "contraction",
+   "source": "物理学名词",
+   "wordNumber": "06.0246",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "收缩",
+   "en": "contraction",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.331",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "肌肉产生力的主动过程。"
+  },
+  {
+   "cn": "收缩",
+   "en": "contraction",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0030",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "缩并[运算]",
+   "en": "contraction",
+   "source": "数学名词",
+   "wordNumber": "03.0166",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "收缩",
+   "en": "contraction",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合同",
+   "en": "contract",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.024",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "对签约方都有约束力的协议。其强制承约方（卖方）提供规定的产品、服务或成果，强制承包方（买方）提供履行约定所需的条件并支付相应的报酬。"
+  },
+  {
+   "cn": "契约",
+   "en": "contract",
+   "source": "经济学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "市场交易双方或多方之间，基于各自的利益要求所达成的一种在法律上具有强制约束力的许诺或协议。契约是一组承诺的集合，它是当事人在签约时作出的，并且预期在未来能够兑现。契约的核心内容在于，它的条款是状态依存"
+  },
+  {
+   "cn": "契约",
+   "en": "contract",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1014",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "当事人之间关于权利和义务的承诺。"
+  },
+  {
+   "cn": "合同",
+   "en": "contract",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收缩系数",
+   "en": "coefficient contraction\",\"contraction coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "股东大会",
+   "en": "meeting of stockholder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电子会议系统",
+   "en": "electronic meeting system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等张收缩",
+   "en": "isotonic contraction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "收缩系数",
+   "en": "contraction coefficient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "收缩损失",
+   "en": "contraction loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝热收缩",
+   "en": "adiabatic contraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "收缩稳定性",
+   "en": "contraction stability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹收缩",
+   "en": "Helmholtz contraction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力收缩",
+   "en": "gravitational contraction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "锕系收缩",
+   "en": "actinide contraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镧系收缩",
+   "en": "lanthanide contraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缩环[反应]",
+   "en": "ring contraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "收缩说， 冷缩说",
+   "en": "contraction theory",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "盐收缩",
+   "en": "saline contraction",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "染色体收缩",
+   "en": "chromosome contraction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "种群萎缩现象",
+   "en": "population contraction",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "收缩宇宙",
+   "en": "contracting universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "心理契约",
+   "en": "psychological contract",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"meet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛事秘书",
+   "en": "meet secretary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞赛总监",
+   "en": "meet director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛记录员",
+   "en": "meet secretary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织大会",
+   "en": "ISO meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical meeting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亚欧会议",
+   "en": "Asia-Europe Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据契约",
+   "en": "data contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能合约",
+   "en": "smart contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同自动化",
+   "en": "contract automation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"meet\",\"match\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剑头相碰",
+   "en": "meeting of the points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区块链电子合同",
+   "en": "blockchain e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会契约论",
+   "en": "social contract theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "履约信息",
+   "en": "contract performance information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“数字一带一路”国际科学计划会议",
+   "en": "Digital Belt and Road Initiative Meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中英标准化合作委员会会议",
+   "en": "China-UK Standardization Cooperation Commission Meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遵义会议",
+   "en": "Zunyi Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0530",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1935年1月15日至17日，中共中央在贵州遵义召开的政治局扩大会议。会议解决了当时最为紧迫的军事问题和组织问题，解除了博古、李德的军事指挥权，决定党内事务由洛甫（张闻天）负总责,结束了王明“左”倾教"
+  },
+  {
+   "cn": "瓦窑堡会议",
+   "en": "Wayaobao Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0531",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1935年12月17日至25日在陕西安定（今子长）召开的中共中央政治局扩大会议。会议通过了张闻天起草的《中央关于目前政治形势与党的任务决议》，毛泽东作了题为《论反对日本帝国主义的策略》的报告。瓦窑堡会"
+  },
+  {
+   "cn": "洛川会议",
+   "en": "Luochuan Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0532",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1937年8月22日至25日，中共中央在陕北洛川冯家村召开的政治局扩大会议，是在全国性抗日战争刚刚爆发的历史关头召开的一次重要会议。会议通过了《关于目前形势与党的任务的决定》和《抗日救国十大纲领》。十"
+  },
+  {
+   "cn": "调查会",
+   "en": "investigation meeting",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0653",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "开调查会是国内各种调查的一种最常用的方法。在民族地区，调查回忆是一种易于被接受的形式。开调查会，应得到当地主管部门的支持和配合。调查会之前，应例行听取当地主管部门领导的介绍，一是熟悉当地情况，二是取得"
+  },
+  {
+   "cn": "契约",
+   "en": "contract",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.127",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "两个或两个以上的个人或组织自由订立的有关某种权利或义务的社会约定形式。其目的是使当事人相互间可以自愿地承担有法律约束力的义务。如果一方当事人违约，另一方就有权对他从法律上予以追究。"
+  },
+  {
+   "cn": "等长收缩",
+   "en": "isometric contraction",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "肌肉长度保持恒定而张力发生变化的肌肉收缩。"
+  },
+  {
+   "cn": "等张收缩",
+   "en": "isotonic contraction",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.1.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "肌张力保持恒定而长度发生变化的肌肉收缩。"
+  },
+  {
+   "cn": "社会契约",
+   "en": "social contract",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "公民个体以意志表达为基础，建立政治社会与国家的政治联合形式及其结果。法国思想家卢梭认为，社会契约是个体脱离自然状态、进入政治社会的路径和保证，是政治体的合法性根基。"
+  },
+  {
+   "cn": "接案",
+   "en": "engagement，contract",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与潜在的服务对象开始接触、了解其需求、帮助其逐渐成为服务对象并接受服务的过程，是社会工作助人活动的开端。"
+  },
+  {
+   "cn": "签约服务",
+   "en": "contracted service",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.6",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "居民与基层医疗卫生机构或家庭医生团队通过自愿签订服务协议，建立长期、稳定的契约关系，获得的个性化、连续性、综合性健康管理服务。其核心目标是通过医患双方的权责约定，推动基层首诊、分级诊疗和医防融合，提升"
+  },
+  {
+   "cn": "契约伦理",
+   "en": "contract ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "按契约履行责任义务，并对违约承担道德后果的伦理规范和要求。是市场经济高度发展的产物。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "战略性购买合约",
+   "en": "strategic purchasing contract",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。"
+  },
+  {
+   "cn": "定点零售药店",
+   "en": "contracted retail pharmacy",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.5.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "自愿与统筹地区经办机构签订医保协议，为参保人员提供药品服务的实体零售药店。"
+  },
+  {
+   "cn": "定点医疗机构",
+   "en": "contracted medical institution",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.5.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "自愿与统筹地区经办机构签订医保协议，为参保人员提供医疗服务的医疗机构。"
+  },
+  {
+   "cn": "三会一课",
+   "en": "three meetings and a lesson",
+   "source": "马克思主义",
+   "wordNumber": "03.0750",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "定期召开支部党员大会、支部委员会、党小组会，按时上好党课的制度。三会一课制度是党的基层支部长期坚持的重要制度，也是健全党的组织生活，严格党员管理，加强党员教育的重要制度。"
+  },
+  {
+   "cn": "第一国际成立大会",
+   "en": "founding meeting of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0466",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪50年代末、60年代初,科学社会主义在欧洲和其他国家进一步传播,西欧各国工人运动高涨,民族解放运动有了新的发展,欧洲各国工人阶级普遍要求加强国际团结和共同对敌,为国际组织的产生奠定了基础。18"
+  },
+  {
+   "cn": "家庭医生签约服务",
+   "en": "family doctor contracted services",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.5.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "以全科医生为主体，采取家庭医生团队服务形式，与居民或家庭自愿签订服务协议，为其提供基本医疗、公共卫生和约定的健康管理服务。"
+  },
+  {
+   "cn": "承包经营责任制",
+   "en": "managerial responsibility system of contracting",
+   "source": "马克思主义",
+   "wordNumber": "02.0390",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国经济体制改革中社会主义企业采取的一种生产经营责任制形式。具体是指在坚持社会主义公有制基础上，按照所有权与经营权分离的原则，通过签订承包经营合同，确定国家与企业的责、权、利关系，使企业做到自主经营、"
+  },
+  {
+   "cn": "定点机构管理",
+   "en": "management of contracted health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险管理部门对医疗机构与零售药店在定点申请、专业评估、定点确定、协商谈判、协议订立、协议履行、协议解除等环节进行监督和管理的方式，以保证定点机构遵守医疗保障法律、法规、规章及有关政策，按照规定向参"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

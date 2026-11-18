@@ -1,0 +1,562 @@
+{
+ "key": "differential geometry",
+ "term": "differential geometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:26:38+00:00",
+ "status": "ok",
+ "note": "variant=differential geometry; 审定公布名词库=1059; 海峡两岸名词对照库=355; 其他来源数据库=21; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "微分几何[学]",
+   "en": "differential geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0939",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿射微分几何[学]",
+   "en": "affine differential geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0942",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "射影微分几何[学]",
+   "en": "projective differential geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0941",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "随机微分几何",
+   "en": "stochastic differential geometry",
+   "source": "数学名词",
+   "wordNumber": "09.0277",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何学",
+   "en": "structural geometry",
+   "source": "地质学名词",
+   "wordNumber": "09.01.003",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究不同尺度构造的形状、产状、方位、大小，以及各构造要素之间和相关构造之间的几何和空间关系的构造地质学分支学科。是构造运动学和动力学分析的基础。"
+  },
+  {
+   "cn": "射线几何学",
+   "en": "ray geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波传播过程中从源到达接收点的射线的几何学。 "
+  },
+  {
+   "cn": "分形几何学",
+   "en": "fractal geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2247",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以不规则几何形态为研究对象的几何学。 "
+  },
+  {
+   "cn": "旁线装置",
+   "en": "broadside geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0201",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "当发射与接收两线圈一起移动逐点观测时，称为动源系统、动源式装置，其中收发线圈分别在测线与旁线上称为旁线装置。 "
+  },
+  {
+   "cn": "成像几何",
+   "en": "imaging geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述图像与物体投影关系的几何模型。"
+  },
+  {
+   "cn": "射影几何",
+   "en": "projective geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "射影变换下保持不变的图形性质的几何学分支。"
+  },
+  {
+   "cn": "核面几何",
+   "en": "epipolar geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述同名像点与物点共面关系的几何模型。"
+  },
+  {
+   "cn": "随机几何学",
+   "en": "stochastic geometry",
+   "source": "物理学名词",
+   "wordNumber": "08.0604",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基几何",
+   "en": "Minkowski geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0063",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内禀几何",
+   "en": "intrinsic geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0240",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空几何",
+   "en": "spacetime geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0241",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0561",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "采用计算机对几何问题进行表示、查找、度量、计算和分析的一门学科。"
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0605",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "研究具有非整数维几何物体的学科。"
+  },
+  {
+   "cn": "几何着色器",
+   "en": "geometry shader",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0755",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "图形处理流程中生成几何基元（点、线段、三角形）的核心函数。几何着色器在顶点着色器之后运行。"
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0495",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "物体的几何外形产生变化。"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水力几何形态",
+   "en": "hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欧几里得几何学",
+   "en": "Euclidean geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行星几何学",
+   "en": "planetary geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参数几何",
+   "en": "parametric geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何",
+   "en": "constructive geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何[学]",
+   "en": "computational geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子几何[结构]",
+   "en": "molecular geometry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "differential",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微分器",
+   "en": "differentiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辨体",
+   "en": "Style Differentiation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据差异化",
+   "en": "data differentiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融监管差异化激励机制",
+   "en": "differential incentive mechanism for financial supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "性别分化",
+   "en": "differentiation of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "不同性别之间在生存状况、发展条件、社会地位等方面差异性的增加和差距的扩大。"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量条目在不同群组的功能表现不一致的现象。其结果是具有相同潜在特质的个体因为属于不同群组（如种族、性别等）对测量条目产生不同反应。"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "区别对待分化瓦解",
+   "en": "differentiate the enemies and make them disintegrate",
+   "source": "马克思主义",
+   "wordNumber": "03.0441",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1940年的《论政策》提出的中国共产党在民主革命时期的对敌斗争策略之一。强调根据敌对势力内部在对待反共和抗日问题上不一致的态度，加以区别，利用各派别之间的矛盾，采取不同政策，以达到分化、瓦解敌"
+  },
+  {
+   "cn": "急慢分治",
+   "en": "differentiate treatments for acute and chronic disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据急性、慢性疾病各自的特点，分流患者到适合的医疗机构就诊，提高不同类别医疗机构使用效率的分级诊疗模式。"
+  },
+  {
+   "cn": "推论性统计",
+   "en": "inferential statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.62",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据样本数据去推断总体数量特征的统计方法。包括参数估计和假设检验两种方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

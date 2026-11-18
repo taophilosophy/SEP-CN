@@ -1,0 +1,732 @@
+{
+ "key": "appearance beliefs",
+ "term": "appearance beliefs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:41:05+00:00",
+ "status": "ok",
+ "note": "variant=appearance beliefs; 审定公布名词库=244; 海峡两岸名词对照库=69; 其他来源数据库=16; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "行为医学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体对某种思想或准则坚信不疑的看法或心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0155",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们对未来不确定状态发生可能性的判断。广义的信念类似于预期；狭义的信念具体化为人们对事件发生的主观概率的估计。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "心理学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对某种思想或准则坚信不移的心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "对某一现象或某一事物的存在或其合理性确信无疑的看法。"
+  },
+  {
+   "cn": "外观",
+   "en": "appearance",
+   "source": "农学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农产品的所有可见特性。"
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "标准信念",
+   "en": "standard belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.083",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人对其行为改变的支持和期望程度。"
+  },
+  {
+   "cn": "不合理信念",
+   "en": "irrational belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体内心不现实、不合逻辑、站不住脚的信念。是绝对化、过分概括化、极端化的思想认识。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "行为医学名词",
+   "wordNumber": "7.057",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "个体如何看待健康和疾病，如何认识预防措施和疾病易感性的心理状态。"
+  },
+  {
+   "cn": "信念收缩",
+   "en": "belief contraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念从信念集中删除。"
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0025",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。将公式 A加到信念集K中，同时去掉K中能导出非A的语句，使获得的新信念集合协调，该过程称为用A修正K 。"
+  },
+  {
+   "cn": "信念固化",
+   "en": "belief consolidation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0027",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "有两种用法：①按斯文·汉森（Sven Ove Hansson）的用法，固化就是对信念集合实行逻辑协调的过程；②按奥尔森（E.J.Olsson）的用法，固化就是对信念集合实行逻辑协调加上认知均衡（稳固）"
+  },
+  {
+   "cn": "信念融合",
+   "en": "belief merging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0030",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "两个或更多的信念集合合并在一起，同时维持其逻辑一致性的操作。"
+  },
+  {
+   "cn": "智能体的信念",
+   "en": "agent belief",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0163",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体对外部世界的感知和认识，以及为达到某种效果所可能采取的行为路线的知识。"
+  },
+  {
+   "cn": "信念扩展",
+   "en": "belief expansion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0029",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念在集合论意义下加入现有信念集合中，该操作不保证结果的逻辑一致性。"
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0237",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "实体分类为主体和客体，通过形式化推理证明，判断对客体相信度的逻辑。"
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0191",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "消费者关于某些事物的描述性看法。"
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "心理学名词",
+   "wordNumber": "15.061",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "引发情绪困扰、行为失调的不合理想法。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "心理学名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "个体意识中根深蒂固的、并遵循、信奉的道德观念和道德理想。"
+  },
+  {
+   "cn": "行为信念",
+   "en": "behavioral belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体采纳某行为能否达到预期结果的自信 心。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不良适应信念",
+   "en": "maladaptive belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念坚持",
+   "en": "belief perseverance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信度函数",
+   "en": "belief function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再现立体感比例",
+   "en": "appearance ratio",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自我挫败信念",
+   "en": "self defeating belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色信念",
+   "en": "gender role belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述性消费者信念",
+   "en": "descriptive consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "末现面",
+   "en": "last-appearance datum",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表现世界",
+   "en": "world of appearances",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯信念量表",
+   "en": "Career Belief Inventory\",\"CBI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念-期望-意图模型",
+   "en": "belief-desire-intention model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出现电势谱[学]",
+   "en": "appearance potential spectroscopy，APS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念-欲望心智理论",
+   "en": "belief desire theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迟现抗原-5",
+   "en": "very late appearing antigen-5， VLA-5",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "宣夜说",
+   "en": "theory of infinite heavens\",\"theory of expounding appearance in the night sky",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "深度置信网络",
+   "en": "deep belief network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程出庭",
+   "en": "remote court appearance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无用之用",
+   "en": "The Advantage of Appearing Useless",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拟容取心",
+   "en": "Compare Appearances to Grasp the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "践形",
+   "en": "Cultivate One’s Innate Quality to Be Revealed in One’s Appearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "把问题解决在萌芽之时、成灾之前",
+   "en": "to eliminate risks at the source and resolving problems when they first appear",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "往复",
+   "en": "Disappearance and Reappearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "候援投手",
+   "en": "relief pitcher\",\"reliefer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自信",
+   "en": "Believe in One’s Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字地震应急救灾",
+   "en": "digital earthquake emergency relief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗震救灾精神",
+   "en": "the spirit of Earthquake Relief",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摘帽不摘政策",
+   "en": "Poverty relief policies will continue after counties being removed from the poverty list.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "关于某一或某些存在、意义、价值等的认识及认可。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人们对自身、他人、社会以及世界的心理表征体系中信以为真的成份。在很大程度上与个人早期经验有关，由个体所处的社会文化环境塑造而成。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某种思想或宗教，或者对某人、某物的信奉和敬仰，并把这些奉为自己的行为准则。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1079999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对事实或可能成为事实的理论、理想或目标的内在确信。在道德品质的构成中，道德信念居于基本的和核心的地位，是人们的道德认识、道德情感和道德意志反映在道德实践基础上的有机统一，具有稳定性和持久性的特点。"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "渔民信仰",
+   "en": "fishermen beliefs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0056",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "渔民自发对某种思想或宗教或追求的信奉敬仰，具有很强的实际需求导向和禳灾祈福意象。渔民信仰对象繁多，如沿海渔民信仰海神龙王爷、妈祖、鱼神、潮神、港神、船神、礁神等；在中国比较常见的有妈祖信仰、龙王信仰和"
+  },
+  {
+   "cn": "超凡信仰",
+   "en": "paranormal belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信在日常经验和科学解释之外的某些现象的存在，例如神秘物质或能量、外太空生命、UFO等。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0170000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体对道德理想和道德要求等深刻而有根据的坚信，以及由此而产生的对履行道德义务的强烈责任感。它是道德认识、道德情感和道德意志的有机统一，具有稳定性和持久性。"
+  },
+  {
+   "cn": "民俗信仰",
+   "en": "folk belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0277",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在长期的历史发展过程中，在民众中产生和传承的一套神灵崇拜观念、行为习惯和相应的仪式制度。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体对健康、疾病、风险和预防措施的主观认知与态度。"
+  },
+  {
+   "cn": "库欣面容",
+   "en": "Cushingoid appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "面圆如满月、面色红润的体征，常伴痤疮、体毛增多等，见于皮质醇增多症以及长期应用肾上腺皮质激素的病人。"
+  },
+  {
+   "cn": "农业信仰习俗",
+   "en": "agricultural beliefs customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0041",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在农业生产活动中形成并传承的一系列与自然崇拜、祖先崇拜及地方神灵崇拜相关的信仰和习俗，体现了农民对自然规律的认识、对丰收的期盼以及对生活的美好祝愿。这些习俗通常包括祭祀仪式、节日庆典、特定的耕作仪式等"
+  },
+  {
+   "cn": "犹太教-基督教信仰",
+   "en": "Judeo-Christian beliefs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "诞生于巴勒斯坦耶路撒冷圣城的同源宗教犹太教和基督教的信仰体系，主要强调爱人、利他、奉献等。"
+  },
+  {
+   "cn": "健康信念模型",
+   "en": "health belief model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "运用于解释个体健康行为的理论模型。"
+  },
+  {
+   "cn": "鸥翼征",
+   "en": "Gull Wing Appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.16",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "髋臼骨折累及髋臼顶部时，导致髋臼顶发生压缩性骨折，X线片显示髋臼顶部呈现典型的双弧影，类似于飞行中海鸥张开的翅膀。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "健康信念模式",
+   "en": "health belief model, HBM",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.4.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "一种经典健康行为理论，认为个体的健康行为是其主观信念的函数，主要受到感知到的疾病风险、潜在损害、预期收益、行为障碍、提示因素及自我效能的影响。"
+  },
+  {
+   "cn": "健康信念模式",
+   "en": "health belief model, HBM",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "用社会心理学的概念构建解释人们与健康有关的行为模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

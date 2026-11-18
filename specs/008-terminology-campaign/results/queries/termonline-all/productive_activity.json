@@ -1,0 +1,722 @@
+{
+ "key": "productive activity",
+ "term": "productive activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:35:42+00:00",
+ "status": "ok",
+ "note": "variant=productive activity; 审定公布名词库=3889; 海峡两岸名词对照库=1148; 其他来源数据库=125; 预公布名词数据库=456; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "活化产物",
+   "en": "activation product",
+   "source": "电力名词",
+   "wordNumber": "17.029",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "低能中子与一些稳定同位素发生核反应生成的放射性同位素,其放射性又称感生放射性。"
+  },
+  {
+   "cn": "生产作业控制",
+   "en": "production activity control",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "在生产计划执行过程中，对有关产品生产的数量和期限的掌控。其主要目的是保证完成生产作业计划所规定的产品产量和交货期限指标。"
+  },
+  {
+   "cn": "离子的活度积",
+   "en": "ion activity product",
+   "source": "地质学名词",
+   "wordNumber": "16.04.095",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "在电解质溶液中，离子相互作用使离子通常不能完全发挥其作用,离子实际发挥作用的浓度称为活度(或称有效浓度)，在一定的温度、压力条件下，难溶电解质离解的离子活度的乘积称为活度积，是一个常数。天然水中通常都"
+  },
+  {
+   "cn": "水产品水分活度",
+   "en": "water activity of fish products",
+   "source": "水产名词",
+   "wordNumber": "08.049",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "符号“Aw”。水产食品中水蒸气分压与在相同温度下纯水蒸气压之比。是预测水产食品贮藏期限的主要参数。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "运动医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指一切物体或事物的动态变化。在运动医学与康复医学范畴特指与躯体运动相关的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0159",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "为校正真实溶液对理想液态混合物所产生的偏差引入的概念，为组元在真实溶液中表现出的实际活动能力。活度是与浓度比值或分压比值有关的无量纲量。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1109",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0219",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "为使理想溶液的热力学公式适用于真实溶液，用来代替浓度的一种物理量。即某物质的“有效浓度”。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0160",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "能够独立执行的工作单元。是工作流的基本构成单位。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "化学名词",
+   "wordNumber": "04.0194",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "表示非理想溶液性质的物理量。其定义为<img src='/root/syzx/static/spz/huaxue2.04.0194.1.png'/>，<img src='/root/syzx/stat"
+  },
+  {
+   "cn": "作业",
+   "en": "activity",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0292",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为了某种目的而进行的消耗资源的活动。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "activity",
+   "source": "计量学名词",
+   "wordNumber": "14.017",
+   "subjectFullName": "计量学_光学_放射性活度",
+   "subjectName": "放射性活度",
+   "publishYear": "2015",
+   "definition": "在一确定时刻，某一特定能态的一定量的放射性核素的活度是确定时间间隔内该能态上自发核跃迁数的期望值与该时间间隔之商。一般采用核素活度 A=dN/dt 来描述，dN是时间间隔 dt 内自发核跃迁数的期望值"
+  },
+  {
+   "cn": "中子活化产物",
+   "en": "neutron activation product",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "离子活度积",
+   "en": "ion activity product\",\"IAP",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "马克思主义",
+   "wordNumber": "02.0002",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以一定的劳动方式、一定的生产资料所有制为基础的劳动者与生产资料结合的形式，从而结合起来的人们改造自然及生产物质资料的过程。广义的生产除了物质财富之外，还包括精神财富的创造和人类自身生产等。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "个人、团队或组织在一定时间内完成的工作量。"
+  },
+  {
+   "cn": "能产性",
+   "en": "productivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0041",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①语言使用者能够使用并且理解无穷多的句子的创造性能力。是人类语言区别于其他动物交际系统的一个显著特征。②某一成分或模式构成新的词汇、形态和句法格式的性能。"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "胆碱酯酶活性",
+   "en": "cholinesterase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.3",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "用于评价有机磷中毒的重要指标之一，轻度中毒时全血胆碱酯酶活性约为正常的50%~70%，中度中毒时约为正常的30~50%，重度中毒时低于30%。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

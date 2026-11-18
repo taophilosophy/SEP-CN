@@ -1,0 +1,782 @@
+{
+ "key": "active participation",
+ "term": "active participation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:29:18+00:00",
+ "status": "ok",
+ "note": "variant=active participation; 审定公布名词库=2756; 海峡两岸名词对照库=928; 其他来源数据库=143; 预公布名词数据库=244; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "活动和参与",
+   "en": "activity and participation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "国际功能、残疾和健康分类的一个重要维度，其中活动是由个体执行一项任务或行动，它代表了功能的个体方面。参与是投入生活环境之中，它代表了功能的社会方面。"
+  },
+  {
+   "cn": "参赛者",
+   "en": "participant",
+   "source": "运动医学名词",
+   "wordNumber": "09.028",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何运动员或运动员辅助人员。"
+  },
+  {
+   "cn": "受试者",
+   "en": "participant",
+   "source": "核医学名词",
+   "wordNumber": "06.0234",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "临床研究中自觉或志愿参与和接受试验的人。与临床前研究对象不同，出于其主观能动性配合完成试验，而非被动地被研究者试验，所以不能称为被试者，更不宜简称为被试。"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0282",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "分布式事务中除根代理以外的其他代理，根据协调者的安排负责本地子事务的撤销或执行，向协调者返回撤销或提交子事务的消息。"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "语言学名词",
+   "wordNumber": "12.089",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "参与言语交际活动的人。"
+  },
+  {
+   "cn": "公民参与",
+   "en": "citizen participation,public participation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0585",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "公民通过各种方式影响公共政策以及公共治理的过程。"
+  },
+  {
+   "cn": "公众参与",
+   "en": "public participation",
+   "source": "风景园林名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "风景园林_总论_风景园林管理",
+   "subjectName": "风景园林管理",
+   "publishYear": "2025",
+   "definition": "社会群众、社会组织、单位或个人作为主体，在权利义务范围内，参与规划设计编制与实施过程的活动。"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community participation",
+   "source": "风景园林名词",
+   "wordNumber": "04.0347",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "社区居民自觉自愿地参加社区各种活动或事务，表达自己的意见和建议，并影响管理机构决策的行为。"
+  },
+  {
+   "cn": "分配因子",
+   "en": "participation factor",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2087",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "表征多自由度系统经过标定的输入分配到系统的各种振型的因子。这个因子不是唯一的，依赖于振型的形状及其如何归一化。最普通的归一化方法是分配因子加起来后大于 1。在这种情况下，一种振幅的分配因子是振型接收到"
+  },
+  {
+   "cn": "村民参与",
+   "en": "villager participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村民参加村庄集体事务，并就有关决策发表意见或行使决策权利的村庄管理方式。"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "社区居民自觉、自愿地参加社区活动或事务，表达自己的意见和建议，并影响利益相关者决策的行为。"
+  },
+  {
+   "cn": "公众参与",
+   "en": "public participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "城乡规划学_社区与住房规划_社会公正与公众参与",
+   "subjectName": "社会公正与公众参与",
+   "publishYear": "2021",
+   "definition": "（1）广义上指公众试图影响公共政策决策的一切活动。包括投票、竞选、对话、协商、听证等。（2）狭义上指公众通过直接与政府或其他公共机构互动的方式决定公共事务和参与公共治理的过程。强调决策者与受决策影响的"
+  },
+  {
+   "cn": "规划公众参与",
+   "en": "public participation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.046",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "规划编制部门采取多种形式以使公民、法人和其他组织参与规划编制过程和了解规划内容的过程。"
+  },
+  {
+   "cn": "患者参与",
+   "en": "patient participation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "让患者了解健康问题，加入制定护理措施的过程。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1025",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。要使一个代理人有兴趣接受委托人设计的机制从而参与一个博弈的话，代理人在该机制下得到的期望效用必须不小于他在不接受这个机制时得到的"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community participation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "社区力量共同对社区卫生服务需求做出评价、决策和干预的行动。"
+  },
+  {
+   "cn": "患者参与",
+   "en": "patient participation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "让被服务者参与卫生服务的过程。如疾病诊疗过程中患者的知情同意及分担自己的责任。"
+  },
+  {
+   "cn": "参与局限性",
+   "en": "participation restriction",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "个体投入到生活情景中可能经历到的问题。是否出现参与局限性要通过比较个体的参与和在相同文化或社会中无残疾个体所期望的参与来决定。"
+  },
+  {
+   "cn": "公众参与",
+   "en": "public participation",
+   "source": "建筑学名词",
+   "wordNumber": "07.0042",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "社会群众、社会组织、单位或个人作为主体，在权利义务范围内，参与规划编制与实施过程的活动。《城乡规划法》确立了城乡规划的公众参与制度。"
+  },
+  {
+   "cn": "参与式培训",
+   "en": "participation training",
+   "source": "教育学名词",
+   "wordNumber": "12.108",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "基于课题实施或问题解决，体现学员积极参与和主动学习的一种培训方式。学员参与培训的需求确认、方案设计、方案实施、结果评价等各个环节。"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参与管理",
+   "en": "participative management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参与再保险",
+   "en": "participating reinsurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同保险，互助保险",
+   "en": "participating insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同贷款",
+   "en": "participating loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "参与性观察［法］",
+   "en": "participant observation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领导［者］参与模型",
+   "en": "leader participation model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "邻基参与",
+   "en": "neighboring group participation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非参与性观察［法］",
+   "en": "non participant observation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参与者间设计",
+   "en": "between participants design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参赛者",
+   "en": "participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参与权",
+   "en": "participation right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参赛队员",
+   "en": "competitor\",\"participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参赛队员",
+   "en": "competitor\",\"participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非正规经济参与者",
+   "en": "participant in informal economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运动员入场式",
+   "en": "parade of the participants",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络问政",
+   "en": "online participation in political affairs",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境保护公众参与",
+   "en": "public participation in environmental protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参与",
+   "en": "participation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "既指群体、组织或社会成员参加有组织的活动，培养对自己生活的控制能力并在公共事务决策中发挥作用的行为，也指组织实现民主治理和共同体文化认同的一种组织方式，其动力建立在共享权益的基础之上，是体现合作、竞争"
+  },
+  {
+   "cn": "员工参与",
+   "en": "participation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织成员参与组织决策的管理模式，从而对与其关联密切的工作决策和行动产生影响。"
+  },
+  {
+   "cn": "青年参与",
+   "en": "youth participation",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "青年为发挥自身作用，获得发展机会，实现与社会的更多互动，在各类组织机构引导下或主动以多种方式去涉猎他们在历史上未曾参与的事务。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。，在委托–代理理论中关于委托人在进"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "社会参与",
+   "en": "social participation",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10.4",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "多元主体以各种方式直接或间接参与到社会健康活动的过程。"
+  },
+  {
+   "cn": "检验参与者",
+   "en": "testing participator",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "接受检验组织对其所用个人剂量监测系统等实施性能检验的机构。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  },
+  {
+   "cn": "互渗律",
+   "en": "law of participation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0535",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。指对任何现象的思维，这种现象既是它自身，又被解释为其他任何东西。"
+  },
+  {
+   "cn": "共同参与型模式",
+   "en": "mutual participation model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "萨斯-霍伦德模式的一种。在此模式中，医患双方具有同等的主动性，共同参与诊疗计划的决策、制订和实施。适用大多数慢性疾病和能够清晰表达自己的意愿并有相当医学知识的患者。"
+  },
+  {
+   "cn": "参与式教学方法",
+   "en": "participating teaching method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "采用学生喜闻乐见的方式，激发学生主动参与的热情，让学生在主动参与和探索中学习健康知识，发展并形成健康意识和行为的教学方法。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者不参与观察对象的群组活动，仅仅作为一个旁观者仔细的观察获取与研究相关信息的方法。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  },
+  {
+   "cn": "积极老龄化",
+   "en": "active aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "世界卫生组织在20世纪90年代后期提出的理念。人到老年时，为提高生活质量，使健康、参与和保障的机会最优化的过程。既适用于个体，也适用于人群。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,622 @@
+{
+ "key": "totality and infinity",
+ "term": "Totality and Infinity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:40:58+00:00",
+ "status": "ok",
+ "note": "variant=Totality and Infinity; 审定公布名词库=10000; 海峡两岸名词对照库=2048; 其他来源数据库=1312; 预公布名词数据库=1152; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "无穷",
+   "en": "infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "历史上，“无穷”一词有多种模糊的含义，如无限制、无终点、无定形、超越性等。今天，它通常指与自然数的任何前段都没有一一对应的复多。"
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "与实无穷对立的一种无穷观，认为无穷作为一个过程，永远不可完成。以自然数数列0，1，2，3……为例，潜无穷的观点认为，这样的递增过程是无穷无尽的，因此无穷不可视为一个整体。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为可把无穷视作一个整体，是已经完成了构造的实体，与潜无穷的立场不同。"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "source": "天文学名词",
+   "wordNumber": "07.606",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "共形图上的一种边界，由光无限时间传播定义的时空极限。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远空间",
+   "en": "space at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0399",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远点",
+   "en": "point at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0400",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远直线",
+   "en": "line at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0401",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远平面",
+   "en": "plane at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0402",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远[虚]圆",
+   "en": "circle at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0404",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高等财经教育",
+   "en": "higher education infinance",
+   "source": "教育学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等财经院校或系科为主实施的以传授财经学科知识，培养从事财经专业工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse; totality",
+   "source": "天文学名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体视面全部被另一个天体的影子遮掩的现象。"
+  },
+  {
+   "cn": "人力资源无限性",
+   "en": "infinity of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.033",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "每一代人所拥有的智力资源都是有限的，但人类一代又一代的延续过程是无限的。每一代人都把他们的知识和技术以及其他认识自然和社会的成果传授给下一代，每一代人都在前一代所达到的认识高度继续向前探索新的领域，而"
+  },
+  {
+   "cn": "无穷远[虚]圆点",
+   "en": "circular points at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0403",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全固形物",
+   "en": "total solid,total matter",
+   "source": "建筑学名词",
+   "wordNumber": "14.1042",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "水中悬浮物和溶解固形物的总量。"
+  },
+  {
+   "cn": "全不连通的",
+   "en": "totally disconnected",
+   "source": "数学名词",
+   "wordNumber": "04.0505",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全可微的",
+   "en": "totally differentiable",
+   "source": "数学名词",
+   "wordNumber": "05.0097",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全双曲[型]",
+   "en": "totally hyperbolic",
+   "source": "数学名词",
+   "wordNumber": "06.0533",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全碱",
+   "en": "total alkali",
+   "source": "地质学名词",
+   "wordNumber": "04.01.065",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩石中氧化钠和氧化钾含量之和。一般用它们的质量分数之和（Na₂O+K₂O）来表示。碱含量在地壳和地幔中的变化较大，二者又是主要造岩元素中的易熔组分，故对源区岩浆的组成和部分熔融程度以及岩浆的演化过程具"
+  },
+  {
+   "cn": "整体性",
+   "en": "totality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse\",\"totality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全体",
+   "en": "total",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总死亡率",
+   "en": "total mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全辐射",
+   "en": "total radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总压[力]",
+   "en": "total pressure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总能",
+   "en": "total energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总压力",
+   "en": "total pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "全导数",
+   "en": "total derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总发射系数",
+   "en": "total emissivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "全回流",
+   "en": "total reflux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总固体",
+   "en": "total solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总压头",
+   "en": "total head",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整体序列主义",
+   "en": "total serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "总星等",
+   "en": "total magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全合成",
+   "en": "total synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总酸度",
+   "en": "total acidity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总辐射量",
+   "en": "total radiation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贸易总额",
+   "en": "total trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无穷",
+   "en": "Limitlessness / Infinity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "source": "马克思主义",
+   "wordNumber": "05.0003",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "卢卡奇《历史和阶级意识》中的核心范畴。总体性是历史的总体，是客体与主体的统一；具体的总体，是直接性与中介性的统一；辩证的总体，是理论与实践的统一；革命的总体，是过程与目标的统一。"
+  },
+  {
+   "cn": "酸酯总量",
+   "en": "sum of total acid and total ester",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.7",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "单位体积白酒中总酸和总酯的总含量。"
+  },
+  {
+   "cn": "物质世界的无限性",
+   "en": "infinity of the material world",
+   "source": "马克思主义",
+   "wordNumber": "01.0029",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界在时间和空间上无始无终，无边无际，不可穷尽。整个物质世界是无限的，但具体事物及其发展过程却是有限的，物质世界的无限性存在于具体事物的有限性之中，无数的有限构成无限。"
+  },
+  {
+   "cn": "总酚",
+   "en": "total phenols",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "包括多元酚和一元酚的所有酚类物质的总和。"
+  },
+  {
+   "cn": "总氯",
+   "en": "total chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化合氯和游离氯之和。"
+  },
+  {
+   "cn": "总过滤",
+   "en": "total filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.31",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "固有过滤和附加过滤的总和。"
+  },
+  {
+   "cn": "总体史",
+   "en": "total history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种涉及社会生活的诸方面的历史，将不同领域视为一个整体的各个组成部分，而要理解其中任何一个领域，都要将其置于整体的历史之中。"
+  },
+  {
+   "cn": "总收入",
+   "en": "total income",
+   "source": "马克思主义",
+   "wordNumber": "02.0279",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "总生产中扣除了成本后的收入部分。总收入等于工资（或预定要重新成为工人收入的产品部分）+利润+地租。"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "总产量",
+   "en": "total production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "与一定的可变要素劳动的投入量相对应的最大产量。"
+  },
+  {
+   "cn": "全氮",
+   "en": "total nitrogen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.61",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "样品中的含氮物质（蛋白质及肽、胨及氨基酸等）中氮元素的总量，一般将含氮物质全部分解为氨后经测定计算出含氮总量。"
+  },
+  {
+   "cn": "总糖",
+   "en": "total sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.66",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）和非还原糖的总和。"
+  },
+  {
+   "cn": "总酸",
+   "en": "total acids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.67",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中所有能与氢氧化钠发生中和反应的各种酸的总和。"
+  },
+  {
+   "cn": "总减员",
+   "en": "total casualty",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.15.1",
+   "subjectFullName": "军事预防医学_军事预防医学_减员",
+   "subjectName": "减员",
+   "publishYear": "2025",
+   "definition": "参战人员在军事行动中所发生的减员，包括战斗减员和非战斗减员。"
+  },
+  {
+   "cn": "三卤甲烷总量",
+   "en": "total trihalomethanes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.9",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "在氯化等反应过程中形成的一类挥发性卤代烃类化合物的总和，包括氯仿、一溴二氯甲烷、二溴一氯甲烷和溴仿等。"
+  },
+  {
+   "cn": "妇幼卫生总费用",
+   "en": "total cost of woman and child health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "一个地区在一定时期内，为开展妇幼卫生服务活动从全社会筹集的卫生资源的货币总额。"
+  },
+  {
+   "cn": "总二氧化硫",
+   "en": "total sulfur dioxide",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.8",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "酒中以游离或结合形式存在的所有二氧化硫的总和。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "全身照射",
+   "en": "total body irradiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.5.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_部位分类",
+   "subjectName": "部位分类",
+   "publishYear": "2025",
+   "definition": "机体的所有组织或器官都受到电离辐射照射。"
+  },
+  {
+   "cn": "总和生育率",
+   "en": "total fertility rate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.1.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_出生",
+   "subjectName": "出生",
+   "publishYear": "2025",
+   "definition": "假定妇女按照当前的年龄别生育率度过育龄期，妇女平均活产的子女数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

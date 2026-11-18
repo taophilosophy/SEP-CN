@@ -1,0 +1,772 @@
+{
+ "key": "independence results",
+ "term": "independence results",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:32:02+00:00",
+ "status": "ok",
+ "note": "variant=independence results; 审定公布名词库=385; 海峡两岸名词对照库=139; 其他来源数据库=26; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "结式",
+   "en": "resultant",
+   "source": "数学名词",
+   "wordNumber": "04.0553",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立派",
+   "en": "Independents",
+   "source": "世界历史名词",
+   "wordNumber": "03.0325",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国资产阶级革命中的一个清教派别，主要代表中等贵族和中等资产阶级利益。"
+  },
+  {
+   "cn": "独立[的]",
+   "en": "independent",
+   "source": "数学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结果",
+   "en": "experimental result",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.081",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "实验过程中观察和记录得到的各种实验现象、实验数据等。"
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result",
+   "source": "电力名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。测量结果通常包含这组量值的相关信息。测量结果通常表示为单个被测量的量值和一个测量不确定度。"
+  },
+  {
+   "cn": "检索结果",
+   "en": "search result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "检索工具或检索系统在执行检索过程后，用户得到的满足检索要求的查找结果。"
+  },
+  {
+   "cn": "零结果",
+   "en": "zero result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.178",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "整个查找程序结束后未得到任何成效或满足需求的结果的现象。"
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正前的测量结果。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正后的测量结果。"
+  },
+  {
+   "cn": "结果激励",
+   "en": "result encourage",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.239",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "该激励包括在完全激励之中，它表示对一项工作的期望值与任务完成后导致的外在奖励的期望值以及外在奖励的效价综合的奖励评价。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.135",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.134",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "电子学名词",
+   "wordNumber": "18.012",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿真结果",
+   "en": "simulation result",
+   "source": "自动化名词",
+   "wordNumber": "04.652",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result,result of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。"
+  },
+  {
+   "cn": "合成不平衡",
+   "en": "resultant unbalance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0238",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "沿转子分布的所有不平衡矢量的矢量和。"
+  },
+  {
+   "cn": "合力偶",
+   "en": "resultant couple",
+   "source": "物理学名词",
+   "wordNumber": "02.0563",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合速度",
+   "en": "resultant velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0325",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "生成物",
+   "en": "resultant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成风",
+   "en": "resultant wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合成音",
+   "en": "resultant tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量评价结果",
+   "en": "data quality result",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立性检验",
+   "en": "independence test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部独立性",
+   "en": "local independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "场独立性",
+   "en": "field independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领域无关",
+   "en": "field independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件独立性",
+   "en": "event independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据独立性",
+   "en": "data independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计独立",
+   "en": "statistical independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性独立",
+   "en": "linear independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "主动发育",
+   "en": "independent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "独立分配（=自由组合）",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合，独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立样本",
+   "en": "independent sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结果",
+   "en": "result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results card\",\"results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "result sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认比赛结果",
+   "en": "verify the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩单",
+   "en": "final results list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance\",\"result\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定级结果组合",
+   "en": "combination of classification results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛成绩",
+   "en": "final time\",\"final result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "官方结果",
+   "en": "official result\",\"official score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result sheet\",\"score- list\",\"scoresheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "监测结果报告",
+   "en": "monitoring results report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构在结束检查后，反馈学生个体和群体体检项目的客观结果、健康评价结果并给出健康指导建议的资料。"
+  },
+  {
+   "cn": "抽检结果",
+   "en": "sampling inspection result",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.5",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品抽样、检验后产生的数据和检验结论。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "当工作人员职业外照射个人监测结果超过调查水平时进行的调查。"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "半独立报酬系统",
+   "en": "semi-independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.18",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中，创造性的生产者分配符号性报酬，而消费者分配物质性报酬。"
+  },
+  {
+   "cn": "统一性和独立性相结合",
+   "en": "combination of unity and independence",
+   "source": "马克思主义",
+   "wordNumber": "02.0379",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的统一性和独立性是对立的统一的思想。要有统一性，也要有独立性。各个生产单位都要有一个与统一性相联系的独立性，才会发展的更加活泼。"
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "独立自主的山地游击战",
+   "en": "independent guerrilla struggle in the mountains",
+   "source": "马克思主义",
+   "wordNumber": "03.0428",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中提出的人民军队在抗日战争时期的基本战略方针。在整个抗日战争中，人民军队在敌后开展的独立自主的山地游击战，既是对正规战争的配合，又由于在敌后建立抗日根"
+  },
+  {
+   "cn": "工农武装割据",
+   "en": "armed independent regime of workers and peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0355",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为主要代表的中国共产党人建立红色政权的实践和思想。它的基本内容是在中国共产党的领导下, 以农民武装斗争为主要形式,以土地革命为主要内容,以农村革命根据地为主要阵地，三者密切结合，进行反对帝国主"
+  },
+  {
+   "cn": "妇女常见病筛查异常管理",
+   "en": "management of abnormal result of woman's common disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对妇女常见病筛查中发现的异常或可疑患者进行追踪、随访、诊断或治疗的过程。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

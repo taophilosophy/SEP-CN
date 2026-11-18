@@ -1,0 +1,782 @@
+{
+ "key": "international organizations",
+ "term": "international organizations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:35:08+00:00",
+ "status": "ok",
+ "note": "variant=international organizations; 审定公布名词库=2820; 海峡两岸名词对照库=1280; 其他来源数据库=261; 预公布名词数据库=306; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "国际垄断组织",
+   "en": "international monopoly organization",
+   "source": "世界历史名词",
+   "wordNumber": "01.0664",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "在某些经济领域居于垄断地位，从事国际经营活动获取高额利润的大企业或企业联盟。"
+  },
+  {
+   "cn": "国际经济组织",
+   "en": "international economic organization",
+   "source": "世界历史名词",
+   "wordNumber": "01.0808",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "三个(含)以上国家依据协定建立的经济组织。"
+  },
+  {
+   "cn": "国际组织与传播",
+   "en": "international organizations and communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "11.002",
+   "subjectFullName": "新闻学与传播学_国际传播_国际关系与传播",
+   "subjectName": "国际关系与传播",
+   "publishYear": "2022",
+   "definition": "①国际组织的传播活动及其影响。表现为政府间国际组织和非政府间国际组织，为实现其成员国家和地区共同的政治经济等目的，大多通过设立隶属于该组织的相关国际传播机构，广泛传播该组织的宗旨及其责任与义务，促进所"
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labor Organization,ILO",
+   "source": "经济学名词",
+   "wordNumber": "07.136",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "联合国负责劳动事务的专门机构。成立于1919年，总部设在瑞士日内瓦，其宗旨是促进充分就业和提高生活水平，促进劳资合作，改善劳动条件，扩大社会保障，保证劳动者的职业安全与卫生，获得世界持久和平，建立和维"
+  },
+  {
+   "cn": "国际贸易组织",
+   "en": "International Trade Organization,ITO",
+   "source": "经济学名词",
+   "wordNumber": "13.152",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "由各国政府或民间组织共同成立的、有特定目的、宗旨、任务、组织架构的国际间的组织，如世界贸易组织、国际货币基金组织、国际商会等。"
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization,IMO",
+   "source": "经济学名词",
+   "wordNumber": "13.156",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "成立于1948年的联合国的海事专门机构。负责国际间各政府的海事合作事宜、海上航行安全和防止船舶造成海洋污染。现有168个正式成员。"
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization,IMO",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0293",
+   "subjectFullName": "海洋科学技术_其他_国际海洋组织和重大科学计划",
+   "subjectName": "国际海洋组织和重大科学计划",
+   "publishYear": "2007",
+   "definition": "1948年成立的负责推进各国在海运活动中航行安全的国际组织。"
+  },
+  {
+   "cn": "国际卫星组织",
+   "en": "International Satellite Organization,ISO",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.093",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "通过卫星提供国际通信服务的组织。例如国际通信卫星组织(INTELSAT)、国际移动卫星组织(INMARSAT)、欧洲通信卫星组织(EUTELSAT)。"
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization,IMO",
+   "source": "水产名词",
+   "wordNumber": "09.239",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "联合国主管海运事务的专门机构。它是以促进海上安全和防止海上污染为目标，从事国际间协调管理的技术性组织。"
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization,IMO",
+   "source": "船舶工程名词",
+   "wordNumber": "01.151",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "联合国主管海运事务的专门机构。它是以促进海上安全和防止海上污染为目标，从事国际间协调管理的技术性组织。"
+  },
+  {
+   "cn": "国际流星组织",
+   "en": "International Meteor Organization; IMO",
+   "source": "天文学名词",
+   "wordNumber": "10.189",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "流星雨爱好者的一个国际性合作组织。成立于1988年，其职能是规范若干种观测方法、汇集全世界的观测资料，以推进对流星雨及其与彗星和行星际尘埃的关系等课题进行全面的合作研究。"
+  },
+  {
+   "cn": "国际非政府组织",
+   "en": "international non-governmental organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0549",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "主要在国际社会范围内开展活动的非政府组织，一般指在联合国经社理事会注册并获得“谘商地位”的非政府组织。"
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization",
+   "source": "放射医学与防护名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "放射医学与防护_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "各国标准机构的一个国际性协会，非政府间组织。成立于1946年，是全球最大的国际标准的制订和出版组织，其绝大多数成员均为各国指定的国家标准化机构。在协调商业要求和社会需求之间的关系，并达成一致方面发挥着"
+  },
+  {
+   "cn": "男性内生殖器",
+   "en": "male internal genital organ",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0700",
+   "subjectFullName": "人体解剖学_内脏学_泌尿生殖系统、乳腺与会阴",
+   "subjectName": "泌尿生殖系统、乳腺与会阴",
+   "publishYear": "2014",
+   "definition": "包括生殖腺(睾丸)、输精管道(附睾、输精管、射精管和尿道)以及附属腺(精囊腺、前列腺、尿道球腺)。主要作用是产生、储存和运送精子。"
+  },
+  {
+   "cn": "女性内生殖器",
+   "en": "female internal genital organ;female internal genitalia",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.025",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_女性内生殖器",
+   "subjectName": "女性内生殖器",
+   "publishYear": "2022",
+   "definition": "位于女性真骨盆内的阴道、子宫、输卵管和卵巢的总称。"
+  },
+  {
+   "cn": "女性内生殖器",
+   "en": "female internal genital organ,female internal genitalia",
+   "source": "计划生育名词",
+   "wordNumber": "02.071",
+   "subjectFullName": "计划生育_生殖医学基础_女性",
+   "subjectName": "女性",
+   "publishYear": "2019",
+   "definition": "阴道、子宫、输卵管及卵巢的统称。"
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization,ISO",
+   "source": "经济学名词",
+   "wordNumber": "13.153",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "成立于1947年的全球性非政府标准化专门机构。其任务是促进全球范围内的标准化工作的发展，以利于国际间产品与服务的交流，以及在知识、科学、技术和经济活动中加强国际合作，职责范围涉及除电气及电子标准外的所"
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization,ISO",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0906",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "国际标准组织的官方名称。负责除电工、电子领域之外的所有其他领域的标准化活动，促进标准化及其相关活动的发展，便于商品和服务的国际交换，在智力、科学、技术和经济领域开展合作的组织。"
+  },
+  {
+   "cn": "国际海事卫星组织",
+   "en": "International Maritime Satellite Organization,IMSO",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0298",
+   "subjectFullName": "海洋科学技术_其他_国际海洋组织和重大科学计划",
+   "subjectName": "国际海洋组织和重大科学计划",
+   "publishYear": "2007",
+   "definition": "1979年成立的负责组织新的海事通信网，促进海上船舶通信业务的发展，提高船舶航行安全与效率的国际组织。"
+  },
+  {
+   "cn": "国际组织",
+   "en": "international organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准组织",
+   "en": "International Standard Organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际贸易组织",
+   "en": "International Trade Organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府间国际组织",
+   "en": "international intergovernmental organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际海道测量组织",
+   "en": "International Hydrographic Organization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际气象组织",
+   "en": "International Meteorological Organization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内生殖器",
+   "en": "internal genital organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "男性内生殖器",
+   "en": "male internal genital organ\",\"internal genital organ of male\",\"internal male reproductive organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Standards Organization\",\"ISO",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization\",\"IMO",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际海道测量组织",
+   "en": "International Hydrographic  Organization\",\"IHO",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization\",\"IMO",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization\",\"IMO",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际证券管理组织",
+   "en": "International Securities Regulatory Organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际移动卫星组织",
+   "en": "International Mobil Satellite Organization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "女性内生殖器",
+   "en": "internal genital organ of female\",\"internal female reproductive organ\",\"female internal genitalia",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "国际民航组织",
+   "en": "International Civil Aviation Organization\",\"ICAO",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事卫星组织",
+   "en": "International Maritime Satellite Organization\",\"IMSO",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际细胞研究组织",
+   "en": "International Cell Research Organization\",\"ICRO",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization\",\"ISO",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际民用航空组织",
+   "en": "International Civil Aviation Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization (ISO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际证监会组织",
+   "en": "International Organization of Securities Commissions (IOSCO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际组织",
+   "en": "international organizations",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.5",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "依据国际条约建立，具备独立法律地位，跨国履行协调、支持和治理职能的机构，在全球卫生政策与合作中提供支持与协调，以实现系统目标与健康效益。"
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization, ILO",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.3",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "1919年根据《凡尔赛和约》作为国际联盟的附属机构成立，1946年成为联合国负责劳动就业、社会保障等社会事务的专门三方机构。其宗旨是：促进充分就业和提高生活水平；促进劳资双方合作；扩大社会保障措施；保"
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization，ISO",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.7",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "国际标准组织的官方名称。成立于1947年，是全球最大的国际标准的制订和出版组织，其绝大多数成员均为各国指定的国家标准化机构。负责除电工、电子领域之外的所有其他领域的标准化活动，促进标准化及其相关活动的"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "社会团体",
+   "en": "mass organizations",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "具有某些共同特征的公民自愿组成，为实现会员共同意愿，按照其章程开展活动的非营利性社会组织，一般具有民间化的基本组织特征，可依其性质分为政治、经济、科技、军事、外交、文化体育、健康卫生及宗教团体等。简称"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  },
+  {
+   "cn": "公益组织",
+   "en": "commonwealth organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种非政府的、不把利润最大化当作首要目标，实行自主管理的民间志愿性的社会中介组织，其主要活动是致力于社会公众的福祉和利益以及解决各种社会性问题等。如基金会、协会、慈善信托、社团等。"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种区别于传统组织、以信息技术为支撑的人机一体化组织，其特征是以现代通讯技术、信息存储技术、机器智能产品为依托，虚拟出无等级组织结构，其成员可以通过不受时空限制的计算机体系，通过高度自律和共同的价值取"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.12",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集团化组织在纵向的、横向的或外部的边界均不由某种预先设定的结构所限定或定义， 即将各个职能部门之间的障碍全部或部分消除，使得工程、生产、营销以及其他部门之间能够自由沟通，工作及工作程序和进程完全透明，"
+  },
+  {
+   "cn": "民间组织",
+   "en": "mass organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.13",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由各级民政部门作为登记管理机关并纳入登记管理范围的社会团体和民办非企业单位两类社会组织的总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

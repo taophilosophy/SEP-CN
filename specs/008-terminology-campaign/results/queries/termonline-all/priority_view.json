@@ -1,0 +1,692 @@
+{
+ "key": "priority view",
+ "term": "priority view",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:40:18+00:00",
+ "status": "ok",
+ "note": "variant=priority view; 审定公布名词库=290; 海峡两岸名词对照库=128; 其他来源数据库=9; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家取得同行关于其首次做出某项科学发现的承认。是科学家从发现中能得到的唯一所有权。科学家只有得到承认才能确立其在科学共同体中的地位，从而获得科学研究所需的重要资源。"
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0387",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在资源分配和调度算法中，表示一个对象被优先选择的顺序。与优先数的大小一致或相反。"
+  },
+  {
+   "cn": "优先律",
+   "en": "priority",
+   "source": "微生物学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "命名法规中以发表时间的先后来确定分类单元名称正确使用的规定。"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "数学名词",
+   "wordNumber": "011.0500",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "电子学名词",
+   "wordNumber": "21.393",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先性",
+   "en": "priority",
+   "source": "自动化名词",
+   "wordNumber": "03.237",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "优先效应",
+   "en": "priority effect",
+   "source": "农学名词",
+   "wordNumber": "15.270",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "先到达的物种影响后到达物种的定殖，最终影响群落构建的现象。"
+  },
+  {
+   "cn": "第一优先",
+   "en": "first priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的在短时间内存在生命危险、经积极紧急救治有可能存活的急危重症患者给予第一时间最先救治的情形。该类患者用红色标识标记。"
+  },
+  {
+   "cn": "第二优先",
+   "en": "second priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的需尽快接受治疗，但可在短时间暂不处理又不危及生命的较重患者给予第二时间救治的情形。该类患者用黄色标识标记。"
+  },
+  {
+   "cn": "第三优先",
+   "en": "third priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的轻伤、又有检查与治疗需要的患者，在救治完急危重症及较重患者后给予救治的情形。该类患者用绿色标识标记。"
+  },
+  {
+   "cn": "第四优先",
+   "en": "fourth priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的已经死亡的患者，放置在特定的区域可暂不处理，以利用有限的医疗资源救治更多患者的情形。该类患者用黑色标识标记。"
+  },
+  {
+   "cn": "公交优先",
+   "en": "transit priority",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.468",
+   "subjectFullName": "城乡规划学_城乡规划与设计_综合交通规划",
+   "subjectName": "综合交通规划",
+   "publishYear": "2021",
+   "definition": "在政策、法规和资源利用等方面对公共交通实行优惠的理念。"
+  },
+  {
+   "cn": "专利优先权",
+   "en": "patent priority",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.244",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "专利申请人就其发明创造第一次在某国提出专利申请后，在法定期限内，又就相同主题的发明创造提出专利申请的，根据有关法律规定，其再次申请以第一次专利申请的日期作为其申请日，专利申请人依法享有的这种权利。"
+  },
+  {
+   "cn": "专利优先权",
+   "en": "patent priority",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.422",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "已经在一个国家正式提出了发明专利、实用新型专利、外观设计专利或商标注册的申请人，在其他国家提出同样的申请，在规定期限内应该享有的优先权利。在规定的申请优先权期限届满以前，任何后来在其他国家提出的申请，"
+  },
+  {
+   "cn": "中断优先级",
+   "en": "interrupt priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0282",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在同时出现几个中断的情况下，根据中断源性质，按需要实时地对多个中断源排队，依照排队结果将中断源分级。"
+  },
+  {
+   "cn": "优先数",
+   "en": "priority number",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0388",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "通常是一个整数。表示一个对象被优先选择的顺序。"
+  },
+  {
+   "cn": "优先律，优先权",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权（=优先律）",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "进口优先权",
+   "en": "import priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉优先级",
+   "en": "snapping priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图优先级",
+   "en": "drawing priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "作业优先级",
+   "en": "job priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序优先级",
+   "en": "program priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "当前优先级",
+   "en": "current priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态优先级",
+   "en": "dynamic priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对换优先级",
+   "en": "swapping priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分派优先级",
+   "en": "dispatching priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高优先级",
+   "en": "high priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "战略优先领域",
+   "en": "strategic priorities",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "根据战略目标、环境、资源能力和竞争态势，确定需优先投入资源、重点关注的战略方向。对食品安全未来发展进行系统研究基础上，充分权衡食品安全发展趋势、国家发展目标以及社会经济和科技资源限制等因素后确立的未来"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "唯物主义死亡观",
+   "en": "materialistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是一种自然现象的观念。世界上任何事物都要经历产生、发展和消亡的过程，死亡是不以人的意志为转移的客观规律，精神依赖于物质性的身体而存在，否认灵魂及灵魂不灭。"
+  },
+  {
+   "cn": "大健康观",
+   "en": "comprehensive view on health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以大健康为基础，强调从“以治病为中心”转向“以健康为中心”，涵盖了生理、心理、社会适应和道德健康等多维度的健康观。"
+  },
+  {
+   "cn": "二元论死亡观",
+   "en": "dualistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种混合着唯心主义和唯物主义的死亡观念。认为灵魂和身体是两个独立的实体，死亡是灵魂与身体的分离，身体消亡而灵魂不灭。"
+  },
+  {
+   "cn": "唯心主义死亡观",
+   "en": "idealistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是超自然现象的观念。认为人的灵魂不依赖于物质性的身体而存在，灵魂不灭，死亡是灵魂对尘世的超脱。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "生态文明史观",
+   "en": "a historical view of ecological civilization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0223",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种主张从地理环境的生态结构出发，运用生态学的理论和方法来研究与解释人类文明发展模式的观点。"
+  },
+  {
+   "cn": "社会主义荣辱观",
+   "en": "socialist views on honor and disgrace",
+   "source": "马克思主义",
+   "wordNumber": "03.0688",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以服务人民为荣、以背离人民为耻，以崇尚科学为荣、以愚昧无知为耻，以辛勤劳动为荣、以好逸恶劳为耻，以团结互助为荣、以损人利己为耻，以诚实守信为荣、以见利忘义为耻，以遵纪守法为荣、以违法乱纪为耻，以艰苦奋"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

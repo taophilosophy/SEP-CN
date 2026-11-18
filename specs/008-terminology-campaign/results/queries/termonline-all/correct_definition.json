@@ -1,0 +1,762 @@
+{
+ "key": "correct definition",
+ "term": "correct definition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:24:07+00:00",
+ "status": "ok",
+ "note": "variant=correct definition; 审定公布名词库=2252; 海峡两岸名词对照库=712; 其他来源数据库=57; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition,intelligibility",
+   "source": "建筑学名词",
+   "wordNumber": "10.0254",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "表征语言单位可被识别的程度。脉冲响应中的有益声能(对清晰度有帮助的声能，取直达声能和50ms以内的反射声能)占全部声能的比例。符号为D，单位为dB(分贝)。"
+  },
+  {
+   "cn": "纠正",
+   "en": "correct",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0741",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为消除已发现的不合格情况所采取的措施。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "可以通过一系列操作性陈述来给出定义。"
+  },
+  {
+   "cn": "实指定义",
+   "en": "ostensive definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "当概念的意义难以用语言定义时，可以通过举出例证的方法来给出。"
+  },
+  {
+   "cn": "非直谓定义",
+   "en": "impredicative definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "违反恶性循环原则的定义或刻画。常见于古典数学（如有界实数集的“上确界”的定义）和日常表达（如对“这个屋子里个子最高的人”的刻画）。"
+  },
+  {
+   "cn": "内含子界定",
+   "en": "intron definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子同时识别内含子5′剪接位点、分支点及3′剪接位点的过程。多见于小内含子（100～300个核苷酸）的剪接，如酿酒酵母含内含子的基因。"
+  },
+  {
+   "cn": "外显子界定",
+   "en": "exon definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0262",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子识别3′剪接位点和下一个内含子5′剪接位点，形成一个跨外显子复合物、进而将其转换为跨内含子复合物的过程。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "物理学名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "流程定义",
+   "en": "process definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0155",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中对业务流程步骤的描述。它由若干个活动组成。包括流程的基本信息、流程的开始和结束条件、组成的活动、活动间流转的规则以及流程相关数据等信息。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矫味药",
+   "en": "correctant （=corrective）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性定义",
+   "en": "attribute definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据定义",
+   "en": "data definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弧定义",
+   "en": "arc definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弦定义",
+   "en": "chord definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定义阶段",
+   "en": "definition phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件定义",
+   "en": "file definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "周期性定义",
+   "en": "period definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "既定轨道",
+   "en": "definitive orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定时",
+   "en": "definitive time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定使用货币",
+   "en": "definitive money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式债券",
+   "en": "definitive bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终生刚毛",
+   "en": "definitive seta",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "终末钩",
+   "en": "definitive hook",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "终生触手",
+   "en": "definitive tentacle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "校正！",
+   "en": "Correction!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法攻击",
+   "en": "correct blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "修正完成时间",
+   "en": "corrected time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射箭校具",
+   "en": "shooting correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据域定义标准",
+   "en": "data domain definition standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纠正权",
+   "en": "right to correction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准设计和定义",
+   "en": "data standard design and definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "本底校正",
+   "en": "background correction",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.18",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "对待测样品和空白样品分别进行同样的测量，并从待测样品测得的结果中减去空白样品的测量结果的过程。"
+  },
+  {
+   "cn": "衰变校正",
+   "en": "decay correction",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "补偿数据采集期间因核素物理衰变而引起的计数率下降。数据采集期间其计数率会随核素衰变而不断下降，因此由总计数得到的计数率将与采集时间的长短相关。需要依据衰变规律对采集期间的计数进行校正，一般校正到采集起"
+  },
+  {
+   "cn": "政治正确",
+   "en": "political correctness",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "使用在政治倾向上显得“中立”和“中性”的语言和词汇来描述人与事物，旨在避免因褒贬性表述而带来的价值偏见和符号暴力，体现对各种弱势群体的尊重。"
+  },
+  {
+   "cn": "矫正教育",
+   "en": "correctional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.6.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在治疗、改变和塑造越轨者观念与心理行为，培养越轨者重新遵循社会规范的心理能力和社会能力的教育过程。"
+  },
+  {
+   "cn": "司法矫正",
+   "en": "judicial correction",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.75",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "与监禁矫正相对的行刑方式。根据我国现行法律的规定，将被判处管制、宣告缓刑、裁定假释、剥夺政治权利并在社会上服刑、暂予监外执行的罪犯置于社区内，由专门的国家机关，在相关社会团体和民间组织以及社会志愿者的"
+  },
+  {
+   "cn": "社区矫正",
+   "en": "community correction",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.76",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "将符合社区矫正条件的罪犯置于社区内，由专门国家机关，在相关社会团体和民间组织以及社会志愿者的协助下，在判决、裁定或决定确定的期限内，矫正其犯罪心理和行为恶习，并促进其顺利回归社会。与在监狱执行的“监狱"
+  },
+  {
+   "cn": "纠正措施",
+   "en": "corrective action",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.3",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "分析关键控制点产生偏离的原因并进行改正和消除，使其回到受控状态，以防止再次发生而制定的措施。"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.22",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区接受产前诊断的孕产妇中确诊的先天性缺陷和/或遗传性疾病的人数，与同期当地孕产妇产前诊断人数之比。"
+  },
+  {
+   "cn": "矫正社会工作",
+   "en": "correctional social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.77",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会工作专业人员或志愿人士，在专业价值观指引下，运用专业理论和方法、技术，为罪犯（或具有犯罪危险性的人员）及其家人，在审判、监禁处遇、社会处遇或刑释期间，提供思想教育、心理辅导、行为纠正、信息咨询、就"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "避孕方法正确使用",
+   "en": "correct use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用者规范的避孕行为。为确保某种避孕方法最大程度地发挥避孕效果，始终严格按照产品或技术的使用说明，坚持和正确地使用该方法。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "非线性校正",
+   "en": "correction for non-linearity",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "剂量当量值在变化时的响应和参考响应的商。"
+  },
+  {
+   "cn": "屈光充分矫正",
+   "en": "full-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像在视网膜黄斑中心凹处的状态。"
+  },
+  {
+   "cn": "屈光未充分矫正",
+   "en": "under-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像落在视网膜黄斑中心凹处的前面或后面的状态。成像在视网膜前为近视欠矫，成像在视网膜后为远视欠矫。"
+  },
+  {
+   "cn": "20%美国风湿病学会改善",
+   "en": "American college of rheumatology 20% definition, ACR20",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度变化的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有20%的改善以及下列5项参数中至少3项有20%改善：1"
+  },
+  {
+   "cn": "50%美国风湿病学会改善",
+   "en": "American college of rheumatology 50% definition, ACR50",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度中等的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有50%的改善以及下列5项参数中至少3项有50%改善：1"
+  },
+  {
+   "cn": "70%美国风湿病学会改善",
+   "en": "American college of rheumatology 70% definition, ACR70",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度大幅变化的改善标准，是临床试验的标准结局测量指标。其定义为：关节肿胀和压痛数（28-关节计数法）有70%的改善以及下列5项参数中至少3项有70%"
+  },
+  {
+   "cn": "中国特色解决民族问题的正确道路",
+   "en": "correct Chineseway to address ethnic issues",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0128",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国特色解决民族问题的正确道路是中国特色社会主义道路的重要组成部分，是中国共产党坚持把马克思主义民族理论同中国民族问题实际相结合、同中华优秀传统文化相结合的产物。铸牢中华民族共同体意识是这条正确道路在"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

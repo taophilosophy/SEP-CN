@@ -1,0 +1,662 @@
+{
+ "key": "phenotypic variation",
+ "term": "phenotypic variation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:31:43+00:00",
+ "status": "ok",
+ "note": "variant=phenotypic variation; 审定公布名词库=1750; 海峡两岸名词对照库=609; 其他来源数据库=20; 预公布名词数据库=299; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "行为医学名词",
+   "wordNumber": "3.186",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传和环境变异",
+   "subjectName": "遗传和环境变异",
+   "publishYear": "2022",
+   "definition": "基因型相同的个体因外部环境和条件状况可以形成不同的表型。"
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.336",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "性状表现型在群体中的变异。"
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0530",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "基因型相同的个体因外部环境和条件状况可以形成不同的表型。"
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "林学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木相同的基因型在相似的立地条件上栽培所观察到的性状或度量值的差异。"
+  },
+  {
+   "cn": "表型鉴定",
+   "en": "phenotyping",
+   "source": "农学名词",
+   "wordNumber": "15.309",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "分析生物个体或群体中由基因型产生的，可以观察的或鉴定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风景园林名词",
+   "wordNumber": "09.0139",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "有机体可被观察到的结构和功能方面的特性，如形态和行为方面的特征。是基因型和环境交互作用的产物，即特定的基因型在一定环境条件下的表现形式。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "农学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0027",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由构成基因型的等位基因的优势关系以及与环境相互作用使机体所产生的、可观察或测定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因型与环境相互作用，形成生物体可观察到的性状。在不同的环境条件下，相同的基因型可以出现不同的表型，不同的基因型也可能出现相同的表型。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "兽医学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "基因型决定的性状表现。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype ",
+   "source": "草学名词",
+   "wordNumber": "5.0014",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由基因型与发育环境相互作用而产生的个体可观察到的性状。狭义指某个或某些基因所表现出来的性状。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "畜牧学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "生物个体的性状在一定环境下的表现。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0515",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "一个生物体可观察到的特征或性状的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "植物学名词",
+   "wordNumber": "10.0016",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "一个生命体可以观察到或分辨的性状或特征的总和。是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "核医学名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "生物体可观察到的结构和功能特性的总和。为基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "林学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木个体上所观察到或可度量的外在性状的总和。受到遗传和环境两个因素的影响。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "微生物学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "可被观察到的生物体或细胞的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "古生物学名词",
+   "wordNumber": "01.0091",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。相同基因型的个体在不同环境中可显示不同的表型。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "免疫学名词",
+   "wordNumber": "1.101",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "(1)在免疫遗传学范畴，指个体有核细胞所表达的HLA抗原型别。(2)在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "variation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变奏",
+   "en": "variation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变奏曲",
+   "en": "variation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型方差",
+   "en": "phenotypic variance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型性状",
+   "en": "phenotypic character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型值",
+   "en": "phenotypic value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病毒变异",
+   "en": "virus variation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节奏变化",
+   "en": "pace variation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧航空",
+   "en": "smart aviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际民用航空组织",
+   "en": "International Civil Aviation Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0077",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言在共时状态下存在的地域差异或社会差异。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "个体差异性",
+   "en": "individual variation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "受个体遗传与环境的影响，儿童体格生长存在个体差异的现象。如同性别、同年龄的儿童群体中，每个儿童的生长水平、生长速度、体型特点等不尽相同。"
+  },
+  {
+   "cn": "种间差异",
+   "en": "interspecies variation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "不同种属之间在毒代动力学和毒效动力学等方面的差异"
+  },
+  {
+   "cn": "种内差异",
+   "en": "intraspecies variation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.39",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "同物种内在毒代动力学或毒效动力学等方面的差异"
+  },
+  {
+   "cn": "社会变异",
+   "en": "social variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0078",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与语言使用者的社会特征相关的言语变异。"
+  },
+  {
+   "cn": "区域性变异",
+   "en": "regional variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0079",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "来自不同区域的说话者所显现出的语音、词汇或语法等方面的变异。是语言的一种共时变异现象。"
+  },
+  {
+   "cn": "共时变异",
+   "en": "synchronic variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0101",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“历时变异”相对。语言成分在同一时期内受不同社会因素的制约而产生的变异。"
+  },
+  {
+   "cn": "历时变异",
+   "en": "diachronic variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0102",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“共时变异”相对。语言成分经过较长时期的发展而产生的变异。例如从古代汉语到现代汉语语音、语法和词汇的演化与发展。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "消毒学",
+   "wordNumber": "1.8.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "物质粒子和能量从发射源发出，从空间向各个方向传播的过程。"
+  },
+  {
+   "cn": "放射",
+   "en": "radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.1",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "由一点向四外射出。能量通过波或粒子的形式从一处移动到另一处。在放射卫生学科中专指电离辐射，包括粒子辐射和高能量的电磁波。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "获得证据，证明危害分析与关键控制点（HACCP）的各要素是有效的过程。"
+  },
+  {
+   "cn": "放射卫生[学]",
+   "en": "radiation health，radiation hygiene",
+   "source": "放射卫生学",
+   "wordNumber": "1.6",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究电离辐射对人体健康的影响及其防护与管理措施的综合性学科，保护工作人员和公众的安全与健康。主要包括辐射监测与剂量学、健康效应、工程防护技术及相关标准、管理与评价等。"
+  },
+  {
+   "cn": "贯穿辐射",
+   "en": "penetrating radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.54",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "在物质中穿透能力强的射线，如γ射线、X 射线或中子射线等引起的辐射。"
+  },
+  {
+   "cn": "微波辐射",
+   "en": "microwave radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "波长为1m～1mm，频率为300MHz～300GHz 电磁波产生的辐射，分为分米波、厘米波、毫米波。"
+  },
+  {
+   "cn": "辐射消毒",
+   "en": "radiation disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用电离辐射或电磁辐射如钴-60、高能电子加速器杀灭微生物的消毒处理。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.17",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "携带足以使物质原子或分子中的电子成为自由态，并发生电离现象的能量的波长小于100nm的辐射，包括宇宙射线、X射线和来自放射性物质的辐射。"
+  },
+  {
+   "cn": "产品确认",
+   "en": "product validation",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "对于抽检的消毒产品，组织抽检的卫生行政部门对产品的生产企业、经销商等产品来源信息进行核实的过程。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.2",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "能够使物质发生电离或激发的辐射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

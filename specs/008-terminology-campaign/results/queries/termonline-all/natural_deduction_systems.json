@@ -1,0 +1,742 @@
+{
+ "key": "natural deduction systems",
+ "term": "Natural Deduction Systems",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:33:45+00:00",
+ "status": "ok",
+ "note": "variant=Natural Deduction Systems; 审定公布名词库=10000; 海峡两岸名词对照库=3324; 其他来源数据库=706; 预公布名词数据库=645; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "自然系统",
+   "en": "natural system",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0651",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "由自然物，例如动物、植物、矿物、水资源等，自然形成的系统。"
+  },
+  {
+   "cn": "希尔伯特式演绎系统",
+   "en": "Hilbert-style deduction system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0053",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "形式证明系统的一种表示方法。这类系统由一组公理与有限条规则组成，起源于希尔伯特（Hilbert）和弗雷格（Frege）的工作。"
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "自然分类系统",
+   "en": "natural classification system",
+   "source": "动物学名词",
+   "wordNumber": "2.0012",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "依据自然谱系关系建立的分类系统。"
+  },
+  {
+   "cn": "自然资源系统",
+   "en": "natural resource system",
+   "source": "资源科学技术名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "资源科学技术_资源科学总论",
+   "subjectName": "资源科学总论",
+   "publishYear": "2008",
+   "definition": "各种自然资源在一定空间范围内构成的相互联系的统一整体。"
+  },
+  {
+   "cn": "自然资源系统",
+   "en": "natural resources system",
+   "source": "地理学名词",
+   "wordNumber": "20.016",
+   "subjectFullName": "地理学_资源地理学",
+   "subjectName": "资源地理学",
+   "publishYear": "2006",
+   "definition": "各种自然资源在一定空间范围内相互联系构成的统一整体。"
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "坐支",
+   "en": "payment by deduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.059",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业脱离银行监督，直接支用业务收入（如门市销售收入）的现金的行为。按照国家现金管理的有关规定，企业一般不得坐支，如有特殊情况，须报经开户银行同意后，在规定的用途和金额范围内坐支，并应在“现金日记账”上"
+  },
+  {
+   "cn": "根岑式演绎",
+   "en": "Gentzen-style deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "根岑（Gentzen）于1934年提出的证明论中一族用于形式证明的系统，区别于希尔伯特演绎系统，它们对每个联接或量词都有简单明了的推理规则。"
+  },
+  {
+   "cn": "线性归结演绎",
+   "en": "linear resolution deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0084",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种归结策略。初始子句为原始子句集中子句，其余每步归结中的一个子句是刚生成的归结式，另一个子句或者是原始子句集中的子句，或者是之前生成的归结式。"
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "地理学名词",
+   "wordNumber": "27.155",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "通过由综合性地图、演绎派生单要素地图形成对制图对象各组成部分质量与数量特征及其分布规律的认识。"
+  },
+  {
+   "cn": "推力减额分数",
+   "en": "thrust deduction fraction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "推力减额(ΔT)与螺旋桨推力(T)的比值。一般以t表示：t=ΔT/T"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自然系统",
+   "en": "natural system",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基于规则的演绎系统",
+   "en": "rule-based deduction system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然资源系统",
+   "en": "natural resources system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "飘逸",
+   "en": "Natural Grace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然梯度",
+   "en": "natural gradient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然技术",
+   "en": "natural technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "天然反应堆",
+   "en": "natural reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "自然界发生自持式裂变反应的地理区域，如加蓬共和国的奥克洛铀矿裂变区。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "自然规律",
+   "en": "natural law",
+   "source": "马克思主义",
+   "wordNumber": "01.0140",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界内在固有的本质联系，具有不以人的意志为转移的客观必然性。自然规律在一定条件下具有可重复性，只要条件具备，合乎规律的现象必然重复出现。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "自然经济",
+   "en": "natural economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0322",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以自给自足为特征的经济形式。生产是为了直接满足生产者个人或经济单位的需要，而不是为了交换的经济形式。它没有社会分工，每一个生产者或经济单位，不但生产自己需要的农产品，而且直接生产自己需要的大部分的手工"
+  },
+  {
+   "cn": "自然类",
+   "en": "natural kind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.193",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对状态、事物、事态的一种分类。在该分类中的所有成员所共有的性质可以独立于分类者的个人或社会偏好。"
+  },
+  {
+   "cn": "天然抗体",
+   "en": "natural antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "未经明显自然感染或人工免疫而在体内产生的血清抗体，多属IgM类。如人体内针对远缘动物多糖分子的抗体、针对ABO红细胞血型物质的抗体等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

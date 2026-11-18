@@ -1,0 +1,682 @@
+{
+ "key": "mathematical statement",
+ "term": "mathematical statement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:39:26+00:00",
+ "status": "ok",
+ "note": "variant=mathematical statement; 审定公布名词库=1506; 海峡两岸名词对照库=486; 其他来源数据库=100; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常指施于自然数的归纳证明方法。第一，证明最小的自然数具有某性质（归纳基始）；第二，证明后继运算保持该性质（归纳推步）。由上两步即得：所有的自然数具有该性质。"
+  },
+  {
+   "cn": "数学猜想",
+   "en": "mathematical conjecture",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.257",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "基于部分证据而提出，但尚未被证明也未被证伪的数学命题。如黎曼猜想、哥德巴赫猜想等。"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学仅仅是一种有用的工具，而不是对某种客观实在的描述。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "数学自然主义",
+   "en": "mathematical naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "方法论自然主义在数学领域的推广。认为数学具有方法论上的自主性，既不接受数学之外的批判，也不需要数学之外的证成。"
+  },
+  {
+   "cn": "数学方法",
+   "en": "mathematical method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "利用数学提供的概念、理论和规律，对客观事物进行分析、推导和计算，以揭示其内在规律和本质联系的方法。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical imitation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据模型与原型之间在数学形式方面的某些相似来进行的模拟。"
+  },
+  {
+   "cn": "数学形态学",
+   "en": "mathematical morphology",
+   "source": "光学名词",
+   "wordNumber": "17.046",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "研究不同类别的图像中不同像元之间特定的关联性构成的图像结构特征(形态)的理论和方法。这种结构特征也被称为结构元素。"
+  },
+  {
+   "cn": "数学制图学",
+   "en": "mathematical cartography",
+   "source": "测绘学名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "用数学方法研究地球椭球面与地图平面之间、地面要素的复杂性与地图图形的抽象性之间的变换和表达的学科。"
+  },
+  {
+   "cn": "数理经济学",
+   "en": "mathematical economics",
+   "source": "经济学名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "广义上指运用数学模型来进行经济分析，解释经济学现象的理论。从狭义上来说，是特指瓦尔拉斯（Walras）开创的一般均衡理论体系。通常可分为静态分析与动态分析。"
+  },
+  {
+   "cn": "数理统计",
+   "en": "mathematical statistics",
+   "source": "经济学名词",
+   "wordNumber": "10.069",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "随着研究随机现象规律性的科学-概率论的发展，应用概率论的结果更深入地分析研究统计资料，通过对某些现象的频率的观察来发现该现象的内在规律性，并做出一定精确程度的判断和预测。将这些研究的某些结果加以归纳整"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "Mathematical School",
+   "source": "经济学名词",
+   "wordNumber": "14.062",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "19世纪70年代出现的，主张运用数学符号和数理方法来研究、表述和论证经济关系，并把数理方法视为研究经济学的首要方法的经济学流派。该学派最重要的先驱者和奠基人是法国经济学家古诺，主要代表人物包括法国的瓦"
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学，地图投影学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数理语言学",
+   "en": "mathematical linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学发现",
+   "en": "mathematical discovery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0277",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "维护一个阶级对另一个阶级统治的机器，是阶级矛盾不可调和的产物。"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "source": "消毒学",
+   "wordNumber": "1.8.9",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施以规定的方式运行，有规定的人员在场并在商定的条件工作的状态。"
+  },
+  {
+   "cn": "空态",
+   "en": "empty state",
+   "source": "消毒学",
+   "wordNumber": "1.8.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施已经建成，净化空调等服务动力公用设施接通并运行，但无生产设备、材料及人员的状态。"
+  },
+  {
+   "cn": "静态",
+   "en": "static state",
+   "source": "消毒学",
+   "wordNumber": "1.8.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施已经建成，净化空调系统运行正常，生产设备、医疗设备已经安装好，并按用户和施工方商定的方式运行，无工作人员的状态。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "标识时对象满足规定质量要求的能力，一般情况下具有时限性及可变性的特点，即标识对象对应不同的时段可有不同的状态。"
+  },
+  {
+   "cn": "通报国",
+   "en": "notifying State",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.23",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "负责向可能受影响的国家和国际原子能机构通报对其他国家具有实际、可能或预计放射学意义的事件或情况的国家。"
+  },
+  {
+   "cn": "国家女权主义",
+   "en": "state feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "以国家或政府为主要力量推进妇女解放和性别平等。在中国特指由国家推动的妇女解放运动，主要描述社会主义国家父权与妇女解放同时并存的悖论性图景。"
+  },
+  {
+   "cn": "国家干预",
+   "en": "state intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.61",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在以市场机制为基础的市场经济条件下，为了克服市场失灵，国家运用管制和宏观调控等手段规范市场主体行为，校正、补充市场缺陷的活动的总称。"
+  },
+  {
+   "cn": "国家法团主义",
+   "en": "state corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "由国家强加的一种法团主义架构，即以国家为主导形成的一种法团主义，往往同外围的或附属的资本主义政权联系在一起。主要用来解释强权政府与大的社会利益集团（如工会）之间的相互依赖关系。"
+  },
+  {
+   "cn": "民族国家",
+   "en": "nation-state",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一个国家的疆界与其领域内的单一民族完全重合的、独立自主的政治实体。但这种由单一民族组成的国家非常罕见。因此，广义上也指由一个或一个以上的民族所组成的国家。"
+  },
+  {
+   "cn": "剧场国家",
+   "en": "theatre state",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.41",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "1980年由格尔茨(C.Geertz）在《尼加拉》中首次提出，属于在封建制国家、官僚制国家等传统国家类型的基础上的又一种国家类型。权力通过仪式所表达的一种典范式中心，并且由此形成的象征宇宙与人间关系的"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "国家行使权力建立保障公民福利的管理模式和体制。强调公民社会权利，在收入、卫生健康、教育、住房和社会服务等领域内建立保障措施的国家形式，基于其原则和内容已发展成为不同模式。"
+  },
+  {
+   "cn": "国营经济",
+   "en": "state economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0342",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产资料归国家所有并由国家经营的经济形式，包括大银行、大工业、大的交通运输业和大商业等。新民主主义国家拥有这些企业，就掌握了国家的经济命脉。国营经济是社会主义性质的，是整个国民经济的领导成份。"
+  },
+  {
+   "cn": "国家机器",
+   "en": "state machinery",
+   "source": "马克思主义",
+   "wordNumber": "03.0079",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "强迫被统治阶级服从国家意志的强制机关，包括军队、警察、法院、监狱等。它们构成互相联系的有机整体，为维护统治阶级的利益而实行有组织的暴力。"
+  },
+  {
+   "cn": "国家垄断",
+   "en": "state monopoly",
+   "source": "马克思主义",
+   "wordNumber": "03.0080",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家直接掌握垄断资本，干预或调控经济社会活动的一种垄断资本主义形式。这种垄断可以采取国有经济的形式，或国有资本与私人垄断资本结合的形式，或国家在私人垄断企业外部对国民经济进行调节等多种形式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

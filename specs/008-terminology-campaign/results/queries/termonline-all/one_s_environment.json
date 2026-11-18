@@ -1,0 +1,802 @@
+{
+ "key": "one's environment",
+ "term": "one’s environment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:24:54+00:00",
+ "status": "ok",
+ "note": "variant=one’s environment; 审定公布名词库=1260; 海峡两岸名词对照库=348; 其他来源数据库=75; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.008",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以人类为主体的外部世界，即人类赖以生存和发展的外部条件的总和。是人类生存发展的基础，也是人类开发利用的对象。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0017",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素总体。包括大气、水、海洋、土地、矿藏、森林、草原、野生动物、自然古迹、人文遗迹、自然保护区、风景名胜区、城市和乡村等。 "
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "动物学名词",
+   "wordNumber": "7.0018",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物生存的空间以及空间中直接或间接影响生物生活和发展的外部条件的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电力名词",
+   "wordNumber": "24.124",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "植物学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物周围所有要素的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0648",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "组织运行的外部存在。包括空气、水、土地、自然资源、植物、动物、人，以及它们之间的相互关系。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "人群周围的境况及其中可以直接、间接影响人类生活和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.251",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电气工程名词",
+   "wordNumber": "27.001",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "陆地环境",
+   "en": "continental environment,land environment,terrestrial environment",
+   "source": "地质学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "生态环境",
+   "en": "ecological environment,eco-environment",
+   "source": "林学名词",
+   "wordNumber": "08.286",
+   "subjectFullName": "林学_水土保持与荒漠化防治_林业生态工程",
+   "subjectName": "林业生态工程",
+   "publishYear": "2016",
+   "definition": "影响人类生存与发展的水资源、土地资源、生物资源以及气候资源数量与质量状况的总称。"
+  },
+  {
+   "cn": "陆地环境",
+   "en": "continental environment;land environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.013",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地球表面未被海水覆盖的陆地所处的自然环境的统称。"
+  },
+  {
+   "cn": "原生环境",
+   "en": "primary environment;original environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.016",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由自然地质作用形成的，未经人类活动干扰或改变的地质环境。"
+  },
+  {
+   "cn": "全球环境",
+   "en": "global environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.009",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "影响人类和生物生存的大气圈、水圈、土壤圈、岩石圈和生物圈的环境统称。是地球内能和太阳辐射能交互作用的场所，也是整个地球中各组成要素作用和人类活动最剧烈、变化最迅速的区域。是向人类提供各种资源的场所，同"
+  },
+  {
+   "cn": "区域环境",
+   "en": "regional environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.010",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "特定地域单元空间的自然环境和社会环境及其相互关系的总和。由自然界区域差异性及社会经济发展的区域差异性而形成。分为自然区域环境(如海洋、陆地、森林、湖泊、草原等)和社会区域环境(如农业区域环境、城市区域"
+  },
+  {
+   "cn": "自然环境",
+   "en": "natural environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.011",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "客观存在的空间物质环境，即由水土、植物、大气等自然事物形成的环境。例如自然界中的大气、水体、土壤、岩石、光、热及植物、动物、微生物等构成的自然空间。"
+  },
+  {
+   "cn": "海洋环境",
+   "en": "marine environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.012",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "全球海和洋的总水域自然环境的统称。包括海水、溶解和悬浮于海水中的物质、海底沉积物、海洋生物等构成的环境。"
+  },
+  {
+   "cn": "地质环境",
+   "en": "geologic environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.014",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "人类生存和发展所依托的地球表层岩石圈系统。主要由岩土体、地下水等基本要素构成。是自然环境的重要组成部分，与上层的大气环境、水环境、生态环境之间存在着广泛的物质、能量交换，共同构成了人类生存与发展的环境"
+  },
+  {
+   "cn": "岩石环境",
+   "en": "rock environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.015",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地球表层岩石形成时的地质环境。在大区域通常指岩石圈的环境，局部地区往往指岩石的环境。其内容涵盖岩石的物理与化学风化程度、物理力学性质以及植被覆盖程度等，都是岩石环境的内容。"
+  },
+  {
+   "cn": "次生环境",
+   "en": "secondary environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.017",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "受人为因素影响而改变了的地质环境。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环境",
+   "en": "atmospheric environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候",
+   "en": "environment climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候学",
+   "en": "environment climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environment capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "physical environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等温环境",
+   "en": "isothermal environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物学环境",
+   "en": "biological environment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生理环境",
+   "en": "physiological environment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "激流环境",
+   "en": "lotic environment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内环境",
+   "en": "internal environment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资环境",
+   "en": "investment environment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积环境",
+   "en": "depositional environment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化环境",
+   "en": "unstructured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文明",
+   "en": "sound cyberspace environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水环境改善",
+   "en": "water environment improvement",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生态修复",
+   "en": "water environment restoration",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境大数据",
+   "en": "big data of environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算环境管理",
+   "en": "cloud computing environment management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态环境与保护",
+   "en": "marine ecological environment protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可信网络环境支撑技术",
+   "en": "trusted network environment (TNE) technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源节约型环境友好型社会",
+   "en": "resource-conserving and environment-friendly society",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源环境国情宣传",
+   "en": "national publicity on resources and environment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态环境监管制度",
+   "en": "the supervision system of ecological environment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "供应链金融可信任环境",
+   "en": "trusted environment for supply chain finance (SCF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化业务环境监督管理平台",
+   "en": "intelligent platform for environment supervision and management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态环境部应急办",
+   "en": "Emergency Management Office of the Ministry of Ecology and Environment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态环境共保联治",
+   "en": "to make coordinated efforts to protect and restore the environment",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《BS IEC 62243-2005 与所有试验环境有关的人工智能交换和服务》",
+   "en": "BS IEC 62243:2005 Artificial intelligence exchange and service tie to all test environments (AI-ESTATE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/IEEE 1232-2010 依靠所有试验环境的人工智能交换和服务标准》",
+   "en": "ANSI/IEEE 1232-2010 Artificial intelligence exchange and service tie to all test environments (AI-ESTATE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织环境",
+   "en": "organization environment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "存在于组织界限以外的能够影响组织及其成员行为的所有因素的总和，包括自然环境与社会环境两大类。其中社会环境包括组织所必须应对的各种社会力量和制度设施。"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "家庭环境",
+   "en": "family environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "家庭为其成员的成长和发展所提供的物质和精神条件。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "高山环境",
+   "en": "alpine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海拔3000m 以上的高原和高山自然环境形态，具有缺氧、寒冷、干燥、温差大、辐射强和气候多变等特点。"
+  },
+  {
+   "cn": "高气压环境",
+   "en": "hyperbaric environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "压力高于海平面大气压力的特殊环境，人体暴露时会引起机体一系列复杂的功能改变。"
+  },
+  {
+   "cn": "健康环境",
+   "en": "healthy environment",
+   "source": "社会医学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "有助于维护和促进人体健康的自然和社会环境。"
+  },
+  {
+   "cn": "阵地环境",
+   "en": "battlefield environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "军队在战斗中的兵力兵器部署、工事构筑区域的自然地理条件，以及由人工活动、战斗等影响而形成的所有物理、化学、生物因素的总和。"
+  },
+  {
+   "cn": "航海环境",
+   "en": "navigational environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船在海上航行时所处的内部和外部环境，包括舰船内的物理、化学及生物学因素，以及海洋气象条件和海上风浪等外部环境。"
+  },
+  {
+   "cn": "海上环境",
+   "en": "marine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海水淹没的地球海洋水域自然环境形态，具有低温、高盐、温差小、湿度大等特点。"
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "水下环境",
+   "en": "underwater environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "水面以下作用于人体的各种客观条件的总称。"
+  },
+  {
+   "cn": "热环境",
+   "en": "thermal environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "由太阳辐射、气温、周围物体表面温度、相对湿度与气流速度等物理因素组成的作用于人、影响人的冷热感和健康的环境。"
+  },
+  {
+   "cn": "寒区",
+   "en": "cold environments",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "从南极圈（南纬66º34'）至南极和北极圈（北纬66º34'）至北极的区域内，无太阳直射，导致地面获得的太阳辐射量极少、气候非常寒冷的地区。其特点为冬季漫长，寒潮侵袭频繁、降雪期长、积雪深、结冰期长、"
+  },
+  {
+   "cn": "Ⅰ类环境",
+   "en": "class I environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对空气质量和环境表面微生物数有严格要求且需采用空气洁净技术的场所。如洁净手术部（室）、洁净病房等。"
+  },
+  {
+   "cn": "Ⅱ类环境",
+   "en": "class II environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境、空气和物表微生物数有较严格要求的场所，如普通手术室、无菌物品保存区、产房、ICU等。"
+  },
+  {
+   "cn": "Ⅲ类环境",
+   "en": "class III environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境、空气和物表微生物数有一定要求的场所，如普通病房、血液透析中心（室）、供应室清洁区等。"
+  },
+  {
+   "cn": "Ⅳ类环境",
+   "en": "class IV environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境微生物指标有要求的场所，如普通门（急）诊及其检查、治疗室，感染性疾病科门诊和病区等污染区域。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

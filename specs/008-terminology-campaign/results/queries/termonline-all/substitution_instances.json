@@ -1,0 +1,672 @@
+{
+ "key": "substitution instances",
+ "term": "substitution instances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:35:39+00:00",
+ "status": "ok",
+ "note": "variant=substitution instances; 审定公布名词库=171; 海峡两岸名词对照库=79; 其他来源数据库=36; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "代换",
+   "en": "substitution",
+   "source": "农学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在DNA碱基序列中一个嘌呤被另一个嘌呤，或一个嘧啶被另一个嘧啶替代，或供体的染色体或染色体片段取代受体相应染色体或染色体片段而引起遗传信息突变的现象。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "行为医学名词",
+   "wordNumber": "10.076",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种自我防御机制。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "畜牧学名词",
+   "wordNumber": "07.362",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "用功能作用相同或相似的某一类物质取代另一类物质的方法。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "心理学名词",
+   "wordNumber": "15.018",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种心理防御机制。"
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "语言学名词",
+   "wordNumber": "04.255",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "结构主义语法分析术语。在一个语法结构内某一位置上，用一个语法单位替换另一个语法单位的过程或结果，替换发生于其中的结构称为替换框架（substitution frame）。替换包括等量替换和不等量替换："
+  },
+  {
+   "cn": "置换",
+   "en": "substitution",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0081",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "数学名词",
+   "wordNumber": "02.0068",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "替代药",
+   "en": "substitute",
+   "source": "药学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "由于某种原因不能选用首选药用于治疗时，可供选用的药物品种。"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0072",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一阶逻辑的一类定理证明方法。通过生成实例、在命题逻辑中检查不可满足性来证明一阶逻辑问题的不可满足性，从而证明一阶逻辑表述的相应定理。"
+  },
+  {
+   "cn": "替换缺陷",
+   "en": "substitution defect",
+   "source": "地质学名词",
+   "wordNumber": "09.06.007",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "晶格结点上出现其他原子，替换了原有的原子，使晶格发生畸变的现象。"
+  },
+  {
+   "cn": "元素置换",
+   "en": "element substitution",
+   "source": "地质学名词",
+   "wordNumber": "13.02.066",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "在交代作用中，一种元素把某种矿物或化合物中的其他元素替换出来的现象。"
+  },
+  {
+   "cn": "代换系",
+   "en": "substitution line",
+   "source": "农学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "某物种的一条或多条染色体被另一物种的一条或多条染色体所取代而形成的稳定遗传品系。"
+  },
+  {
+   "cn": "替代试验",
+   "en": "substitution test",
+   "source": "麻醉学名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "给予动物一定量的标准药物并维持一段时间，待其产生身体依赖性后，停用标准药物，替换为受试药物，观察动物是否出现戒断症状的试验。"
+  },
+  {
+   "cn": "碱基置换",
+   "en": "base substitution",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0183",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "在核酸分子中一个碱基被另一种碱基所替换的现象。可以使核酸分子的性质和功能发生改变，如改变密码子的序列。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取代",
+   "en": "substitution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "置换,取代",
+   "en": "substitution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "①代用品 ②替代药",
+   "en": "substitute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因置换",
+   "en": "gene substitution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "替代单倍体",
+   "en": "substitution haploid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "取代反应",
+   "en": "substitution reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取代法则",
+   "en": "substitution rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲电取代[反应]",
+   "en": "electrophilic substitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "取代[反应]",
+   "en": "substitution [reaction]",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "移位取代",
+   "en": "cine substitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进口替代",
+   "en": "import substitution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "替代公债",
+   "en": "substitution obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碱基置换",
+   "en": "base substitution",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因置换",
+   "en": "gene substitution",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合法替换",
+   "en": "illegal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人区",
+   "en": "substitution zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人犯规",
+   "en": "substitution fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合法替换",
+   "en": "illegal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被迫换人",
+   "en": "compulsory substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.25",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "故意用另一来源的成分换掉产品声明成分的食品欺诈行为。通常用一种成分或较低价值产品一部分换掉另一种成分或高价值产品一部分，如使用矿物油部分换掉葵花油、在牛奶中添加水解皮革蛋白质。"
+  },
+  {
+   "cn": "替代效应",
+   "en": "substitution effect",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.5.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "一种服务或商品的价格上涨，消费者可以用其他服务或商品来替代变得更贵的该种服务或商品，而减少该服务或商品的需求量的现象。"
+  },
+  {
+   "cn": "替代喂养",
+   "en": "substitute feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以内的婴儿由于各种原因不能进行母乳喂养时，完全采用配方奶或其它兽乳等的喂哺方法。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast-milk substitutes",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.8",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "任何指明为喂养三岁及以下婴幼儿而销售的奶（或可用于替代奶的产品），包括高段配方奶和成长奶。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast milk substitute",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "利用牛奶、大豆等制品加工成的婴幼儿配方食品(奶粉)，并参照母乳成分调整营养素含量，添加多种微量营养素，如矿物质和维生素。"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter substitute",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.9",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "来源于可可之外的植物油脂，可全部或部分代替可可脂。"
+  },
+  {
+   "cn": "边际替代率",
+   "en": "marginal rate of substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "消费者在保持同等满足程度时增加一种商品的数量与该消费者必须放弃的另一种商品的数量之比。"
+  },
+  {
+   "cn": "卫生人力要素替代",
+   "en": "human resource factor substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "当一种卫生人力的价格上升，其需求量会下降，医疗机构可以通过提高另一种卫生人力的需求量来达到预定的产出量，不同类型卫生人力之间以及人力与设备等之间具有的替代性。"
+  },
+  {
+   "cn": "边际技术替代率",
+   "en": "marginal rate of technical substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在产量保持一定的前提条件下，增加一单位某种生产要素可以代替的另外一种要素的数量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

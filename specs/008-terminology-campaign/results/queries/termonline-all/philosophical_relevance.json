@@ -1,0 +1,372 @@
+{
+ "key": "philosophical relevance",
+ "term": "philosophical relevance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:37:55+00:00",
+ "status": "ok",
+ "note": "variant=philosophical relevance; 审定公布名词库=43; 海峡两岸名词对照库=5; 其他来源数据库=8; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "source": "植物学名词",
+   "wordNumber": "13.0237",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "通过视觉记录植物习性和生境的数据描述一个区域内的植被特征的方法。"
+  },
+  {
+   "cn": "《哲学书简》",
+   "en": "Philosophical Letters",
+   "source": "世界历史名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1826-1831年，俄国哲学家恰达耶夫写的作品，对俄国在世界历史和政治中起的作用做了严厉的批评，认为俄国远远落后于西方国家，对世界历史进程毫无贡献。"
+  },
+  {
+   "cn": "哲学语义学",
+   "en": "philosophical semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。对语言中的意义进行哲理研究。"
+  },
+  {
+   "cn": "哲理语言学",
+   "en": "philosophical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。一方面研究语言对理解和阐明哲学概念的作用，一方面研究语言学理论、方法以及观察结果的哲学地位。主要包括语言本体论和语言研究方法论。"
+  },
+  {
+   "cn": "哲学王",
+   "en": "philosopher king",
+   "source": "教育学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家柏拉图在其著作《理想国》中构想的理想国家统治者的形象。其核心在于利用哲学领悟的原理对国家进行治理。"
+  },
+  {
+   "cn": "哲学家之船",
+   "en": "Philosophers Ships",
+   "source": "世界历史名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1922年9月和11月，苏俄政府用船只遣送一批知识分子离境，其中有别尔嘉耶夫、洛斯基等著名哲学家。史称“哲学家之船”。"
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "互逆相关性",
+   "en": "reversible relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用以描述查全率、查准率两个指标相对关系的概念，即当查全率增大时查准率减小，查全率减小时查准率增大。"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户在某一特定时间按照一定标准对信息检索结果满足用户需求的程度进行评判的过程。"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "系统方法论的基本原则之一，也是情报学的一个基本原理。系统的要素之间、要素与系统整体之间、系统与环境之间是普遍联系的，它们互相制约、互相影响、不可分割开来。任何一种情报结构都是按一定规则相互关联的，研究"
+  },
+  {
+   "cn": "用户相关性",
+   "en": "user relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户及其代理与检索系统间的关系。受到用户偏好、兴趣、时效、完整性、信息价值和针对性的影响，是衡量检索系统与用户情报问题匹配程度的重要指标。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0343",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "通过在信息检索过程中加入用户交互过程，从而把检索模式从一次进行变成交互式的多次进行，提高检索的准确率。"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "relevance logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "基于“蕴涵是意义之间的必然联系”这种观点提出的一类逻辑系统。旨在清除真值蕴涵不要求前件与后件之间具有有意义的联系所导致的“蕴涵怪论”。"
+  },
+  {
+   "cn": "价值相关性",
+   "en": "value relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0249",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业的会计数据与其股票价格之间的相关程度。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0551",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用户对检索系统返回的检索结果进行相关性判断，检索系统从用户认为相关的文献中选择重要的语词或表达式形成新的查询式，以使二次检索结果更接近用户的查询需求。"
+  },
+  {
+   "cn": "哲学家",
+   "en": "philosopher",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哲学心理学",
+   "en": "philosophical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱奥尼亚哲学家",
+   "en": "Ionian philosophers",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冲淡",
+   "en": "Quiet Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "散郁陶，托风采",
+   "en": "Words Can Dispel One’s Pent-up Feelings and Display One’s Elegance.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  },
+  {
+   "cn": "自然哲学医学模式",
+   "en": "natural philosophical medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将健康、疾病与人类生活的自然环境和社会环境相联系的朴素、辩证和整体的医学观和方法论。其核心思想认为人体与自然界存在内在统一性，均由特定成分构成，这些成分之间保持平衡就是健康状态，平衡被打破则导致疾病。"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

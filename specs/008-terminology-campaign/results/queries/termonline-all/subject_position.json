@@ -1,0 +1,782 @@
+{
+ "key": "subject position",
+ "term": "subject position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:34:10+00:00",
+ "status": "ok",
+ "note": "variant=subject position; 审定公布名词库=2352; 海峡两岸名词对照库=780; 其他来源数据库=183; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "受试对象",
+   "en": "subject    ",
+   "source": "核医学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "接受试验的对象。包括健康人、患者，临床前研究时包括其他动物。"
+  },
+  {
+   "cn": "对象",
+   "en": "subject",
+   "source": "核医学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "进行任何操作、行为或思考时作为目标的人或事物。"
+  },
+  {
+   "cn": "主题",
+   "en": "subject",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在较高层次上将组织信息系统中的数据综合、归类并进行分析利用的抽象。在逻辑意义上，对应于组织中某一宏观分析领域所涉及的分析对象。"
+  },
+  {
+   "cn": "科目",
+   "en": "subject",
+   "source": "教育学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "与相对独立的学科知识领域相对应的课程。如语文、数学、艺术等。"
+  },
+  {
+   "cn": "主语",
+   "en": "subject",
+   "source": "语言学名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“谓语”相对。句法成分之一。通常由体词性成分充当，也可以由谓词性成分充当。通常位于谓语的前边，是谓语陈述的对象。例如，“我看见他了”“做学问需要扎实的基础”。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.191",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一个核心哲学概念，与意识、能动/施为(agency)、人格、现实和真理相关，存在多种定义。三个常见的定义认为，主体性意味着以下的质量或条件：①狭义上意味着一个拥有有意识的经验，如视觉、感觉、信念和欲"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "心理学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "作为主体的人的自主性、能动性和创造性。在认识方面表现为选择性、建构性与预见性。"
+  },
+  {
+   "cn": "学科馆员",
+   "en": "subject librarian,subject specialist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "拥有专业知识、业务经验和从业资格，从事特定学科领域的专门信息服务，包括文献选择与评价、书目指导、专题信息导航和参考咨询等工作的图书馆员。"
+  },
+  {
+   "cn": "主题检索",
+   "en": "subject search,subject retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "以一个或多个主题词作为检索入口，在某一信息集合中把含有该词及其具有同一含义的词的内容查找出来的一种检索方法。"
+  },
+  {
+   "cn": "主题词",
+   "en": "subject term,subject word",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.241",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "各种主题法中用来表达文献主题内容的索引词的总称。一般包括标题词、单元词、叙词等规范化的索引词，有时还包括关键词等未经规范化处理的索引词。我国图书情报领域通常把“叙词”称为“主题词”。"
+  },
+  {
+   "cn": "档案主题标引",
+   "en": "subject indexing",
+   "source": "档案学名词",
+   "wordNumber": "03.04.031",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "对档案内容进行主题分析，赋予主题词标识的过程。"
+  },
+  {
+   "cn": "主题检索",
+   "en": "subject retrieval",
+   "source": "档案学名词",
+   "wordNumber": "06.03.024",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "用取自自然语言的语词来检索所需档案的方式。该检索的前提是用叙词或关键词来表达档案主题概念。"
+  },
+  {
+   "cn": "技术主体",
+   "en": "technical subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "具备一定知识经验和能力的、参与技术发明创造与使用过程的个人或群体。包括个体主体与群体主体。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "报道题材",
+   "en": "news subject",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.088",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "新闻作品主要反映的事件或现象。"
+  },
+  {
+   "cn": "编辑主体",
+   "en": "editorial subject",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.005",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从事编辑活动的人、群体或组织。"
+  },
+  {
+   "cn": "主题标引",
+   "en": "subject indexing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.154",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "根据内容主题的分析结果，将一个或多个主题词赋予数字内容对象的过程，通常使用自然语言中的词语或规范化的词语作为揭示文献主题的标识，并以此标识编排组织和查找内容。"
+  },
+  {
+   "cn": "专题数据库",
+   "en": "subject database",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.050",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "由特定主题、特定领域、特殊行业相互关联的数据和信息所构成的数据库。专题数据库可在有关软件的支持下，为特定服务对象提供专门的信息服务。"
+  },
+  {
+   "cn": "广告主体",
+   "en": "advertisement subject",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.074",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "由广告主、广告公司、广告媒介、广告组织、广告研究和教育机构构成的“广告业”。"
+  },
+  {
+   "cn": "专业叙词表",
+   "en": "subject thesaurus",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.320",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "面向某一学科或某一类型的文献主题的叙词表。收词范围较窄，只收录本专业领域的叙词及少量的相关领域的叙词。"
+  },
+  {
+   "cn": "被试",
+   "en": "subject",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第一主题",
+   "en": "first subject",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试变量",
+   "en": "subject variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "论题选择器",
+   "en": "subject selector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主题探查",
+   "en": "subject probe",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验预报",
+   "en": "subjective forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观分析",
+   "en": "subjective analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观评价，主观估计",
+   "en": "subjective assessment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观概率",
+   "en": "subjective probability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主观轮廓",
+   "en": "subjective contour",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主观测验",
+   "en": "subjective test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主观信息",
+   "en": "subjective information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观异名",
+   "en": "subjective synonym",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以获取配额为条件",
+   "en": "subject to quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据主体",
+   "en": "data subject",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律主体",
+   "en": "subject of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主体",
+   "en": "subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0157",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与客体相对应的一个功能性范畴，指实践、认识、价值、审美等对象性关系的主导者、支配者。马克思说“主体是人，客体是自然”，但并非任何人都是主体，主体是有意识、能思维、从事社会实践活动和认识活动的个人或社会"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0158",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义在批判地改造旧哲学基础上，认为主体性是人的一种功能属性，是人在一定实践、认识、价值、审美等活动中所表现出的主导地位、决定作用、支配态势，其核心是人的主动性、能动性、自主性和创造性。"
+  },
+  {
+   "cn": "主观性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0163",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）认识的片面性、独断性，从主观臆测或“先入之见”观察和分析问题的思想方法，是主观主义思想方法。（2）概念、范畴等逻辑思维形式的一种特性，具有抽象性、分隔性、主体性、意识能动性特征。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0598",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "被意识建构的自我认知。主体性在人类学中超越了法国哲学家笛卡尔的身心二元对立学说引发了互为主体的讨论。人类学传统上以研究异文化的他者为主，研究者与被研究者这种主体双方的关系在它的学术“基因”中就已存在。"
+  },
+  {
+   "cn": "个体主体",
+   "en": "individual subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0159",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个体主体是相对于群体主体、人类主体、社会主体而言的，指个人在社会、政治、经济等生活中获得主体地位和独立属性。个体主体是历史地生成的，群体活动、需求、性能必须通过个体主体才能得到实现和确证。"
+  },
+  {
+   "cn": "旅游主体",
+   "en": "tourism subject",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0195",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游者，旅游者把旅游动机转变为旅游行为是与旅游相关的一切社会现象和关系发生的基础，因而旅游者在旅游活动中处于中心地位。"
+  },
+  {
+   "cn": "主觉验光",
+   "en": "subjective refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用单纯插片法或综合验光仪法，通过判断被检者对不同屈光状态微小变化的反应情况确定屈光参数的一种主观测量方法。"
+  },
+  {
+   "cn": "劳动对象",
+   "en": "subject of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0100",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动过程的要素之一，人们在劳动工程中将自己的劳动加于其上的一切物质资料。劳动的对象分为两类：一类是没有经过人类劳动加工过的自然物；另一类是经过人类劳动加工过的物质资料。"
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject specific counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业心理健康机构，针对公众所关心的、较为普遍的学生心理健康问题，在报刊、电台、互联网等大众传播媒介进行专题讲座和答疑。"
+  },
+  {
+   "cn": "民俗主体论",
+   "en": "subject of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0452",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对民俗学及研究对象概念本身进行阐释的理论，以明确学科分野。"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "三个主体三个补充",
+   "en": "three subjects three supplement",
+   "source": "马克思主义",
+   "wordNumber": "02.0384",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "陈云在中共八大会议上提出的关于社会主义改造基本完成以后，我国社会主义经济模式的简称。具体内容为：国家经营和集体经营是主体，一定数量的个体经营为补充；计划生产是主体，一定范围的自由生产为补充；国家市场是"
+  },
+  {
+   "cn": "放射诊疗科目登记",
+   "en": "radiodiagnosis and radiotherapy subject registration",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗执业登记部门根据放射诊疗许可情况，将X射线影像诊断、介入放射学、核医学、放射治疗核准登记到医学影像科的二级诊疗科目的行为。"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

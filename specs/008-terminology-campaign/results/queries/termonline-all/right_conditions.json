@@ -1,0 +1,802 @@
+{
+ "key": "right conditions",
+ "term": "right conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T16:34:26+00:00",
+ "status": "ok",
+ "note": "variant=right conditions; 审定公布名词库=3107; 海峡两岸名词对照库=1039; 其他来源数据库=275; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "吐沙",
+   "en": "conditioning",
+   "source": "水产名词",
+   "wordNumber": "08.472",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "将活的贝类放在盛有清洁海水的容器中，以除去其体内的沙子和泥土。"
+  },
+  {
+   "cn": "条件处理",
+   "en": "conditioning",
+   "source": "电气工程名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "净化",
+   "en": "conditioning",
+   "source": "石油名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "石油_油气收集与储运工程_气田集输及输气管道",
+   "subjectName": "气田集输及输气管道",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "右半肝切除术",
+   "en": "right hemihepatectomy;right hepatectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "20.242",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "切除右半肝的手术。"
+  },
+  {
+   "cn": "病态",
+   "en": "ill-conditioned,ill-conditioning",
+   "source": "数学名词",
+   "wordNumber": "010.0410",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "右半结肠切除术",
+   "en": "right hemicolectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "19.210",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "切除回肠末端、盲肠、升结肠、横结肠右半部的手术。"
+  },
+  {
+   "cn": "右半肝",
+   "en": "right hemiliver",
+   "source": "普通外科学名词",
+   "wordNumber": "20.003",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "以肝正中裂为界的右侧肝组织。包括右前叶和右后叶。"
+  },
+  {
+   "cn": "右三叶肝切除术",
+   "en": "right trisectionectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "20.248",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "切除右半肝及肝左内叶的手术。"
+  },
+  {
+   "cn": "品种权",
+   "en": "variety right",
+   "source": "风景园林名词",
+   "wordNumber": "09.0213",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "完成育种的单位或个人对其授权的品种依法享有的排他使用权。是产权的一种类型。"
+  },
+  {
+   "cn": "产权",
+   "en": "property right",
+   "source": "农学名词",
+   "wordNumber": "19.219",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "法律认可的财产所有关系及依附其上的各种权益（如经营权、承包权、使用权和分配权等）的总称。"
+  },
+  {
+   "cn": "赤经",
+   "en": "right ascension",
+   "source": "天文学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "赤道坐标系的经向坐标，过天球上一点的赤经圈与过春分点的二分圈所交的球面角。"
+  },
+  {
+   "cn": "环境权利",
+   "en": "environmental right",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "社会共同体成员在其生存和发展的进程中享有清洁生态环境以及平等拥有水、土和气等人类环境资源的人权。其于20世纪60年代出现，1972年联合国第一次人类环境会议上通过的《人类环境宣言》对环境权利在全球范围"
+  },
+  {
+   "cn": "有条件提款权",
+   "en": "conditional drawing right",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "右板",
+   "en": "right lamina\",\"right plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "复原力臂",
+   "en": "righting arm\",\"righting lever",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空载状态",
+   "en": "light condition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "右部",
+   "en": "right part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肝",
+   "en": "right liver",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右脚",
+   "en": "right crus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肾",
+   "en": "right kidney",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右心耳",
+   "en": "right auricle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右心房",
+   "en": "right atrium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右心室",
+   "en": "right ventricle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水权",
+   "en": "water right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人身权",
+   "en": "personal right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库权",
+   "en": "database right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参与权",
+   "en": "participation right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理权",
+   "en": "governance right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "右上勾拳",
+   "en": "right uppercut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右直拳",
+   "en": "straight right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右勾拳",
+   "en": "right hook",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右后卫",
+   "en": "right back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "个人在性活动中享有的权利，如选择性对象、享受性爱等。"
+  },
+  {
+   "cn": "社会权利",
+   "en": "social right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "公民维持其社会存在的基本权利，包括生存权、健康权、受教育权、工作权、居住权和资产拥有权等。英国社会学家、社会政策学家马歇尔（T.H.Marshall）提出。"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪80年代盛行的社会政治思潮。经济上新自由主义和政治上新保守主义的集合。以里根和撒切尔政府为代表，在国家社会福利政策实施领域接受新自由主义思想，主张自由市场和个人责任，强化私有化，削弱国家的作用"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.004",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医师在执业活动中享有的正当权力和利益。包括法定权利和道德权利。一般说来，医师的法定权利都是其道德权利，而其道德权利不一定是其法定权利，二者并非完全一致，在特定情形下甚至可能会出现冲突。"
+  },
+  {
+   "cn": "健康权",
+   "en": "health right",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "一项基本人权，人人享有能达到的最高体质和心理健康标准的权利。"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "公民在政治领域享有的民主权利。公民能参与立法等政治活动，并且其身体、言论、信仰、居住、集会等自由权利要受到法律保护。"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.18",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "业主作为房屋的产权所有人，自己或通过业主委员会组织起来，争取与自己相关的住房及其他权益的活动。"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0167",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "社会成员或群体学习和使用语言的权利。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "民族权利",
+   "en": "ethnic rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族在国家宪法和相关法律规定下享有的权利。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
