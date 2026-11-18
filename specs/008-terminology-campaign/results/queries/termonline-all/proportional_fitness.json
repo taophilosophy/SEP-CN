@@ -1,0 +1,652 @@
+{
+ "key": "proportional fitness",
+ "term": "proportional fitness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:22:12+00:00",
+ "status": "ok",
+ "note": "variant=proportional fitness; 审定公布名词库=478; 海峡两岸名词对照库=152; 其他来源数据库=5; 预公布名词数据库=77; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "风景园林名词",
+   "wordNumber": "07.0096",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "建筑物各个组成部分或和整体在尺度上的相互数量关系。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "建筑学名词",
+   "wordNumber": "09.0107",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "(1)在绘图中表示图形与其实物相应要素的线性尺寸之比。(2)在建筑的构成中，指物质形态的局部与局部、局部与整体之间的比值关系。"
+  },
+  {
+   "cn": "构成比",
+   "en": "proportion",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "说明同一事物内部各组成部分所占的比重或分布情况，可用百分数表示。分子与分母的单位相同，而且分子包含于分母之中。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0074",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "农学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "衡量单个昆虫种群存活和繁殖成功概率的一种尺度。包括生存能力、繁殖能力和子代生存能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.435",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。是衡量个体存活和生殖机会的尺度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "动物学名词",
+   "wordNumber": "2.0285",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "密合性",
+   "en": "fitness",
+   "source": "结核病学名词",
+   "wordNumber": "05.108",
+   "subjectFullName": "结核病学_结核病预防与控制_感染控制",
+   "subjectName": "感染控制",
+   "publishYear": "2019",
+   "definition": "口罩周边与佩戴者面部的密合程度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "植物学名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "遗传学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "生态学名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力，是衡量个体存活和生殖机会的尺度。适合度越大，存活和生殖机会越高。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.854",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "fit",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0339",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "基本尺寸相同的，相互结合的孔和轴公差带之间的关系，用以表达结合松紧程度的功能要求。"
+  },
+  {
+   "cn": "金具",
+   "en": "fitting",
+   "source": "电力名词",
+   "wordNumber": "22.171",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "连接和组合电力系统中各类装置,以传递机械、电气负荷或起某种防护作用的金属附件。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "生物物理学名词",
+   "wordNumber": "02.421",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "将高分辨的密度分布图与低分辨的密度分布图进行匹配的操作。常用于在低分辨的密度分布图中获取高分辨信息。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "数学名词",
+   "wordNumber": "010.0138",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0311",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一种测量放射性强度的装置。由充气（常用甲醇与氩混合气体）的管或小室作探头，当对探头施加的电压在一定范围内时，射线在管内引起电离所产生的脉冲大小与射线的能量成正比，与探头相连的电子系统就能够分析不同能量"
+  },
+  {
+   "cn": "比例电磁铁",
+   "en": "proportional solenoid",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1005",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "输出力随控制信号的变化而变化，并呈一定比例关系的电磁铁。"
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0387",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "产生比例控制作用的控制器。"
+  },
+  {
+   "cn": "比例税",
+   "en": "proportional taxation",
+   "source": "经济学名词",
+   "wordNumber": "09.086",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "对同一课税对象，不论数额大小，均按同一比例计征的一种税率制度。"
+  },
+  {
+   "cn": "符值比例法",
+   "en": "proportion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "非特",
+   "en": "fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热装",
+   "en": "shrinkage fitting\",\"shrinkage fit",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例度",
+   "en": "proportional band",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例增益",
+   "en": "proportional gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例灵敏度",
+   "en": "proportional sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例元件",
+   "en": "proportional element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例作用",
+   "en": "proportional action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均衡凝固",
+   "en": "proportional solidification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "比例抽样",
+   "en": "proportional sampling",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比例阀",
+   "en": "proportional valve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "套缰绳",
+   "en": "fit the bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文成规矩，思合符契",
+   "en": "The Sage’s Compositions Set the Rules of Writing, and His Ideas Fit Perfectly with Objective Things.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正声",
+   "en": "Proper Music / Finest Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公生明,廉生威",
+   "en": "Fairness Fosters Discernment and Integrity Creates Authority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "体力适度",
+   "en": "physical fitness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在日常活动中表现出的疲劳感、无力和虚弱感。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按一定比例共同支付医疗费用，可以是一个固定的比率，也可以是变动的比率。"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的80%及以上。"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%～79%"
+  },
+  {
+   "cn": "低比例母乳喂养",
+   "en": "low-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%以下。"
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "体能发育",
+   "en": "physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体生理功能和运动能力随年龄而发生的变化。"
+  },
+  {
+   "cn": "体能测试",
+   "en": "physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "采用医学手段对机体日常体力活动或运动中的功能进行测试。一般包括身体成分、心肺耐力、肌力肌耐力和柔韧性四个方面的测试。"
+  },
+  {
+   "cn": "体质健康",
+   "en": "physical fitness health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种完好的身体、心理和社会适应的状态，而不仅仅是没有疾病或虚弱。包括身体形态、感觉敏锐度、对疾病的易感性、身体机能、恢复能力和执行某些任务的能力。"
+  },
+  {
+   "cn": "骨骼肌肉适能",
+   "en": "muscular-skeletal fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "由骨骼强韧度、肌肉力量、肌肉耐力、爆发力和柔韧性所反映的体质健康状态。"
+  },
+  {
+   "cn": "体质监测",
+   "en": "physical fitness surveillance",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.12",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "为系统掌握国民体质状况，以抽样调查的方式，在全国范围内对监测对象进行统一体质测试和对监测数据进行分析研究的工作。"
+  },
+  {
+   "cn": "体能训练",
+   "en": "physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.10",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "为促进身体发育、增强力量和耐力、提高速度和灵敏性、增加柔韧性、促进各部位协调等人体的运动能力而进行的训练活动。"
+  },
+  {
+   "cn": "函数拟合法",
+   "en": "function fit method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "在γ能谱分析中，用一指定的函数描述峰形，并用实测数据通过最小二乘法求出函数的有关参数，然后在峰区内对函数积分求出峰面积的一种方法。"
+  },
+  {
+   "cn": "食源性传播占比",
+   "en": "proportion of foodborne transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性传播引起的疾病负担占总的疾病负担的比例。"
+  },
+  {
+   "cn": "后运方法构成比",
+   "en": "proportion of evacuation methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每百名伤员采用不同后运方法的百分构成比。后运方法常分步行、担架、救护车、回程空车、卡车、船、卫生列车、飞机及其他。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

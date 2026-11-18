@@ -1,0 +1,342 @@
+{
+ "key": "konig's lemma",
+ "term": "König’s Lemma",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:12:47+00:00",
+ "status": "ok",
+ "note": "variant=König’s Lemma; 审定公布名词库=31; 海峡两岸名词对照库=12; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "外稃",
+   "en": "lemma",
+   "source": "植物学名词",
+   "wordNumber": "03.0514",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "禾本科植物小穗中包住小花的外苞片。其中脉明显，常可延长成芒。"
+  },
+  {
+   "cn": "词目",
+   "en": "lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "处于词条首位的词项。语词在各种语境的词汇变体的抽象形式，既是释义的对象，也是词典的基本查检单位。"
+  },
+  {
+   "cn": "引理",
+   "en": "lemma",
+   "source": "数学名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "λ引理",
+   "en": "λ-lemma,lambda-lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0187",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "法尔卡斯引理",
+   "en": "Farkas’ lemma",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "线性不等式系统的可求解性定理，也是支撑线性规划对偶性的关键理论结果。"
+  },
+  {
+   "cn": "极限引理",
+   "en": "limit lemma",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0217",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "停机问题刚好是可计算函数序列的极限。一般地，对任何自然数函数 f 及自然数集合 A ， f<img src='/root/syzx/static/spz/jsjkx3.02.0217.001.png'"
+  },
+  {
+   "cn": "泵引理",
+   "en": "pumping Lemma",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0544",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一个语言 L 满足泵引理指的是，对 L 中长度大于某常数的任意一个串w，都可以把它分成若干段（3或5段），把其中某（某些）段删去或重复任意多次，得到的新串仍是 L 的成员。正规语言和上下文无关语言具有"
+  },
+  {
+   "cn": "副词条",
+   "en": "secondary lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“主词条”相对。宏观结构的构成单元，但没有独立释文，需要参见主词条或其他词条才能理解其意义。"
+  },
+  {
+   "cn": "佐恩引理",
+   "en": "Zorn lemma",
+   "source": "数学名词",
+   "wordNumber": "02.0158",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖引理",
+   "en": "covering lemma",
+   "source": "数学名词",
+   "wordNumber": "05.0303",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "封闭引理",
+   "en": "closing lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0167",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "福科什引理",
+   "en": "Farkas lemma",
+   "source": "数学名词",
+   "wordNumber": "011.0056",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "索伯列夫引理",
+   "en": "Sobolev lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0507",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伊藤定理",
+   "en": "Itô’s lemma",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0045",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "规定了对随机过程函数求微分的方法。其微分过程与普通的微分过程(求导)相比，结果会多出伊藤项。"
+  },
+  {
+   "cn": "立目",
+   "en": "selection of lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "按照一定的编纂宗旨，以统计学与经验相结合的方式，在语料中挑选一部辞书应收录的语言单位，并确立为词目。例如确定一部字典的字头、词典的词头、百科全书的条头等。"
+  },
+  {
+   "cn": "山路引理",
+   "en": "mountain pass lemma",
+   "source": "数学名词",
+   "wordNumber": "07.0379",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "芽孢",
+   "en": "gemma",
+   "source": "植物学名词",
+   "wordNumber": "05.0050",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "一些卵菌和接合菌的多核菌丝体在培养基表面形成的一种厚壁、有时不规则的大型细胞。与厚垣孢子相似。"
+  },
+  {
+   "cn": "胞芽",
+   "en": "gemma",
+   "source": "植物学名词",
+   "wordNumber": "07.0095",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "芽胞杯内产生的多细胞扁盘状的营养繁殖器官。两侧具生长点，成熟时自柄处脱落，散落地面后可迅速萌发成新的叶状体。"
+  },
+  {
+   "cn": "柯尼西定理",
+   "en": "König's theorem",
+   "source": "物理学名词",
+   "wordNumber": "02.0451",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "芽孢",
+   "en": "spore,gemma",
+   "source": "微生物学名词",
+   "wordNumber": "03.076",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "(1)。细菌在胞内形成的对不良环境条件具有强抗逆性能和有利于传播的无性休眠体。(2)卵菌中一种厚壁、有时不规则的细胞，与厚垣孢子相似的一种无性繁殖体。"
+  },
+  {
+   "cn": "外稃",
+   "en": "lemma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泵作用引理",
+   "en": "pumping lemma",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "孢芽（=胞芽）",
+   "en": "gemma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胞芽，孢芽",
+   "en": "gemma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "芽孢",
+   "en": "gemma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "孢芽杯（=胞芽杯）",
+   "en": "gemma cup",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胞芽杯，孢芽杯",
+   "en": "gemma cup",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内华达，埃玛",
+   "en": "Nevada\",\"Emma(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔韦",
+   "en": "Calvé\",\"Emma(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激光探针质量分析仪",
+   "en": "laser microprobe mass analyser，LAMMA",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泰莫斯，埃及之王",
+   "en": "Thamos\",\"König in Ägypten",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "奥伯龙，或妖王的誓约",
+   "en": "Oberon\",\"or The Elf- King’s Oath",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Weber, Carl Maria von "
+  },
+  {
+   "cn": "将在外，君命有所不受",
+   "en": "A General Out in the Battlefield Can Choose Not to Obey the King’s Order.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

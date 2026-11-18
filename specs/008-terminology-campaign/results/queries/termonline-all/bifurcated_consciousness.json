@@ -1,0 +1,642 @@
+{
+ "key": "bifurcated consciousness",
+ "term": "bifurcated consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:09:50+00:00",
+ "status": "ok",
+ "note": "variant=bifurcated consciousness; 审定公布名词库=150; 海峡两岸名词对照库=36; 其他来源数据库=6; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "分叉",
+   "en": "bifurcation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.707",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "自组织系统演化过程中的一种现象。系统演化过程中，系统参数的变化引起了相空间的拓扑结构的变化，从一种现实的状态进展到几种可能状态时，必定进展到某个关节点，从而在几种不同可能的稳态中加以选择。"
+  },
+  {
+   "cn": "二叉分支",
+   "en": "bifurcation",
+   "source": "动物学名词",
+   "wordNumber": "2.0168",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "系统发生树上由祖先节点产生的两个后代分支。"
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "物理学名词",
+   "wordNumber": "11.0480",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二叉分支",
+   "en": "bifurcation",
+   "source": "植物学名词",
+   "wordNumber": "02.0223",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "系统发育树上由祖先节点产生的两个后代分支。"
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0043",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "将非线性动力体系的参数空间按定态数目与性质分为若干子空间，当参数向量穿越相邻子空间分界时将发生定态数目或性质的变化。"
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "动力学系统的参数逐渐变化到某临界值时，系统的运动行为会发生某种性质突变的现象。如神经细胞的发放模式随生理参数的变化而变化就是一种分岔现象。"
+  },
+  {
+   "cn": "喷嘴支管",
+   "en": "bifurcation",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0128",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "位于喷嘴前向喷嘴供水的短管。"
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "大气科学名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "当决定系统的参数发生变化时，对于一定的参数值，系统(方程)的解失去稳定性而同时出现两个或多个解的现象。"
+  },
+  {
+   "cn": "分叉",
+   "en": "bifurcation",
+   "source": "地理学名词",
+   "wordNumber": "25.035",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "一种类型过程向它种类型过程的变化。"
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "土木工程名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分叉",
+   "en": "bifurcation",
+   "source": "化学工程名词",
+   "wordNumber": "01.044",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二根分叉部",
+   "en": "bifurcation",
+   "source": "医学名词 第二分册",
+   "wordNumber": "02.063",
+   "subjectFullName": "医学_口腔医学_牙体解剖学",
+   "subjectName": "牙体解剖学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "分叉运动",
+   "en": "bifurcated motion",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0578",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机构经过奇异位置时构型呈现两种分支特性，进而会导致不同的运动性能和运动范围的现象。"
+  },
+  {
+   "cn": "分歧韧带",
+   "en": "bifurcated ligament",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.1334",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨连结",
+   "subjectName": "附肢骨连结",
+   "publishYear": "2014",
+   "definition": "起自跟骨背面，向前分为两股，分别止于足舟骨和骰骨。一强韧的韧带，呈“Y”形。"
+  },
+  {
+   "cn": "分路通风机",
+   "en": "bifurcated fan",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0058",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "在轴向管道中布置有轴流、混流或离心式叶轮的通风机。其直联电动机通过管道中的空腔或隧道与气流隔离。"
+  },
+  {
+   "cn": "开槽接触件",
+   "en": "bifurcated contact",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "09.113",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表元件_仪器仪表机电元件_接触件",
+   "subjectName": "接触件",
+   "publishYear": "2003",
+   "definition": "带有纵向槽的片状接触件，它的两个臂以同一方向施加接触力。"
+  },
+  {
+   "cn": "开槽触头",
+   "en": "bifurcated contact",
+   "source": "电气工程名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "岔管",
+   "en": "bifurcated pipe",
+   "source": "水利科学技术名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "水利科学技术_水工建筑_输水建筑物",
+   "subjectName": "输水建筑物",
+   "publishYear": "1997",
+   "definition": "输水管道向多个用水系统(水轮机等)供水时或用于泄水时而设置的分岔管道。"
+  },
+  {
+   "cn": "肠叉",
+   "en": "intestinal bifurcation",
+   "source": "动物学名词",
+   "wordNumber": "5.1013",
+   "subjectFullName": "动物学_无脊椎动物学_扁形动物门",
+   "subjectName": "扁形动物门",
+   "publishYear": "2021",
+   "definition": "食道后面分叉的部位。下接肠管。"
+  },
+  {
+   "cn": "二叉分支",
+   "en": "bifurcation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分岔",
+   "en": "bifurcation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分叉",
+   "en": "bifurcation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分叉",
+   "en": "bifurcation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分歧韧带",
+   "en": "bifurcated ligament\",\"bifurcate ligament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分叉波导[管]",
+   "en": "bifurcated waveguide",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双棘突起",
+   "en": "bifurcated process",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "颈动脉杈",
+   "en": "carotid bifurcation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分歧理论",
+   "en": "bifurcation theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霍普夫分岔",
+   "en": "Hopf bifurcation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "歧点",
+   "en": "bifurcation point",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "歧点",
+   "en": "bifurcation point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分叉分析",
+   "en": "bifurcation analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肠叉",
+   "en": "intestinal bifurcation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "主动脉杈",
+   "en": "aortic bifurcation\",\"bifurcation of aorta",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "气管杈",
+   "en": "bifurcation of trachea",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "倍周期分岔",
+   "en": "period doubling bifurcation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霍普夫分岔,霍普夫分支",
+   "en": "Hopf's bifurcation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "有两层含义：一是指群体经验或有关群体的集体意识，如群体成员共享的信仰、 价值观念和规范准则等；另一是指群体成员资格在群体成员的自我意象及经验中的地位。"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0167",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会存在即社会物质生活及其过程在社会精神领域中的反映，是精神现象的总和，包括各种社会意识形式和社会心理。是历史唯物主义最基本的范畴之一。社会意识取决于社会存在，在阶级社会具有鲜明的阶级性。同时，社会意"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "国家意识",
+   "en": "national consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0144",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的国家认同，即公民作为国家一分子维护国家统一、领土完整、安全发展等方面利益的意识。"
+  },
+  {
+   "cn": "公民意识",
+   "en": "civic consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0145",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的公民身份认同，即公民作为一国公民，并承担国家规定的公民权利义务的意识。"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "三个意识",
+   "en": "three consciousnesses",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0143",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即国家意识、公民意识和法治意识。"
+  },
+  {
+   "cn": "意识觉醒小组",
+   "en": "consciousness-raising group",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "美国在20世纪60-70年代女权运动中流行的一种组织活动方式。妇女们聚在一起讲述自己的生活经历、遭遇的不公以及抗争，进而使她们长期受蒙蔽和受压抑的自我无意识得以觉醒，实现自我赋权。"
+  },
+  {
+   "cn": "对象意识",
+   "en": "consciousness of object",
+   "source": "马克思主义",
+   "wordNumber": "01.0130",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人以主体之外的客体世界为对象的意识，是主体关于对象世界的状态、属性、结构、规律等的认知和把握。对象意识不是与主体无关的意识，恰恰相反，它是主客体相互作用的产物，总是存在于主体大脑中，为主体自我所意识。"
+  },
+  {
+   "cn": "自我意识发展",
+   "en": "self-consciousness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对自己存在的觉察和认识的能力随年龄增长的发展变化过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

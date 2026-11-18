@@ -1,0 +1,442 @@
+{
+ "key": "transientism",
+ "term": "transientism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:21:49+00:00",
+ "status": "ok",
+ "note": "variant=transientism; 审定公布名词库=257; 海峡两岸名词对照库=57; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "暂现源",
+   "en": "transient",
+   "source": "天文学名词",
+   "wordNumber": "04.501",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "突然出现于天空并在不久之后强度逐渐减弱而消失的天体。"
+  },
+  {
+   "cn": "瞬态",
+   "en": "transient",
+   "source": "电力名词",
+   "wordNumber": "01.286",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "电路(系统)从一种稳态变化到另一种稳态的过渡过程。"
+  },
+  {
+   "cn": "暂态过程",
+   "en": "transient",
+   "source": "电力名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "当电力系统遭受到大干扰后,电力系统从一种运行状态急剧地向另一种运行状态过渡的过程。"
+  },
+  {
+   "cn": "过渡过程",
+   "en": "transient",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0210",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "机组从一种稳定工况变化到另一种稳定工况的暂态过程。"
+  },
+  {
+   "cn": "暂时性甲状旁腺功能减退症",
+   "en": "transient hypoparathyroidism",
+   "source": "普通外科学名词",
+   "wordNumber": "14.155",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "甲状腺手术后短时间内甲状旁腺功能不足，或者是甲状旁腺功能亢进手术切除病变后，受抑制的正常甲状旁腺在短时间内未能恢复功能而导致的甲状旁腺功能减退症。经过补钙等对症治疗后可在6个月内恢复功能。"
+  },
+  {
+   "cn": "短暂过度通气",
+   "en": "transient hyperventilation",
+   "source": "神经外科学名词",
+   "wordNumber": "16.36",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "在难治性颅内压增高的神经重症患者救治中，诱导患者短暂加快呼吸频率和深度，以降低动脉血二氧化碳分压，从而收缩脑血管，降低颅内压的方法。诱导时间一般不超过5分钟，不适合长期应用。"
+  },
+  {
+   "cn": "瞬时表达",
+   "en": "transient expression",
+   "source": "农学名词",
+   "wordNumber": "15.214",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源基因导入细胞后，未整合入基因组，而是在细胞中以附加体形式进行的基因表达。"
+  },
+  {
+   "cn": "瞬时转染",
+   "en": "transient transfection",
+   "source": "农学名词",
+   "wordNumber": "15.215",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "通过脂质体介导转染法及电穿孔等技术，将靶基因导入细胞，使被转染细胞在较短时间内表达基因的方法。"
+  },
+  {
+   "cn": "日冕瞬变",
+   "en": "coronal transient",
+   "source": "天文学名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "在日冕局部区域偶然出现的形态和光度变化。"
+  },
+  {
+   "cn": "短暂转染",
+   "en": "transient transfection",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0775",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "外源核酸转染真核细胞后未整合入细胞基因组，而是以附加体形式短时间存在于细胞中，数天后即丢失的现象。"
+  },
+  {
+   "cn": "短暂表达",
+   "en": "transient expression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.08",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "外源基因导入真核细胞后，不待整合进受体细胞基因组，而立即转录出现基因产物的现象。重组基因的短暂表达水平一般比较高，但数天内消失。不能稳定遗传给下一代。当需要在短时间内分析目的基因表达的效应时可以采取短"
+  },
+  {
+   "cn": "短暂性呃逆",
+   "en": "transient hiccup",
+   "source": "消化病学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "仅持续数分钟的膈肌和肋间肌等呼吸肌的不自主阵发性痉挛。可见于健康人受精神刺激或快速吞咽药物、食物及吸入冷空气等情况时。"
+  },
+  {
+   "cn": "暂态形变",
+   "en": "transient deformation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1375",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在极短时间内快速发生的形变。 "
+  },
+  {
+   "cn": "瞬时表达",
+   "en": "transient expression ",
+   "source": "草学名词",
+   "wordNumber": "5.017",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "暂态蠕变",
+   "en": "transient creep",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1697",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "岩石样本受到常量应力加载后，首先发生弹性应变，接着应变迅速增加，并随应变的增加，应变增加速率不断地减小的现象。 "
+  },
+  {
+   "cn": "一过性改变",
+   "en": "transient change",
+   "source": "行为医学名词",
+   "wordNumber": "10.057",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "当应激源强度较大，但时间短暂时，机体某些方面的稳定性受到影响，并发生一过性波动反应（如出现一些心身症状等），过后即消失的反应。"
+  },
+  {
+   "cn": "瞬变扰动",
+   "en": "transient disturbance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0315",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "瞬时信号产生的扰动。在地球物理勘探中指场源的瞬时扰动。 "
+  },
+  {
+   "cn": "瞬变系统",
+   "en": "transient system",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0322",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "信号随时间瞬时变化的系统。 "
+  },
+  {
+   "cn": "一过性结肠缺血病",
+   "en": "transient colopathy",
+   "source": "消化病学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "消化病_缺血性肠道疾病_缺血性肠道疾病分类",
+   "subjectName": "缺血性肠道疾病分类",
+   "publishYear": "2022",
+   "definition": "缺血性结肠损伤程度最轻的类型，由血管短暂性收缩造成。病理上仅表现为黏膜上皮水肿或轻微出血。临床症状可有一过性腹痛或轻度腹痛，为可逆的自限性疾病。"
+  },
+  {
+   "cn": "瞬态吸收",
+   "en": "transient absorption",
+   "source": "光学名词",
+   "wordNumber": "01.493",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "飞秒脉冲激光与物质相互作用时使物质对光波的吸收增强或减弱，而当光脉冲离开物质时物质对光波的吸收又逐渐恢复到原始状态，且这种光学吸收性质随施加飞秒光脉冲的时间而改变的吸收过程。它用于测量物质各分子、原子"
+  },
+  {
+   "cn": "瞬态",
+   "en": "transient state\",\"transient mode",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达（=瞬时表达）",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时表达，短暂表达",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬变",
+   "en": "transient variation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬变波",
+   "en": "transient wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬变涡旋",
+   "en": "transient vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬态响应",
+   "en": "transient response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "瞬态扩散",
+   "en": "transient diffusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "瞬态现象",
+   "en": "transient phenomenon",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "瞬态行为",
+   "en": "transient behavior",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过渡顶极,暂时顶极",
+   "en": "transient climax",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日冕瞬变",
+   "en": "coronal transient",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暂现事件",
+   "en": "transient event",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暂时平衡",
+   "en": "transient equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "过渡性示踪剂",
+   "en": "transient tracer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达, 瞬时表达",
+   "en": "transient expression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "短暂转染",
+   "en": "transient transfection",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时转染",
+   "en": "transient transfection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "过渡性多态性,过渡性多态现象",
+   "en": "transient polymorphism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时表达",
+   "en": "transient expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "暂居菌",
+   "en": "transient skin flora",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.2.2.2",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "寄居皮肤表层，用常规洗手可清除的细菌。"
+  },
+  {
+   "cn": "流动人口群体",
+   "en": "transient population group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.19",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在事先确定的地点（例如野营地）短时间（数天或数周）居住的那些公众成员。不包括正在旅行穿越某个地区的那些公众成员。"
+  },
+  {
+   "cn": "短暂性抽动障碍",
+   "en": "transient tic disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "一过性、简单性的运动抽动，少数也可表现为刻板、单纯性的发声抽动的抽动障碍。多见于4～7岁儿童，病程至少持续2周，但不超过一年。由于抽动症状较轻，部位较局限，对日常生活影响较小，通常易被忽视。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

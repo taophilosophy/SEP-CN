@@ -1,0 +1,402 @@
+{
+ "key": "compossibility",
+ "term": "Compossibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:09:06+00:00",
+ "status": "ok",
+ "note": "variant=Compossibility; 审定公布名词库=52; 海峡两岸名词对照库=19; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "压缩率",
+   "en": "compressibility",
+   "source": "物理学名词",
+   "wordNumber": "02.0478",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可压缩性",
+   "en": "compressibility",
+   "source": "物理学名词",
+   "wordNumber": "02.0477",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可压缩性",
+   "en": "compressibility",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "呼吸病学_肺功能_相关的物理学概念",
+   "subjectName": "相关的物理学概念",
+   "publishYear": "2018",
+   "definition": "流体的密度随压力变化而改变的性质。"
+  },
+  {
+   "cn": "可压性",
+   "en": "compressibility",
+   "source": "药学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "固体物料压缩成型的性能。"
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1740",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_粉体制备技术",
+   "subjectName": "粉体制备技术",
+   "publishYear": "2011",
+   "definition": "在加压条件下粉末或坯料被压缩的程度。表示为达到所需密度而所需的压力或在已知压力下得到的密度值。"
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.107",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.100",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）",
+   "subjectName": "土力学（水利）",
+   "publishYear": "1997",
+   "definition": "土在压力作用下体积缩小的特性。"
+  },
+  {
+   "cn": "压缩系数",
+   "en": "compressibility",
+   "source": "石油名词",
+   "wordNumber": "11.0040",
+   "subjectFullName": "石油_油气田开发与开采_油层物理",
+   "subjectName": "油层物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "[可]压缩性",
+   "en": "compressibility",
+   "source": "石油名词",
+   "wordNumber": "06.0291",
+   "subjectFullName": "石油_石油炼制_石油炼制产品性质及评价",
+   "subjectName": "石油炼制产品性质及评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "压缩率",
+   "en": "compressibility",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility",
+   "source": "地质学名词",
+   "wordNumber": "09.061",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility,compactivity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.062",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "在规定条件下粉末被压缩的程度。一般用压坯密度来表示。"
+  },
+  {
+   "cn": "孔隙压缩系数",
+   "en": "pore compressibility",
+   "source": "地质学名词",
+   "wordNumber": "16.03.004",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "表示多孔介质在压强变化时的压缩性的指标。"
+  },
+  {
+   "cn": "固体颗粒压缩系数",
+   "en": "solid compressibility",
+   "source": "地质学名词",
+   "wordNumber": "16.03.005",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "表示多孔介质中固体颗粒本身压缩性的指标。"
+  },
+  {
+   "cn": "[滑动轴承]压缩数",
+   "en": "compressibility number",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0597",
+   "subjectFullName": "机械工程（一）_机械零件_滑动轴承_滑动轴承材料及其性能",
+   "subjectName": "滑动轴承材料及其性能",
+   "publishYear": "2021",
+   "definition": "气体轴承计算中表示气体压缩效应对轴承性能影响程度而用的一个无量纲参数。"
+  },
+  {
+   "cn": "压缩特性数",
+   "en": "compressibility number",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0372",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "气体润滑计算中考虑气体可压缩性影响的无量纲参数。"
+  },
+  {
+   "cn": "压缩因子",
+   "en": "compressibility factor",
+   "source": "物理学名词",
+   "wordNumber": "05.0078",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "体压缩系数",
+   "en": "volume compressibility",
+   "source": "冶金学名词",
+   "wordNumber": "08.0024",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料在单位静压力下的体积应变值。"
+  },
+  {
+   "cn": "线压缩系数",
+   "en": "linear compressibility",
+   "source": "冶金学名词",
+   "wordNumber": "08.0025",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料在单位静压力下的线应变值。"
+  },
+  {
+   "cn": "等温压缩率",
+   "en": "isothermal compressibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0213",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可压缩性",
+   "en": "compressibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩性",
+   "en": "compressibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "压缩性， 压缩率",
+   "en": "compressibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可压缩性",
+   "en": "compressibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可压性",
+   "en": "compressibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压缩率判据",
+   "en": "compressibility criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩因子",
+   "en": "compressibility factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等温压缩性",
+   "en": "isothermal compressibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩系数",
+   "en": "compressibility coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "粉末压缩性",
+   "en": "powder compressibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "压缩因子",
+   "en": "compressibility factor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均压缩性",
+   "en": "mean compressibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "融化压缩",
+   "en": "thaw compressibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "临界压缩比",
+   "en": "critical compressibility ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界压缩因子",
+   "en": "critical compressibility factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纤维可压缩性",
+   "en": "compressibility of fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "压缩因子图",
+   "en": "compressibility factor diagram",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "压缩系数",
+   "en": "coefficient of compressibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海水压缩性",
+   "en": "compressibility of sea water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

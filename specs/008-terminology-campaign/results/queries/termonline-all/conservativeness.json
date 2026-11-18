@@ -1,0 +1,512 @@
+{
+ "key": "conservativeness",
+ "term": "Conservativeness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:04:48+00:00",
+ "status": "ok",
+ "note": "variant=Conservativeness; 审定公布名词库=368; 海峡两岸名词对照库=111; 其他来源数据库=11; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "守恒性",
+   "en": "conservativeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0697",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种结构性质。一个网（即佩特里网的基网） N称为守恒的是指存在非平凡的非负整数m维向量,对任意初始标识<img src='/root/syzx/static/spz/jsjkx3.02.06"
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "风景园林名词",
+   "wordNumber": "12.0137",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "人类社会采取措施，保护和改善人类生活于其中的自然环境的过程。"
+  },
+  {
+   "cn": "保护",
+   "en": "conservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对保护项目及其环境进行的科学的调查、勘测、评估、登录、修缮、维修、改善、利用的过程。"
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "物理学名词",
+   "wordNumber": "01.0052",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "心理学名词",
+   "wordNumber": "06.011",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为守恒是指当物体的外观发生改变时仍认识到其某种物理属性保持不变的能力。"
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "昆虫学名词",
+   "wordNumber": "06.226",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "对益虫和其他有经济或观赏价值的稀有昆虫进行保种护育管理。"
+  },
+  {
+   "cn": "保守的",
+   "en": "conservative",
+   "source": "数学名词",
+   "wordNumber": "07.0421",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "守恒与不守恒",
+   "en": "conservation and non-conservation",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "自然辩证法_总论_自然界的辩证法",
+   "subjectName": "自然界的辩证法",
+   "publishYear": "2024",
+   "definition": "表征事物运动方式的一对范畴。分别指事物变化中所具有的那些不随时间与随着时间而变化的性质。"
+  },
+  {
+   "cn": "生态保育",
+   "en": "ecological conservation",
+   "source": "风景园林名词",
+   "wordNumber": "05.0141",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "为促进一定区域范围内的生态系统稳定存续、自然资源保护培育而采取的工程建设管理行为。"
+  },
+  {
+   "cn": "鲜花养护",
+   "en": "flower conserving",
+   "source": "农学名词",
+   "wordNumber": "17.282",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "采取适当措施，使采后鲜花达到最佳吐香效果的过程。"
+  },
+  {
+   "cn": "保护性耕作",
+   "en": "conservation tillage",
+   "source": "农学名词",
+   "wordNumber": "08.163",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "采用土壤免耕或少耕、秸秆覆盖还田及坡耕地等，达到保土、保肥和保水的耕作方式。"
+  },
+  {
+   "cn": "保护管理",
+   "en": "conservation management",
+   "source": "档案学名词",
+   "wordNumber": "05.02.021",
+   "subjectFullName": "档案学_档案保护_档案保护环境",
+   "subjectName": "档案保护环境",
+   "publishYear": "2024",
+   "definition": "对档案保护工作的管理，是通过计划、组织、领导和控制，以便达成档案保护工作目标的过程。"
+  },
+  {
+   "cn": "抢救性保护",
+   "en": "salvage conservation",
+   "source": "档案学名词",
+   "wordNumber": "05.03.013",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "针对濒危的档案采取修复、缩微复制、数字化等相应的保护措施。"
+  },
+  {
+   "cn": "预防性保护",
+   "en": "preventive conservation",
+   "source": "档案学名词",
+   "wordNumber": "05.03.014",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "通过技术手段和环境控制预防档案损坏的措施。"
+  },
+  {
+   "cn": "治理性保护",
+   "en": "curative conservation",
+   "source": "档案学名词",
+   "wordNumber": "05.03.015",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "对破损档案采取的一系列处理技术和保护方法。"
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.345",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理系统的某些属性或可观察量在一系列变化下保持不变的规律。如质量守恒定律、动量守恒定律、电荷守恒定律、能量守恒与转化定律等。"
+  },
+  {
+   "cn": "保守序列",
+   "en": "conserved sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "在进化过程中，核酸或蛋白质分子中不变或变化不大的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "全保留复制",
+   "en": "conservative replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.191",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒双链RNA复制的一种模式。双链RNA中的两条RNA亲链一直是缠绕在一起的，仅在复制点处有几个碱基对解链，并且在复制酶的作用下复制出一条子代RNA链，然后以这条新生链为模板合成出互补链，并由此产生子"
+  },
+  {
+   "cn": "保护性利用",
+   "en": "conservative use ",
+   "source": "草学名词",
+   "wordNumber": "2.0621",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护",
+   "en": "nature conservation ",
+   "source": "草学名词",
+   "wordNumber": "3.022",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "守恒性",
+   "en": "conservativeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护，保育",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保育（=保护）",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒，保守",
+   "en": "conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保护,保育",
+   "en": "conservation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "保护生态学",
+   "en": "conservation ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒",
+   "en": "momentum conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒",
+   "en": "energy conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒方程",
+   "en": "conservation equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒格式",
+   "en": "conservation scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒污染物",
+   "en": "conservative pollutant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒",
+   "en": "mass conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒",
+   "en": "energy conservation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒",
+   "en": "momentum conservation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒",
+   "en": "mass conservation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "守恒方程",
+   "en": "conservation equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保守性聚焦",
+   "en": "conservative focusing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "美国数据长期保存项目",
+   "en": "Data Conservancy Project (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态扶贫",
+   "en": "poverty alleviation through ecological conservation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源全面节约制度",
+   "en": "the comprehensive resource conservation system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源节约型环境友好型社会",
+   "en": "resource-conserving and environment-friendly society",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节能环保产业",
+   "en": "energy conservation and environmental protection industry",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家生态文明试验区",
+   "en": "national pilot zone for ecological conservation",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黄河流域生态保护和高质量发展",
+   "en": "ecological conservation and high-quality development of the Yellow River Basin",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山水林田湖草系统治理",
+   "en": "a holistic approach to conserving mountains, rivers, forests, farmlands, lakes, and grasslands",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共抓大保护，不搞大开发",
+   "en": "to step up conservation of the Yangtze River and stop its over development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保守估计",
+   "en": "conservative estimation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种为解决数据缺乏或为提高效率而出于慎重尽可能过高估计暴露量的方法。例如，在膳食暴露中，用食品中化学物浓度和（或）食品消费量的最大值来估计食品中化学物质的暴露（或者在评价营养素缺乏时，对营养素进行最低"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

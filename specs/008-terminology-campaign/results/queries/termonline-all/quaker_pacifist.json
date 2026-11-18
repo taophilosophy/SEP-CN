@@ -1,0 +1,622 @@
+{
+ "key": "quaker pacifist",
+ "term": "Quaker Pacifist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:18:10+00:00",
+ "status": "ok",
+ "note": "variant=Quaker Pacifist; 审定公布名词库=276; 海峡两岸名词对照库=109; 其他来源数据库=37; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "社会和平主义",
+   "en": "Social-Pacifism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0097",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "第一次世界大战期间，第二国际所属社会民主党内的一种机会主义思潮，打着社会主义的旗号，宣扬抽象和平，反对一切战争。"
+  },
+  {
+   "cn": "沙坑",
+   "en": "bunker",
+   "source": "风景园林名词",
+   "wordNumber": "08.1212",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "跳远、跳高等运动项目使用的方形或长方形的坑，里面铺着细沙。"
+  },
+  {
+   "cn": "创神星",
+   "en": "Quaoar",
+   "source": "天文学名词",
+   "wordNumber": "10.098",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "小行星50 000号。2002年由美国天文学家布朗和特鲁希略发现的一个经典柯伊伯带天体，其直径约1 280km，矮行星的候选者之一。"
+  },
+  {
+   "cn": "吸盘",
+   "en": "sucker",
+   "source": "兽医学名词",
+   "wordNumber": "12.050",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "某些寄生虫体表特有的圆形或近圆形带肌质结构。起吸附、固着其自身的作用。"
+  },
+  {
+   "cn": "摇床",
+   "en": "shaker",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.051",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "主要用于细菌培养、发酵、杂交和生物化学反应以及酶、细胞组织培养研究的一种常见的实验室仪器设备。"
+  },
+  {
+   "cn": "减黏反应器",
+   "en": "soaker",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0462",
+   "subjectFullName": "化工（一）_加工工艺_减黏裂化",
+   "subjectName": "减黏裂化",
+   "publishYear": "2017",
+   "definition": "实现渣油浅度裂化反应过程的设备。可分为炉管式反应器和塔式反应器。"
+  },
+  {
+   "cn": "造材工",
+   "en": "bucker",
+   "source": "林学名词",
+   "wordNumber": "10.044",
+   "subjectFullName": "林学_森林工程_森林采运",
+   "subjectName": "森林采运",
+   "publishYear": "2016",
+   "definition": "专门从事造材作业的人员。"
+  },
+  {
+   "cn": "刨片机",
+   "en": "flaker",
+   "source": "林学名词",
+   "wordNumber": "11.724",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "当木片的厚度过大，不符合要求时对木片加工到合格刨花的机械。"
+  },
+  {
+   "cn": "萌蘖芽",
+   "en": "sucker",
+   "source": "林学名词",
+   "wordNumber": "05.350",
+   "subjectFullName": "林学_森林培育_竹藤",
+   "subjectName": "竹藤",
+   "publishYear": "2016",
+   "definition": "从棕榈藤植株基部萌蘖形成的芽。"
+  },
+  {
+   "cn": "摇床",
+   "en": "shaker",
+   "source": "微生物学名词",
+   "wordNumber": "09.311",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "借助机械振摇，使液体培养基中的微生物有更多机会接触空气的装置。"
+  },
+  {
+   "cn": "容克",
+   "en": "Junker",
+   "source": "世界历史名词",
+   "wordNumber": "02.0630",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "德语Junker的音译，原指无骑士称号的贵族子弟，后泛指普鲁士贵族和大地主，起源于16世纪，第二次世界大战后基本消亡。"
+  },
+  {
+   "cn": "斗仓",
+   "en": "bunker",
+   "source": "土木工程名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "土木工程_建筑结构_特种工程结构",
+   "subjectName": "特种工程结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸盘",
+   "en": "sucker",
+   "source": "水产名词",
+   "wordNumber": "01.339",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "藻类假根上的固着部分。"
+  },
+  {
+   "cn": "艉舷",
+   "en": "quarter",
+   "source": "航海科技名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "箭图",
+   "en": "quiver",
+   "source": "数学名词",
+   "wordNumber": "04.1413",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "峰化器",
+   "en": "peaker",
+   "source": "电子学名词",
+   "wordNumber": "03.155",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "钻井振动筛",
+   "en": "shale shaker,mud shaker",
+   "source": "石油名词",
+   "wordNumber": "12.0250",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "双类星体",
+   "en": "binary quasar; double quasar; twin quasar",
+   "source": "天文学名词",
+   "wordNumber": "07.177",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "视位置很接近的类星体对。它们或具有物理联系，或系引力透镜形成的双像，或由投影效应所致。"
+  },
+  {
+   "cn": "太平洋古大陆",
+   "en": "Pacifica Continent",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0338",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "两亿多年前，位于古太平洋的西南方，与澳大利亚相邻接的大陆。现今环太平洋的许多地地原先曾是太平洋古大陆。 "
+  },
+  {
+   "cn": "口吸盘",
+   "en": "oral sucker;buccal sucker",
+   "source": "动物学名词",
+   "wordNumber": "5.0922",
+   "subjectFullName": "动物学_无脊椎动物学_扁形动物门",
+   "subjectName": "扁形动物门",
+   "publishYear": "2021",
+   "definition": "吸虫体前端位于口腔周边呈圆形辐射状排列的肌肉质突起。内为口囊开口。"
+  },
+  {
+   "cn": "震动器",
+   "en": "shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夸奥尔",
+   "en": "Quaoar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "峰化器",
+   "en": "peaker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "燃料舱",
+   "en": "bunker",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艉舷",
+   "en": "quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下弦",
+   "en": "last quarter\",\"third quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋231号",
+   "en": "Pacific 231",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Honegger, Arthur"
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋边缘",
+   "en": "Pacific margin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋卫星",
+   "en": "Pacific Satellite",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摇筛器",
+   "en": "sieve shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "旋转摇床",
+   "en": "rotary shaker",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "四分之一音",
+   "en": "quarter-tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刻漏",
+   "en": "graduated leaker",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "类星体天文学",
+   "en": "quasar astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "上弦",
+   "en": "first quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "射电类星体",
+   "en": "radio quasar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "箭筒",
+   "en": "quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船侧后半部",
+   "en": "quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四分之一决赛",
+   "en": "quarter finals\",\"quarter-final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创客",
+   "en": "maker",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋战场",
+   "en": "Pacific theater",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "背箭袋",
+   "en": "back quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "箭袋",
+   "en": "bow quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腰箭袋",
+   "en": "belt-quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二节",
+   "en": "second quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三节",
+   "en": "third quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四节",
+   "en": "fourth quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一节",
+   "en": "first quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众创空间",
+   "en": "maker space\ndevelop maker spaces",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "和平主义",
+   "en": "pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0289",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种抽象地、无原则地拥护和鼓吹和平的资产阶级机会主义政治思潮。广义包括非暴力运动和不抵抗运动等；狭义指不区别战争的正义性与非正义性,笼统地反对一切战争、祈求人类永久和平的思想。近代的和平主义始于19世"
+  },
+  {
+   "cn": "社会和平主义",
+   "en": "social pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0370",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战期间在第二国际各国社会民主党内流行的一种机会主义思潮，用社会主义词句装扮起来的资产阶级和平主义，以考茨基等人为主要代表。社会和平主义反对任何军事化和战争，主张通过“废除武装”，缔结“民主"
+  },
+  {
+   "cn": "花儿",
+   "en": "Hua'er Folk Song",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0637",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "中国民歌的一种，流行于中国西北地区，是汉、回、东乡等民族喜爱的山歌。演唱形式有独唱、对唱和联唱等，既抒情，又叙事，以情歌最多。2009 年申报联合国《人类非物质文化遗产代表作名录》取得成功。"
+  },
+  {
+   "cn": "性与性别多元群体",
+   "en": "lesbian, gay, bisexual, transgender, queer; sexual and gender diversity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "具有各种形式性倾向以及性别认同不同于出生性别的人群。通常用女同性恋（L）、男同性恋（G）、双性恋（B）、跨性别者（T）和酷儿（Q）的英文首字母缩写的组合来指代。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,422 @@
+{
+ "key": "illusions",
+ "term": "illusions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:59:04+00:00",
+ "status": "ok",
+ "note": "variant=illusions; 审定公布名词库=48; 海峡两岸名词对照库=23; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.971",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "把实际存在的事物歪曲地感知为与实际完全不相符合的事物，亦即歪曲的知觉。正常人在光线差、疲乏、精神紧张等情况下也可以出现错觉，但通过验证能够很快地纠正和消除。按各种不同的感官，可分为错听、错视、错嗅、错"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.183",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "对客观刺激事物歪曲和错误的知觉。这种知觉完全可以被受检者接受，并做出情绪和相应行为上的反应。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "行为医学名词",
+   "wordNumber": "4.026",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "在特定条件下对客观事物产生的歪曲的知觉。可以产生于各种感觉通道中和（或）不同感觉通道之间。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "对客观刺激事物歪曲和错误的知觉。这种知觉完全可以被受检者接受，并做出情绪和相应行为上的反应。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "把实际存在的事物错误地感知为与实际不相符的事物的病理状态。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "老年医学名词",
+   "wordNumber": "04.475",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "把实际存在的事物歪曲地感知为与实际完全不相符合的事物，亦即歪曲的知觉。正常人在光线差、疲乏、精神紧张等情况下也可以出现错觉，但通过验证能够很快地纠正和消除。按各种不同的感官，可分为错听、错视、错嗅、错"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.431",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人在特定条件下对客观事物产生的有固定倾向的受到歪曲的知觉。可产生于各种感知觉通道中和不同感觉通道之间。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.030",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "视错觉",
+   "en": "visual illusion,optical illusion",
+   "source": "神经病学名词",
+   "wordNumber": "12.052",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "对于真实影像的错误或扭曲的知觉。这些扭曲的影像（视物变形）可以表现为大小、形状、比例、位置、色彩、亮度、运动等单一或联合的改变。发作性视错觉常见于症状性而非特发性枕叶癫痫。"
+  },
+  {
+   "cn": "视错觉",
+   "en": "visual illusion",
+   "source": "测绘学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "当观察物体时，基于经验或不当的参照形成的错误判断和感知。"
+  },
+  {
+   "cn": "躯体感觉错觉",
+   "en": "somatosensory illusion",
+   "source": "精神医学名词",
+   "wordNumber": "03.226",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "歪曲的躯体感觉。体验为烧灼感、波动感、翻动感、喉部团块、闪电样放射穿过身体等的精神病理状态。常见于各种神经和精神障碍，如颞叶癫痫、多发性硬化、脑肿瘤、痴呆、维生素B₁₂缺乏、中毒和焦虑状态。"
+  },
+  {
+   "cn": "瀑布错觉",
+   "en": "waterfall illusion",
+   "source": "生物物理学名词",
+   "wordNumber": "04.181",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "在注视自上向下的瀑布数十秒钟后，再看附近静止景色，会感觉看到的景色好像由下向上反方向运动的错觉现象。是一种典型的运动后效应。"
+  },
+  {
+   "cn": "大小错觉",
+   "en": "size illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.434",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "同样的物体，在一些比它大的物体中看上去显得小，而在一些比它小的物体中则显得大的现象。"
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.435",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在周围背景的影响下，知觉到的图形的位置方向与实际的位置方向不一致的知觉现象。"
+  },
+  {
+   "cn": "波根多夫错觉",
+   "en": "Poggendorff illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.436",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "被两条平行线遮蔽的直线，看起来被分隔开的两条直线段不在一条直线上的现象。"
+  },
+  {
+   "cn": "视错觉",
+   "en": "optical illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.432",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受视觉信息时因外界事物影响产生的歪曲性视知觉。"
+  },
+  {
+   "cn": "亚里士多德错觉",
+   "en": "Aristotle illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.450",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "当人用交叉的两个手指触碰一个物体，比如自己的鼻子时，会感觉到像在触碰两个物体的现象。"
+  },
+  {
+   "cn": "艾宾豪斯错觉",
+   "en": "Ebbinghaus illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.451",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在中心圆具有相同半径时，人觉得被小圆包围的中心圆比被大圆包围的中心圆更大的现象。"
+  },
+  {
+   "cn": "亥姆霍茨错觉",
+   "en": "Helmholtz illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.452",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个在黑背景下的白色方块，和同样大小在白色背景下的黑色方块相比，人容易将前者知觉为较大的现象。"
+  },
+  {
+   "cn": "透视错觉",
+   "en": "perspective illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.444",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由于环境的透视效果使得大小相等的两个物体看起来因距离不同而有大小区别的现象。或在平面上再现空间感、主体感时给人造成的错觉。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黑林错觉",
+   "en": "Hering illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间错觉",
+   "en": "time illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "透视错觉",
+   "en": "perspective illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "月亮错觉",
+   "en": "moon illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小错觉",
+   "en": "size illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "瀑布错觉",
+   "en": "waterfall illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆错觉",
+   "en": "memory illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向错觉",
+   "en": "positive illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾宾豪斯错觉",
+   "en": "Ebbinghaus illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹错觉",
+   "en": "Helmholtz illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视错觉",
+   "en": "optical illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蓬佐错觉",
+   "en": "Ponzo illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冯特错觉",
+   "en": "Wundt illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动错觉",
+   "en": "motion illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沙尔庞捷错觉",
+   "en": "Charpentier illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自主运动错觉",
+   "en": "autokinetic illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "边缘错觉",
+   "en": "edge illusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "策尔纳错觉",
+   "en": "Zöllner illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "飞行错觉",
+   "en": "flight illusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.8",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行人员在飞行中对飞机状态或飞机位置的错误知觉。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

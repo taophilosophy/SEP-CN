@@ -1,0 +1,802 @@
+{
+ "key": "forward orientation",
+ "term": "Forward orientation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:58:40+00:00",
+ "status": "ok",
+ "note": "variant=Forward orientation; 审定公布名词库=640; 海峡两岸名词对照库=310; 其他来源数据库=72; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "转发",
+   "en": "forward",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "在网络中将来自他人的信息转发给其他方的行为。"
+  },
+  {
+   "cn": "前",
+   "en": "forward",
+   "source": "航海科技名词",
+   "wordNumber": "08.0009",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "发出",
+   "en": "forward",
+   "source": "航海科技名词",
+   "wordNumber": "14.0133",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "承运人",
+   "en": "forwarder",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.566",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "本人或者委托他人以本人名义与托运人订立海上货物运输合同的人。"
+  },
+  {
+   "cn": "集运机",
+   "en": "forwarder",
+   "source": "林学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "采用载运的方式集运树木或枝桠的自行式机械设备。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.177",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体准确识别自我和环境的能力。可以对人物、时间和地点三个层次进行评估。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "行为医学名词",
+   "wordNumber": "17.022",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "个体对时间、地点及人物，以及对自己本身状态的认识能力。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "动物学名词",
+   "wordNumber": "7.0227",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物对外界刺激做出的在空间和时间上控制其方向和姿态的反应。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "精神医学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "对时间、地点、人物及自身状况能准确辨认的识别能力。是判断意识障碍的一个重要指 标。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "计划生育名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "一个人对时间、地点、人物及对自己本身状态的认识能力。包括两方面内容：①对周围环境的认识，包括时间、地点、人物；②对自身状况的认识，如对本人姓名、年龄、职业及当时自身状况的认识等。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.228",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体识别和判断所处客观环境、自身情况、自己与环境的关系等时间、地点、空间、人物等信息的心理过程。"
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "物理学名词",
+   "wordNumber": "01.0040",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "方位",
+   "en": "orientation",
+   "source": "建筑学名词",
+   "wordNumber": "09.0007",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "表示方向和位置。东、西、南、北为基本方位，东北、东南、西北、西南为中间方位。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "心理学名词",
+   "wordNumber": "10.125",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "个体对周围环境及自身状态的察觉和识别能力。是判断意识障碍的重要标志之一。"
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0209",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "在外场作用下聚合物中几何形状不对称的单元如分子链、链段、晶体或相区等沿外场择优有序排列的过程。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "古生物学名词",
+   "wordNumber": "05.0014",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "生物对其生活环境的特定取向。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.263",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "昆虫学名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "昆虫对外界刺激作出的在空间和时间上控制其方向和姿态的反应。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.149",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "电子学名词",
+   "wordNumber": "15.276",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "发出",
+   "en": "forward",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "转发",
+   "en": "forwarding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "orientation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "方向",
+   "en": "orientation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定向，定方位",
+   "en": "orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "η取向",
+   "en": "eta orientation\",\"η orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "μ取向",
+   "en": "mu orientation\",\"μ orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "东方主义",
+   "en": "Orientalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定向运动",
+   "en": "orienteering",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "顺向进料",
+   "en": "forward feeding\",\"forward feed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋",
+   "en": "forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前进步",
+   "en": "forward step",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前舱板",
+   "en": "forward deck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋线",
+   "en": "forward line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前摆",
+   "en": "swing forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前空翻",
+   "en": "forward salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前滚翻",
+   "en": "forward roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前跳水",
+   "en": "forward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓箭步",
+   "en": "forward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内锋",
+   "en": "inside forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋线",
+   "en": "forward line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前转体",
+   "en": "forward twisting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前跳",
+   "en": "forward jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前转身",
+   "en": "forward pivot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前锋",
+   "en": "right forward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "朝向",
+   "en": "orientation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "建筑物的门、窗所对着的方向和使空气流通，改善生产和生活环境，造成安全、卫生条件的措施。"
+  },
+  {
+   "cn": "东方主义",
+   "en": "orientalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.37",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "西方学术界长期以来对包括东亚在内的东方社会性质的判定，认为东方社会是与农业经济和东方专制主义相联系的，因而是与现代性的要求格格不入的。赛义德认为西方对东方社会的这种看法是一种西方中心论和从自我优越感出"
+  },
+  {
+   "cn": "东方主义",
+   "en": "Orientalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "西方人对东方世界的一种认识论及研究态度，后又发展成为东西方二元的思维定式。早期在地理上泛指古罗马以东的异教徒（伊斯兰）世界，逐渐延伸出近东、中东、远东，即根据东方在欧洲经验中的位置而处理、协调东方的方"
+  },
+  {
+   "cn": "东方主义",
+   "en": "orientalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0621",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种根据东方在欧洲经验中的位置来处理和理解东方社会和文化的思维定式。美国学者萨义德（Edward Wadie Said）以另一种立场重新审视了西方人建构的东方主义，认为东方主义是由西方自由主义学术传统"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "空间定向",
+   "en": "spatial orientation",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.7",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员在所处环境中正确辨识方向的知觉反应或能力。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "三个面向",
+   "en": "three orientations",
+   "source": "马克思主义",
+   "wordNumber": "03.0528",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“教育要面向现代化，面向世界，面向未来”。最早为邓小平于1983年9月为北京景山学校的题词，后来成为中国改革开放以后教育工作的指导方针。"
+  },
+  {
+   "cn": "民本",
+   "en": "people-oriented",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "国家治理下对社会公意和公共利益的重视。概念来源有多重，重点在于释“民”，主要有孟子、墨子和伪《古文尚书·五子之歌》的“民惟邦本，本固邦宁”等。"
+  },
+  {
+   "cn": "东方社会",
+   "en": "oriental societies",
+   "source": "马克思主义",
+   "wordNumber": "03.0030",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯所讲的东方社会主要指俄国、印度、中国等这些殖民地、半殖民地和半封建国家。他们对于东方社会自身历史中“停滞性”“亚细亚生产方式”和所遭受残酷的殖民侵略与剥削等进行研究和探讨，对东方社会进行"
+  },
+  {
+   "cn": "教育为本",
+   "en": "education oriented",
+   "source": "马克思主义",
+   "wordNumber": "03.0532",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "意为国家发展的长远计划要以教育为基石。根据邓小平教育优先发展的思想，1985年《中共中央关于教育体制改革的决定》指出：“教育必须为社会主义现代化建设服务，社会主义现代化建设必须依靠教育。”1987年，"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention-oriented",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "以防病为核心，强调通过健康促进、早期干预和风险控制减少疾病发生，实现从治病向防病的转变。"
+  },
+  {
+   "cn": "大跃进",
+   "en": "Great Leap Forward",
+   "source": "马克思主义",
+   "wordNumber": "04.0264",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1958年5月党的八大二次会议后，全国各条战线掀起的以片面追求工农业生产和建设的高速度、不断大幅度提高和修改计划指标为标志的经济运动。反映了中国人民建设社会主义的高昂热情，取得了一些重要成就，由于违背"
+  },
+  {
+   "cn": "社会支配性取向",
+   "en": "social dominance orientation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "人们对于特定社会环境中不同群体之间等级差异的接受程度，尤其是对于优势群体( superior group) 支配劣势群体(inferior group) 的接受程度。一般来说，具有高社会支配取向的人更"
+  },
+  {
+   "cn": "战略导向与价值",
+   "en": "strategic orientation & values",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在政策或策略规划中，为实现核心目标所确立的总体方向、优先领域与基本价值理念，通常体现为指导性的原则或政策基础。"
+  },
+  {
+   "cn": "应试教育",
+   "en": "examination-oriented education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "以考试成绩衡量学生优劣、以获取好成绩为目标的教育制度。与“素质教育”相对。"
+  },
+  {
+   "cn": "素质教育",
+   "en": "quality-oriented education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "注重学生素质的全面发展，不局限于考试成绩优劣，以让学生能发挥个人潜能为目标的教育制度。与“应试教育”相对。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "people-oriented thought",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心思想。社会经济发展的终极目的是促进人的全面发展，强调人人平等，尊重人作为“人”的基本权利及尊严，注重社会公平正义。“人”即人民，也包括作为个体的人；“本”即主体、本质、目的。"
+  },
+  {
+   "cn": "国际学生迎新计划",
+   "en": "international student orientation program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "提供有关文化适应过程的信息，并考虑评估学生的文化适应类型，以提供持续支持的过程。"
+  },
+  {
+   "cn": "后物质主义价值取向",
+   "en": "post-material value orientations",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.12",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "更融洽的人与人之间的关系、更多地参与决策、自我实现、宽松、友谊、温柔的情感等。与传统价值观念重产量、效率、成就、追求个人财富等的特征完全不同。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

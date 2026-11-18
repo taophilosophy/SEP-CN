@@ -1,0 +1,712 @@
+{
+ "key": "internal dimension",
+ "term": "internal dimension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:58:25+00:00",
+ "status": "ok",
+ "note": "variant=internal dimension; 审定公布名词库=3654; 海峡两岸名词对照库=1374; 其他来源数据库=354; 预公布名词数据库=230; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "车厢内部最大尺寸",
+   "en": "maximum internal dimensions of body",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "01.018",
+   "subjectFullName": "机械工程_汽车_一般名词_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "车厢内部的长、宽和高。"
+  },
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0193",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "用特定长度或角度单位表示的数值，并在技术图样上用图线、符号和技术要求表示出来。"
+  },
+  {
+   "cn": "维[度]",
+   "en": "dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0314",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0313",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "核医学名词",
+   "wordNumber": "03.0570",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "数学中独立参数的数目。在物理学和哲学领域内，指独立的时空坐标数。"
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0358",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "人们观察客观世界的角度，是一种高层次的类型划分。"
+  },
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "source": "建筑学名词",
+   "wordNumber": "09.0119",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "用特定单位表示一个物体大小的数值。"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "source": "数学名词",
+   "wordNumber": "08.0585",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内",
+   "en": "internal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "对人体的空腔脏器而言，近内腔者为内。"
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0264",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "流化床反应器等化工设备内安装的挡板（如横向挡板、纵向挡板、波纹挡板和其他构件）的总称。"
+  },
+  {
+   "cn": "内[部]构件",
+   "en": "internals",
+   "source": "化学工程名词",
+   "wordNumber": "04.275",
+   "subjectFullName": "化学工程_化学反应工程_反应器",
+   "subjectName": "反应器",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0132",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜运输与膜转运",
+   "subjectName": "膜运输与膜转运",
+   "publishYear": "2024",
+   "definition": "细胞通过胞吞将某种外界大分子物质（液体和颗粒）摄入细胞或机体的过程。常由受体介导并经历膜融合与分裂等一系列步骤，形成内体和次级溶酶体。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "兽医学名词",
+   "wordNumber": "14.102",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "配体与细胞膜表面相应受体结合形成复合物，进而发生膜内陷而凹入细胞内的现象。"
+  },
+  {
+   "cn": "内化",
+   "en": "internization",
+   "source": "生理学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0742",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "通过学习与实践的结合，使显性知识转化为个人隐性知识和组织隐性知识的过程。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "心理学名词",
+   "wordNumber": "07.112",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体综合外部意见、准则、态度和价值观转化为自己心理结构稳定的过程。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "免疫学名词",
+   "wordNumber": "1.212",
+   "subjectFullName": "免疫学_概论_固有免疫",
+   "subjectName": "固有免疫",
+   "publishYear": "2007",
+   "definition": "一般指配体与细胞膜表面相应受体结合形成复合物，进而发生膜内陷而凹入细胞内的现象。"
+  },
+  {
+   "cn": "尺度传感器",
+   "en": "dimension transducer,dimension sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0076",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受物体的几何尺寸并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "时间维度",
+   "en": "time dimension,temporal dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0030",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "异常规模",
+   "en": "anomaly dimension",
+   "source": "地质学名词",
+   "wordNumber": "13.08.043",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "通过异常面积和异常强度刻画的异常大小。"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因次，量纲",
+   "en": "dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因次",
+   "en": "dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内[的]",
+   "en": "internal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内控者",
+   "en": "internals",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "零维",
+   "en": "zero dimension",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次要因次",
+   "en": "secondary dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主要尺寸",
+   "en": "primary dimension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刺激维度",
+   "en": "stimulus dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格维度",
+   "en": "personality dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪维度",
+   "en": "emotional dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无扰尺寸",
+   "en": "unperturbed dimension",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "场景维度",
+   "en": "scenario dimension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三维",
+   "en": "three dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内部创业",
+   "en": "internal entrepreneurship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准",
+   "en": "International Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁委员会",
+   "en": "international jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际出口带宽",
+   "en": "international Internet bandwidth",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.50",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "概念所包含的具体方面。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "规格板",
+   "en": "dimension board",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "涂抹采样时用于准确定量采样面积的实验器材。多以金属板或塑料制成，中间镂空的50mm×50mm的正方形。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "关节内紊乱",
+   "en": "internal derangement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "关节局部疼痛、弹响、功能失调的病理现象。"
+  },
+  {
+   "cn": "内部审计",
+   "en": "internal audit",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "与“外部审计”相对，由医疗机构单位内部的独立机构和人员对本单位的财政财务收支等经济活动进行的事前和事后的审查和评价。"
+  },
+  {
+   "cn": "内部评价",
+   "en": "internal evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织内部实施的评估活动，以获得可信和实用的证据，为计划改进、政策实施和决策提供支撑，并影响组织的学习和决策行为。"
+  },
+  {
+   "cn": "内部一致性信度",
+   "en": "internal consistency",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "量表中测量同一个概念的多个计量指标的一致性程度，目前普遍使用克朗巴赫a 系数(Cronbach’s a coefficient)来检验量表的一致性程度。"
+  },
+  {
+   "cn": "内剂量",
+   "en": "internal dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物体可利用的剂量，也可看做是被机体吸收进入血液循环所对应的那部分外剂量"
+  },
+  {
+   "cn": "内部审计",
+   "en": "internal audit",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育活动过程中，由参与该活动人员对是否按项目要求投入资金、分配是否符合需要进行判断的活动。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.33",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "进入人体内的放射性核素对人体造成的照射。"
+  },
+  {
+   "cn": "内部损伤",
+   "en": "internal defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.16",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果或蔬菜沿切线纵向或横向切割后，检查出的果肉损伤。"
+  },
+  {
+   "cn": "内暴露量",
+   "en": "internal exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "环境介质中某种因素进入机体或与机体发生相互作用的有效剂量"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "additions",
+ "term": "additions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:58:33+00:00",
+ "status": "ok",
+ "note": "variant=additions; 审定公布名词库=367; 海峡两岸名词对照库=118; 其他来源数据库=10; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "累加作用",
+   "en": "addition",
+   "source": "结核病学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "两种药物联合使用时，产生的效应等于或接近分别使用单药效应之和。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "核医学名词",
+   "wordNumber": "03.0601",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "两组可比性数据(如两幅大小一致的灰度图像)相加，获得两者算数和的图像运算方法。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "药学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "两种以上药物作用等于每一种化合物质单独作用的总和。"
+  },
+  {
+   "cn": "加和作用",
+   "en": "addition",
+   "source": "生态学名词",
+   "wordNumber": "14.248",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "两种或两种以上污染物共存时的毒性是其单独存在时毒性之和的现象。"
+  },
+  {
+   "cn": "掺合料",
+   "en": "addition",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）",
+   "subjectName": "建筑材料（水利）",
+   "publishYear": "1997",
+   "definition": "制造水泥或拌制混凝土和砂浆时，为改善性能、节省水泥、降低成本而掺加的矿物质粉状材料。"
+  },
+  {
+   "cn": "加法",
+   "en": "addition",
+   "source": "数学名词",
+   "wordNumber": "04.0009",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1,4-addition",
+   "source": "化学名词",
+   "wordNumber": "02.1062",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "在单键和重键交替出现的共轭体系的1位和4位上发生的加成反应。同时在2位和3位间形成新的重键。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "化学工业中，泛指为提高产品质量和使用效果而加入配料中，且添加量小的辅助材料。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0064",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用于改善肥料或土壤调理剂性能的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0421",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "添加到润滑剂中以提高某些原有特性或获得新特性的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "电力名词",
+   "wordNumber": "12.374",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "能赋予油品某种特殊性能或为加强其本来具有的某种性能而加入的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0534",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "加入结晶体系中的对结晶过程进行调控的其他物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "生物物理学名词",
+   "wordNumber": "02.148",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "用于添加在蛋白质溶液或池液中，以改善或帮助晶体生长的物质。主要是小分子。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化学名词",
+   "wordNumber": "05.1089",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "聚合物中另外加入的所有助剂的统称。"
+  },
+  {
+   "cn": "添加物",
+   "en": "additive",
+   "source": "化学名词",
+   "wordNumber": "04.0754",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "除催化剂组分外再添加到催化剂中且有可能改进催化剂性能的物质。"
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "药学名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在方差分析中，如果一个测定结果同时受到多个因素的影响，总偏差平方和等于实验误差与各因素所形成的偏差平方和之总和，总自由度等于各项自由度之和，总方差等于各部分方差之和，此称为加和性。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "药学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "为提高药物的质量、性能和使用效果而采用的辅料。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.369",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "掺合料",
+   "en": "additive",
+   "source": "土木工程名词",
+   "wordNumber": "01.229",
+   "subjectFullName": "土木工程_工程材料_混凝土",
+   "subjectName": "混凝土",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "电气工程名词",
+   "wordNumber": "02.107",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1\",\"4-addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "氧化加成[反应]",
+   "en": "oxidation addition\",\"oxidative addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction\",\"additive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "附加单倍体",
+   "en": "addition haploid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加成聚合",
+   "en": "addition polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间周立构加成",
+   "en": "syndiotactic addition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反式加成",
+   "en": "trans addition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣加成",
+   "en": "isolobal addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共轭加成",
+   "en": "conjugate addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加[成]聚[合]",
+   "en": "addition polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加[成]聚[合]物",
+   "en": "addition polymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲电加成",
+   "en": "electrophilic addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "附加试跳（投、掷）",
+   "en": "additional trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加动作",
+   "en": "additional element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再次严重犯规",
+   "en": "additional major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时",
+   "en": "additional time\",\"extra time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络成瘾",
+   "en": "Internet addiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规添加",
+   "en": "illegal addition",
+   "source": "消毒学",
+   "wordNumber": "5.2.16",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "违反相关法律法规的规定，在消毒产品中添加禁用物质或限用物质超量的行为。"
+  },
+  {
+   "cn": "非法添加",
+   "en": "illegal addition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.19",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为提高食品的质量属性，故意在食品中添加未经批准或未进行申报成分的行为。不属于传统上认为的或不属于相关法律法规和标准允许的食品生产活动，如添加三聚氰胺提高蛋白质的检测值。"
+  },
+  {
+   "cn": "药物成瘾",
+   "en": "drug addition",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "因长期或反复应用某种药物（物质）而产生精神或躯体上的依赖性，持续地或周期性渴望重复应用该种药物的现象。"
+  },
+  {
+   "cn": "附加过滤",
+   "en": "additional filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线源与患者或规定平面之间附加的对线束具有滤过特性的材料产生的等效过滤。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6",
+   "subjectFullName": "食品卫生学_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "成瘾性社会病",
+   "en": "additive sociopathy",
+   "source": "社会医学名词",
+   "wordNumber": "13.5",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "在特定社会环境下，由经济不平等、文化异化或技术异化等因素驱动，导致个体或群体对物质或行为形成强迫性依赖的社会现象。"
+  },
+  {
+   "cn": "标准加入法",
+   "en": "standard addition method",
+   "source": "消毒学",
+   "wordNumber": "6.1.9.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在未知样品中定量加入待测物的标准品，然后根据信号的增加量来进行定量分析的方法。"
+  },
+  {
+   "cn": "成瘾模型",
+   "en": "model of addition",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "解释个体成瘾的心理学、医学和经济学模型，包括不完全理性成瘾模型、短视成瘾模型、理性成瘾模型"
+  },
+  {
+   "cn": "短视成瘾模型",
+   "en": "myopic addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对于成瘾物品的性质和危害存在认知不足，进而导致消费成瘾物品，以致上瘾。"
+  },
+  {
+   "cn": "理性成瘾模型",
+   "en": "rational addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "研究理性个体选择消费成瘾产品的模型。成瘾行为使个体感到愉快，之前对于成瘾物品的消费能够增加现在对于成瘾物品消费的边际效用，个体对于成瘾物品的消费是理性的。"
+  },
+  {
+   "cn": "药品加成",
+   "en": "drug price addition",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医院或药店向药品售价中添加额外的费用，加成费用通常涵盖了药品的成本、管理成本以及可能的利润。"
+  },
+  {
+   "cn": "相加作用",
+   "en": "additional joint action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.39",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物各自以相似的方式和机制作用于相同的靶点，其毒作用彼此互不影响，对机体产生的毒作用等于各化学物单独对机体产生毒作用的算术总和。"
+  },
+  {
+   "cn": "食品添加剂允许使用品种",
+   "en": "permitted food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.26.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品安全国家标准和国家卫生行政部门公告中允许使用的食品添加剂的统称"
+  },
+  {
+   "cn": "食品添加剂新品种",
+   "en": "new food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.10",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品安全国家标准和国家卫生行政部门公告尚未允许使用的食品添加剂品种，或将扩大使用范围或者用量的食品添加剂品种"
+  },
+  {
+   "cn": "进口食品添加剂",
+   "en": "imported food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "产自中国境外，通过中国海关报关验放后进入中国境内的食品添加剂产品"
+  },
+  {
+   "cn": "复配食品添加剂",
+   "en": "complex food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.24",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为了改善食品品质、便于食品加工，将两种或两种以上单一品种的食品添加剂，添加或不添加辅料，经物理方法混匀而成的食品添加剂。"
+  },
+  {
+   "cn": "食品添加剂标识",
+   "en": "food additives labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.13",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂标签以及食品添加剂所附随的、其内容与添加剂有关的任何文字、标记或图形材料，不包括账单、发票以及其他类似材料"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

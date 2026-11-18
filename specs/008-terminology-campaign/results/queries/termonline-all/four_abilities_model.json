@@ -1,0 +1,792 @@
+{
+ "key": "four-abilities model",
+ "term": "four-abilities model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:04:37+00:00",
+ "status": "ok",
+ "note": "variant=four-abilities model; 审定公布名词库=8061; 海峡两岸名词对照库=1790; 其他来源数据库=973; 预公布名词数据库=787; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.107",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人们成功完成某项活动所必需的个性心理特征。包括实际能力和潜在能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "心理学名词",
+   "wordNumber": "02.746",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人们成功地完成某种活动所必需的个性心理特征。包括实际能力和潜在能力两个方面。"
+  },
+  {
+   "cn": "泳透力",
+   "en": "throwing ability",
+   "source": "精细化工名词",
+   "wordNumber": "05.0284",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "在电泳涂装时，涂料对工件的内表面、凹穴处及背面的涂覆能力。"
+  },
+  {
+   "cn": "铺展能力",
+   "en": "spreading ability",
+   "source": "精细化工名词",
+   "wordNumber": "08.0719",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "液体（特别是表面活性剂溶液）能自发地覆盖于另一种液体或固体表面上的能力。"
+  },
+  {
+   "cn": "分蘖力",
+   "en": "tillering ability",
+   "source": "农学名词",
+   "wordNumber": "07.036",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "在一定时间内，作物单株产生分蘖的数量和质量。"
+  },
+  {
+   "cn": "打击力",
+   "en": "attacking ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.378",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "某一军事系统在一定时期内对敌方人员和装备能够造成的杀伤破坏程度。在军事技术中占据关键位置，这与战争的基本目的“打击敌人，保护自己”以及“进攻是最好的防御”是一致的。"
+  },
+  {
+   "cn": "防御力",
+   "en": "defense ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.379",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "某一军事系统对外来打击力的抗拒程度。是军事技术中仅次于打击力的第二个重要因素。"
+  },
+  {
+   "cn": "信息力",
+   "en": "information ability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.381",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "军事系统之间或军事系统内部各要素之间以通信工具为手段进行联络协调或获取信息的能力。信息力在己方军事系统或要素之间表现为联络、协调的程度；在针对对方军事系统或要素之时，表现为获取信息的能力。"
+  },
+  {
+   "cn": "嗅觉能力",
+   "en": "olfactory ability",
+   "source": "行为医学名词",
+   "wordNumber": "3.236",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "对气味物质的嗅觉敏感度。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.108",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人脑获取、加工、存储、提取和利用信息的能力。如观察力、想象力等。"
+  },
+  {
+   "cn": "操作能力",
+   "en": "operation ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.109",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体运用自己的躯体和肢体完成各项活动的能力。如艺术表演能力、体育运动能力等。"
+  },
+  {
+   "cn": "模仿能力",
+   "en": "imitative ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.111",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体通过观察别人的行为、活动来学习各种知识，并以相同的方式做出反应的能力。"
+  },
+  {
+   "cn": "创造力",
+   "en": "creative ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.112",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体产生新思想、新发现和创造新事物的能力。"
+  },
+  {
+   "cn": "共情能力",
+   "en": "empathy ability",
+   "source": "行为医学名词",
+   "wordNumber": "5.036",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "能够设身处地体验他人处境，达到感受和理解他人情感的能力。"
+  },
+  {
+   "cn": "追随性",
+   "en": "tracing ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0897",
+   "subjectFullName": "机械工程（一）_机械零件_机械密封_机械密封性能参数",
+   "subjectName": "机械密封性能参数",
+   "publishYear": "2021",
+   "definition": "当机械密封存在跳动、振动、转轴的窜动和密封端面磨损时，补偿环对于非补偿环保持贴合的性能。"
+  },
+  {
+   "cn": "减摩性",
+   "en": "antifriction ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0192",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_摩擦",
+   "subjectName": "摩擦",
+   "publishYear": "2021",
+   "definition": "作为摩擦副的材料在一定条件下降低或维持较低摩擦系数的性能。该性能不是材料的固有属性，而是与摩擦副材料和[摩擦]工况密切相关的服役性能。"
+  },
+  {
+   "cn": "嵌藏性",
+   "en": "embed ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0240",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_磨损",
+   "subjectName": "磨损",
+   "publishYear": "2021",
+   "definition": "轴瓦材料在滑动中嵌藏磨屑和其他外来硬颗粒以降低这些硬颗粒划伤摩擦副表面或减缓磨粒磨损倾向的能力。"
+  },
+  {
+   "cn": "传递力",
+   "en": "transmitting ability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.350",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "一个个体传递给后代的加性遗传值。由于亲代只传递其所有基因的一半给后代，所以传递力等于育种值的一半。"
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.546",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "表示不同杂交组合的杂种后代表现优劣的度量。"
+  },
+  {
+   "cn": "受精能力",
+   "en": "fertilization ability",
+   "source": "畜牧学名词",
+   "wordNumber": "05.180",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "精子、卵子在一定条件下维持正常受精并形成合子的能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受精能力",
+   "en": "fertilization ability",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能力特质",
+   "en": "ability trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般能力,普通能力",
+   "en": "general ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力测验",
+   "en": "ability test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力分组",
+   "en": "ability grouping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理运动能力",
+   "en": "psychomotor ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术能力",
+   "en": "artistic ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流动性",
+   "en": "flow ability",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心智能力",
+   "en": "mental ability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停船性能",
+   "en": "stopping ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "旋回性",
+   "en": "turning ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "四象",
+   "en": "four [celestial] images\",\"four Xiang",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四冲程循环",
+   "en": "four-stroke cycle\",\"four cycle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "四冲程内燃机",
+   "en": "four-stroke engine\",\"four cycle engine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特殊配合力",
+   "en": "specific combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "四人赛艇",
+   "en": "four",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨",
+   "en": "fours",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四端",
+   "en": "Four Initiators",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四海",
+   "en": "Four Seas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四书",
+   "en": "Four Books",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四象",
+   "en": "Four Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four hits",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four contacts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨无舵手赛艇",
+   "en": "coxless fours\",\"coxswainless fours-oars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨有舵手赛艇",
+   "en": "coxed fours\",\"four oars with coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人划艇",
+   "en": "Canadian four\",\"C4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人皮艇",
+   "en": "kayak four\",\"K4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第四姿势反击",
+   "en": "counter-four\",\"counter-quarte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "Four-Pronged Comprehensive Strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。（The Four-Pronged Comprehensive Strategy is to make comprehensive move"
+  },
+  {
+   "cn": "轻量级四人单桨无舵手",
+   "en": "lightweight four without coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动作能力",
+   "en": "motor ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体对基本运动技能的熟练掌握度以及完成各种运动任务的协调与物体控制能力。"
+  },
+  {
+   "cn": "思维能力",
+   "en": "thinking ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工的能力。"
+  },
+  {
+   "cn": "四端",
+   "en": "four initiators",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.07",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁、义、礼、智四种道德观念的端始、萌芽。孟子认为四端是人之本性的自然呈现，是人与动物的不同之处，人没有四端则不能称其为人；认为恻隐之心是仁之端，羞恶之心是义之端，辞让之心是礼之端，是非之心是智之端。"
+  },
+  {
+   "cn": "四个现代化",
+   "en": "four modernizations",
+   "source": "马克思主义",
+   "wordNumber": "03.0393",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业、农业、国防和科学技术的现代化。1959年末至1960年初，毛泽东在读苏联《政治经济学教科书》笔记中完整地提出“实现社会主义四个现代化”口号。周恩来根据毛泽东的提议，在全国人大三届一次会议的《政府"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "四大危险",
+   "en": "four risks",
+   "source": "马克思主义",
+   "wordNumber": "03.0785",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是精神懈怠的危险，能力不足的危险，脱离群众的危险，消极腐败的危险。这四大危险，充分表明中国共产党的忧患意识，以及加强党的先进性和纯洁性建设的自觉意识"
+  },
+  {
+   "cn": "四大考验",
+   "en": "four tests",
+   "source": "马克思主义",
+   "wordNumber": "03.0786",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是在世情、国情、党情发生深刻变化的新形势下，提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力，加强党的执政能力建设和先进性建设，面临的执政考验"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "自理能力",
+   "en": "self-care ability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "个体照料和管理自己的日常生活的能力，包括懂得生活常识，比较熟练地解决生活中所遇到的困难，掌握基本的生活技能和劳动技能的能力，是一个人适应自然、适应社会的表现。"
+  },
+  {
+   "cn": "定力",
+   "en": "ability to concentrate",
+   "source": "马克思主义",
+   "wordNumber": "01.0255",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "意指正念坚固，是人们在改造客观世界和主观世界过程中，所表现出来的一种坚强意志、执着信念和道德操守。党的十八大以来，习近平从政治、经济、文化、改革、法治等多个方面，赋予定力新的内涵，形成了关于政治定力、"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "脑力工作能力",
+   "en": "mental work ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "反映大脑工作速度快慢及其准确性的大脑皮质功能状态，是影响学习效率和成绩的关键因素。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  },
+  {
+   "cn": "儿童能力测验",
+   "en": "child ability test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "对儿童顺利完成某种活动所必须具备的个性心理特征的测验，以发现经过必要的训练后即能承担某项工作的潜在能力。分为一般能力测验与特殊能力测验两大类。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0514",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1979年3月30日邓小平在理论工作务虚会上作了题为《坚持四项基本原则》的讲话，提出了必须坚持的“四项基本原则”。四项基本原则包括：第一，必须坚持社会主义道路；第二，必须坚持无产阶级专政；第三，必须坚"
+  },
+  {
+   "cn": "四个伟大飞跃",
+   "en": "Four great leaps",
+   "source": "马克思主义",
+   "wordNumber": "03.0816",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议指出，中共百年历程实现了四个“伟大飞跃”，即：新民主主义革命时期，实现了中国从几千年封建专制政治向人民民主的伟大飞跃；社会主义革命和建设时期，实现了一穷二白、人口众多的东方大国大"
+  },
+  {
+   "cn": "四季社",
+   "en": "Four Seasons Club",
+   "source": "马克思主义",
+   "wordNumber": "04.0388",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪法国秘密革命组织，1837年由布朗基创立，成员多为工人和手工业者。其各级组织分别称为“星期”“月”“季”和“年”,四个“季”组成一“年”,故此得名。1839年在巴黎起义失败后被解散。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

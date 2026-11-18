@@ -1,0 +1,802 @@
+{
+ "key": "double preventions",
+ "term": "double preventions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:00:00+00:00",
+ "status": "ok",
+ "note": "variant=double preventions; 审定公布名词库=1664; 海峡两岸名词对照库=527; 其他来源数据库=171; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "双根",
+   "en": "double,double joint",
+   "source": "石油名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "合卷",
+   "en": "doubling",
+   "source": "冶金学名词",
+   "wordNumber": "09.0696",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "将2个带卷经焊接合成一卷以备进一步加工的过程。"
+  },
+  {
+   "cn": "覆板",
+   "en": "doubling,doubling plate",
+   "source": "航海科技名词",
+   "wordNumber": "08.0494",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "灾难预防",
+   "en": "disaster prevention",
+   "source": "急救医学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_应急响应",
+   "subjectName": "应急响应",
+   "publishYear": "2025",
+   "definition": "针对不同类型的灾难，在灾前采取的、以降低灾害事件的发生及减少灾害时可能出现的伤亡、疾病或重大财产损失为目的的预防措施。"
+  },
+  {
+   "cn": "御旱性",
+   "en": "drought prevention",
+   "source": "农学名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物在干旱环境下，通过其特定的形态结构和生理机制使其组织维持较高的含水量以抵抗干旱的特性。"
+  },
+  {
+   "cn": "疾病预防",
+   "en": "disease prevention",
+   "source": "行为医学名词",
+   "wordNumber": "8.009",
+   "subjectFullName": "行为医学_预防保健行为_疾病预防",
+   "subjectName": "疾病预防",
+   "publishYear": "2022",
+   "definition": "预防疾病（或伤害）和残疾在个体或群体内发生，阻止或延缓其发展的一系列活动。"
+  },
+  {
+   "cn": "一级预防",
+   "en": "primary prevention",
+   "source": "行为医学名词",
+   "wordNumber": "8.011",
+   "subjectFullName": "行为医学_预防保健行为_疾病预防",
+   "subjectName": "疾病预防",
+   "publishYear": "2022",
+   "definition": "在疾病（或伤害）尚未发生时针对病因或危险因素采取措施，降低有害暴露水平，增强个体对抗有害暴露的能力，预防疾病或伤害的发生。"
+  },
+  {
+   "cn": "二级预防",
+   "en": "secondary prevention",
+   "source": "行为医学名词",
+   "wordNumber": "8.012",
+   "subjectFullName": "行为医学_预防保健行为_疾病预防",
+   "subjectName": "疾病预防",
+   "publishYear": "2022",
+   "definition": "在疾病早期，症状体征尚未表现出来或难以觉察，通过及早发现并诊断疾病，及时给予适当的治疗，有更大的机会实现治愈，或通过治疗阻止疾病发展到更严重的阶段，或延缓疾病发展进程，以减少更复杂的治疗措施。"
+  },
+  {
+   "cn": "三级预防",
+   "en": "tertiary prevention",
+   "source": "行为医学名词",
+   "wordNumber": "8.013",
+   "subjectFullName": "行为医学_预防保健行为_疾病预防",
+   "subjectName": "疾病预防",
+   "publishYear": "2022",
+   "definition": "在疾病的症状体征明显表现出来之后，通过适当的治疗和康复，降低疾病和残疾给个体、家庭和社会带来的危害。"
+  },
+  {
+   "cn": "防灾",
+   "en": "disaster prevention",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2057",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "预防灾害的工作。 "
+  },
+  {
+   "cn": "地震预防",
+   "en": "earthquake prevention",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2061",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "震前进行抵御地震的各种防护措施工作。 "
+  },
+  {
+   "cn": "自杀预防",
+   "en": "suicide prevention",
+   "source": "行为医学名词",
+   "wordNumber": "13.058",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "针对存在自杀风险的个体或群体，积极采取干预措施，防止自杀的出现，降低自杀发生率。"
+  },
+  {
+   "cn": "一级预防",
+   "en": "primary prevention",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_一级预防",
+   "subjectName": "一级预防",
+   "publishYear": "2022",
+   "definition": "疾病尚未发生时针对致病因子、可疑致病因子或相关因素所采取的措施。是预防疾病发生和消灭疾病的根本措施。"
+  },
+  {
+   "cn": "二级预防",
+   "en": "secondary prevention",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_二级预防",
+   "subjectName": "二级预防",
+   "publishYear": "2022",
+   "definition": "防止疾病发生或减缓疾病的发展而采取的措施。即早发现、早诊断、早治疗。"
+  },
+  {
+   "cn": "三级预防",
+   "en": "tertiary prevention",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_三级预防",
+   "subjectName": "三级预防",
+   "publishYear": "2022",
+   "definition": "疾病后期为了减少疾病危害所采取的措施。目的是防止病残和促进功能恢复，提高生存质量，延长寿命，降低病死率。"
+  },
+  {
+   "cn": "防锈",
+   "en": "rust prevention",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.245",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_防锈",
+   "subjectName": "防锈",
+   "publishYear": "2021",
+   "definition": "防止金属制品在储运和使用过程中锈蚀的技术或措施。"
+  },
+  {
+   "cn": "防蚀",
+   "en": "corrosion prevention",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0183",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀防护及监测",
+   "subjectName": "腐蚀防护及监测",
+   "publishYear": "2021",
+   "definition": "人为地改进腐蚀体系，以减轻腐蚀损伤。"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard prevention",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.004",
+   "subjectFullName": "消化内镜学_消化内镜洗消_麻醉复苏监测相关设备",
+   "subjectName": "麻醉复苏监测相关设备",
+   "publishYear": "2021",
+   "definition": "针对医院所有患者和医务人员采取的一组预防感染的措施。"
+  },
+  {
+   "cn": "防渗",
+   "en": "seepage prevention",
+   "source": "电力名词",
+   "wordNumber": "15.147",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "为防止或减小渗漏水和保持渗透稳定而采取的工程处理措施。"
+  },
+  {
+   "cn": "污染预防",
+   "en": "pollution prevention",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.125",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "为了降低有害的环境影响而采用或综合采用的过程、惯例、技术、材料、产品、服务或能源，以避免、减少或控制任何类型的污染物或废物的产生、排放或废弃。"
+  },
+  {
+   "cn": "预防",
+   "en": "prevention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预防",
+   "en": "prevention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重叠音",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重复旋律",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "防霜",
+   "en": "frost prevention",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三级预防",
+   "en": "tertiary prevention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "二级预防",
+   "en": "secondary prevention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一级预防",
+   "en": "primary prevention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自杀预防",
+   "en": "suicide prevention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "腐蚀防护",
+   "en": "corrosion prevention",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "污染预防",
+   "en": "pollution prevention",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死锁预防",
+   "en": "deadlock prevention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防爆",
+   "en": "explosion prevention",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "预防处理",
+   "en": "preventative treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预防型抗氧剂",
+   "en": "preventive antioxidant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measure",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预防性处理",
+   "en": "preventive treatment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预防性维修，预防性维护",
+   "en": "preventive maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连中",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两跳",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划圆转移",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打",
+   "en": "doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打",
+   "en": "doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次运球",
+   "en": "double dribble\",\"double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打比赛",
+   "en": "doubles\",\"doubles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打比赛",
+   "en": "doubles\",\"doubles match\",\"doubles game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两次运球",
+   "en": "discontinue\",\"double dribble\",\"doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空翻两周",
+   "en": "double salto\",\"double somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互中",
+   "en": "double hit\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互中",
+   "en": "double hit\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连击",
+   "en": "double contact\",\"double hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复支付",
+   "en": "double spending",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双人双桨",
+   "en": "double sculls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连击",
+   "en": "double contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双方犯规",
+   "en": "double fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则双靶",
+   "en": "regular double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard prevention",
+   "source": "消毒学",
+   "wordNumber": "1.7.2",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "基于患者的血液、体液、分泌物(不包括汗液)、排泄物、非完整皮肤和黏膜均可能具有传染性的原则，针对医疗机构所有患者和医务人员采取的一组预防感染的措施。包括手卫生，并根据预期可能的暴露选用手套、面罩、隔离"
+  },
+  {
+   "cn": "事故预防",
+   "en": "accident prevention",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "为保证设备或系统正常运行，防止或及时发现和纠正对正常运行的偏离，特别是防止严重的偏离发展成为事故而采取的措施。"
+  },
+  {
+   "cn": "暴力预防",
+   "en": "violence prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止校园内所有的暴力行为发生发展而采取的一系列措施。"
+  },
+  {
+   "cn": "伤害预防",
+   "en": "injury prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止由于各种物理性、化学性、生物性事件和心理行为因素而导致个人发生暂时会永久性损伤、残疾或死亡的一类疾病发生发展而采取的一系列措施。"
+  },
+  {
+   "cn": "伤害预防",
+   "en": "injury prevention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过采取措施，来减少或消除人们在日常生活中可能遭受的因超过机体承受能力产生的伤害。"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention first",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.006",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "主动采取积极行动将卫生健康服务的重心由治疗转向预防，促进疾病的早发现、早报告、早诊断、早治疗，以提高医疗卫生资源的使用效率，维护和改善人民健康的卫生策略。"
+  },
+  {
+   "cn": "残疾预防",
+   "en": "disability prevention",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "通过采取医学、教育、社会、环境等多种手段，防止或减少致残因素的发生与发展，最大限度降低残疾的发生率、减轻残疾程度、延缓残疾进程、减少残疾影响的综合性、系统性措施。通常包括三级预防：一级预防是预防疾病和"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention-oriented",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "以防病为核心，强调通过健康促进、早期干预和风险控制减少疾病发生，实现从治病向防病的转变。"
+  },
+  {
+   "cn": "自杀预防",
+   "en": "suicide prevention",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.5",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "实施预防自杀的各种措施。例如及早识别潜在的自杀者，对其危险程度进行评估，处理有自杀念头的求助者，尽快终止他们的自杀观念和自杀行为，进行有关自杀人群的思维和行为特征知识的宣传教育。"
+  },
+  {
+   "cn": "预防腐败",
+   "en": "preventing corruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0780",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对腐败问题防患于未然。腐败问题的治理采取“预防为主”的方针，这是世界各国在反腐败问题上的共识。党的十六大以后，我国提出了“标本兼治、综合治理、惩防并举、注重预防”的反腐败战略方针，反腐败斗争开始进入预"
+  },
+  {
+   "cn": "预防性消毒",
+   "en": "preventive disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.5",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "在没有明确的传染源存在时，对可能受到病原微生物污染的场所和物品进行的消毒。"
+  },
+  {
+   "cn": "阻吸收",
+   "en": "prevent absorption",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性核素内污染治疗中的一种医学处理方式，应用药物与放射性核素螯合、形成难溶性化合物或在胃肠道内壁形成保护膜，阻止胃肠道吸收。"
+  },
+  {
+   "cn": "防止两极分化",
+   "en": "prevent polarization",
+   "source": "马克思主义",
+   "wordNumber": "03.0547",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于社会发展和分配领域的一个重要思想。邓小平认为：防止两极分化的关键在于我们的制度和政策。我们遵循两条最重要的原则：第一，公有制经济始终占据主体地位；第二，坚持走共同富裕的道路。一部分地区，一部"
+  },
+  {
+   "cn": "预防接种",
+   "en": "preventive vaccination",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "通过有计划、有组织地为特定人群接种疫苗，以激发机体免疫反应，预防和控制传染病的发生与传播，最终实现群体免疫屏障的公共卫生干预措施。其本质是通过科学免疫策略保护个体健康，并通过群体免疫效应阻断疾病传播链"
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "双重运动",
+   "en": "double movement",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "关于自我调节的市场机制与社会的自我保护运动的理论。卡尔·波兰尼分析资本主义文明演化特征的核心框架。"
+  },
+  {
+   "cn": "双重效应",
+   "en": "double effect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.022",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "行为本身所具有的正面和负面效果。"
+  },
+  {
+   "cn": "双培双带",
+   "en": "double training and double helping",
+   "source": "马克思主义",
+   "wordNumber": "03.0770",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“双培双带”最初是农村党建工作的一种创新机制，即把党员培养成致富带头人，把致富带头人中的先进分子培养成党员。“双培双带”后来在基层党建推广开来，即把党员培养成骨干，把骨干培养成党员。“双培双带”实质上"
+  },
+  {
+   "cn": "防鼠疫装备",
+   "en": "plague prevention equipment",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "参加防治鼠疫工作消毒人员穿戴的专用防护用品，包括医用防护服、护目镜、医用防护口罩、防护手套和长筒胶靴以及普通工作帽、包头巾等。"
+  },
+  {
+   "cn": "心理健康问题预防",
+   "en": "mental health prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止个体在心理健康方面存在的偏倚而采取的一系列措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

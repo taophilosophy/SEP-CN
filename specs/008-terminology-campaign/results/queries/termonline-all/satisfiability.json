@@ -1,0 +1,102 @@
+{
+ "key": "satisfiability",
+ "term": "satisfiability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:01:33+00:00",
+ "status": "ok",
+ "note": "variant=satisfiability; 审定公布名词库=6; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "可满足性",
+   "en": "satisfiability",
+   "source": "数学名词",
+   "wordNumber": "02.0081",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可满足的",
+   "en": "satisfiable",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0145",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果存在一组真值指派使一个逻辑表达式取值1（真），则称该逻辑表达式是可满足的，否则称它为不可满足的（unsatisfiable）。"
+  },
+  {
+   "cn": "满意化行为",
+   "en": "satisfying behaviour",
+   "source": "地理学名词",
+   "wordNumber": "17.081",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "按是否达到或超过一定的门槛而不是依据最大化来进行选择的行为。"
+  },
+  {
+   "cn": "可满足性问题",
+   "en": "satisfiability problem,SAT",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0289",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对任意命题逻辑公式判定是否存在一组指派使其被满足。"
+  },
+  {
+   "cn": "三元可满足性问题",
+   "en": "3-satisfiability problem,3SAT",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0290",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对任意合取范式，其中每一个子句至多包含3个文字，判定是否存在一组指派使其被满足。"
+  },
+  {
+   "cn": "现场急危重症呼叫满足率",
+   "en": "acute critically severe satisfy rate",
+   "source": "急救医学名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "急救医学_急救质控_调度质控_调度科室质控",
+   "subjectName": "调度科室质控",
+   "publishYear": "2025",
+   "definition": "调度员判断为急危重症患者呼叫急救电话需要救护车的派车数量占该类要车总量的百分比。现场急危重症呼叫满足率=现场急危重症呼叫的派车量÷急危重症呼叫的要车总量×100%。"
+  },
+  {
+   "cn": "可满足性问题",
+   "en": "satisfiability problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3元可满足性",
+   "en": "three-satisfiability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满意化行为",
+   "en": "satisfying behaviour",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

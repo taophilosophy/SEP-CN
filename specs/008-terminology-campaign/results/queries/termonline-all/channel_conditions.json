@@ -1,0 +1,732 @@
+{
+ "key": "channel conditions",
+ "term": "channel conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:03:17+00:00",
+ "status": "ok",
+ "note": "variant=channel conditions; 审定公布名词库=2279; 海峡两岸名词对照库=722; 其他来源数据库=111; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "频道",
+   "en": "channel",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.15",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "①广播电视内容的结构组织形式之一，如综合频道、新闻频道、音乐频道等。②信息通过或达到感官的渠道或发送感官信号所使用的工具。广电领域通指传送一路广播电视节目信号所占用的无线电频谱范围。"
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.104",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "信息通过感官媒介或发送感官信号时所使用的传播工具或通道。"
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2406",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "在观测地震学中，拾震器的一个分量的信号输出。现代地震记录器可以同时记录许多信道的信号。 "
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "物理学名词",
+   "wordNumber": "09.1281",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "核医学名词",
+   "wordNumber": "03.0794",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_实验核医学示踪技术",
+   "subjectName": "实验核医学示踪技术",
+   "publishYear": "2018",
+   "definition": "示踪动力学中物质不断进入和离开房室的途径。有的房室模型中进入和离开房室的通道可能不止一条。"
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0674",
+   "subjectFullName": "计算机科学技术_计算机体系结构_输入输出系统",
+   "subjectName": "输入输出系统",
+   "publishYear": "2018",
+   "definition": "信息进、出计算机的通路。通过通道，计算机可与外部设备、其他计算机系统、通信系统相连接。"
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0140",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由信息源选择的、传送信息的媒介物。"
+  },
+  {
+   "cn": "浅槽",
+   "en": "channel",
+   "source": "建筑学名词",
+   "wordNumber": "14.0573",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "容纳电缆数量较少，不含支架，沟底部可不封实的有盖槽式构筑物。"
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "建筑学名词",
+   "wordNumber": "14.0699",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "连接两个应用设备的端到端的传输通道。"
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2014",
+   "definition": "遥控后装设备中，专供密封放射源或其组件在其中运动的管道。"
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "大气科学名词",
+   "wordNumber": "02.279",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "电磁波谱中选出的狭窄的波长范围，与一个特定辐射仪的响应相对应。气象卫星中常指星载传感器的特定波长区间。"
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在两点之间用于收发信号的单向或双向通路。"
+  },
+  {
+   "cn": "波道",
+   "en": "channel",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在微波通信系统中，用于收发微波信号的单独信道。"
+  },
+  {
+   "cn": "经脉",
+   "en": "channel",
+   "source": "中医药学名词",
+   "wordNumber": "03.229",
+   "subjectFullName": "中医药学_中医基础理论_经络",
+   "subjectName": "经络",
+   "publishYear": "2004",
+   "definition": "是十二经脉、奇经八脉，以及附属于十二经脉的十二经别的统称，是经络系统中的主干，全身气血运行的主要通道。"
+  },
+  {
+   "cn": "沟道",
+   "en": "channel",
+   "source": "电气工程名词",
+   "wordNumber": "15.019",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "孔道",
+   "en": "channel",
+   "source": "土壤学名词",
+   "wordNumber": "02.491",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "圆柱形或近似圆柱形的半封闭或封闭性孔隙。"
+  },
+  {
+   "cn": "熔沟",
+   "en": "channel",
+   "source": "电气工程名词",
+   "wordNumber": "17.183",
+   "subjectFullName": "电气工程_工业电热设备",
+   "subjectName": "工业电热设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "channel",
+   "source": "航海科技名词",
+   "wordNumber": "07.0345",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "频道",
+   "en": "channel",
+   "source": "航海科技名词",
+   "wordNumber": "14.0300",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "电子学名词",
+   "wordNumber": "21.147",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "槽",
+   "en": "channel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通道",
+   "en": "channel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信道，通路",
+   "en": "channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频道",
+   "en": "channel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "channel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道， 通道",
+   "en": "channel\",\"channel-way",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "备用信道",
+   "en": "alternate channel\",\"reserve channel\",\"spare channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直捷通路",
+   "en": "thoroughfare channel\",\"preferential channel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "出射道",
+   "en": "exit channel\",\"outgoing channel",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "离子通道",
+   "en": "ion channel\",\"ionic channel",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海峡[渡]船",
+   "en": "channel ship\",\"channel steamer",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渠道网络化",
+   "en": "channel networking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可信通道",
+   "en": "trusted channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽信道",
+   "en": "covert channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色通道",
+   "en": "green channel; fast transport channel  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色融资渠道",
+   "en": "green financing channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽存储通道",
+   "en": "covert storage channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐蔽定时通道",
+   "en": "covert timing channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒通道",
+   "en": "disinfection channel",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.19",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "消毒时，人员和物品进出的路径。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "沟通途径",
+   "en": "communication channels",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "向大众或特定受众传递信息的渠道。传统的沟通途径包括电子媒体（广播和电视）和印刷媒体（报纸和杂志）。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "单道分析器",
+   "en": "single channel analyzer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.54",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种只对脉冲幅度在 V和(V+ΔV)之间的输入信号给出输出信号的核子仪器。虽然它只包含一个脉冲选择通道，但通过阈值的逐点改变可以测量核辐射探测器输出脉冲的幅度分布。"
+  },
+  {
+   "cn": "道比法",
+   "en": "channels ratio method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "液体闪烁计数法中猝灭校正方法之一。即在被测样品的能谱范围内选取两个测量窗，用在两窗内的计数之比（道比）从已知猝灭校正曲线算出被测样品的探测效率，进而求出样品活度的方法。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "产科急救绿色通道",
+   "en": "green channel for obstetrics emergency",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为急危重症孕产妇提供快捷高效的服务系统。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "药品“双通道”管理机制",
+   "en": "dual-channel management mechanism for drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "通过定点医疗机构和定点零售药店两个渠道，满足药品供应保障、临床使用等方面的合理需求，并同步纳入医保支付的机制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

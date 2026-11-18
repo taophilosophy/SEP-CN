@@ -1,0 +1,582 @@
+{
+ "key": "derivability",
+ "term": "derivability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:59:46+00:00",
+ "status": "ok",
+ "note": "variant=derivability; 审定公布名词库=287; 海峡两岸名词对照库=124; 其他来源数据库=7; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "母体化合物的基本骨架不变，只是其分子中侧链、官能团中的原子或原子团被其他原子或原子团取代所形成的一类新化合物。"
+  },
+  {
+   "cn": "[睡眠监测]导联",
+   "en": "derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.129",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "实现睡眠监测过程中传感器采集的某一信号经放大器整合并显示记录数据的整个系统。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0484",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "根据文法 G的产生式，从G的一个句型推演出另一个句型，称为G的一步推导。对文法G 的一个推导过程是从初始句型S（初始符）推导出一个全部由终极符组成的串（即句子）。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "化学名词",
+   "wordNumber": "02.0004",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "保留了母体化合物的基本骨架，只在侧链、官能团或取代基上发生变化的一类新化合物称为原母体化合物的衍生物。"
+  },
+  {
+   "cn": "孳乳",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "10.047",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "在词的派生推动下，由记录源词的字分化出新字的现象。例如“正”孳乳出“政”。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "经过一系列合乎逻辑的运算步骤，从一个结果到达另一个结果的过程。推导也指根据短语结构语法，应用重写规则替换一个语法符号串中的某些（某个）语法符号，产生新的语法符号串的过程。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "生成音系学中，施用一系列音系规则将一个相对比较抽象的音系表达式转换成一个相对比较具体、更加接近语音实际的音系表达式的过程。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "由词根和词缀构成的合成词。例如“第一”“老鼠”“帽子”“巴不得”。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "与“原形词”相对。由词根词素和词缀词素组合而成的词。"
+  },
+  {
+   "cn": "可导的",
+   "en": "derivable",
+   "source": "数学名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "数学名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "派生岩浆",
+   "en": "derivative magma",
+   "source": "地质学名词",
+   "wordNumber": "04.01.019",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由原生岩浆或原始岩浆经同化作用、混合作用、分离结晶作用后所派生出来的岩浆。"
+  },
+  {
+   "cn": "衍生结构",
+   "en": "derived structure",
+   "source": "地质学名词",
+   "wordNumber": "02.00.168",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "一些在几何上和原子(离子)连接形式上与某典型结构近似的晶体结构，可以用此典型结构来描述的晶体结构。"
+  },
+  {
+   "cn": "衍生脂质",
+   "en": "derived lipid",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "7.0005",
+   "subjectFullName": "生物化学与分子生物学_脂质_概述_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "由简单脂质和复合脂质衍生而来或与之关系密切，但也具有脂质一般性质的物质。如脂肪酸、萜、固醇类、类二十烷酸及其他等。"
+  },
+  {
+   "cn": "脂质衍生物",
+   "en": "lipid derivative",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "7.0029",
+   "subjectFullName": "生物化学与分子生物学_脂质_概述_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "脂质过一系列反应化合而成的物质。"
+  },
+  {
+   "cn": "参考导联",
+   "en": "referential derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.13",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由一个探测电极和一个参考电极组成的导联。如脑电图C4～M1导联。"
+  },
+  {
+   "cn": "双极导联",
+   "en": "bipolar derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.131",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由两个探测电极组成并彼此互为参考的导联。如胫骨前肌肌电导联。"
+  },
+  {
+   "cn": "衍生作品",
+   "en": "derivative work",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.009",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "通过改编、翻译、注释、整理已有作品而产生的作品。"
+  },
+  {
+   "cn": "衍生染色体",
+   "en": "derivative chromosome",
+   "source": "血液学名词",
+   "wordNumber": "4.274",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "染色体断裂后形成的畸变染色体。分为平衡衍生染色体和不平衡衍生染色体。"
+  },
+  {
+   "cn": "衍生染色体",
+   "en": "derivative chromosome",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.465",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由两条或两条以上染色体重排，或一条染色体内因插入、缺失等形成的结构畸变染色 体。"
+  },
+  {
+   "cn": "衍生细胞",
+   "en": "derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "派生产品",
+   "en": "derivatives",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外胚层衍生物",
+   "en": "ectodermal derivative",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "葑烷衍生物",
+   "en": "fenchane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莰烷衍生物",
+   "en": "camphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒎烷衍生物",
+   "en": "pinane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "衍生同源性",
+   "en": "derived homology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "衍生性状",
+   "en": "derived character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异莰烷衍生物",
+   "en": "isocamphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部导数",
+   "en": "local derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏微商",
+   "en": "partial derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间导数",
+   "en": "time derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全导数",
+   "en": "total derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "导出单位",
+   "en": "derived unit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "天气衍生品",
+   "en": "weather derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融衍生工具监管",
+   "en": "supervision on financial derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳金融产品和衍生工具",
+   "en": "carbon financial products and derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 20547-2 信息技术 大数据参考架构 第2部分：用例和需求》",
+   "en": "ISO/IEC 20547-2 Information technology — Big data reference architecture — Part 2: Use cases and derived requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可判定性",
+   "en": "decidability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "导出干预水平",
+   "en": "derived intervention level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "与干预水平相对应的环境中放射性活度水平或剂量率，可直接与实际监测结果相比较的量。"
+  },
+  {
+   "cn": "导出空气浓度",
+   "en": "derived air concentration，DAC",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "年摄入量限值除以参考人在一年工作或生活时间中吸入的空气体积所得的商。"
+  },
+  {
+   "cn": "植物源酶制剂",
+   "en": "plant-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由植物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "动物源酶制剂",
+   "en": "animal-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由动物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "微生物源酶制剂",
+   "en": "microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由传统或通过基因修饰的微生物（包括但不限于细菌、放线菌、真菌菌种）发酵、提取制得，用于食品加工，具有特殊催化功能的生物制品"
+  },
+  {
+   "cn": "动物源性饲料消毒",
+   "en": "disinfection of animal-derived feed",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对用动物及其副产品为原料加工制成的饲料可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "化学武器源食品污染",
+   "en": "chemical weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "军用化学毒剂的使用对食品造成的化学性污染。"
+  },
+  {
+   "cn": "生物武器源食品污染",
+   "en": "biological weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "生物战剂的应用对食品造成的生物性污染。"
+  },
+  {
+   "cn": "核武器源食品污染",
+   "en": "nuclear weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "由于各类核武器使用而对食品造成的放射性污染。"
+  },
+  {
+   "cn": "微生物源酶制剂抗菌活性",
+   "en": "antibacterial activity of microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "微生物来源的酶制剂抑制或杀灭微生物的能力"
+  },
+  {
+   "cn": "遗传度",
+   "en": "heritability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "衡量遗传和环境因素相对作用大小的指标。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

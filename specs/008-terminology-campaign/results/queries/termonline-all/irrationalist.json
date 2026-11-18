@@ -1,0 +1,42 @@
+{
+ "key": "irrationalist",
+ "term": "irrationalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:03:40+00:00",
+ "status": "ok",
+ "note": "variant=irrationalist; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "无理性条件",
+   "en": "irrationality condition",
+   "source": "数学名词",
+   "wordNumber": "06.0133",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义者",
+   "en": "rationalist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态非理性",
+   "en": "ecological irrationality",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.11",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "“理性的强化”在自然范畴的应用，我们越想依照严格计算的原则办事，就越有可能为蜂拥而来的负面意外打开大门，表现为由技术灾难所带来的各种各样的破坏性后果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

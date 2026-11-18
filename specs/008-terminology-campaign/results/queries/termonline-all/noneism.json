@@ -1,0 +1,112 @@
+{
+ "key": "noneism",
+ "term": "noneism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:10:27+00:00",
+ "status": "ok",
+ "note": "variant=noneism; 审定公布名词库=8; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "矮型",
+   "en": "nanism",
+   "source": "古生物学名词",
+   "wordNumber": "05.0016",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "特定个体在个体发育过程中由于某种病变而导致的生长迟缓，不能达到正常大小。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "异常一元论",
+   "en": "anomalous monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.568",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由D. 戴维森（D. Davidson）提出。旨在调和三个全然不相容的原理（互为因果作用原理、因果性的规律性原理、精神现象的异常论），断言一切事件都是物理的，即心理事件与物理事件同一，心理事件不可还原"
+  },
+  {
+   "cn": "穆利布雷侏儒",
+   "en": "Mulibrey nanism",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.218",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由TRIM37（17q22—q23）基因突变导致的一种常染色体隐性遗传病。临床表现为生长发育迟缓、颈粗而短、方肩、三角形脸、肝大、眼底有微黄的斑点。"
+  },
+  {
+   "cn": "单频脉动",
+   "en": "single-frequency mic-roseism",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0354",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在地噪声中，与海浪的作用相联系的周期近 14s、幅度比倍频脉动的主峰幅度小 20～40dB的次级波峰。因为地噪声与海浪的频率相同，故称该波峰为单频波峰，相应的脉动称为单频脉动。 "
+  },
+  {
+   "cn": "倍频脉动",
+   "en": "double-frequency mic-roseism",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0355",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "由海浪产生的主频谱周期为波的半周期、地噪声频率为波的频率的两倍的地脉动。 "
+  },
+  {
+   "cn": "继发性醛固酮症",
+   "en": "secondary aldoste-ronism,SA",
+   "source": "老年医学名词",
+   "wordNumber": "04.604",
+   "subjectFullName": "老年医学_老年临床医学_老年内分泌系统疾病",
+   "subjectName": "老年内分泌系统疾病",
+   "publishYear": "2017",
+   "definition": "因肾上腺以外的原因导致肾上腺皮质醛固酮分泌增多引起的疾病。老年患者常见于肾实质性及肾血管性病变。"
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

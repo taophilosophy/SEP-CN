@@ -1,0 +1,812 @@
+{
+ "key": "treatise on consequences",
+ "term": "Treatise on Consequences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:59:11+00:00",
+ "status": "ok",
+ "note": "variant=Treatise on Consequences; 审定公布名词库=1834; 海峡两岸名词对照库=522; 其他来源数据库=362; 预公布名词数据库=196; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "论著",
+   "en": "treatise",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.096",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "带有研究性或议论性的著作。"
+  },
+  {
+   "cn": "司牧安骥集",
+   "en": "Treatise on Equine Medicine",
+   "source": "兽医学名词",
+   "wordNumber": "19.017",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "综合性兽医著作。是我国现存最早的兽医学著作，也是我国最早的一部兽医教科书，唐代李石撰。"
+  },
+  {
+   "cn": "八证论",
+   "en": "treatise on eight syndromes",
+   "source": "兽医学名词",
+   "wordNumber": "19.150",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "《马书》和《元亨疗马集》中论述家畜疾病的寒、热、虚、实、表、里、邪、证等八证的兽医古文献名。"
+  },
+  {
+   "cn": "《历志》",
+   "en": "Calendrical Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中记载一个朝代历法内容的篇章。"
+  },
+  {
+   "cn": "《营造法式》",
+   "en": "Treatise on Architectural Methods,Yingzao Fashi",
+   "source": "建筑学名词",
+   "wordNumber": "03.0230",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "北宋官定的建筑设计、施工专书，为中国现存年代最早、内容最丰富的建筑营造著作。北宋绍圣四年(1097年)将作监李明仲(?~1110年)奉命编修，元符三年(1100年)成书，崇宁二年(1103年)颁行。全"
+  },
+  {
+   "cn": "后项",
+   "en": "consequent",
+   "source": "数学名词",
+   "wordNumber": "04.0073",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伤寒论",
+   "en": "Shanghan Lun,Treatise on Cold Pathogenic Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医临床著作，东汉张仲景撰。"
+  },
+  {
+   "cn": "脾胃论",
+   "en": "Piwei Lun,Treatise on Spleen and Stomach",
+   "source": "中医药学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医综合性著作，金代李杲撰。"
+  },
+  {
+   "cn": "《乙巳占》",
+   "en": "Yi Si Zhan; Yisi Treatise on Astrology",
+   "source": "天文学名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文著作，唐代李淳风编撰，是唐以前数十种星占风角书的分类汇编。"
+  },
+  {
+   "cn": "《崇祯历书》",
+   "en": "Chong Zhen Reign-period Treatise on Calendrical Science",
+   "source": "天文学名词",
+   "wordNumber": "05.195",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文著作，明代徐光启、李天经主编，西方传教士龙华民、邓玉函、汤若望、罗雅谷等参加编译。是欧洲古典天文学原理与中国传统历书形式的结合，采用第谷体系和360°制。"
+  },
+  {
+   "cn": "后承关系",
+   "en": "consequence relation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.614",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "逻辑的基本概念。它描述了在一个陈述逻辑地推导自另一个或多个陈述，且这个陈述有效时，陈述之间的关系。"
+  },
+  {
+   "cn": "后果分析",
+   "en": "consequence analysis",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.228",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "以在放射实践活动中假设的核或放射事故为基础，估计这一事件及事故对有关的个人和公众所致的潜在剂量，从而对事故后果进行的评定。"
+  },
+  {
+   "cn": "顺向河",
+   "en": "consequent river",
+   "source": "地理学名词",
+   "wordNumber": "03.300",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "沿着地区原始地面倾斜发育而成的河流，亦即流向与地区原始地面倾斜一致的河流。由此而形成的河谷称为“顺向谷(consequent stream)”。"
+  },
+  {
+   "cn": "庶极",
+   "en": "consequent pole",
+   "source": "电气工程名词",
+   "wordNumber": "01.297",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "《天文志》",
+   "en": "Tian Wen Zhi; Astronomical Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中专门记载天文学和天文异象的篇章。"
+  },
+  {
+   "cn": "伤寒杂病论",
+   "en": "Shanghan Zabing Lun,Treatise on Cold Pathogenic and Miscellaneous Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医临床著作，东汉张仲景撰。已佚。后世根据该书佚文，分别整理成《伤寒论》、《金匮要略》。"
+  },
+  {
+   "cn": "《西洋新法历书》",
+   "en": "Treatise on Calendrical Science According to the New Western Methods",
+   "source": "天文学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文历法著作，清初传教士汤若望将《崇祯历书》删改而成。"
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "电子学名词",
+   "wordNumber": "08.041",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-1度",
+   "en": "one-one degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0170",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "定义等价关系<img src='/root/syzx/static/spz/jsjkx3.02.0170.001.png'/>， A<img src='/root/syzx/static/spz/js"
+  },
+  {
+   "cn": "一一可归约性",
+   "en": "one-one reducibility",
+   "source": "数学名词",
+   "wordNumber": "02.0285",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺向河",
+   "en": "consequent river",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环境影响",
+   "en": "environmental impact\",\"environmental consequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴",
+   "en": "on-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "锤测航行区",
+   "en": "on soundings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回送开放",
+   "en": "echo on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接通",
+   "en": "switch on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对遇",
+   "en": "end on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "红套",
+   "en": "shrink-on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "系住",
+   "en": "bend on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一步舞曲",
+   "en": "one-step",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "1-氧杂环戊-2-酮",
+   "en": "1-oxacyclopentan-2-one",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单向",
+   "en": "one way",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链上治理",
+   "en": "on-chain governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电视支付",
+   "en": "payment on TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随需调度",
+   "en": "on-demand scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诚信上链",
+   "en": "on-chain integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按需学习",
+   "en": "learning on demand",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依申请开放",
+   "en": "access on request",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后果评估",
+   "en": "consequence assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.14",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "对与授权设施或其部分有关的正常运行和可能事故的放射性后果（例如剂量、活度浓度）的评估。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "无明显场外风险事故",
+   "en": "accident with local consequences",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "放射性物质向环境释放，导致关键人群组受到mSv量级照射的情况。除当地可能需要采取食品管制行动外，一般不需要场外应急行动。"
+  },
+  {
+   "cn": "具有场外风险事故",
+   "en": "accident with wider consequences",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "放射性物质向环境释放，等效放射性物质量达到1014Bq～1015Bq131I的情况。需要采取局部场外应急响应以降低对人群健康的影响。"
+  },
+  {
+   "cn": "成本结果分析",
+   "en": "cost-consequence analysis,CCA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "计算并给出可供选择的医疗干预措施的成本和健康结果的分析方法。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "老龄协会",
+   "en": "committee on aging",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.52",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国民政部门主管的老年人社会团体。主要职责是对我国老龄事业发展的方针、政策、规划等问题进行调查研究，提出建议，开展信息交流、咨询服务等与老龄问题有关的社会活动，承办政府交办的其他事项和有关部门委托的工"
+  },
+  {
+   "cn": "一心一意搞建设",
+   "en": "concentrate on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0611",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据历史上的经验教训，从时代的要求出发，邓小平提出：“一心一意搞建设”应当成为工作的中心。除了爆发大规模战争外，全党同志必须贯彻始终地集中力量进行经济建设，一步一步地实现中国的战略目标。"
+  },
+  {
+   "cn": "和平法令",
+   "en": "decree on peace",
+   "source": "马克思主义",
+   "wordNumber": "04.0073",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由列宁起草，于1917年11月8日（俄历10月26日）经全俄第二次苏维埃代表大会通过的苏维埃政府颁布的第一个法令。该法令呼吁参加第一次世界大战的各交战国政府和人民，立即缔结停战协定，缔造正义与民主的和"
+  },
+  {
+   "cn": "土地法令",
+   "en": "decree on land",
+   "source": "马克思主义",
+   "wordNumber": "04.0074",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月社会主义革命胜利后，苏维埃政府关于土地问题的第一个立法文件。于1917年11月8日（俄历10月26日）全俄苏维埃第二次代表大会上通过。《土地法令》宣布废除地主土地私有制。附有农民土地问题委托书"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  },
+  {
+   "cn": "斯大林论语言",
+   "en": "Stalin on language",
+   "source": "马克思主义",
+   "wordNumber": "04.0103",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在许多著作中论及语言学，并著有专门著作《马克思主义和语言学问题》。在马克思、恩格斯、列宁语言学的理论基础上，对当时语言学的几乎全部重大的基本理论问题都进行了系统阐述。对苏联和中国的普通语言学起了"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  },
+  {
+   "cn": "现场咨询",
+   "en": "on-site counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业机构的学生心理健康咨询者深入到学校、社区或家庭，对学生进行心理评估和指导，着力解决学生的适应问题。"
+  },
+  {
+   "cn": "宗教观",
+   "en": "outlook on religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0141",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对宗教现象的认知，包括对宗教现象自身的认知，以及宗教与国家、民族关系的认知。在中国，重点是要坚持宗教中国化方针，坚持中国宗教与社会主义社会相适应。"
+  },
+  {
+   "cn": "文化观",
+   "en": "outlook on culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.014",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对文化现象的认知，包括对国家民族文化的认同和认知，对国家文化事业制度和道路的认同和认知，以及对各民族文化与国家民族文化关系、各亚文化与主流文化关系的认知。在中国，核心是对中华文化的认同，对中华文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

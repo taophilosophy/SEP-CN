@@ -1,0 +1,692 @@
+{
+ "key": "uniform continuity theorem",
+ "term": "uniform continuity theorem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:18:49+00:00",
+ "status": "ok",
+ "note": "variant=uniform continuity theorem; 审定公布名词库=3196; 海峡两岸名词对照库=959; 其他来源数据库=179; 预公布名词数据库=272; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "单值化定理",
+   "en": "uniformization theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果二元关系<img src='/root/syzx/static/spz/jsjkx3.02.0188.001.png'/>是一个计算可枚举关系，那么存在一个部分可计算函数 ψ 使得对任意 x ， "
+  },
+  {
+   "cn": "单值化定理",
+   "en": "uniformization theorem",
+   "source": "数学名词",
+   "wordNumber": "05.0457",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致有界性定理",
+   "en": "uniform boundedness theorems",
+   "source": "数学名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致连续映射",
+   "en": "uniform continuous mapping",
+   "source": "数学名词",
+   "wordNumber": "08.0556",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标志服装",
+   "en": "uniform",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0439",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "反映成像系统在视野内各点性能一致性的指标。受计数统计涨落和探头非均匀性影响。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.359",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "在静态和动态条件下，轮胎圆周特性恒定不变的性能。它包括轮胎的不平衡、尺寸偏差和力的波动。"
+  },
+  {
+   "cn": "单值化",
+   "en": "uniformization",
+   "source": "数学名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致结构",
+   "en": "uniformity",
+   "source": "数学名词",
+   "wordNumber": "08.0552",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "物理学名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "数学名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "任何一个由n个有量纲的物理量参与的物理过程中的函数关系都可以转换成由n-k个这些物理量组成的无量纲量Πi之间的函数关系，其中k是具有独立量纲的物理量的数。由于这些无量纲量是以不同的Πi数来表示的，"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "土木工程名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测实验力学",
+   "subjectName": "土木工程检测实验力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "pi theorem,Buckingham theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地层连续",
+   "en": "continuity",
+   "source": "地质学名词",
+   "wordNumber": "07.01.054",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上、下两组岩层之间没有出现沉积间断或地层缺失。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物元素、结构、功能、变化具有的稳定性和延续性。是因果关系的前设，与时空和事物的发展过程相关联。是人类可以运用“规律”做出事物特征性描述的基础。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "物理学名词",
+   "wordNumber": "01.0161",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0088",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "当流体在密闭管中作稳定流动且无流体的增减时，单位时间通过每一截面的流体质量均相等。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "化学工程名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "均匀的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同一的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均匀层",
+   "en": "uniform layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀转化",
+   "en": "uniform conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀结焦",
+   "en": "uniform coking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流动",
+   "en": "uniform stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀晶体",
+   "en": "uniform crystal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀载荷",
+   "en": "uniform loading",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀中毒",
+   "en": "uniform poisoning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色摔跤服",
+   "en": "blue uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色摔跤服",
+   "en": "red uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "team uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹起高度",
+   "en": "uniform bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续比赛!",
+   "en": "Continue!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续数据",
+   "en": "continuous data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "连续性理论",
+   "en": "continuity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "解释老年人晚年生活差异性的理论。认为人在成长过程中既有变化又有连续性，随着年龄的增长，主要的个性特点更为明显或终身变化不大；如果人们一生始中维持自己喜爱的角色、保持适应的技巧，那他们就可以成功地老龄化"
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "剂量均匀度比值",
+   "en": "dose uniformity ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.5",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "同一批量产品中最高吸收剂量和最低吸收剂量的比值。"
+  },
+  {
+   "cn": "文化连续性",
+   "en": "cultural continuity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "文化在长时段历史中所呈现的“层叠性”特征，即文化的发展依靠积累、凝结与积淀，必然呈现为连续渐进的形态。即使是文化衰退，也具有递减的连续性。与文化断层、文化突变相对。"
+  },
+  {
+   "cn": "连续监测",
+   "en": "continuous monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在所关心的时期内的不间断的放射性监测。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某界限内连续作微量变化的变量。"
+  },
+  {
+   "cn": "连续性生长",
+   "en": "continuous growth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体格生长的连续过程。即从受精卵到长大成人的过程中，体格生长在不断进行。"
+  },
+  {
+   "cn": "继续母乳喂养",
+   "en": "continued breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以后的婴幼儿在添加其他食物的基础上仍进行的母乳喂养。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuous service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "通过全生命周期覆盖、服务流程无缝衔接、健康信息动态追踪，为社区居民提供从出生到死亡、从健康到疾病、从急性干预到慢性管理的全程化、不间断的健康服务。其目标是确保居民在不同健康阶段、不同服务场景中都能获得"
+  },
+  {
+   "cn": "持续治疗",
+   "en": "continuous treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于传统固定周期治疗而言的、延长治疗时间的治疗模式。"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuity of care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一种以孕产妇为中心的助产服务提供方式，强调关注孕产妇健康需求，从初诊预约至产后阶段在服务计划、组织管理和服务提供方面给予持续的支持。"
+  },
+  {
+   "cn": "继续医学教育",
+   "en": "continuing medical education",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "医疗卫生专业人员在完成基础医学教育和毕业后医学教育后，为了更新知识、提高专业技能、适应医学科学发展及满足职业需求而进行的系统性、终身学习过程。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "持续消毒作用",
+   "en": "continuous disinfection action",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂在较长时间（>24h）对物体表面的微生物仍具有杀菌能力的现象。"
+  },
+  {
+   "cn": "长期均匀摄入",
+   "en": "uniform intake in long term",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.15",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "每年绝大多数时间内，以相对恒定的速率摄入放射性核素。此时放射性核素吸收率保持恒定状态，而组织内放射性核素则与日俱增。经过一段时间以后（此核素在给定器官内有效半减期的6倍～7倍），在此器官内活度达到平衡"
+  },
+  {
+   "cn": "留治率",
+   "en": "ratio of continuing treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每通过百名伤病员留治的人数，反映战事稳定程度和各救治机构的留治能力，为组织救治工作和筹划床位提供依据。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

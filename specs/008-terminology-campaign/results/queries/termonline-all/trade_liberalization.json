@@ -1,0 +1,802 @@
+{
+ "key": "trade liberalization",
+ "term": "Trade liberalization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:10:03+00:00",
+ "status": "ok",
+ "note": "variant=Trade liberalization; 审定公布名词库=936; 海峡两岸名词对照库=557; 其他来源数据库=88; 预公布名词数据库=84; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "信风",
+   "en": "trades",
+   "source": "地理学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "低层大气中南、北半球副热带高压近赤道一侧的偏东风。北半球盛行东北风，南半球盛行东南风。"
+  },
+  {
+   "cn": "解离",
+   "en": "liberation",
+   "source": "冶金学名词",
+   "wordNumber": "03.0055",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "采用粉碎方法将矿石中连生在一起的有用矿物与脉石矿物分开，使之成为单体，有利于选出有用矿物的过程。"
+  },
+  {
+   "cn": "普通图书",
+   "en": "trade book,trade edition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "以印刷方式刊行的单行本、多卷书、丛书等现代出版物。不包括线装古籍、连续出版物和各种非印刷型出版物。"
+  },
+  {
+   "cn": "差异分离",
+   "en": "differential liberation,multistage liberation",
+   "source": "石油名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "石油_油气田开发与开采_油层物理",
+   "subjectName": "油层物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "碳贸易",
+   "en": "carbon trade",
+   "source": "风景园林名词",
+   "wordNumber": "12.0190",
+   "subjectFullName": "风景园林_风景园林生态_可持续生态学",
+   "subjectName": "可持续生态学",
+   "publishYear": "2025",
+   "definition": "为削减大气二氧化碳浓度，在国家或企业间进行的二氧化碳排放量的交易。"
+  },
+  {
+   "cn": "贸易粮",
+   "en": "trade grain",
+   "source": "农学名词",
+   "wordNumber": "19.065",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "收购、销售及调拨库存中的粮食品类的统称。"
+  },
+  {
+   "cn": "货物贸易",
+   "en": "goods trade",
+   "source": "农学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "实物商品的贸易。"
+  },
+  {
+   "cn": "服务贸易",
+   "en": "service trade",
+   "source": "农学名词",
+   "wordNumber": "19.135",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "非实物商品的贸易。"
+  },
+  {
+   "cn": "双边贸易",
+   "en": "bilateral trade",
+   "source": "农学名词",
+   "wordNumber": "19.136",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "两国（地区）之间的贸易。"
+  },
+  {
+   "cn": "多边贸易",
+   "en": "multilateral trade",
+   "source": "农学名词",
+   "wordNumber": "19.137",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "两个以上的国家（地区）之间的贸易。"
+  },
+  {
+   "cn": "贸易创造",
+   "en": "trade creation",
+   "source": "农学名词",
+   "wordNumber": "19.144",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "贸易国之间因降低贸易障碍而扩大的贸易增量。"
+  },
+  {
+   "cn": "贸易转移",
+   "en": "trade diversion",
+   "source": "农学名词",
+   "wordNumber": "19.145",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "由于贸易环境的改变，一国贸易品进口或出口由A国转到B国的现象。"
+  },
+  {
+   "cn": "贸易促进",
+   "en": "trade promotion",
+   "source": "农学名词",
+   "wordNumber": "19.146",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "为发展贸易而进行的一切活动。通常包括司法、信息、市场、培训及展销会等支持活动。"
+  },
+  {
+   "cn": "贸易逆差",
+   "en": "trade deficit",
+   "source": "农学名词",
+   "wordNumber": "19.149",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内的进口额大于出口额的现象。"
+  },
+  {
+   "cn": "贸易顺差",
+   "en": "trade surplus",
+   "source": "农学名词",
+   "wordNumber": "19.150",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内的出口额大于进口额的现象。"
+  },
+  {
+   "cn": "贸易救济",
+   "en": "trade remedy",
+   "source": "农学名词",
+   "wordNumber": "19.199",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "国内产业由于受到不公平贸易行为或过量进口的冲击而遭受损害时，政府给予的符合国际贸易规则的救助。"
+  },
+  {
+   "cn": "技术贸易",
+   "en": "technology trade",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.081",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "按照双方达成的条件，对生产中的技术知识及生产设备等技术进行买卖的经济活动。"
+  },
+  {
+   "cn": "权衡",
+   "en": "trade-off",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.203",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "对发生矛盾和冲突的诸要素或诸方面作适当调整、折衷或取舍以达成协调状态。"
+  },
+  {
+   "cn": "商业秘密",
+   "en": "trade secret",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "不为公众所知悉、能为权利人带来经济利益，具有实用性并经权利人采取保密措施的技术信息和经营信息。"
+  },
+  {
+   "cn": "专业性报纸",
+   "en": "trade paper",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻报刊",
+   "subjectName": "新闻报刊",
+   "publishYear": "2022",
+   "definition": "专门发表某一领域、某一行业新闻与评论的报纸。以特定范围、具有专门兴趣的读者为发行对象。"
+  },
+  {
+   "cn": "贸易自由化",
+   "en": "trade liberalization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易自由化",
+   "en": "liberalization of trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际贸易自由化",
+   "en": "liberalization of international trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信风",
+   "en": "trades",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自由主义",
+   "en": "liberalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保证金交易",
+   "en": "margin trading (=margin trade)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "东南信风",
+   "en": "southeast trade",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信风，贸易风",
+   "en": "trade-winds",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "碳贸易",
+   "en": "carbon trade",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保护贸易",
+   "en": "protected trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保证金交易",
+   "en": "margin trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘录贸易",
+   "en": "memorandum trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "被动贸易",
+   "en": "passive trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "本地贸易",
+   "en": "local trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边境贸易",
+   "en": "border trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边境贸易",
+   "en": "frontier trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "补偿贸易",
+   "en": "compensation trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不平等贸易",
+   "en": "discriminative trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "差别贸易",
+   "en": "discriminative trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口贸易",
+   "en": "export trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字贸易",
+   "en": "digital trade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商业秘密",
+   "en": "trade secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据贸易",
+   "en": "data trade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贸易畅通",
+   "en": "unimpeded trade",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易",
+   "en": "Data Trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动化交易",
+   "en": "automated trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内幕交易",
+   "en": "insider trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易价格",
+   "en": "trading price",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解放区",
+   "en": "liberated area",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "世界贸易组织",
+   "en": "World Trade Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由贸易协定",
+   "en": "Free Trade Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由贸易区",
+   "en": "Free Trade Area",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特惠贸易协定",
+   "en": "Preferential Trade Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产交易",
+   "en": "data asset trade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新贸易革命",
+   "en": "New Trade Revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贸易服务集约",
+   "en": "intensive trade service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易型开放式指数基金",
+   "en": "Exchange Traded Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易机构",
+   "en": "data trading agency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法交易系统",
+   "en": "algorithmic trading system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.23",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "交换具有人文价值和使用价值的事与物，与基于公平原则进行的商品交换相比较，多了一层以社会资本或文化资本为媒介的交换，不一定是等价物的交换，但其交换的意义却相通。"
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种双边交换行为。通常有两种交换类型：（1）通过某种货币为媒介，买卖行为是关键因素。（2）物物交换，即两种物品或服务之间不通过任何媒介或货币进行的交换。"
+  },
+  {
+   "cn": "解放派",
+   "en": "Liberals",
+   "source": "马克思主义",
+   "wordNumber": "04.0339",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国自由派资产阶级反对派，因其主要代表资产阶级知识分子和地方自治自由派人士于1902年6月创办的《解放》杂志而得名。解放派以《解放》杂志为基础，于1904年1月在彼得堡成立了解放社，领导人是伊万·伊利"
+  },
+  {
+   "cn": "自由主义",
+   "en": "liberalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.16",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "以自由为主要价值的一种意识形态和哲学思想。其特点为追求个人发展，强调个人的自治权和意志自由，反对社会施加于个人的不当的政治、经济和宗教的束缚，具有个人主义的思想倾向。"
+  },
+  {
+   "cn": "边境贸易",
+   "en": "frontier trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0046",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "毗邻国家边境地区和边民之间进行的商品交换和贸易活动，包括边民互市贸易、边境小额贸易以及边境地区经济技术合作贸易等形式。边境贸易对增强民族团结，繁荣、稳定边疆，巩固和发展我国同周边国家的睦邻友好关系，起"
+  },
+  {
+   "cn": "无言交易",
+   "en": "silent trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0183",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "物物交换的一种形式，即从事交换的双方互不见面、以易有无的货物交换形式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "国内贸易",
+   "en": "domestic trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0280",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一国内部的商品流通。分工的发展带来了直接以交换为目的的生产即商品生产，产生了贸易。"
+  },
+  {
+   "cn": "对外贸易",
+   "en": "external trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0282",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家（地区）与另一个国家（地区）之间的商品、劳务和技术的交换活动。这种贸易由进口和出口两个部分组成。对运进商品或劳务的国家（地区）来说，就是进口；对运出商品或劳务的国家（地区）来说，就是出口。"
+  },
+  {
+   "cn": "世界贸易",
+   "en": "world trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0283",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由世界各国对外贸易构成的国际间的商品流通。世界贸易中，商品的国际价格是商品的国际价值为基础，随供求的变化而变动。"
+  },
+  {
+   "cn": "奴隶买卖",
+   "en": "slave trade",
+   "source": "马克思主义",
+   "wordNumber": "03.0130",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶买卖指一切俘获、置有或处理个人，使其沦为奴隶的行为；一切以出卖或交换为目的而置有奴隶的行为；一切通过出卖或交换，处理为出卖或交换的目的而置有的奴隶的行为，以及买卖或运输奴隶的每一种行为。古代奴隶社"
+  },
+  {
+   "cn": "鸦片贸易",
+   "en": "opium trade",
+   "source": "马克思主义",
+   "wordNumber": "04.0128",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "18世纪后半叶开始的西方殖民主义者为掠夺中国人民的财富把鸦片作为毒品向中国贩运的贸易。鸦片贸易给英美资产阶级带来了巨额利润，给中国带来了深重的灾难。"
+  },
+  {
+   "cn": "工联主义",
+   "en": "trade unionism",
+   "source": "马克思主义",
+   "wordNumber": "04.0311",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪五、六十年代英国工人联合会领导集团所执行的机会主义路线和政策的总称。工联主义反对革命斗争，反对推翻资本主义制度，鼓吹劳资合作，提出“做一天公平的工作，得一天公平的工资”的口号，主张进行所谓纯经"
+  },
+  {
+   "cn": "商号",
+   "en": "trade name",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "商事主体在其营业活动中为表征其身份以区别其他主体而使用的名称。"
+  },
+  {
+   "cn": "商业行会",
+   "en": "trade union",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0182",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在特定历史时期和社会中，由从事相同或相关行业的商人和手工业者自愿组成的社会团体，旨在维护成员的共同利益、规范行业行为和促进内部协作。"
+  },
+  {
+   "cn": "开明绅士",
+   "en": "liberal gentry",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "抗日战争和第三次国内革命战争时期(20世纪30 、40年代），地主和富农阶级中带有民主色彩的个别人士。这是中国共产党在革命时期和建国初期使用的一个政治性词汇，用于确定个人的阶级成分和政治立场。"
+  },
+  {
+   "cn": "自由女性主义",
+   "en": "liberal feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "女性主义中较为温和的一个流派，认为性别不平等的原因在于启蒙时代所倡导的自由平等公正等基本理念在实践中未能贯彻到底。主张主张让更多女性加入现存体制，以消除性别歧视与偏见，将性别平等纳入决策主流。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "社区解放论",
+   "en": "community liberated",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.7",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "打破对邻里关系和空间上接近的强调，把社区从地域和场所的局限中解放出来的理论观点。一些学者从人际关系的强度和数量的角度研究，发现居住在非邻近地域的居民，通过特定关系（如共同兴趣爱好、共同价值观等）从而形"
+  },
+  {
+   "cn": "新自由主义",
+   "en": "neo-liberalism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪70年代兴起的自由主义思潮。在社会福利领域强调对国家作用的限制，反对中央集权式的社会经济发展计划，推崇市场经济的主导作用，强调个人自由和个人责任，在福利领域主张市场化、私有化、商品化，推崇剩余"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

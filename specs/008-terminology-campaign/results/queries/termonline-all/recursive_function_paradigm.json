@@ -1,0 +1,732 @@
+{
+ "key": "recursive function paradigm",
+ "term": "Recursive Function Paradigm",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:14:17+00:00",
+ "status": "ok",
+ "note": "variant=Recursive Function Paradigm; 审定公布名词库=3283; 海峡两岸名词对照库=814; 其他来源数据库=113; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个部分递归函数还是全函数，则称其为递归函数。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "数学名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "μ递归函数",
+   "en": "μ-recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0125",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "由μ算子定义的递归函数。"
+  },
+  {
+   "cn": "部分递归函数",
+   "en": "partial recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包括原始递归函数，且在函数复合算子、原始递归算子及无界搜索算子下封闭的最小函数类。"
+  },
+  {
+   "cn": "原始递归函数",
+   "en": "primitive recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0117",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包括后继函数、常函数和投影函数在内的在函数复合算子和原始递归算子下封闭的，其变元和值皆为自然数的最小函数类。"
+  },
+  {
+   "cn": "范式",
+   "en": "paradigm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "T. S. 库恩（T. S. Kuhn）用来指称非常成功的科学成就。为未来研究预留问题，同时也为科学共同体成员的研究提供规范性指导。"
+  },
+  {
+   "cn": "范式",
+   "en": "paradigm",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0013",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "科学共同体在其专业或学科中所具有的共同信念及所衍生的基本观点、理论和方法，以及在此基础上形成的共同理论模式和解决问题的框架。"
+  },
+  {
+   "cn": "范式",
+   "en": "paradigm",
+   "source": "心理学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "库恩(T. S. Kuhn)提出的概念。即科学群体的共同态度、信念及其所公认的“理论模型”或“研究框架”。"
+  },
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0294",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "范式转换",
+   "en": "paradigm shift",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.228",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "由库恩提出。指科学领域中基本概念或实验实践的根本变化。"
+  },
+  {
+   "cn": "工程范式",
+   "en": "engineering paradigm",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.053",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "某个历史时期形成的规范某类工程活动的观念、方法和活动模式的总和。"
+  },
+  {
+   "cn": "技术范式",
+   "en": "technological paradigm",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.130",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "解决所选择的技术经济问题的一种模式。由创新经济学家G. 多西（G. Dosi）提出。"
+  },
+  {
+   "cn": "叙事范式",
+   "en": "narrative paradigm",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.06",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "一种描述和解释如何接收和理解复杂信息的传播理论。由美国传播学者沃尔特·费希尔(Walter Fisher)提出。该理论认为叙述是人类交流的基础。人类凡有意义的交流都是通过讲故事或报道完成的。人们作为故"
+  },
+  {
+   "cn": "技术范式",
+   "en": "technology paradigm",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0144",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "解决各种生产实践问题的通用技术体系和操作模式，或选择技术问题的一种模型或模式。包括通用技术体系(由关键技术要素、各种协作型技术组成)，以及从事此类工作的技术共同体。"
+  },
+  {
+   "cn": "实验范式",
+   "en": "experimental paradigm",
+   "source": "心理学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在某一研究领域得到公认的相对固定的实验程序。"
+  },
+  {
+   "cn": "范式论",
+   "en": "paradigm theory",
+   "source": "心理学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "库恩(T. S. Kuhn)用范式的产生和变更来解释科学的历史发展过程的理论。"
+  },
+  {
+   "cn": "教学范式",
+   "en": "teaching paradigm",
+   "source": "教育学名词",
+   "wordNumber": "02.176",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "对教学所作的最基本的界定或基本的解释。"
+  },
+  {
+   "cn": "课程范式",
+   "en": "curriculum paradigm",
+   "source": "教育学名词",
+   "wordNumber": "02.019",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "从某种课程知识观出发，通过选择和组织一定性质和范围的课程知识，最终形成的某种特定的、系统的、相对独立完整的课程观念及其物化形态。"
+  },
+  {
+   "cn": "修辞聚合",
+   "en": "rhetorical paradigm",
+   "source": "语言学名词",
+   "wordNumber": "08.063",
+   "subjectFullName": "语言学_修辞学_修辞手段",
+   "subjectName": "修辞手段",
+   "publishYear": "2011",
+   "definition": "词汇意义、语法意义相同或相近，但修辞色彩不同的一组语言单位，即修辞同义手段或修辞变体。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始递归函数",
+   "en": "primitive recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范式",
+   "en": "paradigm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "典范",
+   "en": "paradigms",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精神分析范式",
+   "en": "psychoanalytic paradigm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间典范",
+   "en": "spatial paradigm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "学习风范",
+   "en": "learning paradigm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第四范式",
+   "en": "The Fourth Paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实验科学范式",
+   "en": "experimental science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理论科学范式",
+   "en": "theoretical science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算科学范式",
+   "en": "computational science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型竞争范式",
+   "en": "new competition paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术经济范式",
+   "en": "techno-economic paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景经济范式",
+   "en": "scenario-based economic paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会共享发展范式",
+   "en": "paradigm of development for all",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "范式",
+   "en": "paradigm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "T. S. 库恩（T. S. Kuhn）用来指称非常成功的科学成就。为未来研究预留问题，同时也为科学共同体成员的研究提供规范性指导。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "定性研究范式",
+   "en": "qualitative research paradigm",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "定性研究中所具有的共同态度、信念，及其所公认的理论模型或研究框架。例如：以扎根理论为理论模型开展研究。"
+  },
+  {
+   "cn": "口头程式理论",
+   "en": "oral paradigm theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "口头诗学（oral poetics）的核心理论，由哈佛大学古典学学家米尔曼·帕里（Milman Parry）和阿尔伯特·洛德（Albert Bates Lord）师生共同创立。该理论是基于荷马史诗问题"
+  },
+  {
+   "cn": "法范式",
+   "en": "paradigms of law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.5.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法范式",
+   "subjectName": "法范式",
+   "publishYear": "2025",
+   "definition": "标识资本主义社会不同时期法律的概念，由哈贝马斯提出。"
+  },
+  {
+   "cn": "人类例外范式",
+   "en": "human exemptionalism paradigm,HEP",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.2",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "传统社会学认为人类与其他生物不一样，人类行为或社会文化环境受其他社会文化环境决定，与自然环境无关。"
+  },
+  {
+   "cn": "新生态范式",
+   "en": "new ecological paradigm ,NEP",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "卡顿(William R.Catton)和邓拉普(Riley E.Dunlap)针对传统社会学的人类例外范式进行的“范式转换”尝试。认为人与其他动物一样，在地球生态系统中依靠自然环境生存，受生态法则约"
+  },
+  {
+   "cn": "环境正义范式",
+   "en": "environmental justice paradigm ,EJP",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "响应全球绿色运动而产生的研究范式，认为所有人，不分世代、国籍、民族、种族、性别、教育、区域、地位、贫富等，都平等享有秩序、整洁及可持续性环境的自由以及免受环境破坏的危害之权利。"
+  },
+  {
+   "cn": "程序主义法范式",
+   "en": "proceduralist paradigm of Law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.5.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法范式",
+   "subjectName": "法范式",
+   "publishYear": "2025",
+   "definition": "不预设要实现的目标，由所有利害相关人通过平等、自由的理性协商和话语论证来确立规则的一种法律类型。哈贝马斯为了解决形式法与实质法所面临的难题而创设的法律类型。。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

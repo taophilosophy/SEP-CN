@@ -1,0 +1,672 @@
+{
+ "key": "frequency correspondence",
+ "term": "frequency correspondence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:58:11+00:00",
+ "status": "ok",
+ "note": "variant=frequency correspondence; 审定公布名词库=1516; 海峡两岸名词对照库=517; 其他来源数据库=16; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "对应",
+   "en": "correspondence",
+   "source": "数学名词",
+   "wordNumber": "01.0113",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "为新闻机构采写新闻、反映情况并按稿计酬的编外新闻报道者。"
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.018",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报刊社聘请的经常为其反映情况、提供线索、撰写通讯报道的非专职新闻工作人员。"
+  },
+  {
+   "cn": "对应规则",
+   "en": "correspondence rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "包含理论术语和观察术语的语句。通过这些规则，可以在经验上间接地、部分地解释一个理论术语。"
+  },
+  {
+   "cn": "读者来信专栏",
+   "en": "correspondence column",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.107",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登作者以第一人称反映现实生活中的新情况、新问题和新经验的一种报道形式栏目。"
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0422",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "格点对应",
+   "en": "lattice correspondence",
+   "source": "物理学名词",
+   "wordNumber": "08.0231",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "生物物理学名词",
+   "wordNumber": "02.391",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "多变量统计分析的一种数学方法。将对图像集合中图像矢量(N个像素，即N维度)的分析转换成对像素矢量(M张图像，即M维度)的分析，将高维度(N维)的矩阵分析简化为低维度(M维)的矩阵分析，是一种基于卡方分"
+  },
+  {
+   "cn": "函授学校",
+   "en": "correspondence school",
+   "source": "教育学名词",
+   "wordNumber": "12.062",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式提供教育机会、展开教学活动的教育机构。"
+  },
+  {
+   "cn": "函授学院",
+   "en": "correspondence college",
+   "source": "教育学名词",
+   "wordNumber": "12.061",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用函授方式举办高等教育的机构。学习者以自学函授教材为主，以通信方式接受教学指导，教师采取巡回方式给予学习者少量的面授辅导。一般承担本科或专科的学历教育，同时也举办高等单科或继续教育。"
+  },
+  {
+   "cn": "函授教育",
+   "en": "correspondence education",
+   "source": "教育学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式，面向成人开设的一种远距离教育。办学机构通常为函授学校、普通高等院校专设的函授部，或经相关部门批准设立的函授教育机构。学员以自学为主，面授为辅。"
+  },
+  {
+   "cn": "函授课程",
+   "en": "correspondence course",
+   "source": "教育学名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "由函授学校通过通信联络等方式向函授学员提供的课程。"
+  },
+  {
+   "cn": "伽罗瓦对应",
+   "en": "Galois correspondence",
+   "source": "数学名词",
+   "wordNumber": "04.0429",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "数学名词",
+   "wordNumber": "09.0760",
+   "subjectFullName": "数学_概率论_数理统计_多元统计分析",
+   "subjectName": "多元统计分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "边界对应",
+   "en": "boundary correspondence",
+   "source": "数学名词",
+   "wordNumber": "05.0489",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "射影对应",
+   "en": "projective correspondence",
+   "source": "数学名词",
+   "wordNumber": "08.0343",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "记者站",
+   "en": "correspondents station",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.031",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "新闻媒体在其总部之外设立的派出机构。从事与本媒体业务范围一致的新闻采编活动。"
+  },
+  {
+   "cn": "特约记者",
+   "en": "special correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.015",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻出版单位聘用的编外记者。"
+  },
+  {
+   "cn": "通信结点登记",
+   "en": "correspondent registration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0932",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在移动IPv6中移动结点向通信结点所做的关于它的关照地址和家乡地址的绑定的登记。其安全性通过使用返回路由过程及其产生的绑定管理密钥而得以保证。"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "相关点",
+   "en": "correlation correspondence",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信",
+   "en": "public correspondence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理行",
+   "en": "correspondent banking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理银行",
+   "en": "bank correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①国外往来客户 ②国外代理银行",
+   "en": "foreign correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对应态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对比状态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对应点",
+   "en": "corresponding point",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频度",
+   "en": "frequency\",\"frequence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信业务",
+   "en": "public correspondence service",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应因子分析",
+   "en": "correspondence factor analysis",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论理论",
+   "en": "correspondent inference theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同名核线",
+   "en": "corresponding epipolar line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "频度",
+   "en": "frequency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "频率",
+   "en": "frequency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "频数",
+   "en": "frequency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射频识别",
+   "en": "radio frequency identification (RFID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融高频数据",
+   "en": "high-frequency financial data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调减市内公交",
+   "en": "to reduce the frequency of bus services in the city",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37033.3-2018 信息安全技术 射频识别系统密码应用技术要求 第3部分：密钥管理技术要求》",
+   "en": "GB/T 37033.3-2018 Information security technology — Technical requirement for cryptographic application for radio frequency identification systems — Part 3: Technical requirement for key management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "通过分析由定性变量构成的交互汇总表来揭示变量间的联系，揭示同一变量的各个类别之间的差异，以及不同变量各个类别之间的对应关系的一种多元相依变量的统计分析技术。"
+  },
+  {
+   "cn": "射频",
+   "en": "radio frequency",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "频率范围300kHz～30GHz的高频电磁波。"
+  },
+  {
+   "cn": "循环次数",
+   "en": "circulation frequency",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "单位时间的通风换气值，即单位时间送入或排出房间的空气体积除以房间的体积，单位为以空气循环次数每小时（AC/h）表示。"
+  },
+  {
+   "cn": "频数匹配",
+   "en": "frequency matching",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.2.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "对照组与病例组中匹配因素的分布一致或相近的匹配方法。"
+  },
+  {
+   "cn": "频次分布",
+   "en": "frequency distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个变量所有取值上或类别上的观测数的分布形态。"
+  },
+  {
+   "cn": "运动频率",
+   "en": "exercise frequency",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "单位时间内运动的次数。通常是指每周运动的次数。"
+  },
+  {
+   "cn": "暴露频率",
+   "en": "exposure frequency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内接触某一因素或状况的次数。"
+  },
+  {
+   "cn": "危险频度",
+   "en": "risk frequency",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "某项危险因素在评价人群中所占的比例，反映了危险因素在人群中分布的普遍程度。"
+  },
+  {
+   "cn": "消费频次",
+   "en": "consumption frequency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "个体或群体在一定时间内食用某种食品的频率。可以用每年食用该食物的天数、一年中的用餐次数、年度进食的次数、一年内食用该食物的次数，或者一年内食用的100 克食物的份数等表示。"
+  },
+  {
+   "cn": "食物频率法",
+   "en": "food frequency questionnaire",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由被调查对象尽可能准确地回顾过去一段时间（数周、数月或数年）内各种食物消费频率及消费量，从而获得个人长期食物和营养素平均摄入量的膳食调查方法，"
+  },
+  {
+   "cn": "闪光临界频率",
+   "en": "critical flicker frequency",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "刚刚能够引起闪光融合感觉的刺激的最小频率。表现了视觉系统分辨时间能力的极限。"
+  },
+  {
+   "cn": "射频识别",
+   "en": "radio frequency identification, RFID",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.62",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过无线电信号识别特定目标并读写相关数据，而无须识别系统与特定目标之间建立机械或光学的接触的通信技术。这种技术可以安放在动植物及其加工产品的生产、加工、运输中，进行无线电信号自动识别实现食品溯源。"
+  },
+  {
+   "cn": "射频识别",
+   "en": "radio frequency identification, RFID",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.62",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过无线电信号识别特定目标并读写相关数据，而无须识别系统与特定目标之间建立机械或光学的接触的通信技术。这种技术可以安放在动植物及其加工产品的生产、加工、运输中，进行无线电信号自动识别实现食品溯源。"
+  },
+  {
+   "cn": "射频电源",
+   "en": "radio-frequency power supply",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "由信号源，功率放大器，阻抗匹配器，保护电路及工况指示器组成的过氧化氢等离子体灭菌器的等离子体驱动电源。"
+  },
+  {
+   "cn": "染色体畸变率",
+   "en": "frequency of chromosomal aberration",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "在所观察分析的中期细胞中染色体畸变所占的比率，以每百细胞中的含染色体畸变数表示。"
+  },
+  {
+   "cn": "医疗照射频度",
+   "en": "frequency of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "每年每千人口接受各种医疗照射的人次数。联合国原子辐射效应科学委员会（UNSCEAR）将其用于调查分析和统一比较世界各国、各地区电离辐射医学应用的发展趋势，并可估算医疗照射所致集体剂量等。"
+  },
+  {
+   "cn": "摄入食物频率",
+   "en": "frequency of food consumed",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "每人或特定人群在某时间范围内摄入某种食物的次数。"
+  },
+  {
+   "cn": "食物频率法",
+   "en": "food frequency questionnaire， FFQ",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食物消费量调查方法，要求被调查者回顾在特定时期内（几个月或一年）消费的食物列表中每种食物的频率。"
+  },
+  {
+   "cn": "风向频率图",
+   "en": "wind direction frequency diagram",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "将一定时期内各个风向出现的频率按比例在罗盘坐标上绘制形成的图。"
+  },
+  {
+   "cn": "高频接触物体表面",
+   "en": "high frequency contact object surfaces",
+   "source": "消毒学",
+   "wordNumber": "4.1.3.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "被人手频繁接触、易于被微生物污染的物体表面。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

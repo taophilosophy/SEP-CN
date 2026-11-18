@@ -1,0 +1,522 @@
+{
+ "key": "clarity",
+ "term": "clarity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:05:32+00:00",
+ "status": "ok",
+ "note": "variant=clarity; 审定公布名词库=507; 海峡两岸名词对照库=248; 其他来源数据库=10; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "明晰度",
+   "en": "clarity",
+   "source": "建筑学名词",
+   "wordNumber": "10.0252",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "乐器奏出的各个声音彼此分开的程度。为混响过程中直达声能和80ms以内的反射声能之和与80ms以后的反射声能之比取以10为底的对数再乘10。符号为C，单位为dB(分贝)。"
+  },
+  {
+   "cn": "澄清度",
+   "en": "clarity",
+   "source": "药学名词",
+   "wordNumber": "06.098",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "对药品溶液的浑浊程度的检测项目。在一定程度上可反映药品的质量和生产工艺水平。"
+  },
+  {
+   "cn": "清晰性",
+   "en": "clarity",
+   "source": "自动化名词",
+   "wordNumber": "04.319",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "地图清晰性",
+   "en": "map clarity",
+   "source": "测绘学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地图上的符号、色彩、图形及注记被读图者辨认的难易程度。"
+  },
+  {
+   "cn": "颜色与澄清度",
+   "en": "color and clarity",
+   "source": "药学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "药品溶液的浑浊程度。药品溶液中存在分散的微细颗粒，光穿过供试品时，有引致光散射及吸收的光学特性。"
+  },
+  {
+   "cn": "齐清定",
+   "en": "completeness;clarity and definiteness",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.027",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "稿件齐全、清楚、确定。编辑加工的基本要求之一，也是发稿的必备条件。"
+  },
+  {
+   "cn": "超声外科吸引系统",
+   "en": "clarity ultrasonic surgical aspirator system",
+   "source": "神经外科学名词",
+   "wordNumber": "16.336",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "一种在手术野的冲洗和吸引同时，利用低频超声振动将组织破碎却不伤及较大血管的手术工具。同时具有粉碎、冲洗和吸引三种功能，适用于切除神经系统的肿瘤。"
+  },
+  {
+   "cn": "微亮煤",
+   "en": "clarite",
+   "source": "地质学名词",
+   "wordNumber": "14.06.108",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "含显微组分镜质组与壳质组之和＞95%，惰质组＜5%的显微煤岩类型。其中镜质组和壳质组都不得＜5%，也不能单独达到95%。"
+  },
+  {
+   "cn": "微亮煤",
+   "en": "clarite",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "煤炭科学技术_煤田地质与勘探_煤岩",
+   "subjectName": "煤岩",
+   "publishYear": "1996",
+   "definition": "镜质组和壳质组含量之和大于95％,两者含量各不小于5%的显微煤岩类型。"
+  },
+  {
+   "cn": "微亮煤",
+   "en": "clarite",
+   "source": "地质学名词",
+   "wordNumber": "07.434",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "档案学名词",
+   "wordNumber": "05.04.026",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "线条和字符相对于背景的明暗关系。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0181",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "分子中正、负电荷的分离，存在着正极和负极的性质。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "兽医学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "细胞、细胞群、组织或个体所表现的沿着一定方向，两端具有某些不同形态特征或者生理特征的现象。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1289",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "地震波初动的方向。 "
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.184",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_电弧焊",
+   "subjectName": "电弧焊",
+   "publishYear": "2021",
+   "definition": "直流电弧焊或电弧切割时，焊件的极性。焊件接电源正极称为正极性，接负极为反极性。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "动物学名词",
+   "wordNumber": "4.0128",
+   "subjectFullName": "动物学_动物胚胎学_卵子发生",
+   "subjectName": "卵子发生",
+   "publishYear": "2021",
+   "definition": "卵子中细胞质和卵黄的分布往往有一定的规律，从卵子的一端到另一端，细胞质逐渐减少，呈现梯度分布的特性。使卵子的一端含有的细胞质较多，卵黄则很少；另一端含有较多的卵黄，细胞质却很少。"
+  },
+  {
+   "cn": "色度",
+   "en": "colority",
+   "source": "电力名词",
+   "wordNumber": "12.386",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在规定条件下,油品颜色最接近于某一号标准色板(色液)的颜色。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "植物学名词",
+   "wordNumber": "15.0030",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "根据花粉或孢子四分体时期的定向或参照其成熟形态所解释的对称性。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "植物学名词",
+   "wordNumber": "08.0383",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "植物器官、组织或细胞在形态结构、生化组成及生理功能上的不对称性。是植物细胞生长发育中的一个基本现象，也是细胞分化的基础。"
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "物理学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "澄清度",
+   "en": "clarity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地图清晰性",
+   "en": "map clarity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高音小号",
+   "en": "clarino",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "小号高音区",
+   "en": "clarino",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克拉里昂小号",
+   "en": "clarion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克拉里昂音栓",
+   "en": "clarion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔浓度",
+   "en": "molarity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "体积摩尔浓度",
+   "en": "molarity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "极性",
+   "en": "polarity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腔体",
+   "en": "cavity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稀有度",
+   "en": "rarity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大清明",
+   "en": "Great Clarity and Brightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "嵇志清峻，阮旨遥深",
+   "en": "Elevated Clarity, and Unfathomable Obscurity: the Poetic Voices of Ji Kang and Ruan Ji",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慈善事业",
+   "en": "charity",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "以人道主义为道德理念基础，由民间团体和个人自愿对社会中遇到灾难或不幸的人，实施不求回报的救助活动。发展为由社会组织通过向社会募集所需资金及相关物资和组织相关活动，为有需要的社会成员提供救助，此举更多地"
+  },
+  {
+   "cn": "施舍",
+   "en": "charity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.078",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "出于怜悯同情或积德思想，把财物、时间或爱心送给穷人或出家人的行为。"
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠≥28周的分娩次数，包括活产、死产或死胎分娩。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "慈善组织会社",
+   "en": "charity organization society",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "19世纪后半叶欧美兴起的慈善组织的联合组织，以协调整合慈善资源、提供慈善活动的效率。主张个人应该对其贫困负责；接受公共救济将损害贫民的自尊心、进取心与道德观念，致使他们依赖救济为生；贫民应尽其所能以维"
+  },
+  {
+   "cn": "关节腔",
+   "en": "articular cavity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "滑膜层与关节面所围成的腔隙。形状和大小 在不同关节上差别很大。运动度大的关节， 关节腔较为宽阔，反之较为狭窄。腔内有滑液，可滑润和营养关节软骨。腔内为负压， 可维持关节的稳固性。"
+  },
+  {
+   "cn": "关节腔穿刺",
+   "en": "joint cavity paracentesis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.34",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "在无菌技术操作下,用空针刺入关节腔内抽取积液的技术。用于了解积液性质，为临床诊断提供依据，并可向关节内注射药物以治疗关节疾病。"
+  },
+  {
+   "cn": "性别平等指数",
+   "en": "gender parity index，GPI",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "联合国开发计划署制定的人类发展指数中的一项，用来衡量社会经济发展中的性别平等状况，包括健康、教育、收入等方面，为妇女数值除以男子数值的比率。相关指标认为，这一比率越接近1，两性之间的性别平等程度就越高"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

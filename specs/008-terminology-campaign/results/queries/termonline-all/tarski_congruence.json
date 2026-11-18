@@ -1,0 +1,622 @@
+{
+ "key": "tarski congruence",
+ "term": "Tarski congruence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:17:23+00:00",
+ "status": "ok",
+ "note": "variant=Tarski congruence; 审定公布名词库=197; 海峡两岸名词对照库=106; 其他来源数据库=8; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "同余式",
+   "en": "congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余方程",
+   "en": "congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0153",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0951",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在特定代数结构的所有运算下都保持的等价关系。"
+  },
+  {
+   "cn": "乘性同余",
+   "en": "multiplicative congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0262",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "source": "数学名词",
+   "wordNumber": "03.0255",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余子群",
+   "en": "congruence subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.0319",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因子同余",
+   "en": "factor congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一次同余方程",
+   "en": "linear congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0164",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二次同余方程",
+   "en": "quadratic congruence",
+   "source": "数学名词",
+   "wordNumber": "04.0166",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "线汇",
+   "en": "line congruence",
+   "source": "数学名词",
+   "wordNumber": "08.0390",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余格",
+   "en": "congruence lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0251",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主同余",
+   "en": "principal congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0347",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主同余子群",
+   "en": "principal congruence subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.0320",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余分配代数",
+   "en": "congruence-distributive algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0348",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余可换代数",
+   "en": "congruence-permutable algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0350",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全不变同余",
+   "en": "fully invariant congruence",
+   "source": "数学名词",
+   "wordNumber": "03.0359",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全等公理",
+   "en": "axiom of congruence",
+   "source": "数学名词",
+   "wordNumber": "08.0007",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同余模代数",
+   "en": "congruence-modular algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿射等价",
+   "en": "affine congruence,affine equivalence",
+   "source": "数学名词",
+   "wordNumber": "08.0415",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "泛代数的同余[关系]",
+   "en": "congruence on universal algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0345",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，共识性",
+   "en": "consensus\",\"congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "跗节",
+   "en": "tarsus\",\"tarsi(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "睑板",
+   "en": "tarsal plate\",\"tarsus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合流",
+   "en": "confluence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "睑板",
+   "en": "tarsal plate\",\"tarsus palpebrae",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "汇集学习",
+   "en": "confluence learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相容效度",
+   "en": "congruent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "窦汇",
+   "en": "confluence of sinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "相合熔点",
+   "en": "congruent melting point",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "跗",
+   "en": "tarsus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗节",
+   "en": "tarsus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "跗骨背侧韧带",
+   "en": "dorsal ligament of tarsus\",\"dorsal tarsal ligament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗骨骨间韧带",
+   "en": "interosseous ligament of tarsus\",\"interosseous tarsal ligament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不相合熔点",
+   "en": "non-congruent melting point",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "上睑板",
+   "en": "superior tarsus\",\"tarsus superior\",\"tarsus of upper eyelid",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "下睑板",
+   "en": "inferior tarsus\",\"tarsus inferior\",\"tarsus of lower eyelid",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗骨",
+   "en": "tarsal bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "跗骨窦",
+   "en": "tarsal sinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "睑板腺",
+   "en": "tarsal gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "底线任务",
+   "en": "bottom-line tasks",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "任务调度",
+   "en": "task scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际互联网工程任务组",
+   "en": "Internet Engineering Task Force (IETF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网研究专门工作组",
+   "en": "Internet Research Task Force (IRTF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱金融行动特别工作组",
+   "en": "Financial Action Task Force on Money Laundering (FATF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "source": "马克思主义",
+   "wordNumber": "03.0105",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展进程中需要完成的、具有重大现实作用和历史进步意义的使命或工作。历史任务通常是事关全局的，具有战略意义的重大任务。如无产阶级肩负着消灭阶级剥削和压迫、实现共产主义、解放全人类的历史使命。"
+  },
+  {
+   "cn": "《拉失德史》",
+   "en": "Tarikh-i-Rashidi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0268",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "明代波斯文西域史著作，详述14 世纪中叶至16 世纪中叶新疆和中亚的历史。作者为新疆喀什噶尔人米尔咱·马黑麻·海达尔（1499—1551）。"
+  },
+  {
+   "cn": "跗管综合征",
+   "en": "tarsal tunnel syndrome，TATS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由位于踝关节内侧屈肌支持带覆盖的纤维骨性隧道内的胫后神经或其末梢分支（足内侧、足外侧和跟骨神经）受卡压后，导致的一系列足趾部症状的综合征。其临床主要表现为该部位的疼痛或感觉异常，一般存在于踝内侧及足底"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "source": "马克思主义",
+   "wordNumber": "03.0824",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。发展是党执政兴国的第一要务。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "任务中心模式",
+   "en": "task-centered model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "针对传统治疗模式费时较长、效率低下而发展出的一种有时间限制、主要适用于处理生活问题的个案工作和心理辅导模式。它希望在有限的时间范围内，达成由当事人自己选择的、明确具体而有限的目标，提高个案工作的效率。"
+  },
+  {
+   "cn": "最大的政治",
+   "en": "biggest political task",
+   "source": "马克思主义",
+   "wordNumber": "04.0182",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个政党当前及今后相当长一个历史时期的主要任务。对于执政的中国共产党来说，社会主义现代化建设是当前最大的政治，因为它代表着人民最大的利益、最根本的利益；决定着国家的前途、民族的命运。"
+  },
+  {
+   "cn": "社会主义的根本任务",
+   "en": "fundamental task of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0586",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放和发展生产力是社会主义的根本任务，是解决当代中国一切问题的关键。我国底子薄、社会主义初级阶段要求发展生产力，增强国家实力、提高人民生活水平需要发展生产力。"
+  },
+  {
+   "cn": "党的历史任务",
+   "en": "historical task of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0716",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在特定历史时期的奋斗目标。在新的世纪，继续推动社会主义现代化建设，完成祖国统一大业，维护世界和平与促进共同发展，是中国共产党肩负的重要历史任务。"
+  },
+  {
+   "cn": "民族工作主线",
+   "en": "central task in ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0155",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是新时代党的民族工作的主线，是民族地区各项工作的主线，是边疆民族地区工作的主线。"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "source": "马克思主义",
+   "wordNumber": "03.0409",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "打仗、做群众工作、生产三项任务，是毛泽东关于军队建设的重要指导思想。毛泽东早在红军时期就提出这一思想，其具体内容在各个历史时期有所变化。"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0626",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不断提高领导水平和执政水平，不断提高拒腐防变和抵御风险的能力。由以江泽民为核心的党的第三代中央领导集体提出。2002年11月8日，“进一步解决提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力这两"
+  },
+  {
+   "cn": "一个中心两个基本点",
+   "en": "one central task and two basic points",
+   "source": "马克思主义",
+   "wordNumber": "03.0610",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义初级阶段基本路线的核心内容。一个中心指以经济建设为中心；两个基本点指坚持四项基本原则，坚持改革开放。1987年中国共产党第十三次全国代表大会作出这一概括。"
+  },
+  {
+   "cn": "以经济建设为中心",
+   "en": "take economic development as the central task",
+   "source": "马克思主义",
+   "wordNumber": "03.0612",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党十一届三中全会决定把党和国家的工作重点转移到社会主义现代化建设上来，把发展生产力作为压倒一切的中心任务。这是党在总结历史经验基础上作出的战略决策，是实现党的历史性转折的一个根本性标志。"
+  },
+  {
+   "cn": "中国共产党的中心任务",
+   "en": "central task of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0823",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，从现在起，中国共产党的中心任务就是团结带领全国各族人民全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

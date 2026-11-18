@@ -1,0 +1,272 @@
+{
+ "key": "sentiments",
+ "term": "sentiments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:07:05+00:00",
+ "status": "ok",
+ "note": "variant=sentiments; 审定公布名词库=13; 海峡两岸名词对照库=2; 其他来源数据库=8; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0585",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自动判定文本中观点持有者对某一话题所表现出的态度或情绪倾向性的过程、技术和方法。例如对文本或句子的褒贬性做出判断。"
+  },
+  {
+   "cn": "情操美",
+   "en": "sentiment beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "情感与节操的高度统一之美。"
+  },
+  {
+   "cn": "情操教育",
+   "en": "sentimental education",
+   "source": "教育学名词",
+   "wordNumber": "01.246",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "培养以某种思想和社会价值观念为中心的情感和操守的教育。主要包括求知、审美、道德、信仰等方面。"
+  },
+  {
+   "cn": "网络舆情",
+   "en": "internet mediated public sentiment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.192",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "公众通过互联网表达和传播的与公共事务相关的态度、意见和情绪的总和。网络中表现出来的社情民意。网络舆情通过文字、图像、音频、视频等多种形式从论坛、即时通信、博客、社交网络服务(SNS)、微博、微信等多种"
+  },
+  {
+   "cn": "舆情",
+   "en": "public opinion;public sentiment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "公众情绪。19世纪末电报在中国出现后，一度比较集中使用该词，基本等同于“舆论”。进入21世纪以来，在调控互联网的政策下再度集中使用。主要指互联网各种传播形态里呈现的意见、情绪、倾向等有可能形成舆论的苗"
+  },
+  {
+   "cn": "筛积物",
+   "en": "sieve sediments",
+   "source": "地质学名词",
+   "wordNumber": "05.05.043",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "洪积扇沉积类型之一。几乎完全由砾石组成，没有砂、粉砂和黏土物质的沉积。是由于来源区供给的细粒物质较少，即使有少量的细粒物质，也在水流到达洪积扇尾端以前就被筛走，造成在平面上呈舌状的砾石层。"
+  },
+  {
+   "cn": "第四纪沉积物",
+   "en": "Quaternary sediments",
+   "source": "地质学名词",
+   "wordNumber": "08.04.001",
+   "subjectFullName": "地质学_第四纪地质学_第四纪沉积物与地层",
+   "subjectName": "第四纪沉积物与地层",
+   "publishYear": "2026",
+   "definition": "第四纪以来，在地球表层环境下，由各种地质作用沉积形成的物质。如河流沉积物、湖泊沉积物及海洋沉积物等。它们断续地覆盖在陆地表面和海洋底部，大多数为松散状，而未固结成岩，并常保持原有的堆积形态和原始产状。"
+  },
+  {
+   "cn": "滑坡堆积相",
+   "en": "slide sediments facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.024",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "斜坡上的母岩风化产物，被水分浸湿后，在重力作用下沿一定的滑动面整体下滑形成的堆积。多形成于雨季及多雨的年份，滑动面上常有擦痕、滑坡泥、滑坡搓碎角砾等。"
+  },
+  {
+   "cn": "土岩预松",
+   "en": "preliminary loosening of sediments",
+   "source": "冶金学名词",
+   "wordNumber": "02.0708",
+   "subjectFullName": "冶金学_采矿_露天采矿",
+   "subjectName": "露天采矿",
+   "publishYear": "2019",
+   "definition": "在水枪冲采之前将土岩预先松动的露天矿水力开采作业。"
+  },
+  {
+   "cn": "新近纪—第四纪堆积物分析法",
+   "en": "method of Neogene-Quaternary sediments",
+   "source": "地质学名词",
+   "wordNumber": "09.07.028",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "通过对新近纪—第四纪堆积物分布、成因类型、粒度、矿物、岩石成分、生物化石、厚度、变形、接触关系的观察及形成年代的测定与分析研究新构造运动的方法。是定性和定量研究新构造运动最常用的方法之一。"
+  },
+  {
+   "cn": "第四系厚度等值线图",
+   "en": "isopach map of Quaternary sediments",
+   "source": "地质学名词",
+   "wordNumber": "09.07.047",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "用等值线法反映区域第四系沉积物厚度变化的图件。"
+  },
+  {
+   "cn": "第四系厚度分析法",
+   "en": "thickness line method of Quaternary sediments",
+   "source": "地质学名词",
+   "wordNumber": "09.07.029",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "通过第四纪堆积物的厚度变化，间接反映最新地质时期地壳垂直运动幅度的方法。是地质研究法的一个主要方法。"
+  },
+  {
+   "cn": "新近系—第四系厚度等值线图",
+   "en": "isopach map of Neogene-Quaternary sediments",
+   "source": "地质学名词",
+   "wordNumber": "09.07.046",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "用等值线法反映区域新近系—第四系沉积物厚度变化的图件。编图的目的主要在于根据新近系—第四系沉积物厚度变化，分析新构造运动的性质和强度。主要适用于新构造沉降-堆积区。"
+  },
+  {
+   "cn": "自我情操",
+   "en": "self sentiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[侵蚀]相关沉积",
+   "en": "correlating sediments",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情景",
+   "en": "Sentiment and Scenery",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思与境偕",
+   "en": "Blend Sentiment with Scenery",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有心之器",
+   "en": "Objects of Intelligence and Sentiment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唯乐不可以为伪",
+   "en": "Music Allows No Expression of False Sentiment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "雕琢情性，组织辞令",
+   "en": "Ennoble One’s Sentiment to Produce Fine Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情采芬芳，比类寓意",
+   "en": "Use Analogy and Metaphor to Imply Sentiment and Meaning, and Let Passion and Style Bask in Each Other’s Fragrance and Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情操",
+   "en": "sentiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.099",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "以某一或某类事物为中心的持续稳定的情感倾向和操守。"
+  },
+  {
+   "cn": "民族感情",
+   "en": "national sentiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族成员是民族集体自我意识的表现形式，是对本民族的历史、生计方式、社会生活、文化艺术、风俗习惯和民族利益认同感的心理反映，是维系民族认同的心理纽带，伴随着民族现象的整个历史过程。民族感情应该受到尊重，"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediments",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "从水体向水底沉降的各种颗粒物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

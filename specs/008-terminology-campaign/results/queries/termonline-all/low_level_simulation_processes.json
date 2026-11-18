@@ -1,0 +1,772 @@
+{
+ "key": "low-level simulation processes",
+ "term": "low-level simulation processes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:10:38+00:00",
+ "status": "ok",
+ "note": "variant=low-level simulation processes; 审定公布名词库=9614; 海峡两岸名词对照库=2924; 其他来源数据库=455; 预公布名词数据库=398; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.291",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "通过计算机技术模拟突发事件发生过程，预测相关后果，作为编制应急预案的依据之一的模型或活动。"
+  },
+  {
+   "cn": "流程模拟",
+   "en": "process simulation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.150",
+   "subjectFullName": "化工（五）_研发与工程化_工程化研究",
+   "subjectName": "工程化研究",
+   "publishYear": "2021",
+   "definition": "以化工工艺过程的机理模型为基础，采用数学方法来描述化工过程，建立数学模型的方法。通过数学模型，进行工艺过程物料衡算、热量衡算、设备尺寸估算、能量分析和工艺参数调整模拟。"
+  },
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "化学工程名词",
+   "wordNumber": "05.034",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "仿真过程",
+   "en": "simulation process",
+   "source": "自动化名词",
+   "wordNumber": "04.641",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "工艺模拟",
+   "en": "processing simulation",
+   "source": "电子学名词",
+   "wordNumber": "14.267",
+   "subjectFullName": "电子学_半导体器件与集成电路",
+   "subjectName": "半导体器件与集成电路",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结晶过程模拟",
+   "en": "crystallization process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "针对多相、多组分传热与传质的结晶过程的模拟。"
+  },
+  {
+   "cn": "流程模拟系统",
+   "en": "process simulation system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "用于流程模拟、分析、优化的计算机软件系统，分为通用流程模拟系统和专用流程模拟系统。"
+  },
+  {
+   "cn": "过程仿真软件",
+   "en": "process simulation software",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "用数学模型代替实际装置形成的软件。是整个过程仿真培训系统的核心。"
+  },
+  {
+   "cn": "高级过程模拟",
+   "en": "advanced process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.137",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "采用图形化自动建模等技术，全面动态模拟过程系统特性的先进技术。"
+  },
+  {
+   "cn": "仿真过程时间",
+   "en": "simulation process time",
+   "source": "自动化名词",
+   "wordNumber": "04.564",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "批处理仿真",
+   "en": "batch processing simulation",
+   "source": "自动化名词",
+   "wordNumber": "04.638",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "低水平消毒",
+   "en": "low level disinfection",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.023",
+   "subjectFullName": "消化内镜学_消化内镜洗消_清洗消毒",
+   "subjectName": "清洗消毒",
+   "publishYear": "2021",
+   "definition": "能达到杀灭细菌繁殖体（分枝杆菌除外）和亲脂病毒的消毒处理标准。"
+  },
+  {
+   "cn": "低水平消毒剂",
+   "en": "low level disinfectant",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "消化内镜学_消化内镜洗消_清洗消毒",
+   "subjectName": "清洗消毒",
+   "publishYear": "2021",
+   "definition": "仅能杀灭一般细菌繁殖体和亲脂病毒，达到低水平消毒要求的消毒剂。如苯扎溴铵等季铵盐类消毒剂、氯己定等双胍类消毒剂。"
+  },
+  {
+   "cn": "低[位]能级",
+   "en": "low-lying level",
+   "source": "物理学名词",
+   "wordNumber": "08.1348",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "低级格式化",
+   "en": "low level formatting",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0460",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "将空白的磁盘划分出柱面和磁道，然后再将磁道划分为若干个扇区，每个扇区又划分出标识部分、间隔区和数据区等的过程。"
+  },
+  {
+   "cn": "低级语言",
+   "en": "low level language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0031",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "用二进制代码或符号指令表达的计算机语言。主要指机器语言或汇编语言。"
+  },
+  {
+   "cn": "低层码",
+   "en": "low-level code",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0388",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "同一元件的编码中层次最低的编码。"
+  },
+  {
+   "cn": "低空飞行",
+   "en": "low-level flight",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.047",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "距离地面或水面100m(含100m)至1 000m高度上的飞行。"
+  },
+  {
+   "cn": "低强度激光",
+   "en": "low level laser",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0525",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "枯水位",
+   "en": "low water level",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工艺模拟",
+   "en": "processing simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低级编程语言",
+   "en": "low level language",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "低潮面",
+   "en": "low water level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低级格式化",
+   "en": "low-level formatting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低级互斥",
+   "en": "low-level exclusive",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低级语言",
+   "en": "low-level language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加工水平",
+   "en": "level of processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "低放废物",
+   "en": "low-level [radioactive] waste",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模拟,仿真",
+   "en": "simulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器",
+   "en": "simulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仿真器，模拟器",
+   "en": "simulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器，仿真器",
+   "en": "simulator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "低空风切[变]",
+   "en": "low level wind shear\",\"LLWS",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "低空急流",
+   "en": "low level jet stream\",\"LLJ",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微光电视",
+   "en": "low-light level television，LLLTV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举枪瞄准",
+   "en": "level",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机模拟",
+   "en": "stochastic simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟仿真技术",
+   "en": "simulation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "低传",
+   "en": "low ball\",\"low pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低传",
+   "en": "low ball\",\"low pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击打腰部以下部位",
+   "en": "low blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仰射",
+   "en": "low shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低抛靶房",
+   "en": "low house",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低射",
+   "en": "low shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低传",
+   "en": "low pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低运球",
+   "en": "low dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低桥",
+   "en": "low bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低杠",
+   "en": "low bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低截击球",
+   "en": "low volley",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低水平消毒剂",
+   "en": "low level disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.15",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭除分枝杆菌以外的细菌繁殖体和亲脂病毒，达到消毒合格要求的消毒剂。"
+  },
+  {
+   "cn": "低水平消毒",
+   "en": "low level disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "能杀灭细菌繁殖体（分枝杆菌除外）和亲脂病毒，达到消毒合格要求所进行的消毒。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "MR模拟定位机",
+   "en": "MR simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.18",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径磁共振扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "食品模拟物",
+   "en": "food simulant",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.57",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能够接近真实地反映食品接触材料及制品中组分向与之接触的食品中的迁移，具有某类食品的典型共性，用于模拟食品进行迁移试验的测试介质。"
+  },
+  {
+   "cn": "模拟样品",
+   "en": "simulated sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.11",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "对真实样品的模仿，能表现其关键特性，对真实样品具有代表性的用于试验的样品。"
+  },
+  {
+   "cn": "过程",
+   "en": "process",
+   "source": "马克思主义",
+   "wordNumber": "01.0092",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在时间上的持续和在空间上的广延，是矛盾存在和发展的形式。唯物辩证法认为，过程是物质、运动和时间、空间的辩证统一。任何事物都是过程的集合体，都是作为过程而出现并向前发展的。"
+  },
+  {
+   "cn": "低生育水平",
+   "en": "low birthrate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_育龄妇女",
+   "subjectName": "育龄妇女",
+   "publishYear": "2025",
+   "definition": "在更替水平以下的生育水平。一般当总和生育率等于2.1时视为达到更替水平。"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<4.5（0.3）的状态。"
+  },
+  {
+   "cn": "低变体",
+   "en": "low variety",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“高变体”相对。多语社会中声望低的语言或方言。"
+  },
+  {
+   "cn": "低氧",
+   "en": "low oxygen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.24",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮堆空气中氧气浓度高于2%而低于12%的状态"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在卫生经济学评价中，一种利用计算机技术模拟政策对微观决策单元(如个人、家庭或企业)的影响及其产生的宏观效果,用于预测疾病发病或死亡趋势以及总医疗费用的决策分析模型。"
+  },
+  {
+   "cn": "X射线模拟定位机",
+   "en": "X-ray simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "用于在正式放射治疗前模拟患者治疗状态，获取患者解剖或功能信息的X射线影像设备。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "安静水平",
+   "en": "quiet level",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船的噪声强度控制到使舰员感到安静的水平，以保证舰员清晰的语言交谈，最好控制在低于56dBA。"
+  },
+  {
+   "cn": "消毒水平",
+   "en": "disinfection level",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过消毒处理所体现出对微生物杀灭能力的强度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

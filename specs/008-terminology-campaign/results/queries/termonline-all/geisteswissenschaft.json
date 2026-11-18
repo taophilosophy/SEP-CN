@@ -1,0 +1,22 @@
+{
+ "key": "geisteswissenschaft",
+ "term": "Geisteswissenschaft",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:01:47+00:00",
+ "status": "ok",
+ "note": "variant=Geisteswissenschaft; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "精神科学",
+   "en": "geisteswissenschaften",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.797",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "在德语思想传统中区别于自然科学的一切人文学科的统称。包括哲学、历史学、文献学、语言学、戏剧研究、文学、神学和法学等，通常被认为是诠释学方法论而非实证科学方法论适用的对象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

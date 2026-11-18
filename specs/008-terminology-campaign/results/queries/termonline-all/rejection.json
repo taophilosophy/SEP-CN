@@ -1,0 +1,782 @@
+{
+ "key": "rejection",
+ "term": "rejection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:00:27+00:00",
+ "status": "ok",
+ "note": "variant=rejection; 审定公布名词库=4497; 海峡两岸名词对照库=1527; 其他来源数据库=103; 预公布名词数据库=127; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "退稿",
+   "en": "rejection",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.03.019",
+   "subjectFullName": "编辑与出版学_编辑_审稿",
+   "subjectName": "审稿",
+   "publishYear": "2022",
+   "definition": "出版单位将决定不采用的稿件退还作者的编辑活动。"
+  },
+  {
+   "cn": "排斥反应",
+   "en": "rejection",
+   "source": "器官移植学名词",
+   "wordNumber": "01.018",
+   "subjectFullName": "器官移植学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "移植物作为一种异物被机体免疫系统识别并被破坏和清除的过程。"
+  },
+  {
+   "cn": "截留率",
+   "en": "rejection",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0986",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "表征膜对混合物中某组分截留能力的值。通常由该组分在原料液中的浓度和透过液中的浓度之差除以原料液中的浓度计算得到。"
+  },
+  {
+   "cn": "排斥[反应]",
+   "en": "rejection",
+   "source": "免疫学名词",
+   "wordNumber": "3.285",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_移植免疫及其他",
+   "subjectName": "移植免疫及其他",
+   "publishYear": "2007",
+   "definition": "移植物作为一种异物被机体免疫系统识别并予以破坏和清除的过程。"
+  },
+  {
+   "cn": "排斥[反应]",
+   "en": "rejection",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.220",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "排斥[反应]",
+   "en": "rejection",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.544",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "拒收",
+   "en": "rejection",
+   "source": "电子学名词",
+   "wordNumber": "18.042",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "浆渣",
+   "en": "rejects",
+   "source": "林学名词",
+   "wordNumber": "12.220",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "经过筛选或净化设备分离出来的各种杂质、粗纤维等。"
+  },
+  {
+   "cn": "拒绝反应",
+   "en": "rejection reaction",
+   "source": "植物学名词",
+   "wordNumber": "08.0128",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "成熟花粉粒传至柱头上，经过相互识别，排斥亲缘较远的异属和异种花粉粒，接受同种花粉粒，或排斥自己的(同株或同花)花粉粒，接受同种不同基因型花粉粒的过程。"
+  },
+  {
+   "cn": "否定域",
+   "en": "rejection region",
+   "source": "畜牧学名词",
+   "wordNumber": "04.647",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "假设检验中检验统计量的抽样分布中的一个区域。一旦检验统计量的计算值落入这个区域，就否定无效假设(<img src='/root/syzx/static/spz/xumuxue1.04.643.01.p"
+  },
+  {
+   "cn": "拒绝域",
+   "en": "rejection region",
+   "source": "化学名词",
+   "wordNumber": "03.0221",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在统计检验中原假设为真时，以显著性水平拒绝原假设的概率区间。"
+  },
+  {
+   "cn": "拒绝域",
+   "en": "rejection region",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0579",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "假设检验中，当检验统计量的值落入区域B时，就拒绝原假设，则称该区域B为拒绝域。"
+  },
+  {
+   "cn": "不合格判定数",
+   "en": "rejection limit",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0772",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "在计数型抽样检验中，判断检验批不合格的样本中的最小缺陷数。"
+  },
+  {
+   "cn": "禁用标记",
+   "en": "rejection mark",
+   "source": "计量学名词",
+   "wordNumber": "01.187",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "以明显的方式施加于测量仪器上表明其不符合法定要求的标记。"
+  },
+  {
+   "cn": "不合格通知书",
+   "en": "rejection notice",
+   "source": "计量学名词",
+   "wordNumber": "01.193",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "说明测量仪器被发现不符合或不再符合相关法定要求的文件。"
+  },
+  {
+   "cn": "拒绝域",
+   "en": "rejection region",
+   "source": "心理学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "统计检验中拒绝虚无假设的统计量的取值区域。是假设检验判断准则的一种表示形式。"
+  },
+  {
+   "cn": "拒识率",
+   "en": "rejection rate",
+   "source": "语言学名词",
+   "wordNumber": "11.243",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "没有被识别的输入模式的数量占被识别的所有输入模式的总数的百分比。是衡量模式识别系统性能的重要指标，其值越高则拒识率越高，系统性能越差。"
+  },
+  {
+   "cn": "排斥危象",
+   "en": "rejection crisis",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.230",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "货物拒收险",
+   "en": "rejection risks",
+   "source": "航海科技名词",
+   "wordNumber": "13.0186",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝区域",
+   "en": "rejection region",
+   "source": "数学名词",
+   "wordNumber": "09.0611",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "排斥[反应]",
+   "en": "rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拒收",
+   "en": "rejection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝反应，排斥反应",
+   "en": "rejection reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "排斥反应（=拒绝反应）",
+   "en": "rejection reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝域",
+   "en": "rejection region",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝域",
+   "en": "rejection region",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "货物拒收险",
+   "en": "rejection risks",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地物杂波消除",
+   "en": "clutter rejection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资料剔除",
+   "en": "data rejection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同伴拒绝",
+   "en": "peer rejection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "急性排斥反应",
+   "en": "acute rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "加速性排斥反应",
+   "en": "accelerated rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "慢性排斥反应",
+   "en": "chronic rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫排斥[反应]",
+   "en": "immunological rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同种移植物排斥[反应]",
+   "en": "homograft rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "移植物排斥反应",
+   "en": "graft rejection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "移植物排斥",
+   "en": "graft rejection",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拒付票据",
+   "en": "rejected bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒付支票",
+   "en": "rejected check",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒赔",
+   "en": "claims rejected",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝采样",
+   "en": "rejection sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非命",
+   "en": "Rejection of Fatalism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝权",
+   "en": "right to reject",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依法不予开放",
+   "en": "access rejected according to the law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抵制任何与病毒相关的污名",
+   "en": "to reject any stigma associated with the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection\",\"sending off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"send off\",\"ejection\",\"exclusion\",\"expulsion\",\"sending off\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超标率",
+   "en": "rejection rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在风险监测工作中，被检样品总数中超过食品标准限值的百分率。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "移植物排斥反应",
+   "en": "graft rejection",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.6.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_移植免疫",
+   "subjectName": "移植免疫",
+   "publishYear": "2025",
+   "definition": "受者免疫系统对同种异体、异种组织和器官移植物所产生的特异性免疫应答，导致移植物发生炎症、损伤和损毁的现象。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "探测效率",
+   "en": "detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在一定的探测条件下，探测器探测到的某种辐射的粒子数与在同一时间间隔内放射源所发射出的该种辐射粒子数的比值。"
+  },
+  {
+   "cn": "探测限",
+   "en": "detection limit",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "使某一测量装置所测样品中有感兴趣的事件存在时所对应的一个最小值。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "社会设计",
+   "en": "social projection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "按照任务的目的和要求，事先对所要从事的社会事业或社会改革（包括制造社会性产品）绘制蓝图，制定行动计划、方案和步骤的过程。人类活动的主观能动性的体现。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

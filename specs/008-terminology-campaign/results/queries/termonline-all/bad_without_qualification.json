@@ -1,0 +1,812 @@
+{
+ "key": "bad without qualification",
+ "term": "bad without qualification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:55:13+00:00",
+ "status": "ok",
+ "note": "variant=bad without qualification; 审定公布名词库=2175; 海峡两岸名词对照库=734; 其他来源数据库=111; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "负商品",
+   "en": "bads",
+   "source": "经济学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来负效用（disutility）或产生不舒适感的商品叫作负商品。例如，对于大多数人而言，污染是一种负商品。对于负商品，消费者倾向于选择更少而不是更多。"
+  },
+  {
+   "cn": "资格审查",
+   "en": "qualification",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0446",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "分资格预审和资格后审。招标人根据招标项目要求，在招标公告或招标邀请书中要求投标申请人提供资质、业绩和能力等证明，并对其进行审查的过程。"
+  },
+  {
+   "cn": "资历",
+   "en": "qualification",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0446",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "因任职时间与经历而获得的一种社会地位。"
+  },
+  {
+   "cn": "确认",
+   "en": "qualification",
+   "source": "药学名词",
+   "wordNumber": "06.059",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "用于证明和记录设备或辅助系统的正确安装，正确运行并得到预期结果的措施。是验证的一部分。但单个的确认步骤不能构成工艺验证。"
+  },
+  {
+   "cn": "坏账",
+   "en": "bad account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.056",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业因某种原因造成的各种无法收回的应收账款。"
+  },
+  {
+   "cn": "材质不良",
+   "en": "bad material",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0696",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "绝缘不良",
+   "en": "bad insulation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0697",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接触不良",
+   "en": "bad contact",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0699",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "坏约化",
+   "en": "bad reduction",
+   "source": "数学名词",
+   "wordNumber": "04.0362",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "资质标准",
+   "en": "qualification standard",
+   "source": "风景园林名词",
+   "wordNumber": "03.0018",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "行业主管部门依据相关法规制定的，对建筑业企业资质进行划分的标准，规定了资质的类型、等级和企业应具备的技术能力和可承担的具体工程范围。"
+  },
+  {
+   "cn": "设计资质",
+   "en": "design qualification",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.130",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "国家或行业的管理部门根据部门或个人所具备的设计能力而对其做出的授权。"
+  },
+  {
+   "cn": "合格性测试",
+   "en": "qualification testing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1168",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "设备在交付用户使用前开发商事先进行的测试。以确定产品是否合格。"
+  },
+  {
+   "cn": "资格后审",
+   "en": "post-qualification",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0448",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "在开标后对投标人进行评价投标人履行合同能力的审查。"
+  },
+  {
+   "cn": "鉴定过程",
+   "en": "qualification process",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0826",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "检查实体、货物和材料以查明是否满足所需的判定合格的规范或标准的过程。"
+  },
+  {
+   "cn": "设计资质",
+   "en": "design qualification ",
+   "source": "建筑学名词",
+   "wordNumber": "06.0049",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_执业注册",
+   "subjectName": "执业注册",
+   "publishYear": "2014",
+   "definition": "从事建设活动的企业应当具备的条件。包括注册资本、管理制度、专业技术人员、技术装备、设计业绩和固定工作场所等条件，分为甲、乙、丙三个级别。经审查合格，取得设计资质证书后，方可在资质许可的范围内从事建设活"
+  },
+  {
+   "cn": "资格考试",
+   "en": "qualification examination",
+   "source": "建筑学名词",
+   "wordNumber": "06.0041",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_执业注册",
+   "subjectName": "执业注册",
+   "publishYear": "2014",
+   "definition": "注册建筑师资格考试实行全国统一考试制度，由全国注册建筑师管理委员会统一组织、统一命题，在同一时间在全国同时进行。"
+  },
+  {
+   "cn": "合格评估",
+   "en": "qualification evaluation",
+   "source": "教育学名词",
+   "wordNumber": "08.180",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "国家教育行政部门对于新建本科院校进行的一种评估。旨在评价这类学校达到国家规定的基本的办学水平和质量标准。"
+  },
+  {
+   "cn": "职业资格",
+   "en": "vocational qualification",
+   "source": "教育学名词",
+   "wordNumber": "11.174",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "由国家或行业规定的，从事某职业所必须具备的基本条件和身份。"
+  },
+  {
+   "cn": "鉴定过程",
+   "en": "qualification process",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.041",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定试验",
+   "en": "qualification test",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.042",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呆账",
+   "en": "bad debt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块",
+   "en": "bad block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏扇区法",
+   "en": "bad sectoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合格性测试",
+   "en": "qualification testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定试验",
+   "en": "qualification test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定需求",
+   "en": "qualification requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块表",
+   "en": "bad block table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无霜日",
+   "en": "day without frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无词歌",
+   "en": "Songs Without Words",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无担保贷款",
+   "en": "loan without security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书",
+   "en": "endorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书，无担保背书",
+   "en": "indorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权贷款",
+   "en": "without-recourse financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权的汇票",
+   "en": "draft without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无放回抽样",
+   "en": "sampling without replacement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无转子硫化仪",
+   "en": "curemeter without rotator\",\"extensional rheometer\",\"vulcameter without rotator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无压余挤压",
+   "en": "extrusion without remnant material",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无钨硬质合金",
+   "en": "cemented carbide without tungsten",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次触球",
+   "en": "bad ball handing\",\"bad catching\",\"bad reception\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify\",\"qualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification heat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification\",\"qualifying round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "没有失误",
+   "en": "course without fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体资格赛",
+   "en": "competition I\",\"team qualifications",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "没有硝烟的战争",
+   "en": "a war without smoke",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轻量级四人单桨无舵手",
+   "en": "lightweight four without coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无球假动作",
+   "en": "fake without the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人全能资格赛",
+   "en": "competition I\",\"individual all-round qualifications",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "dive without limit\",\"voluntary dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不战而胜",
+   "en": "Win Without Resorting to War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卧游",
+   "en": "Enjoy Sceneries Without Physically Travelling",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安装验证",
+   "en": "installation qualification",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "提供的消毒灭菌设备按技术要求安装后，进行测试并进行文字记录的过程。"
+  },
+  {
+   "cn": "灭菌合格",
+   "en": "sterilization qualification",
+   "source": "消毒学",
+   "wordNumber": "6.2.29.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在灭菌效果评价时，对灭菌结果有效表示肯定的表述方法。"
+  },
+  {
+   "cn": "执业资格",
+   "en": "practice qualification ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "对具备一定学历的从事医疗活动的专业技术人员，通过考试和注册确定其执业的技术资格，获得相应医疗文件签字权的一种制度。"
+  },
+  {
+   "cn": "顽固性不良习惯",
+   "en": "stubborn bad habits",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "在童年某阶段身心不良诱因作用下，出现的某些刻板性的习惯动作和行为，表现为多次重复，持续较长时间，无法靠主观意志改变、纠正；虽表现形式多样，但绝大多数无特殊性精神异常。"
+  },
+  {
+   "cn": "有害健康产品征税",
+   "en": "excise taxes on bads",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品进行征税，以提高其价格，减少其需求和消费的行为。"
+  },
+  {
+   "cn": "无隔膜式电解槽",
+   "en": "electrobath without membrane",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "槽内仅设有阴阳电极，并有进、出口的封闭式电解槽。"
+  },
+  {
+   "cn": "无发展的增长",
+   "en": "growth without development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "黄宗智对中国明清时期商品化和经济不发展并存现象的一种理论解释。他认为中国明清时期的商品化主要是由人口压力推动的过密型商品化，它可能带来的增长是有限的，不会带来资本的积累，其结果是商品化和经济不发展现象"
+  },
+  {
+   "cn": "职业病诊断医师资格",
+   "en": "occupational disease diagnosis qualification",
+   "source": "放射卫生学",
+   "wordNumber": "8.4.8",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射工作人员职业健康管理",
+   "subjectName": "放射工作人员职业健康管理",
+   "publishYear": "2025",
+   "definition": "执业医师从事职业病诊断所必备的知识、技术和能力的基本要求，经专业培训考核合格。具备资格的执业医师应经卫生行政部门审核同意并颁发相关证书，方可以从事相应的职业病诊断工作。"
+  },
+  {
+   "cn": "社会保险资格",
+   "en": "qualification for social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.3",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "参加某项社会保险的身份前提条件。目前影响我国居民参加各种社会保险的身份条件因素主要有：年龄、职业、工龄等。"
+  },
+  {
+   "cn": "监测单位资质",
+   "en": "qualification of surveillance unit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "符合《健康体检管理暂行规定》要求，具备独立开展学生健康体检工作的人员和条件、能对学生健康体检状况进行个体和群体评价、分析、反馈，并提出健康指导建议的卫生保健机构或医疗机构。"
+  },
+  {
+   "cn": "监测人员资质",
+   "en": "qualification of surveillance operator",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "具有与学生健康检查工作和学生常见病防治有关的知识和技能、接受卫生行政部门培训并考核合格、有相应的专业技术证书的医疗卫生保健专业人员；主检人员应由主治（管）医（技）师以上或相应职称的专业人员担任。"
+  },
+  {
+   "cn": "去骨类禽罐头",
+   "en": "poultry can without bones",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经去骨、切块、预煮后，加入调味盐（精盐、胡椒粉、味精等）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "食品检验机构资质认定条件",
+   "en": "food testing agency qualification accreditation requirement",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.31",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "食品检验机构在组织、管理体系、检验能力、人员、环境和设施、设备和标准物质等方面应当达到的要求。"
+  },
+  {
+   "cn": "白烧类禽罐头",
+   "en": "cooked poultry can without condiments",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经切块（或不切块）、装罐，加入少许盐（或稀盐水）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质",
+   "en": "qualification of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "经卫生行政部门批准，允许为放射工作单位提供建设项目职业病危害放射防护评价、放射卫生防护检测、放射防护器材和含放射性产品检测、个人剂量监测等技术服务的资质。"
+  },
+  {
+   "cn": "不使用安全套的性行为",
+   "en": "unprotected sex/ sex without a condom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生性行为时未使用或未正确使用安全套，属于无保护性行为，会增加怀孕、感染性传播疾病的风险。"
+  },
+  {
+   "cn": "保湿无水保活运输",
+   "en": "alive transportation retaining moisture without water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.21",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "活体水产品运输过程巾采用保湿材料使其体表保持潮湿，并将温度控制在接近其生态冰温的条件"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质变更",
+   "en": "qualification alteration of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "根据放射卫生技术服务机构的申请，卫生行政部门对放射卫生技术服务的具体内容在许可批准后加以变更的行为。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质延续",
+   "en": "qualification renewal of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "放射卫生技术服务机构资质到期后，经机构申请并经卫生行政部门批准后，资质继续有效的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

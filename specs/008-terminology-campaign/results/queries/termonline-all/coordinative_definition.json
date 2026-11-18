@@ -1,0 +1,702 @@
+{
+ "key": "coordinative definition",
+ "term": "coordinative definition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:12:25+00:00",
+ "status": "ok",
+ "note": "variant=coordinative definition; 审定公布名词库=696; 海峡两岸名词对照库=368; 其他来源数据库=61; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition,intelligibility",
+   "source": "建筑学名词",
+   "wordNumber": "10.0254",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "表征语言单位可被识别的程度。脉冲响应中的有益声能(对清晰度有帮助的声能，取直达声能和50ms以内的反射声能)占全部声能的比例。符号为D，单位为dB(分贝)。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "可以通过一系列操作性陈述来给出定义。"
+  },
+  {
+   "cn": "实指定义",
+   "en": "ostensive definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "当概念的意义难以用语言定义时，可以通过举出例证的方法来给出。"
+  },
+  {
+   "cn": "非直谓定义",
+   "en": "impredicative definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "违反恶性循环原则的定义或刻画。常见于古典数学（如有界实数集的“上确界”的定义）和日常表达（如对“这个屋子里个子最高的人”的刻画）。"
+  },
+  {
+   "cn": "内含子界定",
+   "en": "intron definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子同时识别内含子5′剪接位点、分支点及3′剪接位点的过程。多见于小内含子（100～300个核苷酸）的剪接，如酿酒酵母含内含子的基因。"
+  },
+  {
+   "cn": "外显子界定",
+   "en": "exon definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0262",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子识别3′剪接位点和下一个内含子5′剪接位点，形成一个跨外显子复合物、进而将其转换为跨内含子复合物的过程。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "物理学名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "流程定义",
+   "en": "process definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0155",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中对业务流程步骤的描述。它由若干个活动组成。包括流程的基本信息、流程的开始和结束条件、组成的活动、活动间流转的规则以及流程相关数据等信息。"
+  },
+  {
+   "cn": "问题定义",
+   "en": "problem definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0081",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "问题的叙述。包括用于解决问题的数据、方法、过程和算法的描述。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性定义",
+   "en": "attribute definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据定义",
+   "en": "data definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弧定义",
+   "en": "arc definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弦定义",
+   "en": "chord definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定义阶段",
+   "en": "definition phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件定义",
+   "en": "file definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "周期性定义",
+   "en": "period definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "既定轨道",
+   "en": "definitive orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定时",
+   "en": "definitive time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定使用货币",
+   "en": "definitive money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式债券",
+   "en": "definitive bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终生刚毛",
+   "en": "definitive seta",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "终末钩",
+   "en": "definitive hook",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "终生触手",
+   "en": "definitive tentacle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有限花序",
+   "en": "definite inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协调",
+   "en": "coordination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协调",
+   "en": "coordination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协调",
+   "en": "coordination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协调人员",
+   "en": "coordinator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政策沟通",
+   "en": "policy coordination",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "事务协调器",
+   "en": "transaction coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协调发展",
+   "en": "coordinated development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裁判协调员",
+   "en": "umpire coordinator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据域定义标准",
+   "en": "data domain definition standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "协调性",
+   "en": "coordination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在运动过程中身体各器官、系统在时间和空间上相互配合完成动作的能力。"
+  },
+  {
+   "cn": "协调性服务",
+   "en": "coordinated service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "通过多主体协作、资源整合与信息共享，确保居民在不同层级医疗机构、不同健康服务场景中获得的医疗保健服务能够无缝衔接、高效协同，从而提升服务效率与整体健康效果，是社区卫生服务的核心机制之一。"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.22",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区接受产前诊断的孕产妇中确诊的先天性缺陷和/或遗传性疾病的人数，与同期当地孕产妇产前诊断人数之比。"
+  },
+  {
+   "cn": "协调市场经济",
+   "en": "coordinated market economies",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.55",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "企业主要依赖非市场关系来协调彼此的行为决策，建构自己的核心竞争力的经济形态。这些合作的非市场模式通常包括关系合同、在社会网络中借助私人信息交换而操纵网络，主要依赖合作关系而非竞争关系来打造企业的竞争优"
+  },
+  {
+   "cn": "器官捐献协调员",
+   "en": "organ donation coordinator",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "参与人体器官捐献的宣传动员、现场见证、信息采集报告等工作并协助完成人体器官捐献其他相关事务的专职或兼职人员。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "发育性协调障碍",
+   "en": "developmental coordination disorder, DCD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "在具有正常技能学习和使用情况下，协调运动技能的获得和使用显著低于儿童其生理年龄应该达到的预期水平，主要表现为动作笨拙和运动技能的缓慢或不精确的一种神经发育障碍。"
+  },
+  {
+   "cn": "20%美国风湿病学会改善",
+   "en": "American college of rheumatology 20% definition, ACR20",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度变化的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有20%的改善以及下列5项参数中至少3项有20%改善：1"
+  },
+  {
+   "cn": "50%美国风湿病学会改善",
+   "en": "American college of rheumatology 50% definition, ACR50",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度中等的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有50%的改善以及下列5项参数中至少3项有50%改善：1"
+  },
+  {
+   "cn": "70%美国风湿病学会改善",
+   "en": "American college of rheumatology 70% definition, ACR70",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度大幅变化的改善标准，是临床试验的标准结局测量指标。其定义为：关节肿胀和压痛数（28-关节计数法）有70%的改善以及下列5项参数中至少3项有70%"
+  },
+  {
+   "cn": "上下联动",
+   "en": "coordination in healthcare at different level",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "不同级别、不同类别医疗机构建立目标明确、权责清晰的分工协作机制，作为分级诊疗模式之一，旨在促进优质医疗资源下沉，推动医疗资源合理配置和纵向流动。"
+  },
+  {
+   "cn": "统筹城乡党建",
+   "en": "coordinate party building in urban and rural communities",
+   "source": "马克思主义",
+   "wordNumber": "03.0753",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在推进地方党建过程中，打破区域界限，打破条块分割，把城乡党建工作作为一个整体来对待，形成城乡基层党建工作“组织共建、党员共管、资源共享”的新格局，从而实现城乡基层党建优势互补、相互促进、协调发展。"
+  },
+  {
+   "cn": "总揽全局协调各方",
+   "en": "exercise overall leadership and coordinate the efforts of all",
+   "source": "马克思主义",
+   "wordNumber": "03.0754",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "总揽全局，就是各级党委要把主要精力放在抓方向、议大事、管全局上，有效地实施党在各个领域的政治、思想、组织的领导。协调各方，就是党委要统筹协调好党委、人大、政府、政协的关系，使各方面都能各司其职，各尽其"
+  },
+  {
+   "cn": "在计划经济内导入市场机制的模式",
+   "en": "model of planned economy with the coordination of market mechanism",
+   "source": "马克思主义",
+   "wordNumber": "05.0173",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "匈牙利经济学家亚诺什·科尔内（János Kornai）提出。认为社会主义经济运行中存在信息与经济短缺两大主要问题，必须把计划经济信息的纵向流动和市场经济信息横向流动结合起来。社会主义短缺经济，是由于"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

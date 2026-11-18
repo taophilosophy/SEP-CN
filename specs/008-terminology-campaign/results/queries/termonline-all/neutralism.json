@@ -1,0 +1,652 @@
+{
+ "key": "neutralism",
+ "term": "neutralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:16:27+00:00",
+ "status": "ok",
+ "note": "variant=neutralism; 审定公布名词库=289; 海峡两岸名词对照库=104; 其他来源数据库=11; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "无关共栖",
+   "en": "neutralism",
+   "source": "微生物学名词",
+   "wordNumber": "07.112",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "两种生活在一处的微生物，彼此生存互不影响的生存方式。"
+  },
+  {
+   "cn": "中性学说",
+   "en": "neutral theory,neutralism",
+   "source": "植物学名词",
+   "wordNumber": "02.0156",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "1968年日本学者木村资生(M. Kimura)根据分子生物学的研究提出的一种生物进化学说。认为突变大多是“中性的”，不影响核酸和蛋白质的功能，对生物个体的生存既无害处也无好处；中性突变通过随机的遗传"
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "兽医学名词",
+   "wordNumber": "16.259",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "中和抗体与病毒特异性作用，抑制病毒的繁殖，使病毒失去感染性的现象。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.331",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "用化学法去除水中过量的酸碱，使其pH达到中性的过程。"
+  },
+  {
+   "cn": "中和肌",
+   "en": "neutralizer",
+   "source": "运动医学名词",
+   "wordNumber": "01.405",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "制御与调控原动肌以便有效发挥另一种作用的肌肉。当原动肌有多种功能时，调控的肌肉参加工作，抵消原动肌的一些不应产生的功能，使动作更加准确。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralizing",
+   "source": "冶金学名词",
+   "wordNumber": "09.1105",
+   "subjectFullName": "冶金学_金属加工_热处理、表面处理",
+   "subjectName": "热处理、表面处理",
+   "publishYear": "2019",
+   "definition": "在硫酸中和槽的中和液中，对挂灰的铝合金材料进行除灰的工艺。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "物理学名词",
+   "wordNumber": "03.0137",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.220",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "用于调节酸性或碱性溶液pH值至中性的物质。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "化学名词",
+   "wordNumber": "01.0348",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "酸和碱作用生成盐和水的反应。其本质是酸中的<img src='/root/syzx/static/spz/huaxue2.01.0170.2.png'/>和碱中的<img src='/root/syz"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "药学名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "相当量的酸和碱互相作用生成盐和水。抗毒素或抗毒血清与毒素起作用，使毒素的毒性消失。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "语言学名词",
+   "wordNumber": "03.250",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "两个或多个语音成分的音系对立在某个特定环境中消失，而在其他语音环境下依然保留的现象。"
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "免疫学名词",
+   "wordNumber": "1.236",
+   "subjectFullName": "免疫学_概论_适应性免疫",
+   "subjectName": "适应性免疫",
+   "publishYear": "2007",
+   "definition": "特异性抗体通过与相应抗原决定簇结合，使毒素失去毒性、病毒失去感染敏感细胞能力、毒性酶失去酶活性等，防止病毒进入宿主细胞。"
+  },
+  {
+   "cn": "中性化",
+   "en": "neutralization",
+   "source": "电气工程名词",
+   "wordNumber": "04.081",
+   "subjectFullName": "电气工程_磁性材料",
+   "subjectName": "磁性材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "中性区",
+   "en": "neutral zone,neutral region",
+   "source": "电气工程名词",
+   "wordNumber": "01.545",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "本体论中性",
+   "en": "ontological neutrality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.590",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一个命题或判断不依赖于其本体论预设。"
+  },
+  {
+   "cn": "准中性",
+   "en": "quasi-neutrality",
+   "source": "核科学技术名词",
+   "wordNumber": "3.131",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "电子的总电荷近似等于离子的总电荷而使等离子体呈电中性的特‍性。"
+  },
+  {
+   "cn": "网络中立性",
+   "en": "net neutrality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.12",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种要求互联网服务供应商及政府应平等处理所有互联网上的数据，无差别对待它们，或不依用户、内容、网站、平台、应用、接取装置类型或通信模式不同而进行差别收费的原则。"
+  },
+  {
+   "cn": "准中性",
+   "en": "quasi-neutrality",
+   "source": "物理学名词",
+   "wordNumber": "10.0003",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电中性",
+   "en": "electric neutrality",
+   "source": "呼吸病学名词",
+   "wordNumber": "11.112",
+   "subjectFullName": "呼吸病学_体液、电解质与酸碱平衡_酸碱平衡",
+   "subjectName": "酸碱平衡",
+   "publishYear": "2018",
+   "definition": "电荷为零的物体或系统。体液作为一个整体而言，其电解质的正负离子平衡，对外不表现带电的属性。"
+  },
+  {
+   "cn": "政治中立",
+   "en": "political neutrality",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0319",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "西方文官制度的基本原则，要求文官不得参与党争和某些政治活动，并不随执政党进退。"
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "中性作用",
+   "en": "neutralism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中和值",
+   "en": "neutralization number\",\"neutralization value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中性蛋白酶",
+   "en": "neutral protease\",\"neutral proteinase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择中性",
+   "en": "selective neutrality",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中性红",
+   "en": "neutral red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中性脂肪",
+   "en": "neutral fat",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中性进化",
+   "en": "neutral evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性选择",
+   "en": "neutral selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性学说",
+   "en": "neutral theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性大气",
+   "en": "neutral atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性模",
+   "en": "neutral mode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据中立性",
+   "en": "data neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络中立性",
+   "en": "network neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中立角",
+   "en": "neutral corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员抛球",
+   "en": "neutral throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立裁判员",
+   "en": "neutral judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立圈",
+   "en": "neutral lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立区",
+   "en": "neutral zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停留时间",
+   "en": "neutralized time period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务车",
+   "en": "neutral car\",\"service van",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消除微生物与消毒剂混悬液中微生物表面残余的消毒剂，使其失去对微生物抑制或杀灭作用，但不影响试验微生物生长的试剂。"
+  },
+  {
+   "cn": "风险中立",
+   "en": "risk neutrality",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险既不规避也不追求的一种态度。选择资产的唯一标准是预期收益的大小，而不管风险状况如何，是因为所有预期收益相同的资产将带来同样的效用"
+  },
+  {
+   "cn": "中和抗体",
+   "en": "neutralizing antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "可与细菌毒素、病原体（如病毒）及其产物特异性结合并发挥中和作用的抗体。能中和毒素的毒性作用或阻断病毒感染靶细胞。"
+  },
+  {
+   "cn": "中性温度",
+   "en": "neutral temperature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "机体维持体温正常所需的代谢率和耗氧量最低时的环境温度。"
+  },
+  {
+   "cn": "中性离子表面活性剂",
+   "en": "neutral ion surfactant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "亲水基团为中性离子，作用温和、刺激性小的表面活性剂。"
+  },
+  {
+   "cn": "中性医用清洗剂",
+   "en": "neutral medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在应用浓度下，pH值6.5～7.5的医用清洗剂。"
+  },
+  {
+   "cn": "中和剂鉴定试验",
+   "en": "neutralizer appraisal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "判定所选中和剂是否符合要求能用于消毒学试验的检测。"
+  },
+  {
+   "cn": "中和产物",
+   "en": "product of neutralization",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "中和剂与消毒剂作用后的产物。"
+  },
+  {
+   "cn": "化学中和法",
+   "en": "chemical neutralization method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，加入中和剂以终止残余消毒剂抑制或杀灭试验微生物的方法。"
+  },
+  {
+   "cn": "悬液定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by suspension quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学悬液试验体系中，评价所用中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "载体定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by carrier quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学载体试验体系中，评价所用的中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "民主与集中的统一自由与纪律的统一",
+   "en": "unity of democracy and centralism and the unity of freedom and discipline",
+   "source": "马克思主义",
+   "wordNumber": "03.0397",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于民主集中制原则的解释。他在《关于正确处理人民内部矛盾的问题》中指出：“民主和集中的统一，自由和纪律的统一，就是我们的民主集中制”，“我们主张有领导的自由，主张集中指导下的民主”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

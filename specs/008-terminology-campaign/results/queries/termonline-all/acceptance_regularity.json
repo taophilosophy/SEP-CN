@@ -1,0 +1,702 @@
+{
+ "key": "acceptance regularity",
+ "term": "acceptance regularity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:18:57+00:00",
+ "status": "ok",
+ "note": "variant=acceptance regularity; 审定公布名词库=390; 海峡两岸名词对照库=167; 其他来源数据库=15; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "规则性",
+   "en": "regularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.231",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在合适条件下系统行为表现出重复的模式。"
+  },
+  {
+   "cn": "规则性",
+   "en": "regularity",
+   "source": "物理学名词",
+   "wordNumber": "01.0510",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "采用",
+   "en": "acceptance",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.03.017",
+   "subjectFullName": "编辑与出版学_编辑_审稿",
+   "subjectName": "审稿",
+   "publishYear": "2022",
+   "definition": "出版单位决定采用稿件。"
+  },
+  {
+   "cn": "接纳",
+   "en": "acceptance",
+   "source": "行为医学名词",
+   "wordNumber": "20.063",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "以开放的态度为各种痛苦情感、感受、冲动和情绪腾出空间，接受其本来的面目。"
+  },
+  {
+   "cn": "承兑",
+   "en": "acceptance",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0640",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "远期汇票付款人承诺汇票上的委托支付，即承担支付票面金额的义务而在汇票上所做的附属票据行为。"
+  },
+  {
+   "cn": "验收",
+   "en": "acceptance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验收",
+   "en": "acceptance",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.146",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接收",
+   "en": "acceptance",
+   "source": "电子学名词",
+   "wordNumber": "18.041",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正规化",
+   "en": "regularization",
+   "source": "物理学名词",
+   "wordNumber": "01.0511",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则化",
+   "en": "regularization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0340",
+   "subjectFullName": "计算机科学技术_人工智能_神经网络",
+   "subjectName": "神经网络",
+   "publishYear": "2018",
+   "definition": "为求解不适定问题或避免模型过拟合所引入的惩罚机制，以增强模型函数的光滑性。"
+  },
+  {
+   "cn": "规则古杯类",
+   "en": "regulares",
+   "source": "古生物学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "古生物学_古无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2009",
+   "definition": "具隔板的古杯动物，大致相当于隔板古杯类(septoidea)加单壁古杯类(monocyathea)。"
+  },
+  {
+   "cn": "接受度",
+   "en": "acceptability",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.07",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "患者对无创通气治疗的主观接纳程度。"
+  },
+  {
+   "cn": "接受",
+   "en": "accept",
+   "source": "行为医学名词",
+   "wordNumber": "2.093",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "因喜好而接纳外界人和事物的一种心理行为。核心是价值观的认同。实现手段是信息的累积。"
+  },
+  {
+   "cn": "良浆",
+   "en": "accepts",
+   "source": "林学名词",
+   "wordNumber": "12.219",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "经过筛选或净化设备分选出来的合格纤维。"
+  },
+  {
+   "cn": "成矿规律",
+   "en": "metallogenic regularity",
+   "source": "地质学名词",
+   "wordNumber": "14.02.029",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "矿床形成和分布的空间、时间、物质共生关系以及内在成因联系的总和与规律。如在空间上表现为成矿元素在三维空间内的分散、迁移、聚集的规律；在时间上表现为不同地质发展时期，不同阶段的矿种、矿床类型和矿化强度的"
+  },
+  {
+   "cn": "统计规律性",
+   "en": "statistical regularity",
+   "source": "物理学名词",
+   "wordNumber": "05.0473",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正则基数",
+   "en": "regularity cardinal",
+   "source": "数学名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "竣工验收",
+   "en": "completion acceptance",
+   "source": "风景园林名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "建设单位组织设计、施工、工程监理等有关单位，对施工完成的园林绿化工程项目，进行规划设计符合程度、施工和设备安装质量检验，取得竣工合格资料、数据和凭证的过程。"
+  },
+  {
+   "cn": "分部分项验收",
+   "en": "sectional acceptance",
+   "source": "风景园林名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "在工程施工中，相对于竣工验收而言，对已经完工、相对完整的分部工程或分项工程提前验收并书面确认的一种方式。"
+  },
+  {
+   "cn": "接受",
+   "en": "acceptance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "承兑",
+   "en": "acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "接收",
+   "en": "acceptance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验收",
+   "en": "acceptance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正则化",
+   "en": "regularization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "承兑汇票",
+   "en": "acceptance draft (=acceptance bill)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已承兑票据",
+   "en": "accepted draft (=accepted bill)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立构规整性",
+   "en": "steric regularity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "容许容量",
+   "en": "acceptance capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "验收抽样",
+   "en": "acceptance sampling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "验收试验",
+   "en": "acceptance test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我接纳",
+   "en": "self acceptance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴接纳",
+   "en": "peer acceptance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "接受域",
+   "en": "acceptance region",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不带保留条件的承兑",
+   "en": "clean acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销的承兑",
+   "en": "irrevocable acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "部分承兑",
+   "en": "partial acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑费",
+   "en": "acceptance fee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑汇票",
+   "en": "acceptance bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑市场",
+   "en": "acceptance market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "规律性",
+   "en": "regularity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常规赛排名",
+   "en": "regularity classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "楷书",
+   "en": "Regular Script",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正则语言",
+   "en": "regular language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则靶",
+   "en": "regular target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则双靶",
+   "en": "regular double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常规比赛",
+   "en": "regular game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前分腿",
+   "en": "front split\",\"regular split",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "案件受理辅助系统",
+   "en": "auxiliary system for case acceptance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定期数据导出备份",
+   "en": "regular data export and backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "受衔",
+   "en": "be on the bit\",\"acceptance of the bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约定俗成",
+   "en": "Established Through Popular Usage / Accepted Through Common Practice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接纳",
+   "en": "acceptance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "对所有的服务对象保持宽容、尊重的态度。这意味着不因为民族、性别、年龄、职业、社会地位、政治信仰、宗教信仰以及精神或生理等因素而对服务对象有所歧视、排斥或拒绝提供服务。"
+  },
+  {
+   "cn": "可接受性",
+   "en": "acceptability",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.9",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "食品的外观、形状、价格等对人体产生的正面或负面的感受。食物的感官性状及其评价作为生物体进化过程的产物，必然有其人群差异性和地区差异性，即不同人群和不同个体之间感官检验结果可能完全不同。"
+  },
+  {
+   "cn": "验收检测",
+   "en": "acceptance test",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.4.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备",
+   "subjectName": "放射诊疗设备",
+   "publishYear": "2025",
+   "definition": "放射诊疗设备安装完毕、更换重要部件或设备重大维修后，为鉴定其防护和性能指标是否符合约定值而进行的质量控制检测，该检测应由具有资质的放射卫生技术服务机构开展。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "文化接受",
+   "en": "cultural acceptance",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "对一种文化的某些特质或整体的采纳与吸收，并将其同化于现有文化的行为模式和内在价值体系的过程。"
+  },
+  {
+   "cn": "受理面谈",
+   "en": "interview acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "指正式咨询前的谈话，有助于求咨者消除局促紧张和咨询者对求咨者进行初步判断评估。"
+  },
+  {
+   "cn": "可接受水平",
+   "en": "acceptable level",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "风险评估者基于风险评估结果，从人群健康保护角度对某一食品安全问题所提出的可被接受的风险水平。"
+  },
+  {
+   "cn": "合规律性",
+   "en": "regularity of union",
+   "source": "马克思主义",
+   "wordNumber": "01.0035",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们的认识和实践活动与客观规律相符合。人们必须遵循和符合事物发展的客观规律，选择适当的方式方法，才能使活动的结果达到预期的目的。"
+  },
+  {
+   "cn": "可接受质量水平",
+   "en": "acceptable quality level",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.19",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "在一批产品中，允许的最大缺陷数或不合格品数的百分比或比率。"
+  },
+  {
+   "cn": "接受意愿",
+   "en": "willingness to accept",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个人放弃预防或减少疾病、伤残、死亡风险而愿意接受的货币值。"
+  },
+  {
+   "cn": "每日容许摄入量",
+   "en": "acceptable daily intake, ADI",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.8.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "人类终生每日摄入而不产生可检测到的健康危害的某化学物的量。"
+  },
+  {
+   "cn": "最高容许浓度",
+   "en": "maximum acceptable concentration, MAC",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.8.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "在慢性毒性试验中面对试验生物无影响的最高浓度和有影响的最低浓度之间的毒物阈浓度。"
+  },
+  {
+   "cn": "每日允许摄入量",
+   "en": "acceptable daily intake, ADI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.47",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入合法使用的某化学物质（如食品添加剂），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "进货检查验收制度",
+   "en": "purchase inspection and acceptance system",
+   "source": "消毒学",
+   "wordNumber": "5.2.15",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品的销售者或使用者根据国家有关规定及内部的质量管理制度，以及同生产者或其他供货者之间订立的合同的约定，对购进的产品质量进行检查，对符合法律规定或合同约定要求的予以验收的制度。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "意愿接受法",
+   "en": "willingness-to-accept approach,WTA method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.3.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "个体为放弃某些商品、服务或者预期收益而愿意接受的最小补偿金额。"
+  },
+  {
+   "cn": "放射诊疗建设项目竣工验收",
+   "en": "acceptance of construction project for radiodiagnosis and radiotherapy",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "放射诊疗建设项目施工完成后，卫生行政部门依法组织的验收，合格后该项目方可投入生产和使用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

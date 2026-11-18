@@ -1,0 +1,552 @@
+{
+ "key": "achievements",
+ "term": "achievements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:17:02+00:00",
+ "status": "ok",
+ "note": "variant=achievements; 审定公布名词库=48; 海峡两岸名词对照库=21; 其他来源数据库=8; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "成果",
+   "en": "achievement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.176",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "由法定机关（一般指科技行政部门）认可，在一定范围内经实践证明先进、成熟、适用，能取得良好经济、社会或生态环境效益的科学技术成果。其内涵与知识产权和专有技术基本一致，是无形资产中不可缺少的重要组成部分。"
+  },
+  {
+   "cn": "成就感",
+   "en": "achievability",
+   "source": "行为医学名词",
+   "wordNumber": "5.025",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体通过努力成功达到追求目标时所产生的一种心理上的满足。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "行为医学名词",
+   "wordNumber": "19.052",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "能力测验的一种。对经过教育或训练后获得的知识、技能运用于实际工作中的表现进行评定，以认定学习和训练成效。个体在测验上获得的分数代表成就高低。常见的有学业成就测验和职业成就测验。"
+  },
+  {
+   "cn": "可交付成果",
+   "en": "achievement deliverable",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.006",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "在某一过程、阶段或项目完成时，必须产出的特有并可核实的产品、成果或服务能力。"
+  },
+  {
+   "cn": "成果奖",
+   "en": "achievement award",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.178",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "主要指中国各省级人民政府或国家部委授予的科技奖项。参照国家科技奖有一些分类，基本分类是最高奖、自然科学奖、技术发明奖、科技进步奖、成果推广奖等。"
+  },
+  {
+   "cn": "成果转让",
+   "en": "achievement transfer",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.182",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "科技成果在国家、地区、行业内部或之间以及自身系统内输入与输出的活动过程。"
+  },
+  {
+   "cn": "技术成果",
+   "en": "technical achievement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.201",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "利用科学技术知识、信息和经验做出的涉及产品、工艺、材料及其改进等的技术方案。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0479",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在规定时间内对应聘者现有知识与技能进行的测验。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "心理学名词",
+   "wordNumber": "03.269",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "测量个体现有知识或技能水平的测验。包括学业成就测验和职业成就测验。"
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "心理学名词",
+   "wordNumber": "09.056",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "努力克服困难、达到预期目标的内在动力和心理倾向。"
+  },
+  {
+   "cn": "学业成就",
+   "en": "academic achievement",
+   "source": "心理学名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "在学校中的一般学科或具体技能方面获得的成就。"
+  },
+  {
+   "cn": "学业成绩测验",
+   "en": "achievement test",
+   "source": "教育学名词",
+   "wordNumber": "05.071",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国教育测验服务中心举办的一种用来测量学生对某一学科领域的知识、技能等掌握和发展情况的测验。"
+  },
+  {
+   "cn": "学业成绩评定",
+   "en": "achievement assessment",
+   "source": "教育学名词",
+   "wordNumber": "02.221",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "按一定标准对教学效果进行测定和判断的活动。"
+  },
+  {
+   "cn": "成就工资",
+   "en": "achievement wage",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.309",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "职工因工作有成就而从组织获得的加入固定收入中的永久性收入。"
+  },
+  {
+   "cn": "可达可用性",
+   "en": "achieved availability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.011",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可达点",
+   "en": "achievable point",
+   "source": "数学名词",
+   "wordNumber": "012.0092",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达率",
+   "en": "achievable rate",
+   "source": "数学名词",
+   "wordNumber": "012.0093",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达区域",
+   "en": "achievable region",
+   "source": "数学名词",
+   "wordNumber": "012.0094",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达区域",
+   "en": "achievable region",
+   "source": "电子学名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达信息率",
+   "en": "achievable rate",
+   "source": "电子学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "成就",
+   "en": "achievement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就者",
+   "en": "achiever",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就商数",
+   "en": "achievement quotient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学业成就",
+   "en": "academic achievement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "追求成就",
+   "en": "achievement striving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就需要,成就需求",
+   "en": "need for achievement\",\"achievement need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达率",
+   "en": "achievable rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达区域",
+   "en": "achievable region",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "综合成就测验",
+   "en": "comprehensive achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普通成就测验",
+   "en": "general achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机理论",
+   "en": "achievement motivation theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学业成就测验",
+   "en": "academic achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就归因理论",
+   "en": "achievement attributional theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就水平",
+   "en": "level of achievement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯坦福成就测验",
+   "en": "Stanford Achievement Test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标准化成就测验",
+   "en": "standardized achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就诊断测验",
+   "en": "Diagnostic Achievement Test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加州成就测验",
+   "en": "California Achievement Test\",\"CAT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对标达标行动",
+   "en": "benchmarking achievement action",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "率先基本实现现代化引领区",
+   "en": "pioneer zone in basically achieving modernization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "人文化成",
+   "en": "<div> Edify the Populace to Achieve a Harmonious Society</div><br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生命安全和生物安全领域的重大科技成果是国之重器。",
+   "en": "Major scientific and technological achievements in the fields of life safety and biosecurity are of vital importance to our country.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自致角色",
+   "en": "achieved role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "不依赖于个体的先赋性条件，主要依靠自己后天的努力和行动而获得的角色地位。不过，这种角色与先赋性也具有一定联系，一些自致性角色可能只为那些由于先天性因素而具有优越条件的人开放。与“先赋角色”对立。"
+  },
+  {
+   "cn": "自致性身份",
+   "en": "achieved status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "靠个人后天努力而获得的身份。比如，学历或专业技能资格等，以及基于学历和专业技能通过与他人竞争而获得的身份地位。与“先赋性身份”相对。"
+  },
+  {
+   "cn": "增长年龄",
+   "en": "achievable age",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.7",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "通过努力降低危险因素后可能达到的预期年龄，是根据已经存在的危险因素，提出可能降低危险因素的措施后预计的死亡水平计算出的评价年龄。"
+  },
+  {
+   "cn": "十三个方面成就",
+   "en": "thirteen areas of achievement",
+   "source": "马克思主义",
+   "wordNumber": "03.0814",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议从十三个方面总结了新时代历史性成就和历史性变革，即：在坚持党的全面领导上，党中央权威和集中统一领导得到有力保证，党的领导制度体系不断完善，党的领导方式更加科学，全党思想上更加统一"
+  },
+  {
+   "cn": "ALARA原则",
+   "en": "As low as reasonably achievable principle",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "全称“可合理达到的尽量低原则”。美国核管会在1960年代后期开始的核能与放射防护的争论中，于1975年12月正式提出该规则。1977年，ICRP第26号出版物提出了放射防护三原则，在防护最优化中包括了"
+  },
+  {
+   "cn": "实现国家统一是民族的愿望",
+   "en": "achieve national reunification is the nations aspiration",
+   "source": "马克思主义",
+   "wordNumber": "03.0595",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1984年，邓小平在会见香港同胞时指出：实现国家统一是民族的愿望。他创造性地提出“一国两制”的构想，使香港、澳门相继回到祖国的怀抱。和平统一是中国政府的一贯立场，但绝不排除使用武力。"
+  },
+  {
+   "cn": "中国共产党百年奋斗的四个伟大成就",
+   "en": "Four Great Achievements of the Centennial Struggle of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "03.0815",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十九届六中全会决议提出，中国共产党百年奋斗的“四个伟大成就”，即：报党领导人民浴血奋战、百折不挠，创造了新民主主义革命的伟大成就；党领导人民自力更生、发愤图强，创造了社会主义革命和建设的伟大成就；"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

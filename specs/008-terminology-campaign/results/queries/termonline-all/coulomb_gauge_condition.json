@@ -1,0 +1,742 @@
+{
+ "key": "coulomb gauge condition",
+ "term": "Coulomb gauge condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:11:59+00:00",
+ "status": "ok",
+ "note": "variant=Coulomb gauge condition; 审定公布名词库=1775; 海峡两岸名词对照库=456; 其他来源数据库=39; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "库仑规范",
+   "en": "Coulomb gauge",
+   "source": "物理学名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库[仑]",
+   "en": "coulomb",
+   "source": "电力名词",
+   "wordNumber": "01.403",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "电荷和电通量等量的SI单位。1A电流在1s之内所运送的电量。符号“C”。"
+  },
+  {
+   "cn": "库[仑]",
+   "en": "coulomb",
+   "source": "计量学名词",
+   "wordNumber": "10.045",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "国际单位制(SI)中电荷、电通量等量的单位。符号是 C。"
+  },
+  {
+   "cn": "库[仑]",
+   "en": "coulomb,C",
+   "source": "电气工程名词",
+   "wordNumber": "01.877",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "库仑力",
+   "en": "Coulomb force",
+   "source": "核科学技术名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "电荷之间的电磁相互作用‍力。"
+  },
+  {
+   "cn": "库仑激发",
+   "en": "Coulomb excitation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.187",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "通过电磁相互作用而引起的原子核激‍发。"
+  },
+  {
+   "cn": "库仑散射",
+   "en": "Coulomb scattering",
+   "source": "核科学技术名词",
+   "wordNumber": "1.306",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "由库仑相互作用引起的散射。"
+  },
+  {
+   "cn": "库仑虹",
+   "en": "Coulomb rainbow",
+   "source": "核科学技术名词",
+   "wordNumber": "1.312",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "主要由库仑相互作用引起的虹散射现‍象。"
+  },
+  {
+   "cn": "库仑势垒",
+   "en": "Coulomb barrier",
+   "source": "核科学技术名词",
+   "wordNumber": "1.317",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "弹核与靶核碰撞过程中，受到长程库仑排斥势和短程核吸引势的作用，两个相互作用势叠加所形成的一个势‍垒。"
+  },
+  {
+   "cn": "库仑破裂",
+   "en": "Coulomb failure",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1619",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "库仑破裂准则假定，若材料内部某面上的正应力 (σN)由库仑破裂准则描述的材料破裂和剪应力 (τ )满足条件： |τ |=μσN，则该面将发生破裂，式中， τ和σN分别为作用于即将出现的断裂面上的临界剪"
+  },
+  {
+   "cn": "库仑应力",
+   "en": "Coulomb stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1620",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "作用在断层面上克服摩擦阻力使断层滑动的力。 "
+  },
+  {
+   "cn": "库仑摩擦",
+   "en": "Coulomb friction",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1664",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "当剪切应力超过由摩擦系数 (常量)乘正应力得到的强度时便发生滑动的本构关系。与此形成对照，按照含速度与状态的摩擦定律，摩擦系数不是常量，而是与断层面上的滑动速率 (动态)与接触 (静态)有关。"
+  },
+  {
+   "cn": "库仑摩擦",
+   "en": "Coulomb friction",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0185",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_摩擦",
+   "subjectName": "摩擦",
+   "publishYear": "2021",
+   "definition": "摩擦力正比于法向载荷的摩擦。"
+  },
+  {
+   "cn": "库仑定律",
+   "en": "Coulomb law",
+   "source": "电力名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "表示两个带电粒子间力的定律,关系式为:<img src='/root/syzx/static/spz/dianli3.01.051.01.png'/>式中:<img src='/root/syzx/s"
+  },
+  {
+   "cn": "库仑岛",
+   "en": "Coulomb island",
+   "source": "物理学名词",
+   "wordNumber": "08.3451",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑能",
+   "en": "Coulomb energy",
+   "source": "物理学名词",
+   "wordNumber": "09.0066",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑阻塞",
+   "en": "Coulomb blockade",
+   "source": "物理学名词",
+   "wordNumber": "08.3449",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑场",
+   "en": "Coulomb field",
+   "source": "物理学名词",
+   "wordNumber": "03.0059",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑激发",
+   "en": "Coulomb excitation",
+   "source": "物理学名词",
+   "wordNumber": "09.0545",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑斥[力]",
+   "en": "Coulomb repulsion",
+   "source": "物理学名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑势垒",
+   "en": "coulomb barrier",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表",
+   "en": "gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计",
+   "en": "gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "库仑定律",
+   "en": "Coulomb's law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气泡式验潮仪",
+   "en": "bubbler gauge\",\"bubble gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自记水位计",
+   "en": "automatic gauge\",\"automatic water  gauge\",\"recording gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定向测雨器",
+   "en": "vector gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪峰计",
+   "en": "crest gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气泡水位计",
+   "en": "bubble gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表压",
+   "en": "gauge pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活塞式压力计",
+   "en": "piston gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "液位计",
+   "en": "level gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "应变仪",
+   "en": "strain gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "虹吸压力计",
+   "en": "siphon gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量器",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量规",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属片",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "椭圆量规",
+   "en": "skid gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹孔测量器",
+   "en": "plug gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风速计",
+   "en": "wind gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶场测量",
+   "en": "range gauging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量船",
+   "en": "gauging boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风速测量员",
+   "en": "wind gauge operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量网尺",
+   "en": "net measuring gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核子仪",
+   "en": "nucleonic gauge",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.1",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用放射源发射的光子和/或中子以及中子管发射的中子对各种介质进行位置检测、厚度测量、密度测量或成分分析等的仪表或装置的总称。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组空气（水）源制冷或热泵机组配置多台室内机，通过改变制冷剂流量适应各房间负荷变化的直接膨胀式空调系统。"
+  },
+  {
+   "cn": "集中空调通风系统清洗",
+   "en": "central air conditioning ventilation system cleaning",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用某些技术或方法清除集中空调通风系统风管、风口、空气处理单元和其他部件内与输送空气相接触表面以及空调冷却水塔内积聚的颗粒物、微生物的过程。"
+  },
+  {
+   "cn": "集中空调通风系统消毒",
+   "en": "central air conditioning ventilation system disinfecting",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用物理和（或）化学方法杀灭集中空调通风系统风管、冷却塔、表冷器、风口、空气处理单元和其他部件内与输送空气相接触表面以及冷却水、冷凝水、积尘中的致病微生物的过程。"
+  },
+  {
+   "cn": "无产阶级实现对同盟者领导的条件",
+   "en": "conditions for the proletariat to lead the allies successfully",
+   "source": "马克思主义",
+   "wordNumber": "03.0437",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的统一战线的原则之一。1940年3月，毛泽东在《目前抗日统一战线中的策略问题》中指出了争取中间势力的三个条件：我们有充足的力量；尊重他们的利益；我们对顽固派作坚决的斗争，并能一步一步地取得胜"
+  },
+  {
+   "cn": "特殊条件下无产阶级和大资产阶级的联盟",
+   "en": "alliance of the proletariat and the big bourgeoisie under special conditions",
+   "source": "马克思主义",
+   "wordNumber": "03.0375",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家遭受帝国主义国家侵略，民族矛盾成为主要矛盾的条件下，无产阶级与大资产阶级组成的统一战线。在中国，指抗日战争时期中国共产党与亲英美的蒋介石等大资产阶级的第二次国共合作的联盟。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

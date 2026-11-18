@@ -1,0 +1,52 @@
+{
+ "key": "utterance",
+ "term": "utterance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:56:38+00:00",
+ "status": "ok",
+ "note": "variant=utterance; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "教师语言",
+   "en": "teacher utterance",
+   "source": "教育学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在进行教育教学活动时所运用的语言。"
+  },
+  {
+   "cn": "韵律语句",
+   "en": "prosodic utterance",
+   "source": "语言学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "在韵律层级的某些分析中，指任何具有音系学意义的最大辖域。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "utterance analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赤子之心",
+   "en": "Utter Innocence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

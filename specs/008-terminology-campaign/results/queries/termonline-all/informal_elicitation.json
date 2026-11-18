@@ -1,0 +1,682 @@
+{
+ "key": "informal elicitation",
+ "term": "Informal elicitation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:16:55+00:00",
+ "status": "ok",
+ "note": "variant=Informal elicitation; 审定公布名词库=2512; 海峡两岸名词对照库=587; 其他来源数据库=577; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "情报诱导",
+   "en": "intelligence elicitation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.103",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "竞争情报搜集的一种方法。情报员在从情报搜集对象那里获取情报时所使用的互动技术和技巧，能消除情报搜集对象对机密情报的本能防备。"
+  },
+  {
+   "cn": "需求诱导",
+   "en": "requirements elicitation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0138",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种需求获取活动。通过综合运用各种手段，对利益相关者进行启发和诱导，以获得其需求。"
+  },
+  {
+   "cn": "发音人",
+   "en": "informant",
+   "source": "语言学名词",
+   "wordNumber": "07.022",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "语言或方言调查的对象人。一般是口齿清楚、发音地道、可以代表当地语言或方言基本面貌的本地母语使用者。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.09",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①与物质、能量一起构成基本的存在形式。按照信息论的定义, 信息就是不确定性的消除。②以文字、图像、音视频、姿态、纪念物等符号或空间布局、位置排序等为载体的表现形式，可以被人或其他接收端所采集、感知和识"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "经济学名词",
+   "wordNumber": "10.181",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "世界上一切事物的状态和特征的反映。它普遍存在于自然界、人类社会、人们的认识及思维过程中。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "广义指客观事物存在、运动和变化的方式、特征、规律及其表现形式。狭义指用来消除随机不确定性的东西。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0029",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "处理后的数据。可用于人们对管理和决策的支持。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "化学名词",
+   "wordNumber": "03.0341",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "(1)广义上是指将试验数据、信号中所蕴含的意义，经过加工处理变为人们所接受的知识。(2)按照信息论的观点，信息是指对事物认识不确定性的减小。"
+  },
+  {
+   "cn": "情报",
+   "en": "information",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0505",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "针对特定需求被激活的知识。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0105",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "数据的内容和含义。同样的信息可以用不同形式的数据表达。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "建筑学名词",
+   "wordNumber": "14.0800",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "用来传送一定信息量的符号、序列(例如字母、数字)或连续时间的函数(例如图像)。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "心理学名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "刺激所载有的不确定性的倒数。用比特[lg2·(1/i)]表达，其中i是刺激发生的概率。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以适合于通信、存储或处理的形式来表示的知识或消息。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "数学名词",
+   "wordNumber": "012.0005",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "电子学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息筛选",
+   "en": "information filtering,information selecting,information screening",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.231",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "对获得的大量信息进行鉴别和选择，排除虚假、不准确、已过时或无用信息，形成条理清晰、系统化的信息的过程。"
+  },
+  {
+   "cn": "速变信息",
+   "en": "fleeting information,transient information",
+   "source": "电力名词",
+   "wordNumber": "06.059",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "持续时间极短的状态的监视信息。因此,为可靠的检测和传输,要求把该信息存储于运动设备的输入部件中。"
+  },
+  {
+   "cn": "全信息",
+   "en": "complete information,comprehensive information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.210",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "认识主体关于事物运动状态及其变化方式的全方位表述。包括语法信息（外在形式）、语义信息（内在含义）和语用信息（效用价值）三个层面。"
+  },
+  {
+   "cn": "信息采集",
+   "en": "information acquisition,information collection",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.229",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "根据特定的目标和要求，将分散蕴含在不同时空领域的有关信息，通过特定的手段和措施采掘和汇聚的过程。包括对信息的收集和处理，不仅是信息工作的起点，还贯穿于信息工作全过程。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全",
+   "en": "information safety\",\"information security",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非正式应用",
+   "en": "informal usage",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非正式报告",
+   "en": "informal report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "位置信息",
+   "en": "positional information",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "信息传递",
+   "en": "information transfer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传信息",
+   "en": "genetic information",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农业气象信息",
+   "en": "agrometeorological information",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息板",
+   "en": "information board",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息聚合物",
+   "en": "informational polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息储存",
+   "en": "information storage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息高速公路",
+   "en": "information highway",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂量",
+   "en": "eliciting dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.55",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "预计在一定比例的过敏人群中产生反应的致敏原量"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度低，其成员间的互动以个人好恶、兴趣等为基础自发形成，多采取随意的、常规的方式，成员的权利、义务及彼此的关系没有明确的尤其是成文的规定。与“正式群体”相对。"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "非正规就业",
+   "en": "informal employment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "在非正规部门的就业以及在正规部门的非正规就业，如临时工、非全日制弹性就业等。就业者以家政工、独立自雇的小业主、街头小贩等为多数，共同特点是收入来源和工作不稳定，社会保障不完善。大多数社会中妇女是非正规"
+  },
+  {
+   "cn": "非正式语体",
+   "en": "informal style",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0096",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“正式语体”相对。在非正式场合使用的语体。通常语句简略，用词通俗，在比较熟悉和亲近的人之间日常交谈使用。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "向潜在的研究参与者表明研究的目的、内容、方式以及可能的影响，再由潜在的参与者自己决定是否参与研究的沟通过程。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.013",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "尊重个人自主的具体体现，包括知情和同意两方面。在医疗活动中，医务人员应向患者提供包括诊断措施及结果、治疗方案、病情预后等方面的真实、全面信息，患者或其家属有自由表达其接受或拒绝诊疗措施的权利，医务人员"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

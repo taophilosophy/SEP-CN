@@ -1,0 +1,692 @@
+{
+ "key": "seventeen-article constitution",
+ "term": "Seventeen-Article Constitution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:14:53+00:00",
+ "status": "ok",
+ "note": "variant=Seventeen-Article Constitution; 审定公布名词库=869; 海峡两岸名词对照库=251; 其他来源数据库=30; 预公布名词数据库=83; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "十七条宪法",
+   "en": "Seventeen Pieces Constitution",
+   "source": "世界历史名词",
+   "wordNumber": "02.1054",
+   "subjectFullName": "世界历史_古代中世纪_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "日本最早的成文法，相传为圣德太子制定，用汉文记述官吏、贵族必须遵守的十七条政治道德，强调以天皇为中心的国家意识，成为建立律令国家的政治原则。"
+  },
+  {
+   "cn": "文章",
+   "en": "article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.039",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "有题名且表达完整意义并独立成篇的文字作品。"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子相互连接的方式和次序，可以说明分子中原子的连接次序和键性（单、双键等）。"
+  },
+  {
+   "cn": "体质",
+   "en": "constitution",
+   "source": "运动医学名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "在遗传性和获得性基础上表现出来的人体形态结构、生理机能和心理因素等综合的、相对稳定的特征。人的生命活动和工作能力的物质基础。主要包括身体形态发育水平、生理功能水平、身体素质和运动能力发展水平、心理发展"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化学名词",
+   "wordNumber": "02.0652",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "描述组成分子的原子种类、数量及相互间的连接方式(包括单键或重键)。不考虑其空间结构。"
+  },
+  {
+   "cn": "关节",
+   "en": "article,articulation",
+   "source": "植物学名词",
+   "wordNumber": "03.0254",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "易于弯曲或分离的节。"
+  },
+  {
+   "cn": "条目",
+   "en": "article,entry",
+   "source": "语言学名词",
+   "wordNumber": "06.062",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "百科全书中由条头及其释义等组成的整体。是百科全书查检的基本单位。有时也指字典和词典中的字条、词条。"
+  },
+  {
+   "cn": "篇后注",
+   "en": "article endnote",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.073",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "置于书刊中每一篇文章之后的注释。"
+  },
+  {
+   "cn": "调稿",
+   "en": "article replacement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.049",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "对上版稿件调入、调出等的调整。"
+  },
+  {
+   "cn": "署名文章",
+   "en": "signed article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.076",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "署名表示负责的文章。"
+  },
+  {
+   "cn": "豆腐块文章",
+   "en": "tiny article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.077",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "篇幅短小的文章。"
+  },
+  {
+   "cn": "稿件布局结构",
+   "en": "article layout",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.124",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "版面中各篇稿件之间相互结合的表现形式。"
+  },
+  {
+   "cn": "触角节",
+   "en": "antennal article",
+   "source": "动物学名词",
+   "wordNumber": "5.2326",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_多足动物亚门",
+   "subjectName": "多足动物亚门",
+   "publishYear": "2021",
+   "definition": "组成触角的一个独立且不能再分的单位。"
+  },
+  {
+   "cn": "烟火制品",
+   "en": "pyrotechnic article",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.012",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "包含一种或多种烟火物质的物品。"
+  },
+  {
+   "cn": "爆炸性物品",
+   "en": "explosive article",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.008",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "包含一种或多种爆炸物质的物品。"
+  },
+  {
+   "cn": "期刊论文",
+   "en": "journal article",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "正式出版的期刊上所刊载的学术论文。"
+  },
+  {
+   "cn": "论文标识号",
+   "en": "article identifier",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.572",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "由权威机构统一分配给期刊论文的唯一的、无二义性的标识性代码。"
+  },
+  {
+   "cn": "论坛文章",
+   "en": "forum article",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0770",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在一个论坛上发布的消息。"
+  },
+  {
+   "cn": "限定的检疫物",
+   "en": "regulated article",
+   "source": "林学名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "所有可能藏匿或传播有害生物并被认定需要采取检疫措施的植物、植物产品、储存场所、包装物、运输工具、集装箱、土壤，以及其他生物、物品或材料。"
+  },
+  {
+   "cn": "产品组装",
+   "en": "article assembly",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.088",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "articulation\",\"article",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "免税品",
+   "en": "free article",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "文章理解",
+   "en": "article understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文章生成",
+   "en": "article generation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违禁物品(违禁品)",
+   "en": "prohibited articles",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成型表达",
+   "en": "constitutive expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成型启动子，组成性启动子",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成性启动子（=组成型启动子）",
+   "en": "constitutive promoter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "体质特质",
+   "en": "constitutional trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "浓度起伏",
+   "en": "constitutional fluctuation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组元空位",
+   "en": "constitutional vacancy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "组成过冷",
+   "en": "constitutional supercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本构方程",
+   "en": "constitutive equation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional undercooling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "构造异构体",
+   "en": "constitutional isomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组成单元",
+   "en": "constitutional unit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依宪治国",
+   "en": "governance of the country on the basis of its constitution",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据质点",
+   "en": "data particle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天使粒子",
+   "en": "angel particle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宪法",
+   "en": "constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0204",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中确定国家基本阶级关系和统治架构的根本法律。通常规定国家的社会制度和国家制度的基本原则，国家机关的组织和活动的基本原则，以及公民的基本权利和义务等重要内容。宪法具有最高的法律效力，是制定其他法"
+  },
+  {
+   "cn": "社会构成",
+   "en": "social constitution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上的、人与自然环境及社会相互作用形成的人类组合。自然环境、人口、社会-文化是其要素，其中自然环境和人口则是更为基本的要素。"
+  },
+  {
+   "cn": "党章",
+   "en": "Party constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0718",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章是一个政党为保证全党在政治上、思想上的一致和组织上、行动上的统一所制定的章程。一个政党的党章主要包括该党的性质、指导思想、纲领任务、组织结构、组织制度，党员的条件、权利、义务和纪律等内容。1921"
+  },
+  {
+   "cn": "斯大林宪法",
+   "en": "Stalins constitution",
+   "source": "马克思主义",
+   "wordNumber": "04.0105",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1936年通过的苏联宪法，由斯大林领导起草。斯大林称之为“世界上最民主的一部宪法”。它代替了1922年由列宁起草的苏维埃宪法。该宪法被1976年勃列日涅夫指导下制定的宪法取代。"
+  },
+  {
+   "cn": "身体素质指标",
+   "en": "constitution parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年肌肉力量、速度、耐力、爆发力、力量、投掷力、灵敏性和柔韧性等身体素质的指标。"
+  },
+  {
+   "cn": "立宪君主制",
+   "en": "constitutional monarchy",
+   "source": "马克思主义",
+   "wordNumber": "03.0069",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级国家政体的一种形式。资产阶级革命早期，因资产阶级力量薄弱，不得不与封建君主妥协。君主仍为国家最高元首，但权力受到议会和宪法不同程度的限制。按照君主权力受到限制的程度不同，又可分为二元君主立宪制"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "对十七年知识分子的评价",
+   "en": "evaluation on seventeen years of intellectuals",
+   "source": "马克思主义",
+   "wordNumber": "04.0148",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对“文化大革命”前十七年知识分子的评价。即十七年中，绝大多数知识分子，不管是科学工作者还是教育工作者，在毛泽东思想的光辉照耀下，在党的正确领导下，辛勤劳动，努力工作，取得了很大的成绩。这是邓小平在科学"
+  },
+  {
+   "cn": "新民主主义宪政",
+   "en": "newdemocratic constitutional government",
+   "source": "马克思主义",
+   "wordNumber": "03.0340",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新民主主义宪政是中国共产党在民主革命时期，主要是抗日战争时期，针对国民党的一党专政提出来的,向国民党政府争取民主自由的武器。新民主主义宪政的具体内容就是几个革命阶级联合起来对于汉奸反动派的民主专政。"
+  },
+  {
+   "cn": "体质性生长发育延迟",
+   "en": "constitutional growth delay",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "个体出生时身长与体重正常，出生后生长速度缓慢、身材矮小、青春期发育延迟的现象。"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。"
+  },
+  {
+   "cn": "食品接触用搪瓷制品",
+   "en": "enamel food contact article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.17",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触，或其成分可能转移到食品中的各种无机玻璃质材料熔凝于基体金属上并与金属形成牢固结合的材料及制品。"
+  },
+  {
+   "cn": "食品接触用玻璃制品",
+   "en": "glass food contact article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.18",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触，或其成分可能转移到食品中的各种通过熔化石英砂、石灰石和纯碱等主要原料，并经快速和受控的速率冷却后所获得的均质和各向同性的无机材料及制品。"
+  },
+  {
+   "cn": "食品接触材料及制品",
+   "en": "food contact material and article, FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，各种已经或预期可能与食品或食品添加剂（以下简称食品）接触、或其成分可能转移到食品中的材料和制品，包括食品生产、加工、包装、运输、贮存、销售和使用过程中用于食品的包装材料、容器、工具和"
+  },
+  {
+   "cn": "食品接触用橡胶材料及制品",
+   "en": "rubber food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，已经或预期可能与食品或食品添加剂（以下简称食品）接触，或其成分可能转移到食品中的，以天然橡胶、合成橡胶或经硫化的热塑性弹性体为主要原料的材料及制品。"
+  },
+  {
+   "cn": "食品接触用金属材料及制品",
+   "en": "metal food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.15",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触的各种金属（包括各种金属及合金）材料及制品。"
+  },
+  {
+   "cn": "食品接触用复合材料及制品",
+   "en": "laminated food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "由不同材质或相同材质通过黏合、热熔或其他方式复合而成的两层或两层以上的食品接触材料及制品。"
+  },
+  {
+   "cn": "食品接触用组合材料及制品",
+   "en": "assembled food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.9",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上不同材质或相同材质的材料以装配、焊接、镶嵌等方式组合而成的食品接触材料及制品。"
+  },
+  {
+   "cn": "食品接触用塑料材料及制品",
+   "en": "plastic food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "以一种或几种树脂（含树脂共混物）或其预混料、预聚物等为主要结构组分，添加必要的添加剂，在一定的温度和压力下加工制成的、介于树脂与塑料制品之间的高分子材料为塑料材料，包括塑料粒料（或切片）、粉末、母料、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

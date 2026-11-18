@@ -1,0 +1,752 @@
+{
+ "key": "non-reductive materialism",
+ "term": "non-reductive materialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:09:36+00:00",
+ "status": "ok",
+ "note": "variant=non-reductive materialism; 审定公布名词库=5012; 海峡两岸名词对照库=1559; 其他来源数据库=193; 预公布名词数据库=277; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "非晶态物质",
+   "en": "non-crystalline material",
+   "source": "农学名词",
+   "wordNumber": "09.112",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "原子做无序或短程有序排列，无法用X射线或电子衍射检测其晶体结构的矿物或其他固态物质。"
+  },
+  {
+   "cn": "非现期资料",
+   "en": "non-current material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.482",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆保存的非近期出版的图书和其他文献资料。这些资料可能具有史料价值而不时被读者利用。"
+  },
+  {
+   "cn": "非印刷资料",
+   "en": "non-print material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.026",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "不是用印刷方法制作的文献。例如缩微平片、缩微胶卷、幻灯片、电影胶卷、电影、录像资料、录音资料以及数字化的信息，如机读数据文件等。多数非印刷品资料需要通过特殊设备才能利用。"
+  },
+  {
+   "cn": "非文本资料",
+   "en": "non-textual material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与“文本资料”相对。文本资料之外的所有资料，如口述资料甚至民间的各种实物资料等。"
+  },
+  {
+   "cn": "非外借资料",
+   "en": "non-loan material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.475",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆不供外借的馆藏书刊资料。可限定在馆内一定场所内利用，禁止携出馆外。通常包括参考工具书、内部书刊、古籍善本书以及其他特藏，有时还包括期刊。为区别于一般藏书，此类图书在书标上标有专门的记号。"
+  },
+  {
+   "cn": "非馆际借阅资料",
+   "en": "non-loan material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.176",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆所收藏的、仅限本馆使用、不提供馆际借阅的文献资料。没有涵盖在馆际互借协议规定的“可外借文献”范围内，主要包括特藏文献等珍贵资料或有特殊规定的其他文献资料。"
+  },
+  {
+   "cn": "非欧姆材料",
+   "en": "non-ohmic material",
+   "source": "物理学名词",
+   "wordNumber": "03.0294",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "瘠性原料",
+   "en": "non-plastic materials,lean materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0115",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "没有塑性和黏性的物料。对硅酸盐原料起瘠化作用。用在陶瓷和耐火材料生产中，可降低配合料的可塑性以及减少坯体在干燥和烧成时的收缩。"
+  },
+  {
+   "cn": "非选择性还原法",
+   "en": "non-selective catalytic reduction",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0093",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在催化剂的作用下，还原剂与工业尾气/烟气中所有氧化性物质（包括氮氧化物、氧气）反应生成无害物的工艺方法。"
+  },
+  {
+   "cn": "非晶态磁性材料",
+   "en": "non-crystal magnetic materials",
+   "source": "电力名词",
+   "wordNumber": "01.095",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "具有高磁导率的非晶态材料。"
+  },
+  {
+   "cn": "无机非金属材料",
+   "en": "inorganic non-metallic materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "除有机高分子材料和金属材料以外的几乎所有材料的统称。如陶瓷、玻璃、水泥、耐火材料、碳材料以及以此为基体的复合材料。"
+  },
+  {
+   "cn": "非书资料",
+   "en": "non-book material,NBM",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "（1）除图书、期刊等常规出版物以外的所有文献。种类很多，按外形可分为舆图资料、录音资料、电影与录像资料、图像资料、缩微资料、手稿、乐谱、机读资料、立体人工制品与直观教具、配套文献等。（2）又称“非印刷"
+  },
+  {
+   "cn": "非吸收性缝合材料",
+   "en": "non absorbable suture material",
+   "source": "兽医学名词",
+   "wordNumber": "18.051",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "在动物体内60天后仍然保持其张力强度的缝合材料。"
+  },
+  {
+   "cn": "非金属材料阀门",
+   "en": "non-metallic material valve",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0191",
+   "subjectFullName": "化工（八）_管道_阀门",
+   "subjectName": "阀门",
+   "publishYear": "2021",
+   "definition": "阀体等零件由非金属材料制成的阀门。"
+  },
+  {
+   "cn": "非物质旅游资源",
+   "en": "non-material tourism resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.012",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "无形、不稳定，但客观存在的有吸引力的事物和现象。"
+  },
+  {
+   "cn": "选择性非催化还原",
+   "en": "selective non-catalytic reduction,SNCR",
+   "source": "电力名词",
+   "wordNumber": "24.073",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "将含有<img src='/root/syzx/static/spz/dianli3.24.073.01.png'/>基的还原剂,喷入炉膛温度为800~1100°C的区域,该还原剂迅速热分解成<img"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "压缩量",
+   "en": "reduction",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "压缩前后坯料高度的差值。即高度方向被压缩而减小的尺寸。"
+  },
+  {
+   "cn": "不锈材料",
+   "en": "non-corrosive material",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物不可降解物质",
+   "en": "non-biodegradable material",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不燃材料",
+   "en": "non-combustible material",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不燃材料",
+   "en": "non-combustible material",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "瘠性原料",
+   "en": "lean materials\",\"non-plastic materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "材料",
+   "en": "materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "材料学",
+   "en": "materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "还原性脱卤",
+   "en": "reductive dehalogenation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原性漂白",
+   "en": "reductive bleaching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原二聚",
+   "en": "reductive dimerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "还原裂解",
+   "en": "reductive pyrolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "还原烷基化",
+   "en": "reductive alkylation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "还原酰化",
+   "en": "reductive acylation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "还原消除[反应]",
+   "en": "reductive elimination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "还原性脱硫",
+   "en": "reductive desulfuration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "还原性脱卤",
+   "en": "reductive dehalogenation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非物质文化",
+   "en": "non-material culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "人类在社会历史实践过程中所创造的各种精神文化。包括自然科学、宗教、艺术、哲学、语言文字、风俗道德、法律等。与“物质文化”相对。"
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0003",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯心主义相对立。在哲学基本问题的第一个方面问题上，唯物主义主张物质第一性，精神第二性，世界的本原是物质，世界统一于物质，物质派生精神。"
+  },
+  {
+   "cn": "物化",
+   "en": "materialization",
+   "source": "马克思主义",
+   "wordNumber": "01.0133",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的概念，后在《资本论》中谈到商品价值时也使用过。指人通过劳动实践将自己的思想观念转化到劳动对象上，从而实现思想观念作为物质形态的对象性存在。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "文化唯物论",
+   "en": "cultural materialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "运用唯物论观点分析人类文化的共同要素，以探讨社会文化发展及其变化的轨迹为目的的人类学理论。美国人类学家哈里斯(M.Harris）首先提出这一理论，他强调在人类的整个社会文化体系中，具有物质性的基础因素"
+  },
+  {
+   "cn": "辩证唯物主义",
+   "en": "dialectical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0006",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的唯物主义和辩证法相统一的无产阶级的世界观和方法论，揭示了世界的本质及自然界、人类社会和思维发展的最一般规律的科学，是唯物主义的最高形式。"
+  },
+  {
+   "cn": "历史唯物主义",
+   "en": "historical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0007",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义辩证唯物主义在社会历史观中的运用，是揭示人类社会发展最一般规律的科学。其基本观点是：社会存在决定社会意识，物质生产实践及生产方式是社会历史发展的决定力量，生产力、生产关系的矛盾运动是社会发展"
+  },
+  {
+   "cn": "机械唯物主义",
+   "en": "mechanical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0108",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物主义发展的第二种形态。以孤立的、静止的、片面的观点解释自然界的一切现象和过程及认识论问题的唯物主义哲学。它具有以下局限性：机械性、形而上学性、不彻底性。主要代表人物有霍布斯（Thomas Hobb"
+  },
+  {
+   "cn": "现代唯物主义",
+   "en": "modern materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0109",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在马克思、恩格斯和列宁的著作中，现代唯物主义既是指马克思主义哲学与一切唯心主义和形而上学的旧唯物主义的原则区别，也是指包括辩证唯物主义和历史唯物主义在内的整个马克思主义哲学，已经具有唯物主义的科学形态"
+  },
+  {
+   "cn": "实践唯物主义",
+   "en": "practical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0123",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证唯物主义的世界观中，实践唯物主义是以实践为出发点和基础解释现实世界的理论，强调实践的观点是马克思主义的首要的和基本的观点，认识世界的目的在于改变世界。"
+  },
+  {
+   "cn": "偶然相遇的唯物主义",
+   "en": "aleatory materialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0075",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《相遇的唯物主义潜流》。阿尔都塞认为，马克思本人虽然意识到历史偶然论的逻辑线索，但却故意放弃了，使之成为马克思唯物主义传统中的“潜流”，以此反对经济决定论，消解唯心论与唯物论的对立。"
+  },
+  {
+   "cn": "历史地理唯物主义",
+   "en": "historicalgeographical materialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0104",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "大卫·哈维认为，马克思的历史唯物主义只注意时间维度而忽视了空间维度，必须“弥补”这一“理论空场”。他主张以马克思主义作为元理论，以地理学知识为核心，把两者结合起来建立新的历史唯物主义，即历史地理唯物主"
+  },
+  {
+   "cn": "文化唯物论",
+   "en": "Cultural Materialism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0585",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家马文·哈里斯（Marvin Harris）在其著作《文化唯物主义》中提出的理论。在该理论中，哈里斯将社会文化系统划分为四个部分，即客位行为的基础结构、客位行为的结构、客位行为的上层建筑、思"
+  },
+  {
+   "cn": "淫秽品",
+   "en": "obscene materials",
+   "source": "社会学名词",
+   "wordNumber": "3.3.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性法律",
+   "subjectName": "性法律",
+   "publishYear": "2025",
+   "definition": "以色情和性的内容作为主题，意在对观看者进行性唤起的各种书籍音像制品。"
+  },
+  {
+   "cn": "半导体材料",
+   "en": "semiconductor material",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.2.3.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "导电能力介于导体与绝缘体之间，电阻率在1mΩ·cm～1GΩ·cm范围内，可用来制作半导体器件和集成电路的电子材料。"
+  },
+  {
+   "cn": "透气材料",
+   "en": "breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等能穿透的材料。最终灭菌医疗器械包装的透气材料包括但不限于棉布、无纺布、皱纹纸等。"
+  },
+  {
+   "cn": "抗菌材料",
+   "en": "antibacterial material",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的材料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

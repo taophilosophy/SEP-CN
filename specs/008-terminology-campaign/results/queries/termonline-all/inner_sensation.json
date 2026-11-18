@@ -1,0 +1,782 @@
+{
+ "key": "inner sensation",
+ "term": "inner sensation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:02:21+00:00",
+ "status": "ok",
+ "note": "variant=inner sensation; 审定公布名词库=596; 海峡两岸名词对照库=194; 其他来源数据库=30; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。包括一般感觉（浅感觉、深感觉、复合感觉）和特殊感觉（视觉、听觉、味觉、嗅觉）。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.266",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "大脑对刺激物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "精神医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "计划生育名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "显微外科学名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤物理检查",
+   "subjectName": "周围神经损伤物理检查",
+   "publishYear": "2016",
+   "definition": "刺激作用于感觉器官，经过神经系统的信息整合所产生的对该刺激个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "心理学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对直接作用于自身的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "电气工程名词",
+   "wordNumber": "22.110",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "温度[感]觉",
+   "en": "temperature sensation,thermal sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自皮肤和黏膜的痛觉、温度觉及触觉。"
+  },
+  {
+   "cn": "深感觉",
+   "en": "deep sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自肌腱、肌肉、骨膜和关节的运动觉、位置觉和振动觉。"
+  },
+  {
+   "cn": "复合感觉",
+   "en": "combined sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "大脑顶叶皮质对深浅感觉分析、比较、整合而形成的实体觉、图形觉、两点辨别觉、定位觉和重量觉等。"
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.2.15",
+   "subjectFullName": "鼻科_鼻生理",
+   "subjectName": "鼻生理",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的嗅素作用于嗅裂中的嗅细胞产生神经冲动并传至神经中枢引起的感觉。能起到识别、报警、增加食欲和影响情绪的作用。"
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "麻醉学名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛评估",
+   "subjectName": "疼痛评估",
+   "publishYear": "2024",
+   "definition": "皮肤与黏膜的感受器位置较浅的感觉。通常包括痛觉、温觉、触觉、压觉等。"
+  },
+  {
+   "cn": "深感觉",
+   "en": "deep sensation",
+   "source": "麻醉学名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛评估",
+   "subjectName": "疼痛评估",
+   "publishYear": "2024",
+   "definition": "肌肉、肌腱、关节、韧带和骨骼等深部结构的本体感觉。主要包括位觉、振动觉、运动觉和深部组织的痛觉。"
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "兽医学名词",
+   "wordNumber": "13.159",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "皮肤和黏膜的感觉。包括触觉、痛觉、温觉和电的感觉等。"
+  },
+  {
+   "cn": "深感觉",
+   "en": "deep sensation",
+   "source": "兽医学名词",
+   "wordNumber": "13.163",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "位于皮下深处的肌肉、关节、骨、腱和韧带等，将关于肢体的位置、状态和运动等情况的冲动传到大脑，产生的深部感觉。借以调节身体在空间上的位置、方向等。"
+  },
+  {
+   "cn": "平衡感觉",
+   "en": "equilibrium sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.263",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "由身体所处位置变化引起的感觉。内耳中的半规管和前庭等是平衡感觉的器官，主要功能是感受机体姿势和运动状态（运动觉）及头部在空间的位置（位置觉）。"
+  },
+  {
+   "cn": "触觉",
+   "en": "touch sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.264",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "给皮肤施以压、触等机械刺激所引起的感觉。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "静位觉（=平衡觉）",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉，静位觉",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤[感]觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温觉",
+   "en": "warm sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉寻求",
+   "en": "sensation seeking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动觉",
+   "en": "vibration sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冷觉",
+   "en": "cold sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温度觉",
+   "en": "temperature sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肌觉",
+   "en": "muscle sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "触觉",
+   "en": "touch sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肤觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "痒觉",
+   "en": "itching sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化学感觉",
+   "en": "chemical sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内脏感觉",
+   "en": "visceral sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "位[置]觉",
+   "en": "position sensation\",\"sensation of position",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内侧轴系",
+   "en": "inner shafting\",\"inner shaft",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内美",
+   "en": "Inner Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色内环区",
+   "en": "inner blue",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色内环区",
+   "en": "inner black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色内环区",
+   "en": "inner red",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色内环区",
+   "en": "inner white",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑道内缘",
+   "en": "curb\",\"inner edge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube\",\"tube",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性灵",
+   "en": "Xingling (Inner Self)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内道",
+   "en": "inner lane\",\"inside line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内股",
+   "en": "inner thigh throw\",\"uchi-mata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兴寄",
+   "en": "Xingji (Association and Inner Sustenance)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黄心",
+   "en": "bull’s-eye\",\"gold\",\"inner gold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"central ten\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小内刈",
+   "en": "ko-uchi-gari\",\"minor inner reaping throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大内刈",
+   "en": "major inner reaping throw\",\"o-uchi-gari",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "马克思主义",
+   "wordNumber": "01.0203",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "对直接作用于感觉器官的客观事物的个别属性的反映，是整个认识过程的起点。"
+  },
+  {
+   "cn": "揉面感",
+   "en": "doughy sensation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "腹膜慢性炎症时由于腹膜增厚、肠管肠系膜粘连使得在触诊时腹壁柔韧有抵抗力，不易压陷的体征。"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "个体为获得变化的、新奇的、复杂的和强烈的感觉体验，甘愿承担可能的身体、社会、经济和法律等方面的风险而从事某活动的愿望。"
+  },
+  {
+   "cn": "触觉",
+   "en": "tactile sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对人体体表的机械接触(接触刺激）的感觉。是由压力和牵引力作用于触觉感受器而引起。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的物质微粒作用于上鼻道嗅上皮中的嗅细胞产生神经冲动传至神经中枢引起的感觉。"
+  },
+  {
+   "cn": "味觉",
+   "en": "gustatory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉。"
+  },
+  {
+   "cn": "前庭觉",
+   "en": "vestibular sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "本体觉",
+   "en": "proprioceptive sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "来自肌、腱、关节等处感受器的冲动传向大脑和小脑所产生的感觉。包括位置觉、运动觉和振动觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.8",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "挥发性物质刺激鼻腔产生的一类化学感应。由嗅神经系统和鼻三叉神经系统参与。"
+  },
+  {
+   "cn": "婚内强奸",
+   "en": "inner-marriage rape",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "婚内或同居者间未经对方同意而强行实施的性行为。此概念存在争议。同意此概念者认为任何不经对方同意的性行为均属强迫性行为，即强奸；反对者认为婚姻或同居包括了性行为义务，任何一方均有权对另一方实施性行为。"
+  },
+  {
+   "cn": "内耳气压伤",
+   "en": "inner ear barotrauma",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.3.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "在下潜或加压阶段，外界气压升高时，由于鼓室内外压力不能平衡所导致的前庭或耳蜗损伤。"
+  },
+  {
+   "cn": "管腔内表面",
+   "en": "inner surface of lumen",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "清洗消毒对象中所有腔体、管道的内表面。"
+  },
+  {
+   "cn": "内部警戒区",
+   "en": "inner cordoned off area",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.20",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "紧急情况下最初响应人员在潜在辐射危害的周围设立的一个区域，在该区域内采取防护行动和其他应急响应行动，以防止最初响应人员和公众成员免受可能的照射和污染。"
+  },
+  {
+   "cn": "自身免疫性内耳病",
+   "en": "autoimmune inner ear disease，AIED",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "免疫介导的感音神经性听力损失的疾病。主要是器官特异性的原发性内耳损伤，也可以是某些系统性自身免疫疾病累及内耳而导致。主要表现为累及双耳或单耳的进行性或波动性听力减退，部分患者伴有耳鸣、眩晕，少数可出现"
+  },
+  {
+   "cn": "人际信任",
+   "en": "inter-personal trust",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "人与人之间经过持续的、频繁的互动而产生的一种对他人言行一致性和践诺可能性的肯定、信赖和认可。与“制度信任”相对。"
+  },
+  {
+   "cn": "跨学科流动",
+   "en": "inter-science transfers",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.15",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家离开原来所学专业的职业领域而转到另一个未曾受过训练且不同于其原来工作的领域，即通常说的转行。"
+  },
+  {
+   "cn": "区域间流动",
+   "en": "inter-regional flow",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生人员在地区间的流入或流出，包括城乡流动。"
+  },
+  {
+   "cn": "机构间流动",
+   "en": "inter-institutional flow",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生人员在卫生机构间的流入或流出。"
+  },
+  {
+   "cn": "族际政治",
+   "en": "inter ethnic politics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0493",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族共同体在族际关系中运用政治手段争取、实现和维护民族利益的过程。常见的族际政治形式为族际冲突和族际合作。其中族际冲突包含民族竞争、民族战争、民族掠夺、民族压迫、民族反抗、民族分离等形式，族际合作包含"
+  },
+  {
+   "cn": "族际社会",
+   "en": "inter-ethnic society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0084",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "每一个民族在其形成和发展过程中，与其他民族发生联系，或合作共处，或冲突对抗，或同化融合的复杂社会关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

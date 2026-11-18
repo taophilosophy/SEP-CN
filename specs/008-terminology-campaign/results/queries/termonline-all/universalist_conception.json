@@ -1,0 +1,792 @@
+{
+ "key": "universalist conception",
+ "term": "universalist conception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:10:50+00:00",
+ "status": "ok",
+ "note": "variant=universalist conception; 审定公布名词库=673; 海峡两岸名词对照库=267; 其他来源数据库=52; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "兽医学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发生妊娠的行为。开始于精子和卵子的 结合。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0040",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "男女性交，两精结合，合而成形的生理过程。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.504",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "以符号或词的形式对事物本质进行的描述。包括内涵和外延，是构成命题性思想的基本要素。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "反映对象本质属性的思维形式。人类把所感知的事物的共同本质特点抽象出来并加以概括，就成为概念。表达概念的语言形式是词或词组。概念都有内涵和外延，即其含义和适用范围。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0647",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "客观事物基本属性的思维抽象，也是知识和推理的最基本组成单元，通常用一个词语加以概括。它可以通过内涵（对其本质的描述）或外延（所代表的对象的总和）来描述。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "心理学名词",
+   "wordNumber": "02.614",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以符号/词的形式对客观事物本质的描述。包括内涵和外延。"
+  },
+  {
+   "cn": "任脉",
+   "en": "conception channel,conception vessel",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0032",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "起于胞中，主胞宫和妊娠，并主一身之阴经，下出会阴，向上前行至阴毛部位，沿腹部和胸部正中线直上，经咽喉，至下颌，环绕口唇，沿面颊，分行至目眶下。"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "source": "语言学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "直接揭示所指事物的本质或属性的词。例如“电子计算机”（“电脑”属比喻说法）。"
+  },
+  {
+   "cn": "上位概念",
+   "en": "upperseat concept,upper concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.285",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "与“下位概念”相对。具有从属关系的几个概念间，外延较大的概念。它的外延完全包含着另一个概念的外延。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception,pregnancy",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "21.050",
+   "subjectFullName": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育",
+   "subjectName": "配子发生、受精和胚前期发育",
+   "publishYear": "2014",
+   "definition": "自胚泡植入至胎儿娩出的过程。"
+  },
+  {
+   "cn": "受配率",
+   "en": "conception rate",
+   "source": "兽医学名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "怀孕占配种总数的百分比。是评定牛群的发情鉴定准确与否的指标,一般要求达到 70%以上。"
+  },
+  {
+   "cn": "配种指数",
+   "en": "conception index",
+   "source": "畜牧学名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "参加配种母畜每次妊娠的平均配种情期数。"
+  },
+  {
+   "cn": "项目构思",
+   "en": "project conception",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0069",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "承包商为了满足客户提出的需求，在需求建议书所规定的条件下，为实现客户预订的目标所作的设想。"
+  },
+  {
+   "cn": "种子",
+   "en": "promoting conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0127",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "用具有补肾填精作用的药物，促使妇女受孕，治疗不孕症的治法。"
+  },
+  {
+   "cn": "隆德概念",
+   "en": "Lund concept",
+   "source": "神经外科学名词",
+   "wordNumber": "17.104",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症相关诊断和治疗",
+   "subjectName": "神经外科重症相关诊断和治疗",
+   "publishYear": "2026",
+   "definition": "一种颅脑创伤的治疗方法。强调以调节脑容量为目标，增加经毛细血管的水吸收，改善损伤脑组织微循环，进而达到控制颅内压的目的。由瑞典隆德大学医院神经外科医生卡尔-亨里克·努德斯特伦（Carl-Henrik "
+  },
+  {
+   "cn": "设计概念",
+   "en": "design concept",
+   "source": "风景园林名词",
+   "wordNumber": "07.0077",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "针对有目标和计划的风景园林创作行为及活动这一复杂过程形成的思考，并加以归纳提炼的一种思维单元。"
+  },
+  {
+   "cn": "类概念",
+   "en": "sortal concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.278",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指称一类个体对象的概念。一般认为类概念有等同性标准，即有某种原则可以判定落入该概念的两个对象是否等同。比如“树”“人”“城市”“河”等是类概念，但是“红色的”“大的”这样的概念就不是类概念。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self concept",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.082",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "个人从关系交往中获得的对自己相对稳定的主观认识过程。简言之，我们怎样看待自己。包括通过他人获得对自己的品质、能力、外表、自尊、自爱、自卑等的自我评价过程。自我概念对个人行为取向有重要影响及指导作用。"
+  },
+  {
+   "cn": "营销观念",
+   "en": "marketing concept",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.133",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "企业从事市场营销活动及管理过程的指导思想或根本看法与态度。企业在开展市场营销活动的过程中，在处理企业、顾客和社会三方利益方面所持的态度和指导思想。它在企业营销活动中起支配和指导作用。"
+  },
+  {
+   "cn": "产品观念",
+   "en": "product concept",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.158",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "企业把提高质量、降低成本作为一切活动的中心，以此扩大销售、取得利润的一种经营指导思想。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念发展",
+   "en": "concept development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念学习",
+   "en": "concept learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间概念",
+   "en": "time concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间概念",
+   "en": "space concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念形成",
+   "en": "concept formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件概念",
+   "en": "conditional concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合取概念",
+   "en": "conjunctive concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念结构",
+   "en": "concept structure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我概念",
+   "en": "self concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整体概念",
+   "en": "holistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "个体论概念",
+   "en": "individualistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模糊概念",
+   "en": "fuzzy concept",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念词典",
+   "en": "concept dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念发现",
+   "en": "concept discovery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念分类",
+   "en": "concept classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念获取",
+   "en": "concept acquisition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网概念模型",
+   "en": "IoT concept model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new concept for development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新型亚洲安全观",
+   "en": "the new Asian security concept",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济全球化观",
+   "en": "the concept of economic globalization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "the concept of global governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "境生象外",
+   "en": "Aesthetic Conception Transcends Concrete Objects Described.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确义利观",
+   "en": "the correct concept of justice and interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据挖掘：概念与技术》（〔美〕韩家炜、〔美〕米什莱恩·坎伯）",
+   "en": "Data Mining: Concepts and Techniques (Jiawei Han & Micheline Kamber, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《共建“一带一路”：理念、实践与中国的贡献》",
+   "en": "Building the Belt and Road: Concept, Practice and China’s Contribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《TCVN 9801-1-2013 信息技术 安全技术 网络安全 第1部分：概述和概念》",
+   "en": "TCVN 9801-1:2013 Information technology — Security techniques — Network security — Part 1: Overview and concepts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《KS X 0001-28-2007 信息技术 术语 第28部分：人工智能 基本概念和专家系统》",
+   "en": "KS X 0001-28:2007 Information technology — Vocabulary — Part 28: Artificial intelligence — Basic concepts and expert systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益论",
+   "en": "universalistic hedonism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.011",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "根据行为是否以社会公共利益为直接目的而确定道德规范的伦理思想。强调在保障社会公众利益的前提下，使社会公益与个人利益相统一。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "基于当前人们对生育行为的科学认识，育龄夫妇有意识地对自己妊娠行为做出的安排。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "健康研究中的一种理论框架。用于直观地描述健康相关问题的关键要素及其相互关系。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "支配人们进行道德判断、评价和道德活动的意识。它是社会物质生活条件的反映，具有时代性、民族性和阶级性。"
+  },
+  {
+   "cn": "新概念武器",
+   "en": "new concept weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "用新原理、技术、材料、能源、设计思想及结构技术研制的武器，其基本技术原理、杀伤破坏机理、作战方式、威力和部署方式有别于传统武器，主要包括新概念能量、信息、生化、认知战武器等。"
+  },
+  {
+   "cn": "新安全观",
+   "en": "new security concept",
+   "source": "马克思主义",
+   "wordNumber": "04.0194",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对“冷战”后期开始出现的一些不同于“旧安全观”即“传统安全观”的新安全观念的统称，指与“旧安全观”即“传统安全观”相对的各种新型的安全观。中国政府自20世纪90年代中期以来提出的“互信、互利、平等、协"
+  },
+  {
+   "cn": "大卫生观",
+   "en": "macro-health concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.004",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以转变卫生观念、增进有益健康的行为方式，提高公众自我保健意识和对卫生工作的参与程度，克服制约影响健康的诸多因素，推进多部门协作配合，实现“人人享有卫生保健”目标的卫生观念。"
+  },
+  {
+   "cn": "新概念信息武器",
+   "en": "new concept information weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "运用新兴技术和理念开发的、具备战略威慑和实战能力的武器系统。通常具有高度的自主化、智能化、信息化和网络化特征，能够通过信息优势和信息控制来影响敌方的决策和行动，从而实现战略和战术目标。"
+  },
+  {
+   "cn": "新概念武器损伤",
+   "en": "new concept weapon injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "新概念武器的新型杀伤因素对生物体产生生物效应和损伤作用，引起组织器官和系统的功能、形态、代谢的改变，甚至造成死亡。"
+  },
+  {
+   "cn": "新概念能量武器",
+   "en": "new concept energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "能量来源、释放方式及杀伤破坏目标/方式有别于常规武器的一类武器。包括新概念定向能武器(激光、微波/电磁脉冲等)、原子能武器(中子弹等)、动能武器(超高速化学能发射器等)和声波武器(次声波武器等)。"
+  },
+  {
+   "cn": "新思想新概念",
+   "en": "new thought and new concepts",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学",
+   "subjectName": "环境社会学",
+   "publishYear": "2025",
+   "definition": "3.14.5.1  环境流  environmental flow"
+  },
+  {
+   "cn": "新概念认知战武器",
+   "en": "new concept cognitive warfare weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "根据认知原理，利用物理、化学或生物手段干扰、改变认知过程，控制知识获取，改变思维方式，并最终影响决策，阻碍军事行动的新概念武器。"
+  },
+  {
+   "cn": "新概念武器防护",
+   "en": "protection for new concept weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器防护",
+   "subjectName": "新概念武器防护",
+   "publishYear": "2025",
+   "definition": "针对新概念武器伤害的防护，包括针对各类新型杀伤因素的评测、预警、防护和治疗。"
+  },
+  {
+   "cn": "新概念能量武器损伤",
+   "en": "injuries of new concept energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "利用高能射线、粒子束、激光等能量形式对目标进行攻击所造成的损伤。这些武器能够以极高的速度传递能量，产生巨大的破坏力和杀伤力。"
+  },
+  {
+   "cn": "新概念生化武器",
+   "en": "new concept biological and chemical weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "对传统生化进行技术改造以突出其某种杀伤破坏因素或使其具备新的杀伤破坏因素的武器，如基因武器和非致命性化学武器等。"
+  },
+  {
+   "cn": "新概念认知战武器损伤",
+   "en": "injuries of new concept weapons for cognitive war",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "新概念认知战武器对人的认知能力造成的损害，包括心理创伤、心理压力、认知功能障碍等，对个人的心理健康和认知能力产生持久的影响。这种类型的损伤可能是由于信息战、心理战或其他心理操作手段所造成。"
+  },
+  {
+   "cn": "新概念生化武器损伤",
+   "en": "injuries of new concept biological and chemical weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "利用基因武器、细菌武器、毒素武器、放射性武器及纳米武器等，通过不同作用方式导致的生物损伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

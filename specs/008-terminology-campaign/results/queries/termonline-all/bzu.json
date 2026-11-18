@@ -1,0 +1,52 @@
+{
+ "key": "bzu",
+ "term": "BzÜ",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:15:26+00:00",
+ "status": "ok",
+ "note": "variant=BzÜ; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "BZ 反应",
+   "en": "Belousov-Zhabotinski reaction,BZ reaction",
+   "source": "物理学名词",
+   "wordNumber": "11.0699",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "BZ反应",
+   "en": "Belousov-Zhabotinski reaction,BZ reaction",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "别洛索夫-扎鲍廷斯基化学反应",
+   "en": "Belousov-Zhabotinsky reaction; BZR",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.704",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "能够呈现出化学振荡现象一个典型的自组织案例。1951年别洛索夫（Belousov）发现含有溴酸盐、柠檬酸、硫酸和铈离子的溶液进行反应时，反应介质浓度呈现出周期性变化的性质。1961年，扎鲍廷斯基（Zh"
+  },
+  {
+   "cn": "毕兹",
+   "en": "BZ",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.9.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "化学名称为二苯羟乙酸-3-奎宁环酯，分子式为C₂₁H₂₃NO₃，白色或淡黄色的固体结晶，无特殊气味，不溶于水，溶于稀酸溶液，暴露途径通常为气溶胶经呼吸道吸入，属失能性毒剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

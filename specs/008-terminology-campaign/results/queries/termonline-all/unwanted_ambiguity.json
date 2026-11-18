@@ -1,0 +1,462 @@
+{
+ "key": "unwanted ambiguity",
+ "term": "unwanted ambiguity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:05:47+00:00",
+ "status": "ok",
+ "note": "variant=unwanted ambiguity; 审定公布名词库=77; 海峡两岸名词对照库=33; 其他来源数据库=4; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "非意愿妊娠",
+   "en": "unwanted pregnancy",
+   "source": "计划生育名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "不符合自己的心意和愿望的妊娠。除家庭计划外妊娠，还包括婚外、婚前的妊娠。"
+  },
+  {
+   "cn": "负面功能",
+   "en": "unwanted function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0711",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "伴随着实现基本功能而附带产生的不良功能。"
+  },
+  {
+   "cn": "无用信号",
+   "en": "unwanted signal",
+   "source": "建筑学名词",
+   "wordNumber": "11.0236",
+   "subjectFullName": "建筑学_建筑防护_防电磁辐射",
+   "subjectName": "防电磁辐射",
+   "publishYear": "2014",
+   "definition": "对有用信号接收可能产生损害作用的信号。"
+  },
+  {
+   "cn": "非意愿妊娠",
+   "en": "unwanted pregnancy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.060",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "不管是否采取避孕措施，妇女在不想妊娠时发生的妊娠。包括因避孕失败和未满足避孕需求导致的妊娠。"
+  },
+  {
+   "cn": "误动",
+   "en": "unwanted operation",
+   "source": "电气工程名词",
+   "wordNumber": "14.018",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "无用发射",
+   "en": "unwanted emission",
+   "source": "航海科技名词",
+   "wordNumber": "14.0273",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0529",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自然语言中，人或者机器对同一语言形式有多种解读的现象。"
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.809",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "语言学单位具有多于一种的意义。"
+  },
+  {
+   "cn": "多值性",
+   "en": "ambiguity",
+   "source": "航海科技名词",
+   "wordNumber": "04.0019",
+   "subjectFullName": "航海科学技术_电子航海",
+   "subjectName": "电子航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "source": "电子学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "战略模糊性",
+   "en": "strategic ambiguity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.101",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "通过有目的的模糊手段来获得个人或组织利益的方式。美国著名组织传播学者埃里克·艾森伯格(Eric.M.Eisenberg)1984年首次提出这个命题。他认为，在组织的所有层次上，一个组织的所有组织成员可"
+  },
+  {
+   "cn": "整周模糊度",
+   "en": "integer ambiguity",
+   "source": "测绘学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "接收机开始跟踪卫星信号时载波相位测量所包含的待解未知整周数。"
+  },
+  {
+   "cn": "相位多值性",
+   "en": "phase ambiguity",
+   "source": "测绘学名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "无线电相位定位设备中，相位差所呈现的整周不确定性。"
+  },
+  {
+   "cn": "二义组配",
+   "en": "ambiguity coordination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "组配标引的结果所表达的含义不准确、存在歧义的现象。"
+  },
+  {
+   "cn": "固有歧义性",
+   "en": "inherent ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0502",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "产生一个上下文无关语言的每一个上下文无关文法都是歧义文法。"
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0530",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "针对歧义现象，运用语境及其他知识，从众多解读中选择出正确解读的过程。"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntactic ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0520",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "按照给定的句法规则，分析同一自然语言句子或其片段得到不止一种句法结构的现象。"
+  },
+  {
+   "cn": "角色模糊",
+   "en": "role ambiguity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0239",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "对给定角色的期望或规定缺乏明确的理解和认知。"
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.810",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个词具有多种独立意义时出现的歧义。"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntactic ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.811",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个句子中的词能组成多种合理的句法结构时出现的歧义。"
+  },
+  {
+   "cn": "无用发射",
+   "en": "unwanted emission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多值性（模糊度）",
+   "en": "ambiguity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntax ambiguity\",\"syntactic ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "速度模糊",
+   "en": "velocity ambiguity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方位模糊",
+   "en": "azimuth ambiguity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相位多值性",
+   "en": "phase ambiguity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "固有多义性",
+   "en": "inherent ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离模糊",
+   "en": "range ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊图",
+   "en": "ambiguity diagram",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度解析",
+   "en": "ambiguity resolution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "歧义刺激，模糊刺激",
+   "en": "ambiguous stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多义密码子",
+   "en": "ambiguous codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多义密码子",
+   "en": "ambiguous codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多义文法",
+   "en": "ambiguous grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无人工厂",
+   "en": "unmanned factory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无人车间",
+   "en": "unmanned workshop",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能无人机",
+   "en": "intelligent unmanned aerial vehicle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主无人系统的智能技术",
+   "en": "smart technology for unmanned autonomous system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两个坚定不移和两个不能含糊",
+   "en": "two immovabilityand two unambiguity",
+   "source": "马克思主义",
+   "wordNumber": "03.0635",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "科学对待马克思主义的基本要求。一是必须坚持马克思主义的立场、观点、方法，坚持马克思主义的基本原理，这一点要坚定不移，不能含糊。二是一定要贯彻解放思想、实事求是的思想路线，坚持勇于追求真理和探索真理的革"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

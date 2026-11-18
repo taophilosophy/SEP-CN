@@ -1,0 +1,682 @@
+{
+ "key": "offence",
+ "term": "offence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:00:41+00:00",
+ "status": "ok",
+ "note": "variant=offence; 审定公布名词库=225; 海峡两岸名词对照库=38; 其他来源数据库=57; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "应激犯罪",
+   "en": "stress offence",
+   "source": "心理学名词",
+   "wordNumber": "13.024",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "行为人在出乎预料的突发情境状态中，因高度紧张和压力导致实施的犯罪。"
+  },
+  {
+   "cn": "办公室",
+   "en": "office",
+   "source": "建筑学名词",
+   "wordNumber": "02.0115",
+   "subjectFullName": "建筑学_建筑类型及组成_办公建筑",
+   "subjectName": "办公建筑",
+   "publishYear": "2014",
+   "definition": "用于从事办公活动的房间。"
+  },
+  {
+   "cn": "围栏",
+   "en": "fence ",
+   "source": "草学名词",
+   "wordNumber": "1.0059",
+   "subjectFullName": "草学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "售票处",
+   "en": "booking office,ticket office",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0019",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "问讯处",
+   "en": "information office,inquiry office",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0022",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "行李房",
+   "en": "luggage office,baggage office",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0018",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "性防卫",
+   "en": "sexual defence",
+   "source": "计划生育名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "保护自己免受性侵害的行为和措施。"
+  },
+  {
+   "cn": "防区",
+   "en": "defence area",
+   "source": "建筑学名词",
+   "wordNumber": "14.0639",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "利用探测器(包括紧急报警装置)对防护对象实施防护，并在控制设备上能明确显示报警部位的区域。"
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.053",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "动物保卫其所占领域免遭同种或他种个体侵犯的行为。"
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中职虫聚集围歼入侵者或修补被损窝巢的行为。"
+  },
+  {
+   "cn": "免疫防御",
+   "en": "immune defence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.388",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "公寓式办公楼",
+   "en": "apartment-office building,small office home office,SOHO",
+   "source": "建筑学名词",
+   "wordNumber": "02.0108",
+   "subjectFullName": "建筑学_建筑类型及组成_办公建筑",
+   "subjectName": "办公建筑",
+   "publishYear": "2014",
+   "definition": "由一种或数种平面单元组成，单元内设有办公、会客空间、卧室、厨房和卫生间等房间的办公建筑。"
+  },
+  {
+   "cn": "防护栅",
+   "en": "safety fence,guard fence",
+   "source": "土木工程名词",
+   "wordNumber": "07.217",
+   "subjectFullName": "土木工程_城市道路工程_道路附属设施",
+   "subjectName": "道路附属设施",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防护栅",
+   "en": "guard fence,safety fence",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.490",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "衙署",
+   "en": "government office",
+   "source": "风景园林名词",
+   "wordNumber": "04.0177",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "中国古代官吏处理公务的建筑场所。"
+  },
+  {
+   "cn": "报馆",
+   "en": "newspaper office",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.196",
+   "subjectFullName": "新闻学与传播学_新闻史_新闻史研究",
+   "subjectName": "新闻史研究",
+   "publishYear": "2022",
+   "definition": "旧中国对新闻事业机构办公所在地的统称或习称。"
+  },
+  {
+   "cn": "编辑所",
+   "en": "editorial office ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.080",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "近代中国出版企业中负责管理编辑业务的部门，也有叫“编译所”的。"
+  },
+  {
+   "cn": "发行所",
+   "en": "distribution office",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.081",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "近代中国出版企业中负责管理发行业务的部门。"
+  },
+  {
+   "cn": "印刷所",
+   "en": "printing office",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.082",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "近代中国大型出版企业中负责管理印刷业务的部门。"
+  },
+  {
+   "cn": "报社",
+   "en": "newspaper office",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.003",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒产业",
+   "subjectName": "传媒产业",
+   "publishYear": "2022",
+   "definition": "依法依规设立的，以编辑出版报纸为主业的信息服务类机构。"
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "总公司",
+   "en": "head office",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内业",
+   "en": "office work",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内业计算",
+   "en": "office computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "办公过程",
+   "en": "office process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "办公活动",
+   "en": "office activity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "办公流程",
+   "en": "office procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被叫局",
+   "en": "called office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本地[交换]局",
+   "en": "local office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无纸办公室",
+   "en": "paperless office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长途局",
+   "en": "toll office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终端局",
+   "en": "terminal office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫局",
+   "en": "calling office",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "办公自动化",
+   "en": "office automation\",\"OA",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "端局",
+   "en": "end office\",\"EO",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定位格网",
+   "en": "harbor defence grid",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分公司制度",
+   "en": "brand office system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总公司管理费",
+   "en": "head office expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总公司账户",
+   "en": "head office account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "offense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栅栏",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外场屏障",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序犯规",
+   "en": "offense of order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违反体育道德",
+   "en": "offense of sportsmanship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纪律犯规",
+   "en": "offense of discipline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛中犯规",
+   "en": "offense while fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序犯规",
+   "en": "offense of order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违纪",
+   "en": "offense of discipline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违反体育道德",
+   "en": "offense of sportsmanship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻犯规",
+   "en": "offense foul\",\"offensive foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻阵型",
+   "en": "attack formation\",\"offense system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享办公",
+   "en": "shared office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检疫所",
+   "en": "quarantine office",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成绩统计办公室",
+   "en": "classification office",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录处",
+   "en": "registration office",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破区域联防",
+   "en": "offense against zone defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍",
+   "en": "fence\",\"hoarding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "食品防护",
+   "en": "food defence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为防范与消除以危害和破坏为目的的食品蓄意污染和破坏以及食品犯罪和恐怖主义等而实施的保护行为。"
+  },
+  {
+   "cn": "街道办事处",
+   "en": "street office，sub-district office",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "市辖区、不设区的市的人民政府设立的派出机关，是城市地区的基层行政组织。一般由主任、副主任主持工作，主要是办理市辖区、不设区的市人民政府交办的有关居民的事项，指导居民委员会的工作，反映居民的意见和要求。"
+  },
+  {
+   "cn": "省级人体器官捐献办公室",
+   "en": "provincial human organ donation office",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.068",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "负责所在省级行政区域内的器官捐献有关事务的机构。具体业务包括：器官捐献宣传，招募管理志愿者队伍，开展培训与评估，登记相关信息，对器官获取分配过程进行监督，接收政府拨款与社会捐赠，协调省级人体器官捐献专"
+  },
+  {
+   "cn": "积极防御巩固国防",
+   "en": "active defenseing and strengthening national defence",
+   "source": "马克思主义",
+   "wordNumber": "04.0161",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国当前反侵略战争所采取的方针。积极防御本身不只是防御，防御中有进攻，本身就包括持久作战。"
+  },
+  {
+   "cn": "斯大林格勒保卫战",
+   "en": "battle for the defence of Stalingrad",
+   "source": "马克思主义",
+   "wordNumber": "04.0245",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联卫国战争中的决定性战役，第二次世界大战的转折点。1942年，德军集中了150万人的兵力，继续大举进攻苏联。7月17日，迫近斯大林格勒，双方展开激战。9月13日，德军窜入市内，双方展开巷战。斯大林发"
+  },
+  {
+   "cn": "干部职务任期制度",
+   "en": "system of office tenure for cadres",
+   "source": "马克思主义",
+   "wordNumber": "03.0523",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "规定党和国家领导工作人员任职期限或届数限制的制度。1980年邓小平提出，对各级各类领导干部(包括选举产生、委任和聘用的)职务的任期，以及离休、退休，要按照不同情况，作出适当的、明确的规定。这一制度的实"
+  },
+  {
+   "cn": "奴儿干都司",
+   "en": "Nu Ergan Army and Governmental Office",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0254",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明廷设立的管辖黑龙江口、乌苏里江流域之最高地方行政机构。全称奴儿干都指挥使司。明永乐七年（1409）置。都司主要官员初为流官，后为世袭。境内居民，主要为女真、蒙古等少数民族。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

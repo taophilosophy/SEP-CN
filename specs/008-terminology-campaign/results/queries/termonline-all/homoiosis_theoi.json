@@ -1,0 +1,62 @@
+{
+ "key": "homoiosis theoi",
+ "term": "homoiôsis theôi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:21:20+00:00",
+ "status": "ok",
+ "note": "variant=homoiôsis theôi; 审定公布名词库=2; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "均裂",
+   "en": "homolysis,homolytic 　",
+   "source": "化学名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "导致构成共价键的两个电子分属两个新形成的分子碎片的共价键的裂解过程。<img src='/root/syzx/static/spz/huaxue2.02.0932.1.png'/>"
+  },
+  {
+   "cn": "同源异形转化",
+   "en": "homeosis,homoeosis",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.270",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "由于与发育有关的某一基因错误表达，导致一种器官生长在错误部位的现象。如果蝇该生长触角的部位长成了腿。"
+  },
+  {
+   "cn": "均裂",
+   "en": "homolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同源异形",
+   "en": "homeosis\",\"homoeosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源异形转化",
+   "en": "homeosis\",\"homoeosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

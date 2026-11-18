@@ -1,0 +1,732 @@
+{
+ "key": "concurrent tradition",
+ "term": "concurrent tradition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:12:57+00:00",
+ "status": "ok",
+ "note": "variant=concurrent tradition; 审定公布名词库=2105; 海峡两岸名词对照库=588; 其他来源数据库=26; 预公布名词数据库=315; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "共点",
+   "en": "concurrent",
+   "source": "数学名词",
+   "wordNumber": "08.0308",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "并发纠缠",
+   "en": "concurrence",
+   "source": "物理学名词",
+   "wordNumber": "06.0752",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "并发性",
+   "en": "concurrency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0955",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "多个相关计算过程同时执行或交叉执行，通过交互实现协作，以共同完成给定的计算任务。"
+  },
+  {
+   "cn": "同步放化疗",
+   "en": "concurrent chemoradiotherapy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.5",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "恶性肿瘤化疗和放疗同步进行。在减少局部复发和远处转移、提高生存率等方面优于单用放疗或化疗，但要掌握适应证。"
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.249",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "对产品及其相关过程（包括制造过程和支持过程）进行并行、集成化处理的系统方法和综合技术。"
+  },
+  {
+   "cn": "协作抑制",
+   "en": "concurrent inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0087",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "由两个或更多个酶抑制剂共同作用，结合在酶的不同位点使酶活性完全丧失的抑制作用。单独作用时抑制作用不完全。"
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0121",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "在DNA复制过程中，前导链和后随链同时进行复制的现象。"
+  },
+  {
+   "cn": "并行设计",
+   "en": "concurrent design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0053",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "对产品及相关过程进行并行和集成的系统化工作模式，使设计人员充分考虑产品全周期的所有要素，并行进行不同阶段的设计，提高产品研发效率。"
+  },
+  {
+   "cn": "顺流干燥",
+   "en": "concurrent drying",
+   "source": "冶金学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "物料移动方向与脱水介质流动方向相同的脱水工艺。"
+  },
+  {
+   "cn": "共点力",
+   "en": "concurrent force",
+   "source": "物理学名词",
+   "wordNumber": "02.0545",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "并发处理",
+   "en": "concurrent processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0302",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把任务分派给多个并发执行的进程，共享系统资源的任务处理方式。"
+  },
+  {
+   "cn": "并发进程",
+   "en": "concurrent process",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0408",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在同一个操作系统上并发执行的进程。这些进程处于从创建到终止之间的生存周期中的某个状态，如执行状态或等待状态。"
+  },
+  {
+   "cn": "并发计算",
+   "en": "concurrent computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0053",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "在一台或多台计算机上，通过在时间上重叠执行若干互相独立的子任务，以提高整个计算任务性能的方法和过程。这里的重叠执行，是指在一个子任务未完成时，就开始执行另一个子任务。"
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0888",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "对产品及其相关过程进行并行、集成化处理的系统方法和综合技术。"
+  },
+  {
+   "cn": "并发程序设计",
+   "en": "concurrent programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0230",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "构造若干可同时执行的程序模块的程序设计方法。"
+  },
+  {
+   "cn": "并发变迁",
+   "en": "concurrent transitions",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0692",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "处于并发关系的变迁。"
+  },
+  {
+   "cn": "同时效度",
+   "en": "concurrent validity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织行为研究",
+   "subjectName": "组织行为研究",
+   "publishYear": "2016",
+   "definition": "测评成绩与当时所在岗位的工作绩效之间的相关程度。"
+  },
+  {
+   "cn": "同期控制",
+   "en": "concurrent control",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0223",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在一项管理工作进展过程中所实施的控制。"
+  },
+  {
+   "cn": "平行工作",
+   "en": "concurrent activity",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0231",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "与本工作同时进行的工作。"
+  },
+  {
+   "cn": "同时估计",
+   "en": "concurrent estimation",
+   "source": "心理学名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "采用项目反应理论进行测验等值时，将两份待等值的测验合并后一次性估计的方法。一般用于非等组锚测验等值设计。"
+  },
+  {
+   "cn": "并发[性]",
+   "en": "concurrency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发变迁",
+   "en": "concurrent transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发反应",
+   "en": "concurrent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同时估计",
+   "en": "concurrent estimation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同时效度",
+   "en": "concurrent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协作抑制, 并发抑制",
+   "en": "concurrent inhibition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行应用",
+   "en": "concurrent use",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并发程序设计",
+   "en": "concurrent programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发处理",
+   "en": "concurrent processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发进程",
+   "en": "concurrent process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发模拟，并发仿真",
+   "en": "concurrent simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行管理",
+   "en": "concurrency management",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发关系",
+   "en": "concurrency relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发控制",
+   "en": "concurrency control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发读[并发]写",
+   "en": "concurrent read and concurrent write\",\"CRCW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传统陶瓷",
+   "en": "traditional ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统病",
+   "en": "traditional diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据库并发控制协议标准",
+   "en": "standard for database concurrency control protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中医治疗",
+   "en": "TCM (traditional Chinese medicine) therapy",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家中医药管理局",
+   "en": "National Administration of Traditional Chinese Medicine (NATCM)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统金融机构智慧化",
+   "en": "application of smart technology in traditional financial institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推动中华优秀传统文化创造性转化、创 新性发展",
+   "en": "promoting innovative transformation and development of traditional Chinese culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《中医药“一带一路”发展规划（2016–2020年）》",
+   "en": "Belt and Road Development Plan for Traditional Chinese Medicine (2016‒2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丑",
+   "en": "Ugliness/ Chou (Role of Clown in a Traditional Chinese Opera)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红色资源",
+   "en": "the Red Resources (sites and heritage related to the revolutionary traditions of the CPC)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传统",
+   "en": "tradition",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在现代化理论中与“现代”相对的一种农业的、乡村的、专制的、落后的社会状态。"
+  },
+  {
+   "cn": "随时消毒",
+   "en": "concurrent disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "消毒学_消毒应用_疫源地消毒",
+   "subjectName": "疫源地消毒",
+   "publishYear": "2025",
+   "definition": "有传染源存在时，对传染源的血液、体液、分泌物、呕吐物、排泄物等及其可能污染的环境和物品进行的消毒。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "小传统",
+   "en": "little tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "复杂社会中具有地方社区或地域性特色的文化模式。由美国人类学家雷德菲尔德(R.Redfield）于1956年首先创用。与“大传统”相对。"
+  },
+  {
+   "cn": "口头传承",
+   "en": "oral tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "无文字社会的主要信息来源及有文字社会集体心性的重要媒介。以耳听口传为特征的表述通过多人参与，依赖于话语场及说、听双方的互动实现的传递。大部分情况下声音的传递是在有多数听众场合下的集体传递，而且信息反复"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "口头传统",
+   "en": "oral tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0333",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在一个民族中长期口耳相传的口头文化表达形式，如史诗、叙事诗、歌谣、说唱、神话、传说、故事等口头文类以及与之相关的表达文化和口头艺术，它不仅是民族文化传统的重要组成部分，也是全人类共同的文化遗产和精神财"
+  },
+  {
+   "cn": "文化传统",
+   "en": "cultural tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0034",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个国家、民族在历史中形成的具有相对稳定性的文化精神和文化价值成分，贯穿于一个国家、民族各个历史阶段的各类文化之中，是一种民族文化区别于其他民族文化的重要标志。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "世代相传的社会文化因素在社会建构中获得沿袭并占有突出地位、人们的行为主要受此影响的前现代社会。与“现代社会”相对。"
+  },
+  {
+   "cn": "传统教育",
+   "en": "traditional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "泛指在一定历史时期形成的流行的、具有影响的教育思想、制度和方法。"
+  },
+  {
+   "cn": "传统社会",
+   "en": "traditional society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0012",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自给自足的自然经济为基础和家庭伦理关系为基本纽带的前工业化社会形态，与现代社会相对应。"
+  },
+  {
+   "cn": "大传统与小传统",
+   "en": "great tradition and small tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0553",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家雷德菲尔德（Robert Redfield）提出的一种二元分析框架，用来说明在复杂社会中存在的两个不同文化层次的传统。大传统是指以城市为中心，社会中少数上层人士、知识分子所代表的文化；小传"
+  },
+  {
+   "cn": "家风",
+   "en": "family tradition/customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0147",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一个家族的传统风习，是在家长或主要成员影响下自然形成、潜移默化的传统习惯和生活作风，且代代相承，相沿不更，具有很大的稳定性和封闭性。家族成员在习以为常、约定俗成的生活方式中，达成自然的默契和一致，在家"
+  },
+  {
+   "cn": "中国传统节日",
+   "en": "traditional Chinese festivals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0172",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中华民族的古老传统节日，涵盖了原始信仰、祭祀文化、天文历法、易理术数等人文与自然文化内容，蕴含着深邃丰厚的文化内涵。"
+  },
+  {
+   "cn": "中国戏曲",
+   "en": "traditional Chinese opera",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0398",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统戏剧形式，由民间歌舞、说唱和滑稽戏三种不同的艺术形式综合形成。从近代学家王国维开始，把“戏曲”用来作为包括宋元南戏、元明杂剧、明清传奇以至近代的京剧和所有地方戏在内的中国传统戏剧文化的通称。"
+  },
+  {
+   "cn": "传统彝文",
+   "en": "traditional Yi writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.041",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国彝族历史使用的传统文字。各地彝语方言差别较大，传统彝文因地而异。"
+  },
+  {
+   "cn": "中国传统医学",
+   "en": "traditional Chinese medicine",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.033",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国各民族传统医学的统称，主要包括汉族医学（中医学），藏族医学、蒙古族医学、维吾尔族医学、朝鲜族医学，以及壮族医学、傣族医学、彝族医学、苗族医学等。各民族医药的发展和现状，因历史和文化的不同、文字产生"
+  },
+  {
+   "cn": "中医治疗",
+   "en": "traditional Chinese medicine treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "运用中医药学理论、采用辨证论治的方法治疗疾病。"
+  },
+  {
+   "cn": "传统式健康教育方法",
+   "en": "traditional health education method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "采用课堂讲授、讲座、示教等传统方式开展健康教育的教学方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "tolerance",
+ "term": "tolerance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:59:22+00:00",
+ "status": "ok",
+ "note": "variant=tolerance; 审定公布名词库=325; 海峡两岸名词对照库=95; 其他来源数据库=20; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "容许度",
+   "en": "tolerance",
+   "source": "农学名词",
+   "wordNumber": "18.138",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "单位质量或一定数量农产品中，不符合所标注等级或规格的允许百分比范围。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "允许偏差",
+   "en": "tolerance",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0053",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "养分的测定值与标明值之间的允许差值。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "行为医学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "物质使用者必须增加使用剂量和（或）频率才能获得所需效果，或使用原来的剂量达不到预期效果的一种状态。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "精神医学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "由于连续使用某药而对药物某一剂量的反应下降的现象。如经常饮酒或大量饮酒的人，需要更高剂量的酒精才能获得原来较低剂量就能获得的效果。生理和心理社会因素都会对产生这种现象有影响。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "感染病学名词",
+   "wordNumber": "01.0634",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "机体对药物反应性降低的一种状态。在长期用药过程中，药物效应会逐渐减弱，需加大剂量才能取得原来强度的效应。也可反映对药物不良反应的耐受性，即从不耐受到耐受的过程。"
+  },
+  {
+   "cn": "容限",
+   "en": "tolerance",
+   "source": "物理学名词",
+   "wordNumber": "04.0539",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "药物常用剂量对机体不再有疗效的现象。其发生的机制可因药物性质的不同而异。其产生的机制有两种： ①药物代谢加速，绝大多数由于肝药酶活性增加； ②受体数目减少或对药物的亲和力降低。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "生物物理学名词",
+   "wordNumber": "04.294",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "机体对药物(物理、化学刺激作用)反应性降低的一种状态。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1066",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "产品特征或过程特征参数值允许存在的变动量；或者是工作单元完成时间允许存在的差异。"
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "计量学名词",
+   "wordNumber": "02.026",
+   "subjectFullName": "计量学_几何量_几何要素及算法评价",
+   "subjectName": "几何要素及算法评价",
+   "publishYear": "2015",
+   "definition": "上公差限与下公差限之差，或最大允许值与最小允许值之差。是一个没有符号的量。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "药学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.417",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在一定测量条件下规定的测量误差绝对值的允许值。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "生态学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.775",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "允许值",
+   "en": "tolerance",
+   "source": "水产名词",
+   "wordNumber": "08.466",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "主管机构许可的供人类消费的食物中化学物质的残留标准。"
+  },
+  {
+   "cn": "自然减量",
+   "en": "tolerance",
+   "source": "航海科技名词",
+   "wordNumber": "11.0130",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "化学工程名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerence",
+   "source": "心理学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "多元回归中，对于自变量是否存在多重共线性的检验指标。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "toleration",
+   "source": "生态学名词",
+   "wordNumber": "14.202",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "生物对进入其体内的有害元素积累的忍耐能力。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "容限，容差",
+   "en": "tolerance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "自身耐受",
+   "en": "self-tolerance， auto-tolerance， autologous tolerance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "耐盐性",
+   "en": "salt tolerance\",\"salinity tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐盐性",
+   "en": "salt tolerance\",\"salinity tolerance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance\",\"hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "容许区间",
+   "en": "tolerance interval",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "容许限",
+   "en": "tolerance limit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐冻性",
+   "en": "freezing tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐旱性",
+   "en": "drought tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐冷性",
+   "en": "cold tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐逆性",
+   "en": "stress tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂最大容限",
+   "en": "solvent tolerance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "耐水度",
+   "en": "water tolerance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "本地容灾",
+   "en": "local disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据容灾",
+   "en": "data disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用容灾",
+   "en": "application disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "容错计算",
+   "en": "fault-tolerant computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近距离容灾",
+   "en": "short-distance disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远距离容灾",
+   "en": "long-distance disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络容错路由",
+   "en": "network fault-tolerant routing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不良贷款容忍度",
+   "en": "tolerance for non-performing loans",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流处理容错性",
+   "en": "fault tolerance of stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试容错技术",
+   "en": "software testing and fault tolerance technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数码元容错的量子计算机",
+   "en": "few-qubit fault tolerant quantum computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据容灾备份中心",
+   "en": "disaster tolerance and backup center for public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不允许搞选择性执法、任性执法",
+   "en": "There can be no tolerance for selective or arbitrary law enforcement.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反腐败无禁区、全覆盖、零容忍",
+   "en": "There are no no-go zones, no ground is left unturned, and no tolerance is shown for corruption.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宽容",
+   "en": "toleration",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.095",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "宽宏有气量，不计较或不追究。能够包容、容忍、宽恕与自己不同的意见、分歧、信仰等。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "免疫系统对特定抗原的特异性无应答状态。包括天然免疫耐受与诱导免疫耐受。"
+  },
+  {
+   "cn": "热耐受",
+   "en": "heat tolerance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.8",
+   "subjectFullName": "军事预防医学_热区军事卫生_热耐受",
+   "subjectName": "热耐受",
+   "publishYear": "2025",
+   "definition": "人体在高温环境下，通过生理、生化和行为等机制来适应高温条件，并维持自身生理功能正常运转的能力。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "免疫系统对某些抗原的特异性无反应状态。"
+  },
+  {
+   "cn": "乳糖耐量试验",
+   "en": "lactose tolerance test",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.6",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "诊断肠道乳糖酶缺乏的一种实验室检查方法。口服乳糖后检测血葡萄糖水平，从而评估乳糖酶缺乏的状况。"
+  },
+  {
+   "cn": "耐热锻炼",
+   "en": "heat tolerance exercise",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "寒区、温区人员进驻热区之前，或热区人员开展的耐受热环境的锻炼。"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximal tolerance dose，MTD",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "已达到最大染毒剂量而无动物死亡的剂量。"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximum tolerable dose, MTD",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "受试实验动物对受试物所能耐受的最大剂量，超过该剂量将引起个别动物死亡。"
+  },
+  {
+   "cn": "每日可耐受摄入量",
+   "en": "tolerable daily intake, TDI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入某种环境污染物（如铅、汞污染物），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "暂定每周可耐受摄入量",
+   "en": "provisional tolerable weekly intake, PTWI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在人体内半衰期较长且有蓄积毒性的食品污染物所使用的健康指导值，代表人类消费健康且有营养的食品时，不可避免的每周允许摄入的污染物量。基于人类现有知识制定，依据新的证据进行更新。"
+  },
+  {
+   "cn": "暂定每月可耐受摄入量",
+   "en": "provisional tolerable monthly intake, PTMI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在人体内具有很长半衰期的蓄积性食品污染物所使用的健康指导值，代表人类消费健康且有营养的食品时，不可避免的每月允许摄入的污染物量。基于人类现有知识制定，依据新的证据进行更新。"
+  },
+  {
+   "cn": "可耐受最高摄入量",
+   "en": "tolerable upper intake level, UL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "平均每日摄入某种营养素的最高限量。"
+  },
+  {
+   "cn": "中国不允许乱",
+   "en": "China will tolerate no disturbances",
+   "source": "马克思主义",
+   "wordNumber": "04.0151",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1989年3月4日在同中央负责同志谈话时提出的论断。“中国不允许乱”，是我党执政的重要历史经验，是中国人民的根本利益所在，是坚持人民民主专政的应有之义，对于我们治国理政具有重要的现实意义和深远的"
+  },
+  {
+   "cn": "暂定每日最大可耐受摄入量",
+   "en": "provisional maximum tolerable daily intake, PMTDI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对无蓄积毒性污染物的健康指导值，代表人类消费健康且有营养的食品时，不可避免的每日允许摄入的污染物量。基于人类现有知识制定并定期审查，依据新的证据进行更新。"
+  },
+  {
+   "cn": "咖啡因可耐受最高摄入量",
+   "en": "tolerable upper intake levels (UL) of caffeine",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.7.4",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "咖啡因每日摄入量的安全上限，是一个健康人群中几乎所有个体都不会产生毒副作用的最高摄入量。对于没有药物过敏的健康成人，每日咖啡因的正常摄入上限是400mg。"
+  },
+  {
+   "cn": "湿热环境高温作业耐受极限",
+   "en": "tolerance limit working in humid and hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.4.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "人员在湿热环境中依靠自身的体温调节功能，在维持体热平衡、正常活动与作业的条件下所能承受的最大热负荷强度。"
+  },
+  {
+   "cn": "乳糖不耐受症",
+   "en": "lactose intolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由于肠黏膜中缺乏乳糖酶或β-半乳糖酶而导致乳糖不能正常被分解所引起的消化紊乱。"
+  },
+  {
+   "cn": "果糖不耐受症",
+   "en": "fructose intolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.3",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种先天性罕见疾病。由于1-磷酸果糖醛缩酶B 基因突变导致该酶缺乏或活性减低，表现为低血糖、肝肾功能损害、肝大、黄疸和肾小管性酸中毒等。"
+  },
+  {
+   "cn": "食物不耐受",
+   "en": "food intolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由正常耐受剂量的食物或食物成分引发的非免疫反应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

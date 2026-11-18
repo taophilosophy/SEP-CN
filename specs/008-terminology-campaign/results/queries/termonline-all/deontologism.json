@@ -1,0 +1,62 @@
+{
+ "key": "deontologism",
+ "term": "deontologism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:56:19+00:00",
+ "status": "ok",
+ "note": "variant=deontologism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "义务论",
+   "en": "deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.092",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "一种规范伦理学理论。主张一个行为的道德性是基于一系列原则来判断这个行为本身是正确的还是错误的，而不是基于行为的结果。由德国哲学家伊曼纽尔·康德提出。"
+  },
+  {
+   "cn": "行动义务论",
+   "en": "act-deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.093",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "义务论的分支。认为不存在任何普遍的道德规则，只有不能加以普遍化的特殊行为、情况，人们在某特殊情况下基于自己所相信或所感觉而做出的决定或采取的行为，该理论不以理性为基础，而是诉诸人的直觉。"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.094",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "义务论的分支。主张作为道德判断的唯一基础的普遍规则是存在的，遵循这些规则的行为就是正确的，与行为的结果无关。"
+  },
+  {
+   "cn": "义务论",
+   "en": "deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.005",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张人的行为必须遵照某种道德原则或按照某种正当性去行动的理论。其主要内容是在社会中人们应该做什么和不应该做什么，即根据哪些标准来判断行为者的行为是正当的，以及行为者应负的道德责任。可分为规则义务论和行"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张行为的对错要看它是否符合伦理原则和准则，人们的行为只要服从这些规则和准则，就是道德的和正当的，而不必考虑行为效果的理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

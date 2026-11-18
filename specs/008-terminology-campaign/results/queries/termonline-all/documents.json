@@ -1,0 +1,642 @@
+{
+ "key": "documents",
+ "term": "Documents",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:00:15+00:00",
+ "status": "ok",
+ "note": "variant=Documents; 审定公布名词库=236; 海峡两岸名词对照库=67; 其他来源数据库=20; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "文献",
+   "en": "document",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.037",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "记录知识或信息的载体。"
+  },
+  {
+   "cn": "单证",
+   "en": "document",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.022",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "可阅读并带有数据记录的数据载体。"
+  },
+  {
+   "cn": "文书",
+   "en": "document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.045",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "（1）公文、书信、契约等类型文献。（2）文字图籍或者文章、书法的总称。"
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0420",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种数据媒体和其上所记录的数据。它具有永久性并可以由人或机器阅读。"
+  },
+  {
+   "cn": "文件",
+   "en": "document",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0699",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "信息及其承载的媒体。"
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.679",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在计算机中，以实现某种功能、或某个软件的部分功能为目的而定义的一个单位。"
+  },
+  {
+   "cn": "文献管理",
+   "en": "documentation,document management",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "持续系统地获取、组织、存储、检索和利用特定文献或记录于文献之上的信息的活动与过程。"
+  },
+  {
+   "cn": "文献",
+   "en": "documentation",
+   "source": "档案学名词",
+   "wordNumber": "04.01.001",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂基本理论",
+   "subjectName": "档案文献编纂基本理论",
+   "publishYear": "2024",
+   "definition": "记录知识的一切载体。"
+  },
+  {
+   "cn": "文件编制",
+   "en": "documentation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.565",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "为形成方案、计划等，对文件进行的编排、组织。"
+  },
+  {
+   "cn": "招标文件",
+   "en": "tender documents,tendering documents",
+   "source": "土木工程名词",
+   "wordNumber": "13.008",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "图形文献",
+   "en": "graphic document,iconic document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "以图解、图形或图像展示为主要特征的印刷型或其他形式的文献。包括艺术印刷、艺术原创、艺术再现、照片、海报、教学挂图、技术制图等。"
+  },
+  {
+   "cn": "文档分类",
+   "en": "document classification,document categorization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0354",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "根据文档主题或其他属性（如文档类型、作者、出版年份等）把文档关联到一个或多个类别的技术。包括人工文档分类和算法自动分类。其中，人工文档分类是图书馆学领域中的一个重要研究问题，而算法自动分类则主要是在信"
+  },
+  {
+   "cn": "文献学",
+   "en": "documentation,documentation science,bibliography",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "研究文献收集、整理和传播的一般规律的学科。"
+  },
+  {
+   "cn": "文献",
+   "en": "literature,document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "记录有知识和信息的一切载体。由4个要素组成：所记录的知识和信息、记录知识和信息的符号、用于记录知识和信息的物质载体、记录的方式或手段等。"
+  },
+  {
+   "cn": "吐鲁番文书",
+   "en": "Turfan documents",
+   "source": "档案学名词",
+   "wordNumber": "08.01.020",
+   "subjectFullName": "档案学_中国档案事业史_中国古代档案",
+   "subjectName": "中国古代档案",
+   "publishYear": "2024",
+   "definition": "1959年至1975年，新疆吐鲁番东南的阿斯塔那和哈拉和卓附近的古墓群陆续出土的晋至唐代文书档案。除部分直接随葬的文书外，大部分文书被当作废纸用来制成死者的服饰，或是一些俑的构件，乃至葬具(纸棺)，故"
+  },
+  {
+   "cn": "政府文献",
+   "en": "government documents",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.235",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "行政机关在履行职责过程中制作或获取并以一定形式记录和保存的信息。"
+  },
+  {
+   "cn": "随机文件",
+   "en": "accompanying documents",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.179",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "随装置、设备、辅助设备或附件而带的文件。其中包括为设备的装配者、安装者和使用者提供的重要资料。"
+  },
+  {
+   "cn": "合同文件",
+   "en": "contract documents",
+   "source": "土木工程名词",
+   "wordNumber": "13.024",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标书",
+   "en": "bid documents",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "由发包单位编制或委托设计单位编制，向投标者提供对该工程的主要技术、质量、工期等要求的文件。"
+  },
+  {
+   "cn": "招标文件",
+   "en": "bidding documents",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.108",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "文件，文档",
+   "en": "document",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件编制",
+   "en": "documentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档编制",
+   "en": "documentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件研究",
+   "en": "document study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "出口单据",
+   "en": "export document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交单",
+   "en": "tender document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可转让单证",
+   "en": "negotiable document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商业单据",
+   "en": "commercial document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔单证",
+   "en": "claim document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伪造单据",
+   "en": "forged document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券",
+   "en": "valuable document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地图文件",
+   "en": "map document",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基本文件",
+   "en": "base document",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档窗口",
+   "en": "document window",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档文件",
+   "en": "document file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文件阅读器",
+   "en": "document reader",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "附加文档",
+   "en": "attached document",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文档翻译",
+   "en": "document translation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文档格式化程序",
+   "en": "document formatter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "XML文件",
+   "en": "XML document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档存储",
+   "en": "document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档数据库",
+   "en": "document database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无结构化文档存储",
+   "en": "unstructured document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子交易单据",
+   "en": "electronic transaction document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单证化融资",
+   "en": "documentation-based financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息项标准文档",
+   "en": "information item standard document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律文件处理自动化",
+   "en": "automation of legal document processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单证化投融资",
+   "en": "documentation-based investment and financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书契",
+   "en": "Documents on Bamboo or Wooden Slips",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裁判文书智能分析系统",
+   "en": "intelligent analysis system for judgement documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准文件投票和评议",
+   "en": "voting and commenting on international standardization documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据与信息化安全自律标准化文件》（中国）",
+   "en": "Standardization Document of Self-Regulation and Professional Ethics for Big Data and Informatization Security (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三证合一",
+   "en": "integrate the business license, the organization code certificate, and the certificate of taxation registration into one document",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "非法持有国家绝密、机密文件、资料、物品罪",
+   "en": "crime of illegally holding the documents, material or other objects classified as strictly confidential or confidential state secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 29500-1-2009 信息技术 文档描述和处理语言 办公开放XML文档格式 第1部分：基本知识和标记语言参照》",
+   "en": "ANSI/INCITS/ISO/IEC 29500-1:2009 Information technology — Document description and processing languages — Office open XML file formats — Part 1: Fundamentals and markup language reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "标准化文件",
+   "en": "standardizing document",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "通过标准化活动制定的文件。"
+  },
+  {
+   "cn": "护理文件",
+   "en": "nursing document",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.018",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士在护理活动中形成的文字、符号、图表等资料的总和。是护士对患者进行病情观察、实施护理治疗措施的原始文件记载。"
+  },
+  {
+   "cn": "孕产期保健系统管理规范",
+   "en": "regulation document for systematic management of maternal healthcare",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "用于明确各级卫生行政部门和各级妇幼保健机构在孕产期保健工作中的管理职能，强调各级各类医疗保健机构在孕产期保健工作网络中的职责与功能的规范文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

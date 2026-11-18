@@ -1,0 +1,762 @@
+{
+ "key": "modal neutrality",
+ "term": "Modal neutrality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:58:44+00:00",
+ "status": "ok",
+ "note": "variant=Modal neutrality; 审定公布名词库=2855; 海峡两岸名词对照库=878; 其他来源数据库=175; 预公布名词数据库=246; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "常态嗓音",
+   "en": "modal voice",
+   "source": "语言学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "一种发声类型。发声时，声门作为一个单一的整体起作用，声带有规律地振动，并且每个周期都完全闭合，没有任何摩擦噪声。"
+  },
+  {
+   "cn": "能愿动词",
+   "en": "modal verb",
+   "source": "语言学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示行为或状况的可能、必要或意愿的动词。例如“能”“愿意”“应该”。用在动词、形容词前边。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.176",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模态辨识",
+   "en": "modal identification",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.173",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模态综合",
+   "en": "modal synthesis",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.175",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "中性作用",
+   "en": "neutralism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中和值",
+   "en": "neutralization number\",\"neutralization value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中性蛋白酶",
+   "en": "neutral protease\",\"neutral proteinase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据中立性",
+   "en": "data neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络中立性",
+   "en": "network neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中立角",
+   "en": "neutral corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员抛球",
+   "en": "neutral throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立裁判员",
+   "en": "neutral judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立圈",
+   "en": "neutral lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立区",
+   "en": "neutral zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停留时间",
+   "en": "neutralized time period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务车",
+   "en": "neutral car\",\"service van",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离中心度",
+   "en": "closeness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "介数中心度",
+   "en": "betweenness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谱中心度",
+   "en": "spectral centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奖牌",
+   "en": "medal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消除微生物与消毒剂混悬液中微生物表面残余的消毒剂，使其失去对微生物抑制或杀灭作用，但不影响试验微生物生长的试剂。"
+  },
+  {
+   "cn": "风险中立",
+   "en": "risk neutrality",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险既不规避也不追求的一种态度。选择资产的唯一标准是预期收益的大小，而不管风险状况如何，是因为所有预期收益相同的资产将带来同样的效用"
+  },
+  {
+   "cn": "中和抗体",
+   "en": "neutralizing antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "可与细菌毒素、病原体（如病毒）及其产物特异性结合并发挥中和作用的抗体。能中和毒素的毒性作用或阻断病毒感染靶细胞。"
+  },
+  {
+   "cn": "中性温度",
+   "en": "neutral temperature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "机体维持体温正常所需的代谢率和耗氧量最低时的环境温度。"
+  },
+  {
+   "cn": "中性离子表面活性剂",
+   "en": "neutral ion surfactant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "亲水基团为中性离子，作用温和、刺激性小的表面活性剂。"
+  },
+  {
+   "cn": "中性医用清洗剂",
+   "en": "neutral medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在应用浓度下，pH值6.5～7.5的医用清洗剂。"
+  },
+  {
+   "cn": "中和剂鉴定试验",
+   "en": "neutralizer appraisal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "判定所选中和剂是否符合要求能用于消毒学试验的检测。"
+  },
+  {
+   "cn": "中和产物",
+   "en": "product of neutralization",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "中和剂与消毒剂作用后的产物。"
+  },
+  {
+   "cn": "化学中和法",
+   "en": "chemical neutralization method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，加入中和剂以终止残余消毒剂抑制或杀灭试验微生物的方法。"
+  },
+  {
+   "cn": "悬液定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by suspension quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学悬液试验体系中，评价所用中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "载体定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by carrier quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学载体试验体系中，评价所用的中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

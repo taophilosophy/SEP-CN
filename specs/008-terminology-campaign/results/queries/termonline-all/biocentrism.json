@@ -1,0 +1,52 @@
+{
+ "key": "biocentrism",
+ "term": "biocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:09:14+00:00",
+ "status": "ok",
+ "note": "variant=biocentrism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "生物中心主义",
+   "en": "biocentrism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.236",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "主张把道德关怀扩大至野生的动物和植物，也即关怀所有的生命，用对生命的敬畏和爱护来体现对大自然的尊重态度。代表人物有保罗· 泰勒（Paul Taylor）、罗宾·阿提菲尔德（Robin Attfield"
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism",
+   "source": "心理学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "只从自我的角度出发理解事物，不能区分自己的观点与别人的观点。"
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism\",\"egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物中心说",
+   "en": "biocentric",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.6",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类只是地球生物的成员之一，所有生物都具有权利和价值的观点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

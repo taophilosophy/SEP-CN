@@ -1,0 +1,792 @@
+{
+ "key": "distant parallelism",
+ "term": "distant parallelism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:12:29+00:00",
+ "status": "ok",
+ "note": "variant=distant parallelism; 审定公布名词库=1151; 海峡两岸名词对照库=428; 其他来源数据库=84; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "远震",
+   "en": "distant shock",
+   "source": "地质学名词",
+   "wordNumber": "11.02.030",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "震中距>1000km的地震。"
+  },
+  {
+   "cn": "远缘杂种",
+   "en": "distant hybrid",
+   "source": "风景园林名词",
+   "wordNumber": "09.0187",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "由远缘杂交产生的后代。"
+  },
+  {
+   "cn": "远缘杂交",
+   "en": "distant hybridization",
+   "source": "农学名词",
+   "wordNumber": "15.104",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "两个不同的种属或更高分类群之间的杂交。具有打破物种限制、增加遗传变异及合并现有物种的生物学特性。"
+  },
+  {
+   "cn": "远处转移",
+   "en": "distant metastasis",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.356",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤转移",
+   "subjectName": "妇科恶性肿瘤转移",
+   "publishYear": "2022",
+   "definition": "肿瘤从原发位转移至远处器官和部位的过程。"
+  },
+  {
+   "cn": "远处复发",
+   "en": "distant recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.371",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "在原发病灶远处[如骨骼、脏器（肝、肺、胸膜）或淋巴结（如锁骨上淋巴结、腹股沟淋巴结等）]生出肿瘤的现象。"
+  },
+  {
+   "cn": "远碰撞",
+   "en": "distant collision",
+   "source": "物理学名词",
+   "wordNumber": "10.0144",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "远隔转移",
+   "en": "distant metastasis",
+   "source": "核医学名词",
+   "wordNumber": "04.0215",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "突破原发器官和局部引流淋巴结界限，播散到机体远处的恶性肿瘤病灶。"
+  },
+  {
+   "cn": "远位皮瓣",
+   "en": "distant flap",
+   "source": "显微外科学名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "显微外科学_皮瓣_皮瓣基本理论",
+   "subjectName": "皮瓣基本理论",
+   "publishYear": "2016",
+   "definition": "取自远处解剖区域(如相对于手部而言的腹股沟部)的带蒂皮瓣。"
+  },
+  {
+   "cn": "远洋捕捞",
+   "en": "distant fishing",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0635",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋生物技术",
+   "subjectName": "海洋生物技术",
+   "publishYear": "2007",
+   "definition": "在200m等深线以外大洋区捕鱼虾等经济动物的生产活动。"
+  },
+  {
+   "cn": "远洋捕捞",
+   "en": "distant fishing",
+   "source": "水产名词",
+   "wordNumber": "03.336",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "在远离本国陆地的大洋或别国管辖水域采捕水生经济动物的生产活动。"
+  },
+  {
+   "cn": "远距用户",
+   "en": "distant subscriber",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0404",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "预告信号机",
+   "en": "distant signal",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0076",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "远洋渔业",
+   "en": "distant fishery",
+   "source": "航海科技名词",
+   "wordNumber": "12.0035",
+   "subjectFullName": "航海科学技术_海上作业",
+   "subjectName": "海上作业",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "远视力",
+   "en": "distant vision",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.010",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "排比",
+   "en": "parallelism",
+   "source": "档案学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "在公文中有一定应用的修辞格。特点是用结构相同或相似、语气相近或一致的三个或三个以上的语句表示相关或相似内容。"
+  },
+  {
+   "cn": "平行度",
+   "en": "parallelism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0307",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "限制被测要素的实际方向，与基准相平行的理想方向之间所允许的变动量。"
+  },
+  {
+   "cn": "并联[运行]",
+   "en": "paralleling",
+   "source": "电气工程名词",
+   "wordNumber": "07.560",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution;parallelism",
+   "source": "动物学名词",
+   "wordNumber": "2.0233",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同物种（亲缘关系较近）共存于极为相似的环境中，具有一些共同的生活习性而出现相似的性状或相似行为的现象。"
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "把串行代码转换成并行代码的一种方法。"
+  },
+  {
+   "cn": "平行[的]",
+   "en": "parallel",
+   "source": "数学名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "远闪",
+   "en": "distant flash",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "远距交会",
+   "en": "distant encounter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "远洋捕捞",
+   "en": "distant fishing",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远洋渔业",
+   "en": "distant fishery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据并行性",
+   "en": "data parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异步并行性",
+   "en": "asynchronous parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并车屏",
+   "en": "paralleling panel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "远缘杂交",
+   "en": "distant hybridization\",\"wide cross",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "远缘杂种",
+   "en": "distant hybrid\",\"wide hybrid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "远缘杂种",
+   "en": "distant hybrid\",\"wide hybrid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行障碍",
+   "en": "parallel fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行杆障碍",
+   "en": "parallel poles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丽辞",
+   "en": "Ornate parallel style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理系统",
+   "en": "parallel processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库体系架构",
+   "en": "parallel database architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行支持向量机",
+   "en": "parallel support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "己身与堂亲和姨表亲的联姻。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0358",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同性的同胞的子女，即兄弟的子女及姊妹的子女结为夫妻的婚姻形式。按照父系的观念，两兄弟的子女为从兄弟姊妹，两姊妹的子女为姨表兄弟姊妹。姨表兄弟姊妹之间不通婚，其原因可追溯到母系社会的氏族外婚制。"
+  },
+  {
+   "cn": "达斯坦",
+   "en": "Dastain,Dustan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0653",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "维吾尔族和柯尔克孜族弹唱曲种，亦可说唱。原意为叙事长诗，以古老“木卡姆”套曲或民间曲调演唱神话传说、民间故事、宗教经典，多英雄达斯坦、麻扎达斯坦、婚礼达斯坦、爱情达斯坦等，为多段体分节歌式。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  },
+  {
+   "cn": "速溶茶",
+   "en": "instant tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.14",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "以成品茶或鲜叶为原料通过提取、浓缩和干燥等工序加工成的一种粉末状或小颗粒状的速溶茶制品。"
+  },
+  {
+   "cn": "即时洗消",
+   "en": "instant decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "受到核生化污染后立即实施的个体洗消，目的在于防止和减少健康损伤及污染扩散。"
+  },
+  {
+   "cn": "方便面",
+   "en": "instant noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.6",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以小麦粉和／或其他谷物粉、淀粉等为主要原料，添加或不添加辅料，经加工制成的面饼，添加或不添加方便调料的面条类预包装方便食品，包括油炸方便面和非油炸方便面。"
+  },
+  {
+   "cn": "方便米饭",
+   "en": "instant cooked rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.10",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为原料，通过熟化处理，使淀粉分子从有序的、不易消化的 β-状态，转变为无序的、易消化的 α-状态，经热风（或冷冻）干燥脱水制成的米饭。加水浸泡后即可食用，具有食用、携带、贮存方便的特点。"
+  },
+  {
+   "cn": "瞬时测氡仪",
+   "en": "instant radon detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "在一个相对短的时间范围内测量某时刻氡浓度值的仪器。"
+  },
+  {
+   "cn": "焦点-皮肤距离",
+   "en": "focus-skin distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.33",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至受检者皮肤表面的最近距离。"
+  },
+  {
+   "cn": "应急计划距离",
+   "en": "emergency planning distance",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好有效采取预防性紧急防护行动、紧急防护行动和早期防护行动和其他响应行动的安排，以实现应急响应目标的区域。"
+  },
+  {
+   "cn": "方便米粉",
+   "en": "instant rice noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.9",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为主要原料，添加或不添加辅料，经加工制成的多种形式的米粉（米线）制品，添加或不添加"
+  },
+  {
+   "cn": "即时毒性效应",
+   "en": "instant toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.7",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单次暴露外源化学物后随即发生或出现的毒性作用"
+  },
+  {
+   "cn": "即食水产品",
+   "en": "instant aquatic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.6",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "可以直接食用，无需进一步热处理的水产食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

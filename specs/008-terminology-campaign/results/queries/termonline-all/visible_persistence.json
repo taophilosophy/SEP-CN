@@ -1,0 +1,622 @@
+{
+ "key": "visible persistence",
+ "term": "visible persistence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:02:52+00:00",
+ "status": "ok",
+ "note": "variant=visible persistence; 审定公布名词库=505; 海峡两岸名词对照库=244; 其他来源数据库=5; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "持久性",
+   "en": "persistence ",
+   "source": "草学名词",
+   "wordNumber": "2.0026",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "动物学名词",
+   "wordNumber": "7.0582",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "植物学名词",
+   "wordNumber": "13.0559",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "大气科学名词",
+   "wordNumber": "06.365",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "气象要素的距平或异常维持不变的现象。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "生态学名词",
+   "wordNumber": "07.313",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "宿存",
+   "en": "persistent",
+   "source": "风景园林名词",
+   "wordNumber": "08.0281",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "通常指常绿树叶片（针叶）在枝条上存留的时间。"
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "植物学名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "少数苔藓植物原丝体在长出茎和叶后仍继续存活的现象。如苞叶小金发藓。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "光学名词",
+   "wordNumber": "27.037",
+   "subjectFullName": "光学_环境光学、空间光学与自适应光学",
+   "subjectName": "环境光学、空间光学与自适应光学",
+   "publishYear": "2021",
+   "definition": "在特定环境下，正常视力者不用仪器的帮助能将一定大小的黑色目标物从环境背景中区别出来的最大距离。单位为m。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "测绘学名词",
+   "wordNumber": "02.466",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "正常视力能将目标物从背景中区别出来的最大距离所相应的等级。其与大气透明度、目标物和背景的亮度比有关。"
+  },
+  {
+   "cn": "视见度",
+   "en": "visibility",
+   "source": "生理学名词",
+   "wordNumber": "03.371",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可见度",
+   "en": "visibility",
+   "source": "物理学名词",
+   "wordNumber": "04.1246",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": "在大气科学中又称“能见度”。"
+  },
+  {
+   "cn": "可见性",
+   "en": "visibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0327",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "对系统元素的一种约束。规定该元素可以在多大程度上被它所在的名字空间以外的系统成分引用。"
+  },
+  {
+   "cn": "可见性",
+   "en": "visibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0592",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在给定视点和视线方向下，物体表面或其一部分能否为观察者所见。"
+  },
+  {
+   "cn": "可见度",
+   "en": "visibility",
+   "source": "建筑学名词",
+   "wordNumber": "10.0017",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "表征人眼辨认物体存在或形状的难易程度。用实际亮度对比高于阈限亮度对比的倍数来表示。在室外应用时，也可以人眼恰可感知一个对象存在的距离来表示。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "大气科学名词",
+   "wordNumber": "01.247",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "视力正常者能将一定大小的黑色目标物从地平线附近的天空背景中区别出来的最大距离。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0491",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "视力正常者能将一定大小的黑色目标物从地平线附近的天空背景中区别出来的最大距离。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "航空科学技术名词",
+   "wordNumber": "17.108",
+   "subjectFullName": "航空科学技术_机场设施与飞行环境",
+   "subjectName": "机场设施与飞行环境",
+   "publishYear": "2003",
+   "definition": "观测人员在正常视力情况下，在白天，以雾或天空作背景，能看到和辨认出在地面附近一个大小适度的黑色目标物的最大距离；在夜间，则为能看到和识别中等强度的灯光的最大距离。"
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "水产名词",
+   "wordNumber": "01.448",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "正常人视力能将大小适度的目标物从背景中区别出来的最大距离。"
+  },
+  {
+   "cn": "可见度",
+   "en": "visibility",
+   "source": "电气工程名词",
+   "wordNumber": "22.128",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可见的",
+   "en": "visible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "可见性",
+   "en": "visibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "能见度",
+   "en": "visibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地面能见度",
+   "en": "surface visibility\",\"ground visibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性趋势",
+   "en": "persistence tendency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性预报",
+   "en": "persistence forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候持续性",
+   "en": "climatic persistency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泄殖腔存留",
+   "en": "persistent cloaca",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "宿存萼",
+   "en": "persistent sepal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可视可控",
+   "en": "visible and controllable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "持久存储技术标准",
+   "en": "technical standard for persistent storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳糖酶持久性",
+   "en": "lactase persistence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "大多数哺乳动物乳糖酶的活性在断奶后急剧下降。部分人群可维持乳糖酶活性到成年期，使人体可消化乳制品中的乳糖。"
+  },
+  {
+   "cn": "可视变化",
+   "en": "visible change",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于一个或多个过程关键变量后，肉眼可观测到的变化。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性植物状态",
+   "en": "persistent vegetative state",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0120000000000005",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "各种原因导致大脑皮质功能丧失但脑干功能相对完好，持续超过1 个月以上处于皮层下的生存状态。表现为缺乏意识活动，语言丧失，保留无意识的姿态调整和运动功能。"
+  },
+  {
+   "cn": "持久性毒剂",
+   "en": "persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间维持12 小时以上的毒剂（或者可造成染毒维持24 小时），多为沸点高、不易挥发的液体和以微粉状施放的固体毒剂。"
+  },
+  {
+   "cn": "乳糖酶非持久性",
+   "en": "lactase non-persistence, LNP",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种常染色体隐性性状，导致肠道黏膜乳糖酶活性下调和乳糖消化不良。"
+  },
+  {
+   "cn": "持久性有机污染物",
+   "en": "persistent organic pollutants, POPs",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.23",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能持久存在于环境中，并可借助大气、水、生物体等环境介质进行远距离迁移，通过食物链富集，对环境和人类健康造成严重危害的天然或人工合成的有机污染物质。"
+  },
+  {
+   "cn": "半持久性毒剂",
+   "en": "semi-persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间介于1-12 小时之间，在释放后往往以蒸气、气溶胶和毒剂液滴等多种状态存在的毒剂。"
+  },
+  {
+   "cn": "产品包装可视面",
+   "en": "product packaging visible surface",
+   "source": "消毒学",
+   "wordNumber": "5.2.12",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品在销售包装完好的情况下，消费者能够看到的任何面。"
+  },
+  {
+   "cn": "科学贡献的知名度",
+   "en": "visibility of scientific contributions",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.20",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家的科学成果受到同行关注和社会承认的程度。"
+  },
+  {
+   "cn": "儿童持续性抑郁障碍",
+   "en": "persistent depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种常见的抑郁障碍。至少在2年的多数日子里，一天中的多数时间出现抑郁心境，既可以是主观体验也可以是他人观察到的，儿童、青少年可以表现为易激惹，且持续至少1年。"
+  },
+  {
+   "cn": "发声抽动障碍",
+   "en": "persistent motor or vocal tic disorder, PMVT",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "简单性或复杂性的运动抽动或发声抽动，且两种抽动一般不同时存在，病程至少持续一年以上。抽动形式可是简单性的，也可是复杂性的；抽动可单一部位，也可多部位。一般以面肌、眼肌抽动最常见，慢性发声抽动也较常见。"
+  },
+  {
+   "cn": "看不见的手",
+   "en": "invisible hand",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.18",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "斯密(Adam Smith）所用的一个隐喻，指个人出于私利而行动，却会产生增进社会福利的善果的机制。"
+  },
+  {
+   "cn": "无形的宗教",
+   "en": "invisible religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.11",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "托马斯·卢克曼（Thomas Luckmann）从关注个体在现代社会的定位出发，对宗教进行功能性定义，从而超越了对宗教的实质性面向的传统关注。在同名专著中，他指出现代社会中的宗教已转化为以个人虔信为基"
+  },
+  {
+   "cn": "无形学院",
+   "en": "invisible colleges",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.16",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "英国科学家波义耳(Robert Boyle）在1646年左右提出的一个概念，最初指科学家通过各种非正式的方式（如著述、私人通信、书店浏览和私下传阅等）进行研究交流的现象，后泛指科学家之间一套非正式的沟"
+  },
+  {
+   "cn": "隐形手套",
+   "en": "invisible protective gloves",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "将含有特定杀菌成分的皮肤消毒产品喷涂于手部，形成可具有杀菌功能、微生物阻隔能力、可持续存在的手部防护膜。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

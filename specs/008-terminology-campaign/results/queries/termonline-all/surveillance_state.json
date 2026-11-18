@@ -1,0 +1,722 @@
+{
+ "key": "surveillance state",
+ "term": "surveillance state",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:22:17+00:00",
+ "status": "ok",
+ "note": "variant=surveillance state; 审定公布名词库=2649; 海峡两岸名词对照库=631; 其他来源数据库=97; 预公布名词数据库=167; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "监视国家",
+   "en": "surveillance state",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.083",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "由政府或政府所属的情报机构执行，对行政区域内全体或大多数社会成员实施大规模监控的国家。大规模监控常以打击恐怖主义、避免社会动乱、维护国家安全、打击儿童色情以及保护儿童等理由被提出，并使用“无所隐瞒论”"
+  },
+  {
+   "cn": "监测",
+   "en": "surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "按计划或有关规定，对某一动物群体持续进行一种或几种疫病发生情况的调查和检测。为发生或可能发生疫病的防控提供依据。"
+  },
+  {
+   "cn": "监测",
+   "en": "surveillance",
+   "source": "计划生育名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "一个长期的收集、分析、解释和利用数据的过程。当前的自愿报告数据收集机制是监测系统的主要组成部分。"
+  },
+  {
+   "cn": "监理",
+   "en": "surveillance",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0786",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "有关执行者，根据一定的行为准则，对某些行为进行监督管理，使这些行为符合准则要求，并协助行为主体实现行为目的。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "initiative surveillance,active surveillance",
+   "source": "地方病学名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "地方病学_总论_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "根据特殊需要，上级单位亲自调查收集或者要求下级单位严格按照规定收集资料的过程。"
+  },
+  {
+   "cn": "监控摄像机",
+   "en": "surveillance camera",
+   "source": "风景园林名词",
+   "wordNumber": "08.0838",
+   "subjectFullName": "风景园林_风景园林工程_风景园林弱电",
+   "subjectName": "风景园林弱电",
+   "publishYear": "2025",
+   "definition": "用于获取监视现场图像的前端设备。其以面阵感光耦合组件图像传感器为核心部件，外加同步信号产生电路、视频信号处理电路及电源等。"
+  },
+  {
+   "cn": "疾病监测",
+   "en": "disease surveillance",
+   "source": "急救医学名词",
+   "wordNumber": "03.891",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "在现况调查的基础上，对其中部分有价值的疾病或项目的分布和影响因素进行长期、系统、全面的动态观察，从而发现某些疾病的发展趋势和分布的变化，以不断修改和完善对疾病的防治策略和措施。"
+  },
+  {
+   "cn": "胎儿检测",
+   "en": "fetus surveillance",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.142",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "在女性怀孕期间，医师利用各种非侵入性诊断和监测技术参数，以评估发育中的胎儿的生长和健康，以及胎儿承受怀孕、分娩和分娩压力能力的检测。保障胎儿在子宫内茁壮成长和顺利娩出。"
+  },
+  {
+   "cn": "免疫监测",
+   "en": "immune surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "02.072",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "利用血清学方法，对某些疫（菌）苗免疫动物在免疫接种前后的抗体跟踪监测，以确定接种时间和免疫效果。"
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immunological surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "动物机体识别和清除体内肿瘤细胞的能力。"
+  },
+  {
+   "cn": "监测环境功能",
+   "en": "surveillance function",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.005",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播具有帮助社会团体或个人收集信息，以判断、了解和应对周围自然环境与社会环境状况及其变化的社会效能。美国学者哈罗德·拉斯韦尔(Harold Lasswell)1948年提出的大众传播的三大社会功能"
+  },
+  {
+   "cn": "大规模监视",
+   "en": "mass surveillance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.13",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对整个或相当大一部分人口进行的复杂监视，通常由政府或政府组织进行，但也可由公司代表政府或主动进行。根据每个国家的法律和司法制度，从事大规模监视所需的合法性和许可权各有不同。它通常不同于定向监视。大规模"
+  },
+  {
+   "cn": "监视社会",
+   "en": "surveillance society",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.131",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种通过监视方能部分运转的社会，个人和群体生活中的信息被广泛收集、记录、存储、分析和应用。"
+  },
+  {
+   "cn": "全球监控",
+   "en": "global surveillance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.084",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "对全体社会成员实施的跨越国境的监控。最初的全球监控行为可以追溯到1946年3月5日签订的英美协定(参与国之后延伸至加拿大、澳大利亚与新西兰等共五国，又被称为“五眼联盟”)，其宗旨在于共享各项军事与机密"
+  },
+  {
+   "cn": "营养监测",
+   "en": "nutrition surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.039",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "以改善营养状况和条件为目的，长期动态监测人群的营养状况，同时收集影响人群营养状况的有关社会经济等方面资料的行为。"
+  },
+  {
+   "cn": "地震监测",
+   "en": "seismic surveillance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2003",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "对地震活动、地震过程及可能的地震前兆异常的监测。 "
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.055",
+   "subjectFullName": "行为医学_预防保健行为_公共卫生监测",
+   "subjectName": "公共卫生监测",
+   "publishYear": "2022",
+   "definition": "根据特殊需要收集特定健康事件或公共卫生领域资料的过程。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.056",
+   "subjectFullName": "行为医学_预防保健行为_公共卫生监测",
+   "subjectName": "公共卫生监测",
+   "publishYear": "2022",
+   "definition": "基层机构或个体报告公共卫生事件或资料，政府和专业监测机构被动接受的过程。"
+  },
+  {
+   "cn": "哨点监测",
+   "en": "sentinel surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.057",
+   "subjectFullName": "行为医学_预防保健行为_公共卫生监测",
+   "subjectName": "公共卫生监测",
+   "publishYear": "2022",
+   "definition": "根据疾病的流行特点，选择若干有代表性的地区和（或）人群，由设在各地的监测点按照统一的监测方案连续开展监测的过程。"
+  },
+  {
+   "cn": "伤害监测",
+   "en": "injury surveillance",
+   "source": "行为医学名词",
+   "wordNumber": "8.058",
+   "subjectFullName": "行为医学_预防保健行为_公共卫生监测",
+   "subjectName": "公共卫生监测",
+   "publishYear": "2022",
+   "definition": "长期、连续地收集不同人群伤害的发生、死亡、伤残和经济损失等资料，阐明伤害类型、人群时间分布特点和趋势的监测方式。用于寻找与环境、人群和成本-效益相关的最优伤害预防与控制手段。"
+  },
+  {
+   "cn": "环境监视",
+   "en": "environmental surveillance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immune surveillance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immune surveillance",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电子监视",
+   "en": "electronic surveillance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海洋监视",
+   "en": "marine surveillance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "监督",
+   "en": "surveillance (=supervision)",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "水监测网",
+   "en": "water surveillance network",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫监视假说",
+   "en": "immunologic surveillance hypothesis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肿瘤免疫监视",
+   "en": "tumor immune surveillance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "港口监视雷达",
+   "en": "harbor surveillance radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空中监视雷达",
+   "en": "air-surveillance radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卫星监视雷达",
+   "en": "satellite surveillance radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳态，定常态",
+   "en": "steady-state\",\"stable state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基[础]态",
+   "en": "ground state\",\"base state",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全阶段（=无性阶段）",
+   "en": "imperfect state (=asexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全阶段（=有性阶段）",
+   "en": "perfect state (=sexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "搜索雷达，监视雷达",
+   "en": "surveillance radar\",\"search radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜计划",
+   "en": "PRISM Surveillance Program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超临界状态",
+   "en": "supercritical state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主权国家",
+   "en": "sovereign state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家赔偿",
+   "en": "state compensation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固态硬盘",
+   "en": "Solid State Disk\nSolid State Drive",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安防监控系统",
+   "en": "security surveillance and control system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线安防探测系统",
+   "en": "wireless security and surveillance system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "Family-state / Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元首",
+   "en": "Head of State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "素朴",
+   "en": "The Natural State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监控",
+   "en": "surveillance",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.34",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "关于规训、越轨、制度性实践的一种广泛设定，它们共同强调的是社会限制、人格成长、教育后果的特定见解；它除了包含警察、监狱、军队、收容所、宗教、学校、精神病院、社会工作组织等正式的组织实践，还包括公共场所"
+  },
+  {
+   "cn": "核监测",
+   "en": "nuclear surveillance",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "通过各种技术手段对核活动进行侦测。包括卫星侦察，地震、次声、水声、放射性核素以及电磁辐射等指标的监测活动。以一个国家或全球设立若干监测站，形成网络，有统一的通信和数据传输系统和信息分析中心。"
+  },
+  {
+   "cn": "监测场所",
+   "en": "surveillance area",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "在校内或特定的健康人群体检场所，设有学生集合场地、大于等于20平方米的室内候诊区、男女分开的内科、外科检查室、眼科、耳鼻喉科、口腔科检查室、化验室、消毒供应室、男、女卫生间，能满足健康检查要求的场地。"
+  },
+  {
+   "cn": "监测方法学",
+   "en": "surveillance methodology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "研究人群健康相关问题监测思维和工作方法的一门综合性学科。"
+  },
+  {
+   "cn": "监测方法",
+   "en": "surveillance approach",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测方法”。又称“妇幼健康监测方法”。可满足不同监测目标的一套监测思维和工作方法。主要包括主动、被动、人群和医院监测。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "根据疾病预防控制的需要，由上级单位主动采取额外的措施收集健康数据并确认疾病诊断的一种监测方式。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由下级监测单位常规地向上级机构报告健康数据，而上级单位被动接受的一种监测方式。"
+  },
+  {
+   "cn": "监测评价",
+   "en": "surveillance evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测评价”。又称“妇幼健康监测评价”。根据监测信息，系统、有效的评估监测目标进展、干预措施效果等，并不断优化监测系统，以确保完成监测目标的过程。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "基层机构或个体报告食源性疾病事件，上级单位接受报告资料"
+  },
+  {
+   "cn": "症状监测",
+   "en": "symptom surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "长期、连续、系统收集特定临床症候群及与疾病相关表现的发生情况。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对特定病原体的监测，为食源性疾病诊断提供病原学确证，并结合流行病学调查，掌握重要食源性疾病的发病基线"
+  },
+  {
+   "cn": "流行病学监测",
+   "en": "epidemiological surveillance",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "长期地、连续地收集、核对、分析目标区域疾病的动态分布和影响因素资料，并将资料信息及时和反馈，以便及时采取干预措施或用于生物安全风险评估的过程。"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0277",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "维护一个阶级对另一个阶级统治的机器，是阶级矛盾不可调和的产物。"
+  },
+  {
+   "cn": "职业健康监护",
+   "en": "occupational health surveillance",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "为保证放射工作人员上岗前及在岗期间都能适任其拟承担或所承担的工作任务而进行的医学检查和评价，其主要包括职业健康检查、应急或事故健康检查和职业健康监护档案管理等。"
+  },
+  {
+   "cn": "传染病监测",
+   "en": "infectious disease surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "长期、连续、系统收集学校传染病流行状况，对学生中传染病流行动态变化进行科学分析和预测预警，并及时将相关信息反馈给教育卫生等相关机构以及个人，用以指导制定、完善和评价学校传染病干预措施与策略的过程。"
+  },
+  {
+   "cn": "个体监测报告",
+   "en": "individual surveillance report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构在学生及其监护人知情同意的前提下，向学校反馈学生个体健康体检结果，并由学校向学生及其监护人反馈的资料。内容包括个体体检项目的客观结果、对体检结果的综合评价以及健康指导建议等。"
+  },
+  {
+   "cn": "个体监测指标",
+   "en": "individual surveillance predictor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构对学生开展既往疾病史、基本项目和可选择项目监测的总称。基本项目包括形态指标、外科、内科、耳鼻喉科、眼科、口腔科、实验室检查项目等；可选择项目包括眼位、色觉、外生殖器、胆红素等。"
+  },
+  {
+   "cn": "孕产妇死亡监测",
+   "en": "maternal mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在全国或代表性地区内对发生的孕产妇死亡进行长期持续的动态观察，收集孕产妇死亡、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "出生缺陷监测",
+   "en": "birth defect surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在全国或某一地区选择有代表性的医院或人群，长期持续地动态观察出生缺陷的发生，收集出生缺陷发生率及相关资料，分析其消长原因，并反馈信息、应用于致畸因素识别和出生缺陷预防的过程。"
+  },
+  {
+   "cn": "以人群为基础的监测",
+   "en": "population-based surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "以某地理或行政区域范围内所有满足纳入条件的目标人群为监测对象的一种监测方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

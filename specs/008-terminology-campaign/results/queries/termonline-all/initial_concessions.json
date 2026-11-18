@@ -1,0 +1,782 @@
+{
+ "key": "initial concessions",
+ "term": "initial concessions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:17:49+00:00",
+ "status": "ok",
+ "note": "variant=initial concessions; 审定公布名词库=678; 海峡两岸名词对照库=240; 其他来源数据库=44; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "让步",
+   "en": "concession",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0745",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "对使用或放行不符合规定要求的产品的许可。"
+  },
+  {
+   "cn": "租界",
+   "en": "zujie,concession",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "一国通过条约规定在别国领土上设置的具有行政自治权和治外法权的居留地。"
+  },
+  {
+   "cn": "特许期",
+   "en": "concession period",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0515",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "按照建设–运营–转化模式和类似程序，由特许权所有人对工程进行运行和维护，并回收成本和运行、维护费用的款额的时期。"
+  },
+  {
+   "cn": "租让制",
+   "en": "Concession Policy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0396",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "苏俄在新经济政策时期开始采取的恢复和发展经济的一项重要措施，1937年废止。"
+  },
+  {
+   "cn": "租界",
+   "en": "leased territory,concession",
+   "source": "地理学名词",
+   "wordNumber": "19.272",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "帝国主义国家强迫半殖民地国家在通商都市内“租借”给他们做进一步侵略的据点的地区。"
+  },
+  {
+   "cn": "起爆",
+   "en": "initiating,initiation",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.317",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "激发炸药使其爆炸的过程。"
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "语言学名词",
+   "wordNumber": "03.068",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "汉语音节结构的起首成分。由辅音构成。可分为清声母、浊声母和零声母。"
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "语言学名词",
+   "wordNumber": "03.068",
+   "subjectFullName": "语言学_语音学_汉语语音学",
+   "subjectName": "汉语语音学",
+   "publishYear": "2011",
+   "definition": "汉语音节结构的起首成分。由辅音构成。可分为清声母、浊声母和零声母。"
+  },
+  {
+   "cn": "原始细胞",
+   "en": "initial,initial cell",
+   "source": "植物学名词",
+   "wordNumber": "03.0685",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "分生组织中通过分裂仍保持原状的细胞。"
+  },
+  {
+   "cn": "起始子",
+   "en": "initiator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0523",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "RNA聚合酶Ⅱ启动子的转录起始点-3和+5之间的序列。基本序列为Py2CAPy5（Py表示任一嘧啶）。与TATA框或下游启动子元件（DEP）组成RNA聚合酶Ⅱ的核心启动子。"
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0073",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "聚合反应中能引起单分子活化而产生自由基的物质。"
+  },
+  {
+   "cn": "发起端",
+   "en": "initiator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0535",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "在一个输入输出总线或者网络上发起输入输出操作的系统组件。"
+  },
+  {
+   "cn": "初启程序",
+   "en": "initiator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0587",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统启动过程中最先执行的操作系统内核程序。"
+  },
+  {
+   "cn": "引发",
+   "en": "initiation",
+   "source": "化学名词",
+   "wordNumber": "02.1018",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "产生诱发链反应的自由基(或其他活泼中间体)的反应或过程。"
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "化学名词",
+   "wordNumber": "05.0524",
+   "subjectFullName": "化学_高分子化学_聚合与高分子化学反应",
+   "subjectName": "聚合与高分子化学反应",
+   "publishYear": "2016",
+   "definition": "可产生自由基或离子活性种，并能引发链式聚合的物质。"
+  },
+  {
+   "cn": "首创精神",
+   "en": "initiative",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0353",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "法约尔(Henri Fayol)管理原则之一，激发全体人员进行发明与自主执行的能力。"
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "药学名词",
+   "wordNumber": "07.261",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "在化学致癌作用的引发阶段，具有引发作用的化学物质。"
+  },
+  {
+   "cn": "成年礼",
+   "en": "initiation",
+   "source": "教育学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "人类社会早期原始部落考验青少年身心发展状况，从而确定其成人社会地位的仪式。"
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0061",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "可产生自由基或离子等活性种，以引发链式聚合的物质。"
+  },
+  {
+   "cn": "初值化",
+   "en": "initialization",
+   "source": "大气科学名词",
+   "wordNumber": "05.487",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "用大气观测值确定数值预报模式中变量的一组相互一致的初始值。"
+  },
+  {
+   "cn": "发生权",
+   "en": "concession",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限让与",
+   "en": "limited concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "租界",
+   "en": "leased territory\",\"concession",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "非关税减让",
+   "en": "non-tariff concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关税减让",
+   "en": "concession of tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关税减让表",
+   "en": "schedule of concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许证",
+   "en": "charter of concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特种关税减让",
+   "en": "special tariff concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠率",
+   "en": "rate of concession",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始细胞",
+   "en": "initial\",\"initial cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初值化",
+   "en": "initialization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "引发",
+   "en": "initiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "起始子",
+   "en": "initiator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "起始",
+   "en": "initiation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初启程序",
+   "en": "initiator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动权",
+   "en": "initiative",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发阵容",
+   "en": "initial lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "初次称重",
+   "en": "initial weighing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四端",
+   "en": "Four Initiators",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "首次公开募股",
+   "en": "Initial Public Offering",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧洲地平线行动计划",
+   "en": "Horizon Europe Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Internet.org计划",
+   "en": "Internet.org Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《乌镇倡议》（中国）",
+   "en": "Wuzhen Initiative (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式机器人伦理倡议",
+   "en": "Open Roboethics initiative (ORi)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《国家机器人计划2.0》（美国）",
+   "en": "National Robotics Initiative 2.0 (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "村村通",
+   "en": "rural infrastructure upgrade initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球企业注册倡议",
+   "en": "Global Enterprise Registration Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据开放运动",
+   "en": "open government data initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康中国战略",
+   "en": "the Healthy China Initiative",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平安中国",
+   "en": "the Safe China Initiative",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "source": "马克思主义",
+   "wordNumber": "02.0323",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联新经济政策时期国家资本主义的一种形式。1920年11月苏维埃俄国公布《关于租让组织一般条件的命令》，规定由苏维埃俄国同外国资本家签订合同，把暂时无力经营或开发的企业、矿山、森林区等租给这些资本家经"
+  },
+  {
+   "cn": "初始辐射",
+   "en": "initial radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.12",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "由源发射体或辐射装置直接发射出来的未受到除空气以外的其他任何障碍物阻碍的辐射。"
+  },
+  {
+   "cn": "初始阶段",
+   "en": "initial phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现情况、有必要立即采取行动到有效地完成这些行动的这段时间。这些行动包括运营者采取的缓解行动和现场内外的紧急防护行动。"
+  },
+  {
+   "cn": "始动调节",
+   "en": "initial regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层的工作能力在工作开始时水平很低，经启动后逐渐提高的一种现象。"
+  },
+  {
+   "cn": "近期效应",
+   "en": "initial effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.10",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在急性照射（也就是在数小时之内接受较大的剂量）之后数小时到数周就能出现的效应。"
+  },
+  {
+   "cn": "四端",
+   "en": "four initiators",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.07",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁、义、礼、智四种道德观念的端始、萌芽。孟子认为四端是人之本性的自然呈现，是人与动物的不同之处，人没有四端则不能称其为人；认为恻隐之心是仁之端，羞恶之心是义之端，辞让之心是礼之端，是非之心是智之端。"
+  },
+  {
+   "cn": "初始菌量",
+   "en": "initial bacteria amount",
+   "source": "消毒学",
+   "wordNumber": "6.2.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "未经过消毒或灭菌处理前，单位体积空气、液体中或单位面积物体表面上可以检出的活菌数量，单位以菌落形成单位每立方米（CFU/m3）、菌落形成单位每毫升（CFU/mL）、菌落形成单位每平方米（CFU/m2）"
+  },
+  {
+   "cn": "开奶",
+   "en": "initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "分娩后第一次给新生儿喂哺人乳的时机，一般以新生儿开始吸吮母亲包括乳头和乳晕在内的乳房为标志。"
+  },
+  {
+   "cn": "一带一路倡议",
+   "en": "Belt and Road Initiative",
+   "source": "马克思主义",
+   "wordNumber": "03.0798",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以习近平同志为核心的党中央做出的创造更全面、更深入、更多元的对外开放格局的重大决策。2013年9月和10月，中国国家主席习近平在出访中亚和东南亚国家期间，先后提出共建“丝绸之路经济带”和“21世纪海上"
+  },
+  {
+   "cn": "爱婴行动",
+   "en": "baby-friendly hospital initiative",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "鼓励世界各地的卫生设施更好地支持母乳喂养，促进母亲及其婴儿获得最佳保健的实践。该行动由联合国儿童基金会和世界卫生组织于1991年发起。"
+  },
+  {
+   "cn": "早开奶率",
+   "en": "early initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "出生后一小时内接触母亲乳房的2岁以下儿童数占年龄段儿童总数的百分比。"
+  },
+  {
+   "cn": "开奶时间",
+   "en": "initiating time of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "分娩后给新生儿第一次哺喂母乳的时间。"
+  },
+  {
+   "cn": "分子起始事件",
+   "en": "molecular initiating event, MIE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物与生物体接触，在分子水平上产生的能引起下游事件并导致有害结局所必需的分子间相互作用的原初事件。"
+  },
+  {
+   "cn": "初始污染菌量",
+   "en": "initial amount of contaminated bacteria",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.15",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "消毒灭菌前物品上存活的微生物总数。"
+  },
+  {
+   "cn": "早期核辐射损伤",
+   "en": "injury due to initial nuclear radiation",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "早期核辐射以γ射线和中子的外照射为主，引起的急性放射病。临床上急性放射病可分为骨髓型、肠型和脑型三种类型。其病程分为初期、假愈期、极期和恢复期四个阶段。"
+  },
+  {
+   "cn": "核爆炸早期核辐射",
+   "en": "initial nuclear radiation of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.53",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核武器特有的杀伤破坏因素，由核爆炸最初十几秒内发射的γ射线和中子组成。其特点是：传播速度快、作用时间短、穿透力强、可发生散射和中子感生放射性，是核武器特有的杀伤因素。"
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "流产后立即开始避孕",
+   "en": "instant initiation of contraception after abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "流产女性在人工流产手术前通过咨询指导，知情选择避孕方法，并在人流术后当天立即落实适宜避孕措施的做法，如人流术后即时放置宫内节育器、开始口服短效避孕药等，以降低术后短期内再次妊娠和重复流产的风险，保障女"
+  },
+  {
+   "cn": "职业性放射性疾病诊断首次鉴定",
+   "en": "initial verification of diagnosis of occupational radiation disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "当事人对职业性放射性疾病诊断机构作出的职业病诊断有异议的，可以在接到职业病诊断证明书一定时间内，向职业性放射性疾病诊断机构所在地设区的市级卫生健康主管部门申请的鉴定。"
+  },
+  {
+   "cn": "出生医学证明首次签发率",
+   "en": "initial issuance rate of medical certificate of birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.9.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区第一次为新生儿出具《出生医学证明》的数量与需开具证明的新生儿人数之比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

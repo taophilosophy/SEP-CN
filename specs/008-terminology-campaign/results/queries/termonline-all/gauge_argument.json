@@ -1,0 +1,562 @@
+{
+ "key": "gauge argument",
+ "term": "gauge argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:12:02+00:00",
+ "status": "ok",
+ "note": "variant=gauge argument; 审定公布名词库=552; 海峡两岸名词对照库=144; 其他来源数据库=16; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "水尺",
+   "en": "gauge",
+   "source": "计量学名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "计量学_容量、流量_流量",
+   "subjectName": "流量",
+   "publishYear": "2015",
+   "definition": "安装在水文站用以测量相对于基准面的液体表面液位的装置。"
+  },
+  {
+   "cn": "限界",
+   "en": "gauge",
+   "source": "建筑学名词",
+   "wordNumber": "02.0740",
+   "subjectFullName": "建筑学_建筑类型及组成_交通建筑",
+   "subjectName": "交通建筑",
+   "publishYear": "2014",
+   "definition": "限定车辆运行及轨道周围构筑物超越的轮廓线。分车辆限界、设备限界和建筑限界三种，是工程建设、管线和设备安装位置等必须遵守的依据。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "塞尺",
+   "en": "gap gauge,feeler gauge",
+   "source": "计量学名词",
+   "wordNumber": "02.083",
+   "subjectFullName": "计量学_几何量_长度",
+   "subjectName": "长度",
+   "publishYear": "2015",
+   "definition": "有准确厚度尺寸的单片或成组的薄片，用于检验间隙的一种测量仪器。"
+  },
+  {
+   "cn": "限界",
+   "en": "clearance,gauge",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0053",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "弹簧管压力计",
+   "en": "Bourdon gauge",
+   "source": "地质学名词",
+   "wordNumber": "13.05.024",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "一种用于测量气体和液体压力的实验装置。"
+  },
+  {
+   "cn": "规范理论",
+   "en": "gauge theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.353",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "一种拉格朗日量在局域变换的连续群作用下保持不变的场论。即以规范不变性原理为核心的基本相互作用理论。1954年杨振宁和R. 米尔斯（R. Mills）把规范不变性原理应用到强相互作用。"
+  },
+  {
+   "cn": "牛顿规范",
+   "en": "Newtonian gauge",
+   "source": "天文学名词",
+   "wordNumber": "07.617",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙微扰论中的一种广义相对论规范，其时-时分量等于牛顿力学中的引力势。"
+  },
+  {
+   "cn": "同步规范",
+   "en": "synchronous gauge",
+   "source": "天文学名词",
+   "wordNumber": "07.618",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙微扰论中一种常见的坐标选取方法，其时间坐标为所有共动观测者的固有时间。"
+  },
+  {
+   "cn": "验潮计",
+   "en": "tide gauge",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0233",
+   "subjectFullName": "地球物理学_地球重力学_重力测量仪器",
+   "subjectName": "重力测量仪器",
+   "publishYear": "2022",
+   "definition": "用于测量海平面相对于固定基准变化 (潮汐等)的仪器装置。 "
+  },
+  {
+   "cn": "声计",
+   "en": "acoustic gauge",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0634",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "测量声波在介质中传播时力学、热学、光学特征的仪器。主要测量声强、声压、声功率等。 "
+  },
+  {
+   "cn": "球规值",
+   "en": "ball gauge",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0744",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承与公差关联的尺寸",
+   "subjectName": "滚动轴承与公差关联的尺寸",
+   "publishYear": "2021",
+   "definition": "球批平均直径与球公称直径之间的微小差量，此量为一确定系列中的量。"
+  },
+  {
+   "cn": "滚子规值",
+   "en": "roller gauge",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0747",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承与公差关联的尺寸",
+   "subjectName": "滚动轴承与公差关联的尺寸",
+   "publishYear": "2021",
+   "definition": "在规定的同一径向平面内，由单一平面滚子平均直径偏离滚子公称直径的上偏差和下偏差所限定的直径偏差范围。"
+  },
+  {
+   "cn": "表压力",
+   "en": "gauge pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0829",
+   "subjectFullName": "机械工程（一）_传动_液压传动_压力",
+   "subjectName": "压力",
+   "publishYear": "2021",
+   "definition": "压力表显示的压力。数值为绝对压力减去大气压力。"
+  },
+  {
+   "cn": "压力表",
+   "en": "pressure gauge",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1220",
+   "subjectFullName": "机械工程（一）_传动_液压传动_检测及辅助元件",
+   "subjectName": "检测及辅助元件",
+   "publishYear": "2021",
+   "definition": "测量并指示表压力值的仪表。"
+  },
+  {
+   "cn": "塞尺",
+   "en": "feeler gauge",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.042",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量具",
+   "subjectName": "量具",
+   "publishYear": "2021",
+   "definition": "具有准确厚度尺寸的单片或成组的薄片。用于检测间隙的实物量具。"
+  },
+  {
+   "cn": "量块",
+   "en": "gauge block",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.056",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量具",
+   "subjectName": "量具",
+   "publishYear": "2021",
+   "definition": "具有一对相互平行测量面，且两平面间具有准确尺寸，其横截面为矩形等形式的实物量具，用于复现或提供给定的一致长度量值的量具。"
+  },
+  {
+   "cn": "表",
+   "en": "gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计",
+   "en": "gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气泡式验潮仪",
+   "en": "bubbler gauge\",\"bubble gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自记水位计",
+   "en": "automatic gauge\",\"automatic water  gauge\",\"recording gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定向测雨器",
+   "en": "vector gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪峰计",
+   "en": "crest gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气泡水位计",
+   "en": "bubble gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表压",
+   "en": "gauge pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活塞式压力计",
+   "en": "piston gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "液位计",
+   "en": "level gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "应变仪",
+   "en": "strain gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "虹吸压力计",
+   "en": "siphon gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "弹簧管压力计",
+   "en": "Bourdon gauge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同位素仪表",
+   "en": "isotope gauge",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测波仪",
+   "en": "wave gauge",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "验潮仪",
+   "en": "tide gauge",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "雨量计",
+   "en": "rain gauge",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "标准轨距",
+   "en": "standard gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测量器",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量规",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属片",
+   "en": "gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "椭圆量规",
+   "en": "skid gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹孔测量器",
+   "en": "plug gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风速计",
+   "en": "wind gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶场测量",
+   "en": "range gauging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量船",
+   "en": "gauging boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风速测量员",
+   "en": "wind gauge operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量网尺",
+   "en": "net measuring gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测斜仪",
+   "en": "clinometer\",\"inclinometer\",\"pitch gauge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核子仪",
+   "en": "nucleonic gauge",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.1",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用放射源发射的光子和/或中子以及中子管发射的中子对各种介质进行位置检测、厚度测量、密度测量或成分分析等的仪表或装置的总称。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

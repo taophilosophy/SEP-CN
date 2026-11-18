@@ -1,0 +1,42 @@
+{
+ "key": "exceptionism",
+ "term": "exceptionism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:06:30+00:00",
+ "status": "ok",
+ "note": "variant=exceptionism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "美国例外论",
+   "en": "American Exceptionalism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0103",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "源于19世纪末20世纪初德国学者桑巴特的论述，认为美国由于民族组成，建国和发展的历史环境与欧洲国家不同，造成了在美国不具有“强大的社会主义工人运动”的例外。第二次世界大战后，由于美国地位的变化，“美国"
+  },
+  {
+   "cn": "超长超重列车",
+   "en": "exceptionally long and heavy train",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0083",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "例外论",
+   "en": "exceptionalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

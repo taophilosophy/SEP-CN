@@ -1,0 +1,792 @@
+{
+ "key": "moral validity",
+ "term": "moral validity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:16:43+00:00",
+ "status": "ok",
+ "note": "variant=moral validity; 审定公布名词库=647; 海峡两岸名词对照库=257; 其他来源数据库=38; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.016",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "测量工具或手段能够准确测出所需测量事物的程度。"
+  },
+  {
+   "cn": "真实性",
+   "en": "validity",
+   "source": "物理学名词",
+   "wordNumber": "01.0158",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "物理学名词",
+   "wordNumber": "01.0157",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "一个测验能测出所要测量项目内容的特征或其功能的程度。以反映测验的有效性或准确性。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "心理学名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "测验在多大程度上测量了它要测量的东西。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "药学名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "测量指标或观测结果在多大程度上反映了事物的客观真实性。包括内部效度和外部效度。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "测量值与实际值相符合的程度。"
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.746",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "关于健全的、正确的，或效率的质量状况的一种相对程度的度量。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0368",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "2020",
+   "definition": "确定“危害分析与关键控制点（HACCP)”体系是否按照计划运转，或计划是否需要修改，以及再被确认生效使用的方法、程序、检测及审核手段。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0504",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "在开发过程期间或结束时对系统或部件进行评价，通过检查和提供客观证据，以确定它是否满足特定预期用途的需求的过程。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0823",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "通过提供客观证据对特定的预期用途或应用要求已得到满足的认定。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.593",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "进行程序或系统测试的过程，以确保其符合相关的标准或规范。"
+  },
+  {
+   "cn": "真实性检验",
+   "en": "validation",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0956",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋遥感",
+   "subjectName": "海洋遥感",
+   "publishYear": "2007",
+   "definition": "通过现场观测来检验遥感数据、遥感产品和遥感算法的真实性的技术。"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "生态学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "主要指模型的输出和观察值是否相符。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.046",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.017",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "测量项目反映测量内容的程度。反映测量内容的适当性和相符性。"
+  },
+  {
+   "cn": "校标[关联]效度",
+   "en": "criterion validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.018",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "一个或一组测量指标与其他有效测量指标的关联程度。表示测量工具的效度。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "行为医学名词",
+   "wordNumber": "19.019",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "用于衡量某个特定测度与其他测度之间的关系符合理论假设关系的程度。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确定性",
+   "en": "validity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "区分效度",
+   "en": "discriminant validity\",\"differential validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "预报时效",
+   "en": "period validity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线索效度",
+   "en": "cue validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "聚合效度",
+   "en": "convergent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "效度概化",
+   "en": "validity generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因素效度",
+   "en": "factorial validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽样效度",
+   "en": "sampling validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "构想效度,结构效度",
+   "en": "construct validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同时效度",
+   "en": "concurrent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相容效度",
+   "en": "congruent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效力法定",
+   "en": "statutory validity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效",
+   "en": "muko\",\"not valid",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效得分",
+   "en": "point\",\"valid point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start\",\"valid start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效刺中",
+   "en": "invalid hit\",\"non-valid hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效部位",
+   "en": "invalid target\",\"non-valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.74",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "某个量度能够度量它所要度量的内容的程度。"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "测量结果与试图要达到的目标之间的接近程度。用以判断调查量表及测量结果的有效性或准确性。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "获得证据，证明危害分析与关键控制点（HACCP）的各要素是有效的过程。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用所设计量表与作为标准（即准则）的量表对同一人群进行调查，通过评价量表测量结果与标准量表测量之间的接近程度，来判断量表测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用某个量度对理论概念或特质的测量程度来衡量其效度的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用几种不同的测量方式或不同指标对同一变量进行测量时，将其中的一种方式或指标作为准则，并通过其他的方式或指标与之作比较而测量效度的方法。"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“分歧效度”。基于多重指标所测量的概念或特质的不相关关系，通过计算指标之间的不相关关系而测量其效度的方法。"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以判断研究发现能否推论到更广泛的总体的量度。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "外行人从表面上判断的指标是否真的测量到所欲测量的概念的程度。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "预测效度",
+   "en": "predictive validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一个指标能预测在逻辑上与概念相关的事件的量度。"
+  },
+  {
+   "cn": "生态效度",
+   "en": "ecological validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估在特定环境下（实验室环境）使用的测量工具能否刻画其他环境条件（日常环境或自然环境）下个体的认知过程的量度。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "根据量表实际测量结果与所要测量的理论结构的一致性，即测量结果是否符合假设的理论来评价量表有效性。是采用统计方法对收集数据客观评价测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "从表面上直观判断量表的条目是否都是与研究者想要测量的问题有关。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

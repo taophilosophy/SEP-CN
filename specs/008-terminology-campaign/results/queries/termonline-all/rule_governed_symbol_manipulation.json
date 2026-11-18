@@ -1,0 +1,762 @@
+{
+ "key": "rule-governed symbol manipulation",
+ "term": "rule-governed symbol manipulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:01:44+00:00",
+ "status": "ok",
+ "note": "variant=rule-governed symbol manipulation; 审定公布名词库=1341; 海峡两岸名词对照库=402; 其他来源数据库=316; 预公布名词数据库=182; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "符号操纵语言",
+   "en": "symbol manipulation language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种针对以符号化形式描述的代数表达式及其相关操作的程序设计语言。"
+  },
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.128",
+   "subjectFullName": "中医药学_骨伤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "以手为主，在体表特定部位或穴位上施以不同的动作技巧，以调节人体生理、病理状态，从而达到防治疾病的方法的总称。"
+  },
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "中医药学_推拿学、养生学、康复学",
+   "subjectName": "推拿学、养生学、康复学",
+   "publishYear": "2004",
+   "definition": "操作者用手足刺激患病部位和运动肢体，达到治疗、保健作用的规范化技巧动作。"
+  },
+  {
+   "cn": "手法治疗",
+   "en": "manipulation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0206",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "推拿[术]",
+   "en": "manipulation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.246",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.333",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备",
+   "subjectName": "工艺装备与设备",
+   "publishYear": "2021",
+   "definition": "能够移动和控制焊接机头、焊枪或焊件，按照选定的焊接速度沿规定的轨迹进行焊接的装置。"
+  },
+  {
+   "cn": "操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0443",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "用来抓取和(或)移动物体、由一些相互铰接或相对滑动的构件组成的多自由度机器。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0980",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "能模仿人手和手臂的某些动作功能。用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "化学名词",
+   "wordNumber": "06.0251",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "能模仿人手和臂的某些动作功能，按固定程序或按操作人员的动作来抓取、搬运物件或操作工具的装置。在核领域，用于在屏蔽墙外操作放射性物质，进行维修、拆除、更换设备、搬用物品等作业，使操作人员与被操作的放射性"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.292",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。如远距离操作放射性物质。是最早出现的工业机器人和现代机器人，它可代替人的繁重劳动以实现生产的机械化和自动化，能在有害"
+  },
+  {
+   "cn": "操纵器",
+   "en": "manipulator",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0261",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_零部件与机构",
+   "subjectName": "零部件与机构",
+   "publishYear": "2013",
+   "definition": "集中操纵钻车、钻机及钻架作业的机构。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.001",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "自动化名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "象征符号",
+   "en": "symbol",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.038",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "一种以交际为目标，能参与沟通、代表事物，具有视听形象的表意系统。通常是一些用来指示、表达或理解对象、思想或关系的标记、标志和语词。符号能在概念与经验之间建立感知联系，具有某种物质形式，能指涉自身之外的"
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0416",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "表达一定事物或概念，具有简化特征的视觉形象。"
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.211",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地图上用来代表一个地理要素的图形样式。符号可以由许多特征定义，包括颜色、大小、形状、角度和样式。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "数学名词",
+   "wordNumber": "06.0488",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "数学名词",
+   "wordNumber": "01.0007",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "电子学名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "［地图］符号化",
+   "en": "symbolization",
+   "source": "测绘学名词",
+   "wordNumber": "04.262",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "制图对象或数据经综合处理后，选用恰当的符号表示在图上的过程。"
+  },
+  {
+   "cn": "符号操纵语言",
+   "en": "symbol manipulation language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基因操作",
+   "en": "gene manipulation\",\"genetic manipulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传操作,基因操作",
+   "en": "genetic manipulation\",\"gene manipulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图符号",
+   "en": "cartographic symbol\",\"map symbol",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网线",
+   "en": "ruling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "超微量化学操作",
+   "en": "ultramicrochemical manipulation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克标志",
+   "en": "Olympic symbol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仁政",
+   "en": "Benevolent Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霸道",
+   "en": "Despotic Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义政",
+   "en": "Proper Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据治理",
+   "en": "Data Governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台治理",
+   "en": "platform governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理科技",
+   "en": "Governance Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地方政府规章",
+   "en": "rule of local government",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关规章",
+   "subjectName": "放射卫生相关规章",
+   "publishYear": "2025",
+   "definition": "省、自治区、直辖市人民政府，设区的市人民政府，依照法定权限和程序制定的法律规范。"
+  },
+  {
+   "cn": "操纵",
+   "en": "manipulation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在服务对象与服务提供者的关系中，为使服务对象顺应服务提供者的目的而控制其自主决定的行为，包括为了取得某种效果而精心安排事实，不提供信息、夸大、歪曲事实真相或者撒谎。是同社会工作专业尊重个人自由和案主自"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类文化的一种信息传递方式，它依据类比联想的思维方式和约定俗成的习惯，以某些客观存在或想象中的外在事物以及其他可感知到的东西，来反映特定社会人们的观念意识、心理状态、抽象概念及各种社会文化现象。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一类人物或一类事物的、在特定的语境里高度抽象的集约性表述。包括表示意义系统的语言、文字、手势语、身体语言、图腾等符号系统。"
+  },
+  {
+   "cn": "象征主义",
+   "en": "symbolism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "通过比喻、隐喻、换喻等想象手法，实现“一个表示其他事物的事物”的实践与思维模式，以及注重相关理论、方法的研究行为。主要代表有格尔茨(C.Geertz）、道德拉斯（D.M.Douglas）。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "民俗象征",
+   "en": "folklore symbol",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0497",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一个事象作为基础，通过外部感触和情感认知达到对世界的认识和社会的理解，表现为一种民俗物质或民俗事件辐射出来的意义，反映了文化传统较为一致的社区或村落共享的文化精神。"
+  },
+  {
+   "cn": "数字译码",
+   "en": "digit symbol",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "韦氏成人智力量表的一个分测验项目，评价受试者感知-运动速度。"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体运用语言符号，理解自我与他人的行为与态度，从而在赋予行动以意义的基础上彼此互动的过程。此概念最先由美国社会学家库利、米德等人提出，后经一些学者补充、发展为“符号互动论”，进一步强调了符号交流在社会"
+  },
+  {
+   "cn": "符号消费",
+   "en": "symbolic consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.42",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "指向消费品所象征和代表的审美、品质、情调和气氛等符号意义的消费。消费的过程也是消费者进行意义建构、趣味区分、文化分类和社会关系再生产的过程。在这种消费中，消费的主体地位被取消了，商品所对应的外在符号体"
+  },
+  {
+   "cn": "象征性死亡",
+   "en": "symbolic death",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.42",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "唯独人类才拥有的意义及其价值的消亡，即非生物性死亡。例如一个时代或思想的消亡，日常生活中所见的政治、学术、艺术等象征性地终结其生命力，以及仪式中的生死、权力的新旧交替。同时也意味着另一种象征性生命的开"
+  },
+  {
+   "cn": "象征人类学",
+   "en": "symbolic anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0599",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪60-70 年代，西方社会个人主义兴起，人类学研究开始采用主观和个人的视角。20 世纪60 年代起，在后现代主义的影响下，人类学家对象征的研究成为一种思潮，象征人类学逐渐成为人类学界的主要研"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  },
+  {
+   "cn": "政府购买",
+   "en": "government purchase",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.26",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "政府向社会组织或其他组织支付资金，并由其来完成某些服务活动的做法，包括分购买项目和购买岗位两种基本形式。一般是由政府将其原来直接提供的公共服务事项，通过直接拨款或公开招标的方式，交给具有资质的社会服务"
+  },
+  {
+   "cn": "廉价政府",
+   "en": "cheap government",
+   "source": "马克思主义",
+   "wordNumber": "03.0109",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“廉价政府”最初是资产阶级革命提出的口号。马克思在总结巴黎公社的经验时赞扬公社真正实现了廉价政府的目标，因为它取消了常备军和官吏两项最大的开支。巴黎公社废除了官吏的高新和特权，所有公职人员领取相当于工"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "依法执政",
+   "en": "lawbased governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0677",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党坚持依法治国的基本方略，领导人民制定法律，自觉带头遵守法律，采取措施保证法律的实施，不断推进国家经济、政治、文化、社会生活的法制化、规范化，以法治的理念、法治的体制、法治的程序保证党领导人民有效治理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

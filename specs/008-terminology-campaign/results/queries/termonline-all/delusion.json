@@ -1,0 +1,722 @@
+{
+ "key": "delusion",
+ "term": "delusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:56:35+00:00",
+ "status": "ok",
+ "note": "variant=delusion; 审定公布名词库=678; 海峡两岸名词对照库=183; 其他来源数据库=26; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.963",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "一种在病理基础上产生的歪曲的信念、病态的推理和判断。既不符合客观现实，也不符合所受的教育水平，但患者对此坚信不疑，无法被说服，也不能以亲身体验和经历来纠正。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.059",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "患者对歪曲信念、病理推断或判断坚信不疑，无法被说服，也不能通过自身的体验和经历加以纠正的心理现象。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "在受检者意识清楚的情况下，不能被现实及自身经验所纠正的错误信念。不仅与现实不一致，与个体所处的背景和文化中公认的信念也不一致。常见于严重精神疾病受检者。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种在病理基础上产生的歪曲的信念、病态的推理和判断的病理性精神状态。不符合客观现实，也不符合认知水平，但患者对此坚信不疑，无法被说服，也不能以亲身体验和经历来纠正。常见于躁狂、抑郁和精神分裂症，也可见"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "老年医学名词",
+   "wordNumber": "04.467",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "一种在病理基础上产生的歪曲的信念、病态的推理和判断。它不符合客观现实，也不符合所受的教育水平，但患者对此坚信不移，无法被说服，也不能以亲身体验和经历来纠正。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "心理学名词",
+   "wordNumber": "10.149",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "病人对歪曲信念、病态推理和判断坚信不移，无法被说服，也不能通过亲身体验和经历加以纠正的现象。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.064",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "迫害妄想症",
+   "en": "persecutory delusion",
+   "source": "神经外科学名词",
+   "wordNumber": "10.121",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_精神障碍",
+   "subjectName": "精神障碍",
+   "publishYear": "2026",
+   "definition": "没有理由地坚信某些人或某些集团针对自身进行不利活动的病理性精神状态。常见于精神分裂症、偏执性精神病、抑郁症等患者。"
+  },
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.946",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "患者坚信自己体内某些脏器或整个自身，甚至自己周围的部分或整个世界均不复存在的心理现象。见于多种精神疾病如精神分裂症、意识模糊状态、脑炎、癫痫、阿尔茨海默病等，但大多数见于抑郁状态。"
+  },
+  {
+   "cn": "原发性妄想",
+   "en": "primary delusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.964",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "常突然形成，其内容无法以患者当时的处境和情感背景来解释的妄想。这种妄想持续时间较短，以后常被继发性妄想所取代。"
+  },
+  {
+   "cn": "原发性妄想",
+   "en": "primary delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.06",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在没有任何精神症状情况下突然出现的妄想。所蕴含的体验、知觉、思维活动和妄想性坚信同时发生，无法用心理活动规律来理解。"
+  },
+  {
+   "cn": "继发性妄想",
+   "en": "secondary delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.061",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "继发于其他精神病理状态的妄想。是对其他原发障碍的推理和解释。"
+  },
+  {
+   "cn": "系统化妄想",
+   "en": "systemized delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.075",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "有共同的主题且彼此之间有密切联系的各种妄想。"
+  },
+  {
+   "cn": "幻想性妄想",
+   "en": "fantastic delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.076",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在物理性和社会性方面都不存在、不可能的妄想。"
+  },
+  {
+   "cn": "疑病妄想",
+   "en": "hypochondriac delusion",
+   "source": "行为医学名词",
+   "wordNumber": "16.093",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "以罹患某种疾病为内容的妄想。往往有躯体疾病情况下不可能感受到的内脏不适或其他病理性体验。"
+  },
+  {
+   "cn": "幻想性妄想",
+   "en": "fantastic delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "在物理性和社会性方面都不存在可能性的妄想。如受检者坚信自己已经成仙，能够移山倒海。"
+  },
+  {
+   "cn": "疑病妄想",
+   "en": "hypochondriacal delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "以罹患某种疾病为内容的妄想。往往有躯体疾病情况下不可能感受到的内脏不适(如肠子被打了一个结，全身的血都被抽干了)或其他病理性体验(如幻听)。"
+  },
+  {
+   "cn": "非系统性妄想",
+   "en": "unsystematized delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.118",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "结构松散，内容不丰富、多变甚至片段零乱，叙述时也前后矛盾或不一致，缺乏严密逻辑推理的一类妄想。多见于精神分裂症受检 者。"
+  },
+  {
+   "cn": "继发性妄想",
+   "en": "secondary delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.108",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "继发于其他精神病理状态的妄想。如继发于情感高涨的夸大妄想，继发于记忆障碍的被偷窃妄想，继发于幻听的被迫害妄想等。"
+  },
+  {
+   "cn": "解释性妄想",
+   "en": "explanatory delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者的歪曲感受显得合理的妄想。如受检者感到很多陌生人都对自己跟踪盯梢，解释为这是一个组织串通了迫害他的证据。"
+  },
+  {
+   "cn": "妄想",
+   "en": "delusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继发性妄想",
+   "en": "secondary delusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "嫉妒妄想",
+   "en": "delusion of jealousy\",\"jealous delusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被害妄想",
+   "en": "delusion of persecution\",\"persecutory delusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系妄想",
+   "en": "delusion of reference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "股权稀释",
+   "en": "dilution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洗脱",
+   "en": "elution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "淋洗",
+   "en": "elution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "洗脱",
+   "en": "elution",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "洗脱",
+   "en": "elution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "妄想性障碍",
+   "en": "delusional disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树学习",
+   "en": "decision tree learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能决策体系",
+   "en": "AI decision system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根据点数判决胜负",
+   "en": "decision by points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优势裁决",
+   "en": "decision of superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "在合理控制下利用干净的空气或水使空气或水中的放射性浓度降低到控制水平以下的过程。"
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.26",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "将具有较高价值的液体成分与较低价值的液体成分相混合的食品欺诈行为和故意增加非活性成分或现已存在物质含量的行为。如使用水冲稀产品，使用可能有毒的茶树油冲稀橄榄油。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "稀释法",
+   "en": "dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用稀释液稀释消毒剂与试验微生物的混合液，使其不再抑制或杀灭微生物的方法。"
+  },
+  {
+   "cn": "稀释度",
+   "en": "dilution factor",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.19",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "表示溶液浓度降低的程度。消毒学试验中通常以十倍系列稀释为主。"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "飞行错觉",
+   "en": "flight illusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.8",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行人员在飞行中对飞机状态或飞机位置的错误知觉。"
+  },
+  {
+   "cn": "应用稀释法",
+   "en": "applied dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "采用定性方法评价消毒剂对不锈钢圆筒载体上试验微生物杀灭效果的检测方法。"
+  },
+  {
+   "cn": "终点稀释法",
+   "en": "endpoint dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "病毒灭活滴度的一种计算方法，以半数细胞感染剂量（TCID50）表示。"
+  },
+  {
+   "cn": "稀释离心法",
+   "en": "dilution centrifugation method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将微生物与消毒剂的作用液加入稀释液中，降低消毒剂浓度，再利用旋转离心力使微生物从消毒剂中沉降分离，去除残余消毒剂的试验方法。"
+  },
+  {
+   "cn": "琼脂稀释法",
+   "en": "agar dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.35.4.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将抑菌剂配制于固体培养基中而进行的最小抑菌浓度测定的试验方法。适用可溶性的液体、啫喱、半固体凝胶类、黏稠状抑菌剂及可溶性的固体抑菌剂的抑菌效果定量测定。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "权衡不同选择并考虑其不同后果以便作出正确决定的能力。有助于个体在面对健康方面的问题时，作出有利于自身健康的决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "负责任的决策",
+   "en": "responsible decision-making",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "在不同情况下对个人行为和社会交往作出体现关怀并具有建设性意义的选择的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
